@@ -1,19 +1,59 @@
-Vi lager en arbeidsrapport.
+# Fjordgata 30 – Prosjektkontekst
 
-De som skal lese rapporten:
-Kulturminnefondet. Prosjektet har fått 750000 kr i støtte.
-Byantikvaren. Prosjektet har fått 500000 i støtte.
-De to ovennevnte ønsker ikke å utbetale penger med mindre vi har gjort fysisk arbeid. vi har ærlig talt brukt mye penger på å planlegge aktiviteter, og har ført i de siste 6 mnd begynt å gjøre fysisk arbeid. Det har gått lang tid siden de gav oss tilskudd, de begynner å bli utålmodig og er usikker på om prosjektet blir noe av. Vi må overbevise dem om at det blir noe av.
+## Hva er dette
 
-Trondheim brannvesen: de ønsker at vi skulle sprinklet bygget for flere år siden. Det har gått tregt, fordi det er et komplekst bygg og usikkert prosjekt økonomisk. De har gitt oss dagbøter på 2000 kr pr dag som vi mener er lovstridig. Vi skal bruke rappoerten til å dokumentere framdrift ovenfor dem slik at de skjønner at dette faktisk blir noe av, men at de ikke må tappe oss for penger i mellomtiden og dermed pungere hele prosjektet.
+KodeWorks Eiendom AS rehabiliterer Fjordgata 30 i Trondheim (en gammel brygge) til minilager. Prosjektet drives av Eirik Larsen. Kristian og Ole Morten utfører fysisk arbeid. Rammesøknad ble levert 12. mai 2026.
 
-arbeid_*.txt er rapport på rehab arbeid vi har gjort i det siste (kristian og ole morten er med i prosjektet).
-referat: dette er møtereferat mellom kodeworks eiendom, sahaa, kmte og hrp som er avholdt de siste 7 ukene.
-bakgrunn: søknader, prosjektbeskrivelse, diverse. Dette er filer som var brukt til chatgpt bakgrunn for en custom gpt.
-status.txt: beskrivelse av hva som foregår og hvor vi er på vei.
+Se `TASKS.md` for oppgaveliste og status.
 
-Lag arbeidsrapporten stor og omfattende slik at den addresserer stakeholdernes bekymringer.
+---
 
-filnavn: fg30_arbeidsrapport.md
+## Interessenter
 
-Lag den sånn at den blir pen når den konverteres til docx med pandoc (ikke test pandoc kommandoen, bare gjør ditt beste).
+| Part | Relasjon | Bekymring |
+|------|----------|-----------|
+| **Kulturminnefondet** | Har gitt 750 000 kr i tilskudd | Vil se fysisk arbeid før utbetaling; utålmodig |
+| **Byantikvaren** | Har gitt 500 000 kr i tilskudd | Vil se fysisk arbeid; bekymret for steinmur i kjeller |
+| **Trondheim Brannvesen / TBRT** | Tilsynsmyndighet | Krever sprinkleranlegg; har ilagt dagbøter 2 000 kr/dag (bestridt) |
+| **Enova** | Støttegiver | Framdriftsrapportering |
+| **Stiftelsen UNI** | Støttegiver | Framdriftsrapportering |
+| **Bank** | Finansiør | Trenger oversikt over alle støttemidler |
+
+Alle rapporter og dokumenter skal overbevise om at prosjektet er reelt og fremdriften er god.
+
+---
+
+## Filer og mapper
+
+```
+fjordgata30/
+├── CLAUDE.md                  – dette dokumentet (prosjektkontekst for AI)
+├── TASKS.md                   – oppgaveliste med status
+├── status.txt                 – prosjektbeskrivelse og fremdrift
+├── fg30_arbeidsrapport.md     – ferdig arbeidsrapport (Pandoc-klar Markdown → .docx)
+├── fg30_arbeidsrapport.docx   – konvertert Word-versjon
+├── arbeid_kristian.txt        – arbeidslogg, Kristian
+├── arbeid_ole_morten.txt      – arbeidslogg, Ole Morten
+├── ai_feedback.txt            – tilbakemeldinger fra AI-verktøy
+├── referat/                   – møtereferater (Statusmøte 01–05)
+├── bakgrunn/                  – søknader, prosjektbeskrivelse, bakgrunnsdokumenter
+└── brann/                     – branndokumentasjon, brannkonsept, TBRT-redegjørelse
+```
+
+---
+
+## Arbeidsregler
+
+- **Tillatelser:** Spør alltid om tillatelse før du kjører kode eller rører filer utenfor prosjektmappen (`fjordgata30/`), selv om du kjører med `--dangerously-skip-permissions`. Dette gjelder bl.a. lesing fra `../stotte` eller andre naboprosjekter – les der, men skriv aldri dit uten eksplisitt godkjenning.
+- **Task-dokumentasjon:** Når en oppgave er løst, dokumenter løsningen under oppgavens kontekst-seksjon i `TASKS.md` og marker statusen som `[x]`. Ikke bare oppdater status uten å notere hva som ble gjort og hvilke filer som ble opprettet/endret.
+- **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`
+- **Spør før suboptimal fremgangsmåte:** Hvis du ser at du er i ferd med å gjøre noe på en ineffektiv måte (mange trinn, store tokenkostnader, omveier), stopp og spør brukeren om de er sikre på at de vil at du skal fortsette slik – selv om du kjører med `--dangerously-skip-permissions`.
+
+---
+
+## Tone og format
+
+- Alle dokumenter skrives på norsk (bokmål)
+- Rapporter som skal til eksterne parter formateres i Markdown slik at de ser bra ut konvertert til `.docx` med Pandoc
+- Vær konkret og faktabasert – ikke prøv å "selge inn" prosjektet med tomme ord, men la faktisk dokumentert arbeid tale for seg
+- Adresser stakeholdernes bekymringer direkte i hvert dokument

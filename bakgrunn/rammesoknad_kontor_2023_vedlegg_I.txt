@@ -1,0 +1,397 @@
+I-01
+
+E-post for SAAHA AS - Fwd: Fjordgata 30, søknad om dispensasjon - Graving i grunn
+
+28.06.2023, 15:55
+
+Mikael Hesslund <mikael@saaha.no>
+
+Fwd: Fjordgata 30, søknad om dispensasjon - Graving i grunn
+Adnan Harambasic <adnan@saaha.no>
+Til: Mikael Hesslund <mikael@saaha.no>
+
+14. juni 2023 kl. 09:56
+
+Videresendt melding:
+Fra: "Skoglund, Sissel Ramstad" <sissel.ramstad.skoglund@ra.no>
+Dato: 14. juni 2023 kl. 09:54:13 CEST
+Til: Mats Rønning Antonsen <matron@hrpas.no>
+Kopi: Adnan Harambasic <adnan@saaha.no>, eirik.larsen@kodework.no, Ole Morten
+Lagmannssveen <ola@hrpas.no>
+Emne: SV: Fjordgata 30, søknad om dispensasjon - Graving i grunn
+
+Hei igjen
+
+Som nevnt på telefonen, så krever kommunen vanligvis ikke at dispensasjon etter kulturminneloven
+foreligger før de gir rammetillatelse. Det er vanlig at søknad om dispensasjon behandles etter at
+rammetillatelse er gitt, men dispensasjon må være gitt før kommunen kan gi igangsettingstillatelse.
+Det er imidlertid positivt at vernemyndighetene er orientert om en sak før det søkes om
+rammetillatelse.
+
+Jeg foreslår at dere hører med kommunen om de ønsker en form for forhåndsuttalelse fra oss i
+forbindelse med rammesøknad. Ellers bør det være uproblematisk at vår behandling skjer etter at
+dere har kommet litt lenger i planleggingen. Vi har ikke mulighet til å behandle en
+dispensasjonssøknad før saken er godt nok opplyst til at vi kan overskue alle potensielle
+konsekvenser for kulturminner.
+
+Vi avtaler i alle tilfelle et møte med Trøndelag fylkeskommune og NTNU Vitenskapsmuseet nå for å
+orientere dem om saken, med tanke på skipsfunn jf. kulturminneloven § 14.
+
+Med vennlig hilsen
+
+Sissel Ramstad Skoglund
+seniorrådgiver / arkeolog
+seksjon for arkeologiske kulturminner
++47 982 02 856
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search…sgid=msg-f:1768663954951750745&simpl=msg-f:1768663954951750745
+
+Side 1 av 6
+
+
+
+
+I-02
+
+Beskrivelse av uttaket
+Trondheim kommune er forespurt for å vurdere muligheten for sprinkleruttak til Fjordgata 30. Det er for tiden ikke
+mulig å utføre simuleringer med nettmodellen. Dersom det er behov for dette kan det utføres i august 2023.
+Fjordgata 30 med vannledningsnett og kommunale vannkummer er vist på figuren nedenfor.
+
+Figur: Fjordgata 30. Eksisterende brannkummer er markert med rødt.
+Sprinkleranlegget er ikke dimensjonert ennå. Utbyggeren oppgir et antatt behov for 15 l/s for sprinkling.
+Tilgjengelig slokkevann
+Kommunal vannledning i Fjordgata ved nr 30 har kapasitet til å levere >50 l/s slokkevann i alle brannkummer.
+Dette er tilstrekkelige vannmengder for å sikre brannvesenets behov for slokkevann. Avstand til brannkummer må
+vurderes iht TEK 17 §11-17, pkt 2 og i samråd med TBRT (Trøndelag Brann og redningstjeneste). Dersom avstand
+vurderes å være for lang, kan aktuelt tiltak være å montere brannventiler i eksisterende kommunale kummer som
+ikke har dette pr dato.
+Tilgjengelig vann til sprinkling
+Det vil være mulig å sprinkle bebyggelsen med 15 l/s fra kommunalt vannforsyningsnett. Normalt trykk i området
+(resttrykk) er ca 65 mVs. Det er imidlertid ikke mulig å si hva resttrykk vil være ved et uttak på 15 l/s før man har
+kjørt en modellsimulering.
+Konklusjon
+Utbygger etterspør om det er mulig med et sprinkleruttak på 15 l/s. Et foreløpig svar er at dette vil være mulig, men
+at man ikke kan utføre en simulering av resttrykk før etter sommeren 2023.
+Det må derfor sendes en konkret forespørsel om sprinkleruttak (kum og krav til trykk og vannmengde) når
+sprinkleranlegget er prosjektert, før en endelig tilbakemelding kan gis fra kommunen.
+Det må tas høyde for at brannvesenet stenger sprinkleranlegg og evt. etterfylling av tank når de starter eget
+slokkearbeid.
+Trondheim kommune forbeholder seg retten til å endre på trykkforholdene i vannforsyningssystemet i kommunen.
+Dette betyr at man i framtiden for eksempel kan ha lavere trykk på nettet. Dette kan medføre at det ikke kan
+leveres de samme mengdene vann og trykk som i dag. Ved slike endringer på nettet, vil huseier varsles, men det
+er denne som må bære kostnadene for eventuelle avbøtende tiltak (for eksempel lokal pumpe eller tank).
+Ved etablering av nye sprinkleruttak skal disse plangodkjennes av Trondheim kommune, Kommunalteknikk (lenke
+til skjema). Anleggets kapasitetsbehov meldes inn via sanitærmeldingen til Trondheim kommune.
+
+Det forutsettes at det private anlegget utføres i henhold til Sanitærreglementet for Trondheim kommune. Det vises
+til sanitærreglementet del 2.
+Beskyttelsesmoduler skal installeres i henhold til beskrivelse i NS-EN 1717. For abonnenter der de enkelte
+tappestedene ikke er utstyrt med beskyttelsesutstyr i tråd med NS-EN 1717, skal det installeres beskyttelsesmodul
+ut fra den høyeste væskekategorien (farligste væske) som håndteres i hele virksomheten. Ved nyanlegg vil det
+være godkjent prosjekterende foretak som, på vegne av tiltakshaver, skal prosjektere korrekt beskyttelse i forhold
+til væskekategori på omsøkte eiendom. Det skal meldes inn korrekt tilbakeslagssikring via sanitærmeldingen til
+Trondheim kommune.
+Det forutsettes at anlegg som skal overtas av Trondheim kommune utføres i henhold til Trondheim kommunes
+VA-norm med tilhørende standard prosjektbeskrivelse og normtegninger (www.va-norm.no/trondheim/).
+Evt. test av sprinkleranlegg skal søkes om på forhånd til Trondheim bydrift (lenke til skjema). Tillatt maksimalt
+vannuttak vil beregnes. Test av anlegget før dette er gjort tillates ikke.
+
+Besvart 15.06.2023 av Birgitte Gisvold Johannessen, Trondheim kommune, Kommunalteknikk
+
+Side 2 av 2
+
+
+
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+I-03
+Mikael Hesslund <mikael@saaha.no>
+
+Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+Silje Taftø Petersen <silje-tafto.petersen@trondheim.kommune.no>
+3. juli 2023 kl. 15:17
+Til: Adnan Harambasic <adnan@saaha.no>
+Kopi: Roy Åge Håpnes <roy.age.hapnes@trondheim.kommune.no>, Mikael Hesslund <mikael@saaha.no>, Eirik
+Larsen <eirik.larsen@kodeworks.no>
+Hei og takk for det oversendte materialet.
+Vi har nå sett på hele prosjektet i vår faggruppe og byantikvaren har følgende uttalelse til materialet til
+rammesøknad:
+Dette er slik vi ser det et prosjekt som har forstått bryggas egenart og basert på dette utviklet et prosjekt som
+bygger videre på bygningens eksisterende kvaliteter.
+Under har vi kommentert noen punkter som vi mener det er viktig at blir fulgt opp. Dette er slik vi ser det mindre
+justeringer av prosjektet som helhet.
+Porter:
+Vi har diskutert de ulike portløsningene i vår faggruppe og har kommet til at vi i denne saken primært vil anbefale
+intrukkede glassbokser hvor portene står åpne. Se skisse under. Denne løsningen er vårt primære ønske i alle
+brygger da det viderefører portene i eksteriøret og de sikres ivaretatt i større grad enn om de blir en del av
+interiøret. Det er også en løsning vi mener fungerer godt med tanke på bryggas arkitektoniske uttrykk.
+
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 1 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+Som nevnt tidligere i denne saken er vi i gang med en pilot på en brygge i Kjøpmannsgata hvor det skal testes ut
+hvordan løsningen med å sette glass helt ut i portåpningen vil fungere. Dette er enda ikke gjort og vi har derfor
+ikke kunnet vurdere denne løsningen.
+Dersom dette blir vurdert som en god løsning kan det være aktuelt å anbefale denne løsningen mot elva i
+Fjordgata 30. Vi kan derfor anbefale at man til rammesøknaden søker om glassbokser omkring portene og
+eventuelt endrer dette til IG mot elva dersom det blir en løsning vi kan anbefale.
+Flytebrygge:
+Byantikvaren har ingen innvendinger til den skisserte løsningen i kanalen. Det er viktig at den trekkes unna brygga
+som vist slik at fasaden kan oppleves i sin helhet.
+
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 2 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 3 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+Fasade mot gate:
+
+Foto av Fjordgata 30 hentet fra WikiStrinda. Ukjent årstall.
+
+Fasade mot gate:
+
+Over har vi laget en enkel skisse av hvordan fasaden mot gaten kan utvikles med det historiske fotoet som
+forlegg. De eksisterende vinduene i fasaden er tegnet som hele ruter med sprosser, noe som ikke stemmer med
+dagens fasade. Vinduene er inndelt i fag som igjen er underdelt i sprosser. Dette er det viktig å få med på
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 4 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+tegningene.
+Fasade mot elva
+Fasaden mot elva har over år fått et noe uheldig uttrykk, noe som bør ryddes opp i når man skal i gang med
+denne store transformasjonen av brygga. Fasaden under synliggjør dette:
+
+Under har vi lagt inn noen historiske foto som kan benyttes som forlegg når man skal tegne opp denne fasaden.
+
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 5 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+Foto fra 1910-1930 før bryggen fikk to ekstra etasjer.
+
+Avisutklipp som ut ufra det vi kan se viser denne bryggen helt til høyre i fotoet. (https://ntnu.tind.io/record/89378?
+ln=no#?xywh=-1394%2C-1%2C6377%2C2592)
+Årstall for dette utklippet er usikkert.
+Under har vi tatt utgangspunkt i disse fotoene og sett på en løsning for å rydde litt opp i fasaden. Der hvor det i
+første etasje er satt inn vinduer i portåpningene bør man behandle disse åpningene på lik måte som i de øvrige
+portene i brygga. Ut i fra historiske foto har det også vært porter i underetasjen og i første etasje ut mot sidene.
+Dette bør undersøkes nærmere som en løsning.
+
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 6 av 8
+
+E-post for SAAHA AS - Fjordgata 30 - Byantikvarens uttalelse til tegninger til Rammesøknaden
+
+04.07.2023, 11:39
+
+Ventilasjon
+Vi forstår det slik at ventilasjonsanlegget er prosjektert slik at det blir flere mindre aggregat fordelt mellom noen
+etasjer. En slik løsning er vi positive til da det gir mindre føringer rundt i brygga. Denne løsningen medfører noen
+flere hull i bryggas langvegg, noe som aksepteres forutsatt at de er brannsikre og ikke medfører en høyere risiko
+for brannspredning mellom bryggene.
+Solskjerming
+På historiske bygninger og bygningsmiljø som dette er vi primært negative til etablering av solceller på taket, da
+dette er bygningens femte fasade og en viktig del av bygningsmiljøet. På denne bygningen med et slakt tak som
+trolig har vært tekket med papp siden etablering kan man kanskje gjøre en annen vurdering dersom man kan vise
+til en helintegrert løsning med matte solcellepaneler i en båndtekking. Før vi kan gi vår endelige uttalelse i forhold
+til dette må vi se det ytterligere illustrert og med visualiseringer som viser hvordan dette faktisk vil se ut.
+I andre bryggeprosjekter i Kjøpmannsgata ser vi at flere undersøker muligheten for å bruke elva som
+energikilde/varmekilde. Vi er usikre på om dette også vil kunne være en mulighet i kanalen.
+
+-Med vennlig hilsen
+
+Silje Taftø Petersen
+arkitekt
+Byantikvaren
+Enhet for kart og arkitektur
+Trondheim kommune/Tråanten tjïelte
+Mobil: 97042364 - Sentralbord: 72 54 25 00
+trondheim.kommune.no/byantikvaren
+https://mail.google.com/mail/u/0/?ik=a11208f541&view=pt&search=…sgid=msg-f:1770405502795471121&simpl=msg-f:1770405502795471121
+
+Side 7 av 8
+
+
+
+
+I-04
+Vår dato
+
+Vårreferanse
+
+05.10.2023
+
+23/00182-2
+
+Deresdato
+
+Deresreferanse
+
+1 av 1
+
+Trondheim Havn
+IKS
+Skippergata14
+Trondheim
+
+Uttalelse - Fjordgata 30
+TrondheimHavner et interkommunaltselskapeid av 14 Trønderskekommuner.Ved sin inntreden i
+havneselskapethar dissekommunenedelegertsin forvaltningetter havne- og farvannslovenav de
+kommunalesjøområdenetil TrondheimHavn.Sidenflytebryggentilknyttet Fjordgata30 ønskes
+plasserti Trondheimkommunessjøområdeuttaler derfor TrondheimHavnsegom bryggens
+plassering.
+I våre vurderingerleggervi spesieltvekt på formålet i havne- og farvannsloven:
+Lovenskal fremme sjøtransportsom transportform og leggetil rette for effektiv, sikkerog
+miljøvennligdrift av havnog bruk av farvann,samtidigsom det skal tas hensyntil et
+konkurransedyktignæringsliv.Lovenskal ivareta nasjonaleforsvars- og beredskapsinteresser.
+TrondheimHavnhar ingen innsigelserpå plasseringav flytebryggetilknyttet Fjordgata30, som vist på
+mottatte tegninger.
+Førdet kan gis igangsettingstillatelsetil etableringav flytebryggemå det foreliggeen
+godkjent søknadetter havne- og sjøfartsloven.Dennesøknadensendes til TrondheimHavn,og skal
+blant annet inneholdetegningerav flytebrygge,beskrivelseav hvordanskalbrukes,samt beskrivelse
+av festemetoder.
+
+TrondheimHavn
+Terje R.Meisler
+Sjefhavnedrift
+
+Saksbehandler
+TerjeR.Meisler
+meisler@trondheimhavn.no
+
+Postadresse
+TrondheimHavnIKS
+PB1234Torgard
+7462Trondheim
+
+Org.nr.
+942 510 552
+Telefon:
+73 99 17 00
+
+E-post:
+firmapost@trondheimhavn.no
+Web:
+trondheimhavn.no
+
+
+
+
+I-05
+
+ÿ123ÿ4255678ÿ97625ÿ
+
+ÿÿÿÿ
+
+ÿ72ÿ
+ÿ5 425ÿ
+ÿ!592ÿ"#ÿÿ#8ÿ72$ÿ
+ÿ%#53927&ÿ#&&$52'%(525ÿ)*262ÿ
+ÿ1#+76,ÿ-./01230ÿ4ÿ5256+#3,ÿ.1ÿ60ÿ16ÿ//ÿ
+ÿ89:;<=>?@AB:@@C;>A;:DEFG;8?BHG9>;ÿ
+
+
+
+
+Byggesakskontoret
+
+Informasjon om krav til ferdigattest for byggetiltak etter plan- og bygningsloven
+Det nedenfor gjelder tiltak som går inn under plan- og bygningsloven § 93.
+Etter plan- og bygningslovgivningen har det alltid vært et krav til ferdigattest. Imidlertid har
+Trondheim kommune før lovendringen som trådte i kraft 01.07.1997 ikke brukt ressurser på å følge
+opp de saker hvor kun midlertidig brukstillatelse har vært innhentet. I saker som er innkommet i
+perioden 01.07.1997 til 31.12.1997 var det valgfritt om man ville ha saken behandlet etter det nye
+eller det gamle regelverket. Fra 01.01.1998 kunne man ikke lenger velge, og saken måtte behandles i
+tråd med det nye regelverket.
+I saker hvor det er innhentet midlertidig brukstillatelse for tiltak omsøkt før 01.01.1998, vil det ikke
+bli krevd at ferdigattest innhentes i ettertid for å få en nødvendig avslutning av byggesaken.
+Forutsetningen er at byggetiltaket er omsøkt og godkjent av bygningsmyndigheten, samt at det er
+oppført i samsvar med gitt tillatelse.
+Hvor midlertidig brukstillatelse ikke er innhentet for saker før 01.01.1998, eller ferdigattest ikke er
+innhentet for saker etter 01.01.1998, vil byggesaken ikke være korrekt avsluttet. Trondheim
+kommune kan vurdere ulovlighetsoppfølging for å få brakt disse byggetiltakene i samsvar med lovens
+krav.
+For å få en korrekt avslutning av disse byggetiltakene må det innhentes ferdigattest fra
+bygningsmyndigheten i ettertid. Tiltakshaver bør da gå tilbake til de ansvarlige aktører som ble
+benyttet for byggetiltaket og sørge for at de forestår nødvendig kontroll og dokumentasjon av tiltaket i
+samsvar med plan- og bygningslovgivningen. Dersom det ikke er mulig å benytte de samme
+ansvarlige foretak for å innhente ferdigattesten i ettertid, kan tiltakshaver engasjere et nytt foretak
+som har de nødvendige ansvarsretter til å foreta kontroll av utførelse og anmode om ferdigattest i
+ettertid. Dersom foretaket ikke er gitt de nødvendige ansvarsretter i saken, må dette omsøkes og
+godkjennes av bygningsmyndigheten før det anmodes om ferdigattest.
+Det rettslige grunnlaget
+Gjeldende plan- og bygningsloven (pbl.) § 99 sier at:
+1. Når et tiltak som går inn under § 93 er ferdig, skal den kontrollansvarlige foreta sluttkontroll.
+Sluttkontrollen skal også omfatte utearealer, adkomst og andre vilkår som eventuelt er stilt i
+tillatelsen. Når det er ubetenkelig kan kommunen bestemme at sluttkontroll kan utelates ved mindre
+tiltak.
+For bygningstekniske installasjoner kan det gis driftstillatelse før de skal tas i bruk. Driftstillatelsen
+kan være tidsbegrenset og skal følge den enkelte installasjon.
+Finnes tiltaket utført i samsvar med tillatelsen og gjeldende bestemmelser, skal kommunen utstede
+ferdigattest. Tiltaket eller i tilfelle vedkommende del av det, må ikke brukes før ferdigattest er gitt.
+
+Side 2
+
+2. Finnes det mangler av mindre vesentlig betydning, kan likevel midlertidig brukstillatelse gis, når
+kommunen finner det ubetenkelig. Manglene skal da rettes innen en frist som settes av kommunen.
+Kommunen kan kreve at det stilles sikkerhet for at manglene blir rettet.
+3. Kommunen kan også etter foretatt sluttkontroll gi midlertidig brukstillatelse for del av tiltaket, når
+kommunen finner det ubetenkelig at vedkommende del tas i bruk før hele tiltaket er ferdig.”
+Før lovrevisjonen i 01.01.1997 krevde også plan- og bygningsloven midlertidig brukstillatelse eller
+ferdigattest fra bygningsmyndighetene.
+
+Plan- og bygningsloven av 1965 hadde følgende bestemmelse i § 99:
+1. Når et arbeid som går inn under § 93 er ferdig, skal bygningsrådet la arbeidet besiktige. Finnes
+arbeidet utført i samsvar med tillatelsen og gjeldende bestemmelser, skal ferdigattest gis. Bygningen,
+innretningen eller i tilfelle vedkommende del av den, må ikke brukes før ferdigattest er gitt.
+2. Finnes det mangler av mindre vesentlig betydning, kan likevel midlertidig brukstillatelse gis, når
+rådet finner det ubetenkelig. Manglene skal da rettes innen en frist som settes av bygningsrådet.
+Bygningsrådet kan kreve at det stilles sikkerhet for at manglene blir rettet.
+3. Bygningsrådet kan også etter foretatt besiktigelse gi midlertidig brukstillatelse for del av bygning
+eller innretning, når rådet finner det ubetenkelig at vedkommende del tas i bruk før hele arbeidet er
+ferdig.
+Lov om bygningsvesenet av 1924 hadde tilsvarende bestemmelse i §§ 142 og 143.
+
+65576/08
+
+
+
+
+Kode
+1
+
+Fjordgata 30
+
+Verket
+
+Kode
+

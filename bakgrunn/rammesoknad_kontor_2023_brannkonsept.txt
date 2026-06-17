@@ -1,0 +1,3016 @@
+FJORDGATA 30
+BRANNKONSEPT TIL
+RAMMESØKNAD
+
+FJORDGATA 30
+
+Revisjon
+
+00
+
+Dato
+
+2023-06-23
+
+Utført av
+
+Tonje Aunaas Wik
+
+Kontrollert av
+
+Dag Denstad
+
+Godkjent av
+
+Dag Denstad
+
+Beskrivelse
+
+Brannkonsept – overordnet til søknad om rammetillatelse
+
+Oppdragsnummer
+
+1350056208
+
+Oppdragsgiver
+
+KodeWorks Eiendom AS
+
+Vår ref.
+
+C:\bms\ramboll-nl-pw.bentley.com_ramboll-nl-pw-09\d0619818\F-RAP-001
+Fjordgata 30 - Brannteknisk konsept til rammesøknad.docx
+
+FORORD
+Rambøll Norge AS er engasjert av KodeWorks Eiendom AS for å ivareta ansvar for brannteknisk
+rådgiving i forbindelse med ombygging og oppussing av brygga i Fjordgata 30. Bygget skal benyttes til
+arrangements- og kafevirksomhet i første og sokkeletasje, og kontorvirksomhet i øvrige etasjer.
+Dette notatet gjengir de overordnede forutsetninger til konstruksjoner, bygningsdeler samt
+branntekniske tiltak som må oppfylles for at bygget skal tilfredsstille branntekniske krav, i samsvar
+med funksjonskrav i Byggteknisk forskrift (TEK17). Notatet er ikke å anse som fullstendig brannteknisk
+prosjekteringsunderlag, kun grunnlag for søknad om rammetillatelse og for videre detaljering og
+bearbeiding av prosjektet i detaljfasen. Notatet er basert på planløsning og avklaringer pr. 15.06.2023.
+Det kan bli endringer av krav og forutsetninger som følge av den videre prosjekteringen, som kan
+endre de branntekniske løsningene.
+Brygga i Fjordgata 30 ligger ved krysset mellom jernbanebrua og Søndre gate, og er en del av
+bryggerekka mellom Fjordgata og kanalen. Brygga ble bygd i 3 etasjer, like etter bryggebrannen i
+1857, og påbygd to etasjer i 1904. Den har i dag en vernegrad i kategori C: Antikvarisk verdi, men
+med forslag om datering til kategori B: Høy antikvarisk verdi. Brygga som har en grunnflate på ca. 576
+m2, består av fem etasjer i tillegg til underetasje, og har et totalt areal på ca. 2655 m2.
+
+Figur 1: Ortofoto av Fjordgata 30.
+
+REVISJONSHISTORIKK
+Revisjon
+
+Dato
+
+Utført
+
+Kontrollert
+
+Godkjent
+
+00
+
+2023-06-23
+
+TOAW
+
+DDD
+
+DDD
+
+Beskrivelse
+
+Til rammesøknad
+
+C:\bms\ramboll-nl-pw.bentley.com_ramboll-nl-pw-09\d0619818\F-RAP-001 Fjordgata 30 - Brannteknisk konsept til rammesøknad.docx
+
+INNHOLDSFORTEGNELSE
+1.
+
+2.
+
+3.
+
+4.
+
+INNLEDNING
+
+1
+
+1.1
+
+Identifisering av tiltaket
+
+1
+
+1.2
+
+Ansvarsoppgave i henhold til Byggesaksforskriften (SAK 10)
+
+2
+
+1.3
+
+Gjeldende regelverk
+
+2
+
+1.4
+
+Tilleggskrav fra tiltakshaver, myndighetene, tiltakshaver eller bruker
+
+2
+
+1.5
+
+Dokumentasjonsform
+
+3
+
+GRUNNLAG OG FORUTSETNINGER FOR BRANNTEKNISK PROSJEKTERING
+
+4
+
+2.1
+
+Litt om historien, jfr. Trondheim kommunes kartdata
+
+4
+
+2.2
+
+Ny bruk
+
+5
+
+2.3
+
+Myndighetsbehandling
+
+5
+
+2.4
+
+Grunnlagsdokumentasjon
+
+6
+
+2.5
+
+Forutsetninger for byggeobjektet og virksomheten i bygget
+
+7
+
+2.6
+
+Forutsetninger for beredskap
+
+10
+
+2.7
+
+§11-2 Risikoklasse og § 11-3 Brannklasse
+
+10
+
+BESKRIVELSE AV BRANNTEKNISKE YTELSESKRAV
+
+12
+
+3.1
+
+Identifiserte fravik fra VTEK
+
+12
+
+3.2
+
+Oversikt over brannteknisk dokumentasjon
+
+12
+
+3.3
+
+§11-4 Bæreevne og stabilitet
+
+13
+
+3.4
+
+§11-5 Sikkerhet ved eksplosjon
+
+13
+
+3.5
+
+§11-6 Tiltak mot brannspredning mellom byggverk
+
+14
+
+3.6
+
+§11-7 Brannseksjoner
+
+15
+
+3.7
+
+§11-8 Brannceller
+
+15
+
+3.8
+
+§11-9 Materialer og produkters egenskaper ved brann
+
+18
+
+3.9
+
+§11-10 Tekniske installasjoner
+
+19
+
+3.10
+
+§11-11 Generelle krav om rømning og redning
+
+23
+
+3.11
+
+§11-12 Tiltak for å påvirke rømnings- og redningstider
+
+24
+
+3.12
+
+§11-13 Utgang fra branncelle
+
+26
+
+3.13
+
+§11-14 Rømningsveier
+
+28
+
+3.14
+
+§11-15 Tilrettelegging for redning av husdyr
+
+30
+
+3.15
+
+§11-16 Tilrettelegging for manuell slokking
+
+30
+
+3.16
+
+§11-17 Tilrettelegging for rednings- og slokkemannskap
+
+30
+
+IDENTIFISERTE FRAVIK FRA YTELSER I VTEK
+
+33
+
+4.1
+
+Identifiserte fravik
+
+33
+
+4.2
+
+Generelt vedrørende fraviksbehandlingen
+
+34
+
+5.
+
+SPESIELT I FORHOLD TIL UTFØRELSESFASEN
+
+35
+
+6.
+
+SPESIELLE KRAV TIL DRIFTSFASEN
+
+36
+
+7.
+
+LITTERATURHENVISNINGER
+
+37
+
+C:\bms\ramboll-nl-pw.bentley.com_ramboll-nl-pw-09\d0619818\F-RAP-001 Fjordgata 30 - Brannteknisk konsept til rammesøknad.docx
+
+FIGURER
+Figur
+Figur
+Figur
+Figur
+Figur
+Figur
+Figur
+Figur
+Figur
+Figur
+
+1: Ortofoto av Fjordgata 30. ............................................................................................... 3
+2: Utsnitt av foreløpig situasjonsplan datert 31.05.23 ............................................................ 1
+3: Historisk foto av Fjordgata 30 etter ca. år 1950. ................................................................ 4
+4: Historisk foto av Fjordgata 30 mellom år 1950-1977. ......................................................... 4
+5: Historisk foto av Fjordgata 30 mellom år 1980-1994. ......................................................... 4
+6: Fasade mot kanalen hvor ev. flytebrygge planlegges, bildet er tatt ved lavvann. ................... 5
+7: Fjordgata 30. ................................................................................................................ 7
+8: Snitt Fjordgata 30. ......................................................................................................... 7
+9: Ny flytebrygge for mulig opphold. .................................................................................... 8
+10: Skjerming av utgang til det fri fra spiraltrapp må avklares. ............................................. 29
+
+TABELLER
+Tabell
+Tabell
+Tabell
+Tabell
+Tabell
+Tabell
+Tabell
+Tabell
+Tabell
+
+1:
+2:
+3:
+4:
+5:
+6:
+7:
+8:
+9:
+
+Grunnlagsdokumenter ................................................................................................... 6
+Areal og virksomhet ...................................................................................................... 7
+Personbelastning .......................................................................................................... 8
+Risikoklasser .............................................................................................................. 10
+Brannklasser - del 1. ................................................................................................... 11
+Brannklasser - del 2. ................................................................................................... 11
+Fravik fra VTEK. ......................................................................................................... 12
+Brannteknisk dokumentasjon ....................................................................................... 12
+Fravik fra VTEK, oversikt ............................................................................................. 33
+
+VEDLEGG
+Vedlegg 1: Branntekniske tegninger jf. tegningsliste.
+
+C:\bms\ramboll-nl-pw.bentley.com_ramboll-nl-pw-09\d0619818\F-RAP-001 Fjordgata 30 - Brannteknisk konsept til rammesøknad.docx
+
+FORKORTELSER SOM ER BENYTTET
+ARK
+LARK
+RIB
+RIBr
+RIE
+RIV
+RIVA
+
+Ansvarlig
+Ansvarlig
+Ansvarlig
+Ansvarlig
+Ansvarlig
+Ansvarlig
+Ansvarlig
+
+prosjekterende
+prosjekterende
+prosjekterende
+prosjekterende
+prosjekterende
+prosjekterende
+prosjekterende
+
+Arkitekt
+Landskapsarkitekt
+Byggeteknikk
+Brannteknikk
+Elektrotekniske fag
+VVS-tekniske fag
+utvendige Vann og Avløpsanlegg
+
+KPR
+KUT
+PRO
+SØK
+SHA
+
+Uavhengig kontrollerende for prosjektering
+Uavhengig kontrollerende for utførelse
+Ansvarlig prosjekterende
+Ansvarlig søker
+Byggherrens koordinator for Sikkerhet Helse og Arbeidsmiljø iht. Byggherreforskriften
+
+PBL
+FOBTOT
+SAK10
+TEK17
+VTEK
+
+Plan- og bygningsloven
+Forskrift om brannforebyggende tiltak og tilsyn [1]
+Byggesaksforskriften 2010 [2]
+Teknisk forskrift 2017 [3]
+Veiledning om tekniske krav til byggverk [4]
+
+BTA
+
+Bruttoareal
+
+C:\bms\ramboll-nl-pw.bentley.com_ramboll-nl-pw-09\d0619818\F-RAP-001 Fjordgata 30 - Brannteknisk konsept til rammesøknad.docx
+
+BRANNKONSEPT
+1
+
+1.
+
+INNLEDNING
+Rambøll Norge AS er engasjert av KodeWorks Eiendom AS, for å utarbeide et brannteknisk konsept ifm.
+ombygging og oppussing av Fjordgata 30. Dette notatet er ikke å anse som fullstendig brannteknisk
+prosjekteringsunderlag, men som grunnlag for søknad om rammetillatelse, og for videre detaljering og
+bearbeiding av prosjektet i detaljfasen.
+Brannkonseptet er utarbeidet av Tonje Aunaas Wik. Kontroll er gjennomført av Dag Denstad. Kontroll er
+dokumentert ved sjekklister. Rambøll Norges kvalitetssystem er sertifisert etter NS-EN ISO 9001 og
+NS-EN 14001.
+Rambøll Norge erklærer ansvarsrett i tiltaksklasse 3 i forbindelse med prosjektet. Tiltaket er underlagt
+krav om obligatorisk uavhengig kontroll av brannteknisk prosjektering.
+Brannkonseptet danner grunnlag for detaljprosjektering. For at tiltaket skal oppnå tilfredsstillende
+sikkerhet mot brann, må ansvarlig prosjekterende for alle fag ivareta de ytelseskrav som er angitt. RIFs
+veileder Rådgivende ingeniør brannteknikk – Ytelser fra rådgiver fra 2022 legges til grunn.
+
+1.1
+
+Identifisering av tiltaket
+
+Oppdragsgiver: KodeWorks Eiendom AS
+Prosjektnavn: Fjordgata 30
+Adresse: Fjordgata 30, 7010 Trondheim
+Gårds- og bruksnummer: 401/149
+Beskrivelse av tiltaket: Hovedombygging
+Særskilt brannobjekt: Forslag til ny verdi fra kategori C: Antikvarisk verdi
+til kategori B: Høy antikvarisk verdi.
+
+Figur 2: Utsnitt av foreløpig situasjonsplan datert 31.05.23
+
+BRANNKONSEPT
+2
+
+1.2
+
+Ansvarsoppgave i henhold til Byggesaksforskriften (SAK 10)
+
+Tiltakshaver: KodeWorks Eiendom AS
+Ansvarlig søker (SØK): SAAHA AS
+Rambølls kunde: KodeWorks Eiendom AS
+Brannteknisk prosjekterende (PRO RIBr): Rambøll Norge AS
+Uavhengig kontrollerende for brannteknisk prosjektering (KONT RIBr):
+Må engasjeres av tiltakshaver
+Uavhengig kontrollerende for brannteknisk utførelse (KUT Brann): Tiltaksklasse for brannteknisk prosjektering: Tiltaksklasse 3
+
+1.3
+
+Gjeldende regelverk
+For byggverk reguleres generelt de branntekniske forhold av Lov om planlegging og
+byggesaksbehandling (plan- og bygningsloven) av 1. juli 2009 Nr. 71 med endringer [5].
+For tiltak som omfattes av byggesaksbestemmelsene Jfr. §20-1, har kommunen jfr. §31-4 adgang til å
+gi helt eller delvis unntak fra krav på eksisterende byggverk, dersom det vurderes forsvarlig ut fra
+sikkerhet, helse og miljø. Ved vurderingen skal kommunen legge vekt på følgende:
+a) Byggverkets alder, formell vernestatus, type, formål, plassering, varigheten av tiltaket og
+nåværende tekniske tilstand.
+b) Forhold som kan redusere negative konsekvenser ved at det gis unntak
+c) Fordeler som oppnås ved unntaket
+I og med at brygga er underlagt Lov om vern av Kulturminner, vil endelige branntekniske løsninger, hva
+som tillates, avklares også med antikvariske myndigheter
+Videre fastlegges brannsikkerhetsnivået av Lov om vern mot brann, eksplosjon og ulykker med farlig
+stoff og om brannvesenets redningsoppgaver av 14. juni 2002 [6]. Funksjonskrav til sikringsnivå stilles i
+Byggeteknisk forskrift 2017 (TEK17) [3].
+Veiledning til teknisk forskrift (VTEK) oppdateres jevnlig. I forbindelse med dette prosjektet er
+veiledning lastet ned fra www.dibk.no den 2023-06-13.
+
+1.4
+
+Tilleggskrav fra tiltakshaver, myndighetene, tiltakshaver eller bruker
+Tiltakshaver og ansvarlig søker har gjennomført forhåndskonferanse med Trondheim kommune
+01.06.2023. Da Fjordgata 30 betegnes som et «objekt med høy antikvarisk verdi» har kommunen bedt
+om at brannteknisk konsept oversendes til rammesøknad. Til rammesøknad er ikke alle forutsetninger
+og premisser lagt, slik at brannkonseptet, omfatter kun overordnede brannstrategier og foreslåtte
+brannsikkerhetstiltak knyttet til det. Endelig brannkonsept med dokumentasjon av løsninger vil foreligge
+til igangsettingssøknad. Det er ikke registrert spesielle tilleggskrav til brannsikkerhet utover teknisk
+forskrift.
+RIBr er ikke kjent med at det er stilt særskilte krav til brannsikkerhet ut over TEK 17.
+Spørsmål til ombyggingen som går på brannvesenets innsatsmuligheter, er forelagt TBRT. TBRT har
+bekreftet svar på følgende i e-post av 15.06.2023;
+Oppstilling i Fjordgata
+- TBRT har ikke kontrollmålt, men om forutsetningene angitt i TBRTs veileder er ivaretatt er det OK.
+Fasade mot Nidelva
+
+BRANNKONSEPT
+3
+
+-
+
+Utvendig slokking på kanalsiden vil foregå via brannbåt. Det er ikke tilrettelagt for røykdykkerinnsats
+fra denne siden.
+Mellomrommet mellom bryggene
+- Det er ikke utarbeidet egne krav for innsats i mellomrommet mellom bryggene. Det må vurderes og
+tilrettelegges for slokkeinnsats i hvert enkelt tilfelle.
+Krav til innsats ifm. eventuell uteservering
+
+-
+
+TBRT har ingen krav utover teknisk forskrift, ellers vises det til TBRTs veileder.
+
+Rambøll anbefaler at det tilrettelegges for bruk av materialer som ivaretar miljøhensyn under videre
+prosjektering og ombygging av byggverket.
+1.5
+
+Dokumentasjonsform
+De branntekniske ytelseskrav i kapittel 3 vil bli dokumentert som en kombinasjon av en forenklet
+prosjektering, som følger preaksepterte ytelser, og som en analytisk prosjektering, det vil si at det
+gjøres en analyse som viser at forskriftens krav er oppfylt. Ellers vil dokumentasjon foreligge ved
+søknad om igangsettingstillatelse, når alle forutsetninger er kjent og bestemt. Det henvises til kapittel 4
+for oversikt over identifiserte fravik.
+Kildehenvisninger er angitt med [nummer] og er spesifisert i litteraturhenvisning. Eksempel:
+NS 3901 [15].
+Den branntekniske prosjekteringen følger Rambølls prosedyre for brannteknisk prosjektering. Det er
+gjennomført intern egen- og sidemannskontroll med kontrollkopi.
+
+BRANNKONSEPT
+4
+
+2.
+
+GRUNNLAG OG FORUTSETNINGER FOR BRANNTEKNISK
+PROSJEKTERING
+
+2.1
+
+Litt om historien, jfr. Trondheim kommunes kartdata
+Fjordgata 30 er en tømmerbrygge i bryggerekka mellom Fjordgata og kanalen. Opprinnelig var brygga
+en kjøpmannsbrygge over fem etasjer i tillegg til underetasje. Brygga ble bygd like etter bryggebrannen
+i 1857 med tre etasjer, og påbygd to etasjer i 1904.
+Store deler av det originale eksteriøret er blitt erstattet av nyere materialer og deler. Fasaden mot elva
+er den delen som er mest lik det opprinnelige og med høvlet kledning. Gamle porter er bevart, og det
+finnes intakt interiør i øverste etasje.
+Brygga har et totalt areal på ca. 2655 m2 og benyttes i dag til næringsformål i de to første etasjene,
+hvorav øvrige etasjer står tomme. Grunnflaten er ca. 576 m2.
+
+Figur 3: Historisk foto av Fjordgata 30 etter ca. år 1950.
+
+Figur 4: Historisk foto av Fjordgata 30 mellom år 1950-1977.
+Figur 5: Historisk foto av Fjordgata 30 mellom år 1980-1994.
+
+BRANNKONSEPT
+5
+
+2.2
+
+Ny bruk
+Bygget planlegges nå med kafe- og publikumsvirksomhet i plan 1, og kontorlokaler i øvrige plan. Det
+skal åpnes opp til underetasjen, som også vil være tilgjengelig for publikum i tillegg til ansattfunksjoner
+og teknisk rom. Bygget planlegges med stor åpenhet og etablering av halvetasjer i tillegg til overlys.
+Deler av plan 3 og 5 fjernes, hvorav resterende deler av plan 3 vil utgjøre tekniske rom kun forutsatt
+sporadisk personopphold.
+Mot kanalen og eksisterende båthavn foreslås det tilrettelagt for eventuell flytebrygge/uteplattform i
+tilknytning til byggets kafe, se også kap. 2.7.1 samt kap. 2.5.3 for personbelastning. Figur 2 (side 1)
+viser foreløpig situasjonsplan og plassering av eventuell flytebrygge. Figur 6 nedenfor viser situasjonen
+ved lavvann.
+
+Figur 6: Fasade mot kanalen hvor ev. flytebrygge planlegges, bildet er tatt ved lavvann.
+
+2.3
+
+Myndighetsbehandling
+
+2.3.1 Restaureringsarbeidet
+
+Brygga ble bygd i 1857, og påbygd med to etasjer i 1904. I 1911 ble det innredet kontor i 2. etasje, og
+på nytt i 1934. Iht. antikvarisk register for Trondheim datert 25.07.1973 ble det registrert dårlig
+vedlikehold av gavlvegg mot kanalen, men det er ikke kjent om det er gjort noen restaureringer i nyere
+tid. Dette må undersøkes nærmere ved detaljprosjekteringen.
+2.3.2 Forhåndskonferanse
+
+Før søknad om rammetillatelse har tiltakshaver og ansvarlig søker/arkitekt avholdt forberedt
+forhåndskonferanse med Byggesakskontoret 01.06.2023:
+Hvor bla. følgende tema som kan påvirke planene videre ble tatt opp:
+- Fjordgata 30 har verneklasse C: Antikvarisk verdi, prosessen mot byantikvar ivaretas.
+- Ref. bestemmelser i r 118 Midtbyplanen av 28.08.1981, skal brygga benyttes til lager, engros,
+forretning og kontorvirksomhet. Hva kreves ved endret bruk til kulturarrangement bla.?
+
+BRANNKONSEPT
+6
+
+2.3.3 Avklaring om riving av enkelte bygningsdeler krever dispensasjon, i forhold til
+reguleringsbestemmelsenes krav om bevaring
+
+-
+
+-
+
+Avklaring av privatrettslige forhold som tilpasninger til fortau, vei, og plassering av renovasjon.
+Parkeringsnormer for bil og sykkel
+Tiltak i grunnen, som skal søkes riksantikvar/NIKU.
+Søknad om fravik fra TEK
+▪
+Sikkerhet mot flom
+▪
+Krav til universell utforming
+▪
+Atkomster til uteplasser
+▪
+Lyd- og vibrasjoner
+▪
+Energi
+Etablering av trafo
+Branntekniske forhold: Bygget er et særskilt brannobjekt, og anses som et byggverk med stor
+konsekvens ved brann, og i forhold til tap av kulturhistoriske verdier.
+
+2.3.4 Øvrige fagområder som premissgivere for branntekniske løsninger
+
+Spørsmålet som dukker opp, er: Det er mange krav og interesser skal ivaretas samtidig, og tilpasninger
+til dagens regelverk vil ikke være mulig å oppfylle fagvis eller samlet, på en del områder. Til
+rammesøknad har det derfor blitt jobbet med spørsmål om hvor godt det lar seg gjøre å tilpasse ønsket
+bruk til regelverket, og samtididig til brygga sine egne rammer. Hvilken betydning har det for
+bæresystemet? Nye energiløsninger, krav til energi, lufttetthet og fuktsikring, kan de ivaretas uten å
+påvirke antikvariske eller branntekniske krav?
+Dette er spørsmål som er viktige og nødvendige forutsetninger å få en felles avklaring og aksept på.
+Den endelige dokumentasjonen av branntekniske og andre ytelser, må bygge på disse avklaringene og
+forutsettes foreligge ved søknad om igangsettingstillatelse. Det vises til PBL Kap. 31 og § 31-4
+Kommunens adgang til å gi helt eler delvis unntak fra krav.
+2.4
+
+Grunnlagsdokumentasjon
+
+2.4.1 Tegninger/dokument fra oppdragsgiver
+Tabell 1: Grunnlagsdokumenter
+
+Dokument
+
+Utarbeidet av
+
+Datert
+
+Tilstandsanalyse nivå 1 Fjordgata 30
+
+HRP AS
+
+-
+
+Fjordgata 30 – Brygga
+(Dokument ifm. forhåndskonferanse)
+
+SAAHA AS
+
+2023-06-02
+
+Plantegninger
+
+SAAHA AS
+
+2023-06-22
+
+BRANNKONSEPT
+7
+
+2.5
+
+Forutsetninger for byggeobjektet og virksomheten i bygget
+
+2.5.1 Areal og virksomhet
+Tabell 2: Areal og virksomhet
+
+Plan
+
+Ca. Areal
+
+Virksomhet
+
+(m2 BTA)
+
+Tellende
+
+Kommentar
+
+etasje
+
+Plan U
+
+Ca. 350
+m2
+
+Møterom, vrimleareal, toalett, lager, garderobe,
+verksted, teknisk rom, sykkelparkering, avfallsrom
+papp/papir, trapperom, mulig traforom
+
+Ja
+
+Det åpnes opp til underetasjen, som
+vil være tilgjengelig for publikum i
+tillegg til ansattfunksjoner og teknisk.
+
+Plan 1
+
+Ca. 500
+m2
+
+Workshop/kontor, utstilling, kjøkken, kafe,
+sykkelparkering, avfallsrom, toalett, trapperom,
+utgang til ev. flytebrygge
+
+Ja
+
+Etableres med halvetasje.
+
+Plan 2
+
+Ca. 480
+m2
+
+Møterom, kontor, te-kjøkken, toaletter, trapperom
+
+Ja
+
+Plan 3
+
+Ca. 150
+m2
+
+Lager/føringer, teknisk rom, trapperom
+
+Nei
+
+Plan 4
+
+Ca. 480
+m2
+
+Møterom, kontor, te-kjøkken, toaletter, trapperom
+
+Ja
+
+Plan 5
+
+Ca. 330
+m2
+
+Lager/føringer, kontor, teknisk rom, trapperom, ev.
+rom for vekselretter for solcelle på tak, atkomst til
+tak. Nytt overlys i tak, for dagslys og røykventilasjon.
+
+Ja
+
+Sum
+
+Totalt ca.
+2290m2
+
+Deler av 3. etasje fjernes.
+
+Deler av 5. etasje fjernes.
+
+5
+
+2.5.2 Høyde og plassering
+
+Bygget har en mønehøyde på ca. 17,4 m og en gesimshøyde ca. 16,5 m fra gatenivå i Fjordgata. Dette
+medfører at bygget klassifiseres som et høyt byggverk iht. TEK17.
+
+Figur 7: Fjordgata 30.
+Figur 8: Snitt Fjordgata 30.
+
+Plassering
+Brygga ligger i Nr. 30 som en del av bryggerekka mellom Fjordgata og kanalen, tett ved krysset mellom
+jernbanebrua og Søndre gate. Atkomst skjer fra hovedinngang i Fjordgata. Mot Nidelva og eksiterende
+båthavn tilrettelegges det for etablering av flytebrygge for mulig opphold i tilknytning til byggets kafe.
+Dagens løsning med landgang med direkte adkomst til eksisterende båthavn videreføres, i tillegg
+foreslås ny flytebrygge tilknyttet. Brygga grenser til Fjordgata 28 og Fjordgata 32 som vist på bilder.
+
+BRANNKONSEPT
+8
+
+Figur 9: Ny flytebrygge for mulig opphold.
+
+2.5.3 Personbelastning
+Tabell 3: Personbelastning
+
+Plan
+
+Ca. Areal
+
+Virksomhet
+
+Personantall
+
+Kommentar
+
+Møterom, vrimleareal, toalett, lager,
+garderobe, verksted, teknisk rom,
+sykkelparkering, avfallsrom papp/papir,
+trapperom
+
+150*
+
+Plan U: Tilgjengelig for publikum i tillegg
+til ansattfunksjoner og teknisk.
+
+(m2 BTA)
+Plan U
+
+Ca. 350 m2
+
+Plan 1
+
+2
+
+Ca. 500 m
+
+Workshop/kontor, utstilling, kjøkken, kafe,
+sykkelparkering, avfallsrom, toalett,
+trapperom
+
+Plan 2
+
+Ca. 480 m2
+
+Møterom, kontor, te-kjøkken, toaletter,
+trapperom
+
+Ca. 45*
+
+*)
+
+Plan 3
+
+Ca. 150 m2
+
+Lager/føringer, teknisk rom, trapperom
+
+< 10
+
+Sporadisk personopphold, ingen rom for
+varig opphold.
+
+Plan 4
+
+Ca. 480 m2
+
+Møterom, kontor, te-kjøkken, toaletter,
+trapperom
+
+Ca. 40*
+
+*)
+
+Plan 5
+
+Ca. 330 m2
+
+Lager/føringer, kontor, teknisk rom,
+trapperom
+
+Ca. 25*
+
+*)
+
+Sum
+
+Totalt ca.
+2300 m2
+
+Totalt ca. 260
+
+Ca. 110 kontorarbeidsplasser til sammen
+i plan 2-5, og ca. 150 personer til
+sammen i plan U og 1.
+
+På ev. uteplattform er det antydet
+plass til inntil 30 personer. Det
+forutsettes at disse er utenom del av
+personantallet i Plan 1, og kan evakuere
+langs gangbane i kanalen.
+*)
+
+Antall kontorplasser iht. gjeldende
+plantegning utarbeidet av ARK.
+
+Antall kontorplasser iht. gjeldende
+plantegning utarbeidet av ARK.
+Antall kontorplasser iht. gjeldende
+plantegning utarbeidet av ARK.
+
+2.5.4 Universell utforming
+
+Det er ikke stilt krav om tiltak utover minimumsytelser i TEK17/VTEK. Trinnfri atkomst til plan 1
+(hovedplan). Heis til plan 4. Det er ikke forutsatt heis opp til mesanin i plan 5. Krav til universell
+utforming ivaretas av ARK.
+
+BRANNKONSEPT
+9
+
+2.5.5 Brannenergi
+
+Bæresystemet, søyler, bjelkelag og takkonstruksjoner består i all hovedsak av tre, men med innslag av
+andre materialer.
+Før ombyggingen framstår brygga med overflater/kledninger hovedsakelig av tre, med høy brannenergi.
+Flere av innerveggene er imidlertid helt eller delvis innkledd. Lydkrav i tillegg til branntekniske krav
+spesielt i forhold til bæreevne, vil påvirke i hvor stor grad konstruksjoner kan være eksponert, eller må
+kles inn. Enkelte rom vil bli prioritert å ha eksponert tre, andre ikke. Noe av bæresystemet vil neppe
+tåle tosidig innbrenning, og må vurderes brannbehandlet Hulrom må iakttas spesielt, og sikres enkel
+tilgang for brannvesen. I rom med økt risiko for brannstart etableres nye vegg og takkonstruksjoner
+med ubrennbare materialer. Himlinger med treoverflater vurderes beskyttet med transparent
+brannhemmende overflatebehandling. Brannenergien av den eksponerte delen av brygga, skal samlet
+ikke overstige 400 MJ/m2, ref. NBI-Blad 321.051 Brannenergi i bygninger. Enkelte rom med mye teknisk
+utstyr eller andre installasjoner kan ha imidlertid ha større mengder brannenergi f.eks. batterirom og
+trafo, og må ivaretas spesielt.
+2.5.6 Lagring og håndtering av brann- og eksplosjonsfarlig vare
+
+Dersom virksomheten skal omfatte oppbevaring og håndtering av brann- og eksplosjonsfarlig vare i
+henhold til Brannvernloven, skal eier sørge for at det utarbeides egen risikoanalyse iht. krav i samsvar
+med loven.
+Det tenkes etablert kafe og kjøkken på plan 1. Det forutsettes ikke bruk av gass for oppvarming, eller
+bruk av frityr. I tilfelle slik installasjon, forutsettes at frityrkokere har automatiske slokkeanlegg
+(frityrslokkeanlegg) egnet for formålet. Frityr må ha eget avtrekk som ikke går på fellesanlegg.
+Ev. bruk og oppbevaring av gass må håndteres i tråd med regler i Brannvernloven med tilhørende
+forskrifter. Det tillates ikke oppbevart brennbar gass på kjellernivå.
+Trafo
+
+Hvorvidt det skal etableres trafo må avklares. Ved etablering av trafo må denne plasseres slik at
+trykkavlastende flate leder trykket bort i sikker retning. Trafo må inngå som en del av bygget med de
+branntekniske krav det medfører mht. ubrennbare konstruksjoner som også ivaretar brann- og
+eksplosjonskrav.
+Branntekniske krav til utforming av trafo ivaretas av nettleverandør/RIE i samråd med RIBr og iht. RENblad og øvrig gjeldende regelverk. Her nevnes spesielt REN-blad 8101 Utforming av anlegg med hensyn
+på brannsikkerhet. Se også kap. 3.4.
+Batterirom
+
+Etablering av batterirom må avklares. Batterirom kan ha større mengder brannenergi, og har potensielt
+en risiko for eksplosjon. Ved etablering av batterirom må plassering avklares i samråd med RIBr, og
+rommet må utføres som egen branncelle. Se også kap. 3.4.
+2.5.7 Solcellepaneler
+
+Det er foreslått solcelleanlegg på tak. Før ev. etablering av solceller på tak må alle sikkerhetsaspekter
+og konsekvenser være avklart blant annet overfor brannvesen og antikvariske myndigheter, se for øvrig
+kap. 3.9 for overordnede krav.
+
+BRANNKONSEPT
+10
+
+2.6
+
+Forutsetninger for beredskap
+
+2.6.1 Brannvesenets beredskap og innsatstid
+
+Innsatstid for brannvesenet er generelt beskrevet i Dimensjoneringsforskriften [7]. Innsatstiden fra
+sentrum brannstasjon på Nyhavna til Fjordgata, vil være innenfor 10 minutter. Oppstillingsplass for
+utvendig slokkeinnsats i Fjordgata som konferert med TBRT via e-post pr. 09.06.2023. TBRT har
+samtidig opplyst at utvendig slokkeinnsats fra Nidelva, kan skje via ny brannbåt, som er under
+produksjon, og er planlagt satt i drift i løpet av sommeren 2023. Det nye fartøyet har to vannkanoner,
+som leverer 3000 l/min pr kanon, om begge kjøres samtidig, og 5000 l/min om bare én kanon blir
+benyttet. Hvor nært brygga den kan komme avhenger av flo og fjære. Ved bruk av én kanon er
+maksimal kastelengde 90 meter. (Kastelengden er mindre om begge kanonene skal kjøres samtidig).
+2.6.2 Slokkevannforsyning
+
+Det forutsettes generelt at det er tilstrekkelig vannforsyning til slokkevann og sprinkleranlegg i
+Fjordgata. Eksisterende forhold avklares nærmere for å få bekreftet at de er iht. krav angitt i kap. 3.16.
+2.6.3 Tiltakshavers beredskap og eventuelt egne krav til brannsikkerhet
+
+Tiltakshaver for bygningen er, iht. Forskrift om brannforebygging [1], ansvarlig for at det utarbeides
+evakueringsplaner.
+2.7
+
+§11-2 Risikoklasse og § 11-3 Brannklasse
+
+2.7.1 Risikoklasse §11-2
+
+Ut fra den trusselen en brann kan innebære for skade på liv og helse, skal byggverk i ulike
+bruksområder i et byggverk plasseres i risikoklasser. Risikoklassene skal legges til grunn for
+prosjekteringen og utførelsen, for å sikre rømning og redning ved brann. Generelt skal byggverk
+plasseres i risikoklasser etter tabellen nedenfor.
+Tabell 4: Risikoklasser
+
+Hovedplanet (plan 1) har åpen forbindelse ned til underetasjen og forutsettes benyttet til kafe- og
+publikumsvirksomhet, og vil samlet ha en kapasitet på inntil 150 personer. Ev. etablering av utvendig
+flyteplattform forutsettes ikke å påvirke innvendig rømningssituasjon.
+Plan 3 har ingen rom for varig opphold, kun tekniske rom hvor sporadisk personopphold legges til
+grunn. Øvrige plan har kontorvirksomhet/møtearealer for inntil ca. 45 personer per plan, se kap. 2.5.3.
+Kontoretasjene vurderes å ha gode og entydige rømningsforhold ut fra at det er begrensede persontall.
+Preakseptert, plasseres forsamlingslokaler (tilsv. plan 1 og plan U) i risikoklasse 5, mens kontorer
+plasseres i risikoklasse 2, jfr. Tabell 4. Fra kafe- og publikumsområdene er det entydige
+
+BRANNKONSEPT
+11
+
+rømningsforhold og kort rømningstid, dvs. de er i stand til å bringe seg selv i sikkerhet. Det kan derfor
+argumenteres med at plan 1 og plan U, kunne vært vurdert i en lavere risikoklasse enn 5, når det
+gjelder enkelte av kravene som preakseptert ligger til «Risikoklasse 5»-bygg.
+2.7.2 Brannklasse §11-3
+
+Ut fra den konsekvensen en brann kan innebære for skade på liv, helse, samfunnsmessige interesser og
+miljøet, skal byggverk eller ulike deler av byggverk plasseres i brannklasser etter tabellen nedenfor.
+Brannklassene skal legges til grunn for prosjekteringen og utførelsen, for å sikre byggverkets bæreevne
+mv. ved brann.
+Tabell 5: Brannklasser - del 1.
+
+Preakseptert angir VTEK 17 nedenstående sammenheng mellom risikoklasse og antall tellende etasjer.
+Tabell 6: Brannklasser - del 2.
+
+Bygget har fem tellende etasjer og preakseptert RKL 5 i plan U/1 og RKL 2 i øvrige plan. Dette gir
+preakseptert krav om brannklasse 3 (BKL 3).
+Samtidig vil konsekvensen av en stor brann i Fjordgata 30 av antikvarisk, byhistorisk og bymiljømessige
+hensyn være betydelig.
+Ved vurderingen av behovet for sikkerhetstiltak ved brann må det blant annet tas hensyn til
+a. Sannsynlige brannforløp
+b. Potensielle konsekvenser ved brann
+c. Byggverkets kompleksitet
+d. Om brannstrategien er komplisert, for eksempel om det er mange tiltak som skal virke samtidig
+og som er avhengige av hverandre.
+Det må derfor være tett dialog mot ansvarlig prosjekterende for konstruksjonsteknikk, for detaljert
+dokumentasjon av faktisk brannmotstand, og finne akseptable løsninger ut fa det. Det må også gjøres
+vurderinger i forhold til mulig spredning til nabobrygger.
+Rambøll foreslår at det tas utgangspunkt i minimum brannklasse 3 for dokumentasjon av
+brannsikkerhet for Fjordgata 30.
+
+BRANNKONSEPT
+12
+
+3.
+
+BESKRIVELSE AV BRANNTEKNISKE YTELSESKRAV
+For at tiltaket skal oppnå tilfredsstillende sikkerhet mot brann, må ansvarlig prosjekterende for alle fag
+ivareta de ytelseskrav som er angitt i dette kapitlet i sin detaljprosjektering. Ytelseskravene er basert på
+forutsetninger og begrensninger fastlagt i kapittel 2. Paragrafhenvisninger i dette konseptnotatet referer
+til veiledning til teknisk forskrift (VTEK) [4]. Ytelseskrav angitt i dette kapitlet ledsages av branntekniske
+tegninger utarbeidet av RIBr.
+
+3.1
+
+Identifiserte fravik fra VTEK
+Det henvises til kapittel 4 for utfyllende informasjon vedr. registrerte fravik. Dette vil bli ivaretatt i
+detaljfasen i forbindelse med søknad om igangsettingstillatelse. Her identifiseres bare kort de ulike
+fravikene.
+Tabell 7: Fravik fra VTEK.
+
+Fravik Nr.
+
+Henvisning TEK17
+
+Kort beskrivelse
+
+1
+
+§11-4 Bæreevne og
+stabilitet.
+
+Hovedbæresystemet i tre må defineres. Eksisterende konstruksjoner kan av
+praktiske og antikvariske årsaker ikke tilfredsstille 90 minutter. Endelig
+brannmotstand på slike konstruksjoner bestemmes nærmere, med et
+utgangspunkt om minimum å motstå brann i 60 minutter.
+
+2
+
+§11-6 Tiltak mot
+brannspredning mellom
+byggverk.
+
+Høye byggverk skal ha minimum 8,0m avstand til annet byggverk, med mindre
+byggverket er utført slik at spredning av brann hindres gjennom et fullstendig
+brannforløp.
+
+3
+
+§11-8 Branncelle
+
+Branncelle med åpen forbindelse over 5 plan.
+
+4
+
+§11-8 Branncelle
+
+Branncellebegrensende bygningsdeler utføres med brannmotstand EI 60 [B 60]
+jf. Brannklasse 2 og ikke EI 60 A2-s1,d0 [A 60] som for brannklasse 3.
+
+5
+
+§ 11- 13 Utgang fra
+branncelle
+
+Dør til rømningsvei i byggverk i risikoklasse 5 må ha fri bredde minimum 1,16
+meter. Samlet fri bredde i rømningsvei må minimum være 1 cm per person,
+men uansett minst 1,16 meter for risikoklasse 5.
+
+§ 11-14 Rømningsvei
+Dør/trapp fra underetasje utføres med fri bredde tilsvarende 0,86 meter.
+6
+
+3.2
+
+§11-17 Tilrettelegging
+for rednings- og
+slokkemannskap
+
+Byggverk skal plasseres og utformes slik at rednings- og slokkemannskap, med
+nødvendig utstyr, har brukbar tilgjengelighet til og i byggverket, og lett kan
+bekjempes.
+
+Oversikt over brannteknisk dokumentasjon
+Følgende dokumenter er utarbeidet:
+Tabell 8: Brannteknisk dokumentasjon
+
+Navn
+
+Dokument
+
+Revisjon
+
+Datert
+
+F-RAP-001 – Fjordgata 30
+
+Brannteknisk konsept til rammesøknad
+
+00
+
+2023-06-23
+
+00U F 200 20 001 – Plan U.etg
+
+Brannplan – plan 0
+
+00
+
+2023-06-23
+
+01 F 200 20 001 – Plan 1.etg
+
+Brannplan – plan 1
+
+00
+
+2023-06-23
+
+02 F 200 20 001 – Plan 2.etg
+
+Brannplan – plan 2
+
+00
+
+2023-06-23
+
+03 F 200 20 001 – Plan 3.etg
+
+Brannplan – plan 3
+
+00
+
+2023-06-23
+
+04 F 200 20 001 – Plan 4.etg
+
+Brannplan – plan 4
+
+00
+
+2023-06-23
+
+05 F 200 20 001 – Plan 5.etg
+
+Brannplan – plan 5
+
+00
+
+2023-06-23
+
+06T F 200 20 001 - Takplan
+
+Brannplan - tak
+
+00
+
+2023-06-23
+
+BRANNKONSEPT
+13
+
+3.3
+
+§11-4 Bæreevne og stabilitet
+Branntekniske ytelseskrav – Bæreevne og stabilitet
+
+Ansvar
+
+Generelt
+Branncellebegrensende konstruksjoner må understøttes av bærende konstruksjoner med
+tilsvarende eller høyere brannmotstand. Brannmotstand må dokumenteres for alle
+konstruksjonselementer.
+
+RIB
+
+Utkragede bygningsdeler o.l. må ha forsvarlig innfesting for å hindre nedfall som kan skade
+rednings- og slokkemannskapene og deres materiell under førsteinnsatsen. Tyngre
+bygningsdeler må forankres i byggverkets hovedbæresystem.
+Bæresystem
+Hovedbæresystem inkl. horisontale avstivningssystem
+
+R 90/R 60 [B 60] *)
+
+Sekundære, bærende bygningsdeler, etasjeskillere og
+takkonstruksjoner som ikke er del av hovedbæresystem eller
+stabiliserende
+
+R 60 [B
+
+Trappeløp
+
+R 30 A2-s1,d0 [A 30]
+
+Landgang
+
+A2-s1,d0 [Ubrennbar/
+begrenset brennbar]**
+
+RIB
+
+60]*)
+
+Eksisterende bærende konstruksjoner (hoved- og sekundærbæresystem) må brannbeskyttes,
+dersom de ikke tilfredsstiller min R 60 [B 60]. Laftevegger benyttet som hovedbæring/
+avstiving, beskyttes ved behov mot tosidig innbrenning.
+*)
+
+**)
+
+3.4
+
+Brannmotstand på bæresystemet må dokumenteres og avstemmes også mot spesifikke krav fra
+antikvariske myndigheter.
+RIB må synligjøre eksisterende konstruksjoners bæreevne.
+
+§11-5 Sikkerhet ved eksplosjon
+Branntekniske ytelseskrav – Sikkerhet ved eksplosjon
+
+Ansvar
+
+Generelt
+Dersom det planlegges forhold som medfører fare for eksplosjon, er det hver fagrådgivers
+ansvar å bringe dette frem. Dersom det er aktuelt, må det gjennomføres risikovurdering av
+forholdet.
+Generelt gjelder følgende krav knyttet til sikkerhet ved eksplosjon:
+Rom hvor det kan forekomme fare for eksplosjon, må utgjøre egen ventilert
+branncelle.
+Rom hvor det kan forekomme fare for eksplosjon, må ha minst én
+trykkavlastningsflate når ikke andre tiltak er truffet for å sikre skader på personer og
+byggverket ellers. Avlastet trykk må ledes bort i sikker retning.
+Trykkavlastningsflater må ikke plasseres i takflater og lignende med mindre det
+dokumenteres at snølast ikke er til hinder for avlastningsflatens funksjon.
+Branncellebegrensende vegger må om nødvendig forsterkes for å opprettholde
+rømningsveiers funksjon og forhindre spredning av brann til andre brannceller.
+Det er ikke tillatt å oppbevare brennbar gass på kjellernivå.
+Forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg
+som benyttes ved håndteringen [8] gjelder for ev. lagring av brannfarlig vare.
+
+ARK
+RIB
+RIE
+RIV
+
+BRANNKONSEPT
+14
+
+Batterirom
+Etablering av ev. batterirom må avklares. Batterirom har potensielt en risiko for eksplosjon, og
+må etableres som egen branncelle. Krav til etablering av røykventilasjon eller luftutskiftning
+avhenger av type batteri.
+Ved bruk av blybatterier må batterirommene ventileres slik at det ikke oppstår
+eksplosjonsfarlig atmosfære i rommet. Dette kan oppnås ved tilstrekkelig luftutskiftning i
+tillegg til automatisk utkobling av lading ved opphold i ventilasjon eller alarm ved bortfall av
+ventilasjon.
+Ved bruk av litiumbatterier må det etableres røykventilasjon.
+Ev. rom for plassering av vekselretter for konvertering av likestrøm fra solcelleanlegg plasseres
+fortrinnsvis slik at føringsveien for likestrøm gjennom bygget blir så liten som mulig, med
+tanke på sikkerhet for innsatspersonell.
+Trafo
+Etablering av trafo må avklares. Den må plasseres med trykkavlastende flate som leder trykket
+bort i sikker retning, bort fra personer, bygninger o.l. Ved behov må det etableres tiltak som
+ivaretar ev. ansamling av snø o.l. som kan forhindre avlastningsflatens funksjon.
+Avhengig av trafotype er brannmotstand på bæresystem og branncellebegrensende
+konstruksjoner. Rom for høyspenningsanlegg plassert i bygning for annet formål må iht. FEF
+§4-7 være utørt som branntrygt rom med hhv. EI 60 A2-s1,d0 [A 60]/REI 60 A2-s1,d0 [A 60].
+For oljeisolerte trafoer kan det være aktuelt med EI 90 [A 90]/REI 90 [A 90], det vises til RENblad 6002 Branntekniske krav for nettstasjon i bygg samt plassbygd. Hvorvidt det må bygges
+en nedfiringssjakt med luke for transport av materiell som f.eks. transformator inn og ut, fra
+hovedplanet til underetasjen jf. REN-blad 6002, må avklares med nettleverandør.
+Trafo må utføres med overflater og kledninger iht. krav i VTEK og REN-blad 8101. Det
+forutsettes generelt ubrennbare overflater.
+Dør i yttervegg mot det fri må ha brannmotstand med mindre det er truffet tiltak for å
+forhindre brannspredning i fasaden over døren eller til motstående fasader. Generelt må dør ha
+samme brannmotstand som konstruksjonen den står i og ha klasse Sa (røyktett). Dør som ikke
+har Sa-klassifisering, må ha terskel/anslag og tettelister på alle sider for å oppnå tilstrekkelig
+røyktetthet. Alle branndører bør være utstyrt med selvlukker for å forhindre brannspredning.
+Plassering av dør mellom trafo og øvrig del av byggverket må avklares i samråd med RIBr,
+dette for å redusere risiko for brann- og/eller røykspredning.
+Øvrige branntekniske krav til utforming av trafo ivaretas av nettleverandør/RIE i samråd med
+RIBr, og må avklares på et senere tidspunkt.
+3.5
+
+§11-6 Tiltak mot brannspredning mellom byggverk
+Branntekniske ytelseskrav – Tiltak mot brannspredning mellom byggverk
+
+Ansvar
+
+I utgangspunktet er det krav til brannvegg REI 120M A2-s1,d0 mot nabo. Dette kravet er ikke
+mulig å oppnå, da eksisterende vegger består av brennbare materialer. I denne omgang
+vurderes det at vegg mot nabo tilstrebes å ha tilsvarende 90 minutters brannmotstand.
+Utforming av yttervegg må avklares, også i forhold til antikvariske krav, energikrav og mulige
+lydkrav. I utgangspunktet forutsettes kun ubrennbare materialer benyttet for
+påforing/brannisolering av yttervegger. Endelig oppbygging av begrensingsvegg mot nabo må
+avklares sammen med løsning for forsterkning og brannisolering. Dette gjelder også tillatelse
+til gjennomføringer i yttervegg.
+Det forutsettes vurdert og etablert fasadesprinkler i mellomrommet mot nabobrygger.
+De tre nederste etasjene har tømmervegger. De to øverste etasjene er utført med
+bindingsverksvegger. Begrensningsvegger brannisoleres, slik at de oppnår tilnærmet lik
+brannmotstand i hele byggets høyde, overganger/sprang etc. vies spesiell oppmerksomhet.
+
+ARK
+
+BRANNKONSEPT
+15
+
+3.6
+
+§11-7 Brannseksjoner
+Branntekniske ytelseskrav - Brannseksjoner
+
+Ansvar
+
+Største preaksepterte bruttoareal uten seksjonering for bygg med sprinkleranlegg og spesifikk
+brannenergi 50-400 MJ/m2 omhyllingsflate, er 10 000 m2 per etasje.
+
+ARK
+RIB
+
+Ingen etasjer overstiger 10 000 m2 og det er ikke krav om intern brannseksjonering i bygget.
+
+3.7
+
+§11-8 Brannceller
+Branntekniske ytelseskrav – Brannceller
+
+Ansvar
+
+Rom som utgjør egen branncelle
+Områder med ulik risiko for liv og helse og/eller ulik fare for at brann oppstår, skal være egne
+brannceller.
+
+ARK
+
+Rom som skal utføres som egne brannceller:
+Rømningsveier (korridor, sluse og trapperom)
+Tekniske rom
+Heissjakt som ikke er plassert i samme branncelle i alle plan
+Gjennomgående installasjonssjakter
+Avfallsrom
+Ev. hulrom
+Ev. trafo
+Ev. batterirom
+Listen er ikke uttømmende. Det henvises til branntegninger for den branntekniske inndelingen.
+Etasjeskillere skal utføres som branncellebegrensende konstruksjoner.
+Tekniske installasjoner skal ikke svekke brannmotstanden til branncellebegrensende
+bygningsdeler.
+
+RIE
+RIV
+
+Vegger og etasjeskillere
+Branncellebegrensende konstruksjon generelt
+
+EI 60 [B 60]
+
+Røykskille
+
+E 30 [F 30]
+
+ARK
+
+Vinduer
+Vinduer/glassfelt i branncellebegrensende bygningsdel skal generelt utføres med samme
+brannmotstand som angitt for vegg eller tak, og må ikke kunne åpnes i vanlig brukstilstand.
+Sidefelter i dørfelt, kan ha samme brannmotstand som dør. Røykskillende konstruksjoner E 30
+[F 30]. Glass i yttertak må ha minimum brannklasse EI 30, og tilsvarende R 30-krav for
+bæreprofiler.
+
+ARK
+
+Dører og luker – generelt
+Dør og luke i branncellebegrensende vegg må generelt utføres med samme brannmotstand
+som veggen, og ha klasse Sa. Dør som er klassifisert etter NS 3919:1997 [9] (brannmotstand
+oppgitt som [B 30, A 60 osv.]) må ha anslag, terskel og tettelister på alle sider for å oppnå
+tilstrekkelig røyktetthet. Dette gjelder ikke dører og luker som er testet og oppfyller kriteriene
+for Sa-klassifisering etter NS-EN 1634-3:2004 (inklusivt rettelsesblad AC:2006).
+
+ARK
+RIE
+
+BRANNKONSEPT
+16
+
+Branntekniske ytelseskrav – Brannceller
+
+Ansvar
+
+Dører til rømningsvei kan utføres med halve veggens brannmotstand, men aldri lavere enn EI 2
+30-Sa [B 30 med terskel]. Rømningsdør i begrensingsvegg mot nabo og til trapperom i
+underetasje, må ha min. brannmotstandskrav tilsvarende veggen, og ha røyktetthetsklasse Sm.
+Det samme gjelder dør til sykkelparkering og dør til søppelrom.
+Generelt skal dører i fluktsoner ha glassfelt, slik at evakuerende kan se eventuell røykutvikling
+på motsatt side av skillet.
+Brannklassifiserte dører som i normal drift vil stå åpne, forutsettes å være selvlukkende og stilt
+i åpen posisjon ved hjelp av holdemagnet forriglet mot brannalarmanlegget.
+Dører og luker
+Rømningskorridor/sluse - trapperom
+
+E 30-CSa [F 30 S]
+
+Branncelle – trapperom
+
+EI2 30-CSa [B 30 S]
+
+Tekniske rom o.l.- rømningskorridor/trapperom
+
+EI2 60-CSa [B 60 S]
+
+Branncelle – branncelle
+
+EI2 60-Sa [B 60]
+
+Heisdør som ikke er plassert i trapperom
+
+E 90-C [F 90 S]
+
+ARK
+
+Listen er ikke uttømmende. Det henvises til branntegninger for krav til dører i
+branncellebegrensende vegg.
+Heissjakter
+Det etableres en gjennomgående heis fra plan U til og med plan 4 med inngang fra
+vrimlearealet i underetasjen og utgang til felles gangsoneareal i kontordelen. Heisen forbinder
+derfor ulike brannceller, og behøver å være røykventilert og utført med brannmotstand på
+heisdører.
+
+ARK
+RIV
+RIE
+
+Installasjonssjakter
+Det forutsettes at brannmotstand ivaretas i brannskiller i sjakter for ventilasjon, elektro, rør og
+tele. Sjakter hvor brannmotstand ivaretas i dekker, kan utføres uten brannmotstand på
+sjaktvegger så lenge det ikke gjøres avvik fra sprinklerstandarden.
+Gjennomgående sjakter (som ikke tettes i dekke) må etableres som egne brannceller med
+klasse min. EI 60 [B 60]. Dører og luker må ha samme brannmotstand som sjaktveggen og ha
+klasse Sa [anslag og tettelister på alle sider].
+Elektriske underfordelinger forutsettes utført med sprinklerbeskyttelse. Underfordelinger
+branntettes i dekker og detekteres. Det må etableres brannspjeld ved gjennomføringer i
+sjakter som er egne brannceller.
+
+ARK
+RIV
+RIE
+
+BRANNKONSEPT
+17
+
+Branntekniske ytelseskrav – Brannceller
+
+Ansvar
+
+Trapperom
+Det etableres en interntrapp fra plan U til plan 4, og mellom plan 4 og 5. I plan 5 må
+konstruksjoner som vender mot det åpene arealet og ned til plan 1, utføres som røykskille med
+E 30 [F 30] krav. Interntrapp vil fungere som fluktvei.
+
+ARK
+
+Langs østfasaden i plan U til plan 5 etableres det en spiraltrapp i et lukket Tr 1 trapperom med
+utgang direkte til det fri i plan 1. Utformes som rømningsvei.
+Fra plan U til plan 2 skal eksisterende trapperom mot vest rehabiliteres, og eksisterende
+utgang til det fri mot Fjordgata bevares. Fra Plan 2-5 skal det i tilknytning til dette
+trapperommet etableres et nytt trappeløp, for rømningsvei fra kontorareal samt tilkomst til
+tekniske rom. Utformes som Tr 2 trapperom i plan U, og Tr 1 trapperom for øvrige etasjer.
+Se også kap. 3.13.
+Røykkontroll
+Trapperom har flere enn to etasjer, og må røykventileres.
+Heissjakt må røykventileres, når den ikke er plassert i trapperom i alle plan.
+
+ARK
+RIV
+
+Vertikal brannspredning mellom brannceller
+Vertikal brannspredning ivaretas ved at bygningen fullsprinkles iht. NS-EN 12845.
+Sprinkleranlegget etableres med en økt pålitelighet jf. tillegg F i NS-EN 12845 og med et økt
+dekningsareal i og med stor åpenhet i brygga. Aktuelt dekningsareal vurderes nærmere i
+detaljfasen.
+
+ARK
+
+Horisontal brannspredning mellom brannceller
+Risiko for horisontal brannspredning er generelt sett ivaretatt ved at bygningen fullsprinkles
+iht. NS-EN 12845, og jf. ovenstående forutsetninger.
+
+ARK
+
+BRANNKONSEPT
+18
+
+3.8
+
+§11-9 Materialer og produkters egenskaper ved brann
+Branntekniske ytelseskrav – Materialer og produkters egenskaper ved brann
+
+Ansvar
+
+Overflater i brannceller som ikke er rømningsvei
+Krav fra antikvariske myndigheter kan være fravikende fra krav om eksponering av eksisterende
+veggoverflater. For eksempel trenger ikke transparent brannmaling å bli godtatt, på grunn av bevaring av
+de autentiske overflatene. Utover det er generelle krav til overflater iht. nedenstående tabell.
+Overflater på vegger og i himling/tak i branncelle inntil 200 m2
+Overflater på vegger og tak i branncelle over 200
+
+m2
+
+Overflater i sjakter og hulrom
+
+D-s2,d0 [In 2]
+
+ARK
+
+B-s1,d0 [In 1]
+B-s1,d0 [In 1]
+
+Overflater i brannceller som er rømningsvei
+Overflater på vegger og i himling/tak
+
+B-s1,d0 [In 1]
+
+Overflater på gulv
+
+Dfl-s1 [G]
+
+ARK
+
+Kledninger
+Kledninger i brannceller inntil 200 m2 som ikke er rømningsvei
+Kledninger i brannceller over 200
+
+m2
+
+som ikke er rømningsvei
+
+K210 D-s2,d0 [K2]
+K210 B-s1,d0
+
+ARK
+
+[K1]*
+
+Kledning i branncelle som er rømningsvei
+
+K210 A2-s1,d0 [K1-A]
+
+Kledning i sjakter og hulrom
+
+K210 A2-s1,d0 [K1-A]
+
+Utvendige overflater generelt
+Overflater på ytterkledning generelt
+
+B-s3,d0 [Ut 1]
+
+Taktekking
+
+BROOF (t2) [Ta]
+
+Rekkverk og øvrige konstruksjoner
+
+A2-s1,d0
+
+ARK
+
+Isolasjonsmaterialer
+Isolasjon må generelt tilfredsstille klasse A2-s1,d0 [ubrennbar/begrenset brennbar].
+
+ARK
+
+Overflater i hulrom
+Overflater i hulrom betraktes på samme måte som overflate i rømningsvei, og må ha minst like
+gode branntekniske egenskaper. Hulrom må ha god tilgjengelighet som sikrer brannvesenet
+lett adkomst for å kunne utføre rask og effektiv slokking.
+
+ARK
+
+Nedforet himling i rømningsvei
+Himling må tilfredsstille klasse A2-s1,d0 [In1 på begrenset brennbart underlag] og ha et
+opphengssystem med dokumentert brannmotstand minst 10 minutter for den aktuelle
+eksponeringen, eller himlingen må bestå av kledning som tilfredsstiller klasse K 210 A2-s1,d0
+[K1-A].
+
+ARK
+
+Overflater og kledninger i hulrom over himlingen må ha minst like gode branntekniske
+egenskaper som overflatene og kledningene i rømningsveien ellers.
+Miljøkrav
+Materialer og produkter skal velges ut ifra miljøhensyn. Stoffer på myndighetenes liste over
+«Prioriterte stoffer» skal benyttes om mulig.
+*)
+
+Eventuelle spesielle krav til kledninger og overflater avklares med byantikvar i detaljfasen.
+
+ALLE
+
+BRANNKONSEPT
+19
+
+3.9
+
+§11-10 Tekniske installasjoner
+Branntekniske ytelseskrav – Tekniske installasjoner
+
+Ansvar
+
+Ventilasjonsanlegg
+Ventilasjonsanlegg må utføres slik at de ikke bidrar til brann- og røykspredning mellom
+brannceller:
+på grunn av varmeledning i kanalnettet
+via utette gjennomføringer
+via kanalnettet
+Ventilasjonsanlegg må utføres i materialer som tilfredsstiller klasse A2-s1,d0 [ubrennbare
+materialer]. For kanaler gjelder dette hele tverrsnittet. Unntak kan gjøres for små komponenter
+som ikke bidrar til spredning av brann. Innfesting og oppheng for kanaler og ventilasjonsutstyr
+må utføres slik at forutsatt funksjonstid og brannmotstand blir opprettholdt. Ved
+gjennomføringer i branncellebegrensende vegger, benyttes brannspjeld med samme
+brannmotstand som veggen.
+Tiltak for å hindre varmeledning i kanalnettet:
+Ved bruk av EI-klassifiserte brannspjeld ved gjennomgang i brannskillende konstruksjoner
+forutsettes ikke brannisolering av ventilasjonskanalene, utenom i selve gjennomføringen i
+trevegger.
+
+RIV
+
+RIV
+
+RIV
+
+El-tavler planlegges uten sprinklerbeskyttelse, og må dermed utføres som egne brannceller
+EI 60 [B 60].
+Tiltak for å hindre brann- og røykspredning inne i kanalnettet:
+Deteksjon luftinntak
+Det etableres deteksjon av røyk i ventilasjonsanleggets tilluftskanal. Deteksjon plasseres etter
+aggregat for å kunne fange opp ev. røykutvikling i selve aggregatet. Ved deteksjon skal
+ventilasjonsaggregat stanse.
+Overstrømning
+Overstrømning mellom brannceller skal unngås. Eventuell overstrømningsventilasjon mellom
+brannceller må ha motorisert brannspjeld forriglet mot brannalarm. Slike tilfeller må ev.
+vurderes særskilt.
+Tiltak mht. fare for trykkfall/stans i ventilasjonsanlegget
+Høye temperaturer og/eller sotproduksjon kan medføre stans i ventilasjonsaggregat under en
+brann. Slik stans utgjør en risiko mht. brann-/røykspredning via trykkløse
+ventilasjonssystemer. Generelt legges det til grunn et ventilasjonsprinsipp tilsvarende «steng
+inne», med bruk av brannspjeld.
+Brannspjeld
+For å ivareta sikkerhet mht. rømning og verdi forutsettes følgende:
+Det forutsettes at ventilasjonsanlegg går som normalt ved deteksjon av brann.
+Dersom ventilasjonsanlegg i tidsrom/perioder settes til minimum eller stanses, skal
+disse gå opp til normal luftmengde ved deteksjon av brann.
+Ved ventilering på tvers av brannskiller, må det etableres brannspjeld i brannskillet,
+både på tilluft og avtrekkskanal.
+Brannspjeld skal være motorisert og forriglet mot brannalarm.
+Det etableres godkjente brannspjeld med brannmotstand min. som vegg ved alle
+ventilasjonstekniske gjennomføringer mot nabobrygge.
+
+RIV
+
+BRANNKONSEPT
+20
+
+Branntekniske ytelseskrav – Tekniske installasjoner
+
+Ansvar
+
+Spjeldløsninger kan utformes og styres på flere forskjellige måter. Det kan være et system som
+automatisk skrur av ventilasjonsanlegget og deretter lukker alle spjeldene i bygningen ved en
+brann. Alternativt kan systemet lukke bare de spjeldene som er i tilknytning til den branncellen
+hvor det brenner, mens ventilasjonsanlegget ellers går som vanlig. For å unngå uheldige
+trykkforhold er det viktig at både tilluft og avtrekk stenges samtidig. Krav til åpningskraft på
+branndører forutsettes ikke påvirket som følge av trykkforskjeller ved stengte brannspjeld med
+valgt løsning. Ved bruk av motoriserte brannspjeld kan man stenge og åpne brannspjeld ift.
+situasjonen, og automatisere testing og kontroll.
+Ventilasjonssystemer som kun forsyner én branncelle, har ingen krav til sikker drift av
+ventilasjon.
+Røykventilasjon
+Det sentrale atriet forutsettes røykventilert med bruk av tilstrekkelig antall automatiske luker i
+tak, slik at røykfri sone blir minimum 9 meter, dvs. at kun plan 5 blir del av røyksjiktet, ved
+dimensjonerende brann i atriet. Tilsvarende automatiske dører/vinduer i yttervegg for tilluft.
+Det må sikres laminær strømning slik at røyken i størst mulig grad ikke dras inn i etasjene. For
+eksempel ved etablering av glassrekkverk mot atriet, eller at ventilasjonsluften ledes ut fra
+etasjene mot atriet, eller en kombinasjon av dette.
+Strømforsyning til alle deler av røykventilasjonsanlegget skal ha UPS og funksjonssikker kabel i
+min. 60 minutter.
+
+RIV
+ARK
+RIE
+
+Kjøkkenavtrekk
+Avtrekkskanaler fra storkjøkken, frityranlegg og lignende må utføres med brannmotstand
+EI 30 A2-s1,d0 [A 30] helt til utblåsningsrist, eventuelt føres i egen sjakt med samme
+brannmotstand. Kjøkkenavtrekk må ha fettfilter, og avtrekkskanalene må kunne rengjøres i
+hele sin lengde for å redusere faren for antennelse og brann. Ev. frityrkokere må generelt ha
+automatisk slokkeanlegg (frityrslokkeanlegg) egnet for formålet, og ha eget avtrekk som ikke
+går på fellesanlegg. I utgangspunktet er det forutsatt ikke bruk av frityr.
+
+RIV
+
+Tekniske gjennomføringer
+Installasjoner (elektro-, rør- og ventilasjonstekniske anlegg) som føres gjennom
+branncellebegrensende konstruksjoner må ikke svekke konstruksjonens brannmotstand. Alle
+gjennomføringer i brannklassifiserte konstruksjoner tettes med klassifiserte produkter, med
+minst samme brannmotstand som konstruksjonen ellers. Arbeidet utføres iht. godkjente
+monteringsanvisninger.
+Alle typer rørgjennomføringer i brannskillende konstruksjoner må ha dokumentert
+brannmotstand, med unntak av;
+1. Støpejernsrør inntil 110 mm kan føres gjennom murte og støpte konstruksjoner med
+brannmotstand inntil klasse EI 60 A2-s1,d0 [A 60] når det tettes rundt rørene med
+godkjent tettemasse, eller støpes rundt og konstruksjonen har tykkelse på minst 180
+mm. Avstand fra røret til brennbart materiale må være minst 250 mm.
+Gjennomføringer av sprinklerrør i yttervegg mot nabobrygge, må ha tilsvarende
+brannmotstand som begrensningsvegg.
+
+RIV
+RIE
+
+BRANNKONSEPT
+21
+
+Branntekniske ytelseskrav – Tekniske installasjoner
+
+Ansvar
+
+Rør- og kanalisolasjon
+Generelt skal rør- og kanalisolasjon være ubrennbar. Dersom den samlede eksponerte
+overflaten av isolasjonen utgjør mer enn 20% av tilgrensende vegg- eller
+himlingsflate/takflate, må isolasjonen tilfredsstille klasse A2L-s1,d0 [ubrennbar/begrenset
+brennbar] eller ha minst samme klasse som de tilgrensende overflatene. I øvrig gjelder
+følgende ytelser:
+Rør- og kanalisolasjon
+
+CL-s3,d0 [PII]
+
+Rør- og kanalisolasjon i rømningsvei
+
+BL-s1,d0 [PI] *
+
+*)
+
+RIV
+
+Unntak gjelder isolasjon på enkeltstående rør eller kanal med ytre diameter til og med 200
+mm samt isolasjon på rør og kanaler som er lagt i sjakt eller nedforet himling med
+branncellebegrensende funksjon, som minst må tilfredsstille klasse CL-s3,d0 [PII].
+
+Elektriske installasjoner
+Kabler kan bidra til brannspredning og produksjon av store mengder røyk. Følgende ytelser må
+derfor minst være oppfylt:
+
+RIE
+
+Kabler må ikke legges over nedforet himling i rømningsvei med mindre
+a. kablene representerer liten brannenergi (mindre enn ca. 50 MJ/løpemeter hulrom),
+eller
+b. kablene er ført i egen sjakt med sjaktvegger som har brannmotstand tilsvarende
+branncellebegrensende bygningsdel, eller
+c. himlingen har brannmotstand tilsvarende branncellebegrensende bygningsdel, eller
+d. hulrommet er sprinklet
+Det presiseres at sprinklerstandarden, NS-EN 12845 uansett skal tilfredsstilles.
+Kabler som utgjør liten brannenergi (mindre enn ca. 50 MJ/løpemeter korridor/hulrom), kan
+føres ubeskyttet gjennom rømningsvei. Kabler forutsettes generelt ikke ført gjennom de
+usprinklete hulrommene i etasjeskillere, uten at løsning er avklart og ev. godkjent spesielt,
+i hvert enkelt tilfelle.
+Elektriske underfordelinger forutsettes å være dekket av det automatiske sprinkleranlegget.
+Hvis ikke utføres de som egne brannceller, med godkjent branntetting ved gjennomføringer.
+Ev. krav til utenpåliggende EL-skap, avklares nærmere.
+Hovedstrømforsyning skal ikke føres i rømningsvei og trapperom som følge av den
+brannenergien de representerer.
+
+RIE
+
+Funksjon under brann
+Strømforsyning til installasjoner som skal ha en funksjon under brann og slokking må sikres
+ved:
+at sprinkleranlegget sikrer beskyttelsen, må avklares nærmere, eller
+at det brukes kabler som beholder sin funksjon/driftsspenning i minimum 60 minutter.
+
+RIE
+RIV
+
+Omfang UPS/reservekraft:
+Dører/luker med automatikk
+Brannalarmanlegg/ talevarslingsanlegg
+Nød- og ledesystem
+Automatikk for ventilasjonsaggregater, slik at de starter/trinner opp og går som
+normalt ved ev. brann.
+Heis som går ned til plan 1 og åpner dør til trapperom ved stor alarm.
+
+RIE
+
+BRANNKONSEPT
+22
+
+Branntekniske ytelseskrav – Tekniske installasjoner
+-
+
+Ansvar
+
+Røykventilasjonsanlegget
+
+Motoriserte brannspjeld forutsettes å lukke ved deteksjon og ved ev. strømutfall.
+Solceller
+Dersom myndigheter (brannvesen/byantikvar/byggesak) generelt aksepterer etablering av
+solceller på bryggetak, er det en del overordnete prinsipper og krav, som må ivaretas:
+Ved brannsentralen/hovedinngang må det finnes tydelig informasjon til brannvesen om
+at bygget har solcelleanlegg. Informasjon henges opp sammen med orienteringsplaner,
+og skal som et minimum beskrive følgende:
+Beskrivelse av anlegget og dets funksjon og hvor vesentlige installasjoner er
+plassert (solcellepaneler, omformer, batterirom/batterilager, kabler etc.).
+Eventuell nødstopp/brannbryter for anlegget og hvor denne er plassert.
+Oppbygning av underliggende konstruksjon (inkludert type
+isolasjonsmateriale).
+Demontering (type verktøy og størrelse/dimensjon).
+Plassering av paneler (beskrivelse av plassering og andre viktige opplysninger).
+Generell informasjon om størrelse/effekt på anlegget, type anlegg o.l.
+Kontaktpersoner (eier, vaktmester, produsent/leverandør o.l.
+I tillegg bør det opplyses om dato for montering, leverandør av anlegget og
+versjon av informasjonsbladet. For solcellepaneler plassert på tak bør det være
+oppgitt i dokumentasjonen hvor det er trygt for brannvesenet å ta hull i
+takkonstruksjonen.
+Ved montasje av solceller på skråtak og fasade må disse ha forsvarlig innfesting for å
+hindre nedfall som kan skade rednings- og slokkemannskapene og deres materiell
+under førsteinnsatsen. Det tillates ikke montert solcellepaneler på fasader i en
+utstrekning på ca. 2 m horisontalt rundt/over brannvesenets angrepsveier grunnet fare
+for nedfall som kan skade rednings- og slokkemannskaper.
+For å minimere risikoen for brannspredning via hulrom skal fasader seksjoneres enten
+ved bruk av brannstopp for bygningsintegrerte PV-paneler eller «gater» uten
+solcellepaneler i fasadene. Ved bruk av brannstopp monteres ekspanderende
+hulromsventiler mellom solcellepanelene og underliggende konstruksjon som et
+minimum i annenhver etasjeskiller.
+Vindsperre og lekter i hulrom bak kledning skal være begrenset brennbar.
+Det tillates kun benyttet ubrennbar isolasjon i takflater hvor solcellepaneler er montert.
+Det må etableres en solcellefri sone på min 1 m bredde for hver 40 m med
+solcellepaneler. Installasjonene skal plasseres i tilstrekkelig avstand fra ytterkant av
+tak. Ved større anlegg der solcelleinstallasjonen dekker et stort areal må installasjonen
+deles inn i soner for å sikre gangsoner for slokkemannskapet.
+For å redusere farene for brannmannskaper og ikke hindre tilgang til
+bygningsoverflaten ved brann skal solcelleinstallasjonen oppfylle krav gitt i tabell 52 i
+NBI-blad 321.231 Prosjektering av solcelleanlegg på bygninger som angitt under:
+
+RIE
+ARK
+LARK
+
+BRANNKONSEPT
+23
+
+Branntekniske ytelseskrav – Tekniske installasjoner
+
+-
+
+-
+
+-
+
+-
+
+Ansvar
+
+Det henvises generelt til NBI-blad 321.231 Prosjektering av solcelleanlegg på bygninger
+og NEK 400, samt TBRTs retningslinjer «Tilrettelegging for rednings- og
+slokkemannskap».
+Skilter festes lett synlig ved inngangspartiet til bygningen eller ved bygningens
+brannorienteringsplan ved hovedangrepsvei. I tillegg er det en fordel med
+sikkerhetsmerking i selve området hvor solcellepanelene er plassert
+Spenningsførende deler skal merkes tydelig. Gjelder alle deler på DC-siden som kan
+være spenningssatte etter frakobling.
+Der DC-kabler føres inn i bygningen, skal det være en anordning for frakobling fra
+solcellemodulene. Frakoblingsanordningen skal kunne aktiveres ved betjening av en
+bryter montert ved hovedangrepsvei. I tillegg til denne bør det være en automatisk
+bryter ved bortfall av AC-spenning på solcelleomformeren.
+Solcelleomformeren skal plasseres slik at behovet for å føre DC-kabler inne i bygningen
+er redusert til et minimum.
+Det stilles krav til atkomst via innvendig trapp/stige til takflater hvor solcellepaneler er
+montert.
+
+3.10 §11-11 Generelle krav om rømning og redning
+Branntekniske ytelseskrav – Generelle krav om rømning og redning
+
+Ansvar
+
+Byggverk skal prosjekteres og utføres for rask og sikker rømning og redning. Det skal tas
+hensyn til personer med funksjonsnedsettelse. Den tiden som er tilgjengelig for rømning, skal
+være større enn den tiden som er nødvendig for rømning fra byggverket. Det skal legges inn
+en tilfredsstillende sikkerhetsmargin. Bygningen skal ha slik form og innredning at varsling,
+rømning og redning kan skje på en rask og effektiv måte.
+
+ARK
+
+Skilt, symbol og tekst som viser rømningsveier og sikkerhetsutstyr skal kunne leses og
+oppfattes under rømning når det er brann- eller røykutvikling.
+Krav vedrørende rømning og redning for personer med funksjonsnedsettelse:
+Bygningen har virksomhet i risikoklasse 2 og 5. Det er tilrettelagt med trinnfrie utganger
+direkte til det fri fra fellesareal i plan 1.
+Det kan være behov for utstyr for eksempel evakueringsstol, som vil lette redning ved assistert
+rømning. Type og plassering av slikt utstyr må avklares nærmere med bruker/driftsorganisasjon.
+
+ARK
+Eier
+
+BRANNKONSEPT
+24
+
+Branntekniske ytelseskrav – Generelle krav om rømning og redning
+
+Ansvar
+
+Krav til planløsning i brannceller
+Må være slik at det er enkelt å orientere seg og finne utgangene.
+
+ARK
+
+Krav til fluktveier, inkl. møblering
+For dimensjonering av fri bredde er det lagt til grunn 1 cm pr. person, i tillegg må
+minimumsbredder ivaretas, hhv. 1,16 m (RKL 5), og 0,86 m (RKL 2). Generelt skal ikke
+møblering være til hinder for rømning i fluktsoner.
+
+IARK
+ARK
+Eier
+
+Krav til rømningsveier (grønnskravert areal), inkl. møblering
+Trapperom og rømningsveier skal generelt ikke inneholde møblering.
+
+IARK
+ARK
+Eier
+
+Krav om tilbakerømning
+Det må generelt være mulig å rømme tilbake hvis rømningsveier er røykfylt.
+
+RIE
+ARK
+
+3.11 §11-12 Tiltak for å påvirke rømnings- og redningstider
+Branntekniske ytelseskrav – Tiltak for å påvirke rømnings- og redningstider
+
+Ansvar
+
+Automatisk slokkeanlegg
+Bygningen skal fullsprinkles i tråd med NS-EN 12845, og i henhold til tillegg F. Det presiseres
+at det iht. NS-EN 12845 generelt stilles krav om at alle hulrom med brennbare overflater skal
+sprinkles. Hulrom, knevegger o.l., er spesielt viktig å ha kontroll på, både utførelse og tilkomst
+for slokkemannskap.
+
+RIV
+
+Røykkontroll
+Trapperom som er rømningsvei i byggverk med flere enn to etasjer, må røykventileres.
+Generelt er fri åpning på minimum 1,0 m2 øverst i trapperommene tilstrekkelig. Luken skal
+kunne åpnes manuelt med bryter fra inngangsplanet til hvert enkelt trapperom.
+Røykventilering av trapperom er av hensyn til brannvesenets innsats, og skal derfor kun ha
+manuell åpning. Takluker nærmere nabobrygge enn 4 meter må ha min brannklasse EI 60.
+
+ARK
+RIV
+RIE
+
+Hovedtrapperommet (trapperom mot vest) må ha ca. 1 m2 EI 60 kanal fra trapperom til
+takplan for utlufting av trapperom med luke EI 60.
+Installasjonssjakter forutsettes branntettet i dekkene. Ev. gjennomgående sjakter skal
+røykventileres dersom Sa-klasse ikke oppnås i sjaktvegg, se spesifisert i §11-8.
+Det henvises til SINTEF Byggforsk 520.380 for Røykkontroll i bygninger.
+Brannalarm
+Brannalarmanlegg må prosjekteres i samsvar med brannalarmkategori 2: Heldekkende
+brannalarmanlegg med optiske røykdetektorer i alle områder. Dekningsgraden må tilpasses ny
+planløsning, slik at samtlige rom dekkes av brannvarslingsanlegget. Det etableres
+mulitkriteriedetektorer, der det kan forekomme ulike former for røyk, for å redusere risiko for
+feilalarmer.
+Brannalarmanlegg må ha alarmoverføring til TBRTs nødalarmsentral, (ABA), vaktselskap og til
+personell som har ansvar for å iverksette aksjon i henhold til alarmorganisering. Manuelle
+brannmeldere etableres.
+Det må suppleres med optisk varsling (lyssignal) i:
+
+RIE
+
+BRANNKONSEPT
+25
+
+Branntekniske ytelseskrav – Tiltak for å påvirke rømnings- og redningstider
+-
+
+Ansvar
+
+de deler av bygget som er åpent for publikum
+fellesarealer
+rom som er universelt utformet i samsvar med § 12-7 sjuende ledd
+ev. øvrige areal med støyende virksomhet
+
+Brannalarmanlegg må prosjekteres og utføres i samsvar med NS 3960:2019 Brannalarmanlegg
+– Prosjektering, installasjon, drift og vedlikehold og NS-EN 54-serien så langt den passer og
+dersom andre ytelser ikke er gitt.
+Alarmorganisering må detaljeres av RIE etter avklaringer med byggherre, RIV og RIBr.
+Følgende forriglinger forutsettes ivaretatt:
+Sprinkler: Utløst sprinkler skal varsle alle.
+Ventilasjon: Alle systemer skal gå som normalt (ev. gå opp til normalnivå) ved
+brannalarm.
+Brannspjeld: Lukke ved brannalarm.
+Heis: Gå ned til utgangsplan ved brannalarm (plan 1), med åpen dør.
+Utløse dører på holdemagnet, ved detektert brann.
+Varsle nødalarmsentral ved stor alarm.
+Røykventilasjonsanlegget inkl. automatiske dører/vinduer og luker.
+
+RIE/ITB
+RIV
+
+Stor alarm ved utløsing av to detektorer samtidig, ved utløsing av brannmelder, eller ved utløst
+sprinkleralarm
+Ledesystem
+Byggverket må ha markeringsskilt over alle utganger til og i rømningsvei. Det forutsettes
+installert ledesystem i fluktsoner og rømningsveier.
+
+RIE
+ARK
+
+Størrelsen på brannceller og personantall legges til grunn for valg av type ledesystem. For
+prosjektering og utførelse av ledesystem vises til NS 3926-1 Visuelle ledesystemer for rømning
+i byggverk – Del 1: Planlegging og utforming [10]. For prosjektering og utførelse av
+nødbelysning i kontorarbeidsplasser vises det til NS-EN 1838:2013.
+Det stilles krav om nødbelysning i publikumsbygg der evakuerende kan bli utsatt for fare ved
+svikt i den kunstige belysningen. Derfor må flukt- og rømningsveier være utstyrt med nødlys
+som er tilstrekkelig til å dekke dette behovet.
+Forskrift om utforming og innretning av arbeidsplasser og arbeidslokaler
+(arbeidsplassforskriften) stiller krav om nødbelysning der arbeidstakere kan bli utsatt for svikt i
+den kunstige belysningen. Denne forskriften stiller også krav om at rømningsveier og
+nødutganger skal være utstyrt med nødlys som er tilstrekkelig til å dekke behovet i tilfeller
+med svikt i den ordinære belysningen.
+Ved prosjektering av byggverk der arbeidsplassforskriften gjelder, kan kravene i de to
+forskriftene ses i sammenheng. Ledesystem kan prosjekteres slik at disse installasjonene
+samlet sett gir de beste forutsetningene for rask og sikker rømning.
+Følgende krav spesifiseres:
+Rømningsmerking skal være synlig og lesbar fra alle steder i fluktveien og
+rømningsveien. Skiltstørrelse og kontrastforhold må være tilpasset branncellenes
+utforming.
+Krav til ledesystem gjelder rømningsveier, inkl. fellesarealer.
+Ledesystem må fungere i minst 60 minutter etter utløst brannalarm eller bortfall av
+
+RIE
+ARK
+
+RIE
+ARK
+
+BRANNKONSEPT
+26
+
+Branntekniske ytelseskrav – Tiltak for å påvirke rømnings- og redningstider
+-
+
+Ansvar
+
+kunstig belysning (strømbrudd).
+Det skal sikres tilstrekkelig ladebelysning til ev. etterlysende ledesystem.
+Ev. rømningsvindu må ha markeringsskilt.
+Belysning skal sikre at personer finner veien bort fra bygningen. Dette gjelder for alle
+utganger.
+Sentral for ledelyssystemet må være godt merket og lett tilgjengelig, og ikke være
+plassert i nærheten av brennbare materialer.
+
+Merking av installasjoner for rømnings- og redningsinnsats
+For arbeids- og publikumsbygninger, skal det foreligge evakueringsplaner før bygget tas i bruk.
+En evakueringsplan er en plan som skal sikre at alle personer i byggverket kommer seg til
+sikkert sted før kritiske forhold oppstår. Evakueringsplanen skal være tilpasset det enkelte
+byggverk, bruk, virksomhet og enkeltpersoner som har behov for assistanse.
+
+UTF
+Eier
+
+En evakueringsplan må blant annet omfatte:
+a) Prosedyrer for rapportering av brann og andre situasjoner som krever evakuering.
+b) Beskrivelse av hvilke omstendigheter eller situasjoner som krever evakuering.
+c) Beskrivelse av kommandolinjer for intern organisasjon.
+d) Oppgavebeskrivelser for personer som har en rolle under evakueringen, inklusiv de
+som skal assistere personer som har behov for hjelp til å komme ut av byggverket.
+Oppgavebeskrivelsen må være definert med hensyn til personer med ulike typer
+funksjonsnedsettelse. Det kan være behov for spesielt utstyr som vil gjøre evakuering
+av personer med funksjonsnedsettelser lettere og raskere.
+e) Plan for øvelser. Øvelsene må være realistiske med hensyn til assistert rømning.
+f) Rømningsplaner. Tegninger som viser planlagte fluktveier og rømningsveier og
+utganger, og plassering av slokkeutstyr og manuelle brannmeldere. Rømningsplaner er
+beregnet for personer som oppholder seg i bygget og inneholder ofte også en kort
+branninstruks, forklaring av symboler og en markering for «Her står du».
+Branntekniske installasjoner som har betydning for rømnings- og redningsinnsats (for
+eksempel manuelt slokkeutstyr, sprinklersentral, brannalarmsentral og åpner for røykluker)
+skal være tydelig merket.
+
+RIV
+RIE
+ARK
+
+3.12 §11-13 Utgang fra branncelle
+Branntekniske ytelseskrav – Utgang fra branncelle
+
+Ansvar
+
+Generelt
+Fra en branncelle skal det minst være én utgang til sikkert sted, eller utganger til to
+uavhengige rømningsveier, eller én utgang til rømningsvei som har to alternative
+rømningsretninger som fører videre til uavhengige rømningsveier eller sikre steder. Med sikkert
+sted menes et område hvor de kritiske forholdene det er evakuert fra, ikke er en trussel for
+mennesker og dyr. Ut til det fri på bakkeplan (vekk fra bygget) defineres som sikkert sted.
+
+ARK
+
+Fra brannceller som bare er beregnet for sporadisk personopphold kan utgang gå gjennom
+annen branncelle.
+Avstand i brannceller (fluktvei)
+Fluktavstand er definert som avstand fra minst gunstige sted i branncelle til definert
+rømningsvei (grønn skravur på branntegning) / utgang til det fri.
+Maksimal fluktavstand for kontorarealer (RKL 2) er 50 meter. Dette er ivaretatt.
+Maksimal fluktavstand i publikumsområder (RKL 5) er 30 meter. Dette er ivaretatt.
+
+ARK
+
+BRANNKONSEPT
+27
+
+Branntekniske ytelseskrav – Utgang fra branncelle
+
+Ansvar
+
+Dører til rømningsvei og utgang til sikkert sted
+Krav til åpningskraft for dører til rømningsvei gjelder også når brannalarm er utløst, og
+vil vanligvis innebære at selvlukkende dører (med dørpumpe) må ha dørautomatikk og
+ha UPS fram til dør.
+
+RIE
+ARK
+
+Åpningskraft for dører til rømningsvei må være maksimalt 67 N dersom det ikke følger
+andre krav av § 12-13. Iht. § 12-13 (4a) skal det i bygninger med krav til universell utforming
+sikres at åpningskraft på dører i hovedatkomster og hovedrømningsveier ikke overstiger 30 N.
+Dør til rømningsvei kan være låst forutsatt at låsesystemet åpnes automatisk ved brannalarm.
+I tillegg må det være tydelig merket knapp for manuell åpning av døren.
+Dør til rømningsvei skal ha et låsesystem som gjør det mulig å vende tilbake dersom
+rømningsveien skulle være blokkert.
+Dører til rømningsvei fra publikumsarealer forutsettes å kunne åpnes manuelt med ett grep og
+uten bruk av nøkkel.
+Utadslående dør i yttervegg tiltenkt for rømning, må ikke kunne blokkeres av snø eller is.
+Takoverbygg, snøfangere på tak og lignende vil kunne forhindre dette. Ved bruk av utvendig
+plattform mot Nidelva (servering i sommerhalvåret), foreslås manuelle dører uten dørpumpe.
+Slagretning kan være inn- eller utadslående, ut fra praktiske hensyn, da de vil være relativt få
+personer, og ingen risiko for opphopning.
+Utganger fra brannceller
+Slagretning:
+Generelt skal dører fra brannceller med > 10 personer slå ut i rømningsretning. På grunn av
+bryggas utforming, er det ikke bestandig mulig å få til slagretning i rømningsretningen. Det
+forutsettes simulert tilstrekkelige rømningsscenarioer som avdekker hvor opphopning kan skje,
+og gjennomføre layoutmessige tiltak ut fra det.
+Fri bredde og høyde til rømningsvei:
+For dimensjonering av rømningsbredde legges det til grunn 1 cm/person.
+Følgende minimum er gjeldende:
+I kontorarealer (RKL 2): Min. 0,86 m.
+I forsamlingsarealer (RKL 5): Min. 1,16 m
+Dører til rømningsvei må ha fri høyde min. 2,0 m.
+Øvrige krav til dører til rømningsvei:
+Dør må lett kunne åpnes slik at den er enkel å bruke for alle personer.
+Selvlukkende dør kan settes i åpen stilling vha. elektromagnetiske holdere som utløses
+og lukker døren ved brannalarm. Døren må kunne åpnes igjen med dørautomatikk eller
+manuelt med åpningskraft i samsvar med §12-13.
+Dør kan være låst dersom låsesystemet åpnes automatisk ved brannalarm. I tillegg må
+det være tydelig merket knapp for manuell åpning av døren.
+Utadslående rømningsdør må ikke kunne blokkeres av snø eller is. Dette kan ivaretas
+med takoverbygg, varmekabler eller rutiner for snømåking.
+Dører til det fri/til rømningsvei fra forsamlingsarealer må være utført for sikker rømning
+ved at døren må kunne åpnes manuelt med ett grep og uten bruk av nøkkel.
+
+ARK
+RIBR
+
+BRANNKONSEPT
+28
+
+Branntekniske ytelseskrav – Utgang fra branncelle
+
+Ansvar
+
+Spesielle krav til brannceller beregnet for et stort antall personer
+Brannceller som har et stort antall personer må ha tilpasset antall utganger og bredder, med
+minst to utganger til rømningsvei.
+
+ARK
+
+Følgende krav gjelder generelt:
+Brannceller må ha minst én utgang pr. 300 personer.
+Utgangene må være hensiktsmessig fordelt i arealet.
+For dimensjonering av fri bredde benyttes 1 cm per person.
+Kravene vurderes generelt ivaretatt, det henvises til brannplaner som viser strategi for
+rømning.
+Rømning fra brannceller med sporadisk personopphold
+Fra brannceller med sporadisk personopphold, aksepteres rømning via annen branncelle. Med
+branncelle for sporadisk opphold menes det rom der personer oppholder seg av og til i kortere
+tid. Dette kan være lagerrom, boder og tekniske rom uten faste arbeidsplasser. For at
+rømningen skal foregå raskt og sikkert, må fluktveien være oversiktlig, ha god merking og
+belysning og det må ikke foregå brannfarlig aktivitet i nabobranncellen. Fluktvei må ikke
+overstige 50 m fra rom med sporadisk personopphold til rømningsvei/utgang til det fri.
+
+ARK
+
+3.13 §11-14 Rømningsveier
+Branntekniske ytelseskrav – Rømningsveier
+
+Ansvar
+
+Generelt
+Rømningsvei skal på oversiktlig og lettfattelig vis måte føre til sikkert sted. Den skal ha
+tilstrekkelig bredde og høyde og være utført som egen branncelle for rask og effektiv rømning.
+
+ARK
+
+Utforming av korridor som del av rømningsvei
+Fri bredde i rømningsvei skal være minst 1,16 m fra forsamlingsarealer og 0,86 m fra
+kontorområder. Fra arealer med større personantall kreves større fri bredde i rømningsvei.
+Det skal ikke være innsnevringer i rømningsvei. Rekkverk inntil 10 cm ut fra vegg aksepteres.
+
+ARK
+
+Utforming av trapperom
+Som angitt i kap. 0 skal det etableres interntrapp i tillegg til to trapperom med tilkomst til
+samtlige etasjer. Skrårampe mot nord forutsettes ikke regnet som rømningsvei, kun som
+atkomst til ev. uteservering i sommerhalvåret.
+
+ARK
+
+Med bakgrunn i dimensjonerende personbelastning, stilles det krav om følgende fri bredde på
+trapper:
+Spiraltrapp (mot øst)
+Fri bredde min. 0,86 m i ganglinje
+Interntrapp
+Fri bredde min. 1,16 m
+Trapperom (mot vest)
+Fri bredde min. 0,86 m
+Heis og rulletrapp i forbindelse med rømning
+Heis skal ikke benyttes ved evakuering. Det forutsettes at heis går ned til utgangsplan (plan 1)
+med åpen dør ved brannalarm.
+Skjerming av rømningsvei
+
+ARK
+
+BRANNKONSEPT
+29
+
+Branntekniske ytelseskrav – Rømningsveier
+
+Ansvar
+
+Rømningsvei, -trapper og -utganger skal skjermes med branncellebegrensende konstruksjoner
+i avstand minimum 5 m. Krav til ubrennbare kledninger og overflater i mellomrommet mellom
+bryggene. Hvordan dette skal sikres ifm. utgang fra spiraltrapp jf. Figur 10, må avklares i
+detaljfasen og sees i sammenheng med fravik 2 (kap. 4).
+
+ARK
+
+Figur 10: Skjerming av utgang til det fri fra spiraltrapp må avklares.
+
+Dører i rømningsvei
+Åpningskraft for dører i rømningsvei må være maksimalt 67 N dersom det ikke følger
+andre krav av § 12-13. Iht. § 12-13 (4a) skal det i bygninger med krav til universell utforming
+sikres at åpningskraft på dører i hovedatkomster og -rømningsveier ikke overstiger 30 N.
+
+ARK
+RIE
+
+Krav til åpningskraft for dører til rømningsvei gjelder også når brannalarm er utløst, og
+vil vanligvis innebære at selvlukkende dører (med dørpumpe) må ha dørautomatikk og
+UPS fram til dør. Dette må sikres i 60 min.
+Minimum fri bredde på dør i rømningsvei:
+Kontorarealer (RKL 2): 0,86 m.
+Publikumslokaler (RKL 5): 1,16 m
+Se krav til fri bredde i rømningstrapp over.
+Høyde på rømningsdør minimum 2,0 m.
+
+ARK
+RIE
+
+Dører som er plassert i selve rømningsveien må uavhengig av persontall, slå i rømningsretning,
+så lenge det ikke er risiko for oppstuving.
+Dør i rømningsvei skal ha et låsesystem som gjør det mulig å vende tilbake dersom
+rømningsveien skulle være blokkert.
+Dører i rømningsvei fra publikumsarealer forutsettes å kunne åpnes manuelt med ett grep og
+uten bruk av nøkkel.
+Se ellers krav i kap. 3.12.
+Spesielle dører
+Automatiske skyvedører og dører med dørautomatikk eller dør med annet elektromagnetisk
+åpne- og lukkesystem som ikke har brann- eller røykskillende funksjon, for eksempel dør til det
+fri, kan benyttes som dør i rømningsvei dersom døren har sikker funksjon ved bortfall av
+strøm, og
+a. Byggverket har brannalarmanlegg og døren ved alarm eller strømbrudd åpnes
+automatisk til den bredde som er nødvendig, eller
+
+RIE
+
+BRANNKONSEPT
+30
+
+Branntekniske ytelseskrav – Rømningsveier
+b.
+
+Ansvar
+
+Døren manuelt kan føres til åpen stilling.
+
+3.14 §11-15 Tilrettelegging for redning av husdyr
+Branntekniske ytelseskrav – Tilrettelegging for redning av husdyr
+
+Ansvar
+
+Generelt
+Ikke relevant.
+
+-
+
+3.15 §11-16 Tilrettelegging for manuell slokking
+Branntekniske ytelseskrav – Tilrettelegging for manuell slokking
+
+Ansvar
+
+Det installeres formstabile brannslanger i alle arealer. Brannslangene må ha en rekkevidde som
+sikrer at alle rom nås. Brannslangene må ikke være mer enn 30 m ved fullt uttrekk.
+Brannslanger utføres iht. NS-EN 671-1:2012 Faste brannslokkesystemer - Slangesystemer Del 1: Slangetromler med formstabil slange.
+
+RIV
+ARK
+RIE
+
+Følgende forutsetninger legges til grunn for plassering:
+Plassering skal være slik at man unngår å trekke brannslanger over til rømningsvei
+eller over til andre brannceller enn slangen skal dekke.
+Plassering skal være slik hver sone dekkes opp (sone tenkes som branncelle).
+I tillegg skal det monteres egnet slokkemiddel i de rom hvor slokking med vann ikke er det
+beste slokkemidlet. Dette kan være CO2-apparat, pulverapparat, branntepper og lignende.
+Slike rom er tekniske rom og som supplering i kjøkken.
+Håndslokkeapparater kan være pulverapparater på minimum 6 kg med ABC-pulver, eller skumog vannapparater på minimum 9 liter eller på minimum 6 liter og med effektivitetsklasse minst
+21A etter NS-EN 3-7:2004+A1:2007.
+Materiell for manuell slokking må være plassert slik at det er synlig og godt tilegnelig, slik at
+brukerne lett kan finne fram til det og kunne ha mulighet til å slokke branntilløp i startfasen før
+det utvikler seg til en større brann.
+
+ARK
+RIE
+
+Branntekniske installasjoner og slokkeutstyr skal være tydelig merket. Skiltene må være
+etterlysende (fotoluminiscerende) eller belyst med nødlys. Tilvisningsskilt for slokkeutstyr må
+stå på tvers av ferdselsretningen. Merking må være i henhold til NS-ISO 3864 [11].
+For materiell som krever bruksanvisning, må denne finnes på eller ved materiellet, også på de
+mest aktuelle fremmedspråk.
+
+3.16 §11-17 Tilrettelegging for rednings- og slokkemannskap
+Branntekniske ytelseskrav – Tilrettelegging for rednings- og slokkemannskaper
+
+Ansvar
+
+Tilgjengelighet til byggverket
+Byggverk skal plasseres og utformes slik at rednings- og slokkemannskap, med nødvendig
+utstyr, har brukbar tilgjengelighet til og i byggverket for rednings- og slokkeinnsats. Det må
+være tilrettelagt for kjørbar atkomst helt frem til hovedinngang og brannvesenets angrepsvei i
+byggverk. Det etableres oppstillingsplass for stigebil i Fjordgata. Oppstillingsplassen er
+konferert med TBRT pr. e-post av 09.06.2023, se kap. 1.4. Adkomst og oppstillingsplass for
+brannvesenet utføres iht. TBRT sine retningslinjer Tilrettelegging for rednings- og
+slokkemannskap.
+
+ARK
+LARK
+
+BRANNKONSEPT
+31
+
+Branntekniske ytelseskrav – Tilrettelegging for rednings- og slokkemannskaper
+
+Ansvar
+
+Det forutsettes god merking av kjørbar atkomst og oppstilling for brannvesenet, slik at
+parkering eller andre forhold ikke hindrer tilgjengelighet for innsats.
+Fra Nidelva vil TBRTs Brannbåt være tilgjengelig, båten er ifølge TBRT forventet å være
+operativ i løpet av sommeren 2023. Brannbåten har to vannkanoner som leverer 3000 l/min pr
+kanon om begge kjøres samtidig, og 5000 l/min om bare en kanon blir benyttet. Hvor nært
+brygga båten kan komme avhenger om det er flo eller fjære. Ved bruk av én kanon er
+maksimal kastelengde 90 meter (kastelengden er kortere om begge kanonene skal kjøres
+samtidig).
+Det må regnes med lengre innsatstid for båten enn for ressurser fra land, fordi brannbåten ikke
+automatisk blir ut-alarmert ved automatisk brannalarm (ABA).
+Tilgjengelighet i byggverket
+Bygningen har hovedangrepsvei fra Fjordgata, som angitt på vedlagte brannplaner. Videre er
+det fra Nidelva, via utvendig plattform/skrårampe og til dør i fasade mulig å komme seg videre
+inn i bygget for innsatspersonell.
+
+ARK
+RIE
+
+Alle deler av en etasje skal kunne nås med maksimalt 50 meter slangeutlegg. Avstand regnes
+fra nærmeste brannskille.
+Brann i takkonstruksjoner og hulrom er ofte vanskelig å kontrollere og slokke. Det må legges
+særlig vekt på utforming av tak, sjakter og hulrom, adkomst og mulighet for inspeksjon og
+effektiv slokking. Hulrom må være tilgjengelige for inspeksjon. Dette gjelder også ev. større
+hulrom i etasjeskiller. Hulrom må være tilgjengelig for brannvesenet.
+-
+
+-
+
+Tilgjengelighet til gjennomgående sjakter kan sikres med luker i topp og bunn av
+sjakten (min. 300x300 mm). Inspeksjonsluker skal ikke svekke sjaktveggens
+brannmotstand.
+Tilgjengelighet til nedforet himling kan ivaretas med luke i himling, eller ved at himling
+består av nedfellbare eller løse elementer. Avstand mellom to inspeksjonsluker i
+himling bør ikke være større enn 10 m.
+
+Vannforsyning utendørs
+Det må være tilstrekkelig antall brannkummer eller hydranter slik at alle deler av byggverket
+dekkes. Slokkevannskapasiteten må være minst 3000 liter per minutt, fordelt på minst to
+uttak.
+
+RIV
+LARK
+
+Det regnes ikke med samtidig uttak av slokkevann til sprinkleranlegg og brannvesen.
+Brannkum/hydrant må være plassert innenfor 25-50 meter fra inngangen til brannvesenets
+hovedangrepsvei.
+Slokkevann må være lett tilgjengelig uavhengig av årstiden.
+Vannforsyning innendørs
+Bygningen har angrepsvei direkte fra gate og ev. via brannbåt fra Nidelva.
+
+RIV
+
+Det etableres stigeledning i trapperom for spiraltrapp med uttak i plan 5. Stigeledning må
+utformes iht. TBRTs retningslinjer.
+Installasjoner for rednings- og slokkemannskap utenfor byggverket
+Følgende ytelser må være oppfylt:
+
+RIVA
+
+BRANNKONSEPT
+32
+
+Branntekniske ytelseskrav – Tilrettelegging for rednings- og slokkemannskaper
+-
+
+Brannvannsuttak må plasseres 25-50 meter fra hovedangrepsvei og oppstillingsplasser
+for brannbil.
+Det må være tilstrekkelig antall brannkummer/hydranter til at alle deler av byggverket
+dekkes.
+Slokkevannkapasiteten må være minst 3000 L/min, fordelt på minst to uttak.
+Kummer skal plasseres på brøytet vei.
+
+Ansvar
+RIV
+RIE
+ARK
+
+Det regnes ikke med samtidig uttak av slokkevann til sprinkleranlegg og brannvesen.
+I tillegg mulighet for bruk av brannbåt fra Nidelva.
+Installasjoner for rednings- og slokkemannskap i byggverket
+Trapperom med flere enn to etasjer må røykventileres. Det skal etableres eget tablå for
+betjening av røykluke i plan 1 i hvert trapperom.
+
+RIE
+ARK
+
+Merking av installasjoner for rednings- og slokkemannskap
+Tekniske installasjoner skal merkes slik at rednings- og slokkepersonell får informasjon så
+effektivt som mulig, og dermed kan utføre sine oppgaver raskt. Det forutsettes montert
+orienteringsplaner ved brannsentral og ev. brannmannspanel (tablå). Disse må være oppdatert
+ift. hele byggverket, inkl. ev. areal som ikke omfattes av hovedombyggingen.
+
+ARK
+RIE
+RIV
+
+Sprinklersentral må merkes med skilter hele veien fra hovedangrepsvei til sprinklerrom.
+Røyklukeåpner til trapperom må merkes med tilvisningsskilt.
+Sikring mot nedfall av bygningsdeler
+Balkonger, vinduer, fasadeplater og utkragede bygningsdeler bør festes med ubrennbare
+festemidler for å hindre nedfall som kan skade rednings- og slokkepersonell. Utkragede
+bygningsdeler bør forankres i bygningens hovedbæresystem. Det skal ikke benyttes aluminium.
+
+RIB
+
+BRANNKONSEPT
+33
+
+4.
+
+IDENTIFISERTE FRAVIK FRA YTELSER I VTEK
+
+4.1
+
+Identifiserte fravik
+Foreløpig er det registrert seks fravik fra preaksepterte ytelser i veiledning til TEK17, jf. pkt 3.1.
+Tabell 9: Fravik fra VTEK, oversikt
+
+Fravik
+
+Henvisning TEK17
+
+Kort beskrivelse
+
+§11-4 Bæreevne
+og stabilitet.
+
+Hovedbæresystemet i tre vil motstå en brann i minimum 60 minutter.
+
+Nr.
+1
+
+Dette kan være et fravik fra bygg i BKL 3 og 4, hvor kravet er at
+hovedbæresystemet skal dimensjoneres for å kunne opprettholde
+tilfredsstillende bæreevne og stabilitet gjennom et fullstendig brannforløp, slik
+det kan modelleres.
+2
+
+§11-6 Tiltak mot
+brannspredning
+mellom byggverk.
+
+Høye byggverk skal ha minimum 8,0 m avstand til annet byggverk, med
+mindre byggverket er utført slik at spredning av brann hindres gjennom et
+fullstendig brannforløp.
+I praksis betyr det en brannvegg med minimum 120 minutters brannmotstand
+utført av ubrennbare materialer. Begrensningsveggene i brygga er av laftet
+tømmer, og tilfredsstiller ikke slik brannmotstand. Veggene må også avstives.
+Det betyr at noen av de avstivende konstruksjonene (etasjeskillene), vil være
+en del av kravet til ytterveggene. Avklares nærmere sammen med RIB.
+
+3
+
+§11-8 Branncelle
+
+Åpne brannceller over flere plan kan medføre rask røyk- og brannspredning og
+krever derfor spesielle tiltak.
+Brannceller i risikoklasse 1,2, 4 og 5 kan ha åpen forbindelse over inntil tre
+plan, forutsatt at branncellen er tilrettelagt for at rømning og slokking av brann
+kan skje på en rask og effektiv måte dersom følgende ytelser er oppfylt:
+a.
+
+Det må installeres automatisk sprinkleranlegg når samlet bruttoareal
+for plan som har åpen forbindelse er over 800 m2.
+
+b.
+
+Det må være tilrettelagte rømningsveier fra hver enkelt plan.
+
+Bygget er utstyrt med automatisk sprinkleranlegg, og brannalarmanlegg med
+direktevarsling til brannvesenet som sikrer rask deteksjon og tidlig varsling.
+Det er godt tilrettelagte rømningsveier fra hvert plan. I plan 5 må
+konstruksjoner som vender mot det åpene arealet og ned til plan 1, utføres
+som røykskille med E 30 [F 30].
+4
+
+§11-8 Branncelle
+
+Branncellebegrensende bygningsdeler i brannklasse 3 skal utføres med
+brannmotstand EI 60 A2-s1,d0 [A 60]. I praksis betyr dette bruk av
+ubrennbare eller begrensede brennbare materialer. Brygga er av antikvarisk
+verdi og består i all hovedsak av tre, et brennbart materiale.
+Branncellebegrensende bygningsdeler utføres med brannmotstand EI 60 [B 60]
+jf. Brannklasse 2 og ikke EI 60 A2-s1,d0 [A 60] som for brannklasse 3.
+Avklares nærmere.
+
+5
+
+§ 11- 13 Utgang
+fra branncelle
+§ 11-14
+Rømningsvei
+
+Dør til rømningsvei i byggverk i risikoklasse 5 må ha fri bredde minimum 1,16
+meter. Samlet fri bredde i rømningsvei må minimum være 1 cm per person,
+men uansett minst 1,16 meter for risikoklasse 5.
+Dør/trapp fra underetasje utføres med fri bredde tilsvarende 0,86 meter.
+Fraviket anses som akseptabelt pga. begrenset publikumsmengde. Brygga
+
+BRANNKONSEPT
+34
+
+tilrettelegges med to rømningstrapper med utgang direkte til det fri i tillegg til
+interntrapp.
+6
+
+§11-17
+Tilrettelegging for
+rednings- og
+slokkemannskap
+
+Byggverk skal plasseres og utformes slik at rednings- og slokkemannskap, med
+nødvendig utstyr, har brukbar tilgjengelighet til og i byggverket, og lett kan
+bekjempes.
+Avstanden mot nabobyggene gjør at brannvesenet har dårlig eller ingen tilgang
+på langsidene av brygga. Hvordan sikre tilfredsstillende tilgjengelighet for
+rednings- og slokkemannskap må avklares i detaljfasen, også i samråd med
+TBRT. I praksis betyr det en brannvegg med minimum 120 minutters
+brannmotstand utført av ubrennbare materialer. Ytterveggen i brygga er av
+laftet tømmer, og tilfredsstiller ikke slik brannmotstand. Veggene må også
+avstives. Det betyr at noen av de avstivende konstruksjonene (etasjeskillene),
+vil være en del av kravet til ytterveggene. Avklares nærmere sammen med
+RIB.
+
+4.2
+
+Generelt vedrørende fraviksbehandlingen
+I det ovenstående er det foretatt overordnede og foreløpige vurderinger, som viser at prosjektet vil
+være gjennomførbart slik planene foreligger. Fravik vurderes dermed å være tilstrekkelig identifisert og
+underbygget, som grunnlag for søknad om rammetillatelse. Videre fraviksbehandling og dokumentasjon
+vil skje i forbindelse med søknad om igangsettingstillatelse.
+
+BRANNKONSEPT
+35
+
+5.
+
+SPESIELT I FORHOLD TIL UTFØRELSESFASEN
+Til innkjøpsfasen
+Ytelseskrav angitt i kapittel 3 er tilpasset brannteknisk klassifisering av materialer og bygningsdeler.
+Valg av materialer og produktegenskaper forutsettes å være i samsvar med framtidige
+dokumentasjonskrav Veiledning til Teknisk Forskrift VTEK 17, i kapittel 2 og 3, i areal som omfattes av
+tiltaket.
+Ved valg av fravikende produkter, bygningsdeler, og bruk av ferdige bygningsmoduler skal
+dokumentasjon framlegges for fagansvarlige på forhånd.
+Til utførelsesfasen
+Midlertidige branntekniske tiltak i utførelsesfasen, for eksempel atkomst for redningsmannskap,
+forutsettes behandlet som et kapittel i en egen SHA-plan ift.. krav i byggherreforskriften [12]. Ansvar
+for etablering og ajourføring av SHA-planen ligger til SHA-koordinator for prosjekteringsfasen og
+utførelsesfasen.
+Brannsentral/-mannspanel må være operativt og tilgjengelig i utførelsesfasen. Det må ev. vurderes
+midlertidig brannmannspanel for å dekke opp ev. mangler.
+Det forutsettes at sprinkleranlegg fungerer i områder utenfor byggesone i alle faser av ombyggingen.
+
+BRANNKONSEPT
+36
+
+6.
+
+SPESIELLE KRAV TIL DRIFTSFASEN
+Krav til brannverndokumentasjon
+Normalt vil slike bygninger bli klassifisert som særskilt brannobjekt og det stilles krav om at det
+utarbeides branndokumentasjon.
+Således stilles krav til øvelser, egenkontroller, serviceavtaler etc. Det forutsettes at dette ivaretas.
+Det kan være behov for utstyr som vil lette redning ved assistert rømning. Dette må ivaretas av
+driftsorganisasjonen.
+Fluktvei/ rømningsvei
+Det er viktig at det utarbeides instrukser for kontroll av fluktsoner og rømningsveier. Bruker plikter å
+gjøre seg kjent med rømningsveier og fluktsoner, og melde fra til eier dersom fluktveier ikke fungerer
+som forutsatt. Kontroll av flukt- og rømningsveier må prioriteres i det brannforebyggende arbeidet.
+Serviceavtaler
+Det må tegnes eksterne serviceavtaler for alle branntekniske installasjoner. Selv om det er etablert
+mange passive brannskiller i bygget, er sprinkleranlegg, brannalarmanlegg, ledesystem og
+røykventilasjon viktige for brannsikkerheten. Gode rutiner for kontroll og service av disse
+installasjonene er særdeles viktige.
+Møblering
+Rømningsveier skal ikke være møblert og skal ikke inneha brennbart opplag.
+Ombygging
+Det presiseres at bruksendring er søknadspliktig.
+Ved ombygging internt innenfor branncelle må det som normalt ved alle ombygginger tas hensyn til at
+alarmanlegg, sprinkler og ledesystem er tilpasset dagens planløsning. Installasjonene må tilpasses ny
+planløsning. Ev. fremtidige ombygginger må vurderes spesielt av brannteknisk rådgiver.
+I henhold til Forskrift om brannforebygging har bruker en grunnleggende plikt til å bruke byggverket i
+samsvar med kravene til byggverket, og dessuten unngå unødig risiko for brann.
+
+BRANNKONSEPT
+37
+
+7.
+
+LITTERATURHENVISNINGER
+[1] Direktoratet for samfunnssikkerhet og beredskap, «Forskrift om brannforebygging. Sist endret
+FOR-2015-12-17-1710,» 2015.
+[2] Kommunal- og regionaldepartementet. Bolig- og bygningsavd., «Forskrift of byggesak
+(Byggesaksforskriften) FOR-2010-03-26-488,» 2010.
+[3] Kommunal- og regionaldepartementet, «Forskrift om tekniske krav til byggverk (Byggteknisk
+forskrift). FOR-2017-06-19-840,» 2017.
+[4] Direktoratet for byggkvalitet, «Veiledning om tekniske krav til byggverk. HO-2/2011,» 2017.
+[5] Miljøverndepartementet, «Lov om planlegging og byggesaksbehandling (plan- og bygningsloven).
+Sist endret LOV-2012-08-10-61,» 2008.
+[6] Justis- og beredskapsdepartementet, «Lov om vern mot brann, eksplosjon og ulykker med farlig
+stoff og om brannvesenets redningsoppgaver (Brann- og eksplosjonsvernloven). Sist endret LOV2009-06-19-103,» 2002.
+[7] Direktoratet for samfunnssikkerhet og beredskap, «Forskrift om organisering og dimensjonering
+av brannvesen (dimensjoneringsforskriften). Sist endret FOR-2012-09-10-875,» 2009.
+[8] Direktoratet for samfunnssikkerhet og beredskap, «Forskrift om håndtering av brannfarlig,
+reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (Forskrift
+om håndtering av farlig stoff). Sist endret FOR-2009-09-01-1142,» 2009.
+[9] Standard Norge, «NS 3919 Brannteknisk klassifisering av materialer, bygningsdeler, kledninger og
+overflater,» 1997.
+[10] Standard Norge, «NS 3926-1 Visuelle ledesystemer for rømning i byggverk - Del 1: Planlegging og
+utforming,» 2009.
+[11] Standard Norge, «NS-ISO 3864 Grafiske symboler - Sikkerhetsfarger og sikkerhetsskilter - Del 1
+til 4,» 2011.
+[12] Arbeidsdepartementet, Arbeidsmiljø- og sikkerhetsavd., «Forskrift om sikkerhet, helse og
+arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften). FOR-2009-08-03-1028,»
+2009.
+
+VEDLEGG
+Branntekniske tegninger
+
+
+
+
+Fjordgata 30- Midlertidige brannverntiltak
+[Report subtitle]
+Oppdragsnavn
+
+Fjordgata
+
+Prosjekt nr.
+Mottaker
+
+TBRT v/Morten
+
+Dokument type Brannteknisk notat
+Versjon
+
+01
+
+Dato
+
+04.12.2023
+
+Utført av
+
+Dag Denstad
+
+Kontrollert av
+
+Andreas Edvardsen Sæter
+
+Godkjent av
+
+Dag Denstad
+
+Beskrivelse
+
+Midlertidige brannverntiltak
+
+Midlertidige brannverntiltak
+No table of contents entries found.Kodeworks AS, som eier av brygga i Fjordgata 30 i Trondheim, har i
+juli 2023 sendt inn søknad om rammetillatelse for omfattende ombygging og rehabilitering av brygga.
+Rambøll er engasjert som ansvarlig brannteknisk prosjekterende i forbindelse med prosjektet, og har
+utarbeidet og sendt inn et foreløpig brannteknisk konsept, som en del av rammesøknaden.
+Inntil godkjenning av søknaden foreligger, og ombyggingsarbeidene vedtas igangsatt, benyttes brygga
+midlertidig til utleie av minilagre i 2. etasje. Kodeworks har også midlertidige kontorer i 2. etg. i den
+forbindelse.
+Bortsett fra den midlertidige virksomheten i 2. etasje, står brygga tom, uten aktivitet. Brannteknisk, er
+det tidligere etablert påkoblingssprinkler for beskyttelse av langvegger mot nabobryggene i Fjordgata 28
+(mot øst), og Fjordgata 32 (mot vest). Påkoblingsstuss for brannvesenet er etablert ved hovedinngang i
+Fjordgata. Det er ikke foretatt andre aktive brannsikringstiltak i de tomme etasjene. Det er åpen
+forbindelse via trapper mellom etasjene.
+
+Srinklertrasè langs yttervegg mot nr 28 i 3. etg.
+
+Påkobling for sprinkler ved hovedinngang.
+
+Brygga er blitt påbygget med 2 etasjer rundt 1930. Begrensningsvegger mot nabobryggene i nr 28 og
+32, er tømmervegg, i de tre nederste etasjene. I de to påbygde etasjene øverst, er det
+bindingssverksvegger. Etasjeskillene i de tomme etasjene er plankegulv. Begrensingsvegger og
+
+Doc ID
+
+/
+
+Versjon
+
+\\files\Projects\RNO2023N007XX\RNO2023N00703\3-MYND\Fjordgata 30 MidlertidigeConfidential
+branntiltak Svarnotat 05122023.docx
+
+1/5
+
+Rambøll - Fjordgata 30- Midlertidige brannverntiltak
+
+etasjeskillere, inklusive alarmanlegg og automatisk sprinkleranlegg er planlagt etablert i forbindelse
+med ombyggingsarbeidene.
+Dersom ombyggingsarbeidene ikke igangsettes, har Trøndelag Brann og redningstjeneste, i tilsynssak nr
+5001/401/149 satt krav om at det iverksettes en del midlertidige brannsikkerhetstiltak. Noen av
+tiltakene er av enklere art, og er utført. For de gjenstående tiltakene har TBRT satt en frist til 01.01.24
+på å bli gjennomført.
+Det vises til tidligere korrespondanse i saken:
+Notat fra TekØk AS Brannrådgiving av 19.01.23, med foreslåtte midlertidige tiltak, av enklere
+art og av mer omfattende art, dersom planene om oppgradering av brygga skrinlegges.
+Svarnotat fra Kodeworks AS av 14.07.2023, med status over utførte tiltak
+Brev fra Enhet tilsyn i TBRT av 03.08.2023, med frist 01.01.24, på å gjennomføre mer
+omfattende midlertidige tiltak,
+De mer omfattende sikringstiltakene jfr utskrift fra TekØk AS sitt notat av 19.01.23 er:
+
+1. Oppgradere påkoblingssprinkleren som er etablert som beskyttelse av ytterveggene
+mot naboeiendommene i de områder der det er foretatt en tettere oppdeling av boder og som
+opprinnelig ble etablert som en kompensasjon for at brygga hadde bæresystemer som var i
+brennbare materialer og tømmer i det som skal fremstå som byggets brannvegger. Dette krever
+en utvidelse av påkoblingssprinkleren innvendig i bodarealet. Dette vil kunne kompensere for at
+bæresystemet i bygget er synlige tømmerdragere.
+Sette en fysisk begrensning i bodarealene som grenser mot tømmerveggen mot
+naboeiendommene for å sikre at slokkevann fra påkoblingssprinkleren treffer tømmerveggen,
+samt kle hele ytterveggen mot Fjordgata 28 med gipskledning eller tilsvarende i bodarealene i 2.
+etg
+Oppgradere etasjeskilleren mellom etasjene slik at disse tilfredsstiller et ytelsesnivå tilsvarende
+EI60 (B60), samt at alle himlinger i bodarealene skal ha overflate B-s1,d0 (oppnås ved
+gispkledning i bland annet bodene).
+Etablere ledesystem i form av lavtsittende linjemerking i alle korridorene som skal fremstå
+som rømningsveier
+Supplere med rømningsskilt der dette er mangelfullt i 1. etg og 2. etg i fluktveier og rømningsveier.
+Dersom en gruppe med boder skal tilhøre en og samme branncelle, så forutsetter det at ingen av
+leietakerne av bodene har tilgang til disse uten tilsyn fra utleier.
+
+2.
+
+3.
+
+4.
+5.
+6.
+
+Av disse, er tiltak 4-6 dokumentert utført i svarnotat fra Kodeworks av 14.07.2023.
+2.Gjenstående midlertidige tiltak
+Rambøll er engasjert av Kodeworks for å gjennomgå og vurdere midlertidige brannsikringstiltak, jfr pkt
+1-3 i notat fra TekØk av 19.01.2023. I og med at rammesøknad for hovedombygging nå er innvilget av
+Byggesak pr 28.11.23, mener vi det vil være aktuelt å se dette i sammenheng, dvs dersom deler av
+prosjektet, kan påstartes først, kan midlertidige sikkerhetstiltak enten innlemmes i de permanente, eller
+utgå, til fordel for de permanente. Tiltakshaver har nå en videre prosess mot utførende, i forhold til når
+oppstart av permanente arbeider kan starte, og hvilke deler av hovedombyggingen, det omfatter.
+Vi forventer at beslutning om oppstart av et første trinn vil foreligge i 1. halvår av 2024.
+3.Befaring 13.11.2023
+For å få en oversikt over de foreslåtte gjenstående tiltakene, foretok Rambøll v/Dag Denstad en befaring
+av brygga, sammen med Kodeworks v/ Lasse Holanger den 13.11.2023, og gir her en kort
+oppsummering av det vi registrerte:
+
+Doc ID
+
+/
+
+Versjon
+
+\\files\Projects\RNO2023N007XX\RNO2023N00703\3-MYND\Fjordgata 30 MidlertidigeConfidential
+branntiltak Svarnotat 05122023.docx
+
+2/5
+
+Rambøll - Fjordgata 30- Midlertidige brannverntiltak
+
+Sone for minilagre i 2. etg.
+I deler av 2. etasje er det etablert minilagre for utleie.
+Lagerrommene (bodene), er ca 4-5m2 og satt opp av trestendere, med kryssfinerplater i vegger og
+himling. Hver bod har egne låsbare dører. Lagersonen består av 6 + 6 boder med midtgang:
+Lagersonen er skilt fra resten av etasjen med en gipskledd begrensingsvegg, og låsbar dør EI 30. Det er
+installert et adresserbart brannalarmanlegg med branndetektor i himling i hver bod. Bodarealene er
+sprinklet. Sprinkleranlegget er ikke automatisk, men montert som tørre rør med sprinklerhode i hver
+bod. Sprinklerrøranlegget er felles sprinkleren for begrensningsveggene mot Fjordgata 28 og 32.
+Det er en lysarmatur i himling i hver bod. Ellers ingen elektriske installasjoner i noen av bodene. Lyset
+er styrt av bevegelsesdetektor som slår av taklyset når bodene ikke er i bruk. I bodene forutsettes ikke
+lagret brannfarlig vare. Midtgangen mellom bodene har også kledning av kryssfiner. Gangen er
+detektert, men ikke sprinklet. I enden av midtgangen er montert en elektrisk panelovn mot yttervegg.
+Ellers ingen oppvarming i lagersonen.
+I tilgrensende rom til lagersonen ligger et tidligere «datarom». Rommet har kledninger av tre i vegger
+og tak. Det var detektert, men ikke sprinklet. I rommet sto det i tillegg til datasentraler, også noe
+elektrisk utstyr og hvitevarer, i tillegg til en del lagret materiale. Alt av utstyr og materialer skal
+tømmes, slik at rommet forblir tomt. Etterskrift: rommet er pr 04.12.2023 tømt for alt innhold, og
+forutsettes ikke benyttet til noe framover.
+Nedenstående bilder viser boder og midtgang:
+
+Midtgang bodareal sett nordover. Detektor, sprinkler, lysarmatur
+Detektert. Panelovn i enden.
+
+Dør til lagersone B30.
+
+Doc ID
+
+/
+
+i boder
+
+Inne i en av bodene.
+
+Versjon
+
+\\files\Projects\RNO2023N007XX\RNO2023N00703\3-MYND\Fjordgata 30 MidlertidigeConfidential
+branntiltak Svarnotat 05122023.docx
+
+3/5
+
+Rambøll - Fjordgata 30- Midlertidige brannverntiltak
+
+3.Vurdering av nye midlertidige tiltak på bakgrunn av befaring pr 13.11.2023
+På bakgrunn befaring 13.11.23, ut fra bruken bodene, og de branntekniske tiltak som er installert,
+vurderer vi risiko for antennelse i 2. etasje som liten.
+Det forutsettes samtidig at det ikke er virksomhet i øvrige rom i 2.etg. Eksisterende rom, utenom
+bodarealene, er ikke sprinklet. Dersom disse rommene skal tas i bruk må vegger og himlinger kles med
+gips, og rommene detekteres. Alle tilslutninger mot vegger og tak og gjennomføringer må utføres
+branntette, minimum EI 30.
+Følgende tiltak utføres som strakstiltak:
+Elektrisk panelovn på endevegg i midtgang er plassert på veggkledning av kryssfiner. En elektrisk feil
+kan medføre brannstart i veggkledningen. Midtgangen er detektert, men ikke sprinklet.
+Tiltak: Endevegg i midtgangen i bodarealet kles med ett lag 13mm gips.
+
+4.Vurdering av midlertidige tiltak 1-3 jfr notat fra TekØk av 19.01.23
+Jfr kap 1, gjenstår å gjennomføre tiltak 1-3. Nedenfor har vi vurdert hvordan vi alternativt kan oppnå
+akseptabel brannsikkerhet midlertidig, fram til hovedombygging i forutsettes å skje, i løpet av 2024.
+Vedr. tiltak 1- Oppgradering av påkoblingssprinkler:
+Vi vurderer brannrisikoen i selve bodene som liten. Det er ingen elektriske installasjoner, kun èn
+lysarmatur i hver bod, som automatisk slås av, dersom boden ikke er i bruk. Påkoblingssprinkleren som
+er montert langs begrensingsveggene har sprinklerdyser med jevne mellomrom, og en oppgradering i
+form av å flere og tettere dyser, behøver ikke gi ønsket effekt i form av økt beskyttelse av
+bærekonstruksjonene. Dersom sprinklerdyser plasseres for tett, kan de påvirke hverandre negativt
+(kjøle ned), slik at de ikke løser ut på et tidlig nok stadium av brannen. Det er viktig at det opprettes
+rutiner for hvordan lagring kan skje i bodene, slik at ikke sprinkler dekkes til, og hindrer kastelengde.
+Det er også viktig at konstruksjoner i seg selv ikke hindrer kastelengde.
+Vedr tiltak 2, del 1: Fysisk begrensning i boder mot tømmeryttervegg
+Begrensingsveggene mot Fjordgata 28 og 32 har langsgående sprinklerrør med sprinklerdyser, i jevne
+mellomrom. Det er viktig at rutinene for lagring bodarealene er slik at sprinklerdekningen opprettholdes.
+Å gjøre hver bod mindre, ved å sette opp en begrensningsvegg mot yttervegg, kan føre til at det blir
+lagret tettere, slik at dekningen i selve boden reduseres. Vi vurderer å etablere rutiner iht tiltak 1 over,
+ivaretar, sprinklerdekningen i boder mot yttervegg, på en akseptabel måte.
+
+Vedr tiltak 2, del 2: Kle hele ytterveggen mot Fjordgata 28 med gipskledning i bodarealene i 2. etg
+Ytterveggene oppgraderes i forbindelse med hovedombyggingen. Dette vil omfatte bygningsfysiske,
+konstruktive og akustiske tiltak, i tillegg til branntekniske. Å kle hele ytterveggen med gipsplater, slik
+den står nå, vurderer vi kan unngås, som midlertidig tiltak, og heller ivareta sikringstiltaket i forbindelse
+med hovedombyggingen, hvor alle detaljer blir hensyntatt på en riktig måte. Det forventes at dette
+skjer i løpet av 2024.
+Vedr tiltak 3, del 1: Oppgradere etasjeskiller mellom etasjene til brannmotstand EI60
+Etasjeskillene vil bli oppgradert i forbindelse med hovedombyggingen til REI60. Dette vil omfatte
+bygningsfysiske, konstruktive og akustiske tiltak, i tillegg til branntekniske. Å oppgradere etasjeskiller
+som midlertidig tiltak nå, vurderer vi derfor kan unngås.
+
+Doc ID
+
+/
+
+Versjon
+
+\\files\Projects\RNO2023N007XX\RNO2023N00703\3-MYND\Fjordgata 30 MidlertidigeConfidential
+branntiltak Svarnotat 05122023.docx
+
+4/5
+
+Rambøll - Fjordgata 30- Midlertidige brannverntiltak
+
+Vedr tiltak 3, del 2: Himlinger i alle bodarealer kles med gipskledning.
+Dersom hovedombygging utsettes ut over 2024, vurderer vi at dette tiltaket skal ha høyest prioritet å få
+utført.
+5. Konklusjon
+Tiltak på bakgrunn av befaring 13.11.2023:
+Endevegg i bodareal, der panelovn er montert, kles med gips.
+Eier bekrefter at brannalarmanlegget dekker dette området.
+Eier bekrefter at gammelt «datarom» i 2.etg. er tømt for elektriske installasjoner og brennbar
+lagring, og at det ikke vil bli benyttet til midlertidige formål ut 2024.
+Eier bekrefter at det ikke vil etableres annen virksomhet i 2.etg. ut 2024.
+
+Midlertidige tiltak på bakgrunn av notat fra TekØk av 19.01.2023:
+Det etableres faste rutiner for lagring i bodene, type materialer og lagringsmåte, slik at ikke
+sprinklerdyser tildekkes, men opprettholder forutsatt kastelengde.
+Eier får bekreftelse fra hver leietaker at rutinene er lest og forstått, og riktig lagringsmåte er
+ivaretatt.
+Ellers avventes øvrige midlertidige tiltak til utgangen av 2024. Dersom hovedombygging ikke er
+påbegynt pr. 31.12.2024, prioriteres tiltaket med kledning av himlinger i bodarealet med 1 lag
+13mm gipskledning.
+Øvrige tiltak forutsettes ferdig prosjektert for utførelse innen 31.12.2024.
+Bruken av brygga forutsettes ikke endret utover dagens virksomhet.
+Dagmulktsfrist utsettes til 01.01.2025.
+Trondheim 04.12.2023
+For Rambøll AS
+
+Dag Denstad
+
+Doc ID
+
+/
+
+Versjon
+
+\\files\Projects\RNO2023N007XX\RNO2023N00703\3-MYND\Fjordgata 30 MidlertidigeConfidential
+branntiltak Svarnotat 05122023.docx
+
+5/5
+
+
+

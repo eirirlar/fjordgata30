@@ -1,0 +1,669 @@
+﻿Om Oss
+
+
+KodeWorks er en partner innen IT som gir beslutningsstøtte og utvikler løsninger som setter kunden i stand til å vokse.
+
+
+--- above: frontpage above the fold, and in “about” section ---
+--- below: only in “about” section ---
+
+
+Kodeworks jobber sammen med kunder som har en ambisjon om å skape noe innenfor IT. Vi er der når du ønsker å frembringe nye innovasjoner, effektivisere innovasjonsprosesser i en organisasjon, eller starte noe helt fra scratch. Der hvor kunden selv mangler ressursene, kunnskapen eller erfaringen som skal til, kan Kodeworks komplementere.
+
+
+Vi har tatt produkter fra idéstadiet og ut i markedet for våre kunder og oss selv siden 2008. Vi har både feilet og hatt suksess, og vi har lært hva som skal til for å lykkes. Om du som kunde er en industriell aktør som skal optimalisere din produksjonslinje, en startup med begrensede ressurser og finansiering, en offentlig entitet som skal fornye deler av virksomheten gjennom intraprenørskap, eller om du er et stort (og kanskje byråkratisk) konsern som starte en ny virksomhet - da er er Kodeworks der for deg.
+
+
+Vår ambisjon er å sette kunden i stand til å drive prosjektet videre. Med andre ord: vi er med så lenge vi bidrar positivt inn i prosjektet, men ikke lenger. 
+
+
+--- Prosess ---
+
+
+  
+
+
+
+I dagens marked forventer kunder mer av sine konsulenter enn det som bransjen tradisjonelt har tilbudt. Faktisk er ikke alltid konsulent den riktige betegnelsen av tjenesten det er behov for. Kodeworks ser på oss selv som en partner i allianse med kunden, hvor vi går opp stien sammen og undersøker hva som er beste vei framover.
+
+
+Vår definisjon av et prosjekt kan være: å få en nystartert gründerbedrift opp å stå, eller et nytt prosjekt hos en etablert organisasjon (fase 1). Det kan være et prosjekt som er forbi de initielle hinder, som har satt retningen, og som trenger noen som kan oppbemanne et team og drive prosjektet framover (fase 2). Eller det kan være et prosjekt som har bevist sin verdi for sine stakeholders, og som nå skal skaleres videre (fase 3). Kodeworks kan gå inn i alle 3 fasene, og vi er med kunden på reisen gjennom fasene. Når vår besøkelsestid er over forsvinner vi, og da skal kunden sitte igjen med den tryggheten som trengs til å drive videre.
+
+
+Fase 1
+Kunder i denne fasen har mange behov, og Kodeworks dekker mange av disse:
+* Prototyp / MVP
+* Offentlig støtte
+* Såkornsinvesteringer
+* Utviklingsstrategi
+
+
+I en fase hvor kunden har klare eller mindre klare formeninger om hva prosjektet skal levere, tar vi fatt i kjerneelementene i prosjektet og utvikler effektivt en prototyp eller MVP sentrert rundt forretningsmilepæler; det vil si fokus på et resultat som skaper en effekt hos stakeholders for prosjektet.
+
+
+Vi tilpasser oss prosjektets tilstand: om det er gjort designarbeid fra før, om det er etablert en kravspesifikasjon, om det er forankret hos ledelse eller ikke, med mer, er alle faktorer som påvirker hvordan vi angriper prosjektet i denne fasen. I alle tilfeller søker vi å komme oss raskest mulig til en situasjon hvor vi kan begynne å levere synlig verdi.
+
+
+I denne fasen er det ofte slik at milepæler må nås innen gitte tidspunkt som er kommunisert til stakeholders. Å kunne jobbe under slike forhold er ikke alltid kompatibelt med standard 3, 6 eller 12-måneders konsulentavtaler. Da kan det være fordelaktig å ha en leverandør med mulighet til å være fleksibel med tanke på risiko i prosjektet.
+
+
+Offentlig støtte er ofte en forutsetning for å i det hele tatt få anledning til å få nye innovasjoner til å fungere. Det finnes et dedikert marked for søknadsskriving man kan finne god støtte i, om man har budsjett til det og er komfortabel med treffraten. Kodeworks har også erfaring med ulike støtteordninger og kan gjennom arbeid i prosjektet ofte produsere bedre søknader i samarbeid med kunden enn det en ekstern rådgiver med begrenset helhetsforståelse vil være i stand til.
+
+
+Hånd i hånd med offentlig støtte kommer ekstern finansiering. Kodeworks har erfaring med sweat equity, ansvarlig lån, koinvestering, med mer, og vi har et bredt nettverk til tidligfase investorer som er veldig nysgjerrige på hvilke prosjekter vi går inn i. Ofte er disse tidligfase midlene, kombinert med måloppnåelsen i prototyp-fasen, det som skal til for å nå ut til flere investorer etter noen måneder med utvikling.
+
+
+En vellykket utviklingsstrategi er avgjørende for et prosjekt. Planer i seg selv er kanskje verdiløse etter de er skapt, men å legge dem har en enorm verdi. Spesielt i starten av et prosjekt er konsekvensen av en suboptimal strategi potensielt katastrofal. I tillegg er det å agere på forandringer underveis og replanlegge er også essensielt. I samarbeid med kunden jobber Kodeworks for å sy sammen strategier som matcher kapasitet og forretningsmål.
+
+
+Fase 2
+I denne fasen har kunden bevist at konseptet til prosjektet fungerer, og skal nå levere det de har lovet sine stakeholders for å få prosjektet profitabelt. Kodeworks bistår med:
+* Inkrementell utvikling
+* Rekruttering
+* Medinvestering
+* Styrearbeid
+
+
+Den inkrementelle utviklingen er en agil tankegang vi har med oss i verktøykassa for å nå milepæler raskere og med høyere kvalitet. Men vi tvinger ikke noe mindset på noen; har kunden eksisterende metodikk så er det ingenting som er bedre enn det. Det viktige er å ikke miste fokus på målene med utviklingsarbeidet, og stadig vise for stakeholders i prosjektet at framdriften er som den skal være. Kodeworks kan ta del i kundens eksisterende team eller levere helt egne team. Vi kan være del av prosjektledelsen på teknisk eller administrativt nivå, og vi kan rådgi på strategisk nivå sammen med produkteier.
+
+
+Ofte er kundens ambisjon å selv sitte med et utviklingsteam på sikt, og da er det kjekt med en partner som kan hjelpe med både rekruttering, onboarding og samarbeid med nye teammedlemmer. Kodeworks har jobbet mye med rekruttering til egne rekker og har en ambisjon om å fasilitere ansettelse av nye medarbeidere hos kunden, slik at prosjektet på sikt kan gå over i en sunn og bærekraftig utvikling- og driftssituasjon.
+
+
+Oftere enn man kanskje skulle ønske, ser man at prosjekter ubønnhørlig seiler avgårde mot “dødens dal”, der milepæler stadig utsettes, stakeholdere taper tålmodighet og kassa stadig krymper. Årsakene kan være mange: urealistiske mål og feilaktige estimater, endrede eller dårlig definerte krav, investeringer som uteblir, salg som aldri skjer, feil folk i teamet, med mer. I Kodeworks er vi ganske seige og vi gir oss ikke med det første - akkurat som våre kunder har vi et sterkt ønske om å se prosjekter lykkes. Sweat equity er et av flere virkemidler som kan brukes for å holde burn-raten nede fram til man begynner å se veien mot suksess.
+
+
+God og ryddig selskapsstyring blir viktigere jo mer modent et selskap blir. Dette handler om alt fra å få inn de riktige styremedlemmene samt daglig leder, og håndtere forventninger og krav fra ulike stakeholders. Kodeworks deltar i styrer hvor vi er dypt involvert, og kan også fasilitere bemanning av både styreposisjoner og ledergruppe i selskaper via vårt partnernettverk.
+
+
+Fase 3
+I denne fasen har kunden allerede et etablert produkt. Det er allerede i utstrakt bruk, og man ser på muligheter for omstrukturering for å håndtere større datamengder eller teknisk gjeld man har skapt i løpet av prosjektet. Kodeworks vil typisk ha en rolle innen:
+* Skalering
+* Vedlikehold
+* IPO/andre investorer
+* Handover
+
+
+Skalering er et fasettert begrep. Det kan for eksempel bety at datamengden har økt ut over det systemet tåler; at teknisk gjeld tynger prosjektet så mye at det er fornuftig å skrive om systemet fra scratch; at systemet må sys sammen flere interne systemer; at systemet må integreres med tredjeparter; at prosesser for deployering og infrastruktur må reimplementeres; med mer. Kodeworks har sett mange av disse utfordringene tidligere og kan både rådgi, planlegge, designe og implementere endringene som er nødvendig for å skalere systemet og forretningen.
+
+
+Parallelt med utviklingen som skal til for å skalere så må eksisterende systemløsninger driftes videre. Dette er typisk versjon 1.X av programvare som har pådratt seg teknisk gjeld og er deployert uten tanke på driftbarhet eller tilstrekkelig dokumentasjon. Dette er komplekse situasjoner som Kodeworks er vant med og uredd for å gå inn i. Vi drar på erfaringer fra drift og vedlikehold av kritiske systemer og levere oppetid og kvalitet.
+
+
+Opprinnelige gründere vurderer kanskje å selge seg ut eller ned i denne fasen, og/eller man trenger betydelige midler for videre vekst. En privat eller offentlig emisjon kan være aktuelt, og Kodeworks har erfaring med teknologisk tilrettelegging i slike prosesser, slik at tilstanden og potensialet til IT-løsningen fremkommer tydelig.
+
+
+Det finnes en tid for alt, og på et tidspunkt vil også Kodeworks være en overflødig brikke i kundens prosjekt. Vi er med så lenge vi tilfører verdi; ikke lenger. I prosessen fram til vi fases ut bidrar vi med opplæring av interne (eller andre eksterne) ressurser for en smidig og kostnadseffektiv handover.
+
+
+
+
+
+
+  
+
+TODO inkorporere budskapet i bildet over i div tekst med bilder
+
+
+﻿Vår personalhåndbok
+Dette dokumentet er personalhåndboken for de ansatte i Kodeworks. Her prøver vi å beskrive hvordan vi gjør ting, og hvordan vi tenker. I dette dokumentet vil du finne informasjon om arbeidstid, feriepenger, lønn, goder og mye mer. Dette er et dokument vi ønsker at alle ansatte skal bidra til, og ha eierskap til.
+Arbeidstid
+Arbeidsdagen er 8 timer med 30 minutter pause, som utgjør 7,5 timer arbeidstid. I Kodeworks opererer vi med en kjernetid i tidsrommet kl 9-15, med mulighet og rom for å kunne være fleksibel på arbeidstiden.
+I en bedrift hvor kompetanse er hovedproduktet vårt vet vi at det å jobbe tett med våre kollegaer vil gi best resultater. Vi vet også at hverdagen kan by på andre ting som gjør at man i perioder trenger å tilpasse arbeidstiden utenfor kjernetiden.
+Som konsulenter må vi likevel forholde oss til at våre kunder har egen kjernetid, og eventuelle endringer her må du koordinere med prosjektet ditt og/eller din personalansvarlige.
+Ferie
+Vi har 5 ukers betalt ferie.
+Ofte er det slik at prosjektet du er på ønsker at du tar ut ferien til bestemte tider, typisk fellesferien, påske, jul, høst/vinterferie overlappende med skole/barnehage, etc. Vi prøver å tilpasse oss dette, men skjønner selvfølgelig at det ikke alltid lar seg gjøre. Det viktigste er at du informerer om ferieplaner i god tid slik at den enkelte part kan planlegge rundt dette.
+Ferie varsles din personalansvarlig og legges i kalenderen.
+Overtid
+Fra tid til annen kan det være behov for å jobbe noen ekstra timer i uken. Dette gjelder i hovedsak i hektiske perioder der man sitter ute hos kunde. Utover dette er det ønskelig å holde overtidsarbeidet på et minimum. Vi mener at den ansattes fritid skal respekteres og at man heller vil yte bedre de timene man er på jobb om man har fått tilstrekkelig med hvile. Derfor avgjør man helt selv om man ønsker å jobbe overtid.
+Overtidsarbeid skal alltid avklares med personalansvarlig først med mindre annet er avtalt.
+Avspasering
+<insert beskrivelse av avspasering. Avhengig av kunde og må avtales med kunde. Å frivillig jobbe noen ekstra timer en uke for å kunne for eksempel dra tidlig en fredag er noe man administrerer selv. Innen rimelighetens grenser>
+Arbeidssted
+Som konsulent skjer det ofte at vi jobber der kunden holder til. Vi i Kodeworks prøver å finne oppdrag som ikke ligger for langt unna alminnelig arbeidssted.
+Hos kunden
+For oppdrag som medfører større kostnader og betydelig lengre reisevei enn til normalt arbeidssted vil Kodeworks dekke disse utgiftene. Eksempelvis vil dette være med lengre oppdrag utenfor sone A i Trondheim eller sone 1 i Oslo.
+Kodeworks-kontoret
+Enkelte kunder tillater også at du kan arbeide fra andre steder enn kundens eget kontor. Da vil du arbeide fra Kodeworks sine lokaler i Trondheim eller Oslo sammen med andre kollegaer. Det er med på å ivareta det sosiale aspektet med f.eks felles lunsj og kaffe, samt støtte i faglige spørsmål. Som hovedregel er Kodeworks-kontoret den faste arbeidsplassen dersom man ikke skal arbeide fra kundens kontor.
+Hjemmekontor
+Dersom det er hensiktsmessig med hjemmekontor, eller strengt nødvendig som under Corona-pandemien, vil Kodeworks legge til rette for dette. Eksempelvis kan dette være ekstra skjerm og ekstern mus og tastatur for å bedre arbeidsflyten, eller en bedre kontorstol for å forebygge arbeidsplager.
+Betingelser
+Vi ønsker at alle våre ansatte skal ha det så fint som mulig på jobb ved å tilby den nødvendige friheten, sikkerheten og stabiliteten i hverdagen. Samtidig er det også viktig å få de verktøyene man trenger for å kunne gjøre jobben sin på best mulig måte.
+Lønn
+Lønn utbetales senest den 22. i hver måned. Hvis den 22. ikke er på en bankvirkedag skal den utbetales slik at arbeidstaker mottar lønn før den 22.
+I Kodeworks ønsker vi at lønnsutviklingen din ikke skal være noe du skal bekymre deg over og måtte bruke tid på. Vi har ingen individuelle lønnsforhandlinger. Som ansatt vil du få en solid lønn og følge den samme lønnsutviklingen som de andre i selskapet. Du skal ikke måtte forhandle om å få det du fortjener. Det skal komme automatisk.
+Alle ansatte i Kodeworks har tilgang til å se hvordan lønn beregnes, og således også hva de andre i selskapet tjener. En oversikt over gjeldende lønnsnivå og bakgrunnstall for årlig lønnsjustering finner du i mappen "Lønn" på Google Drive.
+Feriepenger
+Feriepenger utbetales i juni. All ferie, 25 dager, vil bli trekt denne måneden. Juni har som regel ikke 25 arbeidsdager, så gjenværende feriedager trekkes tilsvarende fra feriepengene. Ansatte som har startet etter nyttår vil ikke ha noen opparbeidede feriepenger, og vil trekkes (ytterligere) i påfølgende juli-måned (slik at det blir 25 dager trekk til sammen). Hvis man ønsker å få utbetalt feriepengene på et annet tidspunkt, kan dette gjøres etter avtale med økonomiavdelingen. Av praktiske årsaker er det isåfall fint at man varsler om dette i god tid før man ønsker utbetaling.
+Overtidstillegg
+Overtidsbetalingen kan man regne ut ved å dele årslønn på 1950 timer, for så å legge til 40%.
+Pensjon og forsikring
+Kodeworks setter av hele 7% i pensjonssparing. Dette gjelder fra 0 til 12G.
+I tillegg til vanlig yrkesreise- og yrkesskadeforsikring har vi reiseforsikring som dekker fritidsreise for deg og din familie. Vi har også behandlingsforsikring som sørger for at man får rask og god behandling om noe skulle skje. Her inngår det også fri tilgang til legetime på mobil.
+Vi benytter Gjensidige for både pensjon og forsikring, og hver ansatte kan selv logge seg inn hos Gjensidige og se sin profil og detaljer rundt dette. En kort guide til hvordan man får oversikt over egne forsikringer i Gjensidige ligger i mappen "Forsikring" på Google Drive.
+Datamaskin og programvare
+Vi dekker den datamaskinen og programvaren du trenger for å kunne gjøre jobben din. Enten det er en MacBook Pro eller Dell XPS, vil du bli utstyrt med det arbeidsverktøyet du foretrekker. Maskinen får du kjøpt med en gang du starter.
+Som med enkelte andre verktøy, goder og ytelser er også personlig datamaskin dekket av et årsbudsjett du selv kan disponere. Dette overføres til neste år når det ikke benyttes, og gir deg fleksibilitet til å bestemme selv om du vil oppgradere ofte til en standard maskin eller vente litt ekstra for å gå for en svært kraftig maskin.
+Trenger man programvare for å gjøre jobben sin, som f.eks IDEA, kjøper man dette direkte og fører et utlegg.
+Litteratur og annen læringsmateriale
+For å bidra til å slukke kunnskapstørsten finnes det et utall kilder. Om man ønsker å benytte seg av e-læringstilbud som f.eks Pluralsight, Coursera eller lignende er det bare å melde seg på dette. Bøker i alle former og fasonger står man også fritt til å kjøpe. Det er tross alt kunnskap vi lever av! Utgiftene fører man utlegg for.
+Kurs og konferanse
+I Kodeworks oppfordres man til å delta på kurs og konferanser. Eksempelvis har ansatte tidligere besøkt flatMap, TDC, JavaZone og UIconf Berlin. Siden forskjellige mennesker har forskjellige interesser ønsker vi å være fleksible på hvor du kan dra på kurs eller konferanse. Derfor får du et årlig kurs- og konferansebudsjett du selv disponerer. Dette åpner for at du kan dra i både små og store grupper, eller alene dersom du måtte ønske dette, til de mest interessante konferansene for deg.
+Vi setter kompetanseheving og kompetansedeling svært høyt i Kodeworks, og det oppfordres til å dele av den kunnskapen man opparbeider seg gjennom kurs og konferanser. Fag-dagene er en ypperlig mulighet til å dele dette i form av kanskje en lyntale, foredrag eller workshop. Det er ikke noe krav, men vil være med på å opprettholde den allerede gode delingskulturen i Kodeworks.
+Helse
+Vi ønsker også å tilrettelegge for at man skal være fysisk aktiv. 
+I Trondheim har Kodeworks en bedriftsavtale med 3T. Her spiller flere Kodeworks-ansatte ukentlig squash. Man behøver ikke benytte seg av dette dersom man ønsker å trene et annet sted. Vi dekker et tilsvarende abonnement hos andre tilbydere også. I Oslo finnes det ikke en egen bedriftsavtale, så der er det bare å finne et tilsvarende abonnement så ordner vi det.
+Goder og ytelser
+For at du som ansatt skal ha en fleksibel, trygg og forutsigbar hverdag har Kodeworks en rekke goder og ytelser. Med unntak av ytelser som skal føres i timeregistreringssystemet, eksempelvis foreldrepermisjon og omsorgspermisjon, registreres utgifter for alt annet som ansattutlegg og vil bli refundert på neste lønnsutbetaling.
+Periodiske utgifter som bredbånd og medlemskap hos treningssenter skal registreres månedsvis. Ved varierende utgifter er det ditt ansvar som ansatt å ikke overgå 12 ganger det maksimale månedsbeløpet for den aktuelle goden det inneværende året.
+* Mobiltelefon + abonnement.
+* Bredbånd dekkes med inntil 500 kr pr måned.
+* Medlemskap hos 3T (Trondheim) dekkes gjennom vår bedriftsavtale, eller tilsvarende abonnement hos andre tilbydere (Oslo & Trondheim).
+* Øvrig nødvendig elektronikk for å utføre arbeidet. Eksempelvis mobiltelefon, skjerm eller datamus. Totalt inntil 15.000 pr år.
+* 2 uker betalt omsorgspermisjon ved fødsel.
+* Full lønn under foreldrepermisjonen.
+Velferdspermisjoner
+For å kunne bidra til å gjøre både forutsette og uforutsette hendelser i hverdagen litt enklere å håndtere, gir Kodeworks følgende velferdspermisjoner utover hva som er lovpålagt:
+* Undersøkelse hos lege eller tannlege.
+* Følge barn til første skoledag eller barnehage (inntil 1 dag).
+* Permisjon ut resten av arbeidsdagen om man blir syk i løpet av dagen og må forlate arbeidsstedet.
+* Kort permisjon ved sykdom i hjemmet.
+* Kort permisjon når ektefelle/samboer/partner skal føde.
+* Dødsfall og begravelser i nær familie (inntil 5 dager).
+* For å gi blod.
+* Flytting (inntil 1 dag i året).
+* Bryllup (inntil 1 dag).
+* Oppkjøring til førerkort.
+Timeføring
+Timeføring er dessverre nødvendig i de fleste konsulentselskaper, og Kodeworks er intet unntak. Heldigvis har vi som de fleste andre konsulentselskap laget vårt eget timeføringsverktøy for å gjøre prosessen enklere. I timeføringsverktøyet fører man arbeidsrelatert tid, det vil si fakturerbar tid på ulike prosjekter, sykdom, ferie, permisjon etc. Timene leveres innen siste virkedag i måneden er omme.
+Man vil også måtte føre timer i kundes eget system. Der vil det nok være andre regler for når og hvordan dette skal gjøres.
+Medeier
+Stillingen legger også til rette for at ansatte kan bli medeier. Vi tror at ansatte som har medeierskap får sterkere insentiver til å skape vekst og trivsel i selskapet, som gagner alle. Medeierskap vil bli distribuert fra en pool av aksjer som selskapet eller morselskapet besitter. Aksjene kjøpes og selges til kostpris. Ved aksjekjøp tiltrer den ansatte selskapets aksjonæravtale.
+Alle ansatte vil få tilbud om aksjer etter de har vært utleid som konsulenter i tre måneder. Siden dette krever en del administrasjon og signaturer av alle eksisterende aksjonærer, gjør vi dette hvert halvår (1. juni og 1. desember). Vi anbefaler alle å lese seg opp på temaet før prosessen begynner, selv om vi selvfølgelig også skal besvare alle spørsmål etter beste evne.
+Alt annet + kontoret
+På kontoret vårt i Fjordgata 30 i Trondheim har du tilgang til arbeidsplass, printer, scanner, flipperspill, kaffe og andre forfriskninger. Lokalene bruker du til egen disposisjon til daglig når du ikke har mulighet til å sitte ute hos kunde. I Oslo har vi foreløpig kontor på Majorstuen med tilgang til arbeidsplass, printer og kaffe. Vi har nylig kjøpt et nytt kontorlokale i Grønnegata 10 som vi vil pusse opp og innrede i tiden fremover. Dette kontoret overtar vi 1. nov 2020.
+Militærtjeneste
+Innkalling til militærtjeneste, herunder førstegangstjeneste, som krever permisjon fra arbeidet varsles til personalansvarlig og legges i kalenderen. For pliktig tjeneste i Forsvaret, Heimevernet, Sivilforsvaret og Politireserven gis inntil en måned full lønn pr. år med fradrag av alle militære tillegg som lønn, dagpenger m.m. For frivillig tjeneste i Heimevernet gis permisjon uten lønn. For militær førstegangstjeneste gis permisjon uten lønn. Repetisjonsøvelser som har lengre varighet enn fire uker må avtales særskilt.
+Slack og epost
+Mye av den daglige kommunikasjon foregår på Slack, noe som er å foretrekke. Her er det lav takhøyde så det er bare å slå seg løs! Skulle det være fristende med en øl, runde squash eller litt Fortnite så finner du folka her.
+Hvis man har behovet for å være litt mer formell, er det naturlig å sende epost.
+Jobbrelatert kommunikasjon bør begrenses til innenfor arbeidstiden.
+Ansettelse
+En ansettelse er en viktig investering for Kodeworks. De ansatte er ikke bare medarbeidere som skal bidra til et godt arbeidsmiljø, men er også selve varen Kodeworks leverer. Det er derfor et stort fokus på å ansette dyktige medarbeidere som søker og mestrer utfordringer. Det er de ansatte som representerer Kodeworks.
+Prosess og onboarding
+I Kodeworks ønsker vi at du som nyansatt skal føle at prosessen fra du tar kontakt med oss, til kontrakten er signert, og ansettelsesforholdet har startet, er en god opplevelse. Sjekklista vår ser slik ut:
+Rekrutteringsansvarlig
+* Opprette bruker i Google Suite.
+* Opprette CV og inviter den nyansatte til å begynne å fylle ut denne.
+* Koordinere bildetaking til CV.
+* Invitere den nyansatte på sosiale arrangement i Kodeworks.
+* Bestille utstyr (datamaskin mm.).
+* Tildele fadder.
+* Følge opp Administrasjonens oppgaver.
+
+
+Administrasjon
+* Bestille telefonabonnement.
+* Registrere nyansatt i Tripletex.
+* Melde nyansatte inn i forsikringer og pensjon.
+* Opprette bruker i WerkzTime.
+
+
+Fadder
+* Organisere oppstartsdag:
+Koordinere sted og tid. Lunch på huset, gjerne inviter med andre kolleger.
+* Gi en innføring i hvordan ansattutlegg og andre regnskapsmessige saker fungerer.
+* Gi en innføring i hvordan WerkzTime fungerer.
+* Invitere til Slack.
+* Invitere til GitLab.
+* Invitere til GitHub.
+* Følge opp portering av telefonabonnement.
+
+
+
+
+Ved oppstart med fadder
+   * Oppdatere CV.
+   * Forberede seg til prosjekt hos kunde.
+Prøvetid
+Nye fulltidsansatte har en prøvetid på seks måneder regnet fra tiltredelsesdato. Prøvetiden er gjensidig og skal innebære muligheten for både arbeidsgiver og arbeidstaker til å bringe arbeidsforholdet til opphør dersom det viser seg at forholdene ikke var som det var forutsatt. Under prøvetiden gjelder én måneds oppsigelsesfrist. Prøvetiden kan bli forlenget dersom arbeidstaker har hatt fravær under prøvetiden, dette inkluderer ferie. Prøvetiden kan kortes inn ved nærmere avtale mellom arbeidsgiver og arbeidstaker.
+Stillingstyper
+Kodeworks opererer med ulike stillingstyper.
+Nyansatt
+Stillingen vedvarer ut prøvetiden (6 mnd) og til man har vært i oppdrag hos kunde i 3 måneder og er i oppdrag videre, hvorpå man rykker opp til Konsulent. Arbeidsoppgavene som nyansatt er i hovedsak:
+   * Jobbe aktivt med tilbud.
+   * Faglig utvikling.
+   * Bistå pågående prosjekter, off-site eller on-site.
+Konsulent
+Som konsulent tilbringer man vanligvis størsteparten av sin arbeidstid på oppdrag for kunder.
+Opprykk til seniorkonsulent vurderes årlig av et samlet styre, på bakgrunn av følgende kriterier:
+   * Fornybare oppdrag. Evner å selge seg selv inn på forlengelser av kundeprosjektet sitt.
+   * Kan dra inn andre på oppdrag. Ser muligheter for å selge inn kolleger på samme kundeprosjekt som seg selv.
+   * Skaffe nye leads. Er observant ute hos kunde og fanger opp signaler om andre prosjekter. Tilrettelegger for dialog mellom Kodeworks og kunde. Følger med i nettverket sitt på mulige prosjekter hos andre kunder.
+   * Salgbar til høyere timerate. Har en CV og profil som er salgbar til timerater opp mot det øvre sjiktet av hva markedet vil betale. Merk at Kodeworks kan ha andre insentiver for å ikke tilby konsulenten til en høy rate; konsulenten kan likevel regnes som “salgbar til høyere timerate”.
+   * Total yrkeserfaring. Antall år med relevant faglig erfaring.
+   * Faglig bidrag. Bidrar til Kodeworks-interne og kundespesifikke faglige opplegg. Promoterer faglig utvikling, drar med seg kolleger på faglige arrangement, eventuelt arrangerer faglige happenings.
+   * Sosiale bidrag. Promoterer bedriftsidrett, sosiale sammenkomster og utflukter. Evner å skape rom for alle til å delta.
+   * Må kunne selges ut som senior. Innehar en CV og karakter som er lett å overbevise kunder om at er en senior-profil.
+Senior
+En selvstendig og erfaren konsulent med høy faglig dyktighet og som evner å kommunisere godt med kolleger, ledelse og kunder. For øvrig alle punktene for opprykk til senior under konsulent, over.
+Stab
+Ca 10% av de totale antall timer i Kodeworks vil gå med til stabsrelatert arbeid innen administrasjon, ledelse, oppfølging av ansatte og salg. Stabens oppgave er å sørge for at maskineriet går som det skal; at det er en jevn tilstrømning av faglig interessante oppdrag, at de ansatte har det godt, at kundene er tilfredse med Kodeworks, at økonomien i firmaet går som den skal, at firmaet når sine måleparametere, med mer.
+Fratredelse
+Oppsigelse skal skje skriftlig. Oppsigelsesfristen er gjensidig for arbeidstaker og arbeidsgiver med en varighet på tre måneder. Den løper fra første dag i måneden etter at oppsigelsen fant sted om ikke annet er avtalt.
+Ansatte som slutter skal returnere utlevert materiell. Det kan gjøres unntak dersom det utleverte materialet ikke anses å ha noen nytteverdi for Kodeworks, eksempelvis PC og/eller mobiltelefon. Kodeworks ser seg ikke nødt til å inndra utstyr som ikke enkelt kan omsettes til likvide midler eller benyttes av andre ansatte.
+Dersom man har opparbeidet seg medeierskap i firmaet må aksjer også innløses ihht aksjonæravtalen.
+
+
+﻿Prosjektoversikt
+NB Synk endringer med koden:
+git@github.com:Kodeworks/kodeworks.no.git
+
+
+NB koden har duplikat introtekst for prosjekter i prosjektlisten og de prosjektspesifikke filene.
+
+
+TODO dette flyttes over til Stories etter hvert som hvert prosjekt gjennomgås
+Equinor
+Equinor er et internasjonalt energiselskap, og har de siste årene iverksatt en strategisk og betydelig satsing på bærekraftig energi. Dette er en prosess som krever innovasjon, forretningsforståelse og et stort fokus på kvalitet. Kodeworks støtter Equinors forsknings- og digitaliseringsaktiviteter gjennom analyse, design, programmering og testing.
+
+
+Equinor is an international energy company that has in recent years sparked a strategic and significant effort in sustainable energy. This is a process that requires innovation, business intelligence and a huge focus on quality. Kodeworks supports the research and digitization activities of Equinor through analysis, design, programming and testing.
+
+
+Teledyne FLIR
+Teledyne FLIR designer, utvikler, produserer og distribuerer teknologier som streber etter å skape en mer bærekraftig, mer effektiv og tryggere fremtid ved å forbedre menneskelig oppfatning gjennom intelligente sensor- og bildebehandlingsløsninger i verdensklasse.
+
+
+Teledyne FLIR designs, develops, produces and distributes technologies that strive to create a more sustainable, effective and safe future by improving and extending human sensory capabilities through state-of-the-art intelligent sensorics and image processing solutions.
+
+
+Kongsberg
+
+
+Kongsberg Digital tilbyr digitale løsninger for kunder innen maritim, olje og gass, med autonomi, smarte data, og augmented reality som fellesnevner. Kodeworks jobber med utvikling av maritim simulering brukt i blant annet treningssystemer for kunder over hele verden. Kongsberg A&D er en global teknologileder innen forsvar, overvåking, romfart, flystrukturer og flyvedlikehold.
+
+
+Kongsberg digital offers digital solutions for customers within the maritime sector, including oil and gas, with autonomy, smart data and augmented reality as key elements. Kodeworks’ main effort is placed within development of maritime simulations used among other things in personnel training systems for customers all over the globe.
+Kongsberg A&D is a global technology leader within defense, surveillance, space travel, airplane structure and airplane maintenance.
+
+
+Thales
+Thales Group er et fransk multinasjonalt selskap som designer og bygger systemer og leverer tjenester for luftfart, forsvar, transport og sikkerhet.
+
+
+Thales Group is a French, multi-national company that designs and builds electronic systems and delivers services for aviation, defense, transport and security.
+Vaskehjelp
+Vaskehjelp er en markedsplass som kobler rengjører og kunde sammen, samt tar av seg betaling og annet papirarbeid. Kodeworks har bistått med utvikling av iOS- og Android-applikasjon.
+
+
+Vaskehjelp is a marketplace that connects cleaners and customers, while handling payment and other necessary paperwork. Kodeworks has assisted in the development of the iOS and Android applications.
+
+
+Sunlit Sea
+Sunlit Sea utvikler en ny type teknologi for flytende solcelleinstallasjoner som åpner et helt nytt marked for solceller på hav. Kodeworks utvikler sensorløsninger for solcelleinstallasjonen, samt overvåking og berikning av data fra sensorene for å optimalisere produksjon og vedlikehold.
+
+
+Sunlit Sea is developing a new type of technology for floating solar power installations, opening a whole new market for floating solar power. Kodeworks are developing sensorics for the installations and doing monitoring and enrichment of data from the sensors, in order to optimize production and maintenance.
+Lilbit
+lilbit leverer GPS-sporing av kjæledyr med tilhørende digital plattform og app. Deres visjon er å kunne gi eiere informasjon om dyrets tilstand gjennom dets oppførsel. lilbit har oppnådd stor interesse blant hundeeiere i Norge og har ambisjoner om internasjonal ekspansjon.
+
+
+lilbit delivers products for tracking and monitoring of pets, pursuing their goal of expanding the communication between pet and owner. With this ambition, they have achieved huge interest for current and future products and services.
+Aker BP
+Aker BP ASA er et norsk oljeutvinning- og utviklingsselskap som fokuserer på petroleumsressurser på norsk kontinentalsokkel. Kodeworks oppgave har vært å samarbeide med ressurser fra flere andre selskaper på WITSML Explorer, en open-source nettløsning designet å visualisere WITSML-data.[a]
+
+
+Aker BP ASA is a Norwegian oil extraction and development company, focusing on petroleum resources on the Norwegian continental shelf. Kodeworks’ task has been to cooperate with resources from other companies on WITSML Explorer, an open-source web solution designed to visualize WITSML-data.
+
+
+SkandiaEnergi
+SkandiaEnergi utvikler løsninger for fremtidens strømmarked. De tilbyr unike og smarte energiløsninger for solstrøm og energisparing. Kodeworks bistår til å utvikle en app som gjør hverdagen som kunde mer oversiktlig, og som tilbyr smarte løsninger for strømstyring og lading av elbil.
+
+
+SkandiaEnergi develops solutions for the power market of the future. They offer unique and smart energy solutions for solar power and energy saving. Kodeworks assists in developing an app that makes daily life as a customer more manageable, and that offers smart solutions for power management and electric vehicle charging.
+
+
+Statkraft
+Statkraft er Europas største produsent av fornybar energi og et globalt selskap innen energimarkedsoperasjoner. Kodeworks har bistått med koordinering og utvikling av en samlet plattform for booking, risikoevaluering og rapportering av kraftkjøpsavtaler.
+
+
+Statkraft is Europe’s largest producer of renewable energy and a global company within power market operations[b]. Kodeworks has assisted with coordination and development of a common platform for booking, risk evaluation and reporting of power purchase [c]agreements.
+TechnipFMC
+Som et verdensomspennende energi-serviceselskap har TechnipFMC store kunder i Norge. Sensorer brukes til sanntids overvåking av flyt gjennom installasjoner, og tung matematisk datamodellering for å optimalisere driften. Kodeworks bistår med å øke skalerbarhet og ytelse i applikasjonsporteføljen, samt å modernisere systemet for deployment i skyen.
+
+
+As a worldwide energy service company, TechnipFMC has large customers in Norway. Sensors are used for real-time monitoring of flow through installations, and heavy mathematical data modeling to optimize operations. Kodeworks assists in increasing the scalability and performance of the application portfolio, as well as modernizing the deployment system in the cloud.
+BN Entreprenør
+BN Entreprenør AS er et maskinentreprenørfirma som ble etablert i 1973. Med en moderne maskinpark er de i stand til å utføre oppdrag på en kostnadseffektiv måte.
+
+
+BN Entreprenør AS is a construction entrepreneuring firm established in 1973. Utilizing a modern machine park, they are able to take on jobs in a cost efficient manner.
+Gintel
+Gintel AS er et norsk IT-selskap som produserer programvare og applikasjoner innenfor telekommunikasjon, som endrer måten operatører komponerer og leverer tjenester til bedriftskunder.
+
+
+Gintel AS is a Norwegian IT company producing software and applications within the field of telecommunication, that changes the way operatives compose and deliver[d] services to business customers.
+
+
+DNB
+Gjennom snart 200 år har DNB jobbet for å finne de beste løsningene for kundene sine, og er i dag et ledende teknologiselskap innen bank- og finanssektoren. Kodeworks bidrar i denne utviklingen med å etablere et sentralt system for håndtering av master- og referansedata. Gjennom en helhetlig ende-til-ende tankegang og bruk av moderne skytjenester hjelper Kodeworks DNB med å etablere en robust løsning for både operasjonell og analytisk bruk.
+
+
+DNB as a company has worked for what is soon to be 200 years to find the best solutions for their customers, and is today one of the largest technology companies within the banking and financial sector. Kodeworks assists in this adaptation by establishing a central system for managing master- and reference data in DNB. In using a holistic end-to-end mindset and utilizing modern cloud services, Kodeworks helps DNB establish a robust solution for both operational and analytical usage.
+reMarkable
+reMarkable er en norsk startup som utvikler en tablet for skriving og tegning, og som skal gi brukeren følelsen av å skrive på papir. Den unike tableten er designet for bruk i akademia så vel som i yrkessammenheng. Kodeworks bidrar til utvikling av den komplekse og internasjonale webplattformen til reMarkable.
+
+
+reMarkable is a Norwegian startup developing a tablet for writing and drawing, and aiming to give the user a sensation of writing on paper. The unique tablet is designed for use in academia as well as in professional settings. Kodeworks assists in development of reMarkable’s complex and international web platform.
+
+
+OBOS
+OBOS er en sentral aktør i det norske bolig- og eiendomsmarked, og tilbyr kunder blant annet lettere veier inn i boligmarkedet gjennom sin ordning for deleierskap. OBOS står bak Nabohjelp, appen som skal gjøre det enklere å spørre naboen om hjelp. Kodeworks bistår med både vedlikehold og videreutvikling av appen som er skrevet i native iOS og Android.
+
+
+OBOS plays a big role in the Norwegian housing and property market, and offers customers - among other services - an easier path to the housing market through partial housing ownership. OBOS is also behind Nabohjelp, an app that makes it easier to ask your neighbors for assistance. Kodeworks assists in both maintenance and development of the app, which is written in native iOS and Android.
+Nomono
+Nomono er en podcastplattform som tilbyr løsninger for samarbeid rundt behandling av audio. KodeWorks utvikler en app som muliggjør dette slikt samarbeid på en intuitiv måte.
+
+
+Cloud-based audio collaboration and processing built specifically for podcasters, broadcast journalists, and audio storytellers.
+Møller IT
+Møller IT, del av Møller Mobility Group, er det ledende bilkonsernet i Norden og Baltikum med over 60 forhandlere og 750 000 kunder. Foretaket har tradisjonelt drevet med nybilsalg, leasing, finansiering, bruktbilsalg, og nå i nyere tid andre typer mobilitetstjenester.
+
+
+Møller IT, part of the Møller Mobility Group, is the leading car group in the Nordic and Baltic countries with over 60 dealers and 750,000 customers. The company has traditionally operated within new car sales, leasing, financing, used car sales, and now more recently other types of mobility services.
+
+
+Thomson Reuters
+Gjennom ulike digitale plattformer for energi- og råvarehandel leverer Thomson Reuters analyseverktøy beregnet på investorer og firmaer. Informasjonen som presenteres i disse løsningene er svært tidskritisk, datamengdene er store, kildene er mange og algoritmene er komplekse.
+
+
+Through various digital platforms for energy and commodity trading, Thomson Reuters delivers analysis tools intended for investors and companies. The information presented in these solutions is time-critical, the amounts of data are large, the sources are many and the algorithms are complex.
+Aize
+Aize er en prosjektspesialist som tilbyr ingeniør-, anskaffelses-, og konstruksjonstjenester (EPC), samt leveranse av avanserte offshore plattformer, onshore anlegg, flytende produksjonsenheter og fornybare energiløsninger.
+
+
+Aize is a project specialist that offers engineering, procurement and construction services, as well as the delivery of advanced offshore platforms, onshore facilities, floating production units and renewable energy solutions.
+Avinor        
+Avinors samfunnsoppdrag er å sikre gode luftfartstjenester i hele Norge. Dette inkluderer å opprettholde en god informasjonsflyt til ansatte og flypassasjerer. Avinor er underlagt noen av landets strengeste krav til sikkerhet og kvalitet. Kodeworks har bistått med integrering av sanntids dataprosessering samt testing og kvalitetssikring av kode.
+
+
+Avinor’s social mission is to ensure good aviation services throughout Norway. This includes maintaining a good information flow to employees and air passengers. Avinor is subject to some of the country’s strictest requirements for safety and quality. Kodeworks has assisted with the integration of real-time information processing as well as testing and quality assurance of code.
+
+
+KLP
+Kommunal Landspensjonskasse Gjensidig Forsikringsselskap er et Oslo-basert pensjonsselskap som administrerer pensjonsordningen til kommuneansatte i Norge.
+
+
+Kommunal Landspensjonskasse Gjensidig Forsikringsselskap is an Oslo-based pension company that manages the pensions of municipal employees in Norway.
+Pexip
+Starten på 2020 bemerket seg med covid-19-pandemien som en periode med store endringer for folk ved at mellommenneskelige relasjoner ble underlagt strenge offisielle retningslinjer. For for leverandører av videoteknologi, som Pexip, resulterte dette i økende etterspørsel. Mindre reiser og færre møter ansikt til ansikt var en ny realitet, og videokommunikasjon var den nye standarden. Pexip er et selskap med lang erfaring i å forenkle og optimalisere videokonferanser, og Kodeworks assisterer i å se på forbedring av ytelse samt tilpasning til mobile flater.
+
+
+The start of 2020 was a world-changing era with the covid-19 pandemic. Relationships were maintained through strict official guidelines, which revolutionized the business. Less travel and fewer face-to-face meetings were a new reality, and video communication was the new standard. Pexip is a company with extensive experience in simplifying and optimizing video conferencing.
+
+
+[a]Bekreft gjerne
+[b]I overkant direkte?
+[c]Muligens også vel direkte? Eller kanskje ikke.
+[d]Dette trenger definitivt en mindre direkte oversettelse
+
+
+1
+1
+
+2
+Nyttig info
+Etablert i 2008 by Eirik Larsen
+DNA - Produkt og forretningsutvikling
+Kontor i Oslo og Trondheim
+30 utviklere - mål om 40 innen 2024
+Trondheim
+Oslo
+Omsetning 39.7 MNOK i 2022
+2
+
+Hvem er KodeWorks?
+Vi er en gruppe teknologer som tror på verdiskapning gjennom åpenhet, kompetanse og dedikasjon. Vi er forpliktet til å levere gode løsninger og verdi i samarbeid med kunden, og samtidig jobber vi hver dag for å skape en livlig og givende arbeidsplass.
+3
+
+
+Kodeworks AS er kåret til Gaselle-bedrift 2023
+3
+
+Noen av våre kunder
+4
+4
+
+Arbeidsmodell
+5
+Idea Generation
+Feasibility Analysis
+Concept Development
+Experimentation
+Data Collection
+Analysis
+Maintenance
+Refinement
+Research
+Collaboration
+Vi har erfaring med å møte kunder på flere punkter i deres reise for å oppnå deres langsiktige forretningsmål. Modellen nedenfor gir et forenklet inntrykk av hva vi kan tilby når det gjelder støtte langs den reisen, i et etablert kundeforhold.
+Prototype refinement
+Problem Identification
+Iterative process
+Iterative process
+Discover
+Define
+Deliver
+5
+
+6
+Kompetanse
+PYTHON
+JAVA
+KOTLIN
+SPRING
+REST
+C++
+Backend:
+SCALA
+OBJECTIVE C
+NODE.JS
+KAFKA
+RUST
+C
+iOS / SWIFT
+ANDROID
+UNITY
+LINUX
+BLUETOOTH
+Teknologier:
+DOCKER
+ARDUINO
+OPEN CV
+OPENGL
+GIT
+JAVASCRIPT
+REACT
+REACT NATIVE
+ELM
+VUE
+ANGULAR
+Frontend:
+REDUX
+TYPESCRIPT
+TAILWIND
+NEXT
+LESS
+++
+SQL
+mySQL
+PostgreSQL
+Data:
+MSSQL
+COSMOS.DB
+MONGO.DB
+AZURE
+AWS
+GCP
+OPENSHIFT
+SNOWFLAKE
+Cloud:
+MVP DEVELOPMENT
+TESTING
+PROSJEKTLEDELSE
+UX DESIGN
+
+Produktutvikling:
+Hvordan kan vi fremhever muligheter for konsept utvikling
+Transisjon fra design til sprint utvikling - er det noe ny topics / key words, vi kan få med?
+6
+
+7
+Hva kan KodeWorks tilby?
+KodeWorks tilbyr høy kompetanse innenfor system og software utvikling, på språk som C++, C, Python, Java og frontend stacken. 
+Vi har også et omfattende partnernettverk som gjør at vi kan bygge helhetlige løsninger av høy kvalitet for våre kunder.
+Produktdesign
+Cloud Management
+Hardware design / prod
+KodeWorks - software, applikasjon og firmware utvikling
+Energiløsninger
+Partner-nettverk
+Internt
+Eksternt
+Kanskje vi skal skille ut hvordan kunden kan bruke oss på forskjellige måte, som f.eks fastpris prosjekter, enkelte konsulent timer eller bespoke løsninger som kan involverer teamleveranse med kundeansvar.
+7
+
+8
+UTVALGTE KUNDER
+8
+
+Teledyne Flir
+9
+Teledyne FLIR designer, utvikler, produserer og distribuerer teknologier som streber etter å skape en mer bærekraftig, effektiv og sikker fremtid ved å forbedre menneskelig persepsjon gjennom verdensledende intelligente sensor- og bildeløsninger.
+
+Avansert drone- og kamerateknologi
+Teknologi
+Linux
+Android
+Unity
+USB
+Network
+9
+
+Thales
+10
+Thales Group er et fransk multinasjonalt selskap som designer og bygger systemer og tilbyr tjenester for luftfart, forsvar, transport og sikkerhet.
+Sikker kommunikasjonsløsninger
+Teknologi
+C++
+React
+Python
+JavaScript
+Rust
+Conan
+SQLAlchemy
+Linux
+Oracle Database
+
+
+10
+
+11
+Politiet skal forebygge og bekjempe kriminalitet samt skape trygghet i samfunnet. For å klare oppdraget er de avhengig av gode datasystemer som understøtter den daglige driften på en smidig og effektiv måte. KodeWorks har vært med å utvikle to svært viktige systemer for Politiet. Mobil og Omvendt Voldsalarm (MOVA) og Politioperativt system (PO). Begge systemene har bidratt til å bedre responstiden til byråets operasjonssentraler, trygge hverdagen til trygghetsalarmbærere, og gjort Politiets patruljer mer effektive.
+Politiet
+Teknologi
+Scala
+Java
+Akka
+Spring
+CSS
+JavaScript
+Backbone
+MSSQL
+Cassandra
+LDAP
+OpenVPN
+DevOps
+IBM WebSphere
+Tomcat
+Jetty
+utfordrer johanne på bilder i presentasjon
+11
+
+12
+Takk for tiden!
+
+Vi ser frem til videre samarbeid
+
+
+post@kodeworks.no
+12
+
+
+
+﻿Restaurering av Fjordgata 30 er en prosess som går i parallell med ombyggingen. Følgende restaureringsaktiviteter er identifisert så langt. Det er forventet at andre aktiviteter kan avdekkes i løpet av prosessen.
+1. bæring
+2. vegger kjeller 1. etg
+3. vegger 2. - 3. etg
+4. vegger 4. - 5. etg
+5. vinduer
+6. kledning
+7. tak
+8. etterisolering
+
+
+﻿Søknadsdetaljer
+
+
+Kort beskrivelse av virksomheten/søkeren (200 ord)
+KodeWorks er en fremtredende aktør innen teknologi og innovasjon, med en variert portefølje som spenner over konsulenttjenester, utvikling av høyteknologiske løsninger, og støtte til startups. Vårt mål er å være en katalysator for nyskapning, ved å tilby ressurser og ekspertise som hjelper nye selskaper å vokse og modne. Vi er engasjert i å skape et miljø hvor teknologi møter kreativitet, og hvor bærekraftig verdiskaping står i sentrum.
+
+
+Ved siden av vår kjernevirksomhet, er vi gjennom datterselskapet KodeWorks Eiendom involvert i utvikling av eiendommer med et spesielt fokus på bærekraft og innovasjon. Dette inkluderer transformasjonen av historiske bygninger til steder som fremmer samarbeid og innovasjon. Prosjektet i Fjordgata 30 er et eksempel på vår innsats for å kombinere bevaring av kulturell arv med skapelsen av moderne møteplasser for teknologi og kreativitet. Gjennom dette og lignende prosjekter ønsker vi å bidra til utviklingen av lokalsamfunnet og styrke Trondheims posisjon som et sentrum for innovasjon og kulturell utveksling.
+
+
+
+
+Prosjektets tittel
+"Innovasjonshub i Fjordgata 30: Fremtidens Møteplass for Teknologi og Kultur"
+
+
+Beskriv prosjektet/tiltaket (400 ord)
+KodeWorks' ambisiøse prosjekt "Innovasjonshub i Fjordgata 30" tar sikte på å omskape en historisk bygning i Trondheim til et pulserende senter for teknologi, innovasjon, og kulturell utveksling. Målet er å revitalisere bygningen samtidig som vi skaper et dynamisk miljø der entreprenører, kreative sjeler, teknologieksperter, og samfunnet for øvrig kan møtes, samarbeide og utveksle ideer. Dette initiativet representerer en unik blanding av bevaring og fremtidsrettet innovasjon, hvor vi bevisst arbeider for å bevare bygningens historiske sjel samtidig som vi tilpasser den til moderne behov.
+
+
+I første fase av prosjektet ligger fokuset på nødvendig restaurering og ombygging av kjelleren og første etasje. Dette grunnarbeidet er avgjørende for å sikre bygningens strukturelle integritet og legge fundamentet for videre utvikling. Spesielt vil arbeidet omfatte stabilisering av byggets fundament, nødvendige utbedringer for å motvirke råteskader, forbedringer av bæresystemer, og oppdateringer for å tilfredsstille dagens krav til brukervennlighet og bærekraft, uten å kompromittere bygningens historiske karakter.
+
+
+Kjernen i prosjektet, innovasjonskaféen planlagt for første etasje, er designet for å fungere som et levende møtepunkt. Her vil besøkende kunne nyte en kaffe mens de jobber, delta i workshops, eller engasjere seg i uformelle møter. Kaféen vil ikke bare være et sted for mat og drikke, men en arena for å stimulere til innovasjon og nettverksbygging. Gjennom en variert agenda med arrangementer og aktiviteter, vil kaféen fremme kunnskapsdeling og samarbeid på tvers av fagfelt.
+
+
+Prosjektet har allerede fått anerkjennelse og støtte fra relevante institusjoner, inkludert Kulturminnefondet og Byantikvaren, som begge ser stor verdi i vår tilnærming til bevaring og nybruk. Den godkjente rammesøknaden er et viktig skritt fremover, og bekrefter prosjektets overensstemmelse med lokale reguleringer og byutviklingsmål. Videre engasjement fra støttespillere som Stiftelsen UNI og Øienfondet, hvor vi har søkt om ytterligere støtte etter anbefaling, understreker bred samfunnsmessig støtte og interesse for vårt initiativ. KodeWorks og vårt nettverk vil bidra med betydelige dugnadstimer for å realisere prosjektet, noe som ytterligere understreker vår forpliktelse til initiativet.
+
+
+Ved å bringe sammen fortidens arkitektur med fremtidens innovasjon, tar KodeWorks sikte på å etablere Fjordgata 30 som en sentral hub for kreativ og teknologisk utvikling i Trondheim. Dette prosjektet representerer en ny modell for urban utvikling; en hvor historisk bevaring møter innovativ nybruk, og sammen skaper de en lysende fremtid for lokalsamfunnet og regionen som helhet.
+
+
+Hvordan vil samfunnsutbyttet komme til nytte? (100 ord)
+Samfunnsutbyttet fra prosjektet "Innovasjonshub i Fjordgata 30" vil manifestere seg gjennom revitalisering av et historisk bygg og skaping av et inkluderende møtested som fremmer krysspollinering av ideer og kultur. Ved å etablere en arena for teknologisk og kreativ samhandling, bidrar vi til økt innovasjon og entreprenørskap i regionen. Huben vil også virke som en katalysator for jobbskaping og tiltrekke seg investeringer til Trondheim. Videre styrker prosjektet byens identitet som en innovativ og bærekraftig by, og bidrar til å bevare og berike det lokale kulturlandskapet for nåværende og fremtidige generasjoner.
+
+
+Hva skal pengene konkret brukes til? (100 ord)
+Støtten på 350.000 kr vil direkte finansiere den kritiske fasen av restaurering og tilpasning i kjelleren og første etasje av Fjordgata 30. Dette inkluderer strukturelle forsterkninger, utbedringer av råteskader, og oppgraderinger for å møte dagens standarder for bærekraft og brukervennlighet, samtidig som byggets historiske karakter bevares. Ved å legge denne grunnsteinen, baner vi vei for en fullstendig transformasjon av bygget til en levende innovasjonshub, som vil tjene som en modell for fremtidig urban utvikling og kulturell berikelse i Trondheim.
+
+
+Hvorfor bør prosjektet/tiltaket prioriteres?
+Prosjektet "Innovasjonshub i Fjordgata 30" er en unik mulighet for å kombinere kulturell bevaring med fremtidsrettet innovasjon, noe som er avgjørende for å fremme en bærekraftig utvikling av Trondheim. Ved å gjenopplive en historisk bygning og omdanne den til et senter for teknologisk og kreativ utfoldelse, tilbyr vi et fysisk rom som både inspirerer og fasiliterer samarbeid på tvers av disipliner. Dette vil ikke bare styrke det lokale innovasjonsøkosystemet, men også bidra til å tiltrekke seg nasjonal og internasjonal oppmerksomhet.
+
+
+Videre er prosjektet designet for å fungere som et sosialt og kulturelt samlingspunkt, noe som er av stor betydning i en tid hvor samfunnet stadig søker etter måter å forbinde mennesker på meningsfulle måter. Ved å inkludere en innovasjonskafé og arrangere regelmessige events og workshops, legger vi til rette for kunnskapsdeling og nettverksbygging som kan føre til nye startups, innovative prosjekter, og sterkere samarbeid mellom akademia, næringslivet, og lokalsamfunnet.
+
+
+Støtte til dette prosjektet vil også være en investering i byens fremtidige konkurransedyktighet. Ved å fremme et miljø hvor teknologisk innovasjon kan blomstre side om side med kulturell og historisk bevaring, posisjonerer vi Trondheim som en attraktiv by for både nåværende og fremtidige generasjoner. Dette vil ikke bare forbedre livskvaliteten for byens innbyggere, men også styrke Trondheims rykte som en ledende by for forskning, utdanning, og høyteknologi.
+
+
+Prosjektets potensielle sosiale, økonomiske, og kulturelle fordeler er betydelige. Det bygger broer mellom fortiden og fremtiden og fremmer en integrert tilnærming til byutvikling som verdsetter både historie og innovasjon. Dette gjør prosjektet "Innovasjonshub i Fjordgata 30" til en verdifull investering for samfunnet og en viktig prioritet for fremtiden til Trondheim.
+

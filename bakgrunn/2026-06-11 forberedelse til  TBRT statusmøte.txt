@@ -1,0 +1,31 @@
+﻿1. Hovedbudskap (åpning)
+* Bruken av bygget er under avvikling. Pålegget fra 2024 var rettet mot et bygg i ordinær drift med leietakere – det risikobildet er borte.
+* Det foreligger nå et helhetlig og forpliktende løp: ny rammesøknad levert 09.02.2026 (bruksendring til minilager), nytt brannkonsept BKL3/TEK17 datert 16.02.2026 utarbeidet av HRP, og egen plan for brannsikkerhet i gjennomføringsfasen (HRP, 26.02.2026).
+* Vi ønsker å bli enige om hva som konkret skal til for at avvikene anses lukket i den situasjonen bygget faktisk er i – og at mulkten stanses.
+2. Status på de tre avvikene
+Avvik 1 – brannsikkerhetsnivå (§ 8):
+* Belysning og merking av rømningsveier: utbedret for lenge siden.
+* Branncellebegrensning: bygget er én branncelle – dette er et dokumentert faktum (Rambøll), kjent fra forrige rammesak, og kan ikke "utbedres" i et vernet bryggebygg uten full ombygging. Det er nettopp det ombyggingen gjør.
+* Sprinkler/alarm: oppgradering til drift gir ikke mening når driften avvikles. Permanente anlegg (ABA, sprinkler, inertgass) etableres i ferdig bygg iht. brannkonseptet.
+* Poenget: kravet om fullsprinkling innen 01.01.2026 forutsatte fortsatt drift. Den forutsetningen er bortfalt.
+Avvik 2 – systematisk sikkerhetsarbeid (§§ 4, 9):
+* I gjennomføringsfasen erstattes dette av et prosjektspesifikt regime som er strengere enn ordinær drift: egen brannansvarlig, brann-ROS før oppstart og ved endringer, branninstruks, daglige kontrollrunder, avvikssystem – alt dokumentert i HRP-notatet.
+Avvik 3 – kontroll/vedlikehold (§ 5):
+* Anlegget i dagens bygg fases ut. Midlertidig deteksjon og varsling etableres i aktive arbeidsområder og åpne hulrom, med direktevarsling utenom arbeidstid.
+3. Gjennomføringsfasen – vis at TBRTs reelle bekymring er ivaretatt
+TBRTs kjernebekymring er smittebrann i den tette bryggerekka. Møt den direkte:
+* HRP behandler gjennomføringsfasen som et selvstendig risikoscenario, eksplisitt fordi permanente anlegg ikke er i drift.
+* Konkrete tiltak: totalforbud mot varme arbeider, kun LED-belysning, kontrollert midlertidig strøm, brannsikker avfallshåndtering, låst bygg og sikret stillas utenom arbeidstid, kameraovervåking, ekstra håndslokkere med full dekning, og opprettholdt angrepsvei for brannvesenet hele veien.
+* Rutiner for varsling av TBRT og nabobrygger ved avvik eller risikofylt arbeid er innebygd.
+* Rømming i byggefasen er ivaretatt i eget dokument og samordnes med nabobryggenes instrukser.
+4. Konkrete ønsker fra møtet (avslutning)
+1. Enighet om hvilken dokumentasjon TBRT trenger for å anse avvikene som lukket gitt avviklet bruk + gjennomføringsfaseplan + nytt brannkonsept. Be om en konkret liste.
+2. Stans av løpende tvangsmulkt fra det tidspunkt bruken dokumenteres avviklet / dokumentasjonen er oversendt.
+3. Frafall av påløpt mulkt – § 39 åpner for at påløpt tvangsmulkt kan frafalles. Argumentet: formålet med mulkten (å fremtvinge sikring av et bygg i drift) er oppnådd på annen og bedre måte – bygget tømmes og totalrehabiliteres med brannrådgiver i alle ledd.
+4. Avtal fast kontaktpunkt og varslingsrutine mot TBRT gjennom byggefasen – det signaliserer at dere ønsker dem med på laget, ikke å bli kvitt dem.
+5. Vær forberedt på disse motargumentene
+* "Pålegget gjelder uavhengig av eiers planer" – riktig, men pålegget gjelder et sikkerhetsnivå for bygget slik det brukes. Når bruken opphører, må kravene vurderes mot faktisk situasjon (tomt bygg under kontrollert byggefase), ikke mot driftssituasjonen fra 2024.
+* "Avvikling er ikke dokumentert" – ha med dato/plan for fraflytting per etasje, og helst skriftlig oversikt over hvilke leietakere som er ute og når de siste går. Hvis dette ikke er 100 % klart ennå: vær ærlig på status og gi en forpliktende dato. Ikke overselg – TBRT kan komme på tilsyn dagen etter.
+* "Hva hvis prosjektet stopper opp?" – vær forberedt på at de vil ha en sikkerhetsventil. Et mulig svar: gjennomføringsfaseregimet (lås, deteksjon, tilsynsrunder) opprettholdes så lenge bygget står tomt, uavhengig av fremdrift.
+* Brannalarm kjeller – du mener dekningen ble vurdert som god ved siste anleggskontroll. Ha den kontrollrapporten med hvis du har den; uten dokumentasjon blir det påstand mot påstand.
+Ett taktisk råd til slutt: ikke bruk møtet på å bestride 2024-funnene punkt for punkt – det inviterer til skyttergravskrig om historikk. Anerkjenn at bygget har kjente svakheter (det er jo hele begrunnelsen for rehabiliteringen), og flytt diskusjonen til "hva er riktig sikkerhetsnivå nå, og hvordan dokumenterer vi det". Frafall av påløpt mulkt er lettere å oppnå når TBRT opplever samarbeidsvilje enn når de opplever omkamp.
