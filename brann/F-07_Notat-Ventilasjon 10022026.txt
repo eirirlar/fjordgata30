@@ -1,0 +1,89 @@
+F-07
+
+Notat Fjordgata 30, Ventilasjon
+
+Phone
+E-post
+Web
+Org nr
+Adresse
+Postnr
+
+46 80 55 55
+post@hrprosjekt.no
+www.hrprosjekt.no
+988 889 245
+Dronning Eufemias
+gate 16
+0191 Oslo
+
+Fjordgata 30 skal istandsettes, og det er tenkt å benytte alle etasjer til minilager, med unntak av deler av
+arealet i 1. etasje (butikk eller enkel kafedrift).
+I forbindelse med istandsettingen er det behov for en overordnet vurdering av ventilasjonsbehov, prinsipp
+for luftfordeling og hensiktsmessig antall ventilasjonsaggregater, da bruksområdene gir ulike krav til
+luftmengder, driftstider og komfort.
+Næringslokaler (butikk / enkel kafé)
+Næringsarealene vil typisk ha høyere krav til luftkvalitet og komfort enn øvrige arealer, og behovet vil variere
+betydelig med bruksform (butikk vs. kafé), antall personer, internlaster og åpningstider. Kafédrift kan gi økt
+behov knyttet til lukt/forurensning, og vil ofte kreve tydeligere sonedeling, samt koordinering mot eventuelt
+kjøkkenavtrekk (dersom det etableres). Det anbefales derfor egne aggregater for næring, med mulighet for
+behovsstyring (VAV/CO₂) og egne driftstider.
+Det vurderes to separate aggregater for næring, med veiledende luftmengder:
+– Næring 1: ca. 2 500 m³/h
+– Næring 2: ca. 4 000 m³/h
+To separate aggregater gir fleksibilitet ved ulik leietakerbruk, reduserer risiko for lukt- og støyoverføring
+mellom enheter, og forenkler innregulering og driftsoptimalisering.
+Minilager/boder
+Arealene med boder/minilager har et annet ventilasjonsbehov enn publikumsarealer. Hovedformålet vil
+normalt være å sikre tilstrekkelig luftutskiftning for å redusere risiko for fukt, lukt og eventuell avdamping fra
+lagrede produkter. Krav til luftmengde vil være sterkt avhengig av hva som faktisk skal lagres samt om det er
+interne fukt-/luktbelastninger og temperaturforhold.
+Foreløpig anslås ventilasjonsbehov for bodarealer til ca. 10 600–14 000 m³/h, avhengig av lagringsformål og
+rominndeling. For boder anbefales i utgangspunktet separat ventilasjonsløsning fra næring, både av hensyn
+til luftkvalitet og energibruk.
+Prinsippvalg – alternative systemer
+Det kan vurderes tre hovedprinsipper for ventilasjonssystem:
+Alternativ A – Separate aggregater for næring og felles aggregat for boder (3 aggregater)
+– Aggregat 1: Næringslokale 1, ca. 2 500 m³/h
+– Aggregat 2: Næringslokale 2, ca. 4 000 m³/h
+– Aggregat 3: Felles aggregat for boder/minilager i alle etasjer, ca. 10 600–14 000 m³/h
+Fordeler:
+– Tydelig funksjonsdeling mellom næring og lager
+– Relativt få aggregater
+– Enkel driftsstruktur
+Ulemper:
+
+– Store hovedkanaler og sjakter for bodventilasjon gjennom alle etasjer
+– Risiko for krevende kanal-kryssinger
+– Stans i bodaggregat påvirker alle boder samtidig
+Alternativ B – Separate aggregater for næring og oppdeling av bodventilasjon i soner (4–6 aggregater)
+– Aggregat 1: Næringslokale 1, ca. 2 500 m³/h
+– Aggregat 2: Næringslokale 2, ca. 4 000 m³/h
+– Bodventilasjon deles opp i flere aggregater/soner, f.eks. lav og høy sone, per sjakt eller per brannseksjon
+Fordeler:
+– Mindre kanalstørrelser og kortere føringsveier
+– Redusert behov for store sjakter og kryssinger
+– Bedre tilpasning til bygningsinndeling og brannseksjonering
+– Feil eller stopp påvirker kun deler av bodarealene
+Ulemper:
+– Flere aggregater gir høyere investeringskostnad
+– Mer teknisk utstyr, automasjon og vedlikehold
+Alternativ C – Felles aggregat for næring (frarådes)
+Felles aggregat for begge næringslokaler vurderes, men anbefales i utgangspunktet ikke. En slik løsning gir
+redusert fleksibilitet ved ulike leietakere og driftstider, og øker risiko for lukt-, støy- og inneklimapåvirkning
+mellom lokalene. Alternativet anses derfor lite fremtidsrettet og frarådes.
+Anbefaling
+Basert på byggets planlagte bruk og at boder/minilager etableres i alle fem etasjer, vurderes det som
+hensiktsmessig å:
+– Benytte separate ventilasjonsaggregater for hvert næringslokale
+– Holde bodventilasjon adskilt fra næring
+– Vurdere oppdeling av bodventilasjon i flere soner dersom kanaltraseer, sjakter eller bygningsutforming
+tilsier dette
+Alternativ B vurderes som mest robust og byggbart dersom bodarealene krever relativt høye luftmengder.
+Endelig valg av løsning bør avklares i videre prosjektering basert på endelig rominndeling, brannkonsept,
+sjaktkapasitet og avklart lagringsformål.
+
+09.02.2026
+Rådgivende Sivilingeniør RIV, Nora Turkiene
+
+

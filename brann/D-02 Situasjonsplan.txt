@@ -1,0 +1,94 @@
+D-02
+569900
+
+N
+
+Inngang lager
+
+1,0
+
+0,2
+
+0.5
+1.5
+
+1,4
+
+17,6
+
+2.5
+
+3.5
+
+4
+
+0,3
+
+0,5
+
+32,0
+
+Søndre gate
+
+401/117
+
+0,9 401/149
+
+1,6
+
+Inngang sykkel 1
+
+30
+
+0,2
+
+32
+
+0,8
+
+28B
+
+28
+
+26
+
+26B
+
+1,1
+
+17,6
+
+Inngang næring
+
+4.5
+
+6,6
+
+5,6
+
+Inngang lager
+
+401/147
+
+7034800
+401/242
+
+Gnr . 401 - Bnr . 14 9
+
+Fjor dga t a 30
+
+K odeW or k s E ie ndo m A S
+
+R a mme s øk na d
+
+1: 2 0 0
+
+A3
+
+2 3. 0 1. 2 0 2 6
+
+Sit ua sjonspla n
+
+A 10 - 0 2
+
+

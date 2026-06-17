@@ -1,0 +1,51 @@
+I-02
+
+Beskrivelse av uttaket
+Trondheim kommune er forespurt for å vurdere muligheten for sprinkleruttak til Fjordgata 30. Det er for tiden ikke
+mulig å utføre simuleringer med nettmodellen. Dersom det er behov for dette kan det utføres i august 2023.
+Fjordgata 30 med vannledningsnett og kommunale vannkummer er vist på figuren nedenfor.
+
+Figur: Fjordgata 30. Eksisterende brannkummer er markert med rødt.
+Sprinkleranlegget er ikke dimensjonert ennå. Utbyggeren oppgir et antatt behov for 15 l/s for sprinkling.
+Tilgjengelig slokkevann
+Kommunal vannledning i Fjordgata ved nr 30 har kapasitet til å levere >50 l/s slokkevann i alle brannkummer.
+Dette er tilstrekkelige vannmengder for å sikre brannvesenets behov for slokkevann. Avstand til brannkummer må
+vurderes iht TEK 17 §11-17, pkt 2 og i samråd med TBRT (Trøndelag Brann og redningstjeneste). Dersom avstand
+vurderes å være for lang, kan aktuelt tiltak være å montere brannventiler i eksisterende kommunale kummer som
+ikke har dette pr dato.
+Tilgjengelig vann til sprinkling
+Det vil være mulig å sprinkle bebyggelsen med 15 l/s fra kommunalt vannforsyningsnett. Normalt trykk i området
+(resttrykk) er ca 65 mVs. Det er imidlertid ikke mulig å si hva resttrykk vil være ved et uttak på 15 l/s før man har
+kjørt en modellsimulering.
+Konklusjon
+Utbygger etterspør om det er mulig med et sprinkleruttak på 15 l/s. Et foreløpig svar er at dette vil være mulig, men
+at man ikke kan utføre en simulering av resttrykk før etter sommeren 2023.
+Det må derfor sendes en konkret forespørsel om sprinkleruttak (kum og krav til trykk og vannmengde) når
+sprinkleranlegget er prosjektert, før en endelig tilbakemelding kan gis fra kommunen.
+Det må tas høyde for at brannvesenet stenger sprinkleranlegg og evt. etterfylling av tank når de starter eget
+slokkearbeid.
+Trondheim kommune forbeholder seg retten til å endre på trykkforholdene i vannforsyningssystemet i kommunen.
+Dette betyr at man i framtiden for eksempel kan ha lavere trykk på nettet. Dette kan medføre at det ikke kan
+leveres de samme mengdene vann og trykk som i dag. Ved slike endringer på nettet, vil huseier varsles, men det
+er denne som må bære kostnadene for eventuelle avbøtende tiltak (for eksempel lokal pumpe eller tank).
+Ved etablering av nye sprinkleruttak skal disse plangodkjennes av Trondheim kommune, Kommunalteknikk (lenke
+til skjema). Anleggets kapasitetsbehov meldes inn via sanitærmeldingen til Trondheim kommune.
+
+Det forutsettes at det private anlegget utføres i henhold til Sanitærreglementet for Trondheim kommune. Det vises
+til sanitærreglementet del 2.
+Beskyttelsesmoduler skal installeres i henhold til beskrivelse i NS-EN 1717. For abonnenter der de enkelte
+tappestedene ikke er utstyrt med beskyttelsesutstyr i tråd med NS-EN 1717, skal det installeres beskyttelsesmodul
+ut fra den høyeste væskekategorien (farligste væske) som håndteres i hele virksomheten. Ved nyanlegg vil det
+være godkjent prosjekterende foretak som, på vegne av tiltakshaver, skal prosjektere korrekt beskyttelse i forhold
+til væskekategori på omsøkte eiendom. Det skal meldes inn korrekt tilbakeslagssikring via sanitærmeldingen til
+Trondheim kommune.
+Det forutsettes at anlegg som skal overtas av Trondheim kommune utføres i henhold til Trondheim kommunes
+VA-norm med tilhørende standard prosjektbeskrivelse og normtegninger (www.va-norm.no/trondheim/).
+Evt. test av sprinkleranlegg skal søkes om på forhånd til Trondheim bydrift (lenke til skjema). Tillatt maksimalt
+vannuttak vil beregnes. Test av anlegget før dette er gjort tillates ikke.
+
+Besvart 15.06.2023 av Birgitte Gisvold Johannessen, Trondheim kommune, Kommunalteknikk
+
+Side 2 av 2
+
+

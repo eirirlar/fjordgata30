@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\\\\\Users\\\\\\\\eirirlar\\\\\\\\Documents\\\\\\\\kodeworks\\\\\\\\fjordgata30\\\\\\\\brann\\\\\\\\\")"
+    ]
+  }
+}

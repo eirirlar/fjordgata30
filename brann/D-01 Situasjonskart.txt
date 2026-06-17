@@ -1,0 +1,281 @@
+D-01
+SITUASJONSKART
+Gnr: 401
+
+Eiendom:
+
+Bnr: 149
+
+Fnr: 0
+
+Snr: 0
+
+Adresse: Fjordgata 30
+
+Hj.haver/Fester:
+
+KodeWorks Eiendom AS
+
+Dato: 13/6-2023 Sign:
+
+N=7034880.66
+Ø=570065.1
+
+Gryta
+N
+
+rua
+
+569950
+
+401/390
+
+569900
+
+Jernbaneb
+
+Østre Kanalhavn
+
+Målestokk 1:1000
+
+r ua
+Jer nba neb
+
+569850
+
+TRONDHEIM
+
+7034850
+
+0.5
+1.5
+2.5
+
+4
+
+Gjelvangveita
+
+5
+
+19
+28
+
+401/242
+
+401/135
+
+401/137
+
+17B
+
+Brattørveita
+
+401/318
+
+13
+
+13
+
+11
+
+401/356
+401/165
+
+401/168
+401/355
+
+Tre
+
+Gatelys (belysningspunkt)
+
+MastFjordgata
+
+AnnetGjerde
+
+Høydekurve 5 m
+
+Teiggrense god nøyaktighet
+
+Teiggrense dårlig nøyaktighet
+
+Teiggrense generert
+
+Bygningsdelelinje 3
+
+Mønelinje
+
+401/162
+
+Takkant
+
+401/160
+
+570000
+
+8
+N=7034750.53
+Ø=569792.42
+8
+
+5
+
+ta
+Fjordga
+
+401/139
+
+Fjordgata
+
+4.5
+
+10
+10
+
+Tegnforklaring
+7034800
+
+401/380
+
+Danielsbakerveita
+
+21
+
+401/141
+
+Ny hovedinngang
+Minilager
+
+401/132
+12
+12
+
+4.5
+
+Ny hovedinngang
+Næring
+
+569900
+
+569800
+
+Gjelvangveita
+
+401/380
+
+1,1
+
+17,6
+
+16A
+
+18A
+
+20
+
+Brattørveita
+
+36B
+
+0,8
+
+26
+
+401/134
+
+401/140
+
+Brattørveita
+
+38
+
+24B
+
+15,9
+
+7034800
+
+36A
+
+28
+
+30
+
+32
+
+6,6
+
+S øndre gate
+
+34
+
+401/144
+
+Planlagte
+solceller
+
+Danielsbakerveita
+
+Søndre gate
+
+40
+401/121
+
+401/147
+
+10
+
+Brattørveita
+
+ugat a
+
+401/149
+401/118
+
+16B
+16B
+
+18B
+18B
+
+401/117
+
+Kr a m b
+
+3.5
+
+1
+
+Bygningslinje
+
+401/158
+
+Flytebryggekant
+
+Kai- og bryggekant
+
+Loddrett mur
+
+Kommunalveg
+
+Det tas forbehold om at det kan forekomme feil på kartet, bla. gjelder dette eiendomsgrenser, ledninger/kabler, kummer m.m. som i forbindelse med prosjektering/anleggsarbeid må undersøkes
+nærmere.
+
+Gnr . 401 - Bnr . 14 9
+
+Fjor dga t a 30
+
+K odeW or k s E ie ndo m A S
+
+R a mme s øk na d
+
+1: 10 0 0
+
+A3
+
+2 2 .0 1.2 0 2 6
+
+Sit ua sjonsk a r t
+
+A 10 - 0 1
+
+

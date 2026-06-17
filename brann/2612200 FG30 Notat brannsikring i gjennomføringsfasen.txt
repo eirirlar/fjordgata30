@@ -1,0 +1,393 @@
+DOKUMENTANSVARLIG
+GODKJENT AV
+SIST OPPDATERT
+
+NIKOLAI S. HOPLAND
+LARS OLE ANDERSEN
+2. JANUAR 2024
+
+NOTAT -RAPPORT HRP AS
+«FG30-BRANNSIKRING I GJENNOMFØRINGSFASEN»
+
+PROSJEKT INFO:
+
+Oppdragsgiver
+
+Kodework
+Eiendom AS
+
+Prosjektnummer
+
+2612200
+
+Prosjektansvarlig
+hos oppdragsgiver
+
+Eirik Rosvold
+Larsen
+
+Prosjektansvarlig
+hos HRP
+
+Ole Morten
+Lagmannssveen
+
+Dato
+
+26.02.2026
+
+Saksbehandler HRP Gunnhild H Leere
+
+Utarbeidet av
+
+Gunnhild H. Leere
+
+Versjonsnummer
+
+0.0
+
+Kontrollert av
+
+Ole Morten
+Lagmannssveen
+
+Kopi til
+
+HRP AS
+DRONNING EUFEMIAS GATE 16, 0191 OSLO
+ORG.NR.: 988 889 245
+HRPAS.NO
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+
+Innhold
+1
+
+Formål og avgrensning ........................................................................................................... 3
+
+2
+
+Forutsetninger og risikobilde i gjennomføringsfasen .............................................................. 3
+
+3
+
+Overordnet strategi for brannsikkerhet i gjennomføringsfasen ............................................... 3
+
+4
+
+Organisatoriske tiltak .............................................................................................................. 4
+Varsling og samordning: ......................................................................................................... 4
+Risikostyring i gjennomføringsfasen ....................................................................................... 4
+
+5
+
+Tiltak for å forebygge antennelse ........................................................................................... 5
+Avfall og brannbart materiale .................................................................................................. 5
+
+6
+
+Sikring mot brannstiftelse og inntrenging ................................................................................ 5
+
+7
+
+Midlertidig deteksjon og varsling ............................................................................................. 6
+
+8
+
+Slokkemidler og manuell innsats ............................................................................................ 6
+Tilkomst for brannvesen og slokkevann ................................................................................. 6
+
+9
+
+Åpninger og midlertidige brudd i brannskiller.......................................................................... 6
+Rømningsveier og midlertidig skilting ..................................................................................... 7
+
+10
+
+Tiltak som ikke ingår i gjennomføringsfasen ...................................................................... 7
+Kompenserende tiltak ved midlertidig svekkelse .................................................................... 7
+
+11
+
+Dokumentasjon i utførelsesfasen ....................................................................................... 7
+
+12
+
+Avslutning ........................................................................................................................... 8
+
+Revisjon/versjons historikk rapportinnhold:
+Rev.
+
+Kommentar
+
+Dato
+
+Sign.
+
+KS
+
+1 Formål og avgrensning
+Dette notatet beskriver hvordan brannsikkerheten ivaretas i gjennomføringsfasen for Fjordgata
+30, i forbindelse med bruksendring til lager/minilager, i tråd med brannkonsept datert
+16.02.2026.
+Notatet erstatter tidligere forutsetninger om to-faset istandsetting. Prosjektet gjennomføres nå i
+én samlet gjennomføringsfase.
+Gjennomføringsfasen behandles som et selvstendig risikoscenario, der permanente
+branntekniske tiltak for ferdig bygg ennå ikke er fullt etablert.
+
+2 Forutsetninger og risikobilde i gjennomføringsfasen
+Bygget er et vernet bryggebygg i tett trehusbebyggelse, med kort avstand til nabobrygger.
+Bruken gir brannklasse 3 og risikoklasse 2, med sporadisk personopphold.
+Risikomatrisen må være levende og oppdateres underveis, løses ved periodisk revisjon og
+dokumenteres ved oppdateringer.
+Følgende forhold gir høy iboende brannrisiko i gjennomføringsfasen:
+•
+•
+•
+•
+•
+•
+
+eldre trekonstruksjoner og skjulte hulrom
+risiko for rask intern brannspredning
+risiko for fasadespredning og smittebrann til nabobebyggelse
+o Fasader mot nærliggende nabobrygger vurderes som særlig kritiske
+påsatt brann og inntrenging utenom arbeidstid
+midlertidige åpninger i yttervegger og etasjeskillere
+Lagring og bruk av brannfarlig vare samt avfall/selvantennelse (filler/papir i brannsikre
+dunker, avstand til bygg o.l.)
+
+I gjennomføringsfasen er bygget særlig sårbart fordi:
+•
+•
+•
+
+eksisterende konstruksjoner eksponeres,
+permanente installasjoner som ABA, sprinkler og inertgassanlegg ikke er i drift,
+arbeid medfører økt risiko for antennelse.
+
+3 Overordnet strategi for brannsikkerhet i gjennomføringsfasen
+Brannsikkerheten i gjennomføringsfasen ivaretas gjennom en kombinasjon av:
+•
+
+forebygging av antennelse
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+•
+•
+•
+•
+
+begrensning av brannenergi
+tidlig deteksjon og varsling
+rask manuell slokkeinnsats
+tiltak for å hindre brannspredning til nabobebyggelse
+
+Tiltakene er tilpasset byggets beliggenhet, konstruksjon og planlagt bruk, og samordnet med
+brannkonseptet for ferdig bygg.
+
+4 Organisatoriske tiltak
+Følgende organisatoriske tiltak etableres i gjennomføringsfasen:
+•
+•
+•
+•
+•
+
+•
+•
+
+Utpeking av egen brannansvarlig for gjennomføringsfasen
+Gjennomføring av brann-ROS før oppstart og ved vesentlige endringer
+Etablering av prosjektspesifikk branninstruks for byggeperioden
+Det gjennomføres kontrollrunder ved arbeidsdagens slutt og ved behov utenom normal
+arbeidstid, med fokus på orden, strøm, varmeutstyr og brannrisiko
+Daglig kontroll av:
+o orden og renhold
+o rømningsveier
+o elektriske installasjoner og midlertidig strøm
+Rømningsveier må etableres og samordnes med nabobryggenes brann- og
+rømningsinstrukser.
+System for registrering og lukking av avvik
+
+Varsling og samordning:
+Ved endringer i risikobilde, avvik av betydning eller unormale driftsforhold som kan påvirke
+brannsikkerheten (f.eks. svekket brannskille, utkobling av deteksjon, åpne fasader/etasjeskiller),
+skal brannansvarlig vurdere behov for varsling og samordning med relevante aktører. Dette
+omfatter ved behov kontakt med brannmyndighet og samordning med nabobrygger der forhold
+kan påvirke rømnings- og innsatsforutsetninger.
+Dette kan omfatte:
+•
+•
+
+kontakt med brannmyndighet ved forhold som kan påvirke innsats- eller
+rømningsforutsetninger
+samordning med nabobrygger der arbeid kan påvirke brannsikkerhet, rømning eller risiko
+for brannspredning
+
+Varslingsbehov vurderes konkret basert på risikonivå og tiltakets varighet.
+
+Risikostyring i gjennomføringsfasen
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+Brann-ROS skal være et levende styringsverktøy og oppdateres fortløpende ved endringer i
+plan, metode, rigg, åpninger i bygningskropp eller andre forhold som kan øke risiko for
+antennelse eller brannspredning. Oppdateringer dokumenteres som del av avvikssystemet.
+
+5 Tiltak for å forebygge antennelse
+For å redusere risiko for brannstart gjelder følgende:
+•
+•
+•
+•
+•
+
+•
+•
+
+Totalforbud mot varme arbeider i bygget
+Røyking kun tillatt utenfor byggeplass, på sikker avstand
+Kun bruk av LED-arbeidsbelysning
+Midlertidig elektrisk anlegg kontrolleres jevnlig
+Forbud mot:
+o seriekobling av skjøteledninger
+o bruk av lange skjøteledninger i kveil
+Varmeovner skal være fastmontert eller veltesikret og plasseres med tilstrekkelig avstand
+til brennbart materiale
+Midlertidig oppvarming og byggtørkere benyttes i henhold til leverandørens anvisninger
+og plasseres slik at varmepåvirkning mot brennbare konstruksjoner unngås.
+
+Avfall og brannbart materiale
+Brennbart materiale og brannfarlig avfall skal håndteres slik at brannrisiko i gjennomføringsfasen
+begrenses.
+Dette innebærer blant annet:
+•
+•
+•
+
+jevnlig borttransport av avfall
+lagring av avfall og materialer på anvist sted med tilstrekkelig avstand fra bygget
+særskilt håndtering av materialer med risiko for selvantennelse (for eksempel filler, papir
+eller absorberende materiale med oljeprodukter), som skal oppbevares i egnede,
+brannsikre beholdere
+
+Avfallscontainere plasseres med tilstrekkelig avstand fra bygningskroppen for å redusere risiko
+for brannspredning.
+Rutiner for avfallshåndtering skal være kjent for alle aktører på byggeplassen.
+
+6 Sikring mot brannstiftelse og inntrenging
+For å redusere risiko for påsatt brann etableres følgende tiltak:
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+•
+•
+•
+•
+
+Bygget holdes låst utenom arbeidstid
+Fysisk sikring av adkomst og stillas
+Tildekking av stillasets nedre del for å hindre klatring
+Kameraovervåking der dette er praktisk og hensiktsmessig
+
+7 Midlertidig deteksjon og varsling
+Det etableres midlertidige løsninger for brannvarsling i gjennomføringsfasen, herunder:
+•
+
+•
+•
+
+Midlertidig brannalarmanlegg eller seriekoblede røykdetektorer i:
+o aktive arbeidsområder
+o hulrom som åpnes under arbeid
+Varsling direkte til ansvarlig person utenom arbeidstid
+Varsling ved avvik/unormale driftsforhold.
+
+Herunder:
+o
+o
+
+rutine for når TBRT varsles ved endringer/avvik
+rutine for nabovarsling ved risikofylt arbeid eller avvik
+
+Midlertidige løsninger er kompenserende tiltak og erstatter ikke krav til permanent
+brannalarmanlegg i ferdig bygg.
+
+8 Slokkemidler og manuell innsats
+Følgende slokketiltak etableres i gjennomføringsfasen:
+•
+•
+•
+
+Ekstra håndslokkere (minimum 6 kg pulver eller 9 liter skum)
+Plassering slik at alle arbeidsområder er dekket
+Slokkeutstyr kontrolleres jevnlig og holdes tilgjengelig
+
+Tilkomst for brannvesen og slokkevann
+Tilkomst for brannvesenet skal til enhver tid opprettholdes i gjennomføringsfasen. Rigg, lagring,
+stillas og midlertidige sperringer planlegges og kontrolleres slik at adkomst og angrepsveier ikke
+hindres.
+Slokkemidler og eventuell tilgang til slokkevann skal være tilgjengelig og tilpasset
+byggeplassens risikobilde gjennom hele gjennomføringsfasen.
+
+9 Åpninger og midlertidige brudd i brannskiller
+Arbeid som medfører åpninger i yttervegger, etasjeskillere eller brannskillende konstruksjoner
+planlegges og gjennomføres slik at:
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+•
+•
+•
+
+omfang og varighet av åpninger begrenses mest mulig
+midlertidig tetting med brannklassifiserte materialer benyttes der det er praktisk mulig
+der tetting ikke kan etableres, iverksettes kompenserende tiltak som:
+o lokal seksjonering
+o fysisk avskjerming av fasade og stillas
+
+Tiltakene skal redusere risiko for både intern brannspredning og brannspredning til
+nabobebyggelse.
+
+Rømningsveier og midlertidig skilting
+Rømningsveier skal holdes frie og kontrolleres daglig. Dersom rømningsforhold endres i løpet av
+gjennomføringsfasen, skal midlertidig skilting og merking oppdateres slik at rømningsveier til
+enhver tid er tydelige og entydige for personell på byggeplassen.
+
+10 Tiltak som ikke ingår i gjennomføringsfasen
+Følgende tiltak inngår ikke i gjennomføringsfasen:
+•
+•
+•
+
+To-faset gjennomføring (prosjektet gjennomføres i én fase)
+Midlertidige faste slokkeanlegg som CO₂- eller tørranlegg
+Permanente branntekniske installasjoner (sprinkler, ABA, inertgass), som etableres først
+i ferdig bygg.
+
+Kompenserende tiltak ved midlertidig svekkelse
+Dersom branntekniske funksjoner midlertidig svekkes eller settes ut av drift i
+gjennomføringsfasen (for eksempel deteksjon, varsling eller brannskillende bygningsdeler), skal
+dette risikovurderes særskilt.
+Det skal etableres kompenserende tiltak som opprettholder et forsvarlig nivå for brann- og
+rømningssikkerhet. Slike tiltak kan omfatte økt tilsyn, midlertidige detektorer, organisatoriske
+begrensninger i arbeid eller andre relevante tiltak basert på risikovurderingen.
+
+11 Dokumentasjon i utførelsesfasen
+Relevant brannfaglig underlag, herunder brannkonsept, tegningsunderlag,
+produktdokumentasjon og monteringsanvisninger, skal være lett tilgjengelig på byggeplassen for
+involverte aktører.
+Utførelse av brannrelaterte tiltak i gjennomføringsfasen dokumenteres ved bruk av sjekklister og
+nødvendig fotodokumentasjon der dette er relevant.
+
+«FG30-BRANNSIKRING I
+GJENNOMFØRINGSFASEN»
+12 Avslutning
+Tiltakene beskrevet i dette notatet skal sikre et forsvarlig nivå av brannsikkerhet i
+gjennomføringsfasen, tilpasset byggets høye brannrisiko og beliggenhet i tett trehusbebyggelse,
+og danner grunnlag for dialog med brannmyndighet.
+
+

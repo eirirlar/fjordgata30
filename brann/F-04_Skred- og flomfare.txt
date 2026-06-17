@@ -1,0 +1,290 @@
+F-04
+
+NOTAT
+Oppdragsnavn Ombygging av Fjord gt.30, Trondheim
+Prosjekt nr.
+
+1350056208-001
+
+Notat nr.
+
+01
+
+Versjon
+
+01
+
+FLOMFAREUTREDNING FOR FJORD gt. 30
+
+Revisjon
+Versjon
+
+01
+01
+
+Dato
+Utarbeidet av
+
+05.07.2023
+PLUB
+
+Kontrollert av
+Godkjent av
+
+GV
+GV
+
+Beskrivelse
+
+Flomfareutredning
+
+Confidential
+1/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+Rambøll Norge AS
+NO 915 251 293 MVA
+
+Innholdsfortegnelse
+1 Innledning, mål og avgrensning............................................................................................... 3
+1.1 Bakgrunn ........................................................................................................................... 3
+2 Beskrivelse av tiltaket ............................................................................................................ 4
+3 Myndighetskrav ..................................................................................................................... 4
+4 Analyse av flomforhold ........................................................................................................... 4
+5 Bølger, skred og erosjon ......................................................................................................... 4
+6 Konklusjon............................................................................................................................ 5
+7 Referanser ............................................................................................................................ 6
+
+Vedlegg
+Vedlegg 1 – Utskrift fra Sehavnivå ................................................................................................ 7
+Vedlegg 2 – Utskrift fra NVE Flomsonekart
+Vedlegg 3 – utskrift fra NVE Atlas
+
+Confidential
+2/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+1
+
+Innledning, mål og avgrensning
+
+1.1
+Bakgrunn
+Det arbeides med bruksendring av Fjord gt. 30 i Trondheim. Se figur 1 for beliggenhet. Tiltaket gjelder
+en ombygging av en brygge fra 1850-tallet, som konverteres til kontorbygg.
+Bygget ligger innenfor Trondheim kommune sitt aktsomhetskart for flom, se figur 2, og flomfaren må
+derfor utredes nærmere. Dette notatet er en redegjørelse for skred - og flomfaren for tiltaket. Det
+beskriver problemstillingen og hvordan løse utfordringene og er tenkt å inngå som en del av en
+rammesøknad.
+
+Figur 1 Kart som viser beliggenhet av Fjord gt. 30.
+
+Figur 2 Utsnitt fra Trondheim kunne sitt aktsomhetskart for flomfare og havstigning.
+
+Confidential
+3/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+2
+
+Beskrivelse av tiltaket
+
+Huset i Fjord gt. 30 skal bygges om til kontorbygg og det planlegges å lage kjeller med vanntett
+konstruksjon. Det nedre plan (plan 1/kjeller) vil få 2 nivåer og det nederste planlegges slik at det skal
+tåle å bli utsatt for flom og at den øvre del av plan 1 skal være over flomnivå. I den forbindelse planlegges
+å senke gulvet i dagens krypekjeller, slik at kjelleren får brukbar høyde.
+
+3
+
+Myndighetskrav
+
+For byggverk i flomutsatt området stiller TEK17 $ 7-2 krav til sikkerhet mot flom og stormflo. Det er
+definert 3 sikkerhetsklasser med ulike flomstørrelser (angitt med gjentaksintervall) som skal legges til
+grunn. Hvilken klasse et byggverk tilhører er avhengig av konsekvensene ved oversvømmelse. Som igjen
+er avhengig av funksjoner byggverket har og kostnadene ved skader. I veiledningen til annet ledd i Tek17
+står det under preaksepterte ytelse oppført at kontorbygg tilhører sikkerhetsklasse F2 som betyr sikkerhet
+mot en 200 års flom.
+
+4
+
+Analyse av flomforhold
+
+Fjord gt. 30 ligger innenfor aktsomhetskartet for flom som vist i figur 2. Dette er et kart utabeidet ved
+hjelp av GIS-anlyse og som viser hvor det er potensiell fare for flom. Et området som ligger innenfor
+aktsomhetssonen må derfor undersøkes nærmere for å bestemme en nøyaktig utbredelse og høyde av
+flommen.
+NVE utarbeidet i 2000 et flomsomekart for Trondheim og figur 3 viser flomsonen for 200 års flom med
+blå strek. Det blå plygonet i figur 3 viser 200 års stormflo utarbeidet av Statens kartverk i 2017.
+Høyden av 200 års flomnivå fra NVE sin rapport var 2.41 moh. i NN2000 og 2.28 i NN1954.
+Resultatene fra analysen i 2000 viser at den høyeste vannstanden i nedre del av Nidelva styres av
+vannstanden i sjøen. Dette er sammenfallende med resultatet fra andre analyser tilsvarende karakter.
+Og at man må et stykke opp i elva før det er vannstanden ved 200 års flom i elva som er
+dimensjonerende. Hvor høyt opp dette inntrer er avhengig av elvas geometri og fallforhold og høyden
+av flo og fjære.
+For Fjord gt. 30 og nedre del av Nidelva har Statens kartverk oppdatert stormflo høydene og tatt
+hensyn til klimafremskriving og landheving. De nye høydene er gitt i vedlegg 1 og viser at høyden for
+200 år stormflo er 2.86 og for 20 års stormflo er den 2.69 moh.
+
+5
+
+Bølger, skred og erosjon
+
+Bygget ligger inne i kanalen og er skjermet mot bølger.
+Bygget ansees ikke å være utsatt for fare skred- eller erosjonsfare. Det forutsettes at pilarer/fundament
+sjekkes/kontrolleres i forbindelse med ombygging.
+
+Confidential
+4/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+Figur 3 Kart fra NVE Atlas som viser utbredelse av stormflo med helfarge og flomsone for 200 års flom
+med blå strek.
+
+6
+
+Usikkerhet
+
+Det er alltid ern viss uskkerhet med beregningen og det anbefales å legge på 25 cm til de beregnede
+høyder. De betyr at gulvet i Fjord gt. 30 ikke bør ligge lavere enn på kote 3.16 moh.
+
+7
+
+Konklusjon
+
+Det planlegges ombygging av bryggen i Fjord gt.30 i Trondheim. Planen er å konvertere den til
+kontorbygg. Bygget ligger innenfor Trondheim kommune sitt aktsomhetskart for flom og flomfaren må
+derfor utredes og utføres i henhold til anbefalingene i NVE sin Veileder nr. 3 av 2023: Sikkerhet mot
+flom.
+Den dimensjonerende vannstand er for 200 års stormflo lik 2.86 moh. På grunn av usikkerhet anbefales
+det at det legges på 25 cm i praktisk bruk slik at høyden av golvet ikke bør ligge lavere 3.16 moh.
+
+Confidential
+5/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+8
+
+Referanser
+-
+
+Trondheim kommune aktsomhetskart
+https://www.trondheim.kommune.no/tema/veg-vann-og-avlop/vann-og-avlop/aktsomhetskartflomfare/
+
+-
+
+Se havnivå. Søkeresultat | Kartverket.no
+
+-
+
+NVE (6/2001): Flomsonekart. Delprosjekt Trondheim
+
+Confidential
+6/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+Vedlegg 1 – Utskrift fra Sehavnivå
+
+Confidential
+7/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+Rambøll Norge AS
+NO 915 251 293 MVA
+
+Vedlegg 2 – Kart fra NVE Atlas som viser flomsone utarbeidet i 2000
+
+Confidential
+8/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+VEDLEGG 3 Kart som viser nivå for 200 års stormflo utarbeidet i 2017 av Statens kartverk
+
+Confidential
+9/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+Confidential
+10/10
+
+Doc ID
+
+/
+
+Versjon
+
+https://ramboll-my.sharepoint.com/personal/per_ludvig_bjerke_ramboll_no/Documents/Mine prosjekter/Fjord_gt_30/K-not-001
+Notat om utredning for Fjord gt 30.docx
+
+

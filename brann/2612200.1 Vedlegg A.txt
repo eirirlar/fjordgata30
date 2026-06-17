@@ -1,0 +1,635 @@
+DOKUMENTANSVARLIG
+GODKJENT AV
+SIST OPPDATERT
+
+NIKOLAI S. HOPLAND
+LARS OLE ANDERSEN
+2. JANUAR 2024
+
+NOTAT - HRP AS
+«FJORDGATA 30 - MINILAGER»
+Vedlegg A – Ekvivalensvurdering for INERGEN/IG-541 (Inergen) i
+Fjordgata 30 Minilager
+
+PROSJEKT INFO:
+
+Oppdragsgiver
+
+Kodeworks Eiendom
+AS
+
+Prosjektnummer
+
+2612200
+
+Prosjektansvarlig
+hos oppdragsgiver
+
+Eirik Rosvold Larsen
+
+Prosjektansvarlig hos
+HRP
+
+Ole Morten
+Lagmannssveen
+
+Dato
+
+16.02.2026
+
+Saksbehandler HRP
+
+Gunnhild H. Leere
+
+Utarbeidet av
+
+HRP RIBr
+
+Versjonsnummer
+
+1.0 Rammesøknad
+
+Kopi til
+
+SØK
+
+Kontrollert av
+
+Jon-Inge Fæster
+
+HRP AS
+DRONNING EUFEMIAS GATE 16, 0191 OSLO
+ORG.NR.: 988 889 245
+HRPAS.NO
+
+«FJORDGATA 30 - MINILAGER»
+Innhold
+Vedlegg A – Ekvivalensvurdering for INERGEN/IG-541 (Inergen) i Fjordgata 30 Minilager ......... 1
+1
+
+Formål.................................................................................................................................. 3
+
+2
+
+Normgrunnlag og metodikk .................................................................................................. 3
+
+3
+
+Forutsetninger for minilager i Fjordgata 30 ........................................................................... 3
+
+4
+
+Akseptkriterier for likeverdighet ............................................................................................ 4
+4.1 Personsikkerhet ........................................................................................................... 4
+4.2 Slokkeevne i startrom (felles bodsone pr. plan) ........................................................ 4
+4.3 Robusthet mot ulme- og hulromsbrann ..................................................................... 4
+4.4 Brannspredning til nabobrygger (< 8 m) ..................................................................... 4
+4.5 Drift og FDV .................................................................................................................. 5
+
+5
+
+Systemutforming – INERGEN/IG-541 i felles bodsone pr plan ............................................. 5
+
+6
+
+Scenariobasert analyse........................................................................................................ 6
+Scenario S-1: Flammebrann i bodsone ............................................................................ 6
+Scenario S-2: Ulmebrann i hulrom .................................................................................... 6
+Scenario S-3: Åpen dør ..................................................................................................... 6
+Scenario S-4: Fasadespredning (< 8 m) ............................................................................ 6
+
+7
+
+Pålitelighet ........................................................................................................................... 7
+
+8
+
+Krav til prøving og idriftsettelse ............................................................................................ 7
+
+9
+
+Drift og FDV-forutsetninger .................................................................................................. 7
+
+10
+
+Sammenlikning mot fullsprinkling ..................................................................................... 7
+
+10.2 Fordeler og ytelser for Inergen/IG-541 i felles bodsone(per plan) .................................... 9
+10.3 Pålitelighet og driftsaspekt ............................................................................................. 10
+10.4 Sammenstilling av løsninger .......................................................................................... 10
+10.5 Samlet vurdering ........................................................................................................... 10
+10.6 Konklusjon ..................................................................................................................... 11
+
+Revisjon/versjons historikk rapportinnhold:
+Rev.
+1
+
+Kommentar
+Endret branncellestrategi, fra hver
+bodrad til branncelle pr etasje
+(plan 2-5)
+
+Dato
+16.02.26
+
+Sign.
+GHL
+
+KS
+JIF
+
+1 Formål
+Dette vedlegget dokumenterer at bruk av INERGEN/IG-541 (Inergen) i felles bodsone per
+etasjeplan (2–5),kombinert med sprinkling i korridorer, trapperom, sjakter og
+risikoutsatte hulrom, kan oppnå et brannsikkerhetsnivå som er likeverdig fullsprinkling i
+hele bygget.
+Vurderingen gjelder minilagerfunksjon i vernet bryggebygning i Fjordgata 30 (U–5) i tett
+trehusbebyggelse, med særlig risiko for skjult brann, hurtig brannspredning og
+fasadeoverføring (< 8 m) som følge av byggets alder, hulrom og materialbruk i vernet
+bryggestruktur.
+
+2 Normgrunnlag og metodikk
+Ekvivalensvurderingen er basert på:
+•
+•
+•
+•
+
+•
+•
+
+NS‑EN 15004 / ISO 14520 / NFPA 2001 – design og verifikasjon av inertgassanlegg
+NS‑EN 12845 – referansenivå for fullsprinkling
+Dokumentasjon av personsikkerhet ved CO₂‑kompensert hypoksi (IG‑541)
+Erfaring og forskningsdata (HVL m.fl.) som viser:
+– inertgass slokker effektivt i lukket volum ved flammebrann
+– inertgass ikke slokker ulmebrann i hulrom → krever kompenserende tiltak
+Ekvivalensmetodikk: Operasjonalitet × Effektivitet × Robusthet
+Scenarioanalyse (S1–S4) for startrom, hulrom, åpne dører og fasadespredning
+
+Vurderingen dekker personsikkerhet (ASET > RSET), startromsslokking, robusthet mot
+ulmebrann, fasadespredning og driftsavhengighet.
+
+3 Forutsetninger for minilager i Fjordgata 30
+Tiltaket er et bruksendret vernet trebygg i bryggerekke, med følgende
+brannforutsetninger:
+•
+•
+•
+•
+•
+•
+
+Minilager etableres i plan U og 2.–5. etasje, med næring i plan 1
+Alle boder på hvert plan (2.–5. etg.) inngår i én felles branncelle (EI60) og én felles
+gassone per plan
+Avstand til nabobrygger < 8 m
+Etasjehøyder: 1,7–2,8 m med bjelker og dragere
+Sprinkling i alle fellesarealer og risikoutsatte hulrom
+Brannalarmanlegg kategori 2 med dobbel deteksjon per gassone
+
+Dette danner grunnlaget for den analytiske verifikasjonen.
+
+«FJORDGATA 30 - MINILAGER»
+4 Akseptkriterier for likeverdighet
+4.1 Personsikkerhet
+INERGEN/IG‑541 muliggjør trygg rømning ved:
+•
+•
+•
+•
+
+Pre‑alarm + tidsforsinkelse
+Avbryt‑funksjon (E‑stop)
+Automatisk dørlukking og interlocks
+Dokumentert trygg pustbar atmosfære ved CO₂‑kompensert hypoksi
+
+Trygg rømning er oppfylt når ASET > RSET i alle soner.
+Personer som befinner seg i et INERGEN/IG-541-fylt bodareal vil fortsatt kunne puste og
+rømme ved redusert oksygennivå, fordi CO₂-kompensasjon opprettholder ventilasjon og
+gassutveksling. Dette er et særtrekk ved INERGEN/IG-541 og skiller det fra øvrige
+inertgasser.
+4.2 Slokkeevne i startrom (felles bodsone pr. plan)
+For likeverdighet med sprinkling kreves:
+•
+•
+•
+•
+•
+
+Designkonsentrasjon nås i hele bodsonen (per plan)
+Holdetid ≥ 10 min, verifisert med door‑fan test per etasjeplan
+Trykkavlastning prosjektert for sonevolum
+Dobbel deteksjon per sone, ikke per enkeltbod
+Fri sone mot himling (≥ 0,5 m) eller dokumentert dysestrategi
+
+INERGEN/IG‑541 har dokumentert god virkning mot tidlig fase flammebrann i lukkede
+volum. Designkonsentrasjon (C_design) skal oppnås i henhold til ISO 14520, typisk i
+intervallet ca. 38–43 % avhengig av endelig sonevolum og temperaturforhold.
+4.3 Robusthet mot ulme- og hulromsbrann
+INERGEN/IG-541 kan ikke slokke ulmebrann i konstruksjoner og hulrom.
+Robusthet ivaretas gjennom:
+•
+•
+•
+•
+
+Sprinkling i korridorer, trapperom, sjakter og hulrom
+Inspeksjonsmuligheter
+Rask røyksignalering i fellesareal
+Fasade- og mellomromstiltak mot nabobrygger
+
+4.4 Brannspredning til nabobrygger (< 8 m)
+Da brannvegg REI120-M A2 ikke kan etableres, oppnås likeverdighet ved kombinasjon
+av:
+
+«FJORDGATA 30 - MINILAGER»
+•
+•
+•
+•
+
+Ytterveggstiltak
+Eventuell fasadesprinkling/kjøling
+Hulromssikring
+Tilrettelagt innsats fra gate og brannbåt
+
+Dette er nødvendig for å redusere risiko for kryss-bryggesmitte.
+4.5 Drift og FDV
+Likeverdighet forutsetter at bygget driftes iht.:
+•
+•
+•
+•
+•
+
+Forbud mot lagring av litiumbatterier, brannfarlig vare, drivstoff, gass,
+spraybokser og motorer med drivstoff
+Frisone mot himling og ikke blokkering av gassdistribusjon
+Ingen endring av tetthet/volum i bodsoner
+Årlig service + integreringstest ved inngrep (re-test av gassanlegg)
+Brukeropplæring i dørfunksjon, alarm og avbryt-funksjon
+
+Dersom dette ikke følges, faller forutsetningen for likeverdighet bort.
+
+5 Systemutforming – INERGEN/IG-541 i felles bodsone pr plan
+Hver etasje (plan 2–5) utføres som én gassone:
+Tetthet
+•
+
+Vegger, himling og bodskiller utføres/tettes slik at lekkasjetall gir dokumentert C_hold ≥
+10 min.
+
+Trykkavlastning
+•
+•
+
+Dimensjoneres for sonevolum, ikke enkeltbod. Lavere trykkstigning pga større volum,
+men større total massestrøm → beregnes i IG‑fase.
+Gassmengde dimensjoneres for nettovolum av sone per plan iht. ISO 14520
+beregninger.
+
+Deteksjon
+•
+•
+
+Dobbel deteksjon plassert slik at hele sonevolumet dekkes
+Deteksjon kan være: multikriterie + røyk, eller varme + røyk
+
+Dørkontroll
+•
+•
+
+Alle dører mellom bodsone og korridor er del av interlock‑logikk
+Alle må være lukket før utløsning
+
+Utløsningssekvens
+
+«FJORDGATA 30 - MINILAGER»
+Prealarm → forsinkelse → dørlukking/interlocks → utløsning → holdetid
+Integrasjon
+•
+•
+•
+
+ABA kategori 2
+«Failsafe»-stilling for adgangskontroll
+Automatisk avstengning av ventilasjon
+
+Dette gir en sikker og kontrollerbar utløsningssekvens.
+
+6 Scenariobasert analyse
+Flammebrann i bodsone: Designkonsentrasjon er dokumentert for full sone per plan.
+Ulme/hulrom: Krever sprinkler i fellesareal + hulromstiltak.
+Åpne dører: Løses av dørlukkere og sekvenskontroll.
+Fasadespredning: Løses av fasade-/mellomromstiltak.
+
+Scenario S-1: Flammebrann i bodsone
+Startrom = hele bodsonen per plan.
+INERGEN etablerer slokkekonsentrasjon raskt i lukket volum.
+Flammebrann stoppes før overtenning. Holdetid ≥ 10 minutter sikrer at gassen opprettholder
+slokkekonsentrasjonen tilstrekkelig lenge til å hindre re-tenning etter slokking i startfasen.
+
+Scenario S-2: Ulmebrann i hulrom
+Negativ for inertgass alene → kompenseres av sprinkler i hulrom, inspeksjon og tidlig
+røyksignalering.
+
+Scenario S-3: Åpen dør
+Dersom dør mellom bodsone og korridor ikke lukkes før utløsning → risiko for
+underkonsentrasjon og utilstrekkelig slokkekonsentrasjon i utvidet volum dersom dør står åpne.
+Åpen dør før utløsning kan også medføre en effektiv volumøkning for gassonen, noe som
+reduserer den endelige slokkekonsentrasjonen (C_final) og dermed kan hindre oppnåelse av
+designnivå.
+•
+
+Interlocks + dørlukkere + dørovervåkning sikrer funksjon.
+
+Scenario S-4: Fasadespredning (< 8 m)
+Gassanlegget påvirker ikke fasadeoverføring.
+Tiltak: fasade/mellomrom, sprinkler i hulrom og operativ innsats.
+
+«FJORDGATA 30 - MINILAGER»
+7 Pålitelighet
+Løsningen vurderes etter prinsippet:
+Pålitelighet = Operasjonalitet × Effektivitet × Robusthet
+•
+•
+•
+•
+
+Operasjonalitet: testet sekvens, dokumentert tetthet, service
+Effektivitet: IG‑541s dokumenterte flammeeffekt i lukkede volum
+Robusthet: sprinklet fellesareal + hulromsbeskyttelse
+Lav personbelastning (RKL 2)
+
+Dette gir høy samlet funksjonssikkerhet når alle forutsetninger er oppfylt.
+
+8 Krav til prøving og idriftsettelse
+Før driftssetting skal følgende dokumenteres per etasjeplan/gassone:
+•
+•
+•
+•
+•
+•
+
+9
+
+Door‑fan test (C_hold ≥ 10 min)
+Trykkavlastningstest
+Full sekvensprøve (prealarm → forsinkelse → interlocks → avbrytfunksjon)
+Test av dørkontroller
+ABA-integrasjon
+As‑built dokumentasjon (soner, flaskedata, rørføringer, avlastningsareal)
+
+Drift og FDV-forutsetninger
+
+Likeverdighet avhenger av:
+•
+•
+•
+•
+•
+•
+
+Lagringsrestriksjoner implementeres i leiekontrakt
+Årlig service på gassanlegg
+Integritetstest ved endringer
+Sprinkler og ABA driftes iht. NS‑rutiner
+Brukere instrueres i dørfunksjon og avbrytknapp
+Årlige brannøvelser
+
+Etter enhver endring i konstruksjon, tetthet eller installasjoner i bodsonen skal ny
+integritetstest (door‑fan test) gjennomføres før anlegget settes tilbake i drift.
+
+10 Sammenlikning mot fullsprinkling
+Dette kapitlet sammenligner to alternative slokkeløsninger for bodarealene i plan 2–5:
+
+«FJORDGATA 30 - MINILAGER»
+1. Fullsprinkling i bodområdene iht. NS-EN 12845
+2. Inergen/IG-541 i én felles bodsone per plan, kombinert med sprinkling i
+korridorer, trapperom, sjakter og risikoutsatte hulrom
+Målet er å dokumentere at valgt løsning (gass + sprinkler i fellesarealer) gir likeverdig
+eller bedre sikkerhetsnivå sammenlignet med fullsprinkling i bodarealene.
+10.1 Hvorfor fullsprinkling i bodsonene ikke er teknisk gjennomførbart
+Bodarealene i plan 2–5 har svært utfordrende geometri og konstruksjon som gjør det
+teknisk umulig å oppnå fungerende sprinklerdekning i henhold til NS-EN 12845.
+1) Etasjehøydene er svært lave
+Takhøydene varierer mellom 1,7–2,8 m, med konstruktive bjelker og dragere som
+bygger ned mot 1,7 m. Dette medfører:
+•
+•
+•
+
+utilstrekkelig kastelengde og overlapp
+uforutsigbart sprede- og dråpemønster
+manglende mulighet for å nå brannkilden før overtenning
+
+Lave takhøyder kombinert med hindringer i himling gjør at sprinkler ikke kan oppnå
+dimensjonerende slokkeeffekt.
+2) Tett og uforutsigbar lagringsgeometri
+Bodene fylles typisk helt opp mot himling med varierende materialer og møblering. Dette
+gir:
+•
+•
+•
+•
+
+permanente skyggeeffekter
+blokkering av dyser
+svært begrenset luftsirkulasjon over lagringen
+liten eller ingen mulighet for vann til å nå brannpunktet
+
+Dette fører til manglende utløsning, dårlig kjøleeffekt og sviktende slokkeevne.
+3) Bjelker, dragere og hulrom gir sen/manglende aktivering
+Konstruksjonen har flere nivåer, hulrom og bjelker som:
+•
+•
+•
+
+akkumulerer varme uten at sprinklerhodet påvirkes
+gir forsinket eller helt uteblitt aktivering
+muliggjør ulmebrann og skjult brannspredning
+
+4) NS-EN 12845-krav kan ikke oppfylles uten uakseptable inngrep
+For å etablere funksjonell sprinklerdekning måtte man:
+
+«FJORDGATA 30 - MINILAGER»
+•
+•
+•
+•
+
+utjevne etasjehøyder
+fjerne/ombygge bjelker og nedstikk
+etablere fri sone under tak
+eksponere sprinklerhoder uten hindringer
+
+Dette er ikke gjennomførbart i vernet trebygg uten store inngrep.
+Konklusjon:
+Fullsprinkling i bodarealene er ikke teknisk mulig og gir ikke et tilstrekkelig
+sikkerhetsnivå.
+
+10.2 Fordeler og ytelser for Inergen/IG-541 i felles bodsone(per plan)
+Med oppdatert løsning utføres hele bodarealet per plan som én felles
+branncelle/gassone (EI60). Dette gir forutsigbare rammer for design og slokkeeffekt.
+•
+
+1) Gassanlegg fungerer uavhengig av romgeometri
+
+I motsetning til sprinkler krever inertgass:
+•
+•
+•
+•
+
+ikke kastemønster
+ikke fri sone under tak
+ikke siktlinje til brannpunkt
+ikke homogen takflate
+
+Gass fyller volumet og etablerer slokkekonsentrasjon selv med lave takhøyder og tett
+lagring.
+•
+
+2) Større sonevolum gir bedre gassdistribusjon
+
+Ved å samle bodene per plan i én sone oppnås:
+
+•
+
+homogen gasskonsentrasjon
+mindre risiko for lekkasje mellom små celler
+enklere trykkavlastning
+forenklet sekvensstyring (én sone = én utløsningslogikk)
+
+•
+
+3) Tidlig slokking av flammebrann (startbrann)
+
+•
+•
+•
+
+Forutsatt:
+•
+•
+•
+
+dobbel deteksjon (røyk + varme eller multikriterie + røyk)
+verifisert tetthet (C_hold ≥ 10 min)
+korrekt prosjektert trykkavlastning
+
+→ vil Inergen/IG-541 slokke brannen tidlig, før overtenning.
+
+«FJORDGATA 30 - MINILAGER»
+•
+
+4) Kombinasjon med sprinkler gir robusthet i hulrom
+
+Svakheten til inertgass (ulmebrann i skjulte rom) kompenseres ved:
+•
+•
+•
+
+sprinkler i korridorer, trapperom, sjakter
+sprinkler eller tiltak i risikoutsatte hulrom
+tilgjengelige inspeksjonspunkter
+
+Dette gir høy robusthet for bryggebygg med hulrom og gammel trekonstruksjon.
+
+10.3 Pålitelighet og driftsaspekt
+Samlet løsning vurderes etter:
+Pålitelighet = Operasjonalitet × Effektivitet × Robusthet
+•
+•
+•
+
+Operasjonalitet: testet sekvens, interlocks, verifisert tetthet
+Effektivitet: dokumentert flammeeffekt i lukkede volum
+Robusthet: sprinkler i fellesareal + hulromsbeskyttelse + fasadetiltak
+
+Løsningen er stabil og godt tilpasset bygg med lav personbelastning (RKL 2).
+
+10.4 Sammenstilling av løsninger
+Funksjon
+
+Fullsprinkling i
+bodsoner
+
+Inergen i felles bodsone +
+sprinkler i fellesareal
+
+Vurdering
+
+Slokking i
+startrom
+
+Dårlig –
+geometri/lagring hindrer
+effekt
+
+Svært god – homogen
+slokkekonsentrasjon
+
+Gass bedre
+
+Ulme- og skjult
+brann
+
+God
+
+Kompenseres av sprinkler +
+hulromstiltak
+
+Likeverdig
+
+Fasadespredning
+
+Ikke tilstrekkelig alene
+
+Ivaretas av
+fasade/mellomrom +
+hulromssprinkling
+
+Likeverdig
+
+Tilpasning til
+vernet bygg
+
+Svært vanskelig/umulig
+
+God – minimal inngripen
+
+Gass klart bedre
+
+10.5 Samlet vurdering
+Kombinasjonen av Inergen/IG-541 i felles bodsone per plan og sprinkler i fellesarealer og hulrom
+gir en helhetlig slokkeløsning som er tilpasset byggets lave etasjehøyder, tette
+lagringsgeometrier, vernekonstruksjon og risiko for skjult brann. Fullsprinkling i bodarealene kan
+
+«FJORDGATA 30 - MINILAGER»
+ikke etableres teknisk, mens Inergen leverer forutsigbar og effektiv slokking i lukkede volum.
+Løsningen oppfyller derfor kravet til likeverdig sikkerhetsnivå, forutsatt dokumentert integritet,
+trykkavlastning, dobbel deteksjon og etterlevelse av FDV-krav.
+
+10.6 Konklusjon
+Fullsprinkling i bodarealene er ikke teknisk gjennomførbart, mens Inergen/IG-541 i felles
+bodsone per plan gir:
+•
+•
+•
+•
+
+bedre startromsslokking
+høyere robusthet ved kombinasjon med sprinkler i fellesarealer
+mindre behov for inngrep i vernet bygg
+mer forutsigbar og dokumenterbar brannytelse
+
+→ Løsningen oppfyller krav om likeverdig sikkerhetsnivå etter TEK17.
+
+Dette gjelder forutsatt at alle krav til tetthet, holdetid, trykkavlastning, dobbel deteksjon,
+dørlukkere/interlocks, varslingssekvens, FDV og lagringsrestriksjoner etterleves fullt ut.
+Vedlegg A skal brukes som grunnlag for fravik 4 og integreres i fraviksanalysen.
+
+

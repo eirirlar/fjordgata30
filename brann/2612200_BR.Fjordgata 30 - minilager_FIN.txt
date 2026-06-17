@@ -1,0 +1,3263 @@
+Tegningsnr.:
+
+U1 F 200 20 001
+Type tegning
+
+Branntegning Plan U1
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+Uklass.
+
+E 30CSa
+
+kl
+Utvendig fasadesprin
+
+kl
+Utvendig fasadesprin
+
+121,8 m2
+
+Trapp
+
+2
+28,2 m
+
+EI 60CSa
+2
+2,0 m
+
+Sjakt
+
+2
+2,4 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+E90C
+
+Sjakt
+
+2
+1,6 m
+
+YDBxH: 9x19
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Heis
+
+2
+6,1 m
+
+E90C
+
+FD-
+
+BxH: 16 x21
+
+E 90C
+
+(fravik brannspredning
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+RevID SIGN
+00
+JIF
+
+KS
+GHL
+
+Dato
+17.02.2026
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+Prosjekteringsgruppen
+
+2
+2,0 m
+
+2
+2,7 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+2
+2,6 m
+
+2
+2,7 m
+
+2
+2,7 m
+
+<8,0 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+Trapp
+
+2
+13,1 m
+
+EI 30CSa
+
+E90C
+
+YD-
+
+BxH: 9 x19
+
+2
+2,2 m
+
+ning <8,0 m
+
+sept (fravik brannspred
+
+omfang iht. brannkon
+
+sept
+omfang iht. brannkon
+
+Teknisk rom
+
+2
+44,1 m
+
+ing/kjøling - prinsipp og
+
+2
+2,0 m
+
+YD-
+
+BxH: 9 x19
+
+E90C
+
+EI 60Sa
+
+ing/kjøling - prinsipp og
+EI 60Sa
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Rammesøknad
+Gnr./Bnr./Festenr
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+Status:
+
+G
+
+Målestokk
+1:100
+
+Format:
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+401/149
+
+Branntekniske forutsetninger
+
+Dato:
+17.02.2026
+
+A1
+
+Type tegning
+
+Branntegning Plan U1
+Tegningsnr.:
+
+P-1 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+Tegningsnr.:
+
+P1 F 200 20 001
+Type tegning
+
+Branntegning Plan 1
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+VBxH: 11x12
+Bh.: 413
+
+VBxH: 19x18
+450
+Bh.:
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+Trapp
+
+E90C
+
+BxH: 9 x19
+
+2
+2,0 m
+
+2
+25,7 m
+FD-
+
+EI 60CSa
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+Utvendig fasadesprin
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+2
+1,4 m
+
+2
+3,0 m
+2
+2,0 m
+
+Sjakt
+
+kl
+Utvendig fasadesprin
+
+2
+3,0 m
+
+kling/kjøling - prinsipp
+
+2
+2,0 m
+
+2
+2,9 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+2,0 m
+
+2
+2,9 m
+
+2
+3,2 m
+
+2
+3,0 m
+
+2
+2,3 m
+
+2
+3,2 m
+
+2
+3,0 m
+
+E90C
+
+Sjakt
+
+2
+1,6 m
+
+EI 60CSa
+
+onsept (fravik brannspr
+
+Heis
+
+2
+6,1 m
+
+E 90C
+
+Næring
+
+2
+204,1 m
+
+RevID SIGN
+00
+JIF
+
+Uklass.
+Uklass.
+BxH: 14x21
+0
+Bh.:
+
+Dato
+17.02.2026
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+
+VV-
+
+KS
+GHL
+
+Prosjekteringsgruppen
+
+edning <8,0 m
+
+Trapp
+
+2
+13,1 m
+
+EI 30CSa
+
+E90C
+
+YD-
+
+BxH: 9 x19
+
+ning <8,0 m
+sept (fravik brannspred
+omfang iht. brannkon
+
+og omfang iht. brannk
+
+2
+3,0 m
+
+2
+2,0 m
+
+ing/kjøling - prinsipp og
+YDBxH: 9x19
+
+BxH: 14x21
+0
+Bh.:
+
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Rammesøknad
+
+Dato:
+17.02.2026
+
+G
+
+Gnr./Bnr./Festenr
+
+Målestokk
+
+Format:
+
+401/149
+
+Branntekniske forutsetninger
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+1:100
+
+Status:
+
+A1
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+Type tegning
+
+Branntegning Plan 1
+Tegningsnr.:
+
+P1 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+Tegningsnr.:
+
+P2 F 200 20 001
+Type tegning
+
+Branntegning Plan 2
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+VBxH: 10x9
+Bh.: 760
+
+2
+2,0 m
+
+2
+1,9 m
+
+2
+1,8 m
+
+2
+2,0 m
+
+2
+2,2 m
+
+2
+2,4 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+kl
+Utvendig fasadesprin
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+FD-
+
+BxH: 9 x19
+
+E90C
+
+Trapp
+
+E90C
+
+2
+2,1 m
+
+2
+2,3 m
+
+BxH: 9 x19
+
+2
+12,1 m
+FD-
+
+2
+2,0 m
+
+Sjakt
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,4 m
+
+EI 60CSa
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+EI 60CSa
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,3 m
+
+2
+2,1 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,7 m
+
+2
+2,0 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+Sjakt
+
+2
+1,6 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+Heis
+
+2
+6,1 m
+
+E 90C
+
+EI 60Sa
+
+Lager
+
+2
+2,1 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+E90C
+
+YD-
+
+BxH: 9x19
+
+2
+2,0 m
+
+2
+2,3 m
+
+2
+1,7 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,1 m
+
+2
+3,5 m
+
+EI 60CSa
+
+RevID SIGN
+00
+JIF
+
+KS
+GHL
+
+Dato
+17.02.2026
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+Prosjekteringsgruppen
+
+ning <8,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,3 m
+
+Trapp
+
+2
+13,1 m
+
+E90C
+
+YD-
+
+BxH: 9x19
+
+E 30CSa
+
+Bøttekott
+
+2
+2,1 m
+
+E90C
+
+2
+2,1 m
+
+EI 60Sa EI 60Sa
+
+EL-skap
+
+2
+1,4 m
+
+YDBxH: 9 x19
+
+sept (fravik brannspred
+
+omfang iht. brannkon
+
+2
+2,6 m
+
+ning <8,0 m
+
+sept (fravik brannspred
+
+omfang iht. brannkon
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+ing/kjøling - prinsipp og
+
+ing/kjøling - prinsipp og
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+kl
+Utvendig fasadesprin
+
+EI 60CSa
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Inergen/IG-541 gassone: Utløsning krever dobbel deteksjon, prealarm,
+tidsforsinkelse og avbrytfunksjon. Dør mot korridor inngår i interlock og skal
+være lukket før utløsning. Holdetid >= 10 min verifiseres i IG (Door-fan test)
+
+Rammesøknad
+
+Dato:
+17.02.2026
+
+G
+
+Gnr./Bnr./Festenr
+
+Målestokk
+
+Format:
+
+401/149
+
+Branntekniske forutsetninger
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+1:100
+
+Status:
+
+A1
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+Type tegning
+
+Branntegning Plan 2
+Tegningsnr.:
+
+P2 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+Tegningsnr.:
+
+P3 F 200 20 001
+Type tegning
+
+Branntegning Plan 3
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+2
+2,0 m
+
+2
+2,0 m
+2
+1,8 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Utvendig fasadesprin
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+FD-
+
+2
+2,0 m
+
+Sjakt
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,4 m
+
+EI 60CSa
+
+BxH: 9 x19
+
+E90C
+
+Trapp
+
+E90C
+
+BxH: 9 x19
+
+2
+12,1 m
+FD-
+
+2
+2,3 m
+
+2
+2,1 m
+
+EI 60CSa
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,3 m
+
+2
+2,1 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+kling/kjøling - prinsipp
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,6 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+Sjakt
+
+2
+1,6 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+E90C
+
+YD-
+
+BxH: 9x19
+
+2
+2,0 m
+
+2
+2,5 m
+
+2
+2,5 m
+
+2
+1,5 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,1 m
+
+2
+3,5 m
+
+EI 60CSa
+
+RevID SIGN
+00
+JIF
+
+KS
+GHL
+
+Dato
+17.02.2026
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+Prosjekteringsgruppen
+
+edning <8,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+Trapp
+
+2
+13,1 m
+
+E90C
+
+YD-
+
+E90C
+
+BxH: 9 x19
+
+Bøttekott
+
+2
+2,5 m
+
+YDBxH: 9 x19
+
+E 30CSa
+
+EI 60Sa EI 60Sa
+
+EL-skap
+
+2
+1,9 m
+
+onsept (fravik brannspr
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+Heis
+
+2
+6,1 m
+
+E 90C
+
+EI 60Sa
+
+Lager
+
+2
+2,9 m
+
+2
+2,0 m
+
+ning <8,0 m
+sept (fravik brannspred
+omfang iht. brannkon
+
+og omfang iht. brannk
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+ing/kjøling - prinsipp og
+
+kl
+Utvendig fasadesprin
+
+EI 60CSa
+
+2
+2,0 m
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Inergen/IG-541 gassone: Utløsning krever dobbel deteksjon, prealarm,
+tidsforsinkelse og avbrytfunksjon. Dør mot korridor inngår i interlock og skal
+være lukket før utløsning. Holdetid >= 10 min verifiseres i IG (Door-fan test)
+
+Rammesøknad
+Gnr./Bnr./Festenr
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+Status:
+
+G
+
+Målestokk
+1:100
+
+Format:
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+401/149
+
+Branntekniske forutsetninger
+
+Dato:
+17.02.2026
+
+A1
+
+Type tegning
+
+Branntegning Plan 3
+Tegningsnr.:
+
+P3 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+Tegningsnr.:
+
+P4 F 200 20 001
+Type tegning
+
+Branntegning Plan 4
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,8 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Utvendig fasadesprin
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+FD-
+
+2
+2,0 m
+
+Sjakt
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,4 m
+
+EI 60CSa
+
+BxH: 9 x19
+
+E90C
+
+Trapp
+
+E90C
+
+2
+2,0 m
+
+2
+2,0 m
+
+BxH: 9 x19
+
+2
+12,1 m
+FD-
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+EI 60CSa
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,0 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,6 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+E90C
+
+Sjakt
+
+2
+1,6 m
+
+YDBxH: 9 x19
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+E90C
+
+YD-
+
+BxH: 9 x19
+
+2
+2,1 m
+
+2
+2,1 m
+
+2
+2,0 m
+
+2
+3,0 m
+
+2
+2,4 m
+
+2
+2,4 m
+
+2
+1,5 m
+
+2
+3,1 m
+
+EI 60CSa
+
+RevID SIGN
+00
+JIF
+
+KS
+GHL
+
+Dato
+17.02.2026
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+Prosjekteringsgruppen
+
+edning <8,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Trapp
+
+2
+13,1 m
+
+E90C
+
+YD-
+
+E90C
+
+BxH: 9x19
+
+Bøttekott
+
+2
+2,6 m
+
+YDBxH: 9 x19
+
+E 30CSa
+
+EI 60Sa EI 60Sa
+
+EL-skap
+
+2
+1,9 m
+
+onsept (fravik brannspr
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Heis
+
+2
+6,1 m
+
+E 90C
+
+EI 60Sa
+
+Lager
+
+2
+2,0 m
+
+edning <8,0 m
+
+onsept (fravik brannspr
+
+2
+3,0 m
+
+og omfang iht. brannk
+
+og omfang iht. brannk
+
+kling/kjøling - prinsipp
+
+kling/kjøling - prinsipp
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Utvendig fasadesprin
+
+EI 60CSa
+
+2
+2,0 m
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Inergen/IG-541 gassone: Utløsning krever dobbel deteksjon, prealarm,
+tidsforsinkelse og avbrytfunksjon. Dør mot korridor inngår i interlock og skal
+være lukket før utløsning. Holdetid >= 10 min verifiseres i IG (Door-fan test)
+
+Rammesøknad
+
+Dato:
+17.02.2026
+
+G
+
+Gnr./Bnr./Festenr
+
+Målestokk
+
+Format:
+
+401/149
+
+Branntekniske forutsetninger
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+1:100
+
+Status:
+
+A1
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+Type tegning
+
+Branntegning Plan 4
+Tegningsnr.:
+
+P4 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+Tegningsnr.:
+
+P5 F 200 20 001
+Type tegning
+
+Branntegning Plan 5
+Ikke en del av tiltaket
+EI 60 [B 60]
+
+Rømningsvei
+
+E 60 [F 60]
+
+Sprinkler
+Inergen / IG-541
+
+Angrepsvei for brannvesenet
+Dørmiljø
+Håndslokkeapparat
+
+B
+
+E 90C
+
+Brannklassifisert dør
+
+Alarmsentral
+
+EI 60CSa
+
+Brannklassifisert dør
+
+Rømningsretning
+
+EI 60Sa
+
+E 90 C [F 90]
+
+Brannvesenets Orienteringsplan
+
+EI 60CSa [B 60S]
+Brannklassifisert dør
+EI 60Sa [B 60]
+Utgang til det fri
+
+EI 30CSa
+
+Brannklassifisert dør
+EI 30CSa [B 30S]
+
+Brannslange
+E 30CSa
+
+Brannklassifisert dør
+
+Uklass.
+
+Uklassifisert dør
+
+Elektrisk tavle
+
+E 30CSa [B 30S]
+
+Fotnoter:
+
+1.
+
+Slokkeløsning og omfang for
+plan 1 fastlegges endelig i IG,
+prosjekteres iht lagringshøyde
+Næringsdel - RKL avklares (RKL
+2/5) i IG.
+Rammeforutstening: Rømning
+og brannalarmanlegg iht. valgt
+RKL.
+
+2.
+
+2
+2,0 m
+
+2
+2,0 m
+2
+1,8 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,7 m
+
+2
+1,7 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Utvendig fasadesprin
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+FD-
+
+BxH: 9 x19
+
+2
+2,0 m
+
+Sjakt
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+1,4 m
+
+EI 60CSa
+
+E90C
+
+Trapp
+
+E90C
+
+FD-
+
+2
+2,0 m
+
+2
+2,0 m
+
+BxH: 9 x19
+
+2
+12,1 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+EI 60CSa
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+3,6 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Sjakt
+
+2
+1,6 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+E90C
+
+YD-
+
+BxH: 9x19
+
+2
+2,1 m
+
+2
+2,3 m
+
+2
+2,3 m
+
+2
+1,5 m
+
+2
+2,1 m
+
+2
+2,0 m
+
+2
+3,1 m
+
+2
+3,1 m
+
+EI 60CSa
+
+RevID SIGN
+00
+JIF
+
+KS
+GHL
+
+Dato
+20.05.2025
+
+Revisjonsnavn
+Branntegning nivå ramme
+
+Prosjekteringsgruppen
+
+edning <8,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Trapp
+
+2
+13,1 m
+
+E90C
+
+YD-
+
+E90C
+
+BxH: 9x19
+
+Bøttekott
+
+2
+2,6 m
+
+YDBxH: 9 x19
+
+E 30CSa
+
+EI 60Sa EI 60Sa
+
+onsept (fravik brannspr
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Heis
+
+2
+6,1 m
+
+E 90C
+
+EI 60Sa
+
+EL-skap
+
+2
+1,9 m
+
+2
+2,0 m
+
+edning <8,0 m
+onsept (fravik brannspr
+
+Lager
+
+2
+3,0 m
+
+og omfang iht. brannk
+
+og omfang iht. brannk
+
+kling/kjøling - prinsipp
+
+kling/kjøling - prinsipp
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+2
+2,0 m
+
+Utvendig fasadesprin
+
+EI 60CSa
+
+2
+2,0 m
+
+ARK:
+
+ARK FIRMA
+
+LARK:
+
+LARK FIRMA
+
+IARK:
+
+IARK FIRMA
+
+RIB:
+
+RIB FIRMA
+
+RIBr:
+
+HRP
+
+RIE:
+
+RIE FIRMA
+
+RIV:
+
+RIV FIRMA
+
+RIBr JON-INGE FÆSTER
+RIBr 957 94 645
+RIBr jonfae@hrpas.no
+
+© Alle rettigheter tilhører utførende for prosjektering. Kopiering eller
+bruk av disse tegningene er forbudt uten stiftlig samtykke.
+Tiltakshaver:
+
+Kodeworks Eiendom AS
+Prosjekt:
+
+Fjordgata 30 - Minilager
+Adresse:
+
+Fjordgata 30, 7010 Trondheim
+Fase:
+
+Inergen/IG-541 gassone: Utløsning krever dobbel deteksjon, prealarm,
+tidsforsinkelse og avbrytfunksjon. Dør mot korridor inngår i interlock og skal
+være lukket før utløsning. Holdetid >= 10 min verifiseres i IG (Door-fan test)
+
+Rammesøknad
+
+Dato:
+17.02.2026
+
+G
+
+Gnr./Bnr./Festenr
+
+Målestokk
+
+Format:
+
+401/149
+
+Branntekniske forutsetninger
+
+Branntekniske forutsetninger
+
+Branntegning - Rammesøknad.
+
+Risikoklasse: 2
+Brannklasse: 3
+Brannalarmanlegg klasse 2
+En seksjon
+Delvis sprinklet iht. NS-EN 12845:2015+A1:2019
+Bæresystem: R 60 [B 60], R30 [B 30]
+
+Viser brannceller, rømningsprinsipp,
+branntekniske installasjoner og slokkesoner på
+overordnet nivå.
+Ikke detaljprosjektering.
+
+1:100
+
+Status:
+
+A1
+
+Prosjektnr.:
+
+Sign.
+
+Kontroll
+
+2612200
+
+JONFAE GHL
+
+Type tegning
+
+Branntegning Plan 5
+Tegningsnr.:
+
+P5 F 200 20 001
+
+HRP
+BRANNKRAV I RAPPORT GJELDER FORAN
+TEGNING.
+TEGNINGEN KAN IKKE BRUKES SOM
+ARBEIDSTEGNING.
+
+Dronning Eufemias Gate 16, 0191 Oslo
+Tlf.: 46 80 55 55
+Epost: post@hrprosjekt.no
+
+

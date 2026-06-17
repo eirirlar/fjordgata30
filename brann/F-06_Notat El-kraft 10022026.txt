@@ -1,0 +1,81 @@
+El-kraft notat
+Rammesøknad
+
+Dato: 10.02.2026
+
+Elektrisk anlegg Fjordgata 30
+Adresse: Fjordgata 30, 7010 Trondheim
+Tema: Vurdering av eksisterende el-kraft inntak og strømforbruk.
+
+1. Bakgrunn
+I forbindelse med ombygging av Fjordgata 30 til hovedsakelig minilager og re-etablering av et
+næringslokale i deler av 1. etg. skal det sendes rammesøknad til byplankontoret, dette notat er et vedlegg
+til rammesøknad med en vurdering av eksisterende el-kraft inntak og fremtidig strømforbruk.
+
+2. Eksisterende el-inntak og tilgjengelig kapasitet
+Byggets nåværende inntakskabel er en 50 mm² Cu-kabel, som normalt dimensjoneres for en
+inntakssikring på 160 A. Eksisterende inntakssikring er noe usikkert pga. manglende befaring.
+Fjordgata 30 forsynes fra Tensios-nett via en transformatorkiosk ved Fjordgata 18A. Historisk har tilførsel
+mellom koblingskassene bestått av 120 mm² Cu, men i nyere tid har Tensio oppgradert området med 240
+mm² Al-kabler direkte fra trafo til de respektive k-kassene. Dette gir en tilgjengelig kapasitet på rundt 300 A
+i nærmeste k-kasse.
+Dette innebærer en teoretisk tilgjengelig strømkapasitet, som må sjekkes med Tensios på:
+•
+•
+
+160 A via eksisterende inntak
+≈300 A via ny 240 mm² Al-tilførsel ved oppgradering til nytt inntak/inntakskabel.
+
+HRP – M – Mal for rapport for gjennomført kvalitetskontroll – Kvalitetskoordinator
+© 2016 HRP AS - Sist oppdatert av: Espen Flagstad, 05.11.2021
+
+El-kraft notat
+Rammesøknad
+
+Bildet viser kablene som er tilknyttet blant annet Fjordgata 30. Den tidligere nevnte inntakskabelen er
+den korte i turkis som går fra utvendig koblingskasse (k-kasse) og inn i bygget. Det er denne som per
+i dag begrenser sikringsstørrelsen.
+
+3. Forventet effektbehov etter oppgradering
+Siden det er tenkt minilager uten stort varmebehov i størstedel av bygget og oppgradering av teknisk
+anlegg som:
+•
+•
+•
+•
+•
+•
+
+nye og energieffektive vinduer
+LED-belysning
+Nytt ventilasjonsanlegg med varmegjennvinner og behovsstyring
+varmeveksling/varmepumpe med vann fra elva
+mulig solceller på tak hvis tiltak innvilges
+modernisering av øvrige tekniske installasjoner
+
+Ses behovet til et lavere effektbehov, en dagens forbruk. Oppvarming vil ha redusert elektrisk energibehov
+som følge av redusert oppvarmingsbehov pga. lave temperaturer på 75% av arealene, redusert
+transmisjonstap, varmeveksling, moderne vifter og smartere styring. LED-belysning gir vesentlig lavere
+grunnlast.
+
+4. Anbefaling
+Det anbefales å videreføre prosjektering uten tiltak på el-inntaket. Dersom endelig lastberegning og
+detaljprosjektering skulle avdekke vesentlig avvik i forutsetningene, må dette vurderes på nytt, men
+HRP – M – Mal for rapport for gjennomført kvalitetskontroll – Kvalitetskoordinator
+
+El-kraft notat
+Rammesøknad
+
+dagens infrastruktur vurderes å ha nok margin til den tiltenkte bruken av bygget. Eventuell dialog med
+nettselskap må tas i detaljprosjekteringsfasen.
+
+Denne rapporten er utarbeidet av:
+Filip Knørr Brøste
+RIE
+Fagkontroll utført av:
+Magne Alexander Olsen
+Fagansvarlig RIE
+
+HRP – M – Mal for rapport for gjennomført kvalitetskontroll – Kvalitetskoordinator
+
+

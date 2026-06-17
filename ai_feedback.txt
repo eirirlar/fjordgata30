@@ -1,0 +1,60 @@
+> Rapporten retter seg mot tre hovedmottakere
+Det er helt urelevant å referere til 3 hovedmottakere. Bare lag rapporten ikke skriv hvem som skal lese den. Den skal bearbeides videre og tilpasses litt for hver av leserne. Spesielt brannvesenet kommer til å få en del ekstra tilpasninger.
+
+> - 1. etasje:
+Når du har tall etter en dash blir det rar formattering med .md som også blir med over når jeg kjører pandoc.
+
+> selskapslokale brukt av KodeWorks.
+Det var selskapslokaler tidligere, men nå er det kontorer. Namedropping av selskapslokale er på grensen til urelevant og til og med negativt ovenfor brannvesenet.
+
+> gulv dels rotte eller manglende,
+Rotte?! Skriv norsk. Rottent.
+
+> Butikkdriften i 1. etasje er **avviklet**, strømmåler'
+Ikke bruk bold inni teksten det ser dårlig og uproft ut.
+
+> Det er etablert HMS-tavle, og søknad om ansvarsrett for BYA er utarbeidet og sendt inn (hengt opp på HMS-tavlen).
+Her er det mye rart. Hvorfor er dette relevant nå? Det var lenge siden, og denne BYA søknaden ble det ikke noe av. Jeg tror det er litt problematisk at du ser på bakgrunn folderen som ferske greier. Det er litt eldre saker som du bør behandle deretter.
+
+> \newpage
+Er dette en slags instruks til pandoc elns? Det vises ikke i pandoc, men det vises i .md filen. Jeg bryr meg ikke om .md filen, så om det var intensjonen er det ok.
+
+> RiB
+Ole Stenmo
+
+> RiBr
+Gunnhild Henriksen Leere
+
+> RiE / RiEn | HRP (+ Sastech ved behov)
+Sastech er ute. Det er hrp ved Anne Kristine Amble
+
+> Entreprenør
+Kun Astra Bygg. Viktig å ikke skape usikkerhet her. Astra har allerede blitt akseptert ifm kontorombyggingen
+
+> Dette kapittelet er rapportens kjerne for tilskuddsyterne
+Snakk om hva som er gjort ikke masse fluff rundt. Store overskrifter. "rapportens kjerne". Tilskuddsyterne (kommentert over).
+Hold det konsist. Ikke for kort, men ikke masse unødvendige ord og formuleringer. Ikke ha masse kapittel og delkapittel. Enkle, bold, overskrifter, bør være tilstrekkelig for den mengden tekst vi skal lage her.
+
+> ## 4.1 Hulltaking og kartlegging av bæresystem
+Ja, vi har kartlagt. Vi har faktisk brukt ganske mye tid på det. Men i rapporten skal vi ha mye mer fokus på hva som er gjort fysisk og mye mindre på hva som er planlagt og kartlagt. For planlegging og kartlegging får vi verken støtte for fra byantikvar og kulturminnefondet, og vi får ingen eller negativ gehør fra brannvesenet pga manglende framdrift på brannsikring.
+
+> Ryddingen har tre formål som samtidig tjener kulturminne-, byggtekniske og brannfaglige hensyn:
+Det at det "tjener kulturminne-, byggtekniske og brannfaglige hensyn" virker som en flåsete frase som lukter av "bestillingsverk".
+
+> Legge til rette for fysisk istandsetting av kjeller og 1. etasje.
+Ja. Og så må man ikke glemme at det gjør det mulig å PROSJEKTERE kjelleren, som tidligere har vært umulig pga at innsyn har vært blokkert. Man har ikke sett bærekonstruksjoner. Man har ikke sett viktige tekniske løsninger etc. Feks: vi har avdekket langsgående vaiere med strekkfisker som ser ut til å være en essensiell del av bæringen. Uten dette arbeidet hadde vi ikke kunnet gjort korrekt arbeid i rehabilitering av bygget som helhet.
+
+> Fjerning av resten av det elektriske anlegget avventes til IG er
+Ja. Og i tillegg trengs det byggestrøm.
+
+> Portsikring mot Fjordgata er identifisert som avvik (porten har vært ulåst), og nytt låsesystem/sikring er under ordning.
+100% irrelevant i denne rapporten. Ikke bare ta det som står i møtereferatene og bruk det. Tenk på hva kulturminnefondet, byantikvar og brannvesenet bør få presentert.
+
+Det er gjort omfattende planlegging av brannkonsept, både for det ferdige minilager+kontor (i halve første etg). Og ikke minst for byggefasen. Brannkonseptet for byggefasen etterleves allerede. Se innhold i den nye mappen brann (det er gjort pdftotext på disse filene - figurer mangler)
+
+> Dugnadsgjeng er kuratert slik at kun tilstrekkelig skolerte deltakere er med (den første gruppa med eksterne hjelpere deltok én gang og ble ikke videreført)
+Tror ikke vi skal ha fokus på at det jobbes på dugnad. Det er urelevant. Vi har en gruppe med faste hjelpearbeidere som hjelper oss. Hvorfor skal vi snakke om de som ikke ble videreført? Hvem av interessentene bryr seg? Urelevant!
+
+> | Saging av bjelker i bjelkelag for grunnundersøkelse | Utført (7.–8.3.) | Stoppet opp — flere bjelker tas ikke før RiB har vurdert |
+Usikker på om det står noe sted at vi har vært ekstremt nøyaktige med å IKKE fjerne bjelker som kan ha antikvarisk verdi og/eller gjenbrukes i rehabiliteringen. Kun skrap har blitt fjernet. Og vi har som du allerede har skrevet ikke fjernet bjelker som potensielt kan være essensiell for bæring, eller gått ut over det man kan gjøre uten å trigge en IG.
+

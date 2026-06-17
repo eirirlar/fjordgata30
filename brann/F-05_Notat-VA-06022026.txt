@@ -1,0 +1,41 @@
+F-05
+
+Notat Fjordgata 30 VA
+Fjordgata 30 er tenkt ombygd til minilager i bygget, med unntak av et lite areal i 1.etg
+som blir dagligvarebutikk iht. kra fra byplankontoret.
+
+Dagens situasjon
+Vann
+Fjordgata 30 har innlagt 100mm duktil støpejerns ledning for bruk til sprinkling
+av butikkarealer i 1. etasje. Denne er tilkoblet kommunalt nett i kum.
+Det er innlagt 1¼ toms Cu vannledning til forbruksvann, denne er tilkoblet kommunalt nett i kum.
+Avløp
+Bygget er tilkoblet kommunalt avløp med 125mm PVC rør til kommunalt avløp i kum 47706.
+Overvann
+Det er ingen opplysning om tilkobling til overvannssystem, dette antas slippes rett ut i kanalen i dag.
+Behovsberegning nytt tiltak:
+Bygget er planlagt for 2300m² minilager, med unntak av et område i 1. etasje hvor formålet vil være
+butikkdrift. Iht. TEK17 kreves det sprinkelanlegg for lager fra risikoklasse 5 (industri) eller 6
+(lager/logistikk). For store lagerbygg (>2000-3000 m2 eller høyere) kreves det nesten alltid
+sprinkleranlegg. Sprinkelanlegg er anslått til 10-15l/s, endelig beregning i detaljprosjektering.
+Vannforbruk 80l/(ansatt*dag) (VA-miljøblad 115) butikklokaler.
+Beregning maksimal avløpsmengde Qmax.
+Forutsetninger for beregningen:
+Vannforbruk per person settes til 80l/pe*døgn.
+Antall ansatte beregnes til 10 stk, antall timer tilstedeværelse pr døgn =14t.
+Antall pe = (80l/ansatte x døgn * 10 ansatte)/ p150l/pe*døgn= 6 pe
+Variasjonsfaktor velges fmaks 1,5, kmaks 1,0.
+Qmax=Qdim*fmaks*kmaks.
+(6pe * 150l/pe*d * 1,5 * 1,0 *(24/14)) / (24*60*60) = 0,03 l/s
+Konklusjon
+Dagens avløpssituasjon er tilstrekkelig for å håndtere en ombygging til minilager med en liten butikk i
+1. etasje. Dagens avløp på 125mm har en kapasitet på 6,2l/s ved 70% fyllingsgrad.
+Vannforsyning med 1¼toms Cu ledning vil også ha kapasitet til å levere vann til forbruk.
+Sprinkleruttak på 15 l/s er oppgitt av Trondheim kommune til å være mulig, men at man ikke har
+utført en simulering av resttrykk.
+Overvann fra tiltaket kan føres til kommunal OV ledning DN 300mm i kum 1884. Ledningen ligger
+mellom Fjordgata 30 og 28.
+Moelv 06.02.2026
+Kjell-Petter Ellingsbø (sign)
+
+

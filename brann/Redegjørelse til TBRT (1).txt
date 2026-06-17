@@ -1,0 +1,106 @@
+DOKUMENTANSVARLIG
+GODKJENT AV
+SIST OPPDATERT
+
+NIKOLAI S. HOPLAND
+LARS OLE ANDERSEN
+2. JANUAR 2024
+
+REDEGJØRELSE TIL TBRT
+«BRANNSIKKERHET I GJENNOMFØRINGSFASEN»
+FJORDGATA 30
+PROSJEKT INFO:
+
+Oppdragsgiver
+
+Kodework
+Eiendom AS
+
+Prosjektnummer
+
+2612200
+
+Prosjektansvarlig
+hos oppdragsgiver
+
+Eirik Rosvold
+Larsen
+
+Prosjektansvarlig
+hos HRP
+
+Ole Morten
+Lagmannssveen
+
+Dato
+
+26.02.2026
+
+Saksbehandler HRP Gunnhild H Leere
+
+Utarbeidet av
+
+Gunnhild H. Leere
+
+Versjonsnummer
+
+0.0
+
+Kopi til
+
+TBRT
+
+Kontrollert av
+
+Ole Morten
+Lagmannssveen
+
+HRP AS
+DRONNING EUFEMIAS GATE 16, 0191 OSLO
+ORG.NR.: 988 889 245
+HRPAS.NO
+
+«BRANNSIKKERHET I
+GJENNOMFØRINGSFASEN»
+Til: Trøndelag brann- og redningstjeneste (TBRT)
+Prosjekt: Fjordgata 30 – bruksendring til minilager
+Grunnlag: Brannkonsept datert 16.02.2026
+Formål: Kortfattet oppsummering av hvordan brannsikkerheten ivaretas i gjennomføringsfasen,
+for oversendelse til TBRT.
+
+Vedrørende: Brannsikkerhet i gjennomføringsfasen – Fjordgata 30
+Det vises til bruksendring av Fjordgata 30 til minilager og oversendelse av kort oppsummering
+av hvordan brannsikkerheten ivaretas i gjennomføringsfasen, basert på brannkonsept datert
+16.02.2026.
+Bygget er et vernet bryggebygg i tett trehusbebyggelse, med kort avstand til nabobrygger
+(< 8 m). Bruken gir brannklasse 3 / risikoklasse 2, men byggets konstruksjon og beliggenhet
+medfører svært høy iboende brannrisiko, særlig knyttet til skjulte trekonstruksjoner, rask
+brannspredning og risiko for smittebrann til nabobebyggelse. I gjennomføringsfasen er bygget
+særlig sårbart fordi permanente branntekniske installasjoner (ABA, sprinkler og inertgassanlegg)
+ikke er etablert. Gjennomføringsfasen behandles derfor som et selvstendig risikoscenario.
+Brannsikkerheten i gjennomføringsfasen ivaretas gjennom prosjektspesifikke tiltak med
+hovedvekt på forebygging av antennelse, begrensning av brannenergi, tidlig deteksjon og
+varsling, rask manuell slokkeinnsats samt tiltak for å redusere risiko for brannspredning til
+nabobrygger.
+Det er utpekt egen brannansvarlig for gjennomføringsfasen. Brann-ROS gjennomføres før
+oppstart og oppdateres ved vesentlige endringer i arbeid, metode eller risikobilde. Det er etablert
+prosjektspesifikk branninstruks, daglige kontroller av orden, rømningsveier og midlertidige
+elektriske installasjoner samt system for registrering og lukking av avvik. Varsling og samordning
+med brannmyndighet og nabobrygger vurderes ved avvik eller unormale driftsforhold som kan
+påvirke brannsikkerhet, rømning eller innsatsforutsetninger.
+For å redusere risiko for brannstart gjelder totalforbud mot varme arbeider, kontrollert bruk av
+midlertidig strøm, LED-arbeidsbelysning, sikre varmeovner samt restriktiv håndtering av
+brannfarlig vare og avfall. Bygget holdes låst utenom arbeidstid, med fysisk sikring av adkomst
+og stillas samt kameraovervåking der dette vurderes hensiktsmessig.
+Det etableres midlertidig deteksjon og varsling i aktive arbeidsområder og åpne hulrom, med
+direkte varsling til ansvarlig person utenom arbeidstid. Det plasseres ekstra håndslokkere slik at
+alle arbeidsområder er dekket. Tilkomst og angrepsvei for brannvesenet opprettholdes gjennom
+hele gjennomføringsfasen.
+
+«BRANNSIKKERHET I
+GJENNOMFØRINGSFASEN»
+Åpninger i yttervegger og etasjeskillere begrenses i omfang og varighet, og midlertidig tetting
+eller kompenserende tiltak benyttes der dette er nødvendig. Løsningen er samordnet med
+brannkonseptet for ferdig bygg og danner grunnlag for dialog med TBRT.
+
+

@@ -1,0 +1,3010 @@
+DOKUMENTANSVARLIG
+GODKJENT AV
+SIST OPPDATERT
+
+NIKOLAI S. HOPLAND
+LARS OLE ANDERSEN
+2. JANUAR 2024
+
+SJEKKLISTE
+BRANNTEKNISK PROSJEKTERING
+«FJORDGATA 30 - MINILAGER»
+PROSJEKTINFO:
+
+Oppdragsgiver
+
+Kodeworks
+Eiendom AS
+
+Prosjektnummer
+
+2612200
+
+Prosjektansvarlig
+hos oppdragsgiver
+
+Eirik Rosvold
+Larsen
+
+Prosjektansvarlig
+hos HRP
+
+Ole Morten
+Lagmannssveen
+
+Dato
+
+02.02.2026
+
+Saksbehandler HRP Gunnhild H. Leere
+
+Utarbeidet av
+
+HRP RIBr
+
+Versjonsnummer
+
+0.0 Rammesøknad
+
+Kopi til
+
+SØK
+
+Kontrollert av
+
+Jon-Inge Fæster
+
+HRP AS
+DRONNING EUFEMIAS GATE 16, 0191 OSLO
+ORG.NR.: 988 889 245
+HRPAS.NO
+
+0
+
+«FJORDGATA 30 - MINILAGER»
+Innhold
+1
+
+Prosjektinformasjon.............................................................................................................. 2
+
+2
+
+Dokumentliste ...................................................................................................................... 2
+
+3
+
+Veiledning ............................................................................................................................ 3
+
+4
+
+Kontrollpunkter brannkonsept .............................................................................................. 5
+
+5
+
+Kontroll av branntegninger ................................................................................................. 18
+
+6
+
+Kontroll av fravik ................................................................................................................ 19
+
+Revisjonshistorikk sjekkliste:
+Rev.
+Kommentar
+
+Dato
+
+Sign.
+
+KS
+
+1
+
+«FJORDGATA 30 - MINILAGER»
+1 Prosjektinformasjon
+Prosjektnavn:
+
+2612200 Fjordgata 30 -minilager
+
+Prosjektnummer:
+
+2612200
+
+Ansvarsområde:
+
+Uavhengig kontroll av brannteknisk prosjektering (KPR)
+
+Egenkontroll – EK:
+
+Dato: 02.02.2026
+
+Sign
+
+Initialer EK: GHL
+
+Sidemannskontroll –
+SK:
+
+Dato: 24.02.2026
+
+Sign
+
+Initialer SK: JIF
+
+2 Dokumentliste
+Oversikt over alle dokumenter som skal kontrolleres.
+Nr.
+Dokumentnavn:
+
+Dato:
+
+2612200.1
+
+Brannrapport
+
+02.02.2026
+
+2612200
+
+Branntegninger
+
+17.02.2026
+
+2612200.1
+
+Verifikasjon fravik – kap 4 og Vedlegg A
+
+02.02.2026
+
+Situasjonsplan (ikke mottatt underlag)
+
+Revisjon: KS
+16.02.26
+
+☒
+☒
+
+16.02.26
+
+☒
+☐
+
+2
+
+«FJORDGATA 30 - MINILAGER»
+3 Veiledning
+Generelt:
+-
+
+Sjekklisten skal benyttes for å dokumentere kvalitetssikring iht. HRP sitt kvalitetssystem, og
+for å sikre oppfyllelsen av myndighetskrav.
+
+-
+
+Begynn utfylling av sjekklisten ved oppstart av arbeidet og bruk deretter sjekklisten som
+loggbok undervis i arbeidet.
+
+-
+
+Sjekklisten lagres i prosjektets mappestruktur iht. rutine for dokumenthåndtering i prosjekt.
+
+-
+
+Ved endringer i prosjektet: Husk å undersøke eventuelle konsekvenser endringen vil ha i
+forhold til myndighetskrav og tidligere valgt løsning.
+
+-
+
+Sidemannskontroll kan gjennomføres ved underleverandør
+
+-
+
+HRP har ansvar for å sjekke at underleverandør innehar sentral godkjenning og tiltaksklasse
+3.
+
+-
+
+Tekst i blått er til hjelp ved utfylling og anbefales benyttet for å lette arbeid til KS men er ikke
+krav.
+
+Kvalitetskontroll:
+
+Prosjektansvarlig
+
+• Gjennomføring
+• Egenkontroll
+• Fremlegge dokumenter for kontroll
+• Rette etter KS
+•Arkivere
+
+Kontrollansvarlig
+
+• Gjennomføre sidemannskontroll
+
+• Signering og godkjenne etter retting
+
+-
+
+EGENKONTROLL (EK): Sjekklisten benyttes til EK av ressursen(e) i prosjektet.
+
+-
+
+SIDEMANNSKONTROLL (SK): Den som utfører SK bør som hovedregel oppfylle relevant
+tiltaksklasse. Dette gjelder med unntak av i de tilfeller der hovedressursen (som har utført
+EK) selv oppfyller relevant tiltaksklasse.
+
+-
+
+Prosjektmedarbeideren retter eventuelle mangler som oppdages ved SK.
+
+-
+
+Den som utfører SK godkjenner kvalitetskontrollen dersom SK utføres uten mangler, eller
+mangler er rettet.
+
+3
+
+«FJORDGATA 30 - MINILAGER»
+Avvik:
+-
+
+Avvik vi oppdager gjennom EK eller SK, og som kan rettes på stedet, utløser ikke behov for
+utfylling av avviksskjema. Avdekking av slike avvik tilsier at kvalitetssystemet har fungert
+etter sin hensikt.
+
+-
+
+Se Avvik og Forbedring i Ledelsessystemet.
+
+-
+
+Kontakt oppdragsleder (og evt nærmeste leder i organisasjonen) ved større og mer akutte
+avvik. Det samme gjelder der hvor avviket har betydning utvoer prosjektet (f.eks. for
+tiltakshaver, byggherre, myndigheter mv).
+
+4
+
+«FJORDGATA 30 - MINILAGER»
+4 Kontrollpunkter brannkonsept
+Tekst i blått er til hjelp ved utfylling og anbefales benyttet for å lette arbeid til KS men er ikke
+krav.
+Nr Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Forutsetninger for prosjektet
+1.1 Oppdragsgiver/tiltakshaver
+
+☐ ☒
+
+☐
+
+☒
+
+1.2 Ansvarlig søker (SØK)
+
+☐ ☒
+
+☐
+
+☒
+
+1.3 Prosjektfase
+
+☐ ☒
+
+☐
+
+☒
+
+1.4 Prosjektets adresse,
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+TKL 3
+
+☐ ☒
+
+☐
+
+☒
+
+Tilleggskrav fra myndigheter.
+Rammetillatelse pr 2023
+foreligger for kontorformål.
+
+Skisse ☐
+Forprosjekt/Rammesøknad/Detalj/IG☒
+
+kommune, Gnr./Bnr.
+1.5 Beskrivelse av tiltaket og
+begrensning/avgrensning av
+ansvarsområde
+
+Rammesøknad
+
+Kontrakt ☐
+Erklæring om ansvarsrett ☒
+
+1.6 Tiltaksklasse brannkonsept
+(ref. SAK10 § 9-4)
+
+1.7 Underlag for prosjekteringen
+Rammetillatelse tilgjengelig ☐
+
+endring formål - ny
+rammetillatelse skal omsøkes
+1.8 Beskrivelse av
+
+Bygningskategori
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+1.10Areal per etasje
+
+☐ ☒
+
+☐
+
+☒
+
+1.11Personbelastning per
+
+☐ ☒
+
+☐
+
+☒
+
+Lav personbelastning er lagt til
+grunn. Næring ved 21. etasje
+er ikke avklart. Lokalet er ved
+terrengplan. Endelig løsning
+må avklares med nivå IG
+
+☐ ☒
+
+☐
+
+☒
+
+Eksisterende tett
+trehusbebyggelse bryggevirksomhet
+
+bruk/virksomhet
+1.9 Antall tellende etasjer
+(ref. TEK17 § 6-1)
+
+etasje/ulik bruk
+
+1.12Avstand til nabobyggverk
+Situasjonsplan ☐
+
+5
+
+«FJORDGATA 30 - MINILAGER»
+Nr Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Forutsetninger for prosjektet
+1.13Brannteknisk
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Redegjort – krav ved
+bruksfase definert/oppstilt
+
+1.15Spesiell risiko
+
+☐ ☒
+
+☐
+
+☐
+
+Redegjort – krav ved
+bruksfase definert/oppstilt
+
+1.16Spesielle forhold i
+
+☐ ☒
+
+☐
+
+☒
+
+Omtalt
+
+☐ ☒
+
+☐
+
+☒
+
+Formål med byggverket
+utdypet i tråd med
+oppdragsgiver
+
+1.18Særskilt brannobjekt
+
+☐ ☒
+
+☐
+
+☒
+
+1.19Brannvesenets utryknings-
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+utforming/oppdeling
+1.14Spesifikk brannenergi
+[MJ/m2 omhyllingsflate]
+Ref. NS-EN 1991-1-2
+Eksplosjonsfare ☐
+Brannspredning ☐
+Virksomhet ☐
+Brukere ☐
+
+byggesaken
+
+Reguleringsplan ☐
+Lokale vedtekter ☒
+Rammetillatelse ☐
+Offentlig arkiv ☒
+Industribrannvern ☐
+Kulturminne ☒
+
+1.17Spesielle krav fra
+
+bruker/byggherre
+Takløsning ☐
+Bæresystem ☐
+Solceller ☐
+Grønt tak ☐
+
+eller responstid
+(ref. Forskrift om organisering,
+bemanning og utrustning av brann- og
+redningsvesen og
+nødmeldesentralene (brann- og
+redningsvesenforskriften))
+
+1.20Forhold som må ivaretas
+
+under detaljprosjektering,
+utførelse og bruk
+Nr
+
+Kontrollpunkt
+
+EK
+IR O
+K
+
+S
+K
+
+Utvidet beskrivelse/føringer
+
+Merknader
+
+Fravi O
+k
+K
+
+§ 2-2 og § 11-1 Dokumentasjonsform, § 11-2 Risikoklasser og § 11-3 Brannklasser
+2.1
+
+Prosjekteringsmodell
+Forenklet brannteknisk prosjektering
+(preaksepterte ytelser) ☒
+
+☐ ☒
+
+☐
+
+☒
+
+Blandingsløsning
+4 fravik definert
+
+6
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+IR O
+K
+
+S
+K
+
+Merknader
+
+Fravi O
+k
+K
+
+Analytisk brannteknisk prosjektering
+(fravik) ☒
+
+2.2
+
+Risikoklasse
+
+☐ ☒
+
+☐
+
+☒
+
+RKL ved næringslokaler i
+første etasje må fastsettes til
+nivå IG. Overordnede føringer
+medtatt i gjeldende konsept
+
+Brannklasse
+
+☐ ☒
+
+☐
+
+☒
+
+BKL 3
+
+1 (småbygg/div) ☐
+2 (arbeidsbygg/div) ☒
+3 (skole/barnehage) ☐
+4 (boliger) ☐
+5 (samlingslokaler) ☐
+6 (hotell/sykehus) ☐
+
+2.3
+
+Antall tellende etasjer ☒
+Underliggende plan minst samme bkl
+som overliggende plan ☒
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-4 Bæreevne og stabilitet
+3.1
+
+Bærende hovedsystem
+
+☐ ☒
+
+☐
+
+☒
+
+Fravik 1 – R 60 [A/B]
+
+Sekundære, bærende
+bygningsdeler og
+etasjeskillere som ikke er en
+del av hovedbæresystemet
+eller stabiliserende
+
+☐ ☒
+
+☐
+
+☒
+
+Fravik 1 - [A/B]
+
+☒ ☐
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Trappeløp (innvendig)
+
+☐ ☒
+
+☐
+
+☒
+
+Utvendig trappeløp,
+beskyttet mot
+flammepåvirkning og
+strålevarme
+Svalgang og takoverbygg
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Sikring mot nedfall av
+bygningsdeler
+
+☐ ☒
+
+☐
+
+☒
+
+Kun ett bæresystem ☐
+Flere ulike ☐
+
+3.2
+
+Understøtting av
+branncellebegrensende
+konstruksjoner ☐
+
+3.3
+3.4
+
+Bærende bygningsdeler
+under øverste kjeller
+Takkonstruksjoner
+Forutsetninger ved redusert
+brannmotstand ☐
+
+3.5
+
+Interntrapp ☐
+
+3.6
+
+3.7
+3.8
+
+7
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-5 Sikkerhet ved eksplosjon
+4.1
+
+Oppbevaring av brannfarlig/reaksjonsfarlig væske/gass
+
+☐ ☒
+
+☐
+
+☒
+
+Rom med fare for
+eksplosjon utført som egen
+branncelle
+
+☒ ☐
+
+☐
+
+☒
+
+Gass og brannfarlig væske ☐
+Fyrrom-/tankrom, garasje <50 m²
+(ref. VTEK § 11-8) ☐
+Brannfarlig gass skal ikke
+oppbevares på loft eller i kjeller ☐
+Avstand til olje-/gasstank i det fri ☐
+
+4.2
+
+Forutsetning i bruk presisert
+for å holde brannenergi
+nede
+
+Trykkavlastningflate ☐
+Ventilasjon ☐
+Tennkildekontroll i arealer med
+eksplosiv atmosfære ☐
+Dim. branncellebegrensende og
+lastbærende bygningsdel ☐
+
+Behov for risikovurdering,
+områdeklassifisering (EX-soner) ☐
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-6 Tiltak mot brannspredning mellom byggverk
+5.1
+
+Brannspredning mellom
+byggverk (avstand til nabobygg/grense)
+
+☐ ☒
+
+☐
+
+☒
+
+Fravik 2 - Avstand mellom
+byggverk
+
+☐ ☒
+
+☐
+
+☒
+
+Særskilt vurdering (fravik 2)
+
+☐ ☒
+
+☐
+
+☒
+
+Del av vernet byggerekke
+oppført i treverk
+
+Lavt byggverk med gesims- eller
+mønehøyde < 9,0 m ☐
+Høyt byggverk med gesims- eller
+mønehøyde >9,0 m ☐
+Branncellebegrensende (lave bygg)
+
+☐
+Brannmotstand vinduer ☐
+Samlet bruttoareal ☐
+8,0 m innbyrdes avstand eller
+brannvegg ☐
+
+5.2
+
+Brannvegg
+Brannmotstand og materialer ☐
+Mekanisk motstandsevne (M) ☐
+Utforming mht. tak, veggliv, kollaps ☐
+
+5.3
+
+Byggverk med særlig stor
+sannsynlighet for spredning
+av brann
+
+8
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-6 Tiltak mot brannspredning mellom byggverk
+Avsidesliggende boligbrakker
+Driftsbygning i landbruket
+Trelastopplag
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-7 Brannseksjoner
+6.1
+
+Størrelse på brannseksjoner
+og brannsikringstiltak
+
+☐ ☒
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Byggverk i rkl 6 må deles vertikalt –
+unntak for bolig ☐
+Barnehage >600 m2 ☐
+
+6.2
+
+Seksjoneringsvegg
+
+Brannmotstand og materialer ☐
+Mekanisk motstandsevne (M) ☐
+Utforming mht. tak, veggliv, kollaps
+og innvendige hjørner ☐
+Dører og vinduer ☐
+Tekniske gjennomføringer ☐
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Bryggen utgjør en
+brannseksjon, areal ~ 500 m2
+pr plan
+
+Merknader
+
+IR OK Fravik OK
+§ 11-8 Brannceller
+7.1
+
+Branncelleinndeling
+
+☐ ☒
+
+☐
+
+☒
+
+Brannmotstand til
+branncellebegrensende
+bygningsdeler
+Trapperomsutforming
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Dører, luker, porter
+
+☐ ☒
+
+☐
+
+☒
+
+Rom som med forskjellig bruk og/eller
+brannenergi
+
+7.2
+
+7.3
+
+Tr1 ☒
+Tr2 ☐
+Tr3 ☐
+
+7.4
+
+Brannmotstand generelt ☐
+Dører til og i rømningsvei ☐
+Røyktetthet ☐
+Heisdører ☐
+Installasjonssjakter ☐
+
+9
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-8 Brannceller
+7.5
+
+Vindu i
+branncellebegrensende
+bygningsdel
+
+☐ ☒
+
+☐
+
+☒
+
+Ikke forutsatt, generelle
+forutsetnigner medtatt.
+
+Røykkontroll
+
+☐ ☒
+
+☐
+
+☒
+
+Lagt inn henvisning til 520.380
+
+Utvendig brannspredning
+mellom brannceller i ulike
+plan
+
+☒ ☐
+
+☐
+
+☒
+
+Ikke forutsatt, forutsetningen
+eksplisitt beskrevet
+
+Horisontal brannspredning
+via vinduer (innvendige
+hjørner)
+
+☒ ☐
+
+☐
+
+☒
+
+Ikke forutsatt, forutsetningen
+eksplisitt beskrevet
+
+Brannceller over flere plan
+
+☒ ☐
+
+☐
+
+☒
+
+7.10
+
+Overbygd gård/gate
+
+☒ ☐
+
+☐
+
+☒
+
+7.11
+
+Brannskille mellom
+garasje/carport og annet
+byggverk
+Garasjer i byggverk for
+annet formål
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Mot rømningsvei ☐
+Må ikke kunne åpnes i vanlig
+brukstilstand ☐
+
+7.6
+
+Trapperom ☒
+Heissjakt (krav til sluse >8 etasjer) ☒
+Røykventilasjon heis ☒
+Installasjonssjakter ☒
+Overbygd gård/gate ☐
+Betjening røykventilasjon ☒
+
+7.7
+
+Takfot/gesims ☐
+Kjølesone i fasade, E30/sprinkler ☐
+Brannspredning v/kaldt loft eller
+oppforet tak ☐
+
+7.8
+
+Brannglass/sprinkler ☐
+Vindu mot rømningsvei ☐
+
+7.9
+
+Rkl 1, 2, 4 og 5 ☐
+Automatisk slokkeanlegg for samlet
+bruttoareal >800 m² ☐
+
+7.12
+
+Brannmotstand mot resten av
+byggverket
+
+7.13
+
+Rom som forbinder garasjer
+og rom for annet formål
+Gasstett ☐
+Garasje i bolig <50 m² ☐
+Egen branncelle for garasje mellom
+
+10
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-8 Brannceller
+50 - 400 m² ☐
+Brannsluse for garasje >400 m² ☐
+
+7.14
+
+Rom for lagring av brensel
+Dør til fyrrom må være selvlukkende
+
+7.15
+
+Husdyrrom
+Bruttoareal over eller under 300 m²
+
+Nr
+
+Kontrollpunkt
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-9 Materialer og produkters egenskaper ved brann
+8.1
+
+Innvendige overflater og
+kledninger
+
+☐ ☒ ☐
+
+☒
+
+Nedforet himling i
+rømningsvei
+Utvendige overflater og
+kledninger
+
+☐ ☒ ☐
+
+☒
+
+☐ ☒ ☐
+
+☒
+
+8.4
+
+Taktekking
+
+☐ ☒ ☐
+
+☒
+
+8.5
+
+Solcellepanel (om det er i
+prosjektet)
+Isolasjon i konstruksjoner
+
+☒ ☐ ☐
+
+☒
+
+☐ ☒ ☐
+
+☒
+
+Grønne tak/blå-grønne tak
+
+☒ ☐ ☐
+
+☒
+
+Brannceller ☒
+Rømningsveier ☒
+Gulv i rømningsvei ☒
+Sjakter og hulrom ☒
+Rom med brannfarlig virksomhet ☐
+Rkl 6 ☐
+
+8.2
+8.3
+
+Fasade ☒
+Hulrom i ytterveggskonstruksjoner ☒
+Rømningsvei, svalgang ☐
+
+8.6
+
+Ubrennbar isolasjon ☒
+Særkrav ved bruk av brennbar
+isolasjon ☐
+Sandwichpanel med brennbar kjerne
+Isolasjon på tak ☐
+Brennbar isolasjon iht. TPF ☐
+
+8.7
+
+Iht. grønne tak standard/TPF
+
+Fravik 3 – materialkrav EI A2
+ikke lagt til grunn som
+gjennomførbart i vernet
+trehusbebyggelse
+
+Fravik 3 – materialkrav EI A2
+ikke lagt til grunn som
+gjennomførbart i vernet
+trehusbebyggelse. Særkrav
+hulromskonstruksjoner
+
+11
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-10 Tekniske installasjoner
+9.1
+
+9.2
+
+9.3
+
+Funksjon og
+brannmotstandsevne av
+tekniske installasjoner i
+minst den tiden som skal
+være tilgjengelig for
+rømning
+Gjennomføringer i
+konstruksjoner med
+brannmotstand
+Ventilasjonsanlegg
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Vann- og avløpsrør,
+rørpostanlegg,
+sentralstøvsugeranlegg o.l.
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Elektriske installasjoner
+
+☐ ☒
+
+☐
+
+☒
+
+Funksjonssikring av
+installasjoner som er
+forutsatt å ha en funksjon
+under brann og slokking
+
+☐ ☒
+
+☐
+
+☒
+
+Materialbruk og kanaloppheng ☒
+Brann- og røykspredning ☒
+Gjennomføringer ☒
+Branntetting ☒
+Brannisolering ☒
+Brannspjeld ☒
+Kjøkkenavtrekk, frityr ☒
+Overstrømning mellom ulike
+brannceller ☐
+
+9.4
+
+EI-spjeld i brannskiller; ingen
+gjennomgående kanaler i
+bodceller.
+
+Plastrør med ytre diameter <32 mm
+☒Støpejernsrør med ytre diameter
+<110 mm ☒
+Avstand til brennbart materiale 250
+mm ☒
+
+9.5
+
+Rør- og kanalisolasjon
+Isolasjon på rør og kanaler i
+rømningsvei
+
+9.6
+
+Kabler i rømningsvei ☒
+Elbil-lading (risikovurdering og
+tilrettelegging for brannvesenet) ☐
+
+9.7
+
+60 min, heldekkende aut.
+slokkeanlegg er avkrevd.
+
+12
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-11 Generelle krav om rømning og redning
+
+Utforming og innredning av
+brannceller
+
+☐ ☒
+
+☐
+
+☒
+
+Fluktvei (oversiktlighet) ☒
+Rømning ifm. foldevegger ☐
+Tribuneoppsett, benkerader –
+avstand og gangpassasjer ☐
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-12 Tiltak for å påvirke rømnings- og redningstider
+11.1
+
+Automatisk slokkeanlegg
+
+☐ ☒
+
+Type anlegg ☐
+Prosjekteringsstandard☐
+QR - quick response ☐
+Brannceller over flere plan ☐
+Areal mot overbygd gård/gate ☐
+
+11.2
+
+Brannalarmanlegg
+
+☐ ☒
+
+☐
+
+☐
+
+Røykvarslere
+
+☒ ☐
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Kontor, industri- og lager <1200 m² ☐
+Byggverk i rkl 5 <600 m² ☐
+Eneboliger, to- til firemannsboliger,
+rekkehus i rkl 4 ☐
+Strømforsyning/batteribackup ☐
+Seriekobling ☐
+
+11.4
+
+☒
+
+Ledesystem
+markeringsskilt
+
+Fravik 4 – slokkeløsning.
+Blanding NS 12845 og
+Inergen/IG-541. Forutsetning
+for likeverdighet er beskrevet
+
+Byggverk i rkl 2-6 ☒
+Brannalarmkategori ☒
+Boligbygninger, alarmstyrke ☐
+Optiske signalgivere ☒
+Parkeringshus/garasje og
+parkeringskjeller ☐
+Talevarsling ☐
+Takterrasse ☐
+Alarmoverføring ☒
+Alarmorganisering (varsling og
+styringer) ☒
+Helseanlegg ☐
+
+11.3
+
+☐
+
+og
+
+Kategori 2 (NS 3960) –
+heldekkende, ABA til
+110-sentral.
+Dobbel deteksjon i hver
+lagringsbod for tidlig aktivering
+av gass, direkte
+alarmoverføring til 110-sentral.
+
+Markeringsskilt over alle utganger
+(unntak for boenheter) ☒
+Ledesystem ☒
+Store byggverk og byggverk beregnet
+for et stort antall personer ☐
+Byggverk i rkl 5 og 6 ☒
+
+13
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-12 Tiltak for å påvirke rømnings- og redningstider
+Boligbygning med flere boenheter >2
+etasjer ☐
+Kontorlandskap, skoler ☐
+Offentlig tilgjengelig byggverk under
+terreng ☐
+Utførelse (type ledesystem, dekning,
+driftstid, ladelys) ☒
+Nødlys iht. NS-EN 1838
+(Arbeidsplassforskriften) i flukt og
+rømningsvei ☒
+
+11.5
+
+Evakueringsplaner
+
+☐ ☒
+
+☐
+
+☒
+
+Avkrevd
+
+11.6
+
+Merking av branntekniske
+installasjoner
+
+☐ ☒
+
+☐
+
+☒
+
+Henvist til symbolstandarder i
+bransjen tilknyttet NS 3924
+(bruk av standardiserte
+symboler for
+brannalarmanlegg, sprinkler,
+røykventilasjon, slokkeutstyr
+og installasjoner.)
+
+Nr
+
+Kontrollpunkt
+
+SK
+
+Merknader
+
+Publikum- og arbeidsbygninger ☐
+Byggverk i rkl 5 og 6 ☐
+Skal foreligge før bygget tas i bruk ☐
+
+EK
+
+IR OK Fravik OK
+§ 11-13 Utgang fra branncelle
+12.1
+
+Antall utganger
+(personantall og avstand til
+utgang)
+
+☐ ☒
+
+☐
+
+☒
+
+Tilgang til to uavhengige
+trapperom i hvert plan er lagt
+til grunn. Se branntegninger
+
+12.2
+
+Trapperomstype (Tr1, Tr2,
+Tr3)
+
+☐ ☒
+
+☐
+
+☒
+
+Tr1
+
+☒ ☐
+
+☐
+
+☒
+
+Kun trapperom utgjør
+branncelle over flere plan
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Ett Tr1 i rkl 4 inntil 8 etasjer forutsatt
+tilgjengelig vindu/balkong i hver
+boenhet
+
+12.3
+
+12.4
+
+12.5
+
+Brannceller over flere plan
+eller mellometasje skal ha
+minst én utgang fra hver
+etasje
+Reservebygning til
+overnatting for
+avsidesliggende byggverk
+Vindu som rømningsvei
+
+14
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-13 Utgang fra branncelle
+Byggverk i rkl 1, 2, 3 og 4 ☐
+Avstand til terreng ☐
+Utførelse og krav til vindu ☐
+Antall vinduer ☐
+Merking ☐
+
+12.6
+
+Brannceller beregnet for
+mange personer (fri bredde
+i utganger)
+
+☒ ☐
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Lavt persontall er lagt til grunn
+i prosjekteringen
+
+<150 pers 1 dør
+
+12.7
+
+Brannceller beregnet for
+sporadisk personopphold
+Slagretning mot rømningsvei
+
+12.8
+
+Dør til rømningsvei
+
+Bredde og høyde ☒
+Åpningskraft, maks 30N
+(dørautomatikk og UPS) ☐
+Selvlukkende dører, holdemagnet ☒
+Slagretning ☒
+Låssystem, tilbakerømning ☒
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+UU krav og evt. dispensasjon
+må defineres av SØK/ARK.
+
+Merknader
+
+IR OK Fravik OK
+§ 11-14 Rømningsvei
+13.1
+
+Utforming av rømningsvei
+Hovedatkomst tilrettelagt for sikker
+rømning ☒
+Fri bredde i rømningsvei ☒
+Sengeliggende transport ☐
+Avstand til trapperom, blindkorridorer
+
+☐ ☒
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+☒
+Byggverk med krav om universell
+utforming <1,5 m ☐
+Rom til annet formål som del av
+rømningsvei ☒
+Lange korridorer >30 m ☒
+Røykskille ☒
+Areal til at to rullestoler kan passere
+
+☐
+
+13.2
+13.3
+
+Samtidig rømning i
+byggverk med flere etasjer
+Vindu eller balkong som
+rømning-/redningsvei
+
+Ikkel relevant - lavt persontall
+
+15
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-14 Rømningsvei
+2 m skjerming av utv. stige/trapp
+
+13.4
+
+13.5
+13.6
+13.7
+
+Utgang skjermet mot
+stråling/flammer fra brann i
+byggverket
+Heis, rulletrapp - ikke del av
+rømningsvei
+
+☒ ☐
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Rømning via overbygget
+gård/gate
+Svalgang og takoverbygg
+
+☒ ☐
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Bredde minst 1,2 m ☐
+Utforming tak og åpenhet (50 %) ☐
+Materialer (kledning, rekkverk, gulv)
+
+Tilrettelagt to uavhengige
+trapperom
+
+☐
+Oppdeling og skjerming ☐
+
+13.8
+
+Dører i rømningsvei
+
+Fri bredde ☒
+Åpnes med ett grep uten bruk av
+nøkkel i rkl 5 og 6 ☐
+Elektromagnetisk åpne- og
+lukkesystem (sikker funksjon) ☒
+
+Nr
+
+Tekst
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-15 Tilrettelegging for redning av husdyr
+14.1
+
+Prosjektert og utført for rask
+og sikker redning av husdyr
+
+Nr
+
+Tekst
+
+☒ ☐
+
+☐
+
+EK
+
+☒
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-16 Tilrettelegging for manuell slokking
+15.1
+
+Manuelt slokkeutstyr
+Type og krav til utstyr ☒
+Dekningsgrad og plassering ☒
+Arealer med spesielle behov
+(tekniske rom, frityr, m.m.) ☒
+Merking ☒
+
+☐ ☒
+
+☐
+
+☒
+
+16
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-17 Tilrettelegging for rednings- og slokkemannskap
+16.1
+
+☐ ☒
+
+☐
+
+☒
+
+Tilgjengelighet med
+høyderedskap (inntil 8
+etasjer/23 m)
+
+☐ ☒
+
+☐
+
+☒
+
+Tilgjengelighet i byggverket
+
+☐ ☒
+
+☐
+
+☒
+
+Nøkkelboks med
+universalnøkkel i byggverk
+med >50 rom
+
+☐ ☒
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Kjørbar atkomst frem til
+hovedangrepsvei
+
+Hovedinngang samt båt
+
+Beskrivelse av kriterier for kjørevei –
+avklares med lokalt brannvesen
+
+16.2
+
+Vindu/balkong som redningsvei ☐
+Oppforet tak og hulrom ☐
+Oppstillingsplass for stigebil ☐
+
+16.3
+
+Maksimalt 50 m slangeutlegg ☐
+Sjakter, hulrom, oppforet tak, kjeller ☐
+Plan under øverste kjellergulv ☐
+
+16.4
+
+Noen 110-sentraler krever
+nøkkelboks for oppkobling
+
+16.5
+
+Parkeringskjellere
+Angrepsvei uavhengig av
+rømningsveier fra byggverk ☐
+Slangeutlegg, maksimalt 50 m
+☐Ventilasjon ☐
+Tørropplegg (plan under øverste
+kjellergulv) ☐
+Sluser mot øvrige deler av
+byggverket: Mekanisk røykventilasjon
+
+☐
+Orienteringsplan ☐
+Elbil-lading (risikovurdering og
+tilrettelegging for brannvesenet) ☐
+
+16.6
+
+Automatiske garasjeanlegg
+
+☒ ☐
+
+☐
+
+☒
+
+16.7
+
+Brannmannsheis
+
+☒ ☐
+
+☐
+
+☒
+
+16.8
+
+Vannforsyning (utendørs)
+
+☐ ☒
+
+☐
+
+☒
+
+Brannkum/hydrant innenfor 25-50 m
+
+☐
+Slokkevannskapasitet 3000 l/m ☒
+Småhusbebyggelse/lav vanntilførsel
+
+☐
+Slokkevannskapasitet –
+sommer/avvikende vannforhold ☐
+Vanntank ☐
+
+17
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+§ 11-17 Tilrettelegging for rednings- og slokkemannskap
+16.9
+
+Vannforsyning (innendørs) –
+tørropplegg ved mer enn 8
+etasjer
+
+☐ ☒
+
+☐
+
+☒
+
+16.10
+
+Orienteringsplan for
+byggverk i rkl 2, 3, 5 og 6
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+☒ ☐
+
+☐
+
+☒
+
+Slokkeanlegg basert på
+vann og gass, utvendig
+fasadesprinkling
+(tørropplegg antatt)
+
+Beskrivelse av innhold
+
+16.11
+16.12
+
+Merking av branntekniske
+installasjoner
+Sikring mot nedfall av
+bygningsdeler
+
+Medtatt under § 11-4.
+
+5 Kontroll av branntegninger
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Branntegninger
+17.1
+
+17.2
+
+17.3
+17.4
+17.5
+17.6
+
+Angivelse av brannmotstand
+for brannceller,
+seksjonering, sjakter,
+vinduer, dører, innvendige
+hjørner, brannvegger, sluser
+m.m.
+Angivelse av
+rømningsprinsipp og
+angrepsveier for
+brannvesen
+Manuelt slokkeutstyr
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Beskrivelse av tekniske
+branntiltak
+Symbolforklaring
+
+☐ ☒
+
+☐
+
+☒
+
+☐ ☒
+
+☐
+
+☒
+
+Tittelfelt (prosjektnummer,
+fagfelt, oppdragsgiver,
+format, målestokk, revisjon)
+
+☐ ☒
+
+☐
+
+☒
+
+18
+
+6 Kontroll av fravik
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Dokumentasjon av fravik
+18.1
+
+Skal det dokumenteres
+fravik? (Hvis nei – ignorer
+resten av fraviksjekklisten)
+
+☐ ☒
+
+☐
+
+☒
+
+Ja ☒
+Nei (resten av sjekklisten ignoreres)
+
+☐
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Formalkrav for fraviksdokumentasjon, jmf. TEK17 §2-1, §2-2 og §2-3
+19.1
+
+Er dokumentasjonen
+tilpasset byggeprosjektet
+med hensyn på type
+byggverk, risiko og
+kompleksitet?
+
+☐ ☒
+
+☐
+
+☒
+
+19.2
+
+Angir dokumentasjonen
+forutsetninger, krav og
+ytelser som er lagt til grunn
+for byggverket ved
+prosjekteringen?
+
+☐ ☒
+
+☐
+
+☒
+
+19.3
+
+Er oppfyllelse av krav og
+preaksepterte ytelser
+dokumentert iht. TEK17 § 22?
+
+☐ ☒
+
+☐
+
+☒
+
+Preaksepterte ytelser er fulgt
+der relevante (sprinkling i
+fellesarealer, ABA kat. 2 osv.).
+Avvik er løftet til analytisk
+dokumentasjon i fravik 1–4 og
+i Vedlegg A
+
+19.4
+
+Er oppfyllelse av krav og
+preaksepterte ytelser
+dokumentert iht. anvisninger
+Norsk Standard eller
+likeverdig standard?
+
+☐ ☒
+
+☐
+
+☒
+
+Alle tekniske løsninger er
+forankret i relevant standard:
+NS-EN 12845, NS 3960,
+NS-EN/ISO 15004 (IG-541),
+ISO 14520, NS 3926,
+NS-EN 1838 m.fl.
+Dokumentert i ytelseskap.
+3.7–3.9 og Vedlegg A.
+
+Dokumentasjonen er tilpasset
+byggverkets type, risiko og
+kompleksitet (vernet brygge,
+hulrom, lav høyde, < 8 m
+avstand), jf. brannkonsept og
+Vedlegg A.
+Forutsetninger, ytelser og
+dimensjoneringsgrunnlag er
+angitt i brannkonsept kap.
+1.1–1.3, 2.1–2.3 og i Vedlegg
+A kap. 3 (premisser for
+gass-/sprinklerløsning)
+
+19
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Formalkrav for fraviksdokumentasjon, jmf. TEK17 §2-1, §2-2 og §2-3
+19.5
+
+Er analysen ynderbygget av
+statistikk, erfaring,
+tilgjengelige rapporter mv.
+med konkrete referanser,
+etc?
+
+☐ ☒
+
+☐
+
+☒
+
+Vedlegg A viser til HVL-forsøk
+(flamme/ulme), medisinske
+vurderinger av
+IG-541-personsikkerhet,
+standardkrav, geometri- og
+høydebegrensninger fra
+tegninger, samt kjente
+begrensninger for sprinkler i
+små rom. Fravik 1–4 er knyttet
+til referanser i konseptets kap.
+4.
+
+19.6
+
+Er det begrunnet valg av
+metode?
+
+☐ ☒
+
+☐
+
+☒
+
+Analytisk prosjektering
+begrunnet som nødvendig
+pga. vernet bygg, < 8 m
+avstand, hulromsstruktur, og
+uegnet takhøyde for sprinkler.
+Metode «operasjonalitet ×
+effektivitet × robusthet»
+eksplisitt angitt i Vedlegg A
+kap. 2.
+
+19.7
+
+Gjøres det avvik fra
+ytelseskrav i forskriften, som
+medfører behov for søknad
+om dispensasjon?
+
+☐ ☒
+
+☐
+
+☒
+
+Fravikene gjelder tekniske
+ytelser, ikke forskriftsnivå –
+krav ivaretas gjennom
+analytisk prosjektering og
+tiltakspakke. Ingen
+dispensasjon nødvendig for
+fravikene. Det anbefales at det
+søkes dispensasjon for UU,
+tekniske krav jf. pbl § 31-2
+
+19.8
+
+Er det beskrevet hvilket eller
+hvilke funksjonskrav som
+omfattes av analysen?
+
+☐ ☒
+
+☐
+
+☒
+
+Funksjonskravene til
+bæreevne, brannspredning,
+personsikkerhet, rømning,
+slokking og innsatsmulighet
+angis tydelig i kap. 3 og
+behandles i fravik 1–4 og i
+Vedlegg A kap. 4–11.
+
+19.9
+
+Viser analysen hva de
+preaksepterte ytelsene i
+veiledningen er, dersom
+slike finnes?
+
+☐ ☒
+
+☐
+
+☒
+
+Brannkonseptet viser
+preaksepterte ytelser for
+sprinkler, aba, seksjonering
+osv., og viser eksplisitt hvor
+
+20
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Formalkrav for fraviksdokumentasjon, jmf. TEK17 §2-1, §2-2 og §2-3
+disse fravikes (kap. 2.7 og
+kap. 4)
+19.10
+
+Viser analysen hvilke
+forutsetninger som er lagt til
+grunn?
+
+☐ ☒
+
+☐
+
+☒
+
+Forutsetninger for bygg, bruk,
+geometri, høyder,
+lagringsrestriksjoner, hulrom,
+personsikkerhet, drift og FDV
+er tydelig listet i kap. 2.1–2.3
+og i Vedlegg A kap. 3–4.
+
+19.11
+
+Ved mer avanserte
+analyser, viser analysen
+hvilke sikkerhetsmarginer
+som er lagt til grunn?
+
+☐ ☒
+
+☐
+
+☒
+
+Ja – sikkerhetsmarginer
+fremgår gjennom krav til:
+holdetid ≥10 min., dobbel
+deteksjon,
+dørlukkere/interlocks,
+sprinkling av hulrom,
+fasadetiltak og strenge
+FDV-krav. Vedlegg A
+beskriver konservative
+forutsetninger for
+worst-case-scenarier.
+
+19.12
+
+Er det gjort en vurdering av
+hvilke konsekvenser fraviket
+eller fravikene får for de
+berørte kravområdene?
+
+☐ ☒
+
+☐
+
+☒
+
+Konsekvenser av fravik 1–4 er
+vurdert i brannkonsept kap. 4
+og i Vedlegg A kap. 4–11,
+inkludert påvirkning på
+rømningstid, brannspredning,
+hulromsbrann og
+startromsslokking.
+Kompenserende tiltak og
+avbøtende funksjoner er
+dokumentert.
+
+19.13
+
+Angir analysen relevante
+akseptkriterier, og oppfyller
+analysen disse?
+
+☐ ☒
+
+☐
+
+☒
+
+Akseptkriterier er tydelig
+definert (ASET > RSET,
+startromsslokking,
+hulromsrobusthet,
+fasadespredning < 8 m,
+FDV-forutsetninger).
+Oppfyllelse er dokumentert i
+Vedlegg A kap. 4 og i
+fravikskapitlene.
+
+19.14
+
+Er dokumentasjonen
+tilstrekkelig forståelig for
+utførende, og i form av
+
+☐ ☒
+
+☐
+
+☒
+
+Dokumentasjonen inkluderer
+klare ytelser, krav,
+systembeskrivelser,
+
+21
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Formalkrav for fraviksdokumentasjon, jmf. TEK17 §2-1, §2-2 og §2-3
+kontrollpunkter, FDV-vilkår og
+krav til testrapporter
+(SAT/door-fan). Bruk av
+tabeller og egne avsnitt (kap.
+3, kap. 5, Vedlegg A) gir god
+lesbarhet for prosjekterende
+og utførende.
+
+beskrivelser, arbeids- og
+detaljtegninger,
+spesifikasjoner etc?
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Grunnlag og prosjektinformasjon
+20.1
+
+Er det angitt hvilke eksterne
+rammebetingelser som
+gjelder?
+
+☐ ☒
+
+☐
+
+☒
+
+20.2
+
+Er formålet med analysen
+angitt?
+
+☐ ☒
+
+☐
+
+☒
+
+20.3
+
+Er det andre interne
+rammebetingelser som må
+angis?
+
+☐ ☒
+
+☐
+
+☒
+
+Myndighetskrav ☒
+Bransjekrav/standarder ☒
+Behov hos eksterne interessenter ☒
+Ivaretakelse av
+omdømme/samfunnsverdier ☐
+Miljø ☐
+
+Rammebetingelser er
+beskrevet i kap. 1.1–1.3 og
+kap. 2.1–2.3: vernestatus,
+avstand < 8 m, hulrom i
+konstruksjoner,
+høydebegrensninger (1,7–
+2,8 m), risikoklasse,
+brannklasse, brannenergi og
+myndighetskrav
+(TBRT-pålegg).
+Formålet er definert i
+brannkonsept kap. 1 og i
+Vedlegg A kap. 1: å
+dokumentere tilfredsstillende
+brannsikkerhet og
+likeverdighet der
+preaksepterte ytelser avvikes,
+spesielt ved gassslokking i
+bodceller.
+Interne rammebetingelser er
+inkludert: lagringsrestriksjoner
+(kap. 7), FDV-krav, krav til
+tetthet og ikke-endring av
+bodvolum, driftsrutiner
+(dørlukkere, adgang,
+opplæring), samt avhengighet
+til sprinkler i fellesareal. Disse
+er kritiske premisser for
+likeverdighet.
+
+22
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Spesielt for komparative analyser
+21.1
+
+Beskrivelse av
+analysebygget
+
+☐ ☒
+
+☐
+
+☒
+
+21.2
+
+Beskrivelse av
+referansebygget
+
+☐ ☒
+
+☐
+
+☒
+
+21.3
+
+Valg av analysemetoder
+
+☐ ☒
+
+☐
+
+☒
+
+21.4
+
+Fastsetting av
+beslutningskriterier,
+avhengig av valgt
+analysemetode/-teknikk.
+
+☐ ☒
+
+☐
+
+☒
+
+21.5
+
+Identifisering av farer,
+analyse av årsaker og
+sannynlighet
+
+☐ ☒
+
+☐
+
+☒
+
+Analysebygget er beskrevet i
+brannkonsept kap. 1–2:
+vernestatus, etasjehøyder
+(1,7–2,8 m), hulrom, geometri,
+risiko, brannklasse, avstand
+< 8 m, og
+minilagerorganisering.
+Referansen er fullsprinklet
+løsning iht. NS-EN 12845.
+Denne referansen er eksplisitt
+brukt i Vedlegg A kap. 2 og
+kap. 10. Sammenlikning mot
+referanse fremgår av tabellen i
+kap. 10
+Metodevalg (analytisk
+prosjektering) er begrunnet i
+brannkonsept kap. 2.6 og
+Vedlegg A kap. 2. Det brukes
+scenario-basert analyse +
+likeverdighetsmetode
+(operasjonalitet × effektivitet ×
+robusthet).
+Beslutningskriterier er definert
+i Vedlegg A kap. 4:
+ASET > RSET,
+startromsslokking før
+overtenning,
+hulromsrobusthet, fasade
+< 8 m, FDV-forutsetninger,
+personsikkerhet i gass. Alle
+kriterier brukes systematisk i
+vurderingen.
+Scenarioer S-1 til S-4
+(flamme, ulme, åpen dør,
+fasadespredning) er
+identifisert og vurdert i
+Vedlegg A kap. 6, med
+årsaker og konsekvenser
+beskrevet. Risikofaktorer
+(hulrom, lav høyde, tømmer,
+lagring) fremgår av kap. 2.2.
+
+23
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Spesielt for komparative analyser
+21.6
+
+Er det identifisert farer eller
+initierende branner i
+analysebyggverket som ikke
+finnes i
+referansebyggverket?
+
+☐ ☒
+
+☐
+
+☒
+
+Komparativ analyse er relevant og
+dekkende
+
+21.7
+
+Brannscenarioer som kan
+forventes å gi forskjellige
+utfall i referansebygget i
+forhold til analysebygget er
+analysert for både
+referansebygget og
+analysebygget
+
+☐ ☒
+
+☐
+
+☒
+
+21.8
+
+Analyse av
+brannscenarioenes
+konsekvenser, både i
+analysebygget og i
+referansebygget
+
+☐ ☒
+
+☐
+
+☒
+
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Ja. Referansens svakheter
+(sprinkler i små tette rom,
+skyggeeffekt, lav høyde,
+hulromsbrann ikke detektert)
+er dokumentert i Vedlegg A
+kap. 10. Dette sammenliknes
+eksplisitt med analysebygget.
+Forskjell i utfall (gass vs.
+sprinkler) er analysert i
+Vedlegg A kap. 6 og 10:
+startromsslokking,
+hulromsbrann,
+fasadespredning, åpen dør.
+Tabell i kap. 10 viser tydelige
+forskjeller mellom løsningene.
+Konsekvenser for både
+referanse og analysebygget er
+vurdert i Vedlegg A (S-1 til
+S-4) og i tabellen i kap. 10.
+Dvs. både sprinkling
+(referanse) og IG-541
+(analysebygg).
+
+Merknader
+
+IR OK Fravik OK
+Risikovurdering og evaluering
+22.1
+
+Sammenligning av risiko og
+akseptkriterier
+
+☐ ☒
+
+☐
+
+☒
+
+22.2
+
+Dersom risikoen er
+uakseptabel, eller der
+ytterligere risikoreduksjon er
+ønskelig:
+
+☐ ☒
+
+☐
+
+☒
+
+Tiltak er identifisert
+
+Risiko er vurdert gjennom at
+kriteriene (ASET/RSET,
+startrom, hulrom, spredning,
+FDV) sammenlignes direkte
+med referanseløsningen i
+Vedlegg A kap. 10.
+Akseptkriteriene er oppfylt
+med tiltakspakken
+Tiltakspakken er utvidet
+nettopp pga. identifiserte risiki:
+fasadetiltak, sprinkling av
+hulrom, dobbel deteksjon,
+dørkontroll,
+lagringsrestriksjoner,
+
+24
+
+«FJORDGATA 30 - MINILAGER»
+Nr
+
+Kontrollpunkt
+
+EK
+
+SK
+
+Merknader
+
+IR OK Fravik OK
+Risikovurdering og evaluering
+
+22.3
+
+Konklusjon med en
+kortfattet sammenfatning av
+de viktigste resultatene
+
+☐ ☒
+
+☐
+
+☒
+
+SAT-krav og FDV-krav. Dette
+adresserer alle vesentlige
+risikomomenter.
+Konklusjon i Vedlegg A kap.
+11 oppsummerer
+hovedresultatene og
+dokumenterer likeverdig
+sikkerhetsnivå. Brannkonsept
+kap. 4 supplerer dette.
+
+25
+
+

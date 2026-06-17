@@ -1,0 +1,4511 @@
+Tilstandsanalyse nivå 1 Fjordgata 30
+
+Oppdragsnavn:
+Oppdragsgiver:
+Oppdragsgivers kontaktperson:
+Utført av:
+
+Tilstandsvurdering Fjordgata 30
+Kodeworks Eiendom as
+Eirik Larsen
+Ole Morten Lagmannssveen Kulturminne
+Mats Rønning Antonsen
+Kulturminne
+Sharam Alijani
+RiB
+
+Dato:
+
+1. Sammendrag
+Vurdering av overordnet tilstand i tilstandsanalyse nivå 1.
+Sammendraget er en kort oppsummert vurdering av Fjordgata 30 hvor bygningsdeler med
+avvik og mangler er undersøkt. TG-0 og TG-1 er ikke omtalt eller medtatt i vurderingen.
+Kostnader er beregnet for istandsetting og utbedring av bygningsdelene slik som bruken og
+situasjonene er i pr. dato. Det er også tatt hensyn til bygningens antikvariske verdi og vern.
+Kostnader for oppgraderinger og tilpassing til omdisponering av bygningen til kontorlokaler
+er ikke medtatt. Disse kostnadene må beskrives og kalkuleres når prosjekteringen er
+gjennomført. Da spesielt kostnader i forbindelse med trapper, vinduer og takkonstruksjon.
+Det må legges til at fasaden mot øst er pusset tømmer og fasade mot vest er tildekket av
+TRP-plater så det er ikke mulig å inspisere tømmerkonstruksjonenes tilstand utvendig på
+disse veggene. Vurderingen av disse veggene er gjort ut fra innvendig inspeksjon og tegn og
+indikasjoner på avvik på utvendig side.
+
+Grunn og fundamenter:
+Der gjort utbedringer og forsterkninger i flere omganger i senere tid, og fremstår som
+stabile.
+Det er ingen avvik eller feil i fundamenter og labanker. Kun et lite felt med avskallet betong
+og eksponert armering på den ene labanken. Skaden har ingen innvirkning på kvaliteten på
+labanken, men kan gjerne holdes under oppsyn.
+Monterte kryssavstivere i stål er i god stand og fremstår som solide og godt gjennomtenkt
+når det gjelder plassering
+Bæresystem:
+Det er utført kun visuell kontroll av synlige konstruksjoner.
+Selve bæresystemet med søyler og bjelker korresponderer helt fra fundamentene og
+oppover i bygningen og er i god stand. Hovedkonstruksjonens bæreevne er stabil og bærer
+ikke preg av å være svekket, men for å finne restverdien i bæresystemet må man avdekke
+søyler og bjelker fler steder i 1. og 2. etg. Dette gjøres i en Nivå 2 kartlegging.
+Ved ombygging og åpning av konstruksjonene i etasjeskillene må det utarbeides ev plan for
+avstivinger og forsterkninger av konstruksjonen. Da spesielt med tanke på skiveeffekten i
+etasjeskillene. Dette må beregnes når man vet hvilken løsning av ombyggingen som blir
+valgt.
+Yttervegger:
+Det er noe usikkerhet forbundet med ytterveggenes bæreevne i forhold til råte- og
+setningsskader. Dette er nærmere beskrevet i kapittel 7 ‘’Tilstand og kalkyle’’.
+
+Konstruksjon og statikk i bygget er noe svekket i form av råteskadede vegger og avstivende
+elementer som er fjernet opp gjennom tiden og helningsavvik i øvre del av bygget som ikke
+er forsøkt rettet opp tidligere.
+Vinduer og dører:
+Det er stor forskjell i utførelse og alder. Det er ingen opprinnelige vinduer i bygget, men i de
+øverste etasjene er det vinduer fra antatt ca.1900.
+Det er gjort en generell vurdering av vinduer og dører i henhold til dagens bruk og ikke etter
+energisparende retningslinjer.
+Utvendig kledning:
+Kledningen er også av variert utførelse, med panel i gavlveggene og pusset tømmer på
+langvegg mot øst og stålplatekledd tømmer mot vest.
+Tilstand på kledning er varierende, men generelt i dårlig stand, spesielt mot nord.
+Pusset tømmer mot øst har store skader og partier med løs puss. Hele veggen må
+pussutbedres.
+Langvegg mot vest er stålplatene i god stand, men det anbefalt å fjerne disse og kle inn
+veggen med tømmermannskledning likt som gavlveggene.
+
+På bakgrunn av en helhetlig tilstandsvurdering for alle fag er den overordnede
+tilstandsgraden 2,3, men i henhold til tolking av referansenivå i NS-EN 16096 og
+alvorlighetsgraden i avvikene veggkonstruksjon, delvis manglende avstivinger av yttervegger,
+takkonstruksjon, takrennesystem og taktekkingen vurderes den overordnede
+tilstandsgraden til TG 3.
+Se kapittel 7 ‘’Tilstand og kalkyle’’ for mer detaljert beskrivelse av avvik og mangler. Graden
+av reparasjonsarbeid avhenger av hva videre undersøkelser avdekker. Det anbefales en
+utvidet undersøkelse av bærende yttervegger, da det er mistanke om råteskader i
+tømmerkassen, ref. Kapittel 7 ‘’Tilstandsanalyse og kalkyle’’ pkt. 231 i rapporten.
+
+Innholdsfortegnelse
+
+1.
+
+Sammendrag ....................................................................................................................... 2
+
+2.
+
+Eiendomsopplysninger ........................................................................................................ 4
+
+3.
+
+Oppdrag og utførelse .......................................................................................................... 5
+
+4.
+
+Tilstandsvurdering – VVS .................................................................................................... 6
+
+5.
+
+Tilstandsvurdering – EL og Automasjon.............................................................................. 6
+
+6.
+
+Tilstandsvurdering – Utomhus ............................................................................................ 6
+
+7.
+
+Tilstandsanalyse og Kalkyle ................................................................................................. 7
+
+8.
+
+Bildedokumentasjon ......................................................................................................... 18
+
+2. Eiendomsopplysninger
+Adresse
+Kommune - Gnr./Bnr.
+Bygningsnummer
+Eier
+Antatt byggeår
+Nåværende funksjon
+
+Areal
+Vernestatus
+Kulturminne-id:
+
+Fjordgata 30, 7010 Trondheim
+5001 – 401/149
+182133272
+Kodeworks Eiendom
+1857
+Opprinnelig en kjøpmannsbrygge med i alt fem etasjer,
+samt underetasje. De to første etasjene brukes i dag til
+næringsformål, mens de tre øverste etasjene står
+tomme.
+2655 m2
+Klasse C, antikvarisk verdi
+260160
+
+Informasjon i tabell er hentet fra Trondheim kommune og kulturminnesøk.
+
+3. Oppdrag og utførelse
+Generelt
+
+HRP AS er engasjert av KodeWorks eiendom as for å gjennomføre en tilstandsanalyse nivå 1
+av Fjordgata 30.
+Tilstandsvurderingen gjøres etter NS-EN 16096 Tilstandsanalyse av fredete og verneverdige
+bygg. Alle vurderinger baserer seg på registreringer og observasjoner gjort på
+befaringstidspunktet. Det er ikke gjort utvidede undersøkelser eller dybdekartlegginger men
+henvist til dette der det er vurdert som nødvendig.
+Rapporten benytter begreper som tilstandsgrad (TG) og konsekvensgrad (KG) for de enkelte
+bygningsdelene. En samlet vurdering av byggverket gjøres med bakgrunn i de registrerte
+avvikene. Det er viktig å merke seg at en tilstandsvurdering etter NS-EN 16096 i større grad
+skal vurdere helheten av bygget enn den ordinære NS-3424. Begrepsbruken følger i NS-EN
+16096.
+Tilstandsanalysen er en overordnet vurdering av byggets komplette tilstand med
+beskrivende tiltak for avvik, kalkyle og bildedokumentasjonen.
+Kostnader for tiltak kommer frem i kapittel 7’’Tilstandsanalyse og kalkyle». Her er de enkelte
+avvikene kostnadsestimert og en samlet kostnadsvurdering er sammenstilt i bunn av
+regnearket.
+På bakgrunn av at bygningen er tenkt ombygget og med endret struktur og inndeling med
+halvetasjer er det kun tatt hensyn til at bygningsdelen skal oppgraderes og settes i stand til
+det nivået den har hatt opprinnelig.
+Istandsetting av en bygningsmasse i Fjordgata 30 må påregnes stor usikkerhet og eventuelle
+kostnadsrammer må ta høyde for dette. Kostnadsestimatene er tenkt som en indikator for
+videre planlegging av vedlikehold til opprinnelig stand av de bygningsdelene som er der i
+dag.
+For en mer nøyaktig skade- og kostnadsoversikt kan opsjon for analysenivå 2 utløses.
+Kostnadsestimat
+Kostnader er en samlet vurdering basert på veiledende markedspriser fra Norsk Prisbok og
+HRP’s egenerfarte prisbank samlet fra gjennomføring av tilsvarende arbeider. Kostnadene er
+et estimat som skal danne grunnlag for et budsjett. Kostnad for enkelte arbeider kan avvike
+noe da omfanget av oppgaven ikke bestandig oppfattes eller utføres likt som beskrevet i
+tilstandsanalysen, eller at den spesifikke kostnaden må sees i sammenheng med utførelse av
+flere tiltak i samme område.
+Tilstand- og konsekvensgradering
+Tilstandsanalysen er utført på analysenivå 1 iht. NS-EN 16096 med oppføring og organisert
+numerisk i henhold til bygningsdelstabellen NS 3451.
+Der hvor det er hensiktsmessig er bygningsdelen vurdert på 3-siffernivå. Rapportering om
+tilstand, behov for tiltak og bildedokumentasjon vil gi en dekkende beskrivelse av byggets
+tilstand og vedlikeholdsbehov på befaringstidspunktet.
+For hver bygningsdel samlet sett er tilstandsgrad (TG) basert på en vurdering av alle
+relevante symptomer vurdert mot valgt referansenivå. Beskrevne tiltak er tiltak for å få
+aktuelle bygningsdeler på tilstandsgrad (TG 0-1). Bygningsdeler med TG 0-1 er ikke omtalt i
+analysen.
+
+TG
+0
+1
+
+Hovedbetydning
+Ingen symptomer
+Svake symptomer
+
+Tiltaksbehov
+Ingen tiltak nødvendig
+Ordinært vedlikeholdsbehov
+
+2
+
+Middels kraftige
+symptomer
+Kraftige symptomer
+(omfatter også
+sammenbrudd og total
+funksjonssvikt)
+Tilstand ikke undersøkt
+
+Moderate utbedringer nødvendig
+
+3
+
+IU
+
+Store utbedringer nødvendig
+
+Eksempel på tilstand
+Nylig vedlikeholdt/utskiftet
+Malingsslitasje, slitt gulvbelegg,
+etc.
+Lokal råteskade i panel, behov for
+utbedring/delvis utskifting
+Lekkasjer i taket med følgeskader
+og store råteskader
+
+Kan være behov for avdekking og
+videre utredning
+
+Konsekvenser av registrert tilstand er vurdert på bygningsdelsnivå. Konsekvenser er
+beskrevet med angivelse av konsekvensgrader og type konsekvens.
+KG
+
+Beskrivelse
+
+0
+
+Ingen konsekvenser
+
+1
+
+Små og middels konsekvenser
+
+2
+3
+
+Vesentlige konsekvenser
+Store og alvorlige konsekvenser
+
+KG
+S
+
+Type
+Sikkerhet
+
+Beskrivelse
+Personskader, brann, innbrudd, sammenbrudd, nedrasing, svikt etc.
+
+H
+M
+O
+E
+K
+
+Helse
+Ytre miljø
+Estetikk
+Energi
+Kulturminneverdi
+
+Helseskader som følge av inneklima, støv, støy, stråling, mugg, sopp etc.
+Miljøbelastning i form av utslipp av klimagasser, støy etc.
+Skader, slitasje, svake reparasjoner/utbedringer etc.
+Varmetap, luftlekkasje etc.
+Bevaringsverdi, fredning, vern, tap av kulturminneverdi etc.
+
+V
+Ø
+L
+
+Virksomhetstap
+Økonomi
+Lover og forskrifter
+
+Konsekvens for bruker etc.
+Større kostnader, verdiforringelse, følgekostnader etc.
+Viktige avvik, behovet for disp.søknader, andre brudd etc.
+
+4. Tilstandsvurdering – VVS
+Etter oppdragsgivers ønske er det ikke utført inspeksjon av VVS-installasjoner.
+
+5. Tilstandsvurdering – EL og Automasjon
+Etter oppdragsgivers ønske er det ikke utført inspeksjon av el- og automasjon.
+
+6. Tilstandsvurdering – Utomhus
+Med unntak av områdene mellom bryggerekkene er det ikke noen utomhusarealer.
+Mellom Fjordgata 30 og 32 er det en del eldre bygningsmaterialer og rester etter det gamle
+takrennesystemet. Dette stammer fra utbedring av tak og veggarealer.
+Materialene bør gjennomgås for å se om det er noen form for dokumentasjonsverdi i forhold
+til verktøyspor eller overflatebehandlinger som kan være opprinnelige fra byggeår.
+
+Terrengnivået bør senkes noe, da det er for kort avstand opp til treverk i konstruksjonen
+Mellom Fjordgata 30 og 28 er det ryddigere og mer ordnede forhold. Øvre nivå er avrettet
+og det er laget en rampe for rømningsvei fra Fjordgata 28.
+
+Overordnet
+
+Konsekvens
+
+7. Tilstandsanalyse og Kalkyle
+
+2
+
+TG
+
+21
+
+BYGNING
+Grunn og
+fundamenter
+
+215
+
+Pelerfundamentering
+
+216
+
+Direkte
+fundamentering
+
+217
+
+Drenering
+
+22
+
+Bæresystemer
+
+222.0
+
+222.1
+
+KG
+
+Tekniske egenskaper,
+materialer, overflater etc
+
+Type
+
+NS 3451:2009
+
+Tiltak
+
+Tilstandsbeskrivelse/ Årsak
+
+TG
+
+Konstruksjon
+
+Kode
+
+Bygningsdel
+
+Anbefaling
+
+Sum
+
+Bygningens
+bærekonstruksjon er delvis
+oppbygd med innvendige
+stolper som er
+fundamentert på
+betongfundament. De
+ytterste
+betongfundamentene står
+ut i kanalen, mens
+resterende står på fast
+grunn.
+Gavlvegg mot nord, og
+nedre del av langvegger,
+består av
+pelefundamentering i
+betong, stående på
+elvebunn. Langvegg mot øst
+har det som ser ut som
+original gråsteinsmur, mens
+resterende vegger har
+grunnmur i støpt betong.
+
+Pelefundamenteringen er i støpt
+betong. Antatt byggeår er 1994,
+da mye av pelekonstruksjon i
+grunn ble utbedret. Ingen
+synlige mangler.
+
+1
+
+Ø
+
+1
+
+Det er ingen avvik i
+betongkonstruksjonen.
+Opplysningene er kun til info da
+det ansees som relevant for
+bygningens bæresystem. Tas ikke
+med i sammendraget for samlet
+tilstandsgrad.
+
+kr 0,00
+
+Betongfundamenter er kommet
+til i senere tid, utført forskjellig
+tidrom. Langsgående labanker
+er datert 1983, med støpte
+pilarer er antatt fra 1994. Ingen
+synlige mangler på
+betongkonstruksjoner, men noe
+rust i armeing med lite
+overdekking. Gråsteinsmur, med
+noen ujevnheter, men uten
+vesentlige mangler.
+
+1
+
+Ø
+
+1
+
+Det er ingen avvik i
+betongkonstruksjonen. Det er kun
+en labank som har noe avskalling
+av betong og eksponering av
+armering. Det er en ubetydelig
+skade, men man bør holde det
+under oppsikt for å registrere om
+skadene blir større. Opplysningene
+er kun til info da det ansees som
+relevant for bygningens
+bæresystem. Tas ikke med i
+sammendraget for samlet
+tilstandsgrad
+
+kr 0,00
+
+Ukjent om det eksisterer
+dreneringssystemer på
+bygningen.
+
+Inneklima i underetasje fremstår
+som tørt.
+
+1
+
+Ø
+
+1
+
+Ingen avvik. Opplysningene er kun
+til info da det ansees som relevant
+for bygningens klima. Tas ikke med
+i sammendraget for samlet
+tilstandsgrad
+
+kr 0,00
+
+Søyler
+
+Søyler under brygga. Under
+gulvnivå i underetasjen.
+Blanding av støpte pilarer og
+søyler i tre.
+
+Støpte pillarer antatt fra 1994,
+søyler i tre av ulik alder, men
+ikke opprinnelige. Søyler i tre
+har noe påbegynnende
+oppflising av treverk som
+resultat av å stå i et fuktig klima.
+
+2
+
+S
+
+3
+
+Enkelte stolper i tre bør
+kontrolleres og vurderes skiftes ut.
+Det er såpass mye oppflising at det
+kan gå ut over bæreevnen.
+Omfang er noe uklart og det
+anbefales en grundigere
+undersøkelse i TA nivå 2. I denne
+omgang er det beregnet utskifting
+av 5 stk stolper.
+
+kr 125 000,00
+
+Søyler
+
+Søyler i underetasje består
+delvis av originalt tømmer,
+limtresøyler og stålsøyler.
+Limtre og stål er trolig
+tilkommet ved utbedringer
+på 1990 - tallet.
+
+Søyler i underetasjer fremstår
+som uten vesentlige mangler.
+
+1
+
+S
+
+2
+
+Ingen tiltak nødvendig, men det er
+anbefalt å gjennomføre en utvidet
+kontroll for å se at søylepunkter
+korresponderer etasjevis. Dette er
+noe som gjennomføres i
+tilstandsanalyse fase 2. Kostnader
+er medtatt i prising av fase 2.
+
+kr 0,00
+
+222.2
+
+Søyler
+
+Søyler i 1 etg. Består delvis
+av originalt tømmer,
+limtresøyler og stålsøyler.
+Etasjen er innredet, så ikke
+alle søyler er tilgjengelig for
+besiktigelse. Limtre og stål
+er trolig tilkommet ved
+utbedringer i 1994.
+
+Søyler i 1 etg. fremstår som uten
+vesentlige mangler.
+
+1
+
+S
+
+2
+
+Ingen tiltak nødvendig, men det er
+anbefalt å gjennomføre en utvidet
+kontroll for å se at søylepunkter
+korresponderer i etasjene. Flere
+utvalgte steder anbefales
+innkledningen av søylene
+demonteres. Dette er noe som
+gjennomføres i tilstandsanalyse
+fase 2. Kostnader er medtatt i
+prising av fase 2.
+
+kr 0,00
+
+222.3
+
+Søyler
+
+Søyler i 2 etg. Består trolig
+av originalt tømmer. Etasjen
+er innredet, så ikke alle
+søyler er tilgjengelig for
+besiktigelse.
+
+Søyler i 2 etg. Fremstår som i
+god teknisk stand, men med noe
+skjevheter og svikt. I nordvestre
+delen av etasjen 0116 er det
+fjernet deler av bære bjelken og
+søyler for å få bedre utnyttelse
+av rommet.
+
+1
+
+S
+
+1
+
+Det må reetableres søyler og
+bærebjelke hvor dette mangler. Ut
+over dette er det ingen behov for
+utbedring. men det er anbefalt å
+gjennomføre en utvidet kontroll
+for å se at søylepunkter
+korresponderer i etasjene. Dette er
+noe som gjennomføres i
+tilstandsanalyse fase 2. Kostnader
+er medtatt i prising av fase 2.
+
+kr 80 000,00
+
+222.4
+
+Søyler
+
+Søyler i 3 etg. Består trolig
+av originalt tømmer. Etasjen
+er uinnredet, søyler er
+dermed tilgjengelig i hele
+etasjen. Etasjen har fem
+innvendige søylerekker.
+
+Søyler i 3 etg. Fremstår som i
+god teknisk stand, men med til
+dels store skjevheter. Det er
+hellingsavvik på 150mm 200mm. Konstruksjonene i sin
+helhet heller mot vest. Det er
+foretatt provisoriske
+skråavstiving av noen søyler.
+
+2
+
+S
+
+2
+
+Ved en totalrehabilitering bør man
+tilstrebe å rette opp dette avviket.
+Når konstruksjonene er avlastet så
+må man forsøke å rette opp
+avviket og ''stramme opp''
+konstruksjonen. Dette må sees i
+sammenheng med overliggende
+etasjer. Det er ikke sikkert man får
+rettet opp hele avviket. Kostnad
+må også sees i sammenheng med
+resterende opprettingsarbeid.
+
+kr 250 000,00
+
+222.5
+
+Søyler
+
+4 etg. Ble påbygd i 1905.
+Søyler er av tre, og stammer
+trolig fra bygging av etasjen.
+Etasjen er uinnredet, søyler
+er dermed tilgjengelig i hele
+etasjen. Etasjen har 5
+innvendige søylerekker.
+
+Søylene er i god stand, men det
+er fjernet enkelte søyler. Årsak
+er uviss, men antatt for å gi
+plass til varer og utstyr. Det er
+hellingsavvik i etasjen som også
+påvirker søylene. Hellingsavvik
+på 150mm - 200mm
+
+2
+
+S
+
+2
+
+Søyler som er tatt vekk anbefales
+reetableres for å tilbakeføre statikk
+og bæresystem. Antatt 5 søyler.
+Utføres som opprinnelig, tappet
+inn i bunn og topp. Etasjen rettes
+opp så mye som mulig i
+sammenheng med utbedring og
+istandsetting.
+
+kr 40 000,00
+
+222.6
+
+Søyler
+
+5 etg. Ble påbygd i 1905.
+Søyler er av tre, og stammer
+trolig fra bygging av etasjen.
+Etasjen er uinnredet, søyler
+er dermed tilgjengelig i hele
+etasjen. Etasjen har 5
+innvendige søylerekker.
+Midtre søylerekke er
+innkledd med plater som
+funksjon som delevegg.
+
+Søylene er i god stand, som i
+4.etg er det fjernet enkelt
+søyler. Årsak er uviss, men
+antatt for å gi plass til varer og
+utstyr. Det er hellingsavvik i
+etasjen som også påvirker
+søylene. Hellingsavvik på
+150mm - 200mm
+
+2
+
+S
+
+2
+
+Alle søyler som er tatt vekk
+anbefales reetableres for å
+tilbakeføre bygningens statikk og
+bæresystem. 6 søyler. Utføres som
+opprinnelig, tappet inn i bunn og
+topp. Etasjen rettes opp så mye
+som mulig i sammenheng med
+utbedring og istandsetting.
+
+kr 48 000,00
+
+223.1
+
+Bjelker
+
+Etasjeskiller mellom underog 1 etg. Består av stål-,
+limtredragere og
+originaltømmer. Bjelkelaget
+er tekket med asfaltplater,
+og dermed ikke tilgjengelig
+for inspeksjon.
+
+Etasjeskiller har noen skjevheter
+men, fremstår som nogen lunde
+bein, i motsetning til resterende
+etasjeskillere. Gavlvegg mot
+nord har en utglidning/knekk
+ved etasjeskiller. Usikkert om
+bjelkelag er godt forankret til
+vegg
+
+2
+
+S
+
+2
+
+Det må foretas videre
+undersøkelser i overgang
+etasjeskiller/nordre gavlvegg.
+Dette er noe som gjennomføres i
+tilstandsanalyse fase 2. Kostnad er
+medtatt i prising fase 2. TG2 er satt
+på grunn av de store avvikene i
+utglidningen i etasjeskille mot
+nord.
+
+kr 0,00
+
+223.2
+
+Bjelker
+
+Etasjeskiller mellom 1- og 2
+etg. Består av stål-,
+limtredragere og
+originaltømmer. Bjelkelaget
+er kledd fra begge sider, og
+dermed ikke tilgjengelig for
+inspeksjon.
+
+Etasjeskiller har til dels store
+lokale skjevheter. Utover dette
+er det vanskelig å si noe om
+tilstand, da bjelkelag ikke er
+besiktiget.
+
+2
+
+S
+
+2
+
+Det må foretas videre
+undersøkelser vedrørende tilstand
+og skjevheter i etasjeskiller. Dette
+er noe som gjennomføres i
+tilstandsanalyse fase 2. Kostnad er
+medtatt i prising fase 2. TG2 er satt
+på grunn av de store lokale
+skjevhetene som man ikke kan få
+kontrollert i nivå 1.
+
+kr 0,00
+
+223.3
+
+Bjelker
+
+Etasjeskiller mellom 2- og 3
+etg. Består av
+originaltømmer som
+dragere. Bjelkelaget er
+delvis kledd fra 2 etg.
+Enkelte himlingsflater er
+kledd helt, mens andre
+himlingsflater er plater felt
+inn mellom bjelkene
+
+Etasjeskiller har til dels store
+lokale skjevheter. Bjelker som er
+tilgjengelig virker, utover
+skjevheter, til å være uten
+synlige skader.
+
+2
+
+S
+
+2
+
+Det må foretas videre
+undersøkelser vedrørende tilstand
+og skjevheter i etasjeskiller. Dette
+er noe som gjennomføres i
+tilstandsanalyse fase 2. Kostnad er
+medtatt i prising fase 2. TG2 er satt
+på grunn av de store lokale
+skjevhetene som man ikke kan få
+kontrollert i nivå 1.
+
+kr 0,00
+
+223.4
+
+Bjelker
+
+Etasjeskiller mellom 3- og 4
+etg består av dragere i
+tømmer, med et
+overliggende bjelkelag i
+tømmer. Etasjeskille er
+åpent fra 3 etg. To av
+dragerne, som holder opp
+bjelkelaget, er avsluttet mot
+vindu i søndre gavlvegg.
+Disse har ingen
+underliggende lastbæring,
+men er hengt opp på
+gavlveggen med stål.
+
+Det er til dels store skjevheter i
+etasjeskiller, mellom 3- og 4 etg.
+Dragere og bjelker har mye
+saltutslag, men fremstår som
+tørt og uten skader. Dragere og
+bjelker er av ulik størrelse og
+dimensjon. Det kan se ut som
+det er mye spenn i bjelkelaget,
+da ikke alle bjelker ligger ned på
+dragerne. Bjelker mot vestlige
+langvegg går forbi veggsøyler og
+inn i laftevegg. Lafteveggen har
+store skjevheter og heller mot
+øst. Etasjeskiller er trolig bygd
+opp samtidig som påbygning av
+4- og 5 etg. Det kan se ut som
+skjevhetene i original vegg er
+kompansert med lengden av
+bjelkelaget. Altså er det ikke
+gjort forsøk på å rette opp dette
+under ombyggingen.
+
+3
+
+S
+
+3
+
+Ved en totalrehabilitering bør man
+tilstrebe å rette inn bjelkelag mot
+østre langvegg. Dette innebærer
+en nedkorting av bjelker, i
+sammenheng med oppretting av
+vegg, før ny innfesting og avlåsing
+av konstruksjon. Dette er tiltak
+som krever videre prosjektering.
+Utover dette er det store
+skjevheter i etasjeskiller forøvrig,
+og de bør rettes inn. Materialer,
+dimensjoner og oppbygging brukt i
+bjelkelag er i mindre grad egnet for
+moderne bruk og må tilpasses,
+med bruk av nye materialer.
+
+kr 260 000,00
+
+223.5
+
+Bjelker
+
+Etasjeskiller mellom 4- og 5
+etg. Består av dragere i
+tømmer, med et
+overliggende bjelkelag i
+tømmer. Etasjeskille er
+åpent fra 4 etg.
+
+Det er til dels store skjevheter i
+etasjeskiller, mellom 4- og 5 etg.
+Dragere og bjelker har mye
+saltutslag. Dragere og bjelker er
+av ulik størrelse og dimensjon.
+Det kan se ut som det er mye
+spenn i bjelkelaget, da ikke alle
+bjelker ligger ned på dragerne.
+Bjelkelag mot østlige langvegg,
+er til dels sterkt råteskadet,
+særlig inn mot veggen. Enkelte
+av bjelkene er også forsterket
+med K-virke i nyere tid. Usikkert
+hvor mye bærefunksjon disse
+bjelkene har.
+
+3
+
+S
+
+3
+
+Tilstand og grad av råteskader må
+videre utredes. Dette er områder
+som anbefales utbedret, og dette
+vil innbefatte utskiftninger av
+materialer. Skjevheter i
+etasjeskiller forøvrig, bør rettes
+inn. Materialer, dimensjoner og
+oppbygging brukt i bjelkelaget er i
+mindre grad egnet for moderne
+bruk og må tilpasses, med bruk av
+nye materialer. Utskifting av 8
+bjelker. Kostnaden må sees i
+sammenheng med andre
+vedlikeholdsarbeider i området
+ved ombygging og istandsetting.
+
+kr 200 000,00
+
+224.1
+
+Avstivende
+konstruksjoner
+
+Det er satt opp noen
+skråavstivere i stål i
+underetasje. Disse er
+plassert mellom søyler, fra
+bunn til topp. Det ser ikke ut
+til å være utført systematisk.
+Disse er sannsynlig blitt
+montert med
+utbedringsarbeider på 1980og/eller 1990 tallet.
+
+Stålet er i god stand, og virker
+godt planlagt med tanke på
+plassering og dimensjonering
+
+1
+
+Ø
+
+1
+
+Ingen avvik. Men man kan holde
+konstruksjonen under oppsikt når
+det gjelder korrosjon.
+
+kr 0,00
+
+224.2
+
+Avstivende
+konstruksjoner
+
+Avstivende konstruksjoner i
+1 etg er ikke tilgjengelig for
+besiktigelse.
+
+Her trengs det en eventuell utvidet
+kontroll, for å fastslå funksjon og
+tilstand.
+
+kr 0,00
+
+224.3
+
+Avstivende
+konstruksjoner
+
+Mye av 2 etg er innredet, og
+konstruksjon er dermed ikke
+tilgjengelig for besiktigelse.
+Dette med unntak av
+langvegg mot vest og
+gavlvegg mot nord, som er
+delvis åpen. Det er laftet inn
+avstivende veggstumper i
+ytterveggene som en del av
+avstivingen av
+konstruksjonen. De satt i en
+rytme med 4-5 m avstand og
+er laftet inn i ytterveggene
+og skråkappet slik at de i
+bunn går ca 60cm ut, og i
+topp går ca 90cm ut fra
+bærende yttervegg. Disse
+skilleveggene har en
+avstivende funksjon for
+ytterveggene og er en
+vesentlig del av den totale
+statikken i bygget.
+
+Skråavstivende konstruksjoner,
+mot vestre langvegg anbefales
+reetablert. Dette kan taes i
+sammenheng med oppretting av
+bærende tømmervegg. utover
+dette bør etasjen forøvrig
+undersøkes nærmere. Dette er noe
+som utføres i tilstandsanalyse nivå
+2. Kostnad for reetablering av 3
+avstivende veggstumper,
+oppstramming og sikring av
+veggene med strekkfisker.
+Kostnadene må sees i
+sammenheng med andre
+vedlikeholdsarbeider ved
+istandsetting/ombygging.
+
+kr 160 000,00
+
+Mot vestlige langvegg er flere av
+skråavstivende veggstumper
+fjernet. Dette virker å ha
+resultert i, til dels store,
+skjevheter og utglidninger i
+laftete tømmervegg/bærende
+yttervegg.
+Utglidningene/skjevhetene er
+lokale der hvor veggestumper er
+fjernet.
+
+3
+
+S
+
+3
+
+224.4
+
+Avstivende
+konstruksjoner
+
+3 etg er uinnredet.
+Yttervegger av laftet
+tømmer, og fem søylerekker
+i lengderetning av
+bygningen. Hver 4-5m er
+laftet forankret med ei søyle
+av tre mot tømmerveggen.
+Fra topp søyle går det en
+skråavstiver, i tre, ned mot
+dekke. Søyle og skråavstiver
+har som funksjon og binde
+sammen, samt stive av
+laftede vegger.
+
+Mange av skråavstiverne mot
+yttervegger er fjernet. Spesielt
+på langvegg mot vest, hvor det
+bare står igjen 1. Det har trolig
+vært 4-5 skråavstivere orginalt.
+Yttervegger og
+søylekonstruksjoner har til dels
+store skjevheter, hvor laftet
+yttervegg mot vest, på det
+meste, heller 350mm mot vest.
+Det er i senere tid satt opp
+provisoriske skråavstiving på
+søylerekker, for å hindre mer
+utglidning.
+
+3
+
+S
+
+3
+
+Skråavstivende konstruksjoner
+som er fjernet, anbefales
+remonteret for å reetablere
+statikken i bygget. Dette kan gjøres
+i sammenheng med oppretting av
+bærende yttervegger og søyler.
+Omfang 7 søyler komplett med
+avstiver.
+
+kr 84 000,00
+
+224.5
+
+Avstivende
+konstruksjoner
+
+Flere avstiver er fjernet. Noen er
+fjernet tidligere for å gjøre plass
+til varer og utstyr, men noen er
+fjernet og forsterket i senere tid
+på grunn av råteskade
+
+3
+
+Ø
+
+2
+
+Avstivere reetableres. Materialer
+og utføresles som opprinnelig. Må
+sees i sammenheng med
+råteutbedring av konstruksjonen i
+denne etasjen. Omfang 10
+avstivere.
+
+kr 60 000,00
+
+224.6
+
+Avstivende
+konstruksjoner
+
+4 etg er uinredet og etasjen
+ble påbygd i 1905.
+Yttervegger består av tungt
+bindingsverk. Det er 5
+søylerekker i lengderetning
+av bygningen. Ved
+langveggene er det satt opp
+skråavstivere, som går fra
+veggens bunnsvill, til
+etasjeskiller mellom 4-5 etg.
+Det er også flere skråband i
+bindingsverket. Alle
+avstivende konstruksjoner
+er av tre.
+5 etg er uinredet og etasjen
+ble påbygd i 1905.
+Yttervegger består av
+bindingsverk. Det er 5
+søylerekker i lengderetning
+av bygningen. Bindingsverk
+med jevnlige skråband fra
+bunn- til toppsvill mellom
+stendere/søyler.
+Skråavstivere på
+langveggene fra bunnsvill til
+takkonstruksjon.
+Søylerekker med
+skråavstivere fra bunn søyle
+til drager. Alle avstivende
+konstruksjoner i tre.
+
+Flere avstiver er fjernet. Noen er
+fjernet tidligere for å gjøre plass
+til varer og utstyr, men noen er
+fjernet og forsterket i senere tid
+på grunn av råteskade
+
+3
+
+S
+
+2
+
+Avstivere reetableres. Materialer
+og utføresles som opprinnelig. Må
+sees i sammenheng med
+råteutbedring av konstruksjonen i
+denne etasjen. Omfang 7
+avstivere.
+
+kr 42 000,00
+
+23
+
+Yttervegger
+
+231.1
+
+Bærende
+yttervegger,
+Underetasje.
+
+Ved gavelvegg mot sør er
+det støpt et ringmur av
+betong, som går helt opp til
+etasjeskiller. Utover dette
+består bærende yttervegger
+i underetasje av laftede
+tømmervegger på
+fundament av betong og
+gråsteinsmur. Mot kanalen
+er ytterveggene
+fundamentert med
+påler/søyler mot
+fundamenter på elvebunn.
+Dette gjelder også nedre
+delene av langvegger.
+
+Langvegg mot vest består av
+laftet tømmer. Tømmerveggen
+ser ut til å være behandlet med
+noen form for maling.
+Tømmeret har også til dels
+omfattende fukt- og råteskader.
+Dette gjelder store deler av
+ytterveggen. På østre langvegg
+er det skiftet ut, et felt med
+laftet tømmer, med
+bindingsverk og plater. Årsak
+kan være tidligere skader på
+tømmervegg.
+
+3
+
+Ø
+
+3
+
+Ved vestre langvegg, hvor det er
+mye dårlig tømmer, trengs det til
+dels omfattende utbedringer.
+Tømmer som er skadet av fukt og
+råte må skiftes. Tømmervegger er
+ikke besiktiget fra utsiden. Her må
+det videre undersøkelser til for å
+fastslå konstruksjonens tilstand.
+Dette tilkommer som en del av
+tilstandsanalyse nivå 2. Kostnad i
+denne posten er for utbedring av
+tømmervegg som er undersøkt.
+Ytterligere ofang kan påkomme
+etter nivå 2 undersøkelser.
+
+kr 300 000,00
+
+231.2
+
+Bærende
+yttervegger, 1 etg
+
+Bærende yttervegger i 1 etg.
+er kledd inn, men en kan se
+at veggene består av laftet
+tømmer. Ytterveggene er
+kledd på både innvendig og
+utvendig side.
+
+Konstruksjon i yttervegger er
+skjult, og derfor ikke fullstendig
+besiktiget og vurdert. Kledning
+på vegger ser ut til å være i god
+stand, men preget av alder og
+bruksslitasje, derfor kan man
+antyde at det er enkelte steder
+hvor man kan finne råteskader i
+laftekonstruksjonene.
+
+2
+
+Ø
+
+1
+
+Det anbefales foretas videre
+undersøkelser vedrørende tilstand
+på bærende yttervegger. Dette
+tilkommer som en del av
+tilstandsanalyse nivå 2.
+
+kr 0,00
+
+231.3
+
+Bærende
+yttervegger, 2 etg
+
+Bærende yttervegger i 2 etg.
+er kledd inn, men en kan se
+at veggene består av laftet
+tømmer. Ytterveggene er
+kledd på både innvendig og
+utvendig side.
+
+Der hvor veggkonstruksjonen er
+belagt med plate, har den ikke
+blitt besiktiget.
+Laftekonstruksjon fremstår som
+tørr og uten skade. På vestre
+langvegg er det imidlertid, til
+dels, store skjevheter, hvor
+tømmerkassen buler mot vest.
+Veggen ser ut til å være låst fast
+av etasjeskillere i bunn og topp,
+men hvor den buler ut, opp til
+120 mm i midtpartiet av veggen.
+
+2
+
+Ø
+
+2
+
+Veggene er ikke besiktiget under
+kledningen/pussen på utsiden, det
+anbefales derfor å foreta videre
+undersøkelser vedrørende tilstand
+på bærende yttervegger. Dette
+tilkommer som en del av
+tilstandsanalyse nivå 2. Der hvor
+vegger har store skjevheter, bør
+veggene rettes opp og låses av.
+Kostnad for disse arbeidene er
+medtatt her.
+
+kr 150 000,00
+
+231.4
+
+Bærende
+yttervegger, 3 etg
+
+Bærende yttervegger i 3 etg.
+Er åpen uten tekking på
+innsiden. Vegger består av
+laftet tømmerkonstruksjon,
+med innvendige søyler hver,
+for vertikal låsing av kassen.
+På østre langvegg er det to
+felt hvor det er åpnet opp i
+laftekonstruksjonen. Her er
+det satt inn bindingsverk, i
+åpningene som er
+provisorisk tekket med
+gipsplate.
+
+Laftekonstruksjonen fremstår
+som tørr og uten vesentlige
+skader. Veggene har imidlertid,
+til dels store skjevheter, hvor
+etasjen i sin helhet heller mot
+vest. Spesielt gjelder dette
+vestre langvegg, hvor
+skjevhetene er opp mot 350 mm
+fra gulv til himling.
+Laftekonstruksjonen er ikke
+avstivet med beitskier der det er
+tatt åpning. Veggen mister
+stabiliteten som kan føre til
+utbuling.
+
+2
+
+Ø
+
+2
+
+Veggene er ikke besiktiget fra
+utside, det må derfor foretas
+videre undersøkelser vedrørende
+tilstand på bærende yttervegger.
+Dette tilkommer som en del av
+tilstandsanalyse nivå 2. Der hvor
+veggene har store skjevheter, bør
+veggene rettes opp og låses av.
+Dette må gjøres i sammenheng
+med underliggende- og
+overliggende etasjer, og må
+prosjekteres nærmere. I åpningene
+må det laftes inn nytt tømmer.
+Både for å beholde samholdet i
+veggen, men også for å reetablere
+statikken i veggen.
+
+kr 500 000,00
+
+231.5
+
+Bærende
+yttervegger, 4 etg
+
+Bærende yttervegg i 4 etg.
+Er delvis kledd med panel og
+delvis åpen mot
+konstruksjon. Veggene
+består av tungt bindingsverk
+med utenpåliggende plank.
+Etasjen ble påbygd i 1905,
+og kan muligens forklare
+endring av konstruksjon mot
+underliggende etasjer.
+Bindingsverket er bygd opp
+med bunn- og toppsvill, med
+stolper og skråband i
+mellom. Dimensjonen på
+bindingsverket er ca 140 X
+140mm. Senteravstand på
+bindingsverk er ca 100cm.
+
+Bindingsverket i 4 etg er, til dels
+sterkt angrepet av fukt og
+råteskader. Spessielt gjelder
+dette den østre langveggen.
+Råteskadene er både fra tilbake
+i tid, men også pågående. Det
+var delvis stort fuktpåslag på
+bindingsverk og utenpåliggende
+plank. Veggen er også delvis
+forsterket med nytt
+bindingsverk. Skaden på
+konstruksjon omfatter
+utenpliggende bord, topp- og
+bunnsvill, bokser, skråbånd og
+bjelkelag.
+
+3
+
+Ø
+
+2
+
+Der hvor bindingsverk er skadet av
+råte, anbefales det utbedringer
+med nye elementer. Det bør også
+foretas videre undersøkelser, for å
+avdekke tilstand til bindingsverk
+som er bygd inn. Kostnaden i
+denne posten er en estimert sum
+for utbedring av synlige og antatte
+skjulte skader som er bygget inn.
+
+kr 220 000,00
+
+231.6
+
+Bærende
+yttervegger, 5 etg.
+
+Bærende yttervegg i 5 etg.
+Er åpen mot konstruksjon og
+består av bindingsverk med
+utenpåliggende plank.
+Etasjen ble påbygd i 1905.
+Bindingsverket er bygd opp
+med bunn- og toppsvill, med
+stendere/bokser og
+skråband i mellom.
+Dimensjonen på
+bindingsverket er ca 140 X
+140 mm, med en
+senteravstand på ca 100cm.
+
+Bindingsverket i 5 etg er, til dels
+sterkt angrepet av fukt og
+råteskader. Spesielt gjelder
+dette den østre langveggen.
+Råteskadene er både fra tilbake
+i tid, men også pågående. Det
+var delvis stort fuktpåslag på
+bindingsverk og utenpåliggende
+plank. Veggen er også delvis
+forsterket med nytt
+bindingsverk. Skaden på
+konstruksjon omfatter
+utenpliggende bord, topp- og
+bunnsvill, bokser, skråbånd og
+bjelkelag.
+
+3
+
+Ø
+
+2
+
+Der hvor bindingsverk er skadet av
+råte, anbefales det å utbedre med
+nye elementer. Det bør også
+foretas videre undersøkelser, for å
+avdekke tilstand til bindingsverk
+som er bygd inn. Kostnaden i
+denne posten er en estimert sum
+for utbedring av synlige og antatte
+skjulte skader som er bygget inn.
+
+kr 260 000,00
+
+234.1
+
+Vinduer, dører,
+porter
+
+Underetasjen har to vindu
+og tre lemmer/porter i
+gavelvegg mot nord. Viser til
+vindusskjema for beskrivelse
+av vindu V1 og V2. Port mot
+øst er bygd opp som
+labankdør av tre og brukes i
+dag som provisorisk
+ytterdør. To resterende
+porter er ikke i daglig bruk.
+Porter er bygd opp som
+labankdør av tre med
+stående kledning og bygd
+opp med to innadslående
+lemmer.
+
+Port brukt som ytterdør er av
+nyere utførelse. Resterende
+porter er sentrert i brygga og av
+eldre årgang. Hengsler er av
+smijern, og treverket er malt
+utvendig. Virker som i grei
+stand, men preget av alder og
+slitasje.
+
+3
+
+K
+
+2
+
+Portene bør funksjonstestes og
+rastaureres tilbake til god stand.
+Videre må åpningene sikres, da de
+ikke tilfredstiller krav til sikkerhet,
+når porter er i åpen stilling. Dette
+kan eksempelvis gjøres ved å
+montere rekkverk eller glassfelt i
+åpningen.
+
+kr 45 000,00
+
+234.2
+
+Vinduer, dører,
+porter
+
+1 etg. Har 12 vindu og 4
+ytterdører. Viser til
+vindusskjema for beskrivelse
+av V3 - V14 og YD1 - YD4.
+
+Det er i alt 34 vindu i Fjordgata
+30. funksjon og tilstand er
+nærmere beskrevet i eget
+vinduskjema, men en kan si at
+det er store variasjoner på alder,
+utforming og tilstand.
+Enkeltvindu ser ut til å være
+skiftet til ulike tider etter ulike
+behov.
+
+2
+
+K
+
+3
+
+Det er i alt 6 vindu som har fått TG
+1, i vindusskjema. Disse trenger
+ingen utbedring. De resterende 28
+vinduene er det anbefalt med
+utbedringer eller utskifting. I
+forhold til innkjøp av nye vindu, vil
+det være store variasjoner på pris,
+etter kvalitet og utforming. Vi
+legger her til grunn en pris på 15
+000, pr vindu med innsetting. I
+forhold til restaurering av vindu vil
+det være store variasjoner på pris,
+etter skadeomfang og utforming.
+Vi legger her til grunn en pris på 60
+000, pr vindu. Vernemyndigheter
+kan sette som krav at bygningens
+vindu blir istandsatt, vi legger
+derfor dette til grunn i
+tilstandsanalysen.
+
+kr 1 680 000,00
+
+234.3
+
+Vinduer, dører,
+porter
+
+Portene fremstår som ikke i
+daglig bruk. Porter i søndre
+gavel er tekket med moderne
+dobbelfals kledning på utsiden.
+Utover dette ser samtlige porter
+ut til å være preget av alder og
+slitasje.
+
+2
+
+K
+
+3
+
+Portene bør funksjonstestes og
+restaureres tilbake til god stand.
+Videre må åpningene sikres, da de
+ikke tilfredstiller krav til sikkerhet,
+når porter er i åpen stilling.. Dette
+kan eksempelvis gjøres ved å
+montere rekkverk eller glassfelt i
+åpningen.
+
+kr 80 000,00
+
+234.4
+
+Vinduer, dører,
+porter
+
+2 etg. Har 7 vindu og 4
+Lemmer/porter. Viser til
+vindusskjema for beskrivelse
+av V15 - V21. To porter på
+søndre gavl, sentrert på
+fasaden, bygd opp som
+labankdør av tre med
+liggende kledning utenpå,
+samt smijernshengsler.
+Bestående av en
+innadslående port. To porter
+i nordre gavel, sentrert på
+fasaden, bygd opp som
+labankdør av tre med
+stående kledning, samt
+smijernshengsler. Bestående
+av to innadslående porter.
+Porter i nordre gavel er
+delvis gjenkledd fra
+innsiden.
+3 etg har 4 vindu og 4
+lemmer/porter. Viser til
+vindusskjema for beskrivelse
+av V22 - V25. To porter på
+søndre gavel, sentrert på
+fasaden, bygd opp som
+labankdør av tre med
+liggende kledning, samt
+smijernshengsler. Bestående
+av en innadslående port. To
+porter på nordre gavel,
+sentrert på fasaden, bygd
+opp som labankdør av tre
+med stående kledning, samt
+smijernshengsler. Bestående
+av to innadslående porter.
+
+Portene fremstår som ikke i
+daglig bruk. Porter i søndre
+gavel er tekket med moderne
+dobbelfals kledning på utsiden.
+Utover dette ser samtlige porter
+ut til å være preget av alder og
+slitasje.
+
+2
+
+K
+
+2
+
+Portene bør funksjonstestes og
+rastaureres tilbake til god stand.
+Videre må åpningene sikres, da de
+ikke tilfredstiller krav til sikkerhet,
+når porter er i åpen stilling. Dette
+kan eksempelvis gjøres ved å
+montere rekkverk eller glassfelt i
+åpningen.
+
+kr 80 000,00
+
+234.5
+
+Vinduer, dører,
+porter
+
+4 etg. Har 4 vindu og 4
+lemmer/porter. Viser til
+vindusskjema for beskrivelse
+av V26 - V29. To porter på
+søndre gavel, sentrert på
+fasaden, bygd opp som
+labankdør av tre med
+liggende kledning, samt
+smijernshengsler. Bestående
+av en innadslående port. To
+porter på nordre gavel,
+sentrert på fasaden, bygd
+opp som labankdør av tre
+med stående kledning, samt
+smijernshengsler. Bestående
+av to innadslående porter.
+
+Portene fremstår som ikke i
+daglig bruk. Samtlige porter ser
+ut til å være preget av alder og
+slitasje.
+
+2
+
+K
+
+2
+
+Portene bør funksjonstestes og
+rastaureres tilbake til god stand.
+Videre må åpningene sikres, da de
+ikke tilfredstiller krav til sikkerhet,
+når porter er i åpen stilling. Dette
+kan eksempelvis gjøres ved å
+montere rekkverk eller glassfelt i
+åpningen.
+
+kr 80 000,00
+
+234.6
+
+Vinduer, dører,
+porter
+
+5 etg. Har 4 vindu og 4
+lemmer/porter. Viser til
+vindusskjema for beskrivelse
+av V30 - V33. To porter på
+søndre gavel, sentrert på
+fasaden, bygd opp som
+labankdør av tre med
+liggende kledning, samt
+smijernshengsler. Bestående
+av to innadslående porter.
+To porter på nordre gavel,
+sentrert på fasaden, bygd
+opp som labankdør av tre
+med stående kledning, samt
+smijernshengsler. Bestående
+av to innadslående porter.
+
+Portene fremstår som ikke i
+daglig bruk. Samtlige porter ser
+ut til å være preget av alder og
+slitasje.
+
+2
+
+K
+
+2
+
+Portene bør funksjonstestes og
+rastaureres tilbake til god stand.
+Videre bør åpningene sikres, da de
+ikke tilfredstiller krav til sikkerhet,
+når porter er i åpen stilling. Dette
+kan eksempelvis gjøres ved å
+montere rekkverk eller glassfelt i
+åpningen.
+
+kr 80 000,00
+
+235.1
+
+Utvendig kledning og
+overflate
+
+Gavelvegg mot nord er
+kledd med utvendig
+kledning av tre, med et
+magebånd ved etasjeskiller
+mellom 3 og 4 etg. Under
+magebåndet er kledningen
+av stående tømmermanns
+kledning, med under- og
+overliggere. Over
+magebåndet er kledningen
+av stående dobbelfals. Hele
+fasaden er malt.
+
+Tømmermannskledningen er av
+varierende kvalitet. Enkeltbord
+er løsnet fra fasaden, lokale
+råteskader, gjennomslag av rust
+fra festemidler og til dels store
+skjevheter.
+Overflatebehandlingen fremstår
+som slitt på hele fasaden.
+Køedningen på veggen fremstår
+som preget av alder og slitasje.
+
+2
+
+K
+
+2
+
+Ved en eventuell oppretting og
+utbedring av bærende yttervegger,
+må kledningen demonteres. For å
+tilfredstille dagens krav, må
+veggen vindtettes, det må
+etableres et lufteskikt mellom vegg
+og kledning. Nytt lektverk før
+montering av ny kledning.
+
+kr 990 000,00
+
+235.2
+
+Utvendig kledning og
+overflate
+
+Etter visuell besiktigelse, ser det
+ut til at tekking på vestlig
+langvegg, er i teknisk god stand.
+Tekkingen er sannsynelig
+montert i nyere tid, og bryter
+med bryggens opprinnelige
+byggeskikk.
+
+2
+
+K
+
+2
+
+Ved en eventuell oppretting og
+utbedring av bærende yttervegger,
+må platekledningen demonteres.
+For å tilfredstille dagens krav, må
+veggen vindtettes, det anbefales å
+etablere et lufteskikt mellom vegg
+og kledning. Det anbefales å kle
+veggen med ny trepanel. Kopi av
+klednigen på vegg mot nord.
+
+kr 1 755 000,00
+
+235.3
+
+Utvendig kledning og
+overflate
+
+Langvegg mot vest er tekket
+med TRP plater. Platene er
+etter all sansynelighet
+lakkerte stålplater. For å
+kompansere for veggens
+skjevheter er det montert
+punktvis spikerslag hvor
+platene er festet.
+spikerslagene er rettet opp i
+forhold til ytterveggen. Det
+ser ikke ut til å være brukt
+vindsperre mellom vegg og
+tekking. Platene er festet
+med farmerskruer.
+Gavelvegg mot sør er kledd
+med utvendig kledning av
+tre. På første etasje er
+veggen tekket med liggende
+dobbelfalskledning. 2 og 3
+etg er tekket med stående
+tømmermannskledning.
+Mellom 3 og 4 etg er det et
+bredt magebånd, brukt til
+reklame og skilt. De to
+øverste etasjene er tekket
+med stående
+tømmermannskledning.
+Fasaden er malt.
+
+Dobbelfalskledningen i 1 etg, ser
+ut til å være av nyere dato.
+Tømmermannskledningen ser
+også ut til å være skiftet.
+Kledningen med maling fremstår
+som noe slitt.
+
+2
+
+Ø
+
+2
+
+Ved en eventuell oppretting og
+utbedring av bærende yttervegger,
+må kledningen demonteres. For å
+tilfredstille dagens krav, bør
+veggen vindtettes, det anbefales å
+etablere et lufteskikt mellom vegg
+og kledning. Nytt lektverk før
+montering av ny kledning.
+
+kr 990 000,00
+
+235.4
+
+Utvendig kledning og
+overflate
+
+Langvegg mot øst er pusset
+med rabitzpuss innerst mot
+tømmer/bordkledning før
+den er pusset med en
+kalkpuss som værhud. Valg
+av material og utførelse kan
+ha en sammenheng med
+ønske om å skape et
+brannskille. På to felt av
+veggen er den tekket med
+TRP plater. Platene er festet
+med spiker. TRP - felten
+fremstår som noe provisrisk,
+eksempelvis ved
+reperasjonsarbeider.
+
+Rabitzpussen ser ut til å være i
+dårlig forfatning. Det er
+sprekkdannelser, avskalling av
+puss og til dels store utbulinger
+av puss. Råteskadene på
+bindingsverket, i de to øverste
+etasjene, kan settes i
+sammenheng med pussens
+tilstand. TRP - platene ser ut til å
+være i god stand, men bryter
+med fasaden forøvrig.
+
+3
+
+S
+
+3
+
+Pussen er i så dårlig forfatning. Løs
+og dårlig puss bør pigges ned og
+man pussutbedrer hele
+fasaden.Skal man ha varme rom
+innenfor, anbefales det å etablere
+tettesjikt og luftesjikt, før veggen
+blir pusset på nytt. Materialbruk og
+utføresle skal være som
+opprinnelig. Pussprøver av
+eksisterende puss bør tas forå
+finne riktig mørtelresepter.
+Omfang for pussutbedring er ca
+350 kvm. Kostnad for etablering av
+lufting og tetting må medtas i
+senere prosjektering da man ikke
+vet hvilken løsning som velges.
+
+kr 1 090 000,00
+
+24
+
+Innervegger
+
+241
+
+Bærende
+innervegger
+
+Bærende innervegger er i
+hovedsak søylerekker som
+er innkledd i de to nederste.
+1. og 2 etg har to laftede
+langsgående vegger som er
+innkledd i 1 etg og delvis
+innkledd i 2 etg. laftede
+vegger som er
+
+Veggene fremstår som stabile,
+men har store lokale avvik i
+høydenivå når man kommer
+over 1 etg. Deter gjort tiltak for
+å rette nøydeforskjellene i 1 etg.
+
+2
+
+Ø
+
+2
+
+Det må foretas videre
+undersøkelser av veggene i en nivå
+2 kartlegging. Oppretting må
+vurderes og sees i sammenhang
+med ombygging og
+vedlikeholdsarbeider. Det er ikke
+medtatt noen kostnader for dette i
+denne rapporten
+
+kr 0,00
+
+244.1
+
+Vinduer, dører,
+foldevegger
+
+I under etasjen er det en
+innerdør som fører til et
+lager/kontor. Døren
+fremstår som en eldre finert
+dør.
+
+Dør fremstår som eldre og noe
+slitt, men funksjonell.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig da den
+fungerer som den skal til sitt
+formål.
+
+kr 0,00
+
+244.2
+
+Vinduer, dører,
+foldevegger
+
+Branndører mellom etasjens
+seksjoner fremstår som relativt
+nye og i god stand. Utover dette
+er dørene av varierende alder og
+kvalitet. Flere av dørene bærer
+preg av slitasje. Alle innerdøre
+er funksjonelle.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig, men ved en
+eventuell totalrehabilitering av
+bygningen, kan man vurdere
+utskifting av døre.
+
+kr 90 000,00
+
+244.3
+
+Vinduer, dører,
+foldevegger
+
+Branndøre og dører til minilager
+fremstår som nye og uten avvik.
+Utover dette er dører av
+varierende alder og kvalitet. Alle
+døre er funksjonelle, men noen
+preget av slitasje.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig, men ved en
+eventuell totalrehabilitering av
+bygningen, kan man vurdere
+utskifting av døre.
+
+kr 215 000,00
+
+244.4
+
+Vinduer, dører,
+foldevegger
+
+Dørene fremstår som grove og
+preget av alder og slitasje, men
+de er funksjonell.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig. TG2 settes
+for alder og slitasje.
+
+244.5
+
+Vinduer, dører,
+foldevegger
+
+I 1 etg er det i alt 18
+innerdøre. Dørene er av
+foskjellig størrelse, funksjon,
+alder og utforming. En kan
+anta at dørene er satt inn til
+ulike tider etter ulike behov.
+Mellom etasjens ulike
+seksjoner er det satt inn
+branndøre, disse fremstår
+som relativt nye.
+I 2 etg. er det i alt 43
+innerdører. Mellom etasjens
+ulike seksjoner er det satt
+inn branndøre, disse
+fremstår som relativt nye.
+Deler av etasjen brukes som
+minilager, her er det i alt 21
+dører til de ulike bodene.
+Disse fremstår som relativt
+nye. Utover dette er
+Innerdørene av ulik alder og
+utforming.
+3 etg. har en tofløyet
+innerdør. Døren er bygd opp
+som labankdør og er av
+eldre type.
+4 etg. inneholder ingen
+innerdøre.
+
+244.6
+
+Vinduer, dører,
+foldevegger
+
+5 etg. inneholder en
+innerdør. Døren er ikke
+original, men eldre.
+
+Døren er funksjonell, men
+preget av alder og slitasje.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig. TG2 settes
+for alder og slitasje.
+
+25
+
+Dekker
+
+255.1
+
+Gulvoverflate
+
+Gulvoverflate i underetasje
+består for det meste av
+bord/plank av tre, hvor
+noen omeråder er tildekt
+med
+konstruksjonsplaterplater.
+Gulvoverflatene er
+ubehandlet.
+
+3
+
+S
+
+3
+
+Gulvoverflate i underetasjen bør
+reetableres i sin helhet. Grove
+gulvbord i tre. ca 515 kvm.
+
+kr 566 500,00
+
+255.2
+
+Gulvoverflate
+
+Gulvoverflatene i 1 etg.
+består av laminatgulv og
+gulvbelegg. Det er ulike
+typer laminat og gulvbelegg,
+av ulik alder.
+Laminatgulvene har
+utseende som
+tre/parkettgulv.
+
+Gulvoverflatene er preget av
+høy alder og av varierende
+kvalitet. Det ble registrert liten
+grad av råteskader i dekke.
+Overflatene er imdlertid preget
+av at mange gulvbord/plank er
+løse og/eller fjernet. Noe er
+provisorisk utbedret, men dekke
+som helhet fremstår som
+ufullstendig. Det er lagret mye
+avfall og bygningselemnter på
+dekke, hele overflaten er derfor
+ikke besiktiget.
+I butikklokalene har gulv som er
+i god stand, men ellers er
+ulvoverflatene i 1 etg. preget av
+alder og slitasje. Det observeres
+glipper/sprekkdannelser og
+fuktskader på overflatene.
+Gulvoverflatene fremstår som
+over sin levetid.
+
+3
+
+O
+
+2
+
+Gulvoverflater bør reetableres i sin
+helhet. Dette basert på alder og
+slitasjegrad. Dette bør gjøres i
+sammenheng med oppretting av
+etasjeskillere. Kostnad for samme
+type gulv som eksiterende.
+Eventuelle oppgraderinger må
+beregnes når prosjektering av ny
+bruk er utført.
+
+kr 721 000,00
+
+255.3
+
+Gulvoverflate
+
+Gulvoverflatene i 2 etg.
+består av laminat,
+gulvbelegg, lakkerte tregulv,
+ubehandlet tregulv og
+ubehandlet OSB plate.
+Laminat og gulvbelegg er av
+ulike typer og av ulik alder.
+Laminatgulvene har
+utseende som
+tre/parkettgulv.
+
+Gulvoverflatene i 2. etg er av
+ulik alder, men generelt preget
+av slitasje. Sekjonen som brukes
+som minilager er belagt med
+ubehandlet OSB plate. Denne
+fremstår som provisorisk. Omlag
+100m2 av overflatene er belagt
+med lakkert tregulv, mens
+omlag 70m2 av overflatene er
+belagt med ubehandlet tregulv.
+Denne er av grovere karakter og
+av høy alder. Resterende arealer
+er belagt med laminat og
+gulvbelegg, hvor disse fremstår
+som slitt og over sin levetid.
+
+3
+
+O
+
+2
+
+Gulvoverflater bør reetableres i sin
+helhet. Dette basert på alder og
+slitasjegrad. Dette bør gjøres i
+sammenheng med oppretting av
+etasjeskillere. Kostnad for samme
+type gulv som eksiterende.
+Eventuelle oppgraderinger bør
+vurderes når prosjektering av ny
+bruk er utført.
+
+kr 721 000,00
+
+255.4
+
+Gulvoverflate
+
+Gulvoverflatene i 3 etg. er
+av ubehandlet tregulv.
+Tregulvet består av
+bord/plank, høvlet med not
+og fjær i langsgående
+skjøter. Overflatene er av
+høy alder.
+
+Gulvoverflatene er preget av til
+dels store skjevheter og høy
+grad av slitasje. Deler av gulvene
+fremstår som solid, men likevel
+preget av skader i form av råte
+og hulldannelser. Overflatene
+fremstår som ikke forenelig med
+moderne bruk.
+
+2
+
+O
+
+2
+
+Gulvoverflater bør utbedres der
+hvor det er nødvendig. Supplering
+ved manglende gulvbord og
+utskifting der tilstand tilsier det.
+Dette bør gjøres i sammenheng
+med oppretting av etasjeskillere.
+
+kr 70 000,00
+
+255.5
+
+Gulvoverflate
+
+Gulvoverflatene i 4 etg. er
+av ubehandlet tregulv.
+Tregulvet består av
+bord/plank, høvlet med not
+og fjær i langsgående
+skjøter. Overflatene er av
+høy alder.
+
+Gulvoverflatene er preget av til
+dels store skjevheter og høy
+grad av slitasje. Deler av gulvene
+fremstår som solid, men likevel
+preget av skader i form av råte
+og hulldannelser. Overflatene
+fremstår som ikke forenelig med
+moderne bruk.
+
+2
+
+O
+
+2
+
+Gulvoverflater bør utbedres der
+hvor det er nødvendig. Supplering
+ved manglende gulvbord og
+utskifting der tilstand tilsier det.
+Dette bør gjøres i sammenheng
+med oppretting av etasjeskillere.
+
+kr 70 000,00
+
+255.6
+
+Gulvoverflate
+
+Gulvoverflatene i 5 etg. er
+av ubehandlet tregulv.
+Tregulvet består av
+bord/plank, høvlet med not
+og fjær i langsgående
+skjøter. Overflatene er av
+høy alder.
+
+Gulvoverflatene er preget av til
+dels store skjevheter og høy
+grad av slitasje. Deler av gulvene
+fremstår som solid, men likevel
+preget av skader i form av råte
+og hulldannelser. Overflatene
+fremstår som ikke forenelig med
+moderne bruk.
+
+2
+
+O
+
+2
+
+Gulvoverflater bør utbedres der
+hvor det er nødvendig. Supplering
+ved manglende gulvbord og
+utskifting der tilstand tilsier det.
+Dette bør gjøres i sammenheng
+med oppretting av etasjeskillere.
+
+kr 70 000,00
+
+255.1
+
+Faste himlinger og
+overflate-behandling
+
+Himlinger i underetasjen
+består av asfaltplater som
+stubbloftsplater. I skjøter er
+det festet trebord fra
+underside, for å sikre
+innfestning av platene.
+
+asfaltplatene ser ut til å være i
+god stand. De er iike preget av
+nedsig, som de ofte er dersom
+de står i et fuktig klima. De er
+imidlertid ikke forenelig som
+himling i et innredet rom.
+
+2
+
+O
+
+1
+
+der de deler av etasjen som evt
+skal være i regelmessig bruk, bør
+det etableres himling. Legges ikke
+til grunn noen utbedringer, TG2
+satt for alder og lokale mangler.
+
+kr 0,00
+
+255.2
+
+Faste himlinger og
+overflate-behandling
+
+Himlingene i 1 etg. er ikke
+preget av vesentlige mangler, de
+er imdlertid preget av alder og
+til dels høy slitasje. Det fremstår
+som at ulike himlinger er
+montert til ulike tider, uten
+hensyn til etasjens helhet.
+
+2
+
+Ø
+
+1
+
+Arbeid med himlinger må sees i
+sammenheng med videre bruk.
+Derfor ikke beregnet noen
+kostnad, da de tilfredsstiller
+dagens bruk.
+
+kr 0,00
+
+255.3
+
+Faste himlinger og
+overflate-behandling
+
+Himlinger i 1 etg. består av
+ulike typer plater.
+Majoriteten av himlingene
+består av plater som er
+sparklet og
+overflatebehandlet. Noe
+består imidlertid av folierte
+plater i faste størrelser.
+Himlinger i 2 etg. består av
+ulike typer platehimlinger,
+panel og deler uten montert
+himling. Seksjon med
+minilager er det brukt
+ubehandlet OSB plate til
+himling. Denne er delvis
+innfelt mellom bjelkelag. I
+deler av etasjen er det brukt
+plater som er sparklet og
+malt. Deler av disse
+himlingsflatene er innfelt
+mellom bjelkelag.
+Resterende platehimling
+består av folierte
+himlingsplater, etter faste
+mål. Panelte himlinger er
+overflatebehandlet. Der
+hvor det ikke er montert
+himling er det bjelkelag og
+overliggende gulvbord som
+utgjør himlingen.
+
+Himlinger i 2 etg. er ikke preget
+av vesentlige mangler, de er
+imidlertid prget av alder og til
+dels høy slitasje. Det fremstår
+som at ulike himlinger er
+montert til ulike tider, uten
+hensyn til etasjens helhet.
+
+2
+
+Ø
+
+1
+
+Arbeid med himlinger må sees i
+sammenheng med videre bruk.
+Derfor ikke beregnet noen
+kostnad, da de tilfredsstiller
+dagens bruk.
+
+kr 0,00
+
+26
+
+Yttertak
+
+261
+
+Primærkonstruksjon
+
+Taket er er oppbygd som et
+valmtak, med takvinkel på 67 grader. Konstruksjonen
+består av 5 takåser, med
+overliggende taksperrer.
+Takåsene er bært av søyler.
+Taksperrene har en
+dimensjon på omlag 60X130
+mm, og har en
+senteravstand på omlag 90
+cm. På taksperrene er det
+lagt taktro. Dette består av
+trebord, med not og fjær.
+Takkonstruksjonen er
+ubehandlet og uisolert.
+
+Takkonstruksjonen er mindre
+dimensjonert enn hva som er
+vanlig i dag, både hva gjelder
+dimensjoner på materialer og
+senteravstande. Det er
+imidlertid ikke tegn til svikt i
+bærekonstruksjonen.
+Konstruksjonen er preget av
+alder og slitasje, men uten
+vesentlig mangler. Den
+samsvarer derimot ikke opp mot
+moderne bruk, hverken ved
+isolasjonskapasitet eller
+bæreevne.
+
+2
+
+S
+
+2
+
+Dersom etasjen skal tas i bruk, bør
+takkonstruksjonen utbedres.
+Konstruksjonen må forsterkes og
+påfores, slik at en kan få inn nok
+isolasjon til dagens u-verdi krav.
+Utbedring av takkonstruksjon må
+trenger videre prosjektering. TG2
+satt for konstruksjonens mangler
+opp mot dagens standard.
+
+kr 0,00
+
+262
+
+Taktekking
+
+Taket er tekket med Protan
+Sernafil. Detter er en takduk
+som ble produsert i Norge
+fra slutten av 1970 - tallet
+frem til slutten av 1980 tallet. Duken er et PVC
+produkt, med gode
+tetteegenskaper. Sernafil er
+tilnermet diffusjonstett. Det
+virker som det er montert
+sløtfelekter på taktro, før
+duken er montert på
+sløyfelektene.
+
+Taket er ikke besiktiget i sin
+helhet, men det er ikke
+registrert større lekasjepunkt fra
+undersiden. Takduken fremstår
+som uten vesentlige mangler.
+Produsenten av Sernafil oppgir
+at forventet levetid er 40 år.
+Duken er merket med
+produksjonsår 1989. Hvis en
+antar at takduken er lagt samme
+år, nærmer der seg sin antatte
+levetid.
+
+2
+
+S
+
+2
+
+Ved en totalrestaurering av
+bygningen er det anbefalt å skifte
+taktekkingen. Taktro skiftes der
+det er nødvendig, etablering av et
+difusjonsåpent undertak, lufteskikt
+og ny taktekking. Det vil være
+hensiktsmessig utført i
+sammenheng med utbedring av
+takkonstruksjon. TG2 settes for
+tekkingens alder, hvor den snart er
+utløpt sin forventede levetid. I pris
+legger vi til grunn nytt undertak,
+lufteskikt og en enkel taktekking.
+
+kr 1 380 000,00
+
+263
+
+Glasstak, overlys,
+takluker
+
+Det er ett overlys montert i
+taket. Denne brukes som
+adkoms til taket. Overlyset
+har et karmål på 67 X 67 cm.
+Overlyset har buet glass, og
+karmene er lakkert.
+
+3
+
+S
+
+3
+
+Overlys anbefales skiftet. I den
+forbindelse må tak tattes
+tilstrekkelig mot karm til overlys.
+TG3 settes for slitasjeskader og
+fare for lekkasje.
+
+kr 10 000,00
+
+265
+
+Gesimser, takrenner
+og nedløp
+
+Takrennesystem i flere
+forskjellige
+materialkvaliteter.
+Takrenner i sink, og
+nedløpsrør i sink og lakkert
+stål av nyere dato.
+
+Overlyset er delvis funksjonell,
+men fremstår som preget av
+alder og slitasje. Den ene
+hengselen er løsnet fra karmen.
+Takduk på yttertak er ikke tettet
+tilstrekkelig mot overlys, her er
+det åpent mellom takduk og
+karm.
+I dårlig stand. Nedløpsrør har
+lekkasjer og har sklidd fra
+hverandre i skjøter. Nedre del
+på flere nedløp har falt av og
+avsluttes et stykke opp på
+veggen.
+
+3
+
+K
+
+3
+
+Hele takrennesystemet må skiftes i
+sin helhet. Utføres i sink, med
+antikvarisk riktig utførelse. Skarpe
+bend på nedløp. Festes med
+klemmer med kilelås. Omfang 75
+lm nedløp og 64lm takrenne
+
+kr 140 000,00
+
+27
+
+Fast inventar
+
+273.1
+
+Kjøkken-innredning
+
+Kjøkkeninnredningene er i
+funksjonell stand, men preget av
+alder og slitasje.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig, basert på
+bruksfunksjon. TG2 settes på
+grunn av alder og slitasje.
+
+kr 0,00
+
+273.2
+
+Kjøkken-innredning
+
+1 etg. inneholder et kjøkken
+i rom D110 og rom D104.
+Kjøkkeninnredning i D110
+består av over- og
+underskap i hvit utføreles .
+Kjøkkenfronter er profilert.
+Kjøkkeninnreding i rom
+D104 består av underskap
+og hylleløsning i slett, hvit
+utførelse. Basert på
+observasjoner kan en anta
+at kjøkkeninnredningene
+stammer fra tidlig 1990 tallet.
+2 etg inneholder et kjøkken i
+rom D164 og rom D180.
+Kjøkkeninnredning i D164
+består av over-, underskap
+og hylle. Innredningen er
+liten, med slett sort
+overflate. Innredningen i
+rom D180 består av over- og
+underskap i slett, hvit
+utførelse.
+
+Kjøkkeninnredningene er i
+funksjonell stand, men preget av
+alder og slitasje.
+
+2
+
+O
+
+2
+
+Ingen tiltak nødvendig, basert på
+bruksfunksjon. TG2 settes på
+grunn av alder og slitasje.
+
+kr 0,00
+
+28
+
+Trapper, balkonger
+
+281.1
+
+Invendige trapper
+
+1 etg inneholder 2 trapper
+som går mot 2 etg. en i rom
+D190 og en i rom D156.
+Begge trepper har vanger,
+opptrinn og inntrinn av tre,
+hvor inntrinn er belagt med
+gulvbelegg.
+
+Trapper fremstår som
+funksjonibel, men preget av
+alder og slitasje. Trappen opp til
+rom 0113 mangler rekkverk på
+plan 2.
+
+3
+
+S
+
+3
+
+Trapp opp til 0113 må påmonteres
+rekkverk. Ellers må trappene settes
+i stand med nytt belegg og males.
+Gjelder begge trapper. TG3 sette
+på grunn av sikkerhet ved trapp
+som ikke har rekkverk og den
+sammenlagte slitasjen
+
+kr 40 000,00
+
+281.2
+
+Invendige trapper
+
+Trappene er ikke opprinnelige,
+men er av høy alder. De er
+funsksjonell, men preget av
+alder og slitasje. Tilfredsstiller
+ikke dagens krav.
+
+2
+
+S
+
+2
+
+Trappene kan i utgangspunktet
+være som de er, men ved en
+omdiponering av bygningen bør
+det settes inn nye trapper. Det er
+ikke medtatt kostnader for dette.
+
+kr 0,00
+
+281.3
+
+Invendige trapper
+
+2 etg har to trapper som går
+opp til 3 etg, i rom D123 og
+rom D165. Trappene har
+vanger og trappetrinn av
+tre. De er kledd med bord
+på undersiden, for lukket
+trappeutførelse.
+3 etg har 2 trappeløp mot 4
+etg, en i rom O186 og en i
+rom O124. Begge trapper
+har vanger og trappetrinn i
+tre. Begge trappene
+fremstår som ubehandlet og
+av høy alder. Trapp i rom
+O186 har en åpen utførelse,
+men trapp i romO124 er
+kledd på undersiden med
+panel.
+
+Trapp i rom O186, har trinn
+løsnet fra trappevange. Trappen
+fremstår som ikke egnet for
+bruk. Trapp i rom O124 fremstår
+som funksjonell, men preget av
+alder og slitasje.
+
+3
+
+S
+
+3
+
+Trapp i rom O186, kan ikke brukes
+og bør skiftes. Legger til grunn at
+begge trappene i etasjen blir
+skiftet.
+
+kr 100 000,00
+
+281.4
+
+Invendige trapper
+
+287.1
+
+Andre rekkverk,
+håndlister og
+fendere
+
+287.2
+
+Andre rekkverk,
+håndlister og
+fendere
+
+287.3
+
+Andre rekkverk,
+håndlister og
+fendere
+
+287.4
+
+Andre rekkverk,
+håndlister og
+fendere
+
+3
+
+VVS
+
+31
+
+Sanitæranlegg
+
+312
+
+Ledningsnett for
+sanitærinstallasjoner
+
+33
+
+Brannslukke- anlegg
+
+330
+
+Tekn. Funksjonalitet
+
+4
+
+Elkraft-installasjoner
+
+41
+410
+
+Basisinstallasjoner
+for elkraft
+Tekn. Funksjonalitet
+
+7
+
+Utendørs
+
+78
+
+Utendørs
+infrastruktur
+
+783
+
+Tilknytning til
+eksterne nett for
+vannforsyning, avløp
+og fjernvarme
+
+4 etg har ett trappeløp opp
+til 5 etg. Trappen har
+vanger og trinn av tre. Den
+er kledd på undersiden med
+trebord, og har en lukket
+utførelse. Trappen fremstår
+som ubehandlet og av høy
+alder.
+Trapperom i D190 har
+vegger på begge sider av
+trapp, ingen rekkverk og
+ingen håndløper. Trapperom
+i D156 har vegger på begge
+sider av trapp, ingen
+rekkverk og ingen
+håndløper.
+I 2 etg er det to trapper opp
+til 3 etg. En i rom D123 og
+en i rom D165 Trappene har
+vegger på begge sider, med
+håndløper.
+I 3 etg er det to trapper opp
+til 4 etg, en i rom O186 og
+rom O185. Trapp i rom
+O186, står mot en delevegg,
+men mangler rekkverk på
+den andre siden. Trapp i
+rom O185 står mot en
+delevegg, og har en
+spilevegg på den andre
+siden. Ved trapp O185 er
+det montert håndløper.
+I 4 etg er det en trapp mot 5
+etg. Trappen står åpent i
+rommet, med spilevegger
+som rekkverk på hver side.
+Det er ikke montert noen
+håndløper.
+
+Trappen fremstår som
+funksjonell, men preget av høy
+alder, slitasje og mindre skader.
+
+2
+
+S
+
+2
+
+Legger til grunn utskifting av trapp.
+
+kr 50 000,00
+
+Det er ikke nødvendig med
+rekkverk langs trapp da den er
+lukket, men håndløper er
+påkrevd. I rom D113 er det
+demontert rekkverk mot
+trappehull, der trapp kommer
+fra D190. Ingen rekkverk mot
+trappehull.
+Rekkverk, i likhet med trapp, er
+preget av alder og slitasje.
+
+2
+
+S
+
+2
+
+Legger til grunn, montering av
+håndløper på begge trapper.
+
+kr 14 000,00
+
+2
+
+O
+
+2
+
+Legger ikke til grunn noen
+utbedringer.
+
+kr 0,00
+
+Rekkverk, i likhet med trapper,
+er preget av alder og slitasje.
+Trapp i rom O186 mangler
+rekkverk, og er således ikke
+godkjent fo bruk.
+
+2
+
+S
+
+2
+
+Legger til grunn nytt rekkverk i
+trapp O186
+
+kr 20 000,00
+
+Rekkverk, i likhet med trapper,
+er preget av alder og slitasje.
+Spilevegger som er montert på
+hver side av trapp, er avsluttet
+midtveis i trappen. Dette avviker
+fra dagens krav om rekkverk.
+
+3
+
+S
+
+3
+
+Dersom etasjen og trappen skal
+være i bruk, må det monteres
+godkjente rekkverksløsninger.
+
+kr 20 000,00
+
+VVs anlegg i bygningen er et
+åpent anlegg, bestående av
+vannrør av kobber.
+Kobberrørene er av ulik
+dimensjon og ulik alder.
+
+Ikke vurdert etter avtale med
+oppdragsgiver
+
+kr 0,00
+
+Det er montert
+sprinklerannlegg og
+brannvarslere i alle
+bygningens etasjer.
+Brannvarslerannlegget ser
+ut til å være av nyere dato.
+Tilkoblet strøm, med
+seriekobling.
+
+Ikke vurdert etter avtale med
+oppdragsgiver
+
+kr 0,00
+
+El anlegg i bygningen består
+av en blanding mellom
+nyere og eldre anlegg. Det
+er montert flere sikringskap
+i bygningen, hvor noen er av
+modere automatsikringer og
+hvor noen er av eldre
+skrusikringer. Annlegget er
+for det meste åpent, hvor
+det er montert til ulike tider
+og etter ulike behov.
+
+Ikke vurdert etter avtale med
+oppdragsgiver
+
+kr 0,00
+
+Tilknyttet kommunalt VA
+anlegg, ikke tilknyttet
+fjernvarme.
+
+Ikke vurdert etter avtale med
+oppdragsgiver
+
+kr 0,00
+
+784
+
+Tilknytning til
+eksternt el-kraftnett
+
+Tilknyttet eksternt elkraftnett
+
+Ikke vurdert etter avtale med
+oppdragsgiver
+
+21
+
+Delsum Grunn og fundamenter
+
+eks mva
+
+0
+
+22
+
+Delsum Bæresystemer
+
+eks mva
+
+1 349 000
+
+23
+
+Delsum Yttervegger
+
+eks mva
+
+24
+
+Delsum Innervegger
+
+eks mva
+
+25
+
+Delsum Dekker
+
+eks mva
+
+26
+
+Delsum Yttertak
+Delsum Fast innventar
+
+eks mva
+eks mva
+
+Delsum Trapper
+
+eks mva
+
+24 400
+
+31
+
+eks mva
+
+0
+
+33
+
+eks mva
+
+0
+
+41
+
+eks mva
+
+0
+
+78
+
+eks mva
+
+0
+
+Snitt TG
+
+27
+28
+
+1
+
+A
+
+kr 0,00
+
+2,3
+
+Sum estimerte kostnader
+
+2
+
+B
+
+Uforutsatte kostnader, %andel av A
+
+3
+
+C
+
+Rigg og drift kostnader, %andel av A+B
+
+4
+
+D
+
+Sum entreprenørkostnad
+
+5
+
+E
+
+Prosjekteringskostnad, %andel av A+B
+
+6
+
+F
+
+Totalkostnad eks mva, sum D+E
+
+7
+
+G
+
+Merverdiavgift
+
+8
+
+H
+
+Totalkostnad inkl mva
+
+eks mva
+20
+%
+20
+%
+
+0
+
+13 946 500
+
+3 347 160
+eks mva
+20 082 960
+2 510 370
+eks mva
+22 593 330
+5 648 333
+mva
+inkl mva
+
+8. Bildedokumentasjon
+
+Fundamentering mot kanalen er ombygd, trolig på
+1980- og 1990-tallet. Søyler og fundament i betong.
+
+1 530 000
+
+2 789 300
+
+eks mva
+25
+%
+
+305 000
+2 218 500
+
+eks mva
+
+eks mva
+15
+%
+
+8 300 000
+
+Under brygga kan en se eldre og nyere
+fundamentering, side om side.
+
+28 241 663
+
+Vestre langvegg i underetasjen. Vegg av laftet
+tømmer hviler på støpt ringmur. Tømmeret er
+behandlet, og preget av fukt/råte.
+
+Nyere søylerekke i underetasjen. Søyler av betong
+med ståldrager. Himling tekket med asfaltplater.
+
+N-V10, vinduskarm og vindusforing preget av fukt,
+sopp og avflassing av maling.
+
+Eldre sikringsskap i rom O189, 1 etg. Elanlegg er en
+blanding av nytt og gammelt, hvor mye av anlegget
+er lagt åpent.
+
+Midtre søylerekke i 1 etg. Søyler og dragere av både
+limtre og stål. På bildet vises overgangen limtre- og
+stålsøyle.
+
+Kjøkkeninnredning i rom O110, 1 etg. Funksjonelt,
+men noe slitt. Gulvbelegg på gulv og respatex plater
+på vegg.
+
+Rom O175 i 2 etg. Enslig søyle står igjen. Her har det
+tidligere stått ei søylerekke, drager er også fjernet.
+
+Vestre langvegg, rom O175 2 etg. Skjevheter i laftet
+tømmervegg, som følge av at avstivende
+konstruksjon er fjernet.
+
+Rekkverk mot trapp er fjernet. Rom O113, 2 etg
+
+Korridor til minilager i 2 etg. Gulv, vegger og himling
+er tekket med OSB plater.
+
+Store skjevheter i bærekonstruksjon i 3 etg. Her med
+provisorisk avstiving av søyler.
+
+Vestre langvegg i 3 etg. Store skjevheter, det kan se
+ut som bjelkelag til 4 etg er forlenget for å
+kompensere for skjevheter i etasjen.
+
+Skråavstivende konstruksjonsdel er fjernet fra søyle.
+Vestre langvegg, 3 etg.
+
+Drager er avsluttet mot vindu, sørlige gavelvegg 3
+etg. Drager er hengt opp med stål.
+
+Råteskade i etasjeskiller mellom 4- og 5 etg. Bjelke
+og svill er sterkt skadet, utenpåliggende bord er
+delvis borte. En kan se helt inn til Rabitz pussen på
+fasaden.
+
+Bindingsverk på østre langvegg, 4 etg. Stendere og
+bjelker er forsterket med K-virke, som følge av
+råteskader.
+
+Stolpe er delvis råtnet bort, østre langvegg 4 etg.
+
+Trapp mellom 4- og 5 etg. Trappen er preget av
+alder. Den er funksjonell, men mangler godkjente
+rekkverksløsninger.
+
+Bindingsverk og takkonstruksjon i 5 etg. Dimensjon
+på taksperrene er om lag 60 x 130mm.
+
+Østre langvegg i 5 etg. Veggen er forsterket som
+følge av store råteskader.
+
+Pågående fuktinnsig, østre langvegg 5 etg.
+
+N-V2, nordre gavelvegg 5 etg. Ukjent produksjonsår
+på vindu, men preget av alder og slitasje.
+
+Fasade på østre langvegg. Veggen er tekket med
+Rabitz-puss, rett på laftet tømmer. Pussen bærer
+preg av forfall.
+
+Pågående lekkasje på takrenne, østre langvegg. Slike
+lekkasjer kan forårsake store skader, dersom de ikke
+blir utbedret.
+
+Et av to felt som er tekket med TRP – plate, på østre
+langvegg. Kan være utført som følge av skader på
+pusset overflate.
+
+Synlig etasjeskiller til underetasjen med anlegg på
+gråsteinsmur, vestre langvegg. Veggen er tekket
+med TRP – plate. Fasaden ser ut til å være i god
+stand.
+
+TRP – plater på vestre langvegg er punktvis lektet ut.
+Utlektingen bygger mye fra veggen, trolig for å
+kompensere for veggens skjevheter videre oppover
+etasjene.
+
+Det er en knekk på veggen ved etasjeskiller mellom
+under- og 1 etg. Nordre gavelvegg.
+
+Nordre gavlvegg, mot kanalen.
+Tømmermannskledning opp til 4 etg. 4- og 5 etg er
+tekket med stående dobbelfals kledning.
+
+Sørlige gavlvegg, mot Fjordgata. 1 etg med liggende
+dobbelfalskledning. Tømmermannskledning på 2- og
+3 etg. 4- og 5 etg med stående dobbelfals kledning.
+
+Taket er tekket med Sernafil – takduk. Det virker
+som det er montert luftelekt på taktro, før Sernafilduken er trekt over lektene. Sernafil – takduk er
+tilnærmet diffusjonstett, og den nærmer seg mest
+sannsynlig sin antatte levetid.
+
+Takduk mot overlys. Overgangen er ikke tilstrekkelig
+tettet, dette er et potensielt lekkasjepunkt.
+
+
+
+
+Vindu
+
+Karmmål BXH Produksjonsår Type
+
+Tilstand
+
+N-V1
+
+100X100
+
+Ukjent
+
+3
+
+N-V2
+
+100X100
+
+Ukjent
+
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Vindu i god stand
+Vindu i god stand
+
+1
+2
+
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+3-fags vindu. 1-lags glass,
+sidehengslet.
+
+Funksjonelt, men preget av
+alder og slitasje
+Funksjonelt, men preget av
+alder og slitasje
+Vindu er igjenkledd fra
+innsiden, ikke besiktiget.
+Vindu er funksjonelt, noe
+preget av alder og slitasje.
+Vindu er funksjonelt, noe
+preget av alder og slitasje.
+Vindu er igjenkledd fra
+innsiden, ikke besiktiget.
+Vindu er funksjonelt, noe
+preget av alder og slitasje.
+Vindu er funksjonelt, noe
+preget av alder og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+Eldre vindu, preget av alder
+og slitasje.
+
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+
+Delvis funksjonelt, preget av
+alder og slitasje.
+Delvis funksjonelt, preget av
+alder og slitasje.
+Delvis funksjonelt, preget av
+alder og slitasje.
+Delvis funksjonelt, preget av
+alder og slitasje.
+
+N-V3
+
+100X100
+
+Ukjent
+
+N-V4
+
+100X100
+
+Ukjent
+
+N-V5
+
+100X100
+
+Ukjent
+
+N-V6
+N-V7
+
+100x100
+100x100
+
+Ukjent
+Ukjent
+
+N-V8
+
+100X100
+
+2016
+
+N-V9
+
+140X130
+
+2016
+
+N-V10 110X115
+
+1977
+
+N-V11 110X115
+
+1977
+
+N.V12
+
+Ukjent
+
+Ukjent
+
+N-V13 170X130
+
+Ukjent
+
+N-V14 170X130
+
+ukjent
+
+N-V15 Ukjent
+
+ukjent
+
+N-V16 145X130
+
+1988
+
+N-V17 130X130
+
+1988
+
+N-V18 Ukjent
+
+Ukjent
+
+N-V19 Ukjent
+
+Ukjent
+
+S-V1
+
+Ukjent
+
+135X125
+
+S-V2
+
+135X125
+
+Ukjent
+
+S-V3
+
+135X125
+
+Ukjent
+
+S-V4
+
+135X125
+
+Ukjent
+
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 1-lags
+glass, sidehengslet.
+2-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet
+1-felts vindu. 2-lags glass,
+topphengslet.
+1-felts vindu. 2-lags glass,
+topphengslet.
+1-fags, koblet vindu.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet
+1-fags, koblet vindu.
+
+TG
+
+3
+3
+3
+3
+3
+3
+1
+
+2
+
+2
+2
+
+2
+2
+3
+3
+
+2
+2
+2
+2
+
+S-V5
+
+135X125
+
+Ukjent
+
+S-V6
+
+135X125
+
+Ukjent
+
+S-V7
+
+140X130
+
+2010
+
+S-V8
+
+210X130
+
+2010
+
+S-V9
+
+210X130
+
+2010
+
+S-V10
+
+140x130
+
+2010
+
+S-V11
+
+210X200
+
+Ukjent
+
+S-V12
+
+135X200
+
+Ukjent
+
+S-V13
+
+135X200
+
+Ukjent
+
+S-V14
+
+210X200
+
+Ukjent
+
+YD-1
+
+100X200
+
+Ukjent
+
+YD-2
+
+130X210
+
+Ukjent
+
+YD-3
+
+130X210
+
+Ukjent
+
+YD-4
+
+100X200
+
+Ukjent
+
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+4-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+4-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+3-fags, koblet vindu. 2-lags
+glass, sidehengslet.
+1-felts, fastkarm vindu. 1-lags
+glass.
+1- felts, fastkarm vindu. 1-lags
+glass
+1-felts, fastkarm vindu. 1-lags
+glass.
+1-felts, fastkarm vindu. 1-lags
+glass.
+
+Delvis funksjonelt, preget av
+alder og slitasje.
+Delvis funksjonelt, preget av
+alder og slitasje.
+Funksjonelt vindu, i god
+stand
+Funksjonelt vindu, i god
+stand.
+
+Nordan ytterdør,
+høyrehengslet.
+Ytterdør med sideliggende
+glassfelt. Venstrehengslet.
+Ytterdør med sideliggende
+glassfelt. høyrehengslet.
+Nordan ytterdør,
+venstrehengslet.
+
+Funksjonell dør i god stand,
+med noe slitasje.
+Funksjonell, men preget av
+alder og slitasje.
+Funksjonell, men preget av
+alder og slitasje.
+
+2
+2
+1
+1
+
+Funksjonelt vindu i god stand
+
+1
+
+Funksjonelt vindu i god stand
+Funksjonelt, preget av alder
+og slitasje.
+Funksjonelt, preget av alder
+og slitasje.
+Funksjonelt, preget av alder
+og slitasje.
+
+1
+
+Funksjonell,preget av alder
+
+2
+
+Funksjonell dør, i god stand.
+
+2
+2
+2
+
+1
+2
+2
+1
+
+
+
+
+Næringsmegling
+
+DNB Næringsmegling AS
+7469 TRONDHEIM
+Org.nr NO 975 265 145 MVA
+www.dnb.no/naringsmegling
+
+Kodeworks Eiendom AS
+Fjordgata 30
+7010 Trondheim
+Att: Lasse Holanger /Eirik R Larsen
+Vår ref.
+EAK/MUD/F30
+
+Sted, Dato
+Trondheim, 17.08.22
+
+VERDIVURDERING
+Næringseiendom Fjordgata 30, gnr. 401, bnr. 149, Trondheim.
+DNB Næringsmegling AS er av Kodeworks Eiendom AS ved Lasse Holanger anmodet om å foreta en
+verdivurdering av eiendommens markedsverdi.
+Erlend Aune Krogstad og Martin Udbye har utførte oppdraget.
+Eiendommen ble befart av megler 16.08.2022 sammen med Lasse Holanger som er daglig leder i
+Kodeworks AS.
+
+DNB Næringsmegling AS er et av Norges største foretak innen næringsmegling.
+Selskapet er representert med kontor følgende steder:
+Oslo, Bergen, Trondheim og Stavanger.
+
+Næringsmegling
+
+Oppdraget og forutsetninger
+Oppdraget går ut på å anslå markedsverdi for eiendommen.
+Pr tidspunkt for utarbeidelse av verdivurderingen Codeworks Eiendom AS eier og hjemmelshaver av
+eiendommen. Codeworks Eiendom AS er 100 % eid av Codeworks AS.
+Vår verdivurdering av eiendoms markedsverdi er basert på en markedsmessig betraktning av
+markedsleienivåer og investors avkastningskrav ved et eventuelt salg i dagens marked. Vi har ikke
+gjort undersøkelser av bygningsmessig og tekniske forhold, - eller av grunnforhold/forurensning.
+Verdivurderingen bygger på gjennomgang av mottatt informasjon og referansegrunnlag av
+transaksjoner og leiekontrakter i markedet, samt kjennskap til investors vurderinger.
+Vi har forutsatt at det ikke er inngått avtaler, verken tinglyste eller ikke tinglyste, i eiendommen som
+kan ha virkning på leieprisen. Opplysninger om leiearealer er basert på arealer opplyst av
+oppdragsgiver og er ikke kontrollert av oss. Vi forutsetter at arealopplysningene er korrekte.
+Vi har ikke hensyntatt leieobjektets leieverdi ved eventuell bruksendring til annet formål. En evt.
+fremtidig utvikling av eiendommen til boligformål eller tilsvarende er ikke direkte hensyntatt i denne
+vurderingen.
+Fakta om eiendommen pr. 17.08.2022
+Eier
+Eiendommenes adresse
+Matrikkel
+Regulering
+Hjemmelshaver til eiendom
+Tomtestørrelse
+Areal bebyggelse (BTA)
+Type eiendom
+Byggeår
+Ledig areal
+Leietaker
+Årlig leie 2022
+Gjenværende leietid
+Eierkostnader estimert
+
+Codeworks Eiendom AS, org.nr 927 347 865
+Fjordgata 30, 7010 Trondheim
+Gnr. 401, bnr. 149, 5001 Trondheim kommune
+Reguleringsplan for Midtbyen, r01118. Lager, engros, forretning,
+kontor. Konvertering til kontor krever dispensasjon fra
+reguleringsformålet.
+Codeworks Eiendom AS
+ca. 593 kvm
+Ca. 2.700 fordelt på 5 etasjer
+Kontor og handel
+Ca. 1857
+3-5 etasje er uinnredet og ikke utleiebar tatt dagens standard i
+betraktning. Totalt utleiebart areal 1.080 kvm fordelt på 1. og 2.
+etasje
+Bykvam AS, Trondheim By Boat, Eyasys AS, Kodeworks AS mfl
+Dagens leie er av eier opplyst til å være ca. NOK 795.600,inklusive felleskostnader
+Alle kontrakter er løpende
+Årlig eierkostnader estimeres til NOK 150,- pr kvm, dvs. NOK
+156.000,-
+
+Næringsmegling
+
+Eiendommen
+Fjordgata 30 er en bryggeeiendom med flott beliggenhet i bryggerekken med fasade mot Fjordgata og
+kanalen. Det er enkel adkomst for besøkende og god profilering på byggets fasader. Eiendommen har
+en strategisk god beliggenhet nært Trondheim sentralstasjon samt all byens øvrige fasiliteter.
+Brygga er fundamentert på søyler. Bærestrukturen i eiendommen er av tømmervegger og tresøyler
+som strekker seg fra grunnen under brygga til takkonstruksjonen i 5 etasje. Tilstandsrapport fra
+05.03.2012 konkluderer med at byggen er i dårlig forfatning og en utbedring vil være arbeids- og
+kostnadskrevende. Det er ikke gjort vesentlige oppgraderinger i nyere tid.
+
+Næringsmegling
+
+Arealoversikt:
+
+Bryggerekka i Fjordgata er i Reguleringsplan for Midtbyen, r0118, stadfestet 28.8.1981, regulert til
+spesialområde bevaring. De gamle bryggene er dessuten regulert til formål: Lager, engros, forretning,
+kontor.
+I henhold til referat av drøftingsmøte den 25. februar 2013 med byantikvaren Gunnar Houen og
+uttalelse fra sjefsarkitekt Kåre Rypdal ved Trondheim Kommune fremgår det positive signaler med
+hensyn til en relativt radikal istandsetting av brygga. Det anbefales ikke gitt dispensasjon for å tillate
+bryggen som helhet revet, men det anbefales om nødvendig å kunne aksepteres rivning og
+gjenoppbygging av den delen av bygning som er i svært dårlig tilstand. Videre blir det uttalt at bryggen
+bør kunne forutsettes gitt dispensasjon for bruk til boligformål i 3., 4. og 5. etasje; mens 1. og 2. etasje
+(og kjeller) – i samsvar med hva gjeldende reguleringsbestemmelser legger til grunn – må forutsettes
+benyttet til næringsformål, allmennyttige formål og lignende.
+
+Næringsmegling
+
+3. etasje.
+
+Leievurdering
+Leieinntektene som er fremlagt av eier er inkludert felleskostnader. Felleskostnader er av megler
+estimert til NOK 150,- pr kvm, som gir en årlig leie eks. felleskostnader på NOK 633.600,-. Dette gir en
+pris pr. kvm utleiebart areal på NOK 587,- kvm. I dagens leiemarked tilsier det en mulig oppside på
+leienivået.
+1. etasje består av kontor og handel. Etasjen har behov for oppgradering/rehabilitering for å oppnå en
+normal markedsleie. En slik tilpasning koster erfaringsmessig ca. NOK 7.500,- pr. kvm, dvs. totalt
+NOK 3.300.000,-. Ved oppgradering av etasjen til normal god kontorstandard vil det være mulig å
+oppnå en leie på ca. NOK 1.750,- pr. kvm, totalt NOK 770.000,- pr. år.
+2. etasje består av «minilager», forsamlingslokaler og noe kontor. Bortsett fra «minilageret» vurderes
+arealene som ukurant leiestandard med noe redusert takhøyde. Det er ikke etablert heis i
+eiendommen. Etasjene forutsettes utleid i vår vurderingen til en pris på NOK 800,- pr. kvm, som anses
+som markedsleie på tilsvarende areal i Midtbyen. Samlet leie for 2. etasje blir NOK 352.000,-.
+I vurderingen har vi justert leien som skal forrentes til estimert årlig markedsleie ved oppgradering av
+1. etasje. Samlet leie vil da utgjøre NOK 1.122.000,- pr. år.
+Vi forutsetter at Leietaker dekker kostnader tilknyttet strøm i egne lokaler, oppvarming og renhold.
+I henhold til Huseiernes Landsforbund, Foreningen Næringseiendom og Forum for
+Næringsmeglere/Norges Eiendomsmeglerforbund standard leieavtale for næringseiendom forutsettes
+det at leien årlig kan reguleres 100 % i forhold til eventuelle endringer i Statistisk Sentralbyrås
+konsumprisindeks (KPI).
+
+Næringsmegling
+
+Verdivurdering av eiendommens markedsverdi.
+Generelt er investors interesse for næringseiendommer sammensatt av flere elementer;
+o
+
+o
+o
+
+o
+
+Leiekontrakter
+o Husleien størrelse samt årlig regulering
+o Leiekontraktens varighet, mulighet for reforhandling / økning i husleie
+o Grensesnitt mellom eiers og leietakers ansvar for vedlikehold
+o Eierkostnader
+Soliditet / omsetning leietaker
+Eiendom
+o Teknisk tilstand eiendom,
+o Restverdi eiendom etter kontraktens utløp
+o Utviklingspotensial på eiendommen / framtidsutsikter
+Rentemarkedet
+
+Eierkostnader/netto leie til forrentning.
+Vi har estimert at eiendommens årlige eierkostnader til forsikring, kommunale eiendomsavgifter,
+vedlikehold, avsetninger og lignende utgjør ca. NOK 162.000 (NOK 150,- pr. kvm).
+Netto årlig leie til forrentning er beregnet til NOK 960.000,-
+
+Forrentningsverdi:
+Ved fastsettelse av eiendommens verdi vil kravet til avkastning stå sentralt. Avkastningskravet vil
+variere avhengig av rentenivå, beliggenhet og kvalitet på eiendommen. Vi opplever interessen for
+tilsvarende eiendommer i Trondheim sentrum som god, spesielt for egenbrukere eller
+eiendomsbesittere som er villige til å ta risikoen tilknyttet rehabilitering av slike eiendommer. For
+denne eiendommen har vi satt avkastningskravet til 6 %.
+Netto leie kapitalisert med en rentesats på 6 % gir følgende forrentningsverdi fratrukket estimerte
+kostnader ved rehabilitering:
+NOK 12.700.000,Konklusjon:
+Vi har i vår vurderingen ikke beregnet mulig utviklingspotensial av 3-5. etasje, da det er tilknyttet stor
+usikkerhet tilknyttet hva som er mulig å gjøre med denne delen av eiendommen, samt hvilke
+kostnader som må påregnes. Det gjøres dog oppmerksomt på at en endret bruk av eiendom, til for
+eksempel boligformål, kan påvirke verdien betydelig.
+I vår konklusjon har vi dog valgt å tillegge eiendommens uavklarte utviklingspotensial og dens
+attraktive beliggenhet som element i en investors vurdering av eiendommens verdi.
+Etter å ha foretatt en totalvurdering har vi etter beste overbevisning og skjønn vurdert eiendommens
+verdi til å være:
+NOK 13.000.000,Vi håper dette kan være Dem til hjelp, og vi står gjerne til tjeneste ved en senere anledning.
+
+Næringsmegling
+
+Med vennlig hilsen
+DNB Næringsmegling AS, Trondheim
+
+Erlend Aune Krogstad
+Rådgiver
+
+Martin Udbye
+Senior næringsmegler
+
+Mobil: 90261484
+E-post: erlend.aune.krogstad@dnb.no
+
+Mobil: 916 61 524
+E-post: martin.udbye@dnb.no
+
+
+
+
+Byggesakskontoret
+Dokumentnr.: BYGG-23/82364-7
+
+SAAHA AS
+Maridalsveien 3, inngang N
+0178 OSLO
+Vår saksbehandler
+Matilde Lader
+
+Saksnummer
+BYGG-23/82364
+oppgis ved alle henvendelser
+
+Kontaktperson
+Mikael Hesslund
+
+Dato
+28.11.2023
+
+Fjordgata 30, rammetillatelse for hovedombygging
+Eiendom
+(gnr/bnr/fnr/snr):
+Bygningsnummer:
+Ansvarlig søker:
+Tiltakshaver:
+
+401/149/0/0
+182133272
+SAAHA AS
+KODEWORKS EIENDOM AS
+
+VEDTAK
+Byggesakskontoret godkjenner rammesøknaden. Dere kan ikke sette i gang byggearbeidene
+før dere har fått igangsettingstillatelse.
+Vi viser til plan- og bygningsloven (pbl) §§ 20-2 og 21-4.
+Alle parter kan klage på vedtaket innen 3 uker. Se orientering nedenfor om rett til å klage på
+forvaltningsvedtak.
+Med hilsen
+TRONDHEIM KOMMUNE
+Elisabeth Høyem
+
+Matilde Lader
+
+bygningssjef
+
+saksbehandler
+
+Elektronisk dokumentert godkjenning uten underskrift
+
+Kopimottaker: KODEWORKS EIENDOM AS
+
+SAKSBEHANDLING MED BEGRUNNELSE FOR VEDTAK
+Postadresse:
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+Postboks 2300 Torgarden
+7004 Trondheim
+
+Besøksadresse:
+Erling Skakkes gate 14
+Trondheim
+
+Telefon:
++47 72542500
+
+Organisasjonsnummer:
+NO 989 091 565
+
+E-postadresse: byggesak.postmottak@trondheim.kommune.no
+Internettadresse: www.trondheim.kommune.no/byggesakskontoret
+
+Side 2
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Generell informasjon
+Vi mottok søknad om rammetillatelse 06.07.2023. Søknaden er komplettert 13.10.2023.
+Tegninger og dokumentasjon mottatt samme datoer ligger til grunn for vår behandling av
+søknaden.
+Søknaden gjelder:
+• hovedombygging/bruksendring av bygning 2250 m2 BRA
+• fasadeendring innenfor hensynssone
+Planstatus
+Eiendommen er omfattet av kommuneplanens arealdel, vedtatt 21.03.2013. Eiendommen er
+vist som nåværende sentrumsformål.
+Eiendommen er også omfattet av reguleringsplan Midtbyplanen (r0118), stadfestet
+28.08.1981. Eiendommen er regulert til lager, engros, forretning og kontor.
+Privatrettslige forhold
+Byggesakskontoret behandler byggetiltakene i henhold til plan- og bygningslovgivningen. Vi
+tar ikke stilling til privatrettslige forhold, og gir ikke privatrettslige rettigheter. Dersom
+byggeprosjektet krever det må du selv ordne med nødvendige privatrettslige rettigheter. I
+motsatt fall kan byggeprosjektet ikke gjennomføres.
+Vi anbefaler at etablering av ev. infrastruktur som VA-anlegg, søppelsug, fjernvarme,
+strømnett, o.l. avklares med aktuell myndighet/leverandør tidligst mulig i prosjektet for å
+unngå forsinkelser.
+Naboer
+Naboer og gjenboere er varslet. I følge mottatt dokumentasjon har det ikke kommet
+merknader til søknaden.
+Berørte myndigheter
+Arbeidstilsynet
+Tiltaket forutsetter Arbeidstilsynets samtykke. De har gitt ny frist for å sende opplysninger til
+29.12.2023.
+Byggesakskontoret forutsetter at Arbeidstilsynet samtykker til tiltaket og at dokumentasjon
+på dette blir innsendt til søknad om igangsettingstillatelse.
+Kulturminnemyndighet: Riksantikvaren
+Det er automatisk fredet bygrunn og krav til dispensasjon fra kulturminneloven.
+Riksantikvaren opplyser i e-post fra 14.06.2023 om at det er vanlig at søknad om dispensasjon kan
+behandles etter at rammetillatelse er gitt, men dispensasjonen må være gitt før det gis
+igangssettingstillatelse. De vurderer samtidig at det er positivt at vernemyndighetene har blitt
+orientert om saken før det søkes om rammetillatelse.
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 3
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Kulturminnekart, Trondheim kommune
+
+Byggesakskontoret vurderer, i likhet med Riksantikvaren, at dispensasjonen fra
+kulturminneloven kan vente til søknad om igangsettingstillatelse.
+Trondheim Havn
+Tiltaket omfatter etablering av flytebrygge i Nidelva (Kanalen). Det har i den forbindelse blitt
+innhentet en uttalelse fra Trondheim Havn, som forvalter sjøområdet på vegne av kommunen:
+«I våre vurderinger legger vi spesielt vekt på formålet i havne- og farvannsloven:
+Loven skal fremme sjøtransport som transportform og legge til rette for effektiv,
+sikker og miljøvennlig drift av havn og bruk av farvann, samtidig som det skal tas
+hensyn til et konkurransedyktig næringsliv. Loven skal ivareta nasjonale forsvarsog beredskapsinteresser.
+Trondheim Havn har ingen innsigelser på plassering av flytebrygge tilknyttet Fjordgata
+30, som vist på mottatte tegninger.
+Før det kan gis igangsettingstillatelse til etablering av flytebrygge må det foreligge en
+godkjent søknad etter havne- og sjøfartsloven. Denne søknaden sendes til Trondheim
+Havn, og skal blant annet inneholde tegninger av flytebrygge, beskrivelse av hvordan
+skal brukes, samt beskrivelse av festemetoder.»
+Byggesakskontoret vurderer at flytebrygge kan godkjennes. Det forutsettes at dokumentasjon
+på godkjent søknad etter havne- og sjøfartsloven sendes inn ved søknad om
+igangsettingstillatelse.
+Byantikvaren
+Bryggen har antikvarisk verdi klasse C og forslag til ny klasse B. Eiendommen ligger innenfor
+bevaringsområde i reguleringsplanen og hensynssone 11.1 Midtbyhalvøya i kommuneplanens
+arealdel. Se Trondheim kommunes kulturminnekart under avsnittet om
+Kulturminnemyndighet: Riksantikvaren.
+Det har vært en dialog med Byantikvaren, der søker har justert prosjektet etter innspill.
+Utdrag fra Byantikvarens endelige uttalelse:
+«Dette er slik vi ser det et prosjekt som har forstått bryggas egenart og basert på dette
+utviklet et prosjekt som bygger videre på bygningens eksisterende kvaliteter.
+(…)
+Solceller (Våre tidligere innspill til dette)
+Dokumentnr.: BYGG-23/82364-7
+
+Side 4
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+På historiske bygninger og bygningsmiljø som dette er vi primært negative til etablering
+av solceller på taket, da dette er bygningens femte fasade og en viktig del av
+bygningsmiljøet. På denne bygningen med et slakt tak som trolig har vært tekket med
+papp siden etablering kan man kanskje gjøre en annen vurdering dersom man kan vise til
+en helintegrert løsning med matte solcellepaneler i en båndtekking. Før vi kan gi vår
+endelige uttalelse i forhold til dette må vi se det ytterligere illustrert og med
+visualiseringer som viser hvordan dette faktisk vil se ut.
+I andre bryggeprosjekter i Kjøpmannsgata ser vi at flere undersøker muligheten for å
+bruke elva som energikilde/varmekilde. Vier usikre på om dette også vil kunne være en
+mulighet i kanalen.
+Vi forutsetter at illustrasjonen under som viser taket, viser en helintegrert løsning med
+matte solcellepaneler i en båndtekking. Det er viktig at feltene med solceller er i
+samme plan som øvrig tekking. Før IG må vi se en produktbeskrivelse som viser at
+dette er løsbart. Vi vil gi en endelig uttalelse til dette før IG.»
+Det vises for øvrig til Byantikvarens uttalelse i sin helhet.
+Byggesakskontoret godkjenner fasadene som er utarbeidet etter innspill fra Byantikvaren, se
+tegninger under «Byggeprosjektet». Det forutsettes at det innhentes en endelig uttalelse fra
+Byantikvaren, som skal sendes inn ved søknad om igangsettingstillatelse.
+Byggeprosjektet
+Byggeprosjektet omfatter hovedombygging av brygge i Fjordgata. Tidligere bruk i 1. og 2.
+etasje i brygga har blant annet vært kontor, butikk og scene. Øvrige etasjer har vært godkjent
+som lager. Vi viser til arkivtegninger for mer informasjon om tidligere bruk.
+Hovedombyggingen fører til følgende bruksareal for hver etasje:
+Kjeller: omtrent 340 m2 BRA
+1. etasje: omtrent 500 m2 BRA
+2. etasje: omtrent 450 m2 BRA
+3. etasje: omtrent 140 m2 BRA
+4. etasje: omtrent 470 m2 BRA
+5. etasje: omtrent 350 m2 BRA
+Totalt tilsvarer dette omtrent 2250 m2 BRA.
+Det skal etableres café med tilhørende kreativt område/utstilling og utgang til flytebrygge i 1.
+etasje. Øvrige etasjer skal bestå av kontorer og funksjoner i tilknytning til kontorene.
+Gulvet i deler av bygningen skal senkes for å oppnå tilstrekkelig takhøyde i kjelleren. Kjelleren
+skal bestå av verksted, vrimleareal, møterom, toaletter og avfallsrom. Det etableres 36
+sykkelparkeringer og garderober i kjelleren. Det etableres i tillegg 12 sykkelparkeringer i 1.
+etasje som er enkle å nå gjennom portrommet.
+2. etasje, 4. etasje og 5. etasje skal bestå av kontorer, multirom, møterom, stillerom, te-kjøkken
+og toaletter.
+3. etasje har kun bruksareal langsmed langsidene av bygget, med lager og tekniske rom.
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 5
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Det etableres en heis på 4,3 m2 i bygget.
+Det skal etableres et overlys og atrium for å sørge for ytterligere lysinnslipp i bygget.
+Fasadene skal renoveres og isoleres. I de eksisterende lasteportene blir det etablert
+lysinnslipp og vinduer. Fasadene utformes iht. Byantikvarens tilbakemeldinger, se
+fasadetegninger.
+Flytebrygge
+Det planlegges etablering av flytebrygge i kanalen. Denne har adkomst fra 1. etasje. Vi
+forutsetter at flytebrygge med tilhørende rampe prosjekteres iht. TEK17 kapittel 12.
+Flytebrygga forutsetter godkjent søknad fra Trondheim havn etter havne- og sjøfartsloven.
+Solceller på taket
+Det omsøkes etablert solceller på taket. Det forutsettes dialog med Byantikvaren ved
+utforming av disse.
+
+Situasjonsplan
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 6
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Plantegning, kjeller
+
+Plantegning, 1. etasje
+
+Dokumentnr.: BYGG-23/82364-7
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Side 7
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Plantegning, 2. etasje
+
+Plantegning, 3. etasje
+
+Dokumentnr.: BYGG-23/82364-7
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Side 8
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Plantegning, 4. etasje
+
+Plantegning, 5. etasje
+
+Dokumentnr.: BYGG-23/82364-7
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Side 9
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Fasade øst
+
+Fasade vest
+
+Dokumentnr.: BYGG-23/82364-7
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Side 10
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Fasade sør
+
+Fasade nord
+
+Angående eventuelle unntak fra tekniske krav
+Tiltaket defineres som en hovedombygging, noe som medfører at alle krav i TEK17 blir
+gjeldende for hele bygget, jf. pbl. § 31-2. Søker opplyser om at deres intensjon er å oppfylle de
+tekniske kravene fullt ut. Ved eventuelle unntak fra krav må dette omsøkes med begrunnelse
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 11
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+iht. pbl. § 31-4. Byggesakskontoret vil da gjøre en vurdering på om det er grunnlag for å gi
+unntak.
+Vurdering/konklusjon
+På bakgrunn av vurderingene over godkjenner Byggesakskontoret rammesøknaden.
+Dere kan ikke sette i gang byggearbeidene før dere har fått igangsettingstillatelse.
+Plassering og høydefastsettelse
+Ved endringer i terrengforhold som kan påvirke byggverkets høyde, må dere gi beskjed til
+Byggesakskontoret så snart som mulig.
+I dette vedtaket er det benyttet NN2000 som høydesystem.
+Ansvarsrett
+Byggesakskontoret legger innsendt gjennomføringsplan, erklæringer om ansvarsrett og
+forslag til tiltaksklasse til grunn for godkjenningen.
+Krav til dokumentasjon
+Vi gjør oppmerksom på følgende krav til dokumentasjon, uten at dette kan anses som en
+fullstendig oppramsing:
+•
+•
+•
+•
+•
+•
+•
+
+Uavhengig kontroll av brannkonseptet
+Tiltaksplan for håndtering av forurenset grunn
+Samtykke fra Arbeidstilsynet
+Ny uttalelse fra Byantikvaren angående endelig løsning for etablering av solceller
+Dispensasjon fra kulturminneloven
+Godkjent søknad for flytebrygge etter havne- og sjøfartsloven
+Dokumentasjon på fjernvarmetilknytning
+
+GEBYRER OG VIDERE OPPFØLGING
+Gebyrer og avgifter
+Vi ber om at dere betaler gebyrer og avgifter (jf. fakturaer) innen fristen. Ved en eventuell
+klage må også gebyrer og avgifter betales.
+Gebyrregulativet finnes på kommunens nettside: www.trondheim.kommune.no/prisliste-forbygging.
+Fjernvarme
+Eiendommen ligger innenfor konsesjonsområde for fjernvarme. Etter kommuneplanens
+arealdel § 24.1 skal bygningen tilknyttes fjernvarmeanlegg.
+Bygg- og anleggsavfall
+Det må sendes inn sluttrapport og kvitteringer som dokumenterer at avfallet er riktig
+disponert før vi kan gi ferdigattest, jf. SAK10 § 8-1 og TEK17 § 9-9.
+Ildsted
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 12
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Dersom det skal installeres nytt ildsted, må dette meldes til Trøndelag brann- og
+redningstjeneste.
+Tilsyn
+Byggesakskontoret fører tilsyn med et utvalg av alle byggesaker. Dersom vi velger å føre tilsyn
+med dette tiltaket må dere være forberedt på å dokumentere at tiltaket prosjekteres, utføres
+og kontrolleres i tråd med TEK17, i samsvar med byggetillatelsen og med gjeldende arealplan.
+Dokumentasjon skal foreligge i tiltaket og være tilgjengelig for et eventuelt tilsyn, jf. SAK10 §
+5-5 og TEK17 kap. 2 og 3.
+Graving i veg med tilhørende side- og grøntarealer
+Hvis de planlagte byggearbeidene medfører graving i eller ved veg, så må dette på forhånd
+godkjennes av vegeier/grunneier. For kommunal veg så må tiltakshaver/byggherre søke til
+Trondheim bydrift via KGrav tidlig i prosessen. Mer informasjon på:
+www.trondheim.kommune.no/graving
+Vilkår for tillatelsen
+Dersom arbeidene ikke er satt i gang senest 3 år etter at tillatelsen er gitt, faller tillatelsen
+bort. Det samme gjelder hvis byggeprosjektet innstilles i mer enn 2 år. Dette gjelder også for
+dispensasjon. Fristene kan ikke forlenges, jf. plan- og bygningsloven § 21-9.
+En endringstillatelse vil i utgangspunktet ikke forlenge fristen. Medfører derimot en
+endringssøknad at tiltaket er av en slik karakter at det må opprettes en helt ny sak med full
+søknadsbehandling, vil en ny tillatelse være gyldig i 3 år.
+Ferdigattest/ midlertidig brukstillatelse
+Du kan ikke ta i bruk tiltaket før det foreligger ferdigattest/midlertidig brukstillatelse, jf. planog bygningsloven § 21-10.
+Du kan søke om ferdigattest eller midlertidig brukstillatelse på:
+www.trondheim.kommune.no/ferdigattest-og-brukstillatelse.
+ORIENTERING OM RETT TIL Å KLAGE PÅ FORVALTNINGSVEDTAK
+Klagerett
+Dere har rett til å klage på vedtaket.
+Hvem kan dere klage til?
+Klagen sendes Byggesakskontoret. Hvis Byggesakskontoret ikke tar klagen til følge, vil den bli
+oversendt til bygningsrådet for behandling. Dersom bygningsrådet ikke tar klagen til følge vil
+den bli oversendt til Statsforvalteren i Trøndelag for endelig avgjørelse.
+Klagefrist
+Klagefristen er 3 uker fra den dag dere mottok vedtaket. Det er tilstrekkelig at klagen er postlagt
+før fristen går ut. Dersom dere klager så sent at det kan være uklart for oss om dere har klaget i
+rett tid, bør dere oppgi datoen for når dere mottok dette brevet. Dersom dere klager for sent, kan
+vi se bort fra klagen. Dere kan søke om å få forlenget fristen. I så fall må dere oppgi årsaken til at
+dere ønsker dette.
+
+Dokumentnr.: BYGG-23/82364-7
+
+Side 13
+TRONDHEIM KOMMUNE
+Byggesakskontoret
+
+Saksnummer
+BYGG-23/82364
+
+Dato
+28.11.2023
+
+Rett til å kreve begrunnelse
+Dersom dere mener Byggesakskontoret ikke har begrunnet vedtaket, kan dere kreve en slik
+begrunnelse før fristen går ut. Ny klagefrist blir da regnet fra den dagen dere mottar
+begrunnelsen.
+Innholdet i klagen
+Dere må presisere:
+- hvilket vedtak dere klager over
+- årsaken til at dere klager
+- den eller de endringer som dere ønsker
+- eventuelle andre opplysninger som kan ha betydning for vurderingen av klagen.
+Klagen må undertegnes.
+Utsetting av gjennomføringen av vedtaket
+Selv om dere har klagerett, kan vedtaket vanligvis gjennomføres straks. Dere kan imidlertid søke
+om å få utsatt gjennomføringen av vedtaket til klagefristen er ute eller til klagen er avgjort, jf.
+forvaltningsloven § 42.
+Rett til å se saksdokumentene og til å kreve veiledning
+Med visse begrensninger har dere rett til å se dokumentene i saken. Reglene om dette finnes i
+forvaltningslovens §§ 18 og 19. Dere må i tilfelle ta kontakt med Byggesakskontoret.
+Byggesakskontoret kan gi nærmere veiledning om adgangen til å klage, om framgangsmåten
+og om reglene for saksbehandling.
+Kostnader ved klagesaken
+Det er adgang til å kreve dekning for vesentlige kostnader i forbindelse med klagesaken.
+Forutsetningen er da vanligvis at vedtaket blir endret til gunst for en part. Reglene om
+erstatning for sakskostnader finnes i forvaltningsloven § 36. Klageinstansen kan orientere
+dere om retten til å kreve slik dekning.
+
+Dokumentnr.: BYGG-23/82364-7
+
+
+
+
