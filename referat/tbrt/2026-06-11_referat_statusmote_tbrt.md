@@ -67,11 +67,11 @@ Følgende leietakere og brukere er ute eller varslet ut:
 - **Spillklubb (2. etasje):** Flytter ut innen 1. aug 2026.
 - **Kontorleietaker (2. etasje mot FG32):** Flytter ut innen 1. aug 2026.
 
-Bygget vil etter 1. juli 2026 ikke lenger ha ordinær drift.
+Bygget vil etter 1. juli 2026 ikke lenger ha ordinær drift (kun mindre aktivitet i de som flytter 1. aug).
 
 ### Rammesøknad
 
-Rammesøknad for ombygging til minilager ble levert 12. mai 2026. TBRT hadde ikke mottatt kopi. Eirik bekreftet å sende kopi umiddelbart etter møtet.
+Rammesøknad for ombygging til minilager ble levert 12. mai 2026. TBRT hadde ikke mottatt kopi. Eirik bekreftet å sende kopi etter møtet.
 
 Søknaden er betydelig enklere enn den tidligere kontor-søknaden og gjenbruker mye av eksisterende dokumentasjon. God dialog med Plan og Bygg – ingen forventede overraskelser i behandlingen.
 
@@ -81,17 +81,19 @@ IG planlegges sendt inn umiddelbart etter at rammesøknad er behandlet. Behandli
 
 ### Byggetid
 
-Estimert byggetid: 12–18 måneder. Usikkerhet knyttet til kjeller (avhenger av behov for spunting). RG Søpstad bistår med betongentreprenør-vurdering.
+Estimert byggetid: 12–18 måneder. Usikkerhet knyttet til kjeller (avhenger av behov for spunting). Søbstad bistår med betongentreprenør-vurdering.
 
 ### Selskapsstruktur
 
-KodeWorks Eiendom AS fisjoneres i to selskaper: ett for Grønnegata 10 og ett for Fjordgata 30. Kristian Brandsegg og Ole Morten Lagmannsveen går inn på eiersiden i Fjordgata 30-selskapet. TBRT ba om å bli informert om hvem som er tiltakshaver, da dette har betydning for byggesaken.
+KodeWorks Eiendom AS fisjoneres med Grønnegata 10 og Fjordgata 30 i hvert sitt selskap. Kristian Brandsegg og Ole Morten Lagmannsveen går inn på eiersiden i Fjordgata 30-selskapet. TBRT ba om å bli informert om hvem som er tiltakshaver, da dette har betydning for byggesaken.
 
 ### Støtte og finansiering
 
-KodeWorks har mottatt:
+KodeWorks har nylig mottatt:
 - 500 000 kr fra Enova (energikartlegging)
 - 400 000 kr fra Enova (ombrukskartlegging)
+- Tidligere støtte på 1 350 000 fra Kulturminnefondet, Byantikvaren og Stiftelsen UNI.
+Merk at ingen av disse er utbetalt noe fra enda.
 
 Planlagte søknader:
 - Skattefunn (innovasjon/forskning i rehabilitering av verneverdig bygg)
@@ -139,5 +141,5 @@ TBRT ba om følgende dokumentasjon innen neste uke (ca. 18. juni 2026):
 - KodeWorks sender dokumentasjon ovenfor innen ca. 18. juni 2026
 - TBRT holder tilbake nye innkrevinger mens dokumentasjonen vurderes
 - TBRT vil vurdere å sette løpende innkreving i bero
-- KodeWorks vurderer å klage på 3. gangs innkreving for å kjøpe tid
+- KodeWorks vurderer å klage på tvangsmulkt innkreving.
 - Partene er enige om å jobbe konstruktivt fremover og at god dialog er viktig for å komme i mål med brannsikkerheten

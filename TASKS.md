@@ -7,101 +7,6 @@
 
 Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene til å referere til oppgaver i kommunikasjon, commits og dokumentasjon. Løsninger dokumenteres under oppgaven i dette dokumentet.
 
----
-
-## Selskapsstruktur og MVA
-
-### T32 `[ ]` Fisjon av KodeWorks Eiendom AS
-**Ansvarlig:** Eirik / regnskapsfører / advokat
-
-KodeWorks Eiendom AS eier i dag både Fjordgata 30 og Grønnegata 10. Selskapet skal fisjoneres slik at:
-- **Fjordgata 30 AS** (nytt orgnummer) overtar eierskapet til Fjordgata 30 og blir juridisk byggherre for ombyggingen
-- **KodeWorks Eiendom AS** beholder dagens orgnummer og eier Grønnegata 10
-- Grønnegata 10 kan skilles ut som et tredje selskap ved behov
-
-Alle pågående støtteordninger (KMF, Byantikvaren, Enova, UNI) skal overføres til Fjordgata 30 AS. Banklån søkes i Fjordgata 30 AS. Fisjonen bør gjennomføres før IG-søknad leveres (T12) slik at riktig juridisk enhet er byggherre fra starten.
-
----
-
-### T33 `[ ]` Utred og dokumenter MVA-refusjon for minilager
-**Filnavn:** `mva_minilager_redegjoerelse.md`
-
-Under bygging av Fjordgata 30 til minilager vil det påløpe MVA på bygge- og prosjekteringskostnader. MVA kan kreves refundert dersom bygget ved ferdigstillelse leies ut til en MVA-pliktig leietaker. Dette er ikke automatisk – utleie av fast eiendom er i utgangspunktet unntatt MVA, men det finnes unntak for lagring og visse tilknyttede tjenester.
-
-**Dokumentet skal:**
-1. Redegjøre for regelverket: når er utleie av lagerplass MVA-pliktig (mval. § 3-11 og unntakene)
-2. Identifisere hvilke leietakermodeller som kvalifiserer – f.eks. aktører som tilbyr logistikktjenester med henting hos kunder, app-baserte lagertjenester (fulfilment), kurerbedrifter el.l.
-3. Sannsynliggjøre at Fjordgata 30 AS vil leie ut til slike MVA-pliktige aktører – konkrete eksempler og forretningsmodell
-4. Beskrive frivillig registrering i MVA-registeret for utleier (Fjordgata 30 AS) som forutsetning for fradragsrett
-5. Beregne estimert MVA-beløp som kan refunderes basert på prosjektbudsjett
-
-**Hent bakgrunnsmateriale fra:** Skatteetaten, Merverdiavgiftsloven, eventuelt skatterådgiver/advokat med MVA-kompetanse.
-
----
-
-## Tilskuddsforvaltning
-
-### T19 `[ ]` Søk om utsettelse av prosjektperiode – Kulturminnefondet
-**Mottaker:** Kulturminnefondet
-
-Prosjektperioden i KMF-tilskuddet løper ut, men prosjektet er ikke ferdigstilt. Det er nødvendig å sende en formell søknad om forlengelse. Brevet skal:
-- Forklare årsaken til forsinkelsen (komplekst bygg, prosjektet endret fra kontorbygg til minilager, tid brukt på planlegging og myndighetsdialog)
-- Dokumentere at prosjektet nå er konkret: rammesøknad levert 12. mai 2026
-- Angi ny forventet ferdigstillelsesdato
-- Relatert: T20 (støtteintensitet) bør avklares samtidig
-
----
-
-### T20 `[ ]` Søk om endring av støtteintensitet – Kulturminnefondet
-**Mottaker:** Kulturminnefondet
-
-Det opprinnelige tilskuddet ble gitt til et kontorbygg-prosjekt. Prosjektet er nå omlagt til minilager. Dette påvirker prosjektets kostnadsbasis og formål. KMF må informeres og eventuelt godkjenne endringen. Brevet skal:
-- Informere om omleggingen fra kontorbygg til minilager
-- Argumentere for at prosjektets antikvariske kjerneformål (bevaring av bærekonstruksjon, trekonstruksjoner, fasade) er uendret
-- Be om bekreftelse på at tilskuddet fortsatt gjelder, og eventuelt be om justering av støtteintensitet
-- Løses helst i samme brev/prosess som T19
-
----
-
-### T21 `[ ]` Søk om utsettelse av prosjektperiode – Byantikvaren
-**Mottaker:** Byantikvaren
-
-Samme situasjon som KMF (T19). Prosjektperioden for Byantikvaren-tilskuddet (500 000 kr) må forlenges. Se T19 for kontekst om årsaker. I tillegg bør brevet adressere steinmur-spørsmålet fra rammesøknaden slik at Byantikvaren er oppdatert på prosjektets nåværende form.
-
----
-
-### T22 `[ ]` Søk om utsettelse – Enova Ombrukskartlegging
-**Mottaker:** Enova
-
-Ombrukskartleggingen ble innvilget støtte og skulle gjennomføres av HRP. Per Statusmøte 03 (mars 2026) var HRP klar til å starte i uke 12. Status på gjennomføring er ukjent – avklar med HRP om kartleggingen er ferdig, delvis gjennomført, eller ikke startet. Dersom prosjektperioden utløper før levering, send søknad om utsettelse til Enova.
-
----
-
-### T23 `[ ]` Søk om utsettelse – Enova Energikartlegging
-**Mottaker:** Enova
-
-Energikartleggingen gjennomføres av HRP (RiEn-avdeling). Per Statusmøte 04/05 var RiEn i gang, med planlagt statusoppsummering 17. april 2026. Avklar med HRP om rapport er levert. Dersom prosjektperioden utløper før rapport er klar, send søknad om utsettelse til Enova.
-
----
-
-### T24 `[ ]` Lag oversikt over alle støtteordninger
-**Format:** Dokument/tabell, egnet for intern bruk og som vedlegg til bank (se T09)
-
-Lag en strukturert oversikt over samtlige innvilgede tilskudd med følgende kolonner:
-- Støttegiver
-- Prosjektnavn (slik det er registrert hos støttegiver)
-- Innvilget beløp
-- Støtteintensitet (% av kostnad)
-- Prosjektperiode (fra–til)
-- Kort beskrivelse av hva vi skal gjøre i prosjektet
-- Status (aktiv / søkt utsettelse / utbetalt)
-
-Bruk `../stotte`-prosjektet som kilde for tall. Lagres som `stoetteoversikt.md` i prosjektmappen.
-
----
-
-## Rapporter og utbetalingsanmodninger
-
 ### T01 `[x]` Arbeidsrapport
 **Mottaker:** Kulturminnefondet, Byantikvaren, Brannvesen
 `fg30_arbeidsrapport.md` / `.docx` ferdig.
@@ -188,8 +93,6 @@ Trenger en samlet oversikt over alle innvilgede tilskudd og finansieringskilder 
 
 ---
 
-## Søknader
-
 ### T11 `[x]` Rammesøknad minilager
 Levert 12. mai 2026.
 
@@ -199,8 +102,6 @@ Levert 12. mai 2026.
 Planlegges parallelt med byggesaksbehandling av rammesøknad. Inkluderer: detaljert brannplan, fundamentering, ventilasjon, fasader, dekker, etasjeoppretting. Estimert leveranse ca. 3,5 mnd etter rammesøknad.
 
 ---
-
-## TBRT (Trondheim Brannvesen)
 
 ### T13 `[x]` Forberedelsesdokument til møte med TBRT
 Lag dokument som forbereder møtet: agenda, argumenter mot dagbøter, framdriftsbevis. Se T07 for kontekst om dagbøter og vår posisjon.
@@ -218,6 +119,208 @@ SPEAKER_04 = Morten Knutsen, TBRT
 Speaker_01 = anna-karin hermansen, TBRT
 Speaker_02 = Tove-Kristin Reitan, TBRT
 Speaker_03 = Ole Morten Lagmannssveen, HRP
+
+---
+
+### T15 `[ ]` Dokumentere arbeidsøkter med studenter
+Lag rapport/logg over hva studentene har gjort og lært.
+
+---
+
+### T16 `[ ]` Legge inn bilder i rapporter
+Bilder skal inn i arbeidsrapport og evt. framdriftsrapporter.
+
+---
+
+### T17 `[x]` Splitt bakgrunn/merged_files til enkeltfiler
+
+De to filene `merged_files_1.txt` (~10 900 linjer) og `merged_files_2.txt` (~4 500 linjer) ble opprinnelig laget som samlet kontekst til en Custom GPT. De inneholder flere separate dokumenter som bør splittes ut:
+
+**Løsning (2026-06-17):** Splittet i 12 filer i `bakgrunn/`:
+- `kmf_tilsvar_soeknadssvar.txt` – Tilsvar til Kulturminnefondet (feb 2024)
+- `kmf_soeknad_sikringstiltak.txt` – KMF søknad (sikringstiltak)
+- `uni_soeknad.txt` – Stiftelsen UNI søknad
+- `tradisjonsbygg_referanseliste.txt` – Tradisjonsbygg AS prosjektreferanser
+- `kodeworks_selskapsbeskrivelse.txt` – Om Oss, personalhåndbok, prosjektoversikt
+- `fondsoknader.txt` – Adolf Øiens Fond, Kavlifondet, DOGA DIP
+- `rammesoknad_kontor_2023_beskrivelse.txt` – Nabovarsel + søknadsbeskrivelse (kontorbygg, 2023)
+- `rammesoknad_kontor_2023_vedlegg_F.txt` – F-02, F-04–F-09 (flom, VA, el, ventilasjon)
+- `rammesoknad_kontor_2023_brannkonsept.txt` – Brannkonsept til rammesøknad (2023)
+- `rammesoknad_kontor_2023_vedlegg_I.txt` – I-01–I-05 (Riksantikvaren, slokkevann, Byantikvaren m.fl.)
+- `naeringsmegling_markedsmateriell.txt` – Kodeverket markedsmateriell + DNB salgsprospekt
+- `tilstandsanalyse_nivaa1.txt` – Tilstandsanalyse nivå 1 (HRP/Ole Morten)
+- `dnb_verdivurdering_2022.txt` – DNB Næringsmegling verdivurdering (aug 2022)
+
+`merged_files_1.txt` og `merged_files_2.txt` er slettet. Oppdatert 2026-06-17: `kmf_uni_soknader.txt` splittet videre til `kmf_soeknad_sikringstiltak.txt` og `uni_soeknad.txt`.
+
+---
+
+### T18 `[x]` Lag kronologisk prosjekthistorikk
+**Filnavn:** `historikk.md`
+
+**Løsning (2026-06-18):** `historikk.md` opprettet i prosjektets rotmappe. Dekker bygningens tidlige historie fra 1841, alle daterte prosjekthendelser fra 2022 til 11. juni 2026, og en eksplisitt seksjon for udokumenterte hendelser med manglende dato (kjøp av bygget, KMF/UNI/Enova-vedtaksdatoer, m.fl.). Kilder: alle filer i `bakgrunn/`, alle statusmøtereferater (01–05 + TBRT), arbeidslogger (`arbeid_kristian.txt`, `arbeid_ole_morten.txt`), DNB-verdivurdering 2022, rammetillatelse 28.11.2023, rapport til TBRT 2025.
+
+Lag en kronologisk fremstilling av Fjordgata 30-prosjektet fra start til i dag, basert på bakgrunnsmaterialet i `bakgrunn/` og referatene i `referat/`. Dokumentet skal gi en ny leser (bank, støttegiver, advokat) rask oversikt over hva som har skjedd, når, og hvorfor.
+
+**Struktur:** Én seksjon per år (eller naturlig fase), med daterte hendelser som bullets. Dekk minst:
+- Kjøp/overtakelse av bygget og tidligste planer
+- Søknader om tilskudd – når søkt, når innvilget, beløp og formål (KMF, Byantikvaren, Enova, UNI)
+- Arbeidsøkter – når Kristian og/eller Ole Morten har utført fysisk arbeid på bygget (se `arbeid_kristian.txt` og `arbeid_ole_morten.txt`)
+- Rammesøknad for kontorbygg – når levert, hva den inneholdt, hvorfor den ble skrinlagt
+- Omlegging fra kontorbygg til minilager – beslutning og begrunnelse
+- TBRT-tilsyn januar 2024, pålegg november 2024, klage mai 2025, klagebehandling september–oktober 2025, innkrevinger mars–juni 2026
+- Rammesøknad for minilager levert 12. mai 2026
+- Statusmøte TBRT 11. juni 2026
+
+**Udokumenterte hendelser:** Hendelser som nevnes i dokumenter uten at dato eller kilde er kjent, skal likevel tas med i historikken – men merkes eksplisitt med f.eks. «*(dato ukjent – mangler dokumentasjon)*» eller «*(omtalt i [kilde], ingen dato)*». Eksempler på slike hendelser: første kontakt med støttegivere, beslutningen om å kjøpe bygget, tidlige møter med Byantikvaren eller Riksantikvaren, tidligere TBRT-inspeksjoner før 2024. Målet er at historikk.md synliggjør hull i dokumentasjonen slik at de kan tettes.
+
+**Kilder:** `bakgrunn/` (alle filer inkl. `arbeid_kristian.txt`, `arbeid_ole_morten.txt`), `referat/` (alle møtereferater), `CLAUDE.md` for interessentoversikt.
+
+---
+
+### T19 `[ ]` Søk om utsettelse av prosjektperiode – Kulturminnefondet
+**Mottaker:** Kulturminnefondet
+
+Prosjektperioden i KMF-tilskuddet løper ut, men prosjektet er ikke ferdigstilt. Det er nødvendig å sende en formell søknad om forlengelse. Brevet skal:
+- Forklare årsaken til forsinkelsen (komplekst bygg, prosjektet endret fra kontorbygg til minilager, tid brukt på planlegging og myndighetsdialog)
+- Dokumentere at prosjektet nå er konkret: rammesøknad levert 12. mai 2026
+- Angi ny forventet ferdigstillelsesdato
+- Relatert: T20 (støtteintensitet) bør avklares samtidig
+
+---
+
+### T20 `[ ]` Søk om endring av støtteintensitet – Kulturminnefondet
+**Mottaker:** Kulturminnefondet
+
+Det opprinnelige tilskuddet ble gitt til et kontorbygg-prosjekt. Prosjektet er nå omlagt til minilager. Dette påvirker prosjektets kostnadsbasis og formål. KMF må informeres og eventuelt godkjenne endringen. Brevet skal:
+- Informere om omleggingen fra kontorbygg til minilager
+- Argumentere for at prosjektets antikvariske kjerneformål (bevaring av bærekonstruksjon, trekonstruksjoner, fasade) er uendret
+- Be om bekreftelse på at tilskuddet fortsatt gjelder, og eventuelt be om justering av støtteintensitet
+- Løses helst i samme brev/prosess som T19
+
+---
+
+### T21 `[ ]` Søk om utsettelse av prosjektperiode – Byantikvaren
+**Mottaker:** Byantikvaren
+
+Samme situasjon som KMF (T19). Prosjektperioden for Byantikvaren-tilskuddet (500 000 kr) må forlenges. Se T19 for kontekst om årsaker. I tillegg bør brevet adressere steinmur-spørsmålet fra rammesøknaden slik at Byantikvaren er oppdatert på prosjektets nåværende form.
+
+---
+
+### T22 `[ ]` Søk om utsettelse – Enova Ombrukskartlegging
+**Mottaker:** Enova
+
+Ombrukskartleggingen ble innvilget støtte og skulle gjennomføres av HRP. Per Statusmøte 03 (mars 2026) var HRP klar til å starte i uke 12. Status på gjennomføring er ukjent – avklar med HRP om kartleggingen er ferdig, delvis gjennomført, eller ikke startet. Dersom prosjektperioden utløper før levering, send søknad om utsettelse til Enova.
+
+---
+
+### T23 `[ ]` Søk om utsettelse – Enova Energikartlegging
+**Mottaker:** Enova
+
+Energikartleggingen gjennomføres av HRP (RiEn-avdeling). Per Statusmøte 04/05 var RiEn i gang, med planlagt statusoppsummering 17. april 2026. Avklar med HRP om rapport er levert. Dersom prosjektperioden utløper før rapport er klar, send søknad om utsettelse til Enova.
+
+---
+
+### T24 `[ ]` Lag oversikt over alle støtteordninger
+**Format:** Dokument/tabell, egnet for intern bruk og som vedlegg til bank (se T09)
+
+Lag en strukturert oversikt over samtlige innvilgede tilskudd med følgende kolonner:
+- Støttegiver
+- Prosjektnavn (slik det er registrert hos støttegiver)
+- Innvilget beløp
+- Støtteintensitet (% av kostnad)
+- Prosjektperiode (fra–til)
+- Kort beskrivelse av hva vi skal gjøre i prosjektet
+- Status (aktiv / søkt utsettelse / utbetalt)
+
+Bruk `../stotte`-prosjektet som kilde for tall. Lagres som `stoetteoversikt.md` i prosjektmappen.
+
+---
+
+### T25 `[x]` Arkiver HRP-rapport energikartlegging
+Rapport fra HRP/RiEn om energikartlegging og energimerking skal inn i prosjektet.
+
+**Løsning (2026-06-17):** PDF lå allerede i `bakgrunn/` under filnavnet `Energikartlegging Fjordgt 30.pdf`. Les alle 30 sider og konvertert til `bakgrunn/hrp_energikartlegging_rapport.md`. Rapporten inneholder nå-tilstand (energikarakter G, 252 000 kWh/år), alle 12 tiltak med kostnader og besparelser, tre tiltakspakker (T1–T3), og finansieringsinfo (Enova, grønne lån). T23 er fortsatt åpen – avklar med HRP om rapporten er levert til Enova.
+
+---
+
+### T26 `[x]` Arkiver Enova-søknader
+
+**Løsning (2026-06-17):** Søknadstekstene lå som `bakgrunn/webskjema (1).txt` (energikartlegging) og `bakgrunn/webskjema.txt` (ombrukskartlegging). Konvertert til:
+- `bakgrunn/enova_soeknad_energikartlegging.md`
+- `bakgrunn/enova_soeknad_ombrukskartlegging.md`
+
+---
+
+### T27 `[x]` Konverter alle bakgrunn-filer fra .txt til .md
+**Format:** Markdown, egnet for manuell lesing og fremtidig redigering
+
+Alle filer i `bakgrunn/` som fortsatt er `.txt` bør konverteres til `.md` for enklere lesing og redigering. Bruk `pandoc` eller bare rename der innholdet allerede er rent tekst. Slett originale `.txt`-filer etterpå.
+
+**Nåværende `.txt`-filer i `bakgrunn/` (per 2026-06-17):**
+
+Søknader og korrespondanse (høy prioritet):
+- `kmf_tilsvar_soeknadssvar.txt`
+- `kmf_soeknad_sikringstiltak.txt`
+- `uni_soeknad.txt`
+- `fondsoknader.txt`
+- `2026-01-26_dispensasjonssoknad.txt`
+- `2026-01-26_folgebrev_nabovarsel.txt`
+- `2026-02-09_folgebrev_rammesoknad.txt`
+- `byantikvaren_tilbakemelding_rammesoknad.txt`
+- `2026-06-11 forberedelse til  TBRT statusmøte.txt`
+
+Tekniske notater (fra minilager-rammesøknad):
+- `2026-02-06_notat_va.txt`
+- `2026-02-09_notat_ventilasjon.txt`
+- `2026-02-10_notat_el-kraft.txt`
+- `2026-02-10_notat_rib.txt`
+- `2026-02-02_sjekkliste_ribr.txt`
+- `2026-02-16_brannkonsept_bkl3_tek17.txt`
+- `2026-02-16_brannkonsept_vedlegg_a.txt`
+- `2026-02-17_brannprosjektering_minilager.txt`
+- `2026-02-26_notat_brannsikring_gjennomforingsfasen.txt`
+- `2026-02-26_redegjoerelse_tbrt.txt`
+
+Vedlegg fra riksantikvaren / Byantikvaren:
+- `2023-06-15_notat_slokkevann.txt`
+- `2023-06-28_uttalelse_riksantikvaren_graving.txt`
+- `2023-07-05_notat_skred_flomfare.txt`
+
+Markedsmateriell og bakgrunn (lav prioritet):
+- `kodeworks_selskapsbeskrivelse.txt`
+- `tradisjonsbygg_referanseliste.txt`
+- `naeringsmegling_markedsmateriell.txt`
+- `dnb_verdivurdering_2022.txt`
+- `tilstandsanalyse_nivaa1.txt`
+- `situasjonskart.txt`
+- `situasjonsplan.txt`
+
+Skal slettes (kontorbygg 2023, dekkes av T18):
+- `rammesoknad_kontor_2023_beskrivelse.txt`
+- `rammesoknad_kontor_2023_vedlegg_F.txt`
+- `rammesoknad_kontor_2023_brannkonsept.txt`
+- `rammesoknad_kontor_2023_vedlegg_I.txt`
+
+**Løsning (2026-06-18):** Alle `.txt`-filer i `bakgrunn/` konvertert til `.md`. Originale `.txt`-filer slettet.
+
+---
+
+### T28 `[x]` Arkiver vedtak om tvangsmulkt fra TBRT
+
+**Løsning (2026-06-17):** `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md` (konvertert fra PDF, datert 07.05.2025). I tillegg: `bakgrunn/2024-11-08_paalegg_brannsikring.md` og `bakgrunn/2024-01-24_tilsynsrapport_tbrt.md` gir historikk forut for vedtaket.
+
+---
+
+### T29 `[x]` Arkiver klage på vedtak om tvangsmulkt
+
+**Løsning (2026-06-17):** `bakgrunn/2025-05-26_klage_vedtak_tvangsmulkt.md` (konvertert fra docx, datert 26.05.2025). Også relevant: `bakgrunn/2025-10-09_krav_om_ny_behandling.md`.
+
+---
+
+### T30 `[x]` Arkiver oversikt over påløpte tvangsmulkter
+
+**Løsning (2026-06-17):** `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md` dokumenterer 3. gangs innkreving for perioden 15.04.2026–26.05.2026. For komplett oversikt over alle perioder, les også `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md`. En samlet `tbrt_tvangsmulkt_oversikt.md` er ikke laget – kan lages som eget tiltak ved behov.
 
 ---
 
@@ -317,6 +420,34 @@ Subsidiært: Be TBRT omgjøre innkrevingene 1 og 2 på eget initiativ etter forv
 
 ---
 
+### T32 `[ ]` Fisjon av KodeWorks Eiendom AS
+**Ansvarlig:** Eirik / regnskapsfører / advokat
+
+KodeWorks Eiendom AS eier i dag både Fjordgata 30 og Grønnegata 10. Selskapet skal fisjoneres slik at:
+- **Fjordgata 30 AS** (nytt orgnummer) overtar eierskapet til Fjordgata 30 og blir juridisk byggherre for ombyggingen
+- **KodeWorks Eiendom AS** beholder dagens orgnummer og eier Grønnegata 10
+- Grønnegata 10 kan skilles ut som et tredje selskap ved behov
+
+Alle pågående støtteordninger (KMF, Byantikvaren, Enova, UNI) skal overføres til Fjordgata 30 AS. Banklån søkes i Fjordgata 30 AS. Fisjonen bør gjennomføres før IG-søknad leveres (T12) slik at riktig juridisk enhet er byggherre fra starten.
+
+---
+
+### T33 `[ ]` Utred og dokumenter MVA-refusjon for minilager
+**Filnavn:** `mva_minilager_redegjoerelse.md`
+
+Under bygging av Fjordgata 30 til minilager vil det påløpe MVA på bygge- og prosjekteringskostnader. MVA kan kreves refundert dersom bygget ved ferdigstillelse leies ut til en MVA-pliktig leietaker. Dette er ikke automatisk – utleie av fast eiendom er i utgangspunktet unntatt MVA, men det finnes unntak for lagring og visse tilknyttede tjenester.
+
+**Dokumentet skal:**
+1. Redegjøre for regelverket: når er utleie av lagerplass MVA-pliktig (mval. § 3-11 og unntakene)
+2. Identifisere hvilke leietakermodeller som kvalifiserer – f.eks. aktører som tilbyr logistikktjenester med henting hos kunder, app-baserte lagertjenester (fulfilment), kurerbedrifter el.l.
+3. Sannsynliggjøre at Fjordgata 30 AS vil leie ut til slike MVA-pliktige aktører – konkrete eksempler og forretningsmodell
+4. Beskrive frivillig registrering i MVA-registeret for utleier (Fjordgata 30 AS) som forutsetning for fradragsrett
+5. Beregne estimert MVA-beløp som kan refunderes basert på prosjektbudsjett
+
+**Hent bakgrunnsmateriale fra:** Skatteetaten, Merverdiavgiftsloven, eventuelt skatterådgiver/advokat med MVA-kompetanse.
+
+---
+
 ### T34 `[x]` Dokumenter relevant lovverk for T31
 **Mappe:** `bakgrunn/lovverk/`
 
@@ -341,14 +472,9 @@ Lag separate `.md`-filer for hvert lovverk som er relevant for klage på tvangsm
 
 ### T35 `[x]` Beskriv hvorfor relevant lovverk gjelder for prosjektet
 **Filnavn:** `bakgrunn/lovverk/prosjektrelevans.md`  
-**Avhenger av:** T34 (lovverkfilene bør finnes først)
+**Avhenger av:** T34
 
 Lag ett samlet dokument som forklarer hvorfor hvert lovverk er relevant for Fjordgata 30-prosjektet som helhet – ikke bare for klagesaken mot TBRT. Dokumentet skal gi en leser (bank, støttegiver, advokat, ny prosjektdeltaker) en rask oversikt over hvilke rettslige rammer prosjektet opererer innenfor.
-
-**Struktur per lovverk:**
-- Hva loven/forskriften regulerer
-- Konkret hvordan den treffer Fjordgata 30 (hvilke krav, hvilke myndigheter, hvilke prosesser)
-- Eventuelle spenninger mellom ulike myndigheters krav
 
 **Lovverk som skal dekkes:**
 - Brann- og eksplosjonsvernloven – tilsynsplikt, pålegg, tvangsmulkt
@@ -361,165 +487,159 @@ Lag ett samlet dokument som forklarer hvorfor hvert lovverk er relevant for Fjor
 
 ---
 
-### T28 `[x]` Arkiver vedtak om tvangsmulkt fra TBRT
-**Mottaker/kilde:** Trondheim Brannvesen / TBRT
+### T36 `[x]` Bildeprosessering – sorter og normaliser bilder fra Google Drive
+**Filnavn:** `scripts/process_images.py`
 
-Det opprinnelige vedtaket om tvangsmulkt (dagbøter 2 000 kr/dag) finnes ikke i prosjektet. Finn dokumentet (e-post, brev eller portal) og legg det i `bakgrunn/` med filnavn `tbrt_vedtak_tvangsmulkt.pdf` eller `.txt`. Dokumentet er viktig bakgrunn for T07 (framdriftsrapport til TBRT) og for eventuelle klageprosesser.
-
-**Løsning (2026-06-17):** `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md` (konvertert fra PDF, datert 07.05.2025). I tillegg: `bakgrunn/2024-11-08_paalegg_brannsikring.md` og `bakgrunn/2024-01-24_tilsynsrapport_tbrt.md` gir historikk forut for vedtaket.
+**Løsning (18.06.2026):** Skrevet `scripts/process_images.py`. Bruker Pillow for EXIF-lesing og ImageMagick `convert` for konvertering/skalering. Testet – scriptet starter korrekt og gir brukervennlig feilmelding hvis `../temp/bilder/` ikke finnes.
 
 ---
 
-### T29 `[x]` Arkiver klage på vedtak om tvangsmulkt
-**Mottaker/kilde:** Trondheim Brannvesen / TBRT / klageinstans
+### T37 `[x]` Bildescoring – skarphet (Laplacian)
 
-Klagen på vedtaket om tvangsmulkt finnes ikke i prosjektet. Finn klagebrevet (sendt av KodeWorks eller advokat) og legg det i `bakgrunn/` med filnavn `tbrt_klage_tvangsmulkt.pdf` eller `.txt`. Nødvendig for å forstå vår juridiske posisjon og argumentasjon mot dagbøtene.
+**Hva:** `scripts/scoring/sharpness.py` – eksporterer `sharpness_score(path) -> float | None`.
 
-**Løsning (2026-06-17):** `bakgrunn/2025-05-26_klage_vedtak_tvangsmulkt.md` (konvertert fra docx, datert 26.05.2025). Også relevant: `bakgrunn/2025-10-09_krav_om_ny_behandling.md`.
+**Råscore:** Laplacian-varians via `cv2.Laplacian(gray, cv2.CV_64F).var()`. Skala 0 til ubegrenset. Høy verdi = skarpt bilde. Ingen normalisering – T42 gjør det.
 
----
+**Standalone:** `.venv/bin/python3 scripts/scoring/sharpness.py <bildefil>`
 
-### T30 `[x]` Arkiver oversikt over påløpte tvangsmulkter
-**Mottaker/kilde:** Intern / TBRT
+**Avhengighet:** `opencv-contrib-python`
 
-Lag eller hent en oversikt over alle tvangsmulkter som har løpt: dato de startet, sats (2 000 kr/dag), eventuelle avbrudd/pauser, og samlet beløp til dags dato. Legg oversikten i `bakgrunn/tbrt_tvangsmulkt_oversikt.md`. Viktig for prosjektøkonomi og for å beregne konsekvensen dersom dagbøtene ikke stoppes.
-
-**Løsning (2026-06-17):** `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md` dokumenterer 3. gangs innkreving for perioden 15.04.2026–26.05.2026. For komplett oversikt over alle perioder, les også `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md`. En samlet `tbrt_tvangsmulkt_oversikt.md` er ikke laget – kan lages som eget tiltak ved behov.
+**Løsning (18.06.2026):** Fungerer. Råscore fra p5=36 til p95=1836 over 1256 bilder – lang høyrehale.
 
 ---
 
-## Dokumentasjon og intern rapportering
+### T38 `[x]` Bildescoring – eksponering (histogram)
 
-### T15 `[ ]` Dokumentere arbeidsøkter med studenter
-Lag rapport/logg over hva studentene har gjort og lært.
+**Hva:** `scripts/scoring/exposure.py` – eksporterer `exposure_score(path) -> float | None`.
 
----
+**Råscore:** Total clipping-andel (0.0–1.0). `shadow_fraction + highlight_fraction` der shadow = andel piksler < 15 og highlight = andel piksler > 240 (gråtoneskala). Lav verdi = god eksponering. Ingen normalisering – T42 gjør det.
 
-### T16 `[ ]` Legge inn bilder i rapporter
-Bilder skal inn i arbeidsrapport og evt. framdriftsrapporter.
+**Standalone:** `.venv/bin/python3 scripts/scoring/exposure.py <bildefil>`
 
----
+**Avhengighet:** `opencv-contrib-python`
 
-## Filstruktur og opprydding
-
-### T17 `[x]` Splitt bakgrunn/merged_files til enkeltfiler
-
-De to filene `merged_files_1.txt` (~10 900 linjer) og `merged_files_2.txt` (~4 500 linjer) ble opprinnelig laget som samlet kontekst til en Custom GPT. De inneholder flere separate dokumenter som bør splittes ut:
-
-**Antatt innhold i `merged_files_1.txt`:**
-| Foreslått filnavn | Beskrivelse |
-|---|---|
-| `kmf_tilsvar_soeknadssvar.txt` | Tilsvar på søknadssvar fra Kulturminnefondet (feb 2024) |
-| `kmf_soeknad_sikringstiltak.txt` | Søknad til Kulturminnefondet – Sikringstiltak, bærekonstruksjon |
-| `nettside_om_prosjektet.txt` | Beskrivelse av prosjektet (nettsidekopi, "above/below fold") |
-| `tilstandsanalyse_kalkyle.txt` | Tilstand og kalkyle (bygningsdeler, TG-vurderinger) |
-| `notat_va_skred_flom.txt` | Notat om VA, skred- og flomvurdering |
-| `brannkonsept_fjordgata30.txt` | Brannkonsept Fjordgata 30 (stort dokument) |
-
-**Antatt innhold i `merged_files_2.txt`:**
-| Foreslått filnavn | Beskrivelse |
-|---|---|
-| `tilstandsanalyse_nivaa1.txt` | Tilstandsanalyse nivå 1, utarbeidet av Ole Morten m.fl. |
-| `naeringsmegling_markedsanalyse.txt` | Næringsmegling / markedsanalyse |
-
-**Gjennomføring:** Les gjennom filene, identifiser dokumentgrenser, skriv hvert dokument til egen fil i `bakgrunn/`. Slett `merged_files_1.txt` og `merged_files_2.txt` når splitting er ferdig og verifisert.
-
-**Løsning (2026-06-17):** Splittet i 12 filer i `bakgrunn/`:
-- `kmf_tilsvar_soeknadssvar.txt` – Tilsvar til Kulturminnefondet (feb 2024)
-- `kmf_soeknad_sikringstiltak.txt` – KMF søknad (sikringstiltak)
-- `uni_soeknad.txt` – Stiftelsen UNI søknad
-- `tradisjonsbygg_referanseliste.txt` – Tradisjonsbygg AS prosjektreferanser
-- `kodeworks_selskapsbeskrivelse.txt` – Om Oss, personalhåndbok, prosjektoversikt
-- `fondsoknader.txt` – Adolf Øiens Fond, Kavlifondet, DOGA DIP
-- `rammesoknad_kontor_2023_beskrivelse.txt` – Nabovarsel + søknadsbeskrivelse (kontorbygg, 2023)
-- `rammesoknad_kontor_2023_vedlegg_F.txt` – F-02, F-04–F-09 (flom, VA, el, ventilasjon)
-- `rammesoknad_kontor_2023_brannkonsept.txt` – Brannkonsept til rammesøknad (2023)
-- `rammesoknad_kontor_2023_vedlegg_I.txt` – I-01–I-05 (Riksantikvaren, slokkevann, Byantikvaren m.fl.)
-- `naeringsmegling_markedsmateriell.txt` – Kodeverket markedsmateriell + DNB salgsprospekt
-- `tilstandsanalyse_nivaa1.txt` – Tilstandsanalyse nivå 1 (HRP/Ole Morten)
-- `dnb_verdivurdering_2022.txt` – DNB Næringsmegling verdivurdering (aug 2022)
-
-`merged_files_1.txt` og `merged_files_2.txt` er slettet. Oppdatert 2026-06-17: `kmf_uni_soknader.txt` splittet videre til `kmf_soeknad_sikringstiltak.txt` og `uni_soeknad.txt`.
+**Løsning (18.06.2026):** Returnerer rådata (clipping-andel). Normalisering overlatt til T42.
 
 ---
 
-### T18 `[ ]` Fjern kontorbygg-dokumenter fra bakgrunn/
+### T39 `[x]` Bildescoring – teknisk kvalitet (BRISQUE)
 
-Dokumentene fra 2023-rammesøknaden gjelder kontorbygg-prosjektet som ble skrinlagt. De er ikke lenger relevante som bakgrunn nå som prosjektet er minilager. Filene bør slettes:
+**Hva:** `scripts/scoring/brisque.py` – eksporterer `brisque_score(path) -> float | None`.
 
-- `rammesoknad_kontor_2023_beskrivelse.txt`
-- `rammesoknad_kontor_2023_vedlegg_F.txt`
-- `rammesoknad_kontor_2023_brannkonsept.txt`
-- `rammesoknad_kontor_2023_vedlegg_I.txt`
+**Råscore:** BRISQUE via PyIQA (`pyiqa.create_metric("brisque")`). Skala ca. 0–100, lavere = bedre. Ingen normalisering – T42 gjør det. Modellvekter (~112 kB) caches automatisk i `~/.cache/torch/hub/pyiqa/` ved første kjøring.
 
-Nyere versjoner av F- og I-vedleggene (for minilager-søknaden) finnes nå i `bakgrunn/` med datoprefix (f.eks. `2026-02-06_notat_va.txt`, `2026-02-09_notat_ventilasjon.txt`, `2023-06-28_uttalelse_riksantikvaren_graving.txt` m.fl.). Bekreft at ingenting unikt forsvinner før sletting.
+**Standalone:** `.venv/bin/python3 scripts/scoring/brisque.py <bildefil>`
 
----
+**Avhengighet:** `pyiqa`, `torch`, `opencv-contrib-python`
 
-### T25 `[x]` Arkiver HRP-rapport energikartlegging
-Rapport fra HRP/RiEn om energikartlegging og energimerking skal inn i prosjektet. Motta filen fra HRP (eller Eirik) og legg den i `bakgrunn/` med et fornuftig filnavn (f.eks. `hrp_energikartlegging_rapport.pdf`). Oppdater T23 med status når rapporten er mottatt.
+**Viktig:** `cv2.quality.QualityBRISQUE_create` finnes ikke i PyPI-bygget av opencv-contrib 4.13 – bruker PyIQA i stedet. `brisque` PyPI-pakken er inkompatibel med nyere numpy.
 
-**Løsning (2026-06-17):** PDF lå allerede i `bakgrunn/` under filnavnet `Energikartlegging Fjordgt 30.pdf`. Les alle 30 sider og konvertert til `bakgrunn/hrp_energikartlegging_rapport.md`. Rapporten inneholder nå-tilstand (energikarakter G, 252 000 kWh/år), alle 12 tiltak med kostnader og besparelser, tre tiltakspakker (T1–T3), og finansieringsinfo (Enova, grønne lån). T23 er fortsatt åpen – avklar med HRP om rapporten er levert til Enova.
+**Løsning (18.06.2026):** Fungerer. Testbilde scoret 55.5.
 
 ---
 
-### T26 `[x]` Arkiver Enova-søknader
-Søknadsdokumentene til Enova (for både energikartlegging og ombrukskartlegging) finnes ikke i prosjektet per nå – trolig i Enova-portalen eller e-post. Last ned og legg i `bakgrunn/` med filnavn:
-- `enova_soeknad_energikartlegging.pdf`
-- `enova_soeknad_ombrukskartlegging.pdf`
+### T40 `[x]` Bildescoring – estetisk kvalitet (MUSIQ)
 
-**Løsning (2026-06-17):** Søknadstekstene lå som `bakgrunn/webskjema (1).txt` (energikartlegging) og `bakgrunn/webskjema.txt` (ombrukskartlegging). Konvertert til:
-- `bakgrunn/enova_soeknad_energikartlegging.md`
-- `bakgrunn/enova_soeknad_ombrukskartlegging.md`
+**Hva:** `scripts/scoring/musiq.py` – eksporterer `musiq_score(path) -> float | None`.
+
+**Råscore:** MUSIQ-SPAQ via PyIQA (`pyiqa.create_metric("musiq-spaq")`). Skala ca. 0–100, høyere = bedre. Ingen normalisering – T42 gjør det. Modellvekter (~104 MB) caches automatisk i `~/.cache/torch/hub/pyiqa/` ved første kjøring – krever internett første gang.
+
+**Valg av variant:** `musiq-spaq` (SPAQ = smartphone-bilder). `musiq-koniq` finnes ikke i denne PyIQA-versjonen. `musiq-ava` er trent på kunstfotografi og passer dårlig for dokumentasjonsbilder.
+
+**Ytelse:** 1–3 sek/bilde på CPU. GPU ikke påkrevd men gir 10–20× speedup.
+
+**Standalone:** `.venv/bin/python3 scripts/scoring/musiq.py <bildefil>`
+
+**Avhengighet:** `pyiqa`, `torch`
+
+**Løsning (18.06.2026):** Fungerer. Testbilde scoret 54.1.
 
 ---
 
-### T27 `[ ]` Konverter alle bakgrunn-filer fra .txt til .md
-**Format:** Markdown, egnet for manuell lesing og fremtidig redigering
+### T41 `[ ]` Bildescoring – finn vekter via manuell kalibrering
 
-Alle filer i `bakgrunn/` som fortsatt er `.txt` bør konverteres til `.md` for enklere lesing og redigering. Bruk `pandoc` eller bare rename der innholdet allerede er rent tekst. Slett originale `.txt`-filer etterpå.
+**To uavhengige steg:**
 
-**Nåværende `.txt`-filer i `bakgrunn/` (per 2026-06-17):**
+*Steg A – Eiriks manuelle rating (kan gjøres når som helst):*
+Eirik ser på 50–100 bilder og gir hvert bilde en helhetlig karakter 1–10. Resultatet lagres i `scripts/scoring/manuelle_scores.csv` med to kolonner:
+```
+filnavn,score
+20260528_134718.jpg,8
+20221020_050156.jpg,3
+...
+```
+Kan fylles ut gradvis – regresjonen kjøres når nok bilder er ratet.
 
-Søknader og korrespondanse (høy prioritet):
-- `kmf_tilsvar_soeknadssvar.txt`
-- `kmf_soeknad_sikringstiltak.txt`
-- `uni_soeknad.txt`
-- `fondsoknader.txt`
-- `2026-01-26_dispensasjonssoknad.txt`
-- `2026-01-26_folgebrev_nabovarsel.txt`
-- `2026-02-09_folgebrev_rammesoknad.txt`
-- `byantikvaren_tilbakemelding_rammesoknad.txt`
-- `2026-06-11 forberedelse til  TBRT statusmøte.txt`
+*Steg B – Regresjon (krever T42 Pass 2 ferdig for de ratede bildene):*
+Lineær regresjon (`sklearn.linear_model.LinearRegression`) som finner de fire vektene (sharpness, exposure, brisque, musiq) som minimerer avvik mellom `total`-scoren og Eiriks manuelle karakterer. Vektene lagres og brukes til å reberegne `total`-kolonnen i scores.csv.
 
-Tekniske notater (fra minilager-rammesøknad):
-- `2026-02-06_notat_va.txt`
-- `2026-02-09_notat_ventilasjon.txt`
-- `2026-02-10_notat_el-kraft.txt`
-- `2026-02-10_notat_rib.txt`
-- `2026-02-02_sjekkliste_ribr.txt`
-- `2026-02-16_brannkonsept_bkl3_tek17.txt`
-- `2026-02-16_brannkonsept_vedlegg_a.txt`
-- `2026-02-17_brannprosjektering_minilager.txt`
-- `2026-02-26_notat_brannsikring_gjennomforingsfasen.txt`
-- `2026-02-26_redegjoerelse_tbrt.txt`
+**Output:** Fire vekttall (summer til 1.0), oppdatert `total`-kolonne i scores.csv.
 
-Vedlegg fra riksantikvaren / Byantikvaren:
-- `2023-06-15_notat_slokkevann.txt`
-- `2023-06-28_uttalelse_riksantikvaren_graving.txt`
-- `2023-07-05_notat_skred_flomfare.txt`
+**Avhengighet for steg B:** `scikit-learn`, T42 Pass 2 ferdig for de bildene som er manuelt ratet.
 
-Markedsmateriell og bakgrunn (lav prioritet):
-- `kodeworks_selskapsbeskrivelse.txt`
-- `tradisjonsbygg_referanseliste.txt`
-- `naeringsmegling_markedsmateriell.txt`
-- `dnb_verdivurdering_2022.txt`
-- `tilstandsanalyse_nivaa1.txt`
-- `situasjonskart.txt`
-- `situasjonsplan.txt`
+---
 
-Skal slettes (kontorbygg 2023, dekkes av T18):
-- `rammesoknad_kontor_2023_beskrivelse.txt`
-- `rammesoknad_kontor_2023_vedlegg_F.txt`
-- `rammesoknad_kontor_2023_brannkonsept.txt`
-- `rammesoknad_kontor_2023_vedlegg_I.txt`
+### T42 `[ ]` Bildescoring – score alle bilder og skriv scores.csv
+
+**Hva:** `scripts/score_images.py` – kjøres av Eirik, orkestrerer T37–T40.
+
+**Fil:** `scripts/scoring/scores.csv` inne i prosjektet (ikke i ../temp/).
+
+**Kolonner:** `filnavn, sharpness_raw, exposure_raw, brisque_raw, musiq_raw, sharpness, exposure, brisque, musiq, total`
+
+**Design – to pass:**
+
+*Pass 1 (råscoring):* Iterer over alle bilder i `../temp/bilder/processed/` (nyeste først). For hvert bilde uten råscore i CSV: kall `sharpness_score()`, `exposure_score()`, `_raw_brisque()`, `_raw_musiq()`. Skriv rad til CSV umiddelbart. Idempotent: hopper over bilder som allerede har råscore. Når nye bilder legges til, nullstilles normaliserte kolonner for alle eksisterende rader (de er ugyldige til Pass 2 kjøres på nytt).
+
+*Pass 2 (normalisering):* Les alle råscorer fra CSV. For hver metrikk: beregn p5 og p95 av hele fordelingen. Normaliser til 1–10:
+- sharpness: `1 + 9 × (raw − p5) / (p95 − p5)` – høy rå = høy score
+- exposure: `10 − 9 × (raw − p5) / (p95 − p5)` – lav rå = høy score
+- brisque: `10 − 9 × (raw − p5) / (p95 − p5)` – lav rå = høy score
+- musiq: `1 + 9 × (raw − p5) / (p95 − p5)` – høy rå = høy score
+
+`total` = enkelt gjennomsnitt inntil T41 er løst.
+
+**Bruk:**
+```
+.venv/bin/python3 scripts/score_images.py             # begge pass
+.venv/bin/python3 scripts/score_images.py --pass 1    # bare råscoring
+.venv/bin/python3 scripts/score_images.py --pass 2    # bare normalisering
+.venv/bin/python3 scripts/score_images.py --limit 10  # test med 10 bilder
+```
+
+**Kalibreringsfiler fra T37–T40 som ikke lenger trengs:** `sharpness_calibration.json`, `brisque_calibration.json`, `musiq_calibration.json` – slett disse når T42 er ferdig.
+
+---
+
+### T43 `[ ]` Bildescoring – normaliserte 1–10-funksjoner (én per metrikk)
+
+**Avhenger av:** T42 (scores.csv med råscorer og beregnede p5/p95 må finnes)
+
+**Hva:** Fire funksjoner – en per metrikk – som leser normaliserte scorer direkte fra `scripts/scoring/scores.csv` og returnerer en float 1–10 for ett gitt bilde:
+
+- `sharpness_normalized(path: Path) -> float | None`
+- `exposure_normalized(path: Path) -> float | None`
+- `brisque_normalized(path: Path) -> float | None`
+- `musiq_normalized(path: Path) -> float | None`
+
+**Plassering:** Én funksjon per modul, lagt til i henholdsvis `scripts/scoring/sharpness.py`, `scripts/scoring/exposure.py`, `scripts/scoring/brisque.py`, `scripts/scoring/musiq.py`.
+
+**Standalone:** Alle fire moduler oppdateres til å vise normalisert score i tillegg til råscore når de kjøres direkte.
+
+---
+
+### T44 `[ ]` Dokumenter relevant lovverk – MVA ved utleie av lagerplass
+**Mappe:** `bakgrunn/lovverk/`
+**Filnavn:** `bakgrunn/lovverk/mva_lagerplass.md`
+
+Hent inn og dokumenter relevant lovverk og praksis knyttet til MVA ved utleie av lagerplass, med særlig fokus på de spørsmålene som er relevante for Fjordgata 30. Dokumentet skal dekke:
+
+1. **Hovedregelen** – utleie av fast eiendom er unntatt MVA (mval. § 3-11)
+2. **Unntakene** – når blir lagertjenester/utleie av lager MVA-pliktig (typisk når utleier tilbyr aktive tjenester som henting, pakking, logistikk)
+3. **Minilager-modellen** – er ren selvbetjent lagerplass unntatt? Hva kreves for MVA-plikt?
+4. **Utleie til tjenesteleverandør** – hva hvis leietaker driver en fulfilment-tjeneste, kurerservice e.l.? Endrer dette MVA-statusen?
+5. **Leietaker som ikke finnes enda** – kan frivillig registrering (mval. § 2-3) gjøres før leietaker er på plass? Hvilke krav stilles til dokumentasjon av fremtidig MVA-pliktig bruk?
+6. **Frivillig registrering** – vilkår, prosess, konsekvenser for fradragsrett på bygge- og prosjekteringskostnader
+7. **Relevante rettskilder** – lovtekst, Skattedirektoratets bindende forhåndsuttalelser (BFU), Merverdiavgiftshåndboken
+
+**Avhenger av / relatert til:** T33 (MVA-redegjørelse for minilager)
