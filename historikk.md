@@ -11,11 +11,15 @@ Hendelser med manglende dato er eksplisitt merket.
 
 **1857** – Brygga oppføres på nytt av handelsbetjent Thorvald Martinus Moe, 16 år etter den store bybrannen og etter en bryggebrann i Fjordgata. Oppfyres i laftet konstruksjon i tre etasjer. Gårdsnummer 401, bruksnummer 149, Trondheim. Bygningen brukes som knutepunkt for handel med sild, fisk og salt.
 
+**05.07.1898** – Matrikkelenheten gnr 401/bnr 149 etableres formelt som grunneiendom. Arealkilde: Målebrev. Beregnet areal 599,4 kvm, oppgitt areal 593 kvm. Kulturminnereferanse: 16011204013.
+
 **1904** – Bygningen utvides med to ekstra etasjer i bindingsverk (fra 3 til 5 etasjer).
 
 **1906** – Fasadeendring.
 
 **1934** – Fasadeendring.
+
+**04.02.1993** – Trondheim Båtforening tinglyser hjemmel til eiendommen (dagboknr 1787). Tinglyst vederlag: NOK 1 100 000. Ingen heftelser eller servitutter registrert i grunnboken. Båtforeningen bruker bygget til kontorer, selskapslokaler og lager.
 
 **25.02.2013** – Drøftingsmøte med byantikvaren (Gunnar Houen) og sjefsarkitekt Kåre Rypdal. Positive signaler til istandsetting; dispensasjon til boligformål i 3.–5. etasje ansees mulig, 1.–2. etasje og kjeller skal forbeholdes næringsformål.
 
@@ -25,7 +29,24 @@ Hendelser med manglende dato er eksplisitt merket.
 
 ## Kjøp og tidlig prosjektutvikling
 
-**Dato ukjent – mangler dokumentasjon** – KodeWorks Eiendom AS (org.nr. 920 478 506, tidligere 927 347 865) erverver Fjordgata 30. Selskapet er 100 % eid av KodeWorks AS.
+**30.03.2015** – Kodeworks AS (PB 1219, 7462 Trondheim) fremsetter skriftlig kjøpetilbud på kr. 10 000 000,- + omkostninger på Fjordgata 30.
+
+**14.04.2015** – Trondheim Båtforening aksepterer kjøpetilbudet. Megler: Martin Udbye, DNB Næringsmegling AS (oppdrag 1130053). Kjøper får vederlagsfri tilgang til kontorlokaler i 2. etg («Captains quarters») fra 1. mai 2015 frem til overtakelse. Kjøpekontrakt planlegges utarbeidet i uke 17, 2015.
+
+**Ca. 21.04.2015 (uke 17)** – Kjøpekontrakt inngås for GNR 401 BNR 149 i Trondheim kommune. Oppgjørsansvarlig: DNB Næringsmegling AS v/ Randi Justnæs.
+
+**01.12.2015** – **Overtakelse.** KodeWorks Eiendom AS (100 % eid av KodeWorks AS, org.nr. 920 478 506, tidligere 927 347 865) overtar eiendommen. *(Merk: akseptbrev er adressert Kodeworks AS; KodeWorks Eiendom AS kan ha vært etablert som eierselskap i forbindelse med overtakelsen.)*
+
+Eiendomsdata per salg/overtakelse (fra salgsprospektet):
+- Kommunal skattetakst (2013): NOK 11 350 000
+- Ligningsverdi (2013): NOK 3 000 000
+- Kommunale avgifter (2013): NOK 16 703 per termin
+- Forsikring: NOK 76 000/år (Gjensidige)
+- Brannstatus: Tørrsprinklet mot yttervegger i alle etasjer; godkjent av brannvesenet
+- Ingen ferdigattest foreligger
+- Tilknyttet offentlig vann og kloakk
+- Butikklokale 1. etg (ca. 140 kvm): Stod ledig; utleid i 2013 for NOK 144 000/år
+- Energiklasse: G/Rød (høyeste klasse, lavest effektivitet)
 
 **Dato ukjent – mangler dokumentasjon** – Kontorbygg-prosjektet initieres. Visjonen er å ombygg Fjordgata 30 til innovasjonshub med café, kontorer og flytebrygge. KodeWorks-ansatte planlegges som leietakere, sammen med eksterne.
 
@@ -202,7 +223,6 @@ Begge bekreftet mottatt ved start av statusmøterunden i mars 2026.
 
 Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato eller kildedokumentasjon. De er inkludert for fullstendighetens skyld, men bør dokumenteres nærmere.
 
-- **Dato ukjent** – Kjøpet av Fjordgata 30: Nøyaktig dato og kjøpesum er ikke dokumentert i tilgjengelig materiale.
 - **Dato ukjent** – Første gang TBRT tok kontakt om brannsikring utover 2018-tilsynet.
 - **Dato ukjent** – Nøyaktig tidspunkt for KMF-vedtak (750 000 kr). Vedtaket er bekreftet, men formelt vedtaksdokument er ikke i arkivet.
 - **Dato ukjent** – Nøyaktig tidspunkt for UNI-vedtak (100 000 kr).
@@ -214,4 +234,4 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 ---
 
-*Sist oppdatert: 18. juni 2026*
+*Sist oppdatert: 18. juni 2026 (kjøpsdokumentasjon fra 2015 lagt til)*
