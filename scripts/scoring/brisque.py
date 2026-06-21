@@ -41,6 +41,12 @@ def _get_metric() -> pyiqa.InferenceModel:
     return _metric
 
 
+def brisque_normalized(path: Path) -> float | None:
+    """Returnerer normalisert BRISQUE-score (1–10) fra scores_total.csv, eller None."""
+    from . import _lookup
+    return _lookup(path.name, "brisque")
+
+
 def _raw_brisque(path: Path) -> float | None:
     try:
         result = _get_metric()(str(path))
@@ -101,11 +107,9 @@ if __name__ == "__main__":
         if raw is None:
             print(f"Kunne ikke lese: {path}")
             sys.exit(1)
-        try:
-            score = brisque_score(path)
-            print(f"{path.name}: {score:.2f}  (rå BRISQUE: {raw:.1f})")
-        except FileNotFoundError:
-            print(f"{path.name}: rå BRISQUE={raw:.1f}  (ikke kalibrert ennå)")
+        norm = brisque_normalized(path)
+        norm_str = f"{norm:.2f}" if norm is not None else "ikke i scores_total.csv"
+        print(f"{path.name}: rå BRISQUE={raw:.1f}  normalisert={norm_str}")
     else:
         print("Bruk: python3 brisque.py <bildefil>")
         print("      find ... | python3 brisque.py --recalibrate")

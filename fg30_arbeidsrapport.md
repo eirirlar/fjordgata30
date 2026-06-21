@@ -16,7 +16,7 @@ colorlinks: true
 linkcolor: NavyBlue
 urlcolor: NavyBlue
 toccolor: black
----
+---<
 
 \newpage
 
@@ -30,7 +30,7 @@ byggherre.
 
 Denne rapporten er utarbeidet per 20. april 2026 og dokumenterer:
 
-- Fysisk arbeid som er gjennomført det siste halvåret i bryggas kjeller
+- Fysisk arbeid <som er gjennomført det siste halvåret i bryggas kjeller
   og første etasje (U-1 og U1).
 - Parallell prosjektering, utredning og myndighetsbehandling som er
   nødvendig for at de fysiske arbeidene skal kunne videreføres i en

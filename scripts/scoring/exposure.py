@@ -26,6 +26,12 @@ SHADOW_THRESHOLD    = 15
 HIGHLIGHT_THRESHOLD = 240
 
 
+def exposure_normalized(path: Path) -> float | None:
+    """Returnerer normalisert eksponeringsscore (1–10) fra scores_total.csv, eller None."""
+    from . import _lookup
+    return _lookup(path.name, "exposure")
+
+
 def exposure_score(path: Path) -> float | None:
     """
     Returner total clipping-andel (0.0–1.0) for ett bilde, eller None hvis bildet ikke kan leses.
@@ -52,4 +58,6 @@ if __name__ == "__main__":
     if raw is None:
         print(f"Kunne ikke lese: {path}")
         sys.exit(1)
-    print(f"{path.name}: clipping={raw:.3f}  (skygge+lys, 0=perfekt)")
+    norm = exposure_normalized(path)
+    norm_str = f"{norm:.2f}" if norm is not None else "ikke i scores_total.csv"
+    print(f"{path.name}: clipping={raw:.3f}  normalisert={norm_str}")

@@ -556,12 +556,12 @@ Lag ett samlet dokument som forklarer hvorfor hvert lovverk er relevant for Fjor
 
 ---
 
-### T41 `[ ]` Bildescoring – finn vekter via manuell kalibrering
+### T41 `[x]` Bildescoring – finn vekter via manuell kalibrering
 
 **To uavhengige steg:**
 
 *Steg A – Eiriks manuelle rating (kan gjøres når som helst):*
-Eirik ser på 50–100 bilder og gir hvert bilde en helhetlig karakter 1–10. Resultatet lagres i `scripts/scoring/manuelle_scores.csv` med to kolonner:
+Eirik ser på bilder og gir hvert bilde en helhetlig karakter 1–10. Resultatet lagres i `scripts/scoring/scores_manual.csv` med to kolonner:
 ```
 filnavn,score
 20260528_134718.jpg,8
@@ -570,52 +570,51 @@ filnavn,score
 ```
 Kan fylles ut gradvis – regresjonen kjøres når nok bilder er ratet.
 
-*Steg B – Regresjon (krever T42 Pass 2 ferdig for de ratede bildene):*
-Lineær regresjon (`sklearn.linear_model.LinearRegression`) som finner de fire vektene (sharpness, exposure, brisque, musiq) som minimerer avvik mellom `total`-scoren og Eiriks manuelle karakterer. Vektene lagres og brukes til å reberegne `total`-kolonnen i scores.csv.
+*Steg B – Regresjon (krever T42 ferdig for de ratede bildene):*
+Lineær regresjon (`sklearn.linear_model.LinearRegression`) som finner de fire vektene (sharpness, exposure, brisque, musiq) som minimerer avvik mellom Eiriks manuelle karakterer og de normaliserte autoscorene. Vektene lagres i `scripts/scoring/weights.json`. Kjør deretter T48 for å regenerere `scores_total.csv`.
 
-**Output:** Fire vekttall (summer til 1.0), oppdatert `total`-kolonne i scores.csv.
+**Script:** `scripts/calibrate_weights.py`
 
-**Avhengighet for steg B:** `scikit-learn`, T42 Pass 2 ferdig for de bildene som er manuelt ratet.
+```bash
+# Se resultater uten å skrive noe
+.venv/Scripts/python scripts/calibrate_weights.py --dry-run
+
+# Skriv weights.json, deretter regenerer scores_total.csv
+.venv/Scripts/python scripts/calibrate_weights.py
+.venv/Scripts/python scripts/build_scores.py
+```
+
+**Output:** `scripts/scoring/weights.json` med intercept og fire koeffisienter.
+
+**Avhengighet for steg B:** `scikit-learn`, T42 ferdig for de bildene som er manuelt ratet.
 
 ---
 
-### T42 `[ ]` Bildescoring – score alle bilder og skriv scores.csv
+### T42 `[x]` Bildescoring – råscore alle bilder og skriv scores_auto.csv
 
-**Hva:** `scripts/score_images.py` – kjøres av Eirik, orkestrerer T37–T40.
+**Hva:** `scripts/score_images.py` – orkestrerer T37–T40, skriver kun råscorer.
 
-**Fil:** `scripts/scoring/scores.csv` inne i prosjektet (ikke i ../temp/).
+**Fil:** `scripts/scoring/scores_auto.csv`
 
-**Kolonner:** `filnavn, sharpness_raw, exposure_raw, brisque_raw, musiq_raw, sharpness, exposure, brisque, musiq, total`
+**Kolonner:** `filnavn, sharpness_raw, exposure_raw, brisque_raw, musiq_raw`
 
-**Design – to pass:**
-
-*Pass 1 (råscoring):* Iterer over alle bilder i `../temp/bilder/processed/` (nyeste først). For hvert bilde uten råscore i CSV: kall `sharpness_score()`, `exposure_score()`, `_raw_brisque()`, `_raw_musiq()`. Skriv rad til CSV umiddelbart. Idempotent: hopper over bilder som allerede har råscore. Når nye bilder legges til, nullstilles normaliserte kolonner for alle eksisterende rader (de er ugyldige til Pass 2 kjøres på nytt).
-
-*Pass 2 (normalisering):* Les alle råscorer fra CSV. For hver metrikk: beregn p5 og p95 av hele fordelingen. Normaliser til 1–10:
-- sharpness: `1 + 9 × (raw − p5) / (p95 − p5)` – høy rå = høy score
-- exposure: `10 − 9 × (raw − p5) / (p95 − p5)` – lav rå = høy score
-- brisque: `10 − 9 × (raw − p5) / (p95 − p5)` – lav rå = høy score
-- musiq: `1 + 9 × (raw − p5) / (p95 − p5)` – høy rå = høy score
-
-`total` = enkelt gjennomsnitt inntil T41 er løst.
+Append-only – én rad per bilde, aldri overskrevet. Idempotent: bilder som allerede har rad hoppes over. Normalisering og total beregnes i T48 (`build_scores.py`).
 
 **Bruk:**
-```
-.venv/bin/python3 scripts/score_images.py             # begge pass
-.venv/bin/python3 scripts/score_images.py --pass 1    # bare råscoring
-.venv/bin/python3 scripts/score_images.py --pass 2    # bare normalisering
-.venv/bin/python3 scripts/score_images.py --limit 10  # test med 10 bilder
+```bash
+.venv/Scripts/python scripts/score_images.py             # score nye bilder
+.venv/Scripts/python scripts/score_images.py --limit 10  # test med 10 bilder
 ```
 
-**Kalibreringsfiler fra T37–T40 som ikke lenger trengs:** `sharpness_calibration.json`, `brisque_calibration.json`, `musiq_calibration.json` – slett disse når T42 er ferdig.
+**Løsning (2026-06-20):** Kjørt mot eksisterende `scores.csv`. Må migreres til `scores_auto.csv` (se T48).
 
 ---
 
-### T43 `[ ]` Bildescoring – normaliserte 1–10-funksjoner (én per metrikk)
+### T43 `[x]` Bildescoring – normaliserte 1–10-funksjoner (én per metrikk)
 
-**Avhenger av:** T42 (scores.csv med råscorer og beregnede p5/p95 må finnes)
+**Avhenger av:** T48 (`scores_total.csv` må finnes)
 
-**Hva:** Fire funksjoner – en per metrikk – som leser normaliserte scorer direkte fra `scripts/scoring/scores.csv` og returnerer en float 1–10 for ett gitt bilde:
+**Hva:** Fire funksjoner – en per metrikk – som leser normaliserte scorer direkte fra `scripts/scoring/scores_total.csv` og returnerer en float 1–10 for ett gitt bilde:
 
 - `sharpness_normalized(path: Path) -> float | None`
 - `exposure_normalized(path: Path) -> float | None`
@@ -625,6 +624,8 @@ Lineær regresjon (`sklearn.linear_model.LinearRegression`) som finner de fire v
 **Plassering:** Én funksjon per modul, lagt til i henholdsvis `scripts/scoring/sharpness.py`, `scripts/scoring/exposure.py`, `scripts/scoring/brisque.py`, `scripts/scoring/musiq.py`.
 
 **Standalone:** Alle fire moduler oppdateres til å vise normalisert score i tillegg til råscore når de kjøres direkte.
+
+**Løsning (2026-06-21):** `_normalized(path)`-funksjoner lagt til i alle fire moduler. Felles lookup via `scripts/scoring/__init__.py` som cacher `scores_total.csv` i minnet. Standalone-output oppdatert til å vise begge verdier.
 
 ---
 
@@ -643,3 +644,102 @@ Hent inn og dokumenter relevant lovverk og praksis knyttet til MVA ved utleie av
 7. **Relevante rettskilder** – lovtekst, Skattedirektoratets bindende forhåndsuttalelser (BFU), Merverdiavgiftshåndboken
 
 **Avhenger av / relatert til:** T33 (MVA-redegjørelse for minilager)
+
+---
+
+### T45 `[x]` Bildescoring – tag alle bilder med RAM
+
+**Hva:** Kjør RAM (Recognize Anything Model) på alle bilder i `../temp/bilder/processed/` og lagre tags per bilde.
+
+**Script:** `scripts/tag_images.py`
+
+**Output:** `scripts/scoring/scores_ram.csv` (long format, append-only)
+
+```
+filnavn,tag
+20260620_080001.jpg,pipe
+20260620_080001.jpg,wood
+20260620_080001.jpg,beam
+```
+
+Én rad per bilde per tag. Idempotent – bilder som allerede har rader hoppes over.
+
+**Installasjon:** `uv pip install git+https://github.com/xinyu1205/recognize-anything.git`. Modellvekter lastes ned automatisk ved første kjøring.
+
+**Avhengighet:** `recognize-anything`, `torch`
+
+**Løsning (2026-06-21):**
+- Krevde `uv pip install "transformers<4.41"` (4.40.2) og `uv pip install fairscale` – nyere transformers manglet `apply_chunking_to_forward`.
+- `pretrained=True` krasjet med `AttributeError: 'bool' object has no attribute 'decode'` – `ram_plus()` forventer URL eller filsti, ikke boolean. Løst ved å laste ned vekter til `~/.cache/ram/ram_plus_swin_large_14m.pth` via `requests` streaming og sende stien.
+- `result[0]` er en liste (batch), `result[0][0]` er strengen med ` | `-separerte tags.
+- Kjørt mot alle 1258 bilder, skriver til `scripts/scoring/scores_ram.csv`.
+
+---
+
+### T46 `[x]` Bildescoring – score tags per bilde med CLIP
+
+**Avhenger av:** T45
+
+**Hva:** Kjør CLIP på alle bilder mot hele tag-vokabularet fra `scores_ram.csv` (alle unike tags på tvers av alle bilder). Lagre score per bilde per tag.
+
+**Script:** `scripts/clip_score.py`
+
+**Output:** `scripts/scoring/scores_clip.csv` (long format, append-only)
+
+```
+filnavn,tag,clip_score
+20260620_080001.jpg,pipe,0.82
+20260620_080001.jpg,wood,0.71
+20260620_080001.jpg,beam,0.65
+20260620_080001.jpg,window,0.12
+```
+
+Alle bilder scores mot alle tags – ikke bare de tagsene RAM tildelte det aktuelle bildet. Idempotent – bilder som allerede har rader hoppes over.
+
+**Installasjon:** `uv pip install open-clip-torch`
+
+**Avhengighet:** `open-clip-torch`, `torch`, T45 ferdig
+
+---
+
+### T47 `[x]` Bildescoring – regresjon på CLIP-tags + manuelle ratings
+
+**Avhenger av:** T46, T41 steg A (`scores_manual.csv`)
+
+**Hva:** Bruk CLIP-scorene fra `scores_clip.csv` som features og manuelle ratings fra `scores_manual.csv` som target. Kjør Ridge-regresjon for å finne hvilke tags som korrelerer med høy vs lav rating.
+
+**Script:** `scripts/calibrate_tags.py`
+
+**Output:**
+- Printer tags med sterkest positiv korrelasjon (interessant innhold) og negativ (uinteressant)
+- Skriver `scripts/scoring/tag_weights.json` med regresjonskoeffisienter per tag
+
+Kjør deretter T48 (`build_scores.py`) for å regenerere `scores_total.csv` med tag-vekter inkludert.
+
+**Merk:** Ridge-regresjon (`sklearn.linear_model.Ridge`) anbefales fremfor OLS – vokabularet kan ha hundrevis av tags mens antall ratede bilder er begrenset.
+
+---
+
+### T48 `[x]` Bildescoring – bygg scores_total.csv
+
+**Avhenger av:** T42 (`scores_auto.csv`), T41 steg B (`weights.json`), T47 (`tag_weights.json`) – sistnevnte to er valgfrie
+
+**Hva:** Les alle kildefiler, normaliser råscorer, beregn total per bilde, skriv `scores_total.csv`. Dette er den eneste filen som regenereres fullt ut – alle kildefiler forblir urørt.
+
+**Script:** `scripts/build_scores.py`
+
+**Output:** `scripts/scoring/scores_total.csv`
+
+```
+filnavn,sharpness,exposure,brisque,musiq,tag_score,total
+20260620_080001.jpg,3.17,9.57,8.64,9.92,6.40,7.54
+```
+
+**Normalisering:** p5/p95 beregnes fra `scores_auto.csv` på tvers av alle bilder. Vekter leses fra `weights.json` hvis den finnes, ellers enkelt gjennomsnitt. Tag-score beregnes fra `scores_clip.csv` × `tag_weights.json` hvis begge finnes.
+
+**Bruk:**
+```bash
+.venv/Scripts/python scripts/build_scores.py
+```
+
+**Løsning (2026-06-21):** `scripts/build_scores.py` opprettet. Eksisterende `scores.csv` migrert: råscorer → `scores_auto.csv`, normaliserte → `scores_total.csv`, `manuelle_scores.csv` → `scores_manual.csv`.

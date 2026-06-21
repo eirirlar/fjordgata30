@@ -20,6 +20,12 @@ except ImportError:
     sys.exit(1)
 
 
+def sharpness_normalized(path: Path) -> float | None:
+    """Returnerer normalisert skarphetsscore (1–10) fra scores_total.csv, eller None."""
+    from . import _lookup
+    return _lookup(path.name, "sharpness")
+
+
 def sharpness_score(path: Path) -> float | None:
     """
     Returner Laplacian-varians for ett bilde, eller None hvis bildet ikke kan leses.
@@ -41,4 +47,6 @@ if __name__ == "__main__":
     if score is None:
         print(f"Kunne ikke lese: {path}")
         sys.exit(1)
-    print(f"{path.name}: rå sharpness={score:.1f}")
+    norm = sharpness_normalized(path)
+    norm_str = f"{norm:.2f}" if norm is not None else "ikke i scores_total.csv"
+    print(f"{path.name}: rå={score:.1f}  normalisert={norm_str}")

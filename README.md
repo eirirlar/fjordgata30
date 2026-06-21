@@ -8,135 +8,172 @@ ImageMagick              (systemverktøy – ikke pip)
 Pillow                   (EXIF-lesing i process_images.py)
 opencv-contrib-python    (T37, T38 – ikke installer opencv-python i samme venv, de kolliderer)
 pyiqa                    (T39 BRISQUE + T40 MUSIQ – laster ned modellvekter ved første kjøring)
-torch                    (kreves av pyiqa)
-scikit-learn             (vektfinding – T41)
+torch                    (kreves av pyiqa, RAM og CLIP)
+scikit-learn             (vektfinding – T41, T47)
+numpy                    (normalisering)
+recognize-anything       (RAM – T45, installeres fra GitHub)
+open-clip-torch          (CLIP – T46)
+requests                 (nedlasting av store modellvekter på Windows)
 ```
 
-Installer ImageMagick via systemets pakkebehandler:
+Installer ImageMagick:
 
 ```bash
-sudo apt install imagemagick        # Ubuntu/Debian
+# Windows – last ned installer fra https://imagemagick.org/script/download.php#windows
+# Ubuntu/Debian
+sudo apt install imagemagick
 ```
 
 Installer Python-avhengigheter i et virtuelt miljø med `uv`:
 
 ```bash
 uv venv .venv
-uv pip install Pillow opencv-contrib-python pyiqa torch scikit-learn
+uv pip install Pillow opencv-contrib-python pyiqa torch scikit-learn numpy requests open-clip-torch
+pip install git+https://github.com/xinyu1205/recognize-anything.git
 ```
 
 **NB:** Ikke installer `opencv-python` eller `opencv-python-headless` i samme venv –
 de kolliderer med `opencv-contrib-python` og bryter `cv2`-importen.
 
+**NB Windows – MUSIQ-modellvekter (104 MB):** `pyiqa` sin interne nedlasting feiler på store filer via `urllib` på Windows. Last ned manuelt med `requests` første gang:
+
+```bash
+.venv/Scripts/python -c "
+import requests, pathlib
+url = 'https://huggingface.co/chaofengc/IQA-PyTorch-Weights/resolve/main/musiq_spaq_ckpt-358bb6af.pth'
+dest = pathlib.Path.home() / '.cache/torch/hub/pyiqa/musiq_spaq_ckpt-358bb6af.pth'
+dest.parent.mkdir(parents=True, exist_ok=True)
+r = requests.get(url, stream=True, timeout=120)
+r.raise_for_status()
+open(dest, 'wb').write(b''.join(r.iter_content(8192)))
+print('OK')
+"
+```
+
 Aktiver miljøet før du kjører scripts:
 
 ```bash
+# Windows (Git Bash)
+source .venv/Scripts/activate
+# Linux/macOS
 source .venv/bin/activate
 ```
 
 Eller kjør direkte uten aktivering:
 
 ```bash
-.venv/bin/python3 scripts/process_images.py
+# Windows (Git Bash)
+.venv/Scripts/python scripts/process_images.py
+# Linux/macOS
+.venv/Scripts/python scripts/process_images.py
 ```
 
 ---
 
 ## Scripts
 
-### Prosessere bilder
+### 1. Prosessere bilder
 
 Legg `.zip`-arkiver fra Google Drive i `../temp/bilder/`, kjør så:
 
 ```bash
-python3 scripts/process_images.py
+.venv/Scripts/python scripts/process_images.py
 ```
 
 Utpakkede originaler lagres i `../temp/bilder/extracted/`.
 Prosesserte bilder (JPEG ~500 kB) lagres i `../temp/bilder/processed/`.
 Hopper automatisk over bilder som allerede er prosessert.
 
-### Skarphetsscore – ett bilde (T37)
+### 2. Råscore alle bilder – sharpness, exposure, BRISQUE, MUSIQ (T42)
 
 ```bash
-.venv/bin/python3 scripts/scoring/sharpness.py <bildefil>
+.venv/Scripts/python scripts/score_images.py
+.venv/Scripts/python scripts/score_images.py --limit 10  # test
 ```
 
-Eksempel:
+Skriver råscorer til `scripts/scoring/scores_auto.csv`. Append-only og idempotent –
+bilder som allerede er scoret hoppes over. MUSIQ tar 1–3 sek/bilde.
+
+### 3. Bygg scores_total.csv med normaliserte scorer og total (T48)
 
 ```bash
-.venv/bin/python3 scripts/scoring/sharpness.py ../temp/bilder/processed/20250109_114732.jpg
-# → 20250109_114732.jpg: 7.43
+.venv/Scripts/python scripts/build_scores.py
 ```
 
-Returnerer en score fra 1–10 basert på Laplacian-varians, normalisert mot
-kalibreringsfilen `scripts/scoring/sharpness_calibration.json`.
+Leser `scores_auto.csv`, normaliserer råscorer til 1–10 og beregner `total`.
+Bruker `weights.json` og `tag_weights.json` automatisk hvis de finnes.
+Regenereres fullt ut hver gang – kildefilene røres ikke.
 
-Rekalibrering (kjør etter at mange nye bilder er prosessert):
+### 4. Tag alle bilder med RAM (T45)
 
 ```bash
-find ../temp/bilder/processed -name "*.jpg" | \
-    .venv/bin/python3 scripts/scoring/sharpness.py --recalibrate
+.venv/Scripts/python scripts/tag_images.py
+.venv/Scripts/python scripts/tag_images.py --limit 10  # test
 ```
 
-### Eksponeringsscore – ett bilde (T38)
+Kjører RAM+ (Recognize Anything Model) på hvert bilde og skriver tags til
+`scripts/scoring/scores_ram.csv` (long format: én rad per bilde per tag).
+Første kjøring laster ned modellvekter (~400 MB). Idempotent.
+
+### 5. Score tags med CLIP (T46)
 
 ```bash
-.venv/bin/python3 scripts/scoring/exposure.py <bildefil>
+.venv/Scripts/python scripts/clip_score.py
+.venv/Scripts/python scripts/clip_score.py --limit 10  # test
 ```
 
-Eksempel:
+Leser alle unike tags fra `scores_ram.csv`, scorer hvert bilde mot alle tags
+med CLIP og skriver til `scripts/scoring/scores_clip.csv`. Idempotent.
+
+### 6. Kalibrer vekter – auto-metrikker (T41)
 
 ```bash
-.venv/bin/python3 scripts/scoring/exposure.py ../temp/bilder/processed/20250109_114732.jpg
-# → 20250109_114732.jpg: 8.75  (skygge 3.7%, lys 0.0%)
+.venv/Scripts/python scripts/calibrate_weights.py --dry-run  # se resultat
+.venv/Scripts/python scripts/calibrate_weights.py             # skriv weights.json
+.venv/Scripts/python scripts/build_scores.py                  # oppdater total
 ```
 
-Returnerer clipping-andel (0.0–1.0): andel piksler som er for mørke (< 15) eller
-for lyse (> 240). Lav verdi = god eksponering. Normalisering til 1–10 gjøres av score_images.py.
+Lineær regresjon på normaliserte auto-metrikker mot manuelle ratings i
+`scripts/scoring/scores_manual.csv`. Skriver `scripts/scoring/weights.json`.
 
-### BRISQUE teknisk kvalitet – ett bilde (T39)
+### 7. Kalibrer vekter – tags (T47)
 
 ```bash
-.venv/bin/python3 scripts/scoring/brisque.py <bildefil>
+.venv/Scripts/python scripts/calibrate_tags.py --dry-run  # se topp/bunn-tags
+.venv/Scripts/python scripts/calibrate_tags.py             # skriv tag_weights.json
+.venv/Scripts/python scripts/build_scores.py               # oppdater total
 ```
 
-Returnerer teknisk kvalitetsscore 1–10 basert på BRISQUE. Krever kalibreringsfil
-(`scripts/scoring/brisque_calibration.json`) – uten den vises rå BRISQUE-score.
-Første kjøring laster ned modellvekter (~112 kB) automatisk og caches i
-`~/.cache/torch/hub/pyiqa/`. Påfølgende kjøringer bruker cache.
+Ridge-regresjon på CLIP-scorer mot manuelle ratings. Viser hvilke tags som
+korrelerer positivt (interessant innhold) og negativt. Skriver
+`scripts/scoring/tag_weights.json`.
 
-### MUSIQ estetisk kvalitet – ett bilde (T40)
+### Enkeltbilde-debug (T37–T40)
 
 ```bash
-python scripts/scoring/musiq.py <bildefil>
+.venv/Scripts/python scripts/scoring/sharpness.py <bildefil>
+.venv/Scripts/python scripts/scoring/exposure.py <bildefil>
+.venv/Scripts/python scripts/scoring/brisque.py <bildefil>
+.venv/Scripts/python scripts/scoring/musiq.py <bildefil>
 ```
 
-Første kjøring laster ned modellvekter (~104 MB) automatisk. Påfølgende kjøringer
-bruker cache og starter umiddelbart. Viser rå MUSIQ-score inntil kalibrert.
+Viser råscore og normalisert score (fra `scores_total.csv`) for ett bilde.
 
-### Score alle bilder (T42)
+---
 
-```bash
-.venv/bin/python3 scripts/score_images.py
-```
+## Datafiler
 
-Kjører alle metrikker (skarphet, eksponering, BRISQUE, MUSIQ) på hvert bilde
-og skriver resultater til `scripts/scoring/scores.csv`.
+Alle datafiler ligger i `scripts/scoring/`:
 
-Test med 10 bilder først:
-
-```bash
-.venv/bin/python3 scripts/score_images.py --limit 10
-```
-
-Scriptet er idempotent – bilder som allerede er scoret hoppes over. MUSIQ tar
-1–3 sek/bilde, så et fullt kjør på 1256 bilder tar ca. 30–60 min.
-
-Kolonner i `scores.csv`:
-`filnavn, sharpness_raw, exposure_raw, brisque_raw, musiq_raw, sharpness, exposure, brisque, musiq, total`
-
-Normaliserte scorer (1–10) beregnes automatisk (Pass 2) etter at råscorene er samlet.
+| Fil | Produseres av | Innhold |
+|---|---|---|
+| `scores_auto.csv` | `score_images.py` | Råscorer – append-only |
+| `scores_manual.csv` | bruker | Manuelle ratings 1–10 |
+| `scores_ram.csv` | `tag_images.py` | RAM-tags – long format, append-only |
+| `scores_clip.csv` | `clip_score.py` | CLIP-scorer per tag – long format, append-only |
+| `scores_total.csv` | `build_scores.py` | Normaliserte scorer + total – regenereres fullt |
+| `weights.json` | `calibrate_weights.py` | Regresjonskoeffisienter, auto-metrikker |
+| `tag_weights.json` | `calibrate_tags.py` | Regresjonskoeffisienter, tags |
 
 ---
 
@@ -149,8 +186,13 @@ fjordgata30/
 ├── README.md              – dette dokumentet
 ├── scripts/
 │   ├── process_images.py  – bildeprosessering (zip → JPEG)
-│   ├── score_images.py    – bildescoring (T42)
-│   └── scoring/           – moduler for hver metrikk (T37–T40)
+│   ├── score_images.py    – råscoring (T42)
+│   ├── build_scores.py    – normalisering og total (T48)
+│   ├── tag_images.py      – RAM-tagging (T45)
+│   ├── clip_score.py      – CLIP-scoring (T46)
+│   ├── calibrate_weights.py – vekter for auto-metrikker (T41)
+│   ├── calibrate_tags.py  – vekter for tags (T47)
+│   └── scoring/           – moduler per metrikk + datafiler
 ├── bakgrunn/              – søknader, lovverk, bakgrunnsdokumenter
 ├── brann/                 – branndokumentasjon og TBRT-korrespondanse
 └── referat/               – møtereferater

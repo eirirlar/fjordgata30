@@ -46,6 +46,7 @@ fjordgata30/
 
 - **Tillatelser:** Spør alltid om tillatelse før du kjører kode eller rører filer utenfor prosjektmappen (`fjordgata30/`), selv om du kjører med `--dangerously-skip-permissions`. Dette gjelder bl.a. lesing fra `../stotte` eller andre naboprosjekter – les der, men skriv aldri dit uten eksplisitt godkjenning.
 - **Task-dokumentasjon:** Når en oppgave er løst, dokumenter løsningen under oppgavens kontekst-seksjon i `TASKS.md` og marker statusen som `[x]`. Ikke bare oppdater status uten å notere hva som ble gjort og hvilke filer som ble opprettet/endret.
+- **README-oppdatering:** Vurder alltid om `README.md` må oppdateres som del av å løse en oppgave. Nye scripts, endrede filnavn, endret filstruktur eller nye avhengigheter skal alltid reflekteres i README.
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`
 - **Spør før suboptimal fremgangsmåte:** Hvis du ser at du er i ferd med å gjøre noe på en ineffektiv måte (mange trinn, store tokenkostnader, omveier), stopp og spør brukeren om de er sikre på at de vil at du skal fortsette slik – selv om du kjører med `--dangerously-skip-permissions`.
 

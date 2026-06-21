@@ -43,6 +43,12 @@ def _get_metric() -> pyiqa.InferenceModel:
     return _metric
 
 
+def musiq_normalized(path: Path) -> float | None:
+    """Returnerer normalisert MUSIQ-score (1–10) fra scores_total.csv, eller None."""
+    from . import _lookup
+    return _lookup(path.name, "musiq")
+
+
 def _raw_musiq(path: Path) -> float | None:
     try:
         return float(_get_metric()(str(path)))
@@ -99,11 +105,9 @@ if __name__ == "__main__":
         if raw is None:
             print(f"Kunne ikke lese: {path}")
             sys.exit(1)
-        try:
-            score = musiq_score(path)
-            print(f"{path.name}: {score:.2f}  (rå MUSIQ: {raw:.1f})")
-        except FileNotFoundError:
-            print(f"{path.name}: rå MUSIQ={raw:.1f}  (ikke kalibrert ennå)")
+        norm = musiq_normalized(path)
+        norm_str = f"{norm:.2f}" if norm is not None else "ikke i scores_total.csv"
+        print(f"{path.name}: rå MUSIQ={raw:.1f}  normalisert={norm_str}")
     else:
         print("Bruk: python3 musiq.py <bildefil>")
         print("      find ... | python3 musiq.py --recalibrate")
