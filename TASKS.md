@@ -410,3 +410,141 @@ Rapport sendt til TBRT/brannvesenet ca. 20. april 2026. Filen er konvertert fra 
 **Avhengigheter:** Ingen.
 
 **Løsning (22.06.2026):** Filen gjennomgått i sin helhet. Kun de to kjente konverteringsartefaktene funnet og rettet. Øvrig formatering er korrekt — overskriftshierarki, tabeller og `\newpage`-kommandoer er gyldige og intakte. Filen ble samtidig flyttet fra `bakgrunn/nye/` til `leveranser/`.
+
+---
+
+### T61 `[~]` Populer project_cards.json med primærkildedata for alle tilskudd
+
+**Mål:** `stotte/project_cards.json` skal ha alle felt utfylt fra primærkilder (tilsagnsbrev, søknader, budsjett-xlsx) – ikke fra historikk.md. For hvert prosjektkort: GrantReference, TotalBudget, SupportIntensity, DurationFrom/To, ReportingDates (med datoer og krav), PaymentDates (med triggere og krav), UsageConstraints (eligible/ineligible), SpecialRules.
+
+**Arbeidsregel:** Tilsagnsbrev og budsjettdokumenter er primærkilder. historikk.md er ikke kilde. Kopier kun .txt-filer (ikke PDF) til `bakgrunn/stotte/`.
+
+---
+
+#### Status per 2026-06-22
+
+**KMF-FG30** `[x]` Ferdig
+
+Kilde: `bakgrunn/stotte/kmf_tilsagnsbrev.txt`, `kmf_soeknad_ordinaer.txt`, `kmf_tilbakemelding_20240206.txt`, estimat-filer.
+
+Oppdaterte felt:
+- `GrantReference`: `240126`
+- `TotalBudget`: `5000000` ← fra endelig søknad (kulturminnefondet_2.txt). **NB: ikke oppdatert ennå i project_cards.json – gjenstår.**
+- `GrantAmount`: `750000` ✓
+- `SupportIntensity`: `0.30` ✓
+- `DurationFrom`: `2024-03-13` (vedtaksdato), `DurationTo`: null (ikke fastlagt)
+- `UsageConstraints.eligible`: fjerne/bevare originale paneler/gulvplater/himlinger, undersøke bærekonstruksjon, skifte søyler/innkassing, reetablere bæresystem, kjøp av håndverkertjenester
+- `UsageConstraints.ineligible`: administrasjon/regnskap/planlegging, dugnad/egne maskiner, trykkimpregnerte materialer, kostnader over sluttregnskapet
+- `SpecialRules`: KMF-spesifikke krav om materialkvalitet, antikvarisk standard fra BYA, ingen trykkimpregnering
+- `Comments`: vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024, prosjektnr 240126. **Merk: prosjektet er endret fra kontorbygg til minilager – KMF må informeres (T20).**
+
+Kopiert til `bakgrunn/stotte/`:
+- `kmf_tilsagnsbrev.txt` (fra `temp/Kulturminnefondet/Kulturminnefondet 1/`)
+- `kmf_soeknad_ordinaer.txt` (fra `temp/.../Tilsvar 1/kulturminnefondet_2.txt` – den endelige reviderte søknaden, primærkilde)
+- `kmf_tilbakemelding_20240206.txt` (KMFs forespørsel om tilleggsopplysninger)
+- `kmf_estimat_rehab_kjeller.txt`, `kmf_estimat_rehab_1etg.txt` (kostnadsestimater)
+- Fantes fra før: `kmf_soeknad_sikringstiltak.txt`, `kmf_tilsvar_soeknadssvar.txt`
+
+**Gjenstår for KMF-FG30:** Sett `TotalBudget: 5000000` i project_cards.json (bekreftet fra kmf_soeknad_ordinaer.txt: totalbudsjett 5 000 000 NOK, omsøkt KMF-andel 1 500 000, innvilget 750 000).
+
+---
+
+**BYA-FG30** `[x]` Ferdig
+
+Kilde: `temp/Byantikvaren/Fjordgata 30 - Søknad om tilskudd rehabilitering av bærekonstruksjon(ref. CS0495805).txt` (tilsagnsbrev), `søknad_byantikvaren.txt`, `Vedlegg 1 Akseptskjema tilskudd brygger.txt`.
+
+Oppdaterte felt:
+- `GrantReference`: `2025/5928`
+- `TotalBudget`: `2285714`
+- `GrantAmount`: `500000` ✓ (søkte 750 000, fikk 500 000)
+- `SupportIntensity`: `0.219` (500 000 / 2 285 714)
+- `DurationFrom`: `2025-06-01`, `DurationTo`: `2025-12-31`
+- `ReportingDates[0].DeadlineDate`: `2025-12-01` (primært)
+- `UsageConstraints.eligible`: forsterking fundamenter, retting skjevheter, fjerning/dok/tilbakeføring av paneler, utskifting råteskadde søyler/bjelker, stabilisere yttervegger/etasjeskillere
+- `UsageConstraints.ineligible`: fasade/vinduer/tak, utredningsoppgaver/pilotprosjekter, allerede utførte arbeider, kostnader over sluttregnskapet
+- `SpecialRules`: antikvarisk spesialkompetanse påkrevd, løpende dialog med BYA, solceller på tak krever BYA-godkjenning ved IG-søknad
+- `PaymentDates`: utbetalingsanmodning på Vedlegg 2-skjema + rapport + faktura/regnskap → byantikvaren.kart@trondheim.kommune.no
+
+**NB:** Alle PDF-filer i temp/Byantikvaren er allerede konvertert til .txt. De relevante har ikke blitt kopiert til bakgrunn/stotte/ ennå – BYA-dokumentene ligger kun i temp/.
+
+---
+
+**UNI-FG30** `[x]` Ferdig
+
+Kilde: `temp/UNI/UNI 2/Tildeling etter styremøte i Stiftelsen UNI.txt`, `Budsjett.xlsx`.
+**NB:** `temp/UNI/UNI 1/` er en avslått søknad – irrelevant. Ignorer UNI 1.
+
+Oppdaterte felt:
+- `GrantReference`: `UNI-38702`
+- `TotalBudget`: `1785000` (hele prosjektbudsjettet fra Budsjett.xlsx: kun «Planlagte kjøp av tjenester» = 1 785 000; alle andre poster = 0)
+- `GrantAmount`: `100000` ✓
+- `SupportIntensity`: `0.056` (100 000 / 1 785 000) – den gamle verdien 0.15 var feil
+- `DurationFrom`: `2024-06-30` (søknadsdato)
+- `ProjectName`: rettet til «brannsikring» (formålet er brannsikring, ikke generell restaurering)
+- `UsageConstraints.eligible`: brannsikring, sprinkelanlegg, rømningsveier, brannskiller
+- `UsageConstraints.ineligible`: dugnad, egne maskiner/materialer, lønn egne ansatte
+- `SpecialRules`: utbetaling krever revisor/regnskapsfører-bekreftelse; rapportering via søknadsportal («Be om utbetaling»)
+- `ReportingDates`: sluttrapport via søknadsportal, automatisk tilsendt 3 år etter oppstart
+- `PaymentDates`: forutsetning – hele prosjektet (1 785 000) finansieres og ferdigstilles; styrevedtak 28.08.2024, brev 03.09.2024
+
+Kopiert til `bakgrunn/stotte/`:
+- `uni_tildeling.txt` (fra `temp/UNI/UNI 2/Tildeling etter styremøte i Stiftelsen UNI.txt`)
+- `uni_anbefaling.txt` (fra `temp/UNI/UNI 2/Fjordgata+30+-+anbefaling+av+søknad+om+tilskudd.txt`)
+- Fantes fra før: `uni_soeknad.txt`
+
+**NB:** `temp/UNI/UNI 2/TilsagnsbrevFastKulturminne (6) (2).txt` er KMFs tilsagnsbrev, ikke et UNI-dokument – ble lagt ved som vedlegg i UNI 2-søknaden.
+
+---
+
+**ENOVA-KL-FG30** `[~]` Påbegynt – ingen tilsagnsbrev tilgjengelig
+
+Kilde: `temp/Enova/Energikartlegging i Yrkesbygg/webskjema.txt` (søknad), `bakgrunn/stotte/hrp_energikartlegging_rapport.md` (ferdig rapport).
+
+Det finnes **ingen tilsagnsbrev eller budsjett-xlsx** for energikartleggingen i temp-mappen. GrantAmount 500 000 NOK er kun kilde historikk.md – ikke verifisert fra primærkilde.
+
+Kjente fakta fra søknad:
+- Leverandører: Sastech (energianalyse/rapport), HRP (teknisk gjennomførbarhet), SAHAA (arkitektur), Astra Bygg (kostnadsestimat)
+- Ferdigstillelse: innen 8 måneder fra vedtaksdato
+- Rapportering: Enovas søknads- og rapporteringssenter
+- Alle kostnader er kjøp av rådgivningstjenester
+
+Kjente fakta fra ferdig rapport (HRP, 05.05.2026):
+- Energikartleggingsrapporten er **ferdigstilt** (befaring 30.03.2026)
+- Utarbeidet iht. Enovas krav og NS 3031:2025
+- HRP prosjektnr: 2612200
+
+Gjenstår:
+- Finn tilsagnsbrev fra Enova (sjekk Enovas søknadsportal – der ligger referanse og vedtaksdato)
+- Oppdater: GrantReference, TotalBudget, DurationFrom, DurationTo
+- Legg til UsageConstraints: kjøp av rådgivningstjenester til energikartlegging iht. NS 3031
+- Oppdater ReportingDates: rapport ferdig 05.05.2026, klar for innlevering
+
+---
+
+**ENOVA-OM-FG30** `[ ]` Ikke startet
+
+Kilde: `temp/Enova/Mulighetsstudie ombruk og Fleksibilitet/` – inneholder:
+- `Mulighetsstudie for ombruk og fleksibilitet _ Enova.txt` (søknad/prosjektbeskrivelse)
+- `Vilkår for støtte til Mulighetsstudie.txt` (vilkårsdokument – primærkilde for krav)
+- `webskjema.txt` (søknadsskjema)
+- `Budsjett ombruk.xlsx` (budsjett – skal leses med openpyxl via `uv run python3`)
+
+Fantes fra før i `bakgrunn/stotte/`: `enova_soeknad_ombrukskartlegging.md`
+
+Kjent: GrantAmount 400 000 NOK (kun fra historikk.md), ferdigstillelse innen 10 måneder fra vedtaksdato.
+
+---
+
+#### Kjente mangler på tvers av alle kort
+
+| Prosjekt | Mangler |
+|----------|---------|
+| KMF-FG30 | `TotalBudget: 5000000` ikke skrevet inn ennå |
+| BYA-FG30 | Dokumenter ikke kopiert til bakgrunn/stotte/ (ligger kun i temp/) |
+| ENOVA-KL-FG30 | Tilsagnsbrev mangler – GrantReference og DurationFrom ukjent |
+| ENOVA-OM-FG30 | Ikke påbegynt – les alle dokumenter i temp/Enova/Mulighetsstudie |
+
+#### Verktøy
+- Excel-lesing: `uv run python3 -c "import openpyxl; ..."` (openpyxl er installert i uv-miljøet)
+- PDF→tekst: `pdftotext -layout "fil.pdf" - > fil.txt`
+- DOCX→tekst: `pandoc -t plain fil.docx -o fil.txt`
