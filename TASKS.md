@@ -643,3 +643,82 @@ Hent inn og dokumenter relevant lovverk og praksis knyttet til MVA ved utleie av
 7. **Relevante rettskilder** – lovtekst, Skattedirektoratets bindende forhåndsuttalelser (BFU), Merverdiavgiftshåndboken
 
 **Avhenger av / relatert til:** T33 (MVA-redegjørelse for minilager)
+
+---
+
+### T45 `[x]` Finpuss layout – OCR-korrupsjon, sammenkjørte ord (gruppe A)
+**Mappe:** `bakgrunn/`
+
+17 filer har gjennomgående OCR-korrupsjon fra PDF-konvertering: ord er kjørt sammen uten mellomrom (typisk mønster: «kanikke se å hamottat», «V iser til» o.l.). Filene er ellers strukturelt greie (brevformat, avsnitt), men teksten er lite leselig.
+
+**Subtasks:**
+
+- `[x]` **T45.01** `2018-01-15_tbrt_tilsynsrapport_varsel_paalegg.md` – Tilsynsrapport med 3 avvik + følgebrev. Lengst og viktigst (grunnlag for T31).
+- `[x]` **T45.02** `2018-02-19_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring på tilbakemelding etter tilsyn jan 2018.
+- `[x]` **T45.03** `2018-10-05_tbrt_vedroerende_tilbakemelding.md` – TBRTs svar på KodeWorks' tilbakemelding.
+- `[x]` **T45.04** `2018-12-11_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel om pålegg, des 2018.
+- `[x]` **T45.05** `2019-03-06_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, mars 2019.
+- `[x]` **T45.06** `2019-06-28_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel om pålegg, jun 2019.
+- `[x]` **T45.07** `2019-08-12_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, aug 2019.
+- `[x]` **T45.08** `2019-11-11_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, nov 2019.
+- `[x]` **T45.09** `2019-12-17_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, des 2019.
+- `[x]` **T45.10** `2020-10-01_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, okt 2020.
+- `[x]` **T45.11** `2020-11-04_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, nov 2020.
+- `[x]` **T45.12** `2021-04-23_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, apr 2021.
+- `[x]` **T45.13** `2021-06-02_tbrt_mangelfull_tilbakemelding.md` – TBRT mener tilbakemelding er mangelfull.
+- `[x]` **T45.14** `2021-08-03_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel, aug 2021.
+- `[x]` **T45.15** `2021-09-23_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, sep 2021.
+- `[x]` **T45.16** `2021-11-25_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel, nov 2021.
+- `[x]` **T45.17** `2022-03-03_tbrt_etterkontroll_varsel_paalegg.md` – Etterkontroll med varsel om pålegg, mar 2022.
+
+**Tilnærming:** Ingen original-PDFer tilgjengelig. Les fil, rekonstruer korrekt norsk tekst fra kontekst, fjern `Feil! Fant ikke referansekilden.`-artefakter, skriv tilbake. Der originalteksten er helt uleselig merkes setningen `[OCR-lesefeil – original ukjent]`.
+
+---
+
+### T46 `[x]` Finpuss layout – ødelagte tabeller (gruppe B)
+**Mappe:** `bakgrunn/`
+
+3 filer inneholder tabelldata fra originaldokumenter som ikke er konvertert til korrekt Markdown-tabellformat. Dataene er gjerne på plass, men kolonnene er ikke alignet og det mangler header-separator (`|---|---|`).
+
+**Filer:**
+- `2018-09_tekøk_tiltaksplan_skjema.md` – skjema med avviksstatus, pipe-separert men uformatert
+- `2020_tiltaksplan_status_a.md` – tiltaksplan med statuskolonner, ødelagt struktur
+- `2020_tiltaksplan_status_b.md` – samme som over, fortsettelse
+
+**Tilnærming:** Les filen, identifiser tabellstrukturen, skriv om til korrekt `| Kolonne | Kolonne |` Markdown med separator-rad.
+
+---
+
+### T47 `[x]` Finpuss layout – tekniske rapporter med innholdsfortegnelse (gruppe C)
+**Mappe:** `bakgrunn/`
+
+3 store tekniske rapporter fra Tekøk har ujevn avstandsformatering og innholdsfortegnelse som ikke er korrekt strukturert i Markdown.
+
+**Filer:**
+- `2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md`
+- `2018-09-22_tekøk_brannteknisk_vurdering_rev_d.md`
+- `2022-12-18_tekøk_status_gjenstaende_avvik.md`
+
+**Tilnærming:** Tilnærming avhenger av om original-PDF finnes – i så fall bruk `pdftotext -layout`. Ellers: rydd opp innholdsfortegnelse, normaliser avstandsformatering mellom seksjoner, sikre at overskriftsnivåer er konsistente (`#`, `##`, `###`).
+
+**Løsning (2026-06-19):** Alle tre filer renset og skrevet om fra bunn:
+- Fjernet gjentatte sidehovedblokker (ca. 6–11 forekomster per fil): `TekØk AS Prosjekt nr: 2006-0057 ...` + `Side: Dato: Fil: Rev.:` / `X av Y [dato] [filsti] [rev]`
+- Fjernet løsrevne `TekØk AS` / `Teknisk-Økonomisk Brannrådgivning`-linjer
+- Rekonstruerte innholdsfortegnelse som nestet Markdown-liste uten sidetall
+- Rekonstruerte stor sammenligningstabell i seksjon 4 (4 kolonner: Ref. i TEK/REN | Beskrivelse | Ytelseskrav | Merknad) fra fragmentert OCR-output
+- Erstattet alle `·`/`•`-kulepunkter med korrekte `-`-lister; splittet sammenkjedede listeelementer
+- Rev C (BKL3, 14.09.2018) og Rev D (BKL2, 22.09.2018) bevarer alle forskjeller i ytelseskrav (R90→R60, A-klasse→B-klasse for bærende og branncellebegrensende konstruksjoner i Rev D)
+
+---
+
+### T48 `[x]` Finpuss layout – sterkt ødelagt OCR-dokument (gruppe D)
+**Mappe:** `bakgrunn/`
+
+Én fil er så sterkt OCR-skadet at innholdet er nesten uleselig – teksten er fragmentert i løsrevne biter og sjekklister har mistet sin struktur helt.
+
+**Fil:**
+- `2013-06-06_ik_kontroll_trondheim_baatforening.md` – IK-kontroll, Trondheim Båtforening
+
+**Tilnærming:** Forsøk først `pdftotext -layout` på original-PDF. Dersom PDF ikke finnes og dokumentet er irrelevant for de aktive klageprosessene (T31 m.fl.), vurder om filen bør beholdes eller slettes. Avklar med Eirik før sletting.
+
+**Løsning (2026-06-19):** Ingen original-PDF tilgjengelig. Full rekonstruksjon gjennomført: alle 16 sjekklister (01-00 t.o.m. 10-05) rekonstruert som Markdown-tabeller med korrekte OK/FEIL-resultater (verifisert mot avviksloggen), avvikslogg med 40 avvik formatert som tabell, tiltaksplan med alle 40 tiltak formatert som tabell. Gjentatte sidehoder og løsrevne sidetall fjernet. 2200 OCR-linjer redusert til lesbar strukturert Markdown.
