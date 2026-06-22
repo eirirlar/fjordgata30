@@ -5,7 +5,7 @@ Bruker PyIQA sin musiq-spaq-modell, trent på smartphone-bilder med
 menneskelige kvalitetsvurderinger (SPAQ-dataset). Modellvekter (~104 MB)
 lastes ned automatisk første gang og caches i ~/.cache/torch/hub/pyiqa/.
 
-Eksporterer musiq_score(path) for bruk i score_images.py (T42).
+Eksporterer musiq_score(path) for bruk i score_auto.py (T42).
 
 Standalone – ett bilde:
     python3 scripts/scoring/musiq.py <bildefil>

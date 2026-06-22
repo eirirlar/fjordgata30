@@ -6,8 +6,8 @@ Long format, append-only – én rad per bilde per tag.
 Idempotent – bilder som allerede har rader hoppes over.
 
 Bruk:
-    .venv/Scripts/python scripts/clip_score.py
-    .venv/Scripts/python scripts/clip_score.py --limit 10
+    .venv/Scripts/python scripts/score_clip.py
+    .venv/Scripts/python scripts/score_clip.py --limit 10
 """
 
 from __future__ import annotations
@@ -60,7 +60,7 @@ def main() -> None:
         sys.exit(1)
 
     if not SCORES_RAM.exists():
-        print(f"FEIL: {SCORES_RAM.name} finnes ikke – kjør tag_images.py (T45) først.")
+        print(f"FEIL: {SCORES_RAM.name} finnes ikke – kjør score_ram.py (T45) først.")
         sys.exit(1)
 
     parser = argparse.ArgumentParser(description="CLIP-score tags per bilde (T46)")

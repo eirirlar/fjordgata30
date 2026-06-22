@@ -5,8 +5,8 @@ Long format, append-only – én rad per bilde per tag.
 Idempotent – bilder som allerede har rader hoppes over.
 
 Bruk:
-    .venv/Scripts/python scripts/tag_images.py
-    .venv/Scripts/python scripts/tag_images.py --limit 10
+    .venv/Scripts/python scripts/score_ram.py
+    .venv/Scripts/python scripts/score_ram.py --limit 10
 """
 
 from __future__ import annotations
@@ -99,7 +99,7 @@ def main() -> None:
         _append_tags(img_path.name, tags)
         print(f"  [{i}/{len(new_images)}] {img_path.name}: {tags}")
 
-    print(f"\nFerdig. Kjør clip_score.py for å score tags med CLIP.")
+    print(f"\nFerdig. Kjør score_clip.py for å score tags med CLIP.")
 
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@ Teknisk bildekvalitet via BRISQUE (T39).
 Bruker PyIQA sin BRISQUE-implementasjon. Modellvekter (~112 kB) lastes ned
 automatisk første gang og caches i ~/.cache/torch/hub/pyiqa/.
 
-Eksporterer brisque_score(path) for bruk i score_images.py (T42).
+Eksporterer brisque_score(path) for bruk i score_auto.py (T42).
 
 Standalone – ett bilde:
     python3 scripts/scoring/brisque.py <bildefil>

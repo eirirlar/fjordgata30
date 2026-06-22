@@ -743,3 +743,70 @@ filnavn,sharpness,exposure,brisque,musiq,tag_score,total
 ```
 
 **Løsning (2026-06-21):** `scripts/build_scores.py` opprettet. Eksisterende `scores.csv` migrert: råscorer → `scores_auto.csv`, normaliserte → `scores_total.csv`, `manuelle_scores.csv` → `scores_manual.csv`.
+
+---
+
+### T49 `[x]` Rydd opp i navngivning av scripts og vektfiler
+
+Inkonsistent navngivning mellom scripts og datafiler. Ingen CSV-datafiler røres.
+
+**Scripts som omdøpes:**
+- `score_images.py` → `score_auto.py`
+- `tag_images.py` → `score_ram.py`
+- `clip_score.py` → `score_clip.py`
+- `calibrate_weights.py` → `calibrate_auto.py`
+
+**JSON-filer som omdøpes:**
+- `scripts/scoring/weights.json` → `scripts/scoring/weights_auto.json`
+- `scripts/scoring/tag_weights.json` → `scripts/scoring/weights_tags.json`
+
+**CSV-datafiler røres ikke** (`scores_auto.csv`, `scores_ram.csv`, `scores_clip.csv`, `scores_total.csv`, `scores_manual.csv`).
+
+Alle interne filreferanser i scripts og README oppdateres.
+
+---
+
+### T50 `[x]` Bildescoring – kombinert modell på auto-metrikker + CLIP-tags
+
+**Motivasjon:** `build_scores.py` kombinerer nå `auto_score` og `tag_score` med fast 50/50-vekting, som ikke er begrunnet i data. Auto-modellen har R²=0.15 og tag-modellen R²=0.38. En felles modell trent på alle features samtidig er metodisk mer korrekt og vil gi høyere R².
+
+**Tilnærming:** Ridge-regresjon på alle 723 features (4 auto-metrikker + 719 CLIP-scores) mot manuelle ratings. Auto-metrikker normaliseres til 1–10 med p5/p95 akkurat som i dag. Deretter skaleres alle 723 features med `StandardScaler` (mean=0, std=1) rett før Ridge, siden auto-metrikker (1–10) og CLIP-scores (~0.1–0.4) ellers er på ulike skalaer og Ridge vil favorisere den gruppen med størst absoluttverdi. p5/p95-normaliseringen for auto-metrikker endres ikke.
+
+**Script:** `scripts/calibrate_combined.py`
+
+**Output:** `scripts/scoring/weights_combined.json`
+
+Format – scaler-parametrene og Ridge-koeffisientene lagres per feature:
+```json
+{
+  "intercept": 5.42,
+  "features": {
+    "sharpness": {"mean": 5.1, "std": 2.3, "coef": 0.18},
+    "exposure":  {"mean": 4.8, "std": 2.1, "coef": -0.09},
+    "debris":    {"mean": 0.21, "std": 0.04, "coef": 0.34},
+    ...
+  }
+}
+```
+
+**Bruk:**
+```bash
+.venv/Scripts/python scripts/calibrate_combined.py --dry-run  # se R² uten å skrive
+.venv/Scripts/python scripts/calibrate_combined.py            # skriv weights_combined.json
+.venv/Scripts/python scripts/build_scores.py                  # regenerer scores_total.csv
+```
+
+**Endring i `build_scores.py`:** Hvis `weights_combined.json` finnes, bruk den til å beregne `total` direkte. Kolonnene `auto_score` og `tag_score` beholdes i `scores_total.csv` for referanse, men `total` beregnes av combined-modellen alene — ikke 50/50-snittet. Faller tilbake på dagens tilnærming hvis filen ikke finnes.
+
+**Avhengighet:** `scikit-learn`, `scores_auto.csv`, `scores_clip.csv`, `scores_manual.csv`
+
+**Eksempelbilde: `20250129_131504.jpg`**
+
+Brukt som konkret testcase i diskusjonen. Kjeller med rør, søppel og rusk.
+
+- RAM-tags: `basement`, `beam`, `ceiling`, `pillar`, `debris`, `floor`, `garbage`, `hose`, `mess`, `pipe`, `room`, `rubble`, `waste`, `water pipe`
+- Auto-scores (normalisert 1–10): sharpness=4.32, exposure=7.09, brisque=8.61, musiq=7.61
+- Dagens total: auto_score=5.65, tag_score=5.44, total=5.54 (50/50)
+- Manuell rating: **ikke ratet** — kan ikke verifisere modellen direkte på dette bildet, men det er nyttig for å se om combined-modellen gir et annet resultat enn 5.54 og i hvilken retning.
+
+Forventning: combined-modellen vil sannsynligvis vekte `debris`, `pipe` og `rubble` positivt (byggrelatert innhold) og `garbage`/`mess` svakere negativt. Sharpness=4.32 er lav og vil trekke ned noe. Samlet forventes total å ligge nær 5–6, men med bedre begrunnet vekting enn i dag.

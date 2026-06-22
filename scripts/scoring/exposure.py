@@ -1,7 +1,7 @@
 """
 Eksponeringsvurdering via histogramanalyse (T38).
 
-Eksporterer exposure_score(path) for bruk i score_images.py (T42).
+Eksporterer exposure_score(path) for bruk i score_auto.py (T42).
 Returnerer total clipping-andel (0.0–1.0). Høyere = dårligere eksponering.
 Normalisering til 1–10 gjøres av T42 på tvers av hele datasettet.
 

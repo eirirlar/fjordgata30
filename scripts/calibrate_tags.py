@@ -1,5 +1,5 @@
 """
-T47 – Regresjon på CLIP-tags + manuelle ratings → tag_weights.json.
+T47 – Regresjon på CLIP-tags + manuelle ratings → weights_tags.json.
 
 Ridge-regresjon pga mange features (tags) og begrenset antall manuelle ratings.
 Kjør build_scores.py etterpå for å regenerere scores_total.csv.
@@ -24,7 +24,7 @@ from sklearn.linear_model import Ridge
 SCORING_DIR      = Path(__file__).resolve().parent / "scoring"
 SCORES_CLIP      = SCORING_DIR / "scores_clip.csv"
 SCORES_MANUAL    = SCORING_DIR / "scores_manual.csv"
-TAG_WEIGHTS_JSON = SCORING_DIR / "tag_weights.json"
+TAG_WEIGHTS_JSON = SCORING_DIR / "weights_tags.json"
 
 
 def _read_clip() -> dict[str, dict[str, float]]:
@@ -55,7 +55,7 @@ def main() -> None:
     args = parser.parse_args()
 
     if not SCORES_CLIP.exists():
-        print(f"FEIL: {SCORES_CLIP.name} finnes ikke – kjør clip_score.py (T46) først.")
+        print(f"FEIL: {SCORES_CLIP.name} finnes ikke – kjør score_clip.py (T46) først.")
         sys.exit(1)
 
     clip   = _read_clip()

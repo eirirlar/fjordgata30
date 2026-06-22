@@ -1,15 +1,12 @@
 """
-T41 steg B – Lineær regresjon for å finne vekter til total-score.
+T41 steg B – Lineær regresjon for å finne vekter til auto-score.
 
-Les manuelle_scores.csv og scores.csv, join på filnavn, kjør LinearRegression,
-og lagre koeffisienter i weights.json.
-
-scores.csv berøres IKKE. Kjør score_images.py --pass 2 etterpå for å oppdatere
-total-kolonnen med de nye vektene.
+Les scores_manual.csv og scores_total.csv, join på filnavn, kjør LinearRegression,
+og lagre koeffisienter i weights_auto.json.
 
 Bruk:
-    .venv/bin/python3 scripts/calibrate_weights.py           # skriv weights.json
-    .venv/bin/python3 scripts/calibrate_weights.py --dry-run # skriv ingenting
+    .venv/Scripts/python scripts/calibrate_auto.py           # skriv weights_auto.json
+    .venv/Scripts/python scripts/calibrate_auto.py --dry-run # skriv ingenting
 """
 
 from __future__ import annotations
@@ -25,7 +22,7 @@ from sklearn.linear_model import LinearRegression
 
 SCORES_TOTAL = Path(__file__).resolve().parent / "scoring" / "scores_total.csv"
 SCORES_MANUAL = Path(__file__).resolve().parent / "scoring" / "scores_manual.csv"
-WEIGHTS_JSON = Path(__file__).resolve().parent / "scoring" / "weights.json"
+WEIGHTS_JSON = Path(__file__).resolve().parent / "scoring" / "weights_auto.json"
 
 FEATURES = ["sharpness", "exposure", "brisque", "musiq"]
 
@@ -43,7 +40,7 @@ def read_manual() -> dict[str, float]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Kalibrer vekter via lineær regresjon (T41 steg B)")
-    parser.add_argument("--dry-run", action="store_true", help="Ikke skriv til CSV eller weights.json")
+    parser.add_argument("--dry-run", action="store_true", help="Ikke skriv til weights_auto.json")
     args = parser.parse_args()
 
     if not SCORES_TOTAL.exists():
@@ -93,7 +90,7 @@ def main() -> None:
     if not args.dry_run:
         WEIGHTS_JSON.write_text(json.dumps(weights, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"Vekter lagret: {WEIGHTS_JSON}")
-        print(f"Kjør nå: .venv/bin/python3 scripts/score_images.py --pass 2")
+        print(f"Kjør nå: .venv/Scripts/python scripts/build_scores.py")
     else:
         print("Dry-run – ingen filer skrevet.")
 

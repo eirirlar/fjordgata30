@@ -5,9 +5,10 @@ Les scores_auto.csv, normaliser råscorer, beregn total per bilde.
 Dette er den eneste filen som regenereres fullt ut – alle kildefiler forblir urørt.
 
 Valgfrie kildefiler (brukes automatisk hvis de finnes):
-  weights.json      – regresjonskoeffisienter for auto-metrikker (T41)
-  scores_clip.csv   – CLIP-scorer per tag per bilde (T46)
-  tag_weights.json  – regresjonskoeffisienter per tag (T47)
+  weights_combined.json – kombinert modell, auto + tags (T50) – prioriteres
+  weights_auto.json     – regresjonskoeffisienter for auto-metrikker (T41)
+  scores_clip.csv       – CLIP-scorer per tag per bilde (T46)
+  weights_tags.json     – regresjonskoeffisienter per tag (T47)
 
 Bruk:
     .venv/Scripts/python scripts/build_scores.py
@@ -25,8 +26,9 @@ SCORING_DIR  = Path(__file__).resolve().parent / "scoring"
 SCORES_AUTO  = SCORING_DIR / "scores_auto.csv"
 SCORES_CLIP  = SCORING_DIR / "scores_clip.csv"
 SCORES_TOTAL = SCORING_DIR / "scores_total.csv"
-WEIGHTS_JSON     = SCORING_DIR / "weights.json"
-TAG_WEIGHTS_JSON = SCORING_DIR / "tag_weights.json"
+WEIGHTS_JSON     = SCORING_DIR / "weights_auto.json"
+TAG_WEIGHTS_JSON = SCORING_DIR / "weights_tags.json"
+WEIGHTS_COMBINED = SCORING_DIR / "weights_combined.json"
 
 P_LOW, P_HIGH = 5, 95
 
@@ -83,18 +85,26 @@ def main() -> None:
         percentiles[col] = (p5, p95)
         print(f"  {col}: p{P_LOW}={p5:.3f}  p{P_HIGH}={p95:.3f}")
 
-    # Last vekter
+    # Last combined-modell (prioriteres hvis den finnes)
+    combined_weights = None
+    if WEIGHTS_COMBINED.exists():
+        combined_weights = json.loads(WEIGHTS_COMBINED.read_text(encoding="utf-8"))
+        print(f"Kombinert modell lastet fra {WEIGHTS_COMBINED.name}")
+
+    # Last separate vekter (fallback)
     weights = None
     if WEIGHTS_JSON.exists():
         weights = json.loads(WEIGHTS_JSON.read_text(encoding="utf-8"))
-        print(f"Vekter lastet fra {WEIGHTS_JSON.name}")
+        if not combined_weights:
+            print(f"Vekter lastet fra {WEIGHTS_JSON.name}")
 
     # Last CLIP og tag-vekter
     clip_rows = _read_clip()
     tag_weights = None
     if TAG_WEIGHTS_JSON.exists() and clip_rows:
         tag_weights = json.loads(TAG_WEIGHTS_JSON.read_text(encoding="utf-8"))
-        print(f"Tag-vekter lastet fra {TAG_WEIGHTS_JSON.name} ({len(tag_weights)-1} tags)")
+        if not combined_weights:
+            print(f"Tag-vekter lastet fra {TAG_WEIGHTS_JSON.name} ({len(tag_weights)-1} tags)")
 
     out_rows = []
     for fn, row in rows.items():
@@ -108,7 +118,7 @@ def main() -> None:
         if not norm:
             continue
 
-        # Auto-score
+        # Auto-score (alltid beregnet for kolonner i output)
         if weights:
             auto_score = weights["intercept"] + sum(
                 weights.get(c, 0) * v for c, v in norm.items()
@@ -117,7 +127,7 @@ def main() -> None:
         else:
             auto_score = sum(norm.values()) / len(norm)
 
-        # Tag-score
+        # Tag-score (alltid beregnet for kolonner i output)
         tag_score_str = ""
         if tag_weights and fn in clip_rows:
             ts = tag_weights.get("intercept", 0) + sum(
@@ -126,8 +136,17 @@ def main() -> None:
             )
             tag_score_str = f"{max(1.0, min(10.0, ts)):.2f}"
 
-        # Total
-        if tag_score_str:
+        # Total – combined-modell hvis tilgjengelig, ellers 50/50
+        if combined_weights and fn in clip_rows:
+            feats = combined_weights["features"]
+            raw_total = combined_weights["intercept"] + sum(
+                ((norm.get(name) or clip_rows[fn].get(name, 0)) - feats[name]["mean"])
+                / feats[name]["std"] * feats[name]["coef"]
+                for name in feats
+                if feats[name]["std"] > 0
+            )
+            total = max(1.0, min(10.0, raw_total))
+        elif tag_score_str:
             total = (auto_score + float(tag_score_str)) / 2
         else:
             total = auto_score

@@ -1,7 +1,7 @@
 """
 Skarphetsmåling via Laplacian-varians (T37).
 
-Eksporterer sharpness_score(path) for bruk i score_images.py (T42).
+Eksporterer sharpness_score(path) for bruk i score_auto.py (T42).
 Returnerer råscore (Laplacian-varians). Normalisering til 1–10 gjøres av T42.
 
 Standalone – ett bilde:
