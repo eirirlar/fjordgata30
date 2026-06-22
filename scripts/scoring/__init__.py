@@ -3,7 +3,7 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-_SCORES_TOTAL = Path(__file__).resolve().parent / "scores_total.csv"
+_SCORES_TOTAL = Path(__file__).resolve().parents[2] / "data" / "scores_total.csv"
 _cache: dict[str, dict] | None = None
 
 

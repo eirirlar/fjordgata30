@@ -66,50 +66,51 @@ source .venv/bin/activate
 
 ## Dataflyt
 
-```
-../temp/bilder/*.zip
-        │
-        ▼
-  process_images.py
-        │
-        ▼
-../temp/bilder/processed/*.jpg
-        │
-        ├──────────────────────────────┐
-        ▼                              ▼
-  score_auto.py                  score_ram.py
-        │                              │
-        ▼                              ▼
-  scores_auto.csv            scores_ram.csv
-        │                              │
-        │                              ▼
-        │                        score_clip.py
-        │                              │
-        │                              ▼
-        │                        scores_clip.csv
-        │                              │
-        │            scores_manual.csv │
-        │                   │          │
-        │          ┌────────┴──────────┘
-        │          ▼
-        │   calibrate_combined.py   (også calibrate_auto.py / calibrate_tags.py
-        │          │                 for separate vekter)
-        │          ▼
-        │   weights_combined.json
-        │   weights_auto.json
-        │   weights_tags.json
-        │          │
-        └──────────┤
-                   ▼
-             build_scores.py
-                   │
-                   ▼
-            scores_total.csv
+```mermaid
+flowchart TD
+    ZIP["../temp/bilder/*.zip"]
+    PI["process_images.py"]
+    IMGS["processed/*.jpg"]
+    SA["score_auto.py"]
+    SR["score_ram.py"]
+    SC["score_clip.py"]
+    AUTO["scores_auto.csv"]
+    RAM["scores_ram.csv"]
+    CLIP["scores_clip.csv"]
+    MAN["scores_manual.csv"]
+    CAL["calibrate_combined.py"]
+    W["weights_combined.json"]
+    BS["build_scores.py"]
+    TOT["scores_total.csv"]
+
+    ZIP --> PI --> IMGS
+    IMGS --> SA --> AUTO
+    IMGS --> SR --> RAM --> SC --> CLIP
+    AUTO & CLIP & MAN --> CAL --> W
+    AUTO & W --> BS --> TOT
+
+    subgraph score_all.py
+        PI; SA; SR; SC; CAL; BS
+    end
 ```
 
 ---
 
 ## Scripts
+
+### 0. Kjør hele pipelinen
+
+```bash
+.venv/bin/python scripts/score_all.py
+```
+
+Kjører alle steg i sekvens. Stopper ved feil. Bruker samme Python-executable som
+scriptet ble startet med, slik at riktig venv alltid er aktiv.
+
+Stegene er: `process_images.py` → `score_auto.py` → `score_ram.py` → `score_clip.py`
+→ `calibrate_combined.py` → `build_scores.py`
+
+---
 
 ### 1. Prosessere bilder
 
@@ -204,7 +205,7 @@ Viser råscore og normalisert score (fra `scores_total.csv`) for ett bilde.
 
 ## Datafiler
 
-Alle datafiler ligger i `scripts/scoring/`.
+Alle datafiler ligger i `data/`.
 
 ### `scores_auto.csv` — append-only, skrives av `score_auto.py`
 
@@ -253,6 +254,7 @@ Hvert bilde har én rad per tag i hele vokabularet (719 tags × 1258 bilder = 90
 | `musiq` | Normalisert MUSIQ 1–10 (p5/p95) |
 | `tag_score` | Score fra `weights_tags.json` (referanse, brukes ikke i total hvis combined finnes) |
 | `total` | Endelig score 1–10 – fra combined-modell hvis `weights_combined.json` finnes, ellers 50/50 auto+tag |
+| `manual` | Manuell rating 1–10 (tom hvis ikke ratet) – for kvalitetskontroll mot modellscoren |
 
 ### `weights_auto.json` — skrives av `calibrate_auto.py`
 
@@ -288,6 +290,7 @@ fjordgata30/
 ├── TASKS.md                   – oppgaveliste med status
 ├── README.md                  – dette dokumentet
 ├── scripts/
+│   ├── score_all.py        – kjør hele pipelinen i sekvens
 │   ├── process_images.py      – bildeprosessering (zip → JPEG)
 │   ├── score_auto.py          – råscoring, skriver scores_auto.csv
 │   ├── score_ram.py           – RAM-tagging, skriver scores_ram.csv
@@ -296,19 +299,16 @@ fjordgata30/
 │   ├── calibrate_tags.py      – kalibrering tags, skriver weights_tags.json
 │   ├── calibrate_combined.py  – kombinert kalibrering, skriver weights_combined.json
 │   ├── build_scores.py        – beregner scores_total.csv
-│   └── scoring/               – moduler per metrikk + alle datafiler
-│       ├── sharpness.py
-│       ├── exposure.py
-│       ├── brisque.py
-│       ├── musiq.py
-│       ├── scores_auto.csv
-│       ├── scores_manual.csv
-│       ├── scores_ram.csv
-│       ├── scores_clip.csv
-│       ├── scores_total.csv
-│       ├── weights_auto.json
-│       ├── weights_tags.json
-│       └── weights_combined.json
+│   └── scoring/               – moduler per metrikk (sharpness, exposure, brisque, musiq)
+├── data/                      – alle datafiler (scores + weights)
+│   ├── scores_auto.csv
+│   ├── scores_manual.csv
+│   ├── scores_ram.csv
+│   ├── scores_clip.csv
+│   ├── scores_total.csv
+│   ├── weights_auto.json
+│   ├── weights_tags.json
+│   └── weights_combined.json
 ├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter
 ├── brann/                     – branndokumentasjon og TBRT-korrespondanse
 └── referat/                   – møtereferater

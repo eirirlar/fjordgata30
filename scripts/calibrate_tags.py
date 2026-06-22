@@ -21,10 +21,10 @@ from pathlib import Path
 import numpy as np
 from sklearn.linear_model import Ridge
 
-SCORING_DIR      = Path(__file__).resolve().parent / "scoring"
-SCORES_CLIP      = SCORING_DIR / "scores_clip.csv"
-SCORES_MANUAL    = SCORING_DIR / "scores_manual.csv"
-TAG_WEIGHTS_JSON = SCORING_DIR / "weights_tags.json"
+DATA_DIR         = Path(__file__).resolve().parents[1] / "data"
+SCORES_CLIP      = DATA_DIR / "scores_clip.csv"
+SCORES_MANUAL    = DATA_DIR / "scores_manual.csv"
+TAG_WEIGHTS_JSON = DATA_DIR / "weights_tags.json"
 
 
 def _read_clip() -> dict[str, dict[str, float]]:

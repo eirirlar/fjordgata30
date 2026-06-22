@@ -23,11 +23,11 @@ import numpy as np
 from sklearn.linear_model import Ridge
 from sklearn.preprocessing import StandardScaler
 
-SCORING_DIR      = Path(__file__).resolve().parent / "scoring"
-SCORES_AUTO      = SCORING_DIR / "scores_auto.csv"
-SCORES_CLIP      = SCORING_DIR / "scores_clip.csv"
-SCORES_MANUAL    = SCORING_DIR / "scores_manual.csv"
-WEIGHTS_COMBINED = SCORING_DIR / "weights_combined.json"
+DATA_DIR         = Path(__file__).resolve().parents[1] / "data"
+SCORES_AUTO      = DATA_DIR / "scores_auto.csv"
+SCORES_CLIP      = DATA_DIR / "scores_clip.csv"
+SCORES_MANUAL    = DATA_DIR / "scores_manual.csv"
+WEIGHTS_COMBINED = DATA_DIR / "weights_combined.json"
 
 P_LOW, P_HIGH = 5, 95
 

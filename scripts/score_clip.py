@@ -1,13 +1,17 @@
 """
-T46 – Score tags per bilde med CLIP og skriv scripts/scoring/scores_clip.csv.
+T46 – Score tags per bilde med CLIP og skriv data/scores_clip.csv.
 
 Leser alle unike tags fra scores_ram.csv, scorer hvert bilde mot alle tags.
 Long format, append-only – én rad per bilde per tag.
 Idempotent – bilder som allerede har rader hoppes over.
 
+Hvis nye tags har dukket opp i scores_ram.csv siden sist, avbrytes kjøringen med
+en klar feilmelding. Bruk --force for å slette scores_clip.csv og re-score alt.
+
 Bruk:
     .venv/Scripts/python scripts/score_clip.py
     .venv/Scripts/python scripts/score_clip.py --limit 10
+    .venv/Scripts/python scripts/score_clip.py --force   # re-score ved ny vokabular
 """
 
 from __future__ import annotations
@@ -18,9 +22,9 @@ import sys
 from pathlib import Path
 
 PROCESSED_DIR = Path(__file__).resolve().parents[2] / "temp" / "bilder" / "processed"
-SCORING_DIR   = Path(__file__).resolve().parent / "scoring"
-SCORES_RAM    = SCORING_DIR / "scores_ram.csv"
-SCORES_CLIP   = SCORING_DIR / "scores_clip.csv"
+DATA_DIR      = Path(__file__).resolve().parents[1] / "data"
+SCORES_RAM    = DATA_DIR / "scores_ram.csv"
+SCORES_CLIP   = DATA_DIR / "scores_clip.csv"
 COLUMNS       = ["filnavn", "tag", "clip_score"]
 
 
@@ -32,11 +36,17 @@ def _read_all_tags() -> list[str]:
     return sorted(tags)
 
 
-def _read_existing() -> set[str]:
+def _read_existing() -> tuple[set[str], set[str]]:
+    """Les scores_clip.csv én gang; returner (scorede filnavn, scoret vokabular)."""
     if not SCORES_CLIP.exists():
-        return set()
+        return set(), set()
+    filenames: set[str] = set()
+    vocab: set[str] = set()
     with SCORES_CLIP.open(newline="", encoding="utf-8") as f:
-        return {row["filnavn"] for row in csv.DictReader(f)}
+        for row in csv.DictReader(f):
+            filenames.add(row["filnavn"])
+            vocab.add(row["tag"])
+    return filenames, vocab
 
 
 def _append_scores(filnavn: str, tag_scores: dict[str, float]) -> None:
@@ -65,17 +75,34 @@ def main() -> None:
 
     parser = argparse.ArgumentParser(description="CLIP-score tags per bilde (T46)")
     parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--force", action="store_true",
+                        help="Slett scores_clip.csv og re-score alt (bruk ved ny vokabular)")
     args = parser.parse_args()
 
     all_tags = _read_all_tags()
-    print(f"Vokabular: {len(all_tags)} unike tags")
+    print(f"Vokabular (scores_ram.csv): {len(all_tags)} unike tags")
 
-    existing = _read_existing()
+    existing_images, existing_vocab = _read_existing()
+
+    # Vocabulary-sjekk – rask, gjøres før modellen lastes
+    new_tags = set(all_tags) - existing_vocab
+    if new_tags and existing_images:
+        print(f"\nADVARSEL: {len(new_tags)} nye tags siden sist scoret vokabular "
+              f"({len(existing_vocab)} → {len(all_tags)}).")
+        print(f"  Eksempel: {sorted(new_tags)[:8]}")
+        print(f"  {len(existing_images)} bilder i scores_clip.csv mangler disse taggene.")
+        if not args.force:
+            print("\n  Kjør med --force for å slette scores_clip.csv og re-score alle bilder.")
+            sys.exit(1)
+        print("  --force: Sletter scores_clip.csv og re-scorer alle bilder.")
+        SCORES_CLIP.unlink()
+        existing_images = set()
+
     images = sorted(PROCESSED_DIR.glob("*.jpg"), reverse=True)
     if args.limit:
         images = images[:args.limit]
-    new_images = [img for img in images if img.name not in existing]
-    print(f"{len(images)} bilder, {len(existing)} allerede scoret, {len(new_images)} nye.")
+    new_images = [img for img in images if img.name not in existing_images]
+    print(f"{len(images)} bilder, {len(existing_images)} allerede scoret, {len(new_images)} nye.")
 
     if not new_images:
         print("Ingenting å gjøre.")

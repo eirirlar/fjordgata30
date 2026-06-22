@@ -10,6 +10,8 @@ Kjøres fra prosjektmappen:
     python3 scripts/process_images.py
 """
 
+import hashlib
+import json
 import math
 import os
 import subprocess
@@ -33,11 +35,31 @@ PROCESSED_DIR = BILDER_DIR / "processed"
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".heic", ".tiff", ".tif", ".bmp", ".webp", ".raw", ".cr2", ".nef", ".arw"}
 JPEG_QUALITY = 85
 TARGET_BYTES = 500 * 1024
+HASH_CACHE   = EXTRACTED_DIR / ".zip_hashes.json"
+
+
+def _sha256(path: Path) -> str:
+    h = hashlib.sha256()
+    with path.open("rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+
+def _load_hash_cache() -> dict[str, str]:
+    if HASH_CACHE.exists():
+        return json.loads(HASH_CACHE.read_text(encoding="utf-8"))
+    return {}
+
+
+def _save_hash_cache(cache: dict[str, str]) -> None:
+    HASH_CACHE.write_text(json.dumps(cache, indent=2), encoding="utf-8")
 
 
 def extract_zips() -> dict[Path, datetime]:
     """
     Pakker ut alle zip-filer til EXTRACTED_DIR.
+    Hopper over arkiver med uendret SHA256 (cachet i .zip_hashes.json).
     Returnerer et oppslagsverk filbane → dato fra zip-metadata (ZipInfo.date_time).
     """
     zip_dates: dict[Path, datetime] = {}
@@ -46,16 +68,28 @@ def extract_zips() -> dict[Path, datetime]:
         print("  Ingen .zip-filer funnet.")
         return zip_dates
     EXTRACTED_DIR.mkdir(parents=True, exist_ok=True)
+    cache = _load_hash_cache()
+    cache_updated = False
+
     for zf in zips:
-        print(f"  Pakker ut: {zf.name}")
+        current_hash = _sha256(zf)
         with zipfile.ZipFile(zf, "r") as z:
-            for info in z.infolist():
-                z.extract(info, EXTRACTED_DIR)
+            infos = z.infolist()
+            if cache.get(zf.name) == current_hash:
+                print(f"  SKIP  {zf.name}  (uendret)")
+            else:
+                print(f"  Pakker ut: {zf.name}")
+                for info in infos:
+                    z.extract(info, EXTRACTED_DIR)
+                cache[zf.name] = current_hash
+                cache_updated = True
+            for info in infos:
                 if info.date_time and info.date_time[0] > 1980:
-                    dt = datetime(*info.date_time)
-                    extracted_path = EXTRACTED_DIR / info.filename
-                    zip_dates[extracted_path] = dt
-    print(f"  {len(zips)} arkiv(er) pakket ut til extracted/")
+                    zip_dates[EXTRACTED_DIR / info.filename] = datetime(*info.date_time)
+
+    if cache_updated:
+        _save_hash_cache(cache)
+    print(f"  {len(zips)} arkiv(er) behandlet.")
     return zip_dates
 
 

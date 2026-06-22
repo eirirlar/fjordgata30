@@ -1,5 +1,5 @@
 """
-T42 – Råscore alle bilder og skriv scripts/scoring/scores_auto.csv.
+T42 – Råscore alle bilder og skriv data/scores_auto.csv.
 
 Append-only – én rad per bilde, aldri overskrevet.
 Normalisering og total beregnes av build_scores.py (T48).
@@ -24,7 +24,7 @@ from scoring.brisque import _raw_brisque
 from scoring.musiq import _raw_musiq
 
 PROCESSED_DIR = Path(__file__).resolve().parents[2] / "temp" / "bilder" / "processed"
-SCORES_AUTO = Path(__file__).resolve().parent / "scoring" / "scores_auto.csv"
+SCORES_AUTO = Path(__file__).resolve().parents[1] / "data" / "scores_auto.csv"
 
 COLUMNS = ["filnavn", "sharpness_raw", "exposure_raw", "brisque_raw", "musiq_raw"]
 

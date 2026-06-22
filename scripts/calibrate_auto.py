@@ -20,9 +20,10 @@ from pathlib import Path
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
-SCORES_TOTAL = Path(__file__).resolve().parent / "scoring" / "scores_total.csv"
-SCORES_MANUAL = Path(__file__).resolve().parent / "scoring" / "scores_manual.csv"
-WEIGHTS_JSON = Path(__file__).resolve().parent / "scoring" / "weights_auto.json"
+DATA_DIR      = Path(__file__).resolve().parents[1] / "data"
+SCORES_TOTAL  = DATA_DIR / "scores_total.csv"
+SCORES_MANUAL = DATA_DIR / "scores_manual.csv"
+WEIGHTS_JSON  = DATA_DIR / "weights_auto.json"
 
 FEATURES = ["sharpness", "exposure", "brisque", "musiq"]
 

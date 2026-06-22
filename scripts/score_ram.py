@@ -1,5 +1,5 @@
 """
-T45 – Tag alle bilder med RAM og skriv scripts/scoring/scores_ram.csv.
+T45 – Tag alle bilder med RAM og skriv data/scores_ram.csv.
 
 Long format, append-only – én rad per bilde per tag.
 Idempotent – bilder som allerede har rader hoppes over.
@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 
 PROCESSED_DIR = Path(__file__).resolve().parents[2] / "temp" / "bilder" / "processed"
-SCORES_RAM    = Path(__file__).resolve().parent / "scoring" / "scores_ram.csv"
+SCORES_RAM    = Path(__file__).resolve().parents[1] / "data" / "scores_ram.csv"
 COLUMNS       = ["filnavn", "tag"]
 
 
@@ -40,6 +40,9 @@ def _append_tags(filnavn: str, tags: list[str]) -> None:
 
 
 def main() -> None:
+    import warnings
+    warnings.filterwarnings("ignore", category=FutureWarning, module="timm")
+
     try:
         from ram import get_transform
         from ram.models import ram_plus

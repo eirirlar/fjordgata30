@@ -810,3 +810,95 @@ Brukt som konkret testcase i diskusjonen. Kjeller med rør, søppel og rusk.
 - Manuell rating: **ikke ratet** — kan ikke verifisere modellen direkte på dette bildet, men det er nyttig for å se om combined-modellen gir et annet resultat enn 5.54 og i hvilken retning.
 
 Forventning: combined-modellen vil sannsynligvis vekte `debris`, `pipe` og `rubble` positivt (byggrelatert innhold) og `garbage`/`mess` svakere negativt. Sharpness=4.32 er lav og vil trekke ned noe. Samlet forventes total å ligge nær 5–6, men med bedre begrunnet vekting enn i dag.
+
+---
+
+### T51 `[x]` Finpuss layout – OCR-korrupsjon, sammenkjørte ord (gruppe A)
+**Mappe:** `bakgrunn/`
+
+17 filer har gjennomgående OCR-korrupsjon fra PDF-konvertering: ord er kjørt sammen uten mellomrom (typisk mønster: «kanikke se å hamottat», «V iser til» o.l.). Filene er ellers strukturelt greie (brevformat, avsnitt), men teksten er lite leselig.
+
+**Subtasks:**
+
+- `[x]` **T51.01** `2018-01-15_tbrt_tilsynsrapport_varsel_paalegg.md` – Tilsynsrapport med 3 avvik + følgebrev. Lengst og viktigst (grunnlag for T31).
+- `[x]` **T51.02** `2018-02-19_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring på tilbakemelding etter tilsyn jan 2018.
+- `[x]` **T51.03** `2018-10-05_tbrt_vedroerende_tilbakemelding.md` – TBRTs svar på KodeWorks' tilbakemelding.
+- `[x]` **T51.04** `2018-12-11_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel om pålegg, des 2018.
+- `[x]` **T51.05** `2019-03-06_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, mars 2019.
+- `[x]` **T51.06** `2019-06-28_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel om pålegg, jun 2019.
+- `[x]` **T51.07** `2019-08-12_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, aug 2019.
+- `[x]` **T51.08** `2019-11-11_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, nov 2019.
+- `[x]` **T51.09** `2019-12-17_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, des 2019.
+- `[x]` **T51.10** `2020-10-01_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, okt 2020.
+- `[x]` **T51.11** `2020-11-04_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, nov 2020.
+- `[x]` **T51.12** `2021-04-23_tbrt_purring_tilbakemelding_varsel_paalegg.md` – Purring med varsel, apr 2021.
+- `[x]` **T51.13** `2021-06-02_tbrt_mangelfull_tilbakemelding.md` – TBRT mener tilbakemelding er mangelfull.
+- `[x]` **T51.14** `2021-08-03_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel, aug 2021.
+- `[x]` **T51.15** `2021-09-23_tbrt_aksept_tiltaksplan.md` – Aksept av tiltaksplan, sep 2021.
+- `[x]` **T51.16** `2021-11-25_tbrt_purring_tilsyn_varsel_paalegg.md` – Purring med varsel, nov 2021.
+- `[x]` **T51.17** `2022-03-03_tbrt_etterkontroll_varsel_paalegg.md` – Etterkontroll med varsel om pålegg, mar 2022.
+
+**Tilnærming:** Ingen original-PDFer tilgjengelig. Rekonstruert korrekt norsk tekst fra kontekst, fjernet `Feil! Fant ikke referansekilden.`-artefakter.
+
+---
+
+### T52 `[x]` Finpuss layout – ødelagte tabeller (gruppe B)
+**Mappe:** `bakgrunn/`
+
+3 filer inneholder tabelldata fra originaldokumenter som ikke var konvertert til korrekt Markdown-tabellformat.
+
+**Filer:**
+- `2018-09_tekøk_tiltaksplan_skjema.md` – skjema med avviksstatus, pipe-separert men uformatert
+- `2020_tiltaksplan_status_a.md` – tiltaksplan med statuskolonner, ødelagt struktur
+- `2020_tiltaksplan_status_b.md` – samme som over, fortsettelse
+
+**Løsning:** Rekonstruert til korrekt `| Kolonne | Kolonne |` Markdown med separator-rad.
+
+---
+
+### T53 `[x]` Finpuss layout – tekniske rapporter med innholdsfortegnelse (gruppe C)
+**Mappe:** `bakgrunn/`
+
+3 store tekniske rapporter fra TekØk hadde ujevn avstandsformatering og innholdsfortegnelse som ikke var korrekt strukturert i Markdown.
+
+**Filer:**
+- `2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md`
+- `2018-09-22_tekøk_brannteknisk_vurdering_rev_d.md`
+- `2022-12-18_tekøk_status_gjenstaende_avvik.md`
+
+**Løsning:** Fjernet sideoverskrifter (gjentatt OCR-artefakt fra PDF), fikset innholdsfortegnelse (fra flat tekst til `#`-nivåer), rekonstruerte tabell i seksjon 4 (tiltaksplan), fikset sammensatte punktlisteelementer, bevarte BKL2/BKL3-distinksjonen mellom Rev. C og Rev. D.
+
+---
+
+### T56 `[x]` Bildescoring – skill kode og datafiler (scripts/scoring/ → data/)
+
+Datafiler ligger i dag blandet med Python-moduler i `scripts/scoring/`. Flytt alle datafiler til `data/` på rotnivå.
+
+**Datafiler som flyttes:**
+`scores_auto.csv`, `scores_manual.csv`, `scores_ram.csv`, `scores_clip.csv`, `scores_total.csv`, `weights_auto.json`, `weights_tags.json`, `weights_combined.json`
+
+**Python-moduler som blir igjen i `scripts/scoring/`:**
+`sharpness.py`, `exposure.py`, `brisque.py`, `musiq.py`
+
+**Løsning (22.06.2026):** `SCORING_DIR` → `DATA_DIR = Path(...).parents[1] / "data"` i alle 7 scripts (`score_auto`, `score_ram`, `score_clip`, `build_scores`, `calibrate_auto`, `calibrate_tags`, `calibrate_combined`) + `scripts/scoring/__init__.py`. README oppdatert (mappestruktur + datafil-seksjon). Datafiler eksisterer ennå ikke i `data/` — mappen opprettes automatisk ved første kjøring (`mkdir(parents=True, exist_ok=True)`).
+
+---
+
+### T55 `[x]` Bildescoring – pipeline-script (score_all.py)
+
+Lag `scripts/score_all.py` som kjører hele bildescoring-pipelinen i sekvens:
+`process_images.py` → `score_auto.py` → `score_ram.py` → `score_clip.py` → `calibrate_combined.py` → `build_scores.py`.
+Scriptet skal stoppe ved feil og bruke `sys.executable` for å sikre riktig venv.
+
+**Løsning (22.06.2026):** Opprettet som `run_pipeline.py`, deretter renamed til `score_all.py`. Oppdatert i README (mappestruktur + brukseksempel). Bruker `sys.executable` for riktig venv.
+
+---
+
+### T54 `[x]` Finpuss layout – sterkt ødelagt OCR-dokument (gruppe D)
+**Mappe:** `bakgrunn/`
+
+Én fil var så sterkt OCR-skadet at innholdet var nesten uleselig – teksten fragmentert i løsrevne biter og sjekklister hadde mistet struktur helt.
+
+**Fil:** `bakgrunn/2013-06-06_ik_kontroll_trondheim_baatforening.md` – IK-kontroll, Trondheim Båtforening, 06.06.2013
+
+**Løsning (valgt: Full rekonstruksjon):** Full rekonstruksjon fra 2200-linjers OCR-skadet fil. 16 sjekklister rekonstruert i tabellformat (Pkt / Kontrollpunkt / Dato / Tekniker / Resultat). Avvikslogg med 40 avvik rekonstruert. Tiltaksplan rekonstruert. Alle FEIL-resultater verifisert mot avviksnummer i avviksloggen.

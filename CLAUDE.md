@@ -45,6 +45,8 @@ fjordgata30/
 ## Arbeidsregler
 
 - **Tillatelser:** Spør alltid om tillatelse før du kjører kode eller rører filer utenfor prosjektmappen (`fjordgata30/`), selv om du kjører med `--dangerously-skip-permissions`. Dette gjelder bl.a. lesing fra `../stotte` eller andre naboprosjekter – les der, men skriv aldri dit uten eksplisitt godkjenning.
+- **Kodeendringer krever konfirmasjon:** Ikke gjør endringer i kode eller opprett nye filer uten at brukeren eksplisitt har bedt om det. Hvis brukeren diskuterer, spør eller ber om en beskrivelse/plan, svar med tekst — ikke med kode. Vent på et tydelig "gjør det" eller tilsvarende før du rører filer.
+- **Estimer tidsforbruk før du starter:** Før du iverksetter en oppgave, vurder kompleksiteten og gi et grovt estimat på tidsforbruk (f.eks. "dette tar ~30 sekunder" eller "dette er en stor operasjon som kan ta 5–10 minutter"). Hvis estimatet er over ~2 minutter, krev eksplisitt konfirmasjon fra brukeren før du starter — selv om du allerede har fått en generell "gjør det".
 - **Task-dokumentasjon:** Når en oppgave er løst, dokumenter løsningen under oppgavens kontekst-seksjon i `TASKS.md` og marker statusen som `[x]`. Ikke bare oppdater status uten å notere hva som ble gjort og hvilke filer som ble opprettet/endret.
 - **README-oppdatering:** Vurder alltid om `README.md` må oppdateres som del av å løse en oppgave. Nye scripts, endrede filnavn, endret filstruktur eller nye avhengigheter skal alltid reflekteres i README.
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`

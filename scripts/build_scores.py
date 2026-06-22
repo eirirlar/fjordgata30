@@ -22,13 +22,14 @@ from pathlib import Path
 
 import numpy as np
 
-SCORING_DIR  = Path(__file__).resolve().parent / "scoring"
-SCORES_AUTO  = SCORING_DIR / "scores_auto.csv"
-SCORES_CLIP  = SCORING_DIR / "scores_clip.csv"
-SCORES_TOTAL = SCORING_DIR / "scores_total.csv"
-WEIGHTS_JSON     = SCORING_DIR / "weights_auto.json"
-TAG_WEIGHTS_JSON = SCORING_DIR / "weights_tags.json"
-WEIGHTS_COMBINED = SCORING_DIR / "weights_combined.json"
+DATA_DIR     = Path(__file__).resolve().parents[1] / "data"
+SCORES_AUTO  = DATA_DIR / "scores_auto.csv"
+SCORES_CLIP   = DATA_DIR / "scores_clip.csv"
+SCORES_MANUAL = DATA_DIR / "scores_manual.csv"
+SCORES_TOTAL  = DATA_DIR / "scores_total.csv"
+WEIGHTS_JSON     = DATA_DIR / "weights_auto.json"
+TAG_WEIGHTS_JSON = DATA_DIR / "weights_tags.json"
+WEIGHTS_COMBINED = DATA_DIR / "weights_combined.json"
 
 P_LOW, P_HIGH = 5, 95
 
@@ -39,7 +40,7 @@ AUTO_METRICS = {
     "musiq":     ("musiq_raw",     False),
 }
 
-OUT_COLS = ["filnavn", "sharpness", "exposure", "brisque", "musiq", "tag_score", "total"]
+OUT_COLS = ["filnavn", "sharpness", "exposure", "brisque", "musiq", "tag_score", "total", "manual"]
 
 
 def _normalize(raw: float, p5: float, p95: float, invert: bool) -> float:
@@ -56,6 +57,13 @@ def _read_auto() -> dict[str, dict]:
         for row in csv.DictReader(f):
             rows[row["filnavn"]] = row
     return rows
+
+
+def _read_manual() -> dict[str, str]:
+    if not SCORES_MANUAL.exists():
+        return {}
+    with SCORES_MANUAL.open(newline="", encoding="utf-8") as f:
+        return {row["filnavn"]: row["score"] for row in csv.DictReader(f) if row.get("score", "").strip()}
 
 
 def _read_clip() -> dict[str, dict[str, float]]:
@@ -97,6 +105,9 @@ def main() -> None:
         weights = json.loads(WEIGHTS_JSON.read_text(encoding="utf-8"))
         if not combined_weights:
             print(f"Vekter lastet fra {WEIGHTS_JSON.name}")
+
+    manual = _read_manual()
+    print(f"Manuelle scores: {len(manual)} bilder ratet")
 
     # Last CLIP og tag-vekter
     clip_rows = _read_clip()
@@ -156,6 +167,7 @@ def main() -> None:
             **{col: f"{norm[col]:.2f}" if col in norm else "" for col in AUTO_METRICS},
             "tag_score": tag_score_str,
             "total":     f"{total:.2f}",
+            "manual":    manual.get(fn, ""),
         })
 
     with SCORES_TOTAL.open("w", newline="", encoding="utf-8") as f:
