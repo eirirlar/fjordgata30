@@ -30,13 +30,15 @@ fjordgata30/
 ├── CLAUDE.md                  – dette dokumentet (prosjektkontekst for AI)
 ├── TASKS.md                   – oppgaveliste med status
 ├── status.txt                 – prosjektbeskrivelse og fremdrift
-├── fg30_arbeidsrapport.md     – ferdig arbeidsrapport (Pandoc-klar Markdown → .docx)
-├── fg30_arbeidsrapport.docx   – konvertert Word-versjon
-├── arbeid_kristian.txt        – arbeidslogg, Kristian
-├── arbeid_ole_morten.txt      – arbeidslogg, Ole Morten
-├── ai_feedback.txt            – tilbakemeldinger fra AI-verktøy
 ├── referat/                   – møtereferater (Statusmøte 01–05)
-├── bakgrunn/                  – søknader, prosjektbeskrivelse, bakgrunnsdokumenter
+├── bakgrunn/                  – søknader, prosjektbeskrivelse, bakgrunnsdokumenter, arbeidslogger
+│   ├── arbeid_kristian.txt    – arbeidslogg, Kristian Brandsegg
+│   ├── arbeid_ole_morten.txt  – arbeidslogg, Ole Morten Lagmannssveen
+│   ├── ai_feedback.txt        – redaksjonelle merknader fra prosjektleder til arbeidsrapport-utkast
+│   └── nye/                   – innkommende filer som ikke er klassifisert ennå (opprettes ved behov)
+├── leveranser/                – ferdige dokumenter produsert i prosjektet (klager, rapporter, brev; .docx genereres ved behov med Pandoc)
+│   └── fg30_arbeidsrapport.md – arbeidsrapport (Pandoc-klar Markdown)
+├── stotte/                    – tilskuddsdata i project_cards.json-format (speil av ../stotte for FG30)
 └── brann/                     – branndokumentasjon, brannkonsept, TBRT-redegjørelse
 ```
 
@@ -48,9 +50,12 @@ fjordgata30/
 - **Kodeendringer krever konfirmasjon:** Ikke gjør endringer i kode eller opprett nye filer uten at brukeren eksplisitt har bedt om det. Hvis brukeren diskuterer, spør eller ber om en beskrivelse/plan, svar med tekst — ikke med kode. Vent på et tydelig "gjør det" eller tilsvarende før du rører filer.
 - **Estimer tidsforbruk før du starter:** Før du iverksetter en oppgave, vurder kompleksiteten og gi et grovt estimat på tidsforbruk (f.eks. "dette tar ~30 sekunder" eller "dette er en stor operasjon som kan ta 5–10 minutter"). Hvis estimatet er over ~2 minutter, krev eksplisitt konfirmasjon fra brukeren før du starter — selv om du allerede har fått en generell "gjør det".
 - **Task-dokumentasjon:** Når en oppgave er løst, dokumenter løsningen under oppgavens kontekst-seksjon i `TASKS.md` og marker statusen som `[x]`. Ikke bare oppdater status uten å notere hva som ble gjort og hvilke filer som ble opprettet/endret.
+- **Task-nummerering:** Før du oppretter en ny task, finn høyeste eksisterende T-nummer på tvers av **begge** `TASKS.md` og `ARCHIVE.md`: `grep -h "^### T" TASKS.md ARCHIVE.md | grep -oP 'T\d+' | sort -t T -k2 -n | tail -1`. Bruk neste ledige nummer.
+- **Arkivering av tasks:** Løste tasks flyttes fra `TASKS.md` til `ARCHIVE.md` kun når brukeren eksplisitt ber om det. Aldri arkiver på eget initiativ. Søk alltid i `ARCHIVE.md` før du starter en oppgave for å unngå dobbeltarbeid.
 - **README-oppdatering:** Vurder alltid om `README.md` må oppdateres som del av å løse en oppgave. Nye scripts, endrede filnavn, endret filstruktur eller nye avhengigheter skal alltid reflekteres i README.
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`
 - **Spør før suboptimal fremgangsmåte:** Hvis du ser at du er i ferd med å gjøre noe på en ineffektiv måte (mange trinn, store tokenkostnader, omveier), stopp og spør brukeren om de er sikre på at de vil at du skal fortsette slik – selv om du kjører med `--dangerously-skip-permissions`.
+- **Kode og parametere på engelsk:** All kode skrives på engelsk – variabelnavn, funksjonsnavn, kommentarer i koden, og CLI-argumenter/flagg til scripts (f.eks. `--from`, `--to`, `--limit`, ikke `--fra`, `--til`, `--antall`). Dokumentasjon og rapporter til brukere/interessenter skrives på norsk.
 
 ---
 

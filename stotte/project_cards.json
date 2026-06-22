@@ -1,0 +1,339 @@
+{
+  "_description": "Grant card data for KodeWorks Eiendom AS / Fjordgata 30. Values sourced from grant agreements, tilskuddsbrev, and application documents in bakgrunn/. Null = not yet confirmed from source document.",
+  "projects": [
+    {
+      "ProjectID": "KMF-FG30",
+      "ProjectName": "Tilskudd til sikringstiltak – Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "KMF",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": null,
+      "TotalBudget": null,
+      "GrantAmount": 750000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 0.30,
+      "DurationFrom": null,
+      "DurationTo": null,
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [],
+      "ReportingDates": [
+        {
+          "DeadlineDate": null,
+          "PeriodFrom": null,
+          "PeriodTo": null,
+          "Recipient": "Kulturminnefondet",
+          "ReportType": "narrative",
+          "TemplateLink": null,
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Framdriftsrapport med fotodokumentasjon kreves som grunnlag for utbetaling. Eksakt frist ikke fastlagt – utløses av utbetalingsanmodning."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": null,
+          "ReceivedDate": null,
+          "Amount": 750000,
+          "Basis": "Etterskuddsvis mot dokumentert og gjennomført arbeid. Utbetaling utløses av utbetalingsanmodning med framdriftsrapport og fotodokumentasjon.",
+          "Status": "expected",
+          "Comments": "Innvilget 2024 (eksakt vedtaksdato ikke dokumentert). Ingen delutbetalinger mottatt pr. juni 2026. T01 i TASKS.md gjelder utarbeiding av utbetalingsanmodning."
+        }
+      ],
+      "SpecialRules": "Kun direkte håndverkertjenester støttes. Administrasjon, regnskap, planlegging, dugnad og egne maskiner/materialer er ikke støtteberettiget. Trykkimpregnerte materialer er ikke tillatt.",
+      "UsageConstraints": {
+        "eligible": [
+          "Fjerne og ta vare på originale paneler, gulvplater, himlinger og interiør i kjeller og 1. etasje",
+          "Undersøke og kartlegge tilstanden til bærekonstruksjonen",
+          "Skifte nødvendige søyler og innkassing der skadeomfang gjør gjenbruk umulig",
+          "Reetablere bæresystemets helhet: bjelker, etasjeskillere og avstivende konstruksjoner (kjeller, 1. etasje og der nødvendig 2. etasje)",
+          "Kjøp av håndverkertjenester – direkte tiltak"
+        ],
+        "ineligible": [
+          "Administrasjon, regnskap og planlegging",
+          "Dugnad og egne maskiner/materialer",
+          "Trykkimpregnerte materialer",
+          "Kostnader som overstiger sluttregnskapet (tilskuddet reduseres tilsvarende)"
+        ]
+      },
+      "Comments": "Tilskuddet er bekreftet innvilget. Vedtaksdato: 13.03.2024, tilsagnsbrev: 18.03.2024. Prosjektnummer: 240126. Støtteintensitet 30% (endelig søknad) – innvilget 750 000 av omsøkt 1 500 000. Prosjektet er endret fra kontorbygg til minilager – KMF må informeres om endret formål.",
+      "Status": "active",
+      "workpackages": [],
+      "budget_categories": [
+        {
+          "BudgetCatID": "rehab",
+          "CatName": "Rehabilitering og sikringstiltak – kjeller og 1. etasje",
+          "IsIndirectBase": false,
+          "Budget": null,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    },
+    {
+      "ProjectID": "BYA-FG30",
+      "ProjectName": "Byantikvaren – tilskudd til verneverdig bebyggelse, Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "BYA",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": "2025/5928",
+      "TotalBudget": 2285714,
+      "GrantAmount": 500000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 0.219,
+      "DurationFrom": "2025-06-01",
+      "DurationTo": "2025-12-31",
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [],
+      "ReportingDates": [
+        {
+          "DeadlineDate": "2025-12-01",
+          "PeriodFrom": "2025-06-01",
+          "PeriodTo": "2025-10-30",
+          "Recipient": "Byantikvaren Trondheim",
+          "ReportType": "narrative",
+          "TemplateLink": null,
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Skriftlig rapport med beskrivelse og foto av gjennomførte tiltak (før, under og etter utførelse), materialbruk og metoder. Sendes sammen med kopi av betalt faktura og regnskap. Frist primært 01.12.2025."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": "2025-12-01",
+          "ReceivedDate": null,
+          "Amount": 500000,
+          "Basis": "Etterskuddsvis etter gjennomføring og godkjent rapport. Utbetaling etter innsendt anmodning (Vedlegg 2) med rapport og betalt faktura/regnskap.",
+          "Status": "expected",
+          "Comments": "Tilsagnsbrev datert 02.05.2025, saksref. 2025/5928. Søkte 750 000 – innvilget 500 000. Akseptskjema innsendt. Ingen utbetalinger mottatt pr. juni 2026. T01/T04 i TASKS.md gjelder utarbeiding av utbetalingsanmodning."
+        }
+      ],
+      "SpecialRules": "Arbeidet skal utføres av håndverker med antikvarisk spesialkompetanse etter antikvariske prinsipper. Løpende dialog med Byantikvaren kreves. Solcelleløsning på tak skal godkjennes av BYA ved IG-søknad.",
+      "UsageConstraints": {
+        "eligible": [
+          "Forsterking og eventuelt gjenoppbygging av fundamenter i utsatte hjørner",
+          "Retting av byggets skjevheter gjennom reetablering av bærende elementer og skråavstivning",
+          "Fjerning, dokumentasjon og tilbakeføring av opprinnelige paneler og interiør for å få tilgang til bærende konstruksjon",
+          "Utskifting og sikring av råteskadde søyler og bjelker (inkl. gjenbruk av mellomlagrede bjelker)",
+          "Tiltak for å stabilisere yttervegger og etasjeskillere"
+        ],
+        "ineligible": [
+          "Antikvarisk istandsetting av fasade, vinduer, porter og tak",
+          "Utredningsoppgaver og pilotprosjekter",
+          "Arbeider som allerede er utført ved søknadstidspunkt",
+          "Kostnader som overstiger sluttregnskapet (tilskuddet reduseres tilsvarende)"
+        ]
+      },
+      "Comments": "Tilsagnsbrev datert 02.05.2025 fra Elisabeth Kahrs, Trondheim kommune (saksref. 2025/5928). Søkte 750 000 – innvilget 500 000 (type 1-tiltak: sikring og istandsetting av konstruksjon). SupportIntensity 21,9% (500 000 / 2 285 714). Kilde: temp/Byantikvaren/Fjordgata 30 - Søknad om tilskudd... og søknad_byantikvaren.txt.",
+      "Status": "active",
+      "workpackages": [],
+      "budget_categories": [
+        {
+          "BudgetCatID": "rehab",
+          "CatName": "Rehabilitering og sikringstiltak – verneverdig bebyggelse",
+          "IsIndirectBase": false,
+          "Budget": 2285714,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    },
+    {
+      "ProjectID": "UNI-FG30",
+      "ProjectName": "Stiftelsen UNI – tilskudd til brannsikring, Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "UNI",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": "UNI-38702",
+      "TotalBudget": 1785000,
+      "GrantAmount": 100000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 0.056,
+      "DurationFrom": "2024-06-30",
+      "DurationTo": null,
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [],
+      "ReportingDates": [
+        {
+          "DeadlineDate": null,
+          "PeriodFrom": "2024-06-30",
+          "PeriodTo": null,
+          "Recipient": "Stiftelsen UNI",
+          "ReportType": "final",
+          "TemplateLink": "Søknadsportalen – «Be om utbetaling»",
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Sluttrapport via søknadsportal. Automatisk tilsendt 3 år etter oppstart; kan sendes tidligere via «Be om utbetaling». Bruk av midler skal dokumenteres med fakturakopi og bankkvittering. Bekreftelse fra revisor eller registrert regnskapsfører kreves."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": null,
+          "ReceivedDate": null,
+          "Amount": 100000,
+          "Basis": "Etter godkjent sluttrapport bekreftet av revisor eller registrert regnskapsfører, med fakturakopi og bankkvittering.",
+          "Status": "expected",
+          "Comments": "Styrevedtak 28.08.2024, tildelingsbrev 03.09.2024. Forutsetning: hele prosjektet (1 785 000 NOK) finansieres og ferdigstilles. Ingen utbetalinger mottatt pr. juni 2026."
+        }
+      ],
+      "SpecialRules": "Utbetaling krever bekreftelse fra revisor eller registrert regnskapsfører. Rapportering og utbetalingsanmodning via søknadsportalen.",
+      "UsageConstraints": {
+        "eligible": [
+          "Kjøp av håndverkertjenester til brannsikring",
+          "Installasjon av sprinkelanlegg",
+          "Etablering av rømningsveier",
+          "Etablering og utbedring av brannskiller"
+        ],
+        "ineligible": [
+          "Dugnad og egne maskiner og materialer",
+          "Lønn til egne ansatte"
+        ]
+      },
+      "Comments": "Tildelingsbrev datert 03.09.2024, ref. UNI-38702. Søknad innsendt 30.06.2024, styrevedtak 28.08.2024. Innvilget 100 000 av omsøkt beløp. Budsjett: 1 785 000 NOK (kun kjøp av tjenester). Kilde: temp/UNI/UNI 2/Tildeling etter styremøte i Stiftelsen UNI.txt og Budsjett.xlsx.",
+      "Status": "active",
+      "workpackages": [],
+      "budget_categories": [
+        {
+          "BudgetCatID": "brannsikring",
+          "CatName": "Brannsikring – kjøp av håndverkertjenester",
+          "IsIndirectBase": false,
+          "Budget": 1785000,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    },
+    {
+      "ProjectID": "ENOVA-KL-FG30",
+      "ProjectName": "Enova – energikartlegging, Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "ENOVA_KART",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": null,
+      "TotalBudget": null,
+      "GrantAmount": 500000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 1.0,
+      "DurationFrom": null,
+      "DurationTo": null,
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [],
+      "ReportingDates": [
+        {
+          "DeadlineDate": null,
+          "PeriodFrom": null,
+          "PeriodTo": null,
+          "Recipient": "Enova",
+          "ReportType": "final",
+          "TemplateLink": "Enovas søknads- og rapporteringssenter",
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Sluttrapport – energikartleggingsrapport iht. NS 3031. Ferdigstillelse innen 8 måneder fra vedtaksdato. Se bakgrunn/hrp_energikartlegging_rapport.md."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": null,
+          "ReceivedDate": null,
+          "Amount": 500000,
+          "Basis": "Etterskuddsvis etter godkjent sluttrapport. 100% av godkjente kartleggingskostnader.",
+          "Status": "expected",
+          "Comments": "Innvilget høst/vinter 2025. Kartleggingsrapport utarbeidet av HRP AS (bakgrunn/hrp_energikartlegging_rapport.md). Utbetalingsstatus ukjent pr. juni 2026."
+        }
+      ],
+      "SpecialRules": "100% støtteandel av kartleggingskostnad. Krav om ferdigstillelse innen 8 måneder fra vedtaksdato. Rapportering via Enovas søknads- og rapporteringssenter.",
+      "UsageConstraints": null,
+      "Comments": "Innvilget beløp NOK 500 000. Eksakt vedtaksdato og Tilskuddsbrev-referanse ikke dokumentert i arkivet. Kilde: bakgrunn/enova_soeknad_energikartlegging.md og historikk.md.",
+      "Status": "active",
+      "workpackages": [],
+      "budget_categories": [
+        {
+          "BudgetCatID": "kart",
+          "CatName": "Energikartlegging – rådgivningstjenester",
+          "IsIndirectBase": false,
+          "Budget": null,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    },
+    {
+      "ProjectID": "ENOVA-OM-FG30",
+      "ProjectName": "Enova – ombrukskartlegging, Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "ENOVA_KART",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": null,
+      "TotalBudget": null,
+      "GrantAmount": 400000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 1.0,
+      "DurationFrom": null,
+      "DurationTo": null,
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [],
+      "ReportingDates": [
+        {
+          "DeadlineDate": null,
+          "PeriodFrom": null,
+          "PeriodTo": null,
+          "Recipient": "Enova",
+          "ReportType": "final",
+          "TemplateLink": "Enovas søknads- og rapporteringssenter",
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Sluttrapport – ombrukskartleggingsrapport. Ferdigstillelse innen 10 måneder fra vedtaksdato."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": null,
+          "ReceivedDate": null,
+          "Amount": 400000,
+          "Basis": "Etterskuddsvis etter godkjent sluttrapport. 100% av godkjente kartleggingskostnader.",
+          "Status": "expected",
+          "Comments": "Innvilget høst/vinter 2025. Utbetalingsstatus ukjent pr. juni 2026."
+        }
+      ],
+      "SpecialRules": "100% støtteandel av kartleggingskostnad. Krav om ferdigstillelse innen 10 måneder fra vedtaksdato. Rapportering via Enovas søknads- og rapporteringssenter.",
+      "UsageConstraints": null,
+      "Comments": "Innvilget beløp NOK 400 000. Eksakt vedtaksdato og Tilskuddsbrev-referanse ikke dokumentert i arkivet. Kilde: bakgrunn/enova_soeknad_ombrukskartlegging.md og historikk.md.",
+      "Status": "active",
+      "workpackages": [],
+      "budget_categories": [
+        {
+          "BudgetCatID": "kart",
+          "CatName": "Ombrukskartlegging – rådgivningstjenester",
+          "IsIndirectBase": false,
+          "Budget": null,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    }
+  ]
+}

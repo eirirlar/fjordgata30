@@ -190,6 +190,20 @@ Leser alle kildefiler, normaliserer råscorer til 1–10, beregner `total`.
 Hvis `weights_combined.json` finnes brukes den. Ellers 50/50-snitt av auto og tag.
 Eneste fil som regenereres fullt – alle kildefiler røres ikke.
 
+### 8. Velg beste bilder for en periode
+
+```bash
+.venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30
+.venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --count 20
+.venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --output /tmp/utvalg
+```
+
+Henter de N beste bildene innenfor en dato-periode basert på `scores_total.csv`.
+Manuell rating (`manual`-kolonnen) overstyrer alltid modellscoren (`total`).
+`--output` kopierer de valgte bildene til angitt mappe.
+
+---
+
 ### Enkeltbilde-debug
 
 ```bash
@@ -289,6 +303,7 @@ fjordgata30/
 ├── CLAUDE.md                  – prosjektkontekst for AI
 ├── TASKS.md                   – oppgaveliste med status
 ├── README.md                  – dette dokumentet
+├── config.json                – konfigurasjon (bl.a. bilder_dir)
 ├── scripts/
 │   ├── score_all.py        – kjør hele pipelinen i sekvens
 │   ├── process_images.py      – bildeprosessering (zip → JPEG)
@@ -299,6 +314,8 @@ fjordgata30/
 │   ├── calibrate_tags.py      – kalibrering tags, skriver weights_tags.json
 │   ├── calibrate_combined.py  – kombinert kalibrering, skriver weights_combined.json
 │   ├── build_scores.py        – beregner scores_total.csv
+│   ├── select_images.py       – velg beste bilder for en tidsperiode
+│   ├── config.py              – leser config.json, eksponerer BILDER_DIR/PROCESSED_DIR/EXTRACTED_DIR
 │   └── scoring/               – moduler per metrikk (sharpness, exposure, brisque, musiq)
 ├── data/                      – alle datafiler (scores + weights)
 │   ├── scores_auto.csv

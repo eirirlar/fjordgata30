@@ -16,7 +16,8 @@ import csv
 import sys
 from pathlib import Path
 
-PROCESSED_DIR = Path(__file__).resolve().parents[2] / "temp" / "bilder" / "processed"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import PROCESSED_DIR
 SCORES_RAM    = Path(__file__).resolve().parents[1] / "data" / "scores_ram.csv"
 COLUMNS       = ["filnavn", "tag"]
 

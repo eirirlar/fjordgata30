@@ -22,8 +22,7 @@ from scoring.sharpness import sharpness_score
 from scoring.exposure import exposure_score
 from scoring.brisque import _raw_brisque
 from scoring.musiq import _raw_musiq
-
-PROCESSED_DIR = Path(__file__).resolve().parents[2] / "temp" / "bilder" / "processed"
+from config import PROCESSED_DIR
 SCORES_AUTO = Path(__file__).resolve().parents[1] / "data" / "scores_auto.csv"
 
 COLUMNS = ["filnavn", "sharpness_raw", "exposure_raw", "brisque_raw", "musiq_raw"]

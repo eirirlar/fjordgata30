@@ -28,9 +28,10 @@ except ImportError:
     print("FEIL: Pillow er ikke installert. Kjør: pip install Pillow")
     sys.exit(1)
 
-BILDER_DIR   = Path(__file__).resolve().parent.parent.parent / "temp" / "bilder"
-EXTRACTED_DIR = BILDER_DIR / "extracted"
-PROCESSED_DIR = BILDER_DIR / "processed"
+import config as _cfg
+BILDER_DIR    = _cfg.BILDER_DIR
+EXTRACTED_DIR = _cfg.EXTRACTED_DIR
+PROCESSED_DIR = _cfg.PROCESSED_DIR
 
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".heic", ".tiff", ".tif", ".bmp", ".webp", ".raw", ".cr2", ".nef", ".arw"}
 JPEG_QUALITY = 85

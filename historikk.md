@@ -20,6 +20,8 @@ Kildehenvisninger angir primærdokument i arkivet; referanseliste følger sist i
 
 **1934** – Fasadeendring.[^1]
 
+**Ca. 1980-tallet (dato ukjent) – mangler dokumentasjon** – Bryggebrann; bygget gjenoppbygges. I forbindelse med opprettingen etableres langsgående betongmur i fundamenteringen mot Fjordgata og sentrale bæringspunkter sentralt i bygget. Disse konstruksjonene er senere (2026) befart og funnet i fortsatt god stand. Brannskadet rundtømmer fra denne perioden ligger i 2026 igjen i kjelleren og må fjernes som ledd i ryddearbeidet.[^52]
+
 **04.02.1993** – Trondheim Båtforening tinglyser hjemmel til eiendommen (dagboknr 1787). Tinglyst vederlag: NOK 1 100 000. Ingen heftelser eller servitutter registrert i grunnboken. Båtforeningen bruker bygget til kontorer, selskapslokaler og lager.[^4] [^5]
 
 **06.06.2013** – IK-kontroll av det elektriske anlegget utføres av Berg & Wigum AS på vegne av Trondheim Båtforening. 40 avvik påpekes, særlig knyttet til flytebrygger og utvendige installasjoner i kanalen.[^6]
@@ -53,7 +55,13 @@ Eiendomsdata per salg/overtakelse (fra salgsprospektet[^1]):
 
 **Dato ukjent – mangler dokumentasjon** – Kontorbygg-prosjektet initieres. Visjonen er å ombygge Fjordgata 30 til innovasjonshub med café, kontorer og flytebrygge. KodeWorks-ansatte planlegges som leietakere, sammen med eksterne.
 
-**Dato ukjent (ca. 2022–2023) – mangler dokumentasjon** – SAHAA arkitekter engasjeres. HRP AS engasjeres som rådgivende ingeniører (PGL: Ole Morten Lagmannssveen). Laserskanning av bygget utføres. Tilstandsanalyse nivå 1 etter NS-EN 16096 utføres – konkluderer med overordnet tilstandsgrad TG 3; særlige bekymringer knyttet til råte i bærende yttervegger og manglende skråavstivere i 3. etg.[^11]
+**Dato ukjent (ca. 2022–2023) – mangler dokumentasjon** – SAHAA arkitekter engasjeres (arkitekt). HRP AS engasjeres som rådgivende ingeniører (PGL: Ole Morten Lagmannssveen). Rådgiverteam: RiB Ole Stenmo (Harboe & Leganger), RiBr Gunnhild Henriksen Leere, RiE/RiEn opprinnelig Sastech. Laserskanning av bygget utføres. Tilstandsanalyse nivå 1 etter NS-EN 16096 utføres – konkluderer med overordnet tilstandsgrad TG 3; særlige bekymringer knyttet til råte i bærende yttervegger og manglende skråavstivere i 3. etg.[^11] [^70]
+
+**Dato ukjent (ifm. kontorombyggingen, ca. 2023–2024) – mangler dokumentasjon** – Astra Bygg engasjeres som entreprenør for kontorombyggingen i 1. etg. og formelt akseptert av myndighetene i den forbindelse. 1. etg. konverteres fra Trondheim Båtforenings opprinnelige bruk (butikkdrift / selskapslokaler) til KodeWorks-kontorer.[^70]
+
+**Dato ukjent (ifm. kontorombyggingen) – mangler dokumentasjon** – Søknad om ansvarsrett for BYA utarbeidet og sendt inn (hengt opp på HMS-tavlen). Søknaden ble ikke forfulgt videre / kom ikke til vedtak.[^70]
+
+**Dato ukjent (ifm. minilager-pivoten, vinter 2024–2025) – mangler dokumentasjon** – Sastech utgår som RiE/RiEn; rollen overtas av HRP v/ Anne Kristine Amble.[^70]
 
 ---
 
@@ -189,7 +197,7 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **26.01.2026** – Nabovarsel og dispensasjonssøknad for minilager-prosjektet sendes inn.[^41] [^42]
 
-**Uke 8 (ca. 16–22. februar 2026)** – **Første arbeidsøkt i kjeller (Kristian Brandsegg + dugnadsgjengen):** Hull i dekke mellom kjeller (U1) og 1. etg åpnes. Plankegulv i deler av kjeller fjernes. Sortering og rydding påbegynnes.[^52]
+**Uke 8 (ca. 16–22. februar 2026)** – **Første arbeidsøkt i kjeller (Kristian Brandsegg + dugnadsgjengen):** Hull i dekke mellom kjeller (U1) og 1. etg åpnes. Plankegulv i deler av kjeller fjernes. Sortering og rydding påbegynnes. Hulltaking i veggkledning, gulvplater og himlingsplater utføres med Fein-sag for konstruksjonsinspeksjon (metoden bevarer antikvarisk verdifullt materiale; kun brannskadd og ubrukelig tømmer fra 1980-tallets gjenoppbygging fjernes).[^52]
 
 **02.02.2026** – RiBr (brannrådgiver) leverer sjekkliste for brannarbeid.[^43]
 
@@ -203,7 +211,7 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **17.02.2026** – Brannprosjektering for minilager leveres.[^51]
 
-**26.02.2026** – Redegjørelse til TBRT om status og fremdrift sendes.[^53] Notat om brannsikring i gjennomføringsfasen utarbeidet.[^54]
+**26.02.2026** – Redegjørelse til TBRT om status og fremdrift sendes.[^53] Notat om brannsikring i gjennomføringsfasen utarbeidet.[^54] Brannkonseptet for byggefasen etterleves fra og med dette tidspunktet under alt fysisk arbeid i bygget.
 
 **27.02.2026** – Statusbrev sendt til TBRT med oversikt over alle forberedende arbeider og fremdrift.[^55]
 
@@ -215,7 +223,7 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **07.–08.03.2026** – **Arbeidsøkt (Kristian):** Tømmerbjelker i bjelkelaget kappes for å gi tilkomst til grunnundersøkelse i kjelleren mot Fjordgata.[^52]
 
-**13.03.2026** – **Statusmøte 03.** U1 ryddet i seks omganger; alt gods sortert i fraksjoner. RiB-møte avtalt 16.03 for avklaringer. Energikartlegging (RiEn) i gang.[^59]
+**13.03.2026** – **Statusmøte 03.** U1 ryddet i seks omganger; alt gods sortert i fraksjoner. RiB-møte avtalt 16.03 for avklaringer. Energikartlegging (RiEn) i gang.[^59] Konstruksjonsfunn fra hulltakingen: opprinnelig bæresystem er bevart fra etasjeskillet mellom 1. og 2. etg. og oppover (delvis åpent i 2. etg, fritt i 3.–5. etg) – behovet for fysisk inngrep er konsentrert til U1 og 1. etg. Grunnundersøkelser i kjeller (håndgraving inntil grunnmur flere steder) avdekker eldre elveavsetninger: sand blandet med grus og mindre stein.[^52]
 
 **15.03.2026** – **Arbeidsøkt:** Siste tømmerstokker sages opp til håndterlige biter.[^52]
 
@@ -229,7 +237,7 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 ### April: Rydding ferdigstilt, prosjektering fremskyves
 
-**14.04.2026** – **Statusmøte 04.** U1 ryddet i ni omganger; ca. 1/3 av treverket kjørt vekk. RiB Harboe & Leganger på befaring; strekkfisker mellom langsidene avdekkes. Kystverket er interessert som leietaker; befaring avtalt 20.04.[^60b]
+**14.04.2026** – **Statusmøte 04.** U1 ryddet i ni omganger; ca. 1/3 av treverket kjørt vekk. RiB Harboe & Leganger på befaring; langsgående vaiere med strekkfisker mellom langsidene avdekkes og antas å være en essensiell del av bæringen – innsikten har vært utilgjengelig før ryddingen åpnet for inspeksjon, og er en forutsetning for korrekt rehabilitering. Kystverket er interessert som leietaker; befaring avtalt 20.04.[^60b] [^52]
 
 **15.04.2026** – Container bestilt; ny rydderunde.[^52]
 
@@ -248,6 +256,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 **03.06.2026** – **3. innkreving av tvangsmulkt** mottatt fra TBRT.[^64]
 
 **11.06.2026** – **Statusmøte med TBRT.** Gjennomgang av fremdrift. TBRT orienteres om rammesøknad, brannsikringsplan og utført ryddearbeid.[^65] [^66]
+
+**17.06.2026** – **KodeWorks klager på alle tre innkrevinger av tvangsmulkt** (sak 24/1007-45, 24/1007-46, 24/1007-52). Klagen sendes innen fristen for 3. innkreving (ca. 24. juni). For 1. og 2. innkreving (frist brutt) anmodes om behandling til tross for fristoverskridelse etter forvaltningsloven § 31, subsidiært omgjøring etter § 35. Utsatt iverksetting anmodes etter § 42 for alle tre.[^69]
 
 ---
 
@@ -370,7 +380,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^51]: `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` – HRP, brannprosjektering for minilager Fjordgata 30, 17.02.2026.
 
-[^52]: `arbeid_kristian.txt` og `arbeid_ole_morten.txt` – Arbeidslogger, Kristian Brandsegg og Ole Morten Lagmannssveen. Dokumenterer alle arbeidsøkter med datoer, deltakere og utført arbeid.
+[^52]: `bakgrunn/arbeid_kristian.txt` og `bakgrunn/arbeid_ole_morten.txt` – Arbeidslogger, Kristian Brandsegg og Ole Morten Lagmannssveen. Dokumenterer arbeidsøkter, anvendt metodikk (Fein-sag, hulltaking, sortering), konstruksjonsfunn (bæresystem bevart fra 1.–2. etg. og oppover; langsgående betongmur og sentrale bæringspunkter fra 1980-tallets gjenoppbygging) og grunnundersøkelser (eldre elveavsetninger).
 
 [^53]: `bakgrunn/2026-02-26_redegjoerelse_tbrt.txt` – KodeWorks redegjørelse til TBRT om status og fremdrift, 26.02.2026.
 
@@ -402,8 +412,12 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^66]: `referat/tbrt/2026-06-11_referat_statusmote_tbrt.md` – Referat fra statusmøte med TBRT, 11.06.2026. Deltakere: Eirik Larsen (KodeWorks), Ole Morten Lagmannssveen (HRP), Morten Knutsen, Anna-Karin Hermansen og Tove-Kristin Reitan (TBRT).
 
-[^67]: `bakgrunn/fondsoknader.txt` – Søknader til Adolf Øiens Fond, Kavlifondet og DOGA DIP. Utfall ikke dokumentert i arkivet.
+[^67]: `bakgrunn/soknader_adolfoeiensfond_kavlifondet_dogadip.txt` – Søknader til Adolf Øiens Fond, Kavlifondet og DOGA DIP. Dokumenterer at det ble søkt støtte; utfall ikke dokumentert i arkivet. Ikke kilde for innvilgede beløp.
+
+[^69]: `leveranser/tbrt_klage_innkrevinger_2026.md` – KodeWorks formell klage på 1., 2. og 3. gangs innkreving av tvangsmulkt, 17.06.2026.
+
+[^70]: `bakgrunn/ai_feedback.txt` – Eirik Larsens (prosjektleder) redaksjonelle merknader til utkast av arbeidsrapport. Inneholder primærkildeopplysninger om rådgiverteam (RiB Ole Stenmo, RiBr Gunnhild Henriksen Leere, RiE/RiEn opprinnelig Sastech – senere HRP v/ Anne Kristine Amble), entreprenør (Astra Bygg, akseptert ifm. kontorombyggingen), forkastet BYA-søknad om ansvarsrett, samt at brannkonseptet for byggefasen etterleves under pågående arbeid.
 
 ---
 
-*Sist oppdatert: 19. juni 2026*
+*Sist oppdatert: 22. juni 2026*
