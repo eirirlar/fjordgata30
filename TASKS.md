@@ -429,14 +429,14 @@ Kilde: `bakgrunn/stotte/kmf_tilsagnsbrev.txt`, `kmf_soeknad_ordinaer.txt`, `kmf_
 
 Oppdaterte felt:
 - `GrantReference`: `240126`
-- `TotalBudget`: `5000000` ← fra endelig søknad (kulturminnefondet_2.txt). **NB: ikke oppdatert ennå i project_cards.json – gjenstår.**
+- `TotalBudget`: `5000000` ← fra endelig søknad (kulturminnefondet_2.txt)
 - `GrantAmount`: `750000` ✓
 - `SupportIntensity`: `0.30` ✓
 - `DurationFrom`: `2024-03-13` (vedtaksdato), `DurationTo`: null (ikke fastlagt)
 - `UsageConstraints.eligible`: fjerne/bevare originale paneler/gulvplater/himlinger, undersøke bærekonstruksjon, skifte søyler/innkassing, reetablere bæresystem, kjøp av håndverkertjenester
 - `UsageConstraints.ineligible`: administrasjon/regnskap/planlegging, dugnad/egne maskiner, trykkimpregnerte materialer, kostnader over sluttregnskapet
 - `SpecialRules`: KMF-spesifikke krav om materialkvalitet, antikvarisk standard fra BYA, ingen trykkimpregnering
-- `Comments`: vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024, prosjektnr 240126. **Merk: prosjektet er endret fra kontorbygg til minilager – KMF må informeres (T20).**
+- `Comments`: vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024, prosjektnr 240126. Merk: prosjektet er endret fra kontorbygg til minilager – KMF må informeres (T20).
 
 Kopiert til `bakgrunn/stotte/`:
 - `kmf_tilsagnsbrev.txt` (fra `temp/Kulturminnefondet/Kulturminnefondet 1/`)
@@ -445,13 +445,11 @@ Kopiert til `bakgrunn/stotte/`:
 - `kmf_estimat_rehab_kjeller.txt`, `kmf_estimat_rehab_1etg.txt` (kostnadsestimater)
 - Fantes fra før: `kmf_soeknad_sikringstiltak.txt`, `kmf_tilsvar_soeknadssvar.txt`
 
-**Gjenstår for KMF-FG30:** Sett `TotalBudget: 5000000` i project_cards.json (bekreftet fra kmf_soeknad_ordinaer.txt: totalbudsjett 5 000 000 NOK, omsøkt KMF-andel 1 500 000, innvilget 750 000).
-
 ---
 
 **BYA-FG30** `[x]` Ferdig
 
-Kilde: `temp/Byantikvaren/Fjordgata 30 - Søknad om tilskudd rehabilitering av bærekonstruksjon(ref. CS0495805).txt` (tilsagnsbrev), `søknad_byantikvaren.txt`, `Vedlegg 1 Akseptskjema tilskudd brygger.txt`.
+Kilde: `bakgrunn/stotte/bya_tilsagnsbrev.txt`, `bya_soeknad.txt`, `bya_akseptskjema.txt`, `bya_utbetalingsskjema.txt`. Kopiert fra temp/ 2026-06-22.
 
 Oppdaterte felt:
 - `GrantReference`: `2025/5928`
@@ -465,7 +463,6 @@ Oppdaterte felt:
 - `SpecialRules`: antikvarisk spesialkompetanse påkrevd, løpende dialog med BYA, solceller på tak krever BYA-godkjenning ved IG-søknad
 - `PaymentDates`: utbetalingsanmodning på Vedlegg 2-skjema + rapport + faktura/regnskap → byantikvaren.kart@trondheim.kommune.no
 
-**NB:** Alle PDF-filer i temp/Byantikvaren er allerede konvertert til .txt. De relevante har ikke blitt kopiert til bakgrunn/stotte/ ennå – BYA-dokumentene ligger kun i temp/.
 
 ---
 
