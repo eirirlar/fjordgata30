@@ -56,6 +56,8 @@ fjordgata30/
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`
 - **Spør før suboptimal fremgangsmåte:** Hvis du ser at du er i ferd med å gjøre noe på en ineffektiv måte (mange trinn, store tokenkostnader, omveier), stopp og spør brukeren om de er sikre på at de vil at du skal fortsette slik – selv om du kjører med `--dangerously-skip-permissions`.
 - **Kode og parametere på engelsk:** All kode skrives på engelsk – variabelnavn, funksjonsnavn, kommentarer i koden, og CLI-argumenter/flagg til scripts (f.eks. `--from`, `--to`, `--limit`, ikke `--fra`, `--til`, `--antall`). Dokumentasjon og rapporter til brukere/interessenter skrives på norsk.
+- **Dato-prefix på filer i `bakgrunn/`:** Alle nye filer som legges i `bakgrunn/` skal ha dato-prefix på formen `YYYY-MM-DD_beskrivelse.ext` (f.eks. `2026-06-23_notat_byantikvaren.md`). Eksisterende filer uten dato-prefix skal omdøpes ved neste berøring, og referanser i `historikk.md` og `TASKS.md` oppdateres tilsvarende. Unntak: filer i `bakgrunn/stotte/` (følger prosjektmappestruktur).
+- **"Nye oppgaver"-seksjonen i TASKS.md:** Når `TASKS.md` leses, sjekk alltid om `## Nye oppgaver` inneholder uprosesserte punkter (bullet-linjer). Hvis det finnes slike punkter: spør brukeren om de skal prosesseres. Prosessering betyr å konvertere hvert punkt til en nummerert T-task med beskrivelse og slette punktet fra seksjonen.
 
 ---
 

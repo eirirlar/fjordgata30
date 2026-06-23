@@ -143,13 +143,11 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **28.04.2024** – Orienteringsmøte med TBRT om status på ombygging.
 
-**05.05.2024** – Byantikvaren beslutter å støtte prosjektet med **500 000 kr**.[^28]
+**13.03.2024** – **KMF innvilger tilskudd på 750 000 kr** (vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024). Støtteintensitet: 30 % av omsøkt 5 000 000 kr. Prosjektnummer 240126.[^31] [^30]
 
-**Dato ukjent (2024) – mangler dokumentasjon** – KMF innvilger tilskudd på **750 000 kr** (30 % støtteintensitet). Dato for formelt vedtak ikke dokumentert i tilgjengelig materiale; søknaden og tilskuddet er bekreftet gjennom arkivet.[^31] [^30]
+**03.09.2024** – **Stiftelsen UNI innvilger tilskudd på 100 000 kr** til brannsikring (styrevedtak 28.08.2024, tildelingsbrev 03.09.2024). Søknad innsendt 30.06.2024. Støtteintensitet: 5,6 % (100 000 / 1 785 000 kr). Ref. UNI-38702.[^32]
 
-**Dato ukjent (2024) – mangler dokumentasjon** – Stiftelsen UNI innvilger tilskudd på **100 000 kr** (15 % støtteintensitet). Tilskuddet er bekreftet gjennom søknadsdokument i arkivet; vedtaksdato ikke dokumentert.[^32]
-
-**Dato ukjent (2024) – mangler dokumentasjon** – KodeWorks, KMF, Stiftelsen UNI og Byantikvaren avtaler å samle de tre støtteordningene til én, slik at samlet støttegrad (70 %) kan beregnes på faktisk brukte midler. Samlet støtte: 1 350 000 kr.
+**Dato ukjent (2024) – mangler dokumentasjon** – KodeWorks, KMF, Stiftelsen UNI og Byantikvaren avtaler å samle de tre støtteordningene til én, slik at samlet støttegrad (70 %) kan beregnes på faktisk brukte midler. Samlet støtte: 1 350 000 kr (BYA 500 000 + KMF 750 000 + UNI 100 000).
 
 **04.11.2024** – Statusmøte om prosjektet.[^29]
 
@@ -171,6 +169,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **Januar–februar 2025** – Forprosjekt for minilager pågår. Vurdering av lønnsomhet og tekniske krav. Konklusjon: minilager er lønnsomt og gjennomførbart.
 
+**02.05.2025** – **Byantikvaren innvilger tilskudd på 500 000 kr** (saksref. 2025/5928, saksbehandler Elisabeth Kahrs). Type 1-tiltak: sikring og istandsetting av konstruksjon. Søkt beløp var 750 000 kr. Planlagt oppstart 01.06.2025, ferdigstillelse 31.12.2025.[^28]
+
 **07.05.2025** – **Vedtak om tvangsmulkt** fra TBRT: 2 000 kr/dag fra **01.01.2026** til sprinkleranlegget er på plass og godkjent.[^34]
 
 **26.05.2025** – KodeWorks klager på vedtaket om tvangsmulkt.[^35]
@@ -185,7 +185,7 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **Dato ukjent (høst 2025) – mangler dokumentasjon** – Nabobrygga Fjordgata 32 legges ut for salg. KodeWorks undersøker muligheten for et fellesprosjekt med eier av FG32; dette leder ikke til noe. To potensielle kjøpere av Fjordgata 30 vurderer fellesprosjekt, men konkluderer med for høy risiko.
 
-**Dato ukjent (høst/vinter 2025) – mangler dokumentasjon** – Tilskudd fra Enova innvilget: energikartlegging **500 000 kr**[^38] og ombrukskartlegging **400 000 kr**.[^39] Begge bekreftet mottatt ved start av statusmøterunden i mars 2026.
+**21.01.2026 (søknadsdato) / høst/vinter 2025 (vedtak)** – Tilskudd fra Enova innvilget: energikartlegging **400 000 kr** (sak 26/2548)[^38] og ombrukskartlegging **500 000 kr** (sak 26/2555).[^39] Begge bekreftet mottatt ved start av statusmøterunden i mars 2026. Prosjektstart 25.02.2026.
 
 ---
 
@@ -265,9 +265,9 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato eller kildedokumentasjon. De er inkludert for fullstendighetens skyld, men bør dokumenteres nærmere.
 
-- **Dato ukjent** – Nøyaktig tidspunkt for KMF-vedtak (750 000 kr). Vedtaket er bekreftet, men formelt vedtaksdokument er ikke i arkivet.[^31]
-- **Dato ukjent** – Nøyaktig tidspunkt for UNI-vedtak (100 000 kr).[^32]
-- **Dato ukjent** – Nøyaktig tidspunkt for Enova-vedtakene (500 000 + 400 000 kr).[^38] [^39]
+- ~~**Dato ukjent** – Nøyaktig tidspunkt for KMF-vedtak.~~ *Dokumentert: vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024 (750 000 kr).[^31]*
+- ~~**Dato ukjent** – Nøyaktig tidspunkt for UNI-vedtak.~~ *Dokumentert: styrevedtak 28.08.2024, tildelingsbrev 03.09.2024 (100 000 kr).[^32]*
+- ~~**Dato ukjent** – Nøyaktig tidspunkt for Enova-vedtakene.~~ *Dokumentert: søknader innsendt 21.01.2026; Energikartlegging 400 000 kr (sak 26/2548), Ombruk 500 000 kr (sak 26/2555).[^38] [^39]*
 - **Dato ukjent** – Søknad til Adolf Øiens Fond (150 000 kr) og andre fond (Gjensidigestiftelsen, DNB Stiftelsen, Sparebankstiftelsen, Innovasjon Norge, Riksantikvaren, DOGA DIP, Kavlifondet); utfall ikke kjent.[^67]
 - **Dato ukjent** – Avvikling av leieforhold med garnbutikk i 1. etg, butikk for møbler og klær, og båtbrukerlager i kjeller (skjedde i løpet av 2025).
 - **Dato ukjent** – Forprosjekt for alternativt bruksformål besluttet igangsatt (høst/vinter 2025).
@@ -276,7 +276,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 ## Referanser
 
-[^1]: `bakgrunn/naeringsmegling_markedsmateriell.txt` – DNB Næringsmegling, salgsprospekt Fjordgata 30, oppdrag 1130053 (2013/2015). Inneholder historisk beskrivelse av bygningsmasse, reguleringsforhold, byantikvarmøte 25.02.2013 og eiendomsdata.
+[^1]: `bakgrunn/2023-10-13_naeringsmegling_markedsmateriell.txt` – DNB Næringsmegling, salgsprospekt Fjordgata 30, oppdrag 1130053 (2013/2015). Inneholder historisk beskrivelse av bygningsmasse, reguleringsforhold, byantikvarmøte 25.02.2013 og eiendomsdata.
 
 [^2]: `bakgrunn/2013-10-30_bygningsinformasjon_matrikkelen.md` – Bygningsinformasjon fra matrikkelen, utskrift 30.10.2013.
 
@@ -294,9 +294,9 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^9]: `bakgrunn/2015-04-21_kjoepekontrakt.md` – Kjøpekontrakt for GNR 401 BNR 149, ca. 21.04.2015 (uke 17). Oppgjørsansvarlig: DNB Næringsmegling AS v/ Randi Justnæs. Overtakelsesdato: 01.12.2015.
 
-[^10]: `bakgrunn/dnb_verdivurdering_2022.txt` – DNB Næringsmegling AS, verdivurdering Fjordgata 30, befaring 16.08.2022, rapport 17.08.2022. Markedsverdi NOK 13 000 000; refererer til tilstandsrapport 05.03.2012.
+[^10]: `bakgrunn/2022-08-17_dnb_verdivurdering.txt` – DNB Næringsmegling AS, verdivurdering Fjordgata 30, befaring 16.08.2022, rapport 17.08.2022. Markedsverdi NOK 13 000 000; refererer til tilstandsrapport 05.03.2012.
 
-[^11]: `bakgrunn/tilstandsanalyse_nivaa1.txt` – Tilstandsanalyse nivå 1 etter NS-EN 16096, utført av HRP AS v/ Ole Morten Lagmannssveen. Overordnet tilstandsgrad TG 3.
+[^11]: `bakgrunn/2023-11-01_tilstandsanalyse_nivaa1.txt` – Tilstandsanalyse nivå 1 etter NS-EN 16096, utført av HRP AS v/ Ole Morten Lagmannssveen. Overordnet tilstandsgrad TG 3.
 
 [^12]: `bakgrunn/2018-01-15_tbrt_tilsynsrapport_varsel_paalegg.md` – TBRT tilsynsrapport med varsel om pålegg, 15.01.2018. Tre avvik dokumentert.
 
@@ -330,17 +330,17 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^26]: `bakgrunn/2023-07-05_notat_skred_flomfare.txt` – Notat om skred- og flomfare for eiendommen, 05.07.2023.
 
-[^27]: `bakgrunn/rammesoknad_kontor_2023_beskrivelse.txt` (nabovarsel + søknadsbeskrivelse), `bakgrunn/rammesoknad_kontor_2023_vedlegg_F.txt` (F-02, F-04–F-09: flom, VA, el, ventilasjon), `bakgrunn/rammesoknad_kontor_2023_brannkonsept.txt` (brannkonsept), `bakgrunn/rammesoknad_kontor_2023_vedlegg_I.txt` (I-01–I-05: Riksantikvaren, slokkevann, Byantikvaren m.fl.) – Rammesøknad kontorbygg BYGG-23/82364, SAHAA AS / KodeWorks Eiendom AS, innsendt 06.07.2023, komplettert 13.10.2023.
+[^27]: `bakgrunn/2023-07-06_rammesoknad_kontor_beskrivelse.txt` (nabovarsel + søknadsbeskrivelse), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_F.txt` (F-02, F-04–F-09: flom, VA, el, ventilasjon), `bakgrunn/2023-07-06_rammesoknad_kontor_brannkonsept.txt` (brannkonsept), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_I.txt` (I-01–I-05: Riksantikvaren, slokkevann, Byantikvaren m.fl.) – Rammesøknad kontorbygg BYGG-23/82364, SAHAA AS / KodeWorks Eiendom AS, innsendt 06.07.2023, komplettert 13.10.2023.
 
-[^28]: `bakgrunn/byantikvaren_tilbakemelding_rammesoknad.txt` – Byantikvarens tilbakemelding på rammesøknad; bekrefter tilskudd 500 000 kr (05.05.2024) og vilkår om uttalelse om solceller ved IG.
+[^28]: `bakgrunn/stotte/bya/tilsagnsbrev.md` – Byantikvarens tilsagnsbrev 02.05.2025 (saksref. 2025/5928). Innvilget 500 000 kr til sikring og istandsetting av konstruksjon. Vilkår: antikvarisk spesialkompetanse, løpende dialog med BYA, rapport med foto. Opprinnelig kildefil (byantikvaren_tilbakemelding_rammesoknad.txt) var tom; erstattet av primærkilden.
 
 [^29]: `bakgrunn/2024-01-24_tilsynsrapport_tbrt.md` – TBRT tilsynsrapport, tilsyn 11.01.2024, rapport 24.01.2024. Tre avvik; frist 15.02.2024. Inneholder også referanser til handlingsplan 05.03.2024, varsel 18.03.2024 og statusmøte 28.04.2024 og 04.11.2024.
 
-[^30]: `bakgrunn/kmf_tilsvar_soeknadssvar.txt` – KodeWorks tilsvar til Kulturminnefondet, mars 2024. Svar på KMFs tilbakemelding 06.02.2024 med utdypet tiltaksbeskrivelse, kostnadsfordeling og tillatelsesredegjørelse.
+[^30]: `bakgrunn/stotte/kmf/tilsvar_soeknadssvar.md` – KodeWorks tilsvar til Kulturminnefondet, mars 2024. Svar på KMFs tilbakemelding 06.02.2024 med utdypet tiltaksbeskrivelse, kostnadsfordeling og tillatelsesredegjørelse.
 
-[^31]: `bakgrunn/kmf_soeknad_sikringstiltak.txt` – Søknad til Kulturminnefondet om tilskudd til sikringstiltak. Bekrefter innvilget beløp NOK 750 000 (30 % støtteintensitet).
+[^31]: `bakgrunn/stotte/kmf/tilsagnsbrev.md` – Kulturminnefondets tilsagnsbrev 18.03.2024. Vedtaksdato 13.03.2024. Innvilget NOK 750 000 (30 % av omsøkt 5 000 000 kr). Prosjektnummer 240126.
 
-[^32]: `bakgrunn/uni_soeknad.txt` – Søknad til Stiftelsen UNI. Bekrefter innvilget beløp NOK 100 000 (15 % støtteintensitet).
+[^32]: `bakgrunn/stotte/uni/tildeling.md` – Stiftelsen UNIs tildelingsbrev 03.09.2024 (styrevedtak 28.08.2024, ref. UNI-38702). Innvilget NOK 100 000 til brannsikring. Støtteintensitet 5,6 % (100 000 / 1 785 000 kr).
 
 [^33]: `bakgrunn/2024-11-08_paalegg_brannsikring.md` – TBRT pålegg om brannsikring, 08.11.2024. Krav om fullsprinklet anlegg i hele bygget; frist 01.05.2025.
 
@@ -352,9 +352,9 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^37]: `bakgrunn/2025-10-09_krav_om_ny_behandling.md` – KodeWorks krav om ny behandling, 09.10.2025. Begrunnet med mangelfull begrunnelse fra klageorganet (forvaltningsloven §§ 25, 34, 41).
 
-[^38]: `bakgrunn/enova_soeknad_energikartlegging.md` – Søknad til Enova om støtte til energikartlegging. Innvilget NOK 500 000.
+[^38]: `bakgrunn/stotte/enova_kl/tilskuddsbrev.md` – Enovas tilskuddsbrev sak 26/2548. Innvilget NOK 400 000 til energikartlegging i yrkesbygg. Søknad datert 21.01.2026. Prosjektstart 25.02.2026, sluttdato 25.10.2026.
 
-[^39]: `bakgrunn/enova_soeknad_ombrukskartlegging.md` – Søknad til Enova om støtte til ombrukskartlegging. Innvilget NOK 400 000.
+[^39]: `bakgrunn/stotte/enova_om/tilskuddsbrev.md` – Enovas tilskuddsbrev sak 26/2555. Innvilget NOK 500 000 til mulighetsstudie for ombruk og fleksibilitet. Søknad datert 21.01.2026. Prosjektstart 25.02.2026, sluttdato 25.12.2026.
 
 [^40]: `bakgrunn/2026-01-06_tbrt_svar_ny_frist.txt` – TBRTs svar med ny frist 28.02.2026, 06.01.2026.
 
@@ -380,7 +380,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^51]: `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` – HRP, brannprosjektering for minilager Fjordgata 30, 17.02.2026.
 
-[^52]: `bakgrunn/arbeid_kristian.txt` og `bakgrunn/arbeid_ole_morten.txt` – Arbeidslogger, Kristian Brandsegg og Ole Morten Lagmannssveen. Dokumenterer arbeidsøkter, anvendt metodikk (Fein-sag, hulltaking, sortering), konstruksjonsfunn (bæresystem bevart fra 1.–2. etg. og oppover; langsgående betongmur og sentrale bæringspunkter fra 1980-tallets gjenoppbygging) og grunnundersøkelser (eldre elveavsetninger).
+[^52]: `bakgrunn/2026-04-16_arbeid_kristian.txt` og `bakgrunn/2026-04-16_arbeid_ole_morten.txt` – Arbeidslogger, Kristian Brandsegg og Ole Morten Lagmannssveen. Dokumenterer arbeidsøkter, anvendt metodikk (Fein-sag, hulltaking, sortering), konstruksjonsfunn (bæresystem bevart fra 1.–2. etg. og oppover; langsgående betongmur og sentrale bæringspunkter fra 1980-tallets gjenoppbygging) og grunnundersøkelser (eldre elveavsetninger).
 
 [^53]: `bakgrunn/2026-02-26_redegjoerelse_tbrt.txt` – KodeWorks redegjørelse til TBRT om status og fremdrift, 26.02.2026.
 
@@ -404,19 +404,19 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^62]: `bakgrunn/2026-04-17_2gangs_innkreving_tvangsmulkt.md` – TBRTs 2. innkreving av tvangsmulkt (periode 19.03–14.04.2026, NOK 54 000), 17.04.2026.
 
-[^63]: `bakgrunn/hrp_energikartlegging_rapport.md` – HRP/RiEn, energikartlegging og energimerking Fjordgata 30. Energikarakter G, 252 000 kWh/år. 12 tiltak med kostnader og besparelser.
+[^63]: `bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md` – HRP/RiEn, energikartlegging og energimerking Fjordgata 30. Energikarakter G, 252 000 kWh/år. 12 tiltak med kostnader og besparelser.
 
 [^64]: `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md` – TBRTs 3. innkreving av tvangsmulkt (periode 15.04–31.05.2026, NOK 94 000), 03.06.2026.
 
-[^65]: `bakgrunn/2026-06-11 forberedelse til  TBRT statusmøte.txt` – Forberedelsesdokument til TBRT-møte 11.06.2026, utarbeidet av Eirik Larsen.
+[^65]: `bakgrunn/2026-06-11_forberedelse_tbrt_statusmote.txt` – Forberedelsesdokument til TBRT-møte 11.06.2026, utarbeidet av Eirik Larsen.
 
 [^66]: `referat/tbrt/2026-06-11_referat_statusmote_tbrt.md` – Referat fra statusmøte med TBRT, 11.06.2026. Deltakere: Eirik Larsen (KodeWorks), Ole Morten Lagmannssveen (HRP), Morten Knutsen, Anna-Karin Hermansen og Tove-Kristin Reitan (TBRT).
 
-[^67]: `bakgrunn/soknader_adolfoeiensfond_kavlifondet_dogadip.txt` – Søknader til Adolf Øiens Fond, Kavlifondet og DOGA DIP. Dokumenterer at det ble søkt støtte; utfall ikke dokumentert i arkivet. Ikke kilde for innvilgede beløp.
+[^67]: `bakgrunn/2024-01-22_soknader_adolfoeiensfond_kavlifondet_dogadip.txt` – Søknader til Adolf Øiens Fond, Kavlifondet og DOGA DIP. Dokumenterer at det ble søkt støtte; utfall ikke dokumentert i arkivet. Ikke kilde for innvilgede beløp.
 
 [^69]: `leveranser/tbrt_klage_innkrevinger_2026.md` – KodeWorks formell klage på 1., 2. og 3. gangs innkreving av tvangsmulkt, 17.06.2026.
 
-[^70]: `bakgrunn/ai_feedback.txt` – Eirik Larsens (prosjektleder) redaksjonelle merknader til utkast av arbeidsrapport. Inneholder primærkildeopplysninger om rådgiverteam (RiB Ole Stenmo, RiBr Gunnhild Henriksen Leere, RiE/RiEn opprinnelig Sastech – senere HRP v/ Anne Kristine Amble), entreprenør (Astra Bygg, akseptert ifm. kontorombyggingen), forkastet BYA-søknad om ansvarsrett, samt at brannkonseptet for byggefasen etterleves under pågående arbeid.
+[^70]: `bakgrunn/2026-04-16_ai_feedback.txt` – Eirik Larsens (prosjektleder) redaksjonelle merknader til utkast av arbeidsrapport. Inneholder primærkildeopplysninger om rådgiverteam (RiB Ole Stenmo, RiBr Gunnhild Henriksen Leere, RiE/RiEn opprinnelig Sastech – senere HRP v/ Anne Kristine Amble), entreprenør (Astra Bygg, akseptert ifm. kontorombyggingen), forkastet BYA-søknad om ansvarsrett, samt at brannkonseptet for byggefasen etterleves under pågående arbeid.
 
 ---
 

@@ -7,6 +7,26 @@
 
 Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene til å referere til oppgaver i kommunikasjon, commits og dokumentasjon. Løsninger dokumenteres under oppgaven i dette dokumentet.
 
+## Nye oppgaver
+
+---
+
+### T62 `[ ]` Forretningsplan for minilager
+
+**Mål:** Utarbeide en detaljert forretningsplan for Fjordgata 30 som minilagerbygning.
+
+Planen bør dekke:
+- Markedsanalyse: etterspørsel etter minilager i Trondheim sentrum, konkurrenter, prising
+- Inntektsmodell: enhetsstørrelser, belegg, månedspriser, inntektsprojeksjon
+- Kostnadsstruktur: kapital, drift, vedlikehold, forsikring, teknologi (booking/adgangssystem)
+- Finansieringsplan: egenkapital, lån, tilskudd – samlet oversikt
+- Break-even-analyse og lønnsomhetsvurdering
+- Risikovurdering og mitigering
+- Fremdriftsplan frem mot åpning
+
+**Relevante kilder:** `historikk.md`, `status.txt`, `stotte/project_cards.json`, referat fra statusmøter
+---
+
 ### T01 `[ ]` Arbeidsrapport – utbetalingsanmodning, Kulturminnefondet / Stiftelsen UNI / Byantikvaren
 **Mottakere:** Kulturminnefondet (750 000 kr), Stiftelsen UNI (100 000 kr), Byantikvaren (500 000 kr)
 
@@ -18,48 +38,42 @@ Alle tre støttegivere krever dokumentasjon på at det faktisk er utført fysisk
 - Fremdrift mot rammesøknad, IG og byggestart
 - Brannkonsept og brannsikkerhet i byggefasen
 
-**Relevante kilder:** `bakgrunn/nye/arbeid_kristian.txt`, `bakgrunn/nye/arbeid_ole_morten.txt`, `historikk.md`, `referat/`, `bakgrunn/`
+**Relevante kilder:** `bakgrunn/2026-04-16_arbeid_kristian.txt`, `bakgrunn/2026-04-16_arbeid_ole_morten.txt`, `historikk.md`, `referat/`, `bakgrunn/`
 
 **Merk:** Se T60 for den allerede leverte brannvesen-rapporten fra april 2026 (`leveranser/fg30_arbeidsrapport.md`), som kan tjene som strukturmal.
-
 ---
 
 ### T02 `[ ]` Utbetalingsanmodning – Kulturminnefondet
 **Mottaker:** Kulturminnefondet (750 000 kr)
 
-Har gitt tilskudd for lenge siden og er utålmodig. Krav om at fysisk arbeid dokumenteres før utbetaling. De siste 6 månedene har det faktisk blitt utført fysisk arbeid (se `arbeid_kristian.txt` og `arbeid_ole_morten.txt`). Anmodningen må:
+Har gitt tilskudd for lenge siden og er utålmodig. Krav om at fysisk arbeid dokumenteres før utbetaling. De siste 6 månedene har det faktisk blitt utført fysisk arbeid (se `2026-04-16_arbeid_kristian.txt` og `2026-04-16_arbeid_ole_morten.txt`). Anmodningen må:
 - Dokumentere konkret hva som er gjort
 - Overbevise om at prosjektet realiseres
 - Vise klar fremdriftsplan fremover
-
 ---
 
 ### T03 `[ ]` Framdriftsrapport – Kulturminnefondet
 **Mottaker:** Kulturminnefondet
 
 Se T02 for kontekst. Samme krav, men fokus på fremdrift fremover snarere enn utbetalingsanmodning.
-
 ---
 
 ### T04 `[ ]` Utbetalingsanmodning – Byantikvaren
 **Mottaker:** Byantikvaren (500 000 kr)
 
 Samme situasjon som Kulturminnefondet (T02). I tillegg er Byantikvaren særlig opptatt av steinmuren i kjeller – rammesøknaden foreslår å bevare muren, men støype betong foran den for bæring. Anmodningen bør adressere dette direkte og vise at antikvariske verdier ivaretas.
-
 ---
 
 ### T05 `[ ]` Framdriftsrapport – Byantikvaren
 **Mottaker:** Byantikvaren
 
 Se T04 for kontekst.
-
 ---
 
 ### T06 `[ ]` Utbetalingsanmodning / framdriftsrapport – Enova
 **Mottaker:** Enova
 
 Støtteordning for energitiltak. Les `../stotte`-prosjektet for å forstå hvordan støtten er registrert og hvilke krav som gjelder for framdriftsrapportering.
-
 ---
 
 ### T07 `[ ]` Framdriftsrapport / redegjørelse – Trondheim Brannvesen / TBRT
@@ -69,26 +83,10 @@ TBRT har ilagt dagbøter på 2 000 kr/dag, noe vi bestrider som lovstridig. Pros
 - Dokumentere konkret framdrift
 - Vise at prosjektet faktisk blir noe av
 - Argumentere for at dagbøter ikke bør løpe i mellomtiden (de vil ellers kunne velte prosjektøkonomien)
-
 ---
 
 ### T08 `[ ]` Framdriftsrapport – Stiftelsen UNI
 **Mottaker:** Stiftelsen UNI
-
----
-
-### T09 `[x]` Oversikt støttemidler – Bank
-**Mottaker:** Bank
-
-Trenger en samlet oversikt over alle innvilgede tilskudd og finansieringskilder for å dokumentere prosjektøkonomi. Bruk `../stotte`-prosjektet som kilde for tall. I stotte prosjektet er det også definert struktur og datamodell for prosjekter som er støttet. Dette må forstås, og stotteprosjekter sine "datablad" må formatteres likt. Det bør ligge inn under en ny mappe "stotte".
-
-**Løsning (2026-06-22):**
-- Opprettet `stotte/` mappe i prosjektet
-- `stotte/schemes.csv` – scheme-definisjoner for KMF, BYA, UNI og ENOVA_KART
-- `stotte/project_cards.json` – tilskuddskort i samme format som `../stotte/project_cards.json`, med én entry per tilskudd: KMF-FG30, BYA-FG30, UNI-FG30, ENOVA-KL-FG30, ENOVA-OM-FG30
-- `leveranser/fg30_stoetteoversikt_bank.md` – bankfokusert oversikt (Pandoc-klar Markdown → .docx) med tilskuddstabell, forklaring av utbetalingsmekanismen, finansieringsplan og framdriftsplan
-- Samlet innvilget: 2 250 000 NOK (KMF 750 000 + BYA 500 000 + UNI 100 000 + Enova 900 000)
-
 ---
 
 ### T10 `[ ]` Rapport til HRP om støtteordninger som EK
@@ -108,69 +106,18 @@ Trenger en samlet oversikt over alle innvilgede tilskudd og finansieringskilder 
 
 **Relevante kilder:** `status.txt`, `../stotte`, møtereferater i `referat/`, `bakgrunn/`
 **Format:** Brev/rapport på norsk, Pandoc-klar Markdown → `.docx`
-
----
-
-### T11 `[x]` Rammesøknad minilager
-Levert 12. mai 2026.
-
 ---
 
 ### T12 `[ ]` Igangsettingssøknad (IG)
 Planlegges parallelt med byggesaksbehandling av rammesøknad. Inkluderer: detaljert brannplan, fundamentering, ventilasjon, fasader, dekker, etasjeoppretting. Estimert leveranse ca. 3,5 mnd etter rammesøknad.
-
----
-
-### T13 `[x]` Forberedelsesdokument til møte med TBRT
-Lag dokument som forbereder møtet: agenda, argumenter mot dagbøter, framdriftsbevis. Se T07 for kontekst om dagbøter og vår posisjon.
-
-**Løsning (2026-06-11):** Dokument lagt inn av Eirik: `bakgrunn/2026-06-11 forberedelse til  TBRT statusmøte.txt`
-
----
-
-### T14 `[x]` Referat fra møte med TBRT
-Transcription finnes – lag formelt referat fra denne.
-
-**Løsning (2026-06-17):** Referat skrevet fra transcript.srt: `referat/tbrt/2026-06-11_referat_statusmote_tbrt.md`. Dekker: status på alle tre avvik, avvikling av drift, rammesøknad, IG-plan, selskapsstruktur, tvangsmulkt-strategi (TBRT anbefaler å klage på 3. gangs innkreving for å kjøpe tid), og dokumentasjonsliste KodeWorks skal levere innen ca. 18. juni 2026. Transcription er halvdårlig/upresis. Vi må berike møtereferatet på bakgrunn av de øvrige bakgrunnsdokumentene. Spør hvis du er usikker på noen berikelser. Renskriv, lagre som .md. Du ser i transcript at det er navngitte personer som sier ting.
-SPEAKER_00 = Eirik Larsen, KodeWorks Eiendom AS
-SPEAKER_04 = Morten Knutsen, TBRT
-Speaker_01 = anna-karin hermansen, TBRT
-Speaker_02 = Tove-Kristin Reitan, TBRT
-Speaker_03 = Ole Morten Lagmannssveen, HRP
-
 ---
 
 ### T15 `[ ]` Dokumentere arbeidsøkter med studenter
 Lag rapport/logg over hva studentene har gjort og lært.
-
 ---
 
 ### T16 `[ ]` Legge inn bilder i rapporter
 Bilder skal inn i arbeidsrapport og evt. framdriftsrapporter.
-
----
-
-### T18 `[x]` Lag kronologisk prosjekthistorikk
-**Filnavn:** `historikk.md`
-
-**Løsning (2026-06-18):** `historikk.md` opprettet i prosjektets rotmappe. Dekker bygningens tidlige historie fra 1841, alle daterte prosjekthendelser fra 2022 til 11. juni 2026, og en eksplisitt seksjon for udokumenterte hendelser med manglende dato (kjøp av bygget, KMF/UNI/Enova-vedtaksdatoer, m.fl.). Kilder: alle filer i `bakgrunn/`, alle statusmøtereferater (01–05 + TBRT), arbeidslogger (`arbeid_kristian.txt`, `arbeid_ole_morten.txt`), DNB-verdivurdering 2022, rammetillatelse 28.11.2023, rapport til TBRT 2025.
-
-Lag en kronologisk fremstilling av Fjordgata 30-prosjektet fra start til i dag, basert på bakgrunnsmaterialet i `bakgrunn/` og referatene i `referat/`. Dokumentet skal gi en ny leser (bank, støttegiver, advokat) rask oversikt over hva som har skjedd, når, og hvorfor.
-
-**Struktur:** Én seksjon per år (eller naturlig fase), med daterte hendelser som bullets. Dekk minst:
-- Kjøp/overtakelse av bygget og tidligste planer
-- Søknader om tilskudd – når søkt, når innvilget, beløp og formål (KMF, Byantikvaren, Enova, UNI)
-- Arbeidsøkter – når Kristian og/eller Ole Morten har utført fysisk arbeid på bygget (se `arbeid_kristian.txt` og `arbeid_ole_morten.txt`)
-- Rammesøknad for kontorbygg – når levert, hva den inneholdt, hvorfor den ble skrinlagt
-- Omlegging fra kontorbygg til minilager – beslutning og begrunnelse
-- TBRT-tilsyn januar 2024, pålegg november 2024, klage mai 2025, klagebehandling september–oktober 2025, innkrevinger mars–juni 2026
-- Rammesøknad for minilager levert 12. mai 2026
-- Statusmøte TBRT 11. juni 2026
-
-**Udokumenterte hendelser:** Hendelser som nevnes i dokumenter uten at dato eller kilde er kjent, skal likevel tas med i historikken – men merkes eksplisitt med f.eks. «*(dato ukjent – mangler dokumentasjon)*» eller «*(omtalt i [kilde], ingen dato)*». Eksempler på slike hendelser: første kontakt med støttegivere, beslutningen om å kjøpe bygget, tidlige møter med Byantikvaren eller Riksantikvaren, tidligere TBRT-inspeksjoner før 2024. Målet er at historikk.md synliggjør hull i dokumentasjonen slik at de kan tettes.
-
-**Kilder:** `bakgrunn/` (alle filer inkl. `arbeid_kristian.txt`, `arbeid_ole_morten.txt`), `referat/` (alle møtereferater), `CLAUDE.md` for interessentoversikt.
-
 ---
 
 ### T19 `[ ]` Søk om utsettelse av prosjektperiode – Kulturminnefondet
@@ -181,7 +128,6 @@ Prosjektperioden i KMF-tilskuddet løper ut, men prosjektet er ikke ferdigstilt.
 - Dokumentere at prosjektet nå er konkret: rammesøknad levert 12. mai 2026
 - Angi ny forventet ferdigstillelsesdato
 - Relatert: T20 (støtteintensitet) bør avklares samtidig
-
 ---
 
 ### T20 `[ ]` Søk om endring av støtteintensitet – Kulturminnefondet
@@ -192,28 +138,24 @@ Det opprinnelige tilskuddet ble gitt til et kontorbygg-prosjekt. Prosjektet er n
 - Argumentere for at prosjektets antikvariske kjerneformål (bevaring av bærekonstruksjon, trekonstruksjoner, fasade) er uendret
 - Be om bekreftelse på at tilskuddet fortsatt gjelder, og eventuelt be om justering av støtteintensitet
 - Løses helst i samme brev/prosess som T19
-
 ---
 
 ### T21 `[ ]` Søk om utsettelse av prosjektperiode – Byantikvaren
 **Mottaker:** Byantikvaren
 
 Samme situasjon som KMF (T19). Prosjektperioden for Byantikvaren-tilskuddet (500 000 kr) må forlenges. Se T19 for kontekst om årsaker. I tillegg bør brevet adressere steinmur-spørsmålet fra rammesøknaden slik at Byantikvaren er oppdatert på prosjektets nåværende form.
-
 ---
 
 ### T22 `[ ]` Søk om utsettelse – Enova Ombrukskartlegging
 **Mottaker:** Enova
 
 Ombrukskartleggingen ble innvilget støtte og skulle gjennomføres av HRP. Per Statusmøte 03 (mars 2026) var HRP klar til å starte i uke 12. Status på gjennomføring er ukjent – avklar med HRP om kartleggingen er ferdig, delvis gjennomført, eller ikke startet. Dersom prosjektperioden utløper før levering, send søknad om utsettelse til Enova.
-
 ---
 
 ### T23 `[ ]` Søk om utsettelse – Enova Energikartlegging
 **Mottaker:** Enova
 
 Energikartleggingen gjennomføres av HRP (RiEn-avdeling). Per Statusmøte 04/05 var RiEn i gang, med planlagt statusoppsummering 17. april 2026. Avklar med HRP om rapport er levert. Dersom prosjektperioden utløper før rapport er klar, send søknad om utsettelse til Enova.
-
 ---
 
 ### T24 `[ ]` Lag oversikt over alle støtteordninger
@@ -229,103 +171,6 @@ Lag en strukturert oversikt over samtlige innvilgede tilskudd med følgende kolo
 - Status (aktiv / søkt utsettelse / utbetalt)
 
 Bruk `../stotte`-prosjektet som kilde for tall. Lagres som `stoetteoversikt.md` i prosjektmappen.
-
----
-
-### T31 `[x]` Klage på alle tre innkrevinger av tvangsmulkt
-**Mottaker:** Trøndelag brann- og redningstjeneste IKS  
-**Filnavn:** `tbrt_klage_innkrevinger_2026.md`
-
-**Kronologi:**
-
-| Dato | Hendelse | Saksnr / kilde |
-|---|---|---|
-| 11.01.2024 | TBRT-tilsyn gjennomført | 24/1007-2 |
-| 24.01.2024 | Tilsynsrapport – tre avvik dokumentert | 24/1007-2 |
-| 15.02.2024 | Frist for å lukke avvik iht. tilsynsrapporten | 24/1007-2 |
-| 18.03.2024 | Gjentatt varsel om pålegg fra TBRT | Bekreftet i pålegget 08.11.2024 |
-| 05.03.2024 | KodeWorks sender forpliktende handlingsplan | Bekreftet i pålegget 08.11.2024 |
-| 04.11.2024 | Statusmøte – avvik fortsatt ikke lukket | Bekreftet i pålegget 08.11.2024 |
-| 08.11.2024 | Pålegg om brannsikring, frist 01.05.2025 | 24/1007-27 |
-| 28.04.2025 | Møte mellom KodeWorks og TBRT – status gjennomgått | Bekreftet i vedtaket 07.05.2025 |
-| 07.05.2025 | Vedtak om tvangsmulkt: 2 000 kr/dag fra 01.01.2026 | 24/1007-28 |
-| 26.05.2025 | KodeWorks klager på vedtaket (forvaltningsloven § 28) | 24/1007-28 |
-| 16.09.2025 | TBRT sender saksfremlegg til klageorganet – anbefaler å opprettholde vedtaket | 24/1007-33 |
-| 30.09.2025 | Klageorganet behandler saken, opprettholder vedtaket | Protokoll vedlagt orientering 08.10.2025 |
-| 08.10.2025 | TBRT orienterer KodeWorks om klageorganets vedtak | Bekreftet i krav om ny behandling 09.10.2025 |
-| 09.10.2025 | KodeWorks krever ny behandling – mangelfull begrunnelse (forvaltningsloven §§ 25, 34, 41) | 24/1007-28 |
-| 30.12.2025 | KodeWorks sender statusbrev – beskriver utført arbeid og planlagt forprosjekt | Bekreftet i TBRT-brev 06.01.2026 |
-| 06.01.2026 | TBRT innvilger ny frist til 28.02.2026. Dagmulkt løper fra 01.03.2026 | 24/1007-40 |
-| 27.02.2026 | KodeWorks orienterer om minilager-planer og fremdrift på rammesøknad | `2026-02-27_status_fjordgata30.md` |
-| 06.03.2026 | Telefonsamtale mellom KodeWorks og TBRT | Bekreftet i TBRT-brev 18.03.2026 |
-| 13.03.2026 | KodeWorks sender e-post til TBRT | Bekreftet i TBRT-brev 18.03.2026 |
-| 18.03.2026 | TBRT avslår ytterligere utsettelse – mener ingen konkrete tiltak er gjennomført | 24/1007-44 |
-| 19.03.2026 | 1. innkreving SENDT (periode 01.03–18.03.2026, kr 36 000) | 24/1007-45 |
-| 17.04.2026 | 2. innkreving SENDT (periode 19.03–14.04.2026, kr 54 000) | 24/1007-46 |
-| 11.05.2026 | KodeWorks varsler TBRT uformelt om at rammesøknad er klar og vil bli levert | TBRT skriver feilaktig «11.05.2025» i 3. innkreving – bekreftet av KodeWorks at dette er 2026 |
-| 12.05.2026 | Rammesøknad for minilager levert til Plan og Bygg | Bekreftet i referat 11.06.2026 |
-| 03.06.2026 | 3. innkreving SENDT (periode 15.04–31.05.2026, kr 94 000) | 24/1007-52 |
-| 11.06.2026 | Statusmøte KodeWorks / HRP / TBRT | `referat/tbrt/2026-06-11_referat_statusmote_tbrt.md` |
-
-**Formell struktur – tre separate klager i ett brev**
-
-Hvert innkrevingsvedtak er et selvstendig enkeltvedtak med eget saksnummer. Forvaltningsloven § 51, 4. ledd gir særskilt klagerett på den enkelte «ileggelse». Alle tre må påklages separat, men kan samles i ett brev som eksplisitt angir at man klager på sak 24/1007-45, 24/1007-46 og 24/1007-52.
-
-**Klagefrist og status (per 17.06.2026)**
-
-| Innkreving | Sendt | Frist ca. | Status |
-|---|---|---|---|
-| 1. (01.03–18.03.2026) | 19.03.2026 | ~09.04.2026 | **Frist brutt** – 10 uker siden |
-| 2. (19.03–14.04.2026) | 17.04.2026 | ~08.05.2026 | **Frist brutt** – 6 uker siden |
-| 3. (15.04–31.05.2026) | 03.06.2026 | ~24.06.2026 | **Ikke brutt** – hastverk |
-
-Fristen er 3 uker fra mottaksdato, jf. forvaltningsloven §§ 29 og 51, 4. ledd. Bekreftet av TBRTs juridiske rådgiver i møtet 11.06.2026.
-
-**Strategi for fristbrutte klager (innkreving 1 og 2)**
-
-Forvaltningsloven § 31 åpner for behandling av for sent inngitte klager dersom:
-- **a)** parten ikke kan lastes for å ha oversittet fristen, eller
-- **b)** det av særlige grunner er rimelig at klagen prøves
-
-Klagen må fremsettes «uten ugrunnet opphold» etter at hindringen er falt bort.
-
-Argumenter som begrunner sen klage:
-1. KodeWorks var i perioden mars–mai 2026 i aktiv konstruktiv dialog med TBRT og fokuserte på å levere rammesøknaden (12. mai) som den faktiske løsningen – ikke på å angripe innkrevingene juridisk. En part som aktivt forsøker å løse saken bør ikke straffes for å ikke simultant ha klaget innen fristen.
-2. Rammesøknaden forelå ikke da fristene for innkreving 1 og 2 løp ut – det er et vesentlig nytt faktum som er «særlige grunner» etter § 31 b).
-3. KodeWorks er en liten eiendomseier uten heltids juridisk stab; TBRT har juridisk rådgiver i fast stilling. Strukturell asymmetri taler for at fristen bør praktiseres med rimelighet (jf. EMK artikkel 6).
-4. Alle tre innkrevingene springer ut av det samme vedtaket og den samme situasjonen – prosessøkonomisk og konsistensmessig bør de ses i sammenheng.
-5. TBRT signaliserte i møtet 11.06.2026 at de vil vurdere å sette innkreving i bero – vanskelig å begrunne velvilje fremover uten å revurdere de to allerede innkrevde periodene.
-
-Subsidiært: Be TBRT omgjøre innkrevingene 1 og 2 på eget initiativ etter forvaltningsloven **§ 35** (omgjøring uten klage til gunst for parten).
-
-**Brevets fire elementer:**
-1. Formell klage på 3. innkreving (innen fristen – hastverk)
-2. Klage på 1. og 2. innkreving med anmodning om behandling til tross for fristoverskridelse (§ 31)
-3. Subsidiær anmodning om omgjøring av 1. og 2. innkreving etter § 35
-4. Anmodning om utsatt iverksetting av alle tre etter § 42 mens klagebehandling pågår
-
-**Materielle argumenter i klagen:**
-- Rammesøknad levert 12. mai 2026 – prosjektet er nå konkret og i gang
-- Krav om ny behandling (09.10.2025) ikke tilfredsstillende besvart
-- Sprinklerinstallasjon i verneklasse B-bygg er rettslig umulig uten byggetillatelse og Byantikvarens godkjenning – TBRT setter KodeWorks i en umulig skvis mellom to offentlige myndigheter
-- Brannforskriften § 6 (risikobasert tilnærming for eldre bygg) er ikke vurdert av TBRT
-- Faktafeil i saksfremlegget (16.09.2025): TBRT hevdet at ingen byggesøknad var innlevert
-- Tvangsmulkt som kan velte prosjektøkonomien hindrer den brannsikkerhetsoppgraderingen TBRT selv krever (forholdsmessighetsprinsippet, EMK TP1 art. 1)
-- Fortsatt innkreving bør stilles i bero frem til klagebehandling er avsluttet
-
-**Relevante kilder:**
-- `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md`
-- `bakgrunn/2025-05-26_klage_vedtak_tvangsmulkt.md`
-- `bakgrunn/2025-09-16_saksfremlegg_klageorgan_tbrt.txt`
-- `bakgrunn/2025-10-09_krav_om_ny_behandling.md`
-- `bakgrunn/2026-01-06_tbrt_svar_ny_frist.txt`
-- `bakgrunn/2026-02-27_status_fjordgata30.md`
-- `bakgrunn/2026-03-18_tbrt_svar_ingen_ytterligere_utsettelse.txt`
-- `bakgrunn/2026-03-19_1gangs_innkreving_tvangsmulkt.md`
-- `bakgrunn/2026-04-17_2gangs_innkreving_tvangsmulkt.md`
-- `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md`
-- `bakgrunn/lovverk/` (alle filer)
-
 ---
 
 ### T32 `[ ]` Fisjon av KodeWorks Eiendom AS
@@ -337,7 +182,6 @@ KodeWorks Eiendom AS eier i dag både Fjordgata 30 og Grønnegata 10. Selskapet 
 - Grønnegata 10 kan skilles ut som et tredje selskap ved behov
 
 Alle pågående støtteordninger (KMF, Byantikvaren, Enova, UNI) skal overføres til Fjordgata 30 AS. Banklån søkes i Fjordgata 30 AS. Fisjonen bør gjennomføres før IG-søknad leveres (T12) slik at riktig juridisk enhet er byggherre fra starten.
-
 ---
 
 ### T33 `[ ]` Utred og dokumenter MVA-refusjon for minilager
@@ -353,7 +197,6 @@ Under bygging av Fjordgata 30 til minilager vil det påløpe MVA på bygge- og p
 5. Beregne estimert MVA-beløp som kan refunderes basert på prosjektbudsjett
 
 **Hent bakgrunnsmateriale fra:** Skatteetaten, Merverdiavgiftsloven, eventuelt skatterådgiver/advokat med MVA-kompetanse.
-
 ---
 
 ### T44 `[ ]` Dokumenter relevant lovverk – MVA ved utleie av lagerplass
@@ -371,7 +214,6 @@ Hent inn og dokumenter relevant lovverk og praksis knyttet til MVA ved utleie av
 7. **Relevante rettskilder** – lovtekst, Skattedirektoratets bindende forhåndsuttalelser (BFU), Merverdiavgiftshåndboken
 
 **Avhenger av / relatert til:** T33 (MVA-redegjørelse for minilager)
-
 ---
 
 ### T59 `[ ]` Gjennomgå og innarbeid bakgrunnsfiler fra rot
@@ -380,45 +222,16 @@ Fire filer er flyttet fra prosjektroten til `bakgrunn/nye/` for gjennomgang:
 
 | Fil | Innhold |
 |---|---|
-| `ai_feedback.txt` | Tilbakemeldinger fra AI-verktøy brukt underveis i prosjektet |
-| `arbeid_kristian.txt` | Arbeidslogg for Kristian Brandsegg |
-| `arbeid_ole_morten.txt` | Arbeidslogg for Ole Morten Lagmannssveen |
+| `2026-04-16_ai_feedback.txt` | Tilbakemeldinger fra AI-verktøy brukt underveis i prosjektet |
+| `2026-04-16_arbeid_kristian.txt` | Arbeidslogg for Kristian Brandsegg |
+| `2026-04-16_arbeid_ole_morten.txt` | Arbeidslogg for Ole Morten Lagmannssveen |
 **Hva som skal gjøres per fil:**
-- `arbeid_kristian.txt` og `arbeid_ole_morten.txt`: Vurder om innholdet er innarbeidet i `historikk.md`. Arbeidsloggene er allerede kildehenvist som `[^52]`. Dersom innholdet er dekket, konverter til `.md` og behold i `bakgrunn/nye/` eller flytt til `bakgrunn/`.
-- `ai_feedback.txt`: Vurder om noe av innholdet bør innarbeides i prosjektdokumentasjon. Slett hvis innholdet er foreldet.
+- `2026-04-16_arbeid_kristian.txt` og `2026-04-16_arbeid_ole_morten.txt`: Vurder om innholdet er innarbeidet i `historikk.md`. Arbeidsloggene er allerede kildehenvist som `[^52]`. Dersom innholdet er dekket, konverter til `.md` og behold i `bakgrunn/`.
+- `2026-04-16_ai_feedback.txt`: Vurder om noe av innholdet bør innarbeides i prosjektdokumentasjon. Slett hvis innholdet er foreldet.
 
 **Merk:** `fg30_arbeidsrapport.md` er skilt ut til T60.
 
 **Avhengigheter:** Ingen.
-
----
-
-### T60 `[x]` Gjennomgå og ferdigstill brannvesen-rapport (leveranser/fg30_arbeidsrapport.md)
-
-Rapport sendt til TBRT/brannvesenet ca. 20. april 2026. Filen er konvertert fra `.docx` og har formateringsfeil fra konverteringen. Filen ligger nå i `leveranser/fg30_arbeidsrapport.md`.
-
-**Hva som skal gjøres:**
-1. Les hele filen og identifiser alle konverteringsartefakter (stray `<`-tegn, ødelagte avsnitt, manglende mellomrom)
-2. Regenerer titler og formatering der det er nødvendig
-3. Behold `\newpage`-kommandoer (gyldige for Pandoc → .docx)
-4. Verifiser at innholdet samsvarer med det som faktisk ble sendt
-
-**Kjente feil (oppdaget ved opprettelse av tasken):**
-- Linje 19: `---<` skal være `---`
-- Linje 33: `<som er gjennomført` skal være `som er gjennomført`
-
-**Avhengigheter:** Ingen.
-
-**Løsning (22.06.2026):** Filen gjennomgått i sin helhet. Kun de to kjente konverteringsartefaktene funnet og rettet. Øvrig formatering er korrekt — overskriftshierarki, tabeller og `\newpage`-kommandoer er gyldige og intakte. Filen ble samtidig flyttet fra `bakgrunn/nye/` til `leveranser/`.
-
----
-
-### T61 `[~]` Populer project_cards.json med primærkildedata for alle tilskudd
-
-**Mål:** `stotte/project_cards.json` skal ha alle felt utfylt fra primærkilder (tilsagnsbrev, søknader, budsjett-xlsx) – ikke fra historikk.md. For hvert prosjektkort: GrantReference, TotalBudget, SupportIntensity, DurationFrom/To, ReportingDates (med datoer og krav), PaymentDates (med triggere og krav), UsageConstraints (eligible/ineligible), SpecialRules.
-
-**Arbeidsregel:** Tilsagnsbrev og budsjettdokumenter er primærkilder. historikk.md er ikke kilde. Kopier kun .txt-filer (ikke PDF) til `bakgrunn/stotte/`.
-
 ---
 
 #### Status per 2026-06-22
@@ -444,7 +257,6 @@ Kopiert til `bakgrunn/stotte/`:
 - `kmf_tilbakemelding_20240206.txt` (KMFs forespørsel om tilleggsopplysninger)
 - `kmf_estimat_rehab_kjeller.txt`, `kmf_estimat_rehab_1etg.txt` (kostnadsestimater)
 - Fantes fra før: `kmf_soeknad_sikringstiltak.txt`, `kmf_tilsvar_soeknadssvar.txt`
-
 ---
 
 **BYA-FG30** `[x]` Ferdig
@@ -462,8 +274,6 @@ Oppdaterte felt:
 - `UsageConstraints.ineligible`: fasade/vinduer/tak, utredningsoppgaver/pilotprosjekter, allerede utførte arbeider, kostnader over sluttregnskapet
 - `SpecialRules`: antikvarisk spesialkompetanse påkrevd, løpende dialog med BYA, solceller på tak krever BYA-godkjenning ved IG-søknad
 - `PaymentDates`: utbetalingsanmodning på Vedlegg 2-skjema + rapport + faktura/regnskap → byantikvaren.kart@trondheim.kommune.no
-
-
 ---
 
 **UNI-FG30** `[x]` Ferdig
@@ -490,12 +300,11 @@ Kopiert til `bakgrunn/stotte/`:
 - Fantes fra før: `uni_soeknad.txt`
 
 **NB:** `temp/UNI/UNI 2/TilsagnsbrevFastKulturminne (6) (2).txt` er KMFs tilsagnsbrev, ikke et UNI-dokument – ble lagt ved som vedlegg i UNI 2-søknaden.
-
 ---
 
 **ENOVA-KL-FG30** `[~]` Påbegynt – ingen tilsagnsbrev tilgjengelig
 
-Kilde: `temp/Enova/Energikartlegging i Yrkesbygg/webskjema.txt` (søknad), `bakgrunn/stotte/hrp_energikartlegging_rapport.md` (ferdig rapport).
+Kilde: `temp/Enova/Energikartlegging i Yrkesbygg/webskjema.txt` (søknad), `bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md` (ferdig rapport).
 
 Det finnes **ingen tilsagnsbrev eller budsjett-xlsx** for energikartleggingen i temp-mappen. GrantAmount 500 000 NOK er kun kilde historikk.md – ikke verifisert fra primærkilde.
 
@@ -515,7 +324,6 @@ Gjenstår:
 - Oppdater: GrantReference, TotalBudget, DurationFrom, DurationTo
 - Legg til UsageConstraints: kjøp av rådgivningstjenester til energikartlegging iht. NS 3031
 - Oppdater ReportingDates: rapport ferdig 05.05.2026, klar for innlevering
-
 ---
 
 **ENOVA-OM-FG30** `[ ]` Ikke startet
@@ -529,17 +337,29 @@ Kilde: `temp/Enova/Mulighetsstudie ombruk og Fleksibilitet/` – inneholder:
 Fantes fra før i `bakgrunn/stotte/`: `enova_soeknad_ombrukskartlegging.md`
 
 Kjent: GrantAmount 400 000 NOK (kun fra historikk.md), ferdigstillelse innen 10 måneder fra vedtaksdato.
-
 ---
 
-#### Kjente mangler på tvers av alle kort
+#### Løsning per 2026-06-23
 
-| Prosjekt | Mangler |
-|----------|---------|
-| KMF-FG30 | `TotalBudget: 5000000` ikke skrevet inn ennå |
-| BYA-FG30 | Dokumenter ikke kopiert til bakgrunn/stotte/ (ligger kun i temp/) |
-| ENOVA-KL-FG30 | Tilsagnsbrev mangler – GrantReference og DurationFrom ukjent |
-| ENOVA-OM-FG30 | Ikke påbegynt – les alle dokumenter i temp/Enova/Mulighetsstudie |
+Alle 5 prosjektkort er ferdig utfylt fra primærkilder. I tillegg er alle `.txt`-filer konvertert til `.md` med pen formattering og organisert i prosjektmapper:
+
+```
+bakgrunn/stotte/
+├── kmf/      – tilsagnsbrev.md, soeknad_ordinaer.md, soeknad_sikringstiltak.md,
+│               tilbakemelding_20240206.md, tilsvar_soeknadssvar.md,
+│               estimat_rehab_1etg.md, estimat_rehab_kjeller.md,
+│               kmf_budsjett_finansiering.xlsx
+├── bya/      – tilsagnsbrev.md, soeknad.md, akseptskjema.md, utbetalingsskjema.md
+├── uni/      – tildeling.md, soeknad.md, uni_budsjett.xlsx
+├── enova_kl/ – tilskuddsbrev.md, soeknad.md, vilkaar.md, oppstartsbrev.md,
+│               enova_soeknad_energikartlegging.md, hrp_energikartlegging_rapport.md
+└── enova_om/ – tilskuddsbrev.md, soeknad.md, oppstartsbrev.md,
+                enova_soeknad_ombrukskartlegging.md, enova_om_budsjett.xlsx
+```
+
+Feil rettet i historikk.md: Enova-beløp var byttet (energikartlegging=400k, ombruk=500k), BYA-dato var feil (02.05.2025, ikke 05.05.2024), KMF og UNI hadde "dato ukjent" (nå dokumentert med korrekte datoer), UNI støtteintensitet var 15% (korrekt er 5,6%). Fotnotereferanser oppdatert til nye filstier.
+
+Filreferanser i `stotte/project_cards.json` oppdatert til nye stier (f.eks. `bakgrunn/stotte/enova_kl/tilskuddsbrev.md`).
 
 #### Verktøy
 - Excel-lesing: `uv run python3 -c "import openpyxl; ..."` (openpyxl er installert i uv-miljøet)
