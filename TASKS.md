@@ -9,6 +9,28 @@ Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene
 
 ## Nye oppgaver
 
+### T65 `[x]` Strukturere arbeidsøkter fra eksisterende data
+
+**Mål:** Samle og strukturere de arbeidsøktene vi allerede har data på i en felles oversiktsfil.
+
+**Løst 2026-06-23:** Opprettet strukturert oversikt i `bakgrunn/2026-06-19_arbeidsokter_kmte.md` basert på innsendte data fra Kristian og Ole Morten. Kristians 9 økteer (35,5 timer, alle i 2026) er tabellsatt fordelt på kategori Berg og Bygg. Ole Mortens narrative arbeidsbeskrivelse er lagt inn. «Spinell» og «Lapis» er avklart som betegnelser på arbeidsgruppene. Åpne punkter (manglende datoer og Ole Mortens timelogg) er videreført til T66.
+
+**Filer:** `bakgrunn/2026-06-19_arbeidsokter_kmte.md`
+
+---
+
+### T66 `[ ]` Komplett arbeidsøkt-logg – manglende datoer og Ole Mortens rapport
+
+**Mål:** Fylle ut det som mangler i `bakgrunn/2026-06-19_arbeidsokter_kmte.md` slik at alle arbeidsøkter er fullstendig dokumentert med dato og timer.
+
+**Mangler:**
+- Eksakte datoer for Kristians Berg 1–4 (vet at de er i 2026 – ber Kristian bekrefte)
+- Ole Mortens fullstendige arbeidsøkt-logg med datoer og timer (kalender, HRP-besøk, sweat equity-arbeid)
+
+**Handling:** Be Kristian og Ole Morten sende inn manglende data, deretter oppdatere tabellene i `bakgrunn/2026-06-19_arbeidsokter_kmte.md`.
+
+**Relevante filer:** `bakgrunn/2026-06-19_arbeidsokter_kmte.md`
+
 ---
 
 ### T62 `[ ]` Forretningsplan for minilager

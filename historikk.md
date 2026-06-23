@@ -175,13 +175,61 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **26.05.2025** – KodeWorks klager på vedtaket om tvangsmulkt.[^35]
 
+**07. jun 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og sortering, kjeller og 1. etg. Ca. 4 timer.[^71]
+
+**14. jun 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding. Ca. 3 timer.[^71]
+
+**24. jun 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding og sortering. Ca. 3 timer.[^71]
+
+**05. jul 2025 (E)** – **Arbeidsøkt:** KB + OML – **tømming av container**; avfall og brannskadet tømmer kjørt ut. Ca. 6 timer.[^71]
+
+**19. jul 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og sortering. Ca. 4 timer.[^71]
+
+**29. jul 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding. Ca. 3 timer.[^71]
+
+**09. aug 2025 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – befaring og kartlegging av konstruksjon. Ca. 4 timer.[^71]
+
+**16. aug 2025 (E)** – **Arbeidsøkt:** KB + OML – kartlegging og rydding. Ca. 4 timer.[^71]
+
+**26. aug 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding. Ca. 3 timer.[^71]
+
+**06. sep 2025 (E)** – **Arbeidsøkt:** KB + OML – **tømming av container**; avfall kjørt ut. Ca. 6 timer.[^71]
+
+**16. sep 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding og sortering. Ca. 4 timer.[^71]
+
 **16.09.2025** – TBRT sender saksfremlegg til klageorganet.[^36]
+
+**20. sep 2025 (E)** – **Arbeidsøkt:** KB + OML + **brannrådgiver** – befaring og gjennomgang av branntekniske forhold. Ca. 4 timer.[^71]
+
+**27. sep 2025 (E)** – **Arbeidsøkt:** KB + OML – kartlegging og rydding. Ca. 4 timer.[^71]
 
 **30.09.2025** – **Klageorganet opprettholder vedtaket** om tvangsmulkt. KodeWorks informeres.[^36]
 
 **08.10.2025** – TBRT orienterer partene om utfallet.[^36]
 
 **09.10.2025** – KodeWorks fremsetter krav om ny behandling.[^37]
+
+**04. okt 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding. Ca. 5 timer.[^71]
+
+**11. okt 2025 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – konstruksjonsbefaring, kjeller og etasjer. Ca. 3 timer.[^71]
+
+**21. okt 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding og sortering. Ca. 3 timer.[^71]
+
+**25. okt 2025 (E)** – **Arbeidsøkt:** KB + OML + **brannrådgiver** – oppfølgingsbefaring, branntekniske forhold. Ca. 3 timer.[^71]
+
+**01. nov 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og kartlegging. Ca. 4 timer.[^71]
+
+**08. nov 2025 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – konstruksjonsbefaring, avklaringer om bæresystem. Ca. 3 timer.[^71]
+
+**15. nov 2025 (E)** – **Arbeidsøkt:** KB + OML – kartlegging og rydding. Ca. 4 timer.[^71]
+
+**22. nov 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding. Ca. 4 timer.[^71]
+
+**25. nov 2025 (E)** – **Arbeidsøkt (kveld):** KB + OML – rydding og sortering. Ca. 3 timer.[^71]
+
+**06. des 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og opprydding. Ca. 3 timer.[^71]
+
+**13. des 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og opprydding. Ca. 4 timer.[^71]
 
 **Dato ukjent (høst 2025) – mangler dokumentasjon** – Nabobrygga Fjordgata 32 legges ut for salg. KodeWorks undersøker muligheten for et fellesprosjekt med eier av FG32; dette leder ikke til noe. To potensielle kjøpere av Fjordgata 30 vurderer fellesprosjekt, men konkluderer med for høy risiko.
 
@@ -195,6 +243,10 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **06.01.2026** – TBRT svarer med ny frist til **28.02.2026** for å dokumentere fremdrift mot brannsikring.[^40]
 
+**17. jan 2026 (E)** – **Arbeidsøkt:** KB (Berg 1) + Spinell – rydding og konstruksjonskartlegging, kjeller. Ca. 4 timer.[^71]
+
+**24. jan 2026 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – befaring konstruksjon. Ca. 4 timer.[^71]
+
 **26.01.2026** – Nabovarsel og dispensasjonssøknad for minilager-prosjektet sendes inn.[^41] [^42]
 
 **Uke 8 (ca. 16–22. februar 2026)** – **Første arbeidsøkt i kjeller (Kristian Brandsegg + dugnadsgjengen):** Hull i dekke mellom kjeller (U1) og 1. etg åpnes. Plankegulv i deler av kjeller fjernes. Sortering og rydding påbegynnes. Hulltaking i veggkledning, gulvplater og himlingsplater utføres med Fein-sag for konstruksjonsinspeksjon (metoden bevarer antikvarisk verdifullt materiale; kun brannskadd og ubrukelig tømmer fra 1980-tallets gjenoppbygging fjernes).[^52]
@@ -203,6 +255,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **06.02.2026** – VA-notat fra RiV leveres.[^44]
 
+**07. feb 2026 (E)** – **Arbeidsøkt:** KB (Berg 2) + Spinell + Lapis – rydding og kartlegging, kjeller. Ca. 5 timer.[^71]
+
 **09.02.2026** – Følgebrev til rammesøknad utarbeidet.[^45] Notat om ventilasjon fra RiVent leveres.[^46]
 
 **10.02.2026** – Notat om el-kraft fra RiE leveres.[^47] RiB-notat leveres.[^48]
@@ -210,6 +264,10 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 **16.02.2026** – Brannkonsept BKL3 TEK17 leveres av RiBr.[^49] [^50]
 
 **17.02.2026** – Brannprosjektering for minilager leveres.[^51]
+
+**18. feb 2026 (E)** – **Arbeidsøkt (kveld):** KB + OML + **elektriker** – el-gjennomgang og kartlegging. Ca. 4 timer.[^71]
+
+**21. feb 2026 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – konstruksjonsbefaring. Ca. 4 timer.[^71]
 
 **26.02.2026** – Redegjørelse til TBRT om status og fremdrift sendes.[^53] Notat om brannsikring i gjennomføringsfasen utarbeidet.[^54] Brannkonseptet for byggefasen etterleves fra og med dette tidspunktet under alt fysisk arbeid i bygget.
 
@@ -223,7 +281,11 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **07.–08.03.2026** – **Arbeidsøkt (Kristian):** Tømmerbjelker i bjelkelaget kappes for å gi tilkomst til grunnundersøkelse i kjelleren mot Fjordgata.[^52]
 
+**11. mar 2026 (E)** – **Arbeidsøkt:** KB + OML + **rådgiver ombrukskartlegging** – befaring og kartlegging av ombrukbare bygningsdeler. Ca. 4 timer.[^71]
+
 **13.03.2026** – **Statusmøte 03.** U1 ryddet i seks omganger; alt gods sortert i fraksjoner. RiB-møte avtalt 16.03 for avklaringer. Energikartlegging (RiEn) i gang.[^59] Konstruksjonsfunn fra hulltakingen: opprinnelig bæresystem er bevart fra etasjeskillet mellom 1. og 2. etg. og oppover (delvis åpent i 2. etg, fritt i 3.–5. etg) – behovet for fysisk inngrep er konsentrert til U1 og 1. etg. Grunnundersøkelser i kjeller (håndgraving inntil grunnmur flere steder) avdekker eldre elveavsetninger: sand blandet med grus og mindre stein.[^52]
+
+**14. mar 2026 (E)** – **Arbeidsøkt:** KB (Berg 3) + Lapis – rydding og kartlegging, kjeller. Ca. 3,5 timer.[^71]
 
 **15.03.2026** – **Arbeidsøkt:** Siste tømmerstokker sages opp til håndterlige biter.[^52]
 
@@ -235,15 +297,27 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **19.03.2026** – **1. innkreving av tvangsmulkt** sendt fra TBRT (akkumulert gjeld fra 01.01.2026).[^60]
 
+**25. mar 2026 (E)** – **Arbeidsøkt (kveld):** KB + OML + **elektriker** – oppfølging el-kartlegging. Ca. 4 timer.[^71]
+
 ### April: Rydding ferdigstilt, prosjektering fremskyves
+
+**04. apr 2026 (E)** – **Arbeidsøkt:** KB (Berg 4) + Spinell + Lapis – rydding og konstruksjonskartlegging, kjeller. Ca. 4 timer.[^71]
+
+**11. apr 2026 (E)** – **Arbeidsøkt:** KB + OML + **rådgiver ombrukskartlegging** – oppfølgingsbefaring, kartlegging av bygningsdeler. Ca. 4 timer.[^71]
 
 **14.04.2026** – **Statusmøte 04.** U1 ryddet i ni omganger; ca. 1/3 av treverket kjørt vekk. RiB Harboe & Leganger på befaring; langsgående vaiere med strekkfisker mellom langsidene avdekkes og antas å være en essensiell del av bæringen – innsikten har vært utilgjengelig før ryddingen åpnet for inspeksjon, og er en forutsetning for korrekt rehabilitering. Kystverket er interessert som leietaker; befaring avtalt 20.04.[^60b] [^52]
 
+**ca. 15. apr 2026 (E)** – **Arbeidsøkt:** KB (Berg 5) + Spinell + Lapis – rydding, container. Ca. 3,5 timer. (Tilsvarer oppføringen under.)[^71]
+
 **15.04.2026** – Container bestilt; ny rydderunde.[^52]
+
+**ca. 17. apr 2026 (E)** – **Arbeidsøkt:** KB (Berg 6) + Spinell + Lapis – container rydding. Ca. 2,5 timer. (Tilsvarer arbeidsøkten under.)[^71]
 
 **17.04.2026** – **Arbeidsøkt (dugnad):** Container rydding.[^52]
 
 **17.04.2026** – **Statusmøte 05.** U1 ryddet i ni omganger (bekreftet ferdigstilt for grunnundersøkelser). RiB jobber med prosjektering. Energikartlegging på Teams 17.04. **2. innkreving av tvangsmulkt** mottatt.[^61] [^62]
+
+**18. apr 2026 (E)** – **Arbeidsøkt:** KB + OML + **energirådgiver** – befaring og registrering for energikartlegging. Ca. 4 timer.[^71]
 
 **20.04.2026** – Befaring med Kystverket som potensiell leietaker.
 
@@ -251,7 +325,15 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 ### Mai–juni: Rammesøknad levert, TBRT-møte
 
+**09. mai 2026 (E)** – **Arbeidsøkt:** KB + OML + **elektriker** – el-gjennomgang, avsluttende kartlegging. Ca. 3 timer.[^71]
+
 **12.05.2026** – **Rammesøknad for minilager levert** til Trondheim kommune.
+
+**16. mai 2026 (E)** – **Arbeidsøkt:** KB + OML + **energirådgiver** – oppfølgingsbefaring energikartlegging. Ca. 4 timer.[^71]
+
+**ca. 24. mai 2026 (E)** – **Arbeidsøkt:** KB (Bygg 1), 7 deltakere – byggearbeid. Ca. 5 timer.[^71]
+
+**ca. 28. mai 2026 (E)** – **Arbeidsøkt (kveld):** KB (Bygg 2), 5 deltakere – byggearbeid. Ca. 4,5 timer.[^71]
 
 **03.06.2026** – **3. innkreving av tvangsmulkt** mottatt fra TBRT.[^64]
 
@@ -420,4 +502,6 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 ---
 
-*Sist oppdatert: 22. juni 2026*
+[^71]: `bakgrunn/2026-06-19_arbeidsokter_kmte.md` – Estimert arbeidsøkt-logg, KB og OML, jun 2025–mai 2026. Alle datoer er merket (E) og vil bli korrigert når faktiske data foreligger (se T66).
+
+*Sist oppdatert: 23. juni 2026*
