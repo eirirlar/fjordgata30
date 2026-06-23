@@ -219,76 +219,17 @@
     },
     {
       "ProjectID": "ENOVA-KL-FG30",
-      "ProjectName": "Enova – energikartlegging, Fjordgata 30",
+      "ProjectName": "Energikartlegging Fjordgata 30",
       "Company": "KodeWorks Eiendom AS",
       "SchemeID": "ENOVA_KART",
       "ProjectLeader": "Eirik Larsen",
-      "GrantReference": null,
-      "TotalBudget": null,
-      "GrantAmount": 500000,
-      "BudgetCurrency": "NOK",
-      "SupportIntensity": 1.0,
-      "DurationFrom": null,
-      "DurationTo": null,
-      "Participants": [
-        {
-          "PersonID": "EL",
-          "FullName": "Eirik Larsen",
-          "Role": "Prosjektansvarlig / tilskuddsmottaker"
-        }
-      ],
-      "ConsortiumPartners": [],
-      "ReportingDates": [
-        {
-          "DeadlineDate": null,
-          "PeriodFrom": null,
-          "PeriodTo": null,
-          "Recipient": "Enova",
-          "ReportType": "final",
-          "TemplateLink": "Enovas søknads- og rapporteringssenter",
-          "SubmittedDate": null,
-          "Status": "upcoming",
-          "Comments": "Sluttrapport – energikartleggingsrapport iht. NS 3031. Ferdigstillelse innen 8 måneder fra vedtaksdato. Se bakgrunn/hrp_energikartlegging_rapport.md."
-        }
-      ],
-      "PaymentDates": [
-        {
-          "ExpectedDate": null,
-          "ReceivedDate": null,
-          "Amount": 500000,
-          "Basis": "Etterskuddsvis etter godkjent sluttrapport. 100% av godkjente kartleggingskostnader.",
-          "Status": "expected",
-          "Comments": "Innvilget høst/vinter 2025. Kartleggingsrapport utarbeidet av HRP AS (bakgrunn/hrp_energikartlegging_rapport.md). Utbetalingsstatus ukjent pr. juni 2026."
-        }
-      ],
-      "SpecialRules": "100% støtteandel av kartleggingskostnad. Krav om ferdigstillelse innen 8 måneder fra vedtaksdato. Rapportering via Enovas søknads- og rapporteringssenter.",
-      "UsageConstraints": null,
-      "Comments": "Innvilget beløp NOK 500 000. Eksakt vedtaksdato og Tilskuddsbrev-referanse ikke dokumentert i arkivet. Kilde: bakgrunn/enova_soeknad_energikartlegging.md og historikk.md.",
-      "Status": "active",
-      "workpackages": [],
-      "budget_categories": [
-        {
-          "BudgetCatID": "kart",
-          "CatName": "Energikartlegging – rådgivningstjenester",
-          "IsIndirectBase": false,
-          "Budget": null,
-          "BudgetCurrency": "NOK"
-        }
-      ]
-    },
-    {
-      "ProjectID": "ENOVA-OM-FG30",
-      "ProjectName": "Enova – ombrukskartlegging, Fjordgata 30",
-      "Company": "KodeWorks Eiendom AS",
-      "SchemeID": "ENOVA_KART",
-      "ProjectLeader": "Eirik Larsen",
-      "GrantReference": null,
-      "TotalBudget": null,
+      "GrantReference": "26/2548",
+      "TotalBudget": 800000,
       "GrantAmount": 400000,
       "BudgetCurrency": "NOK",
-      "SupportIntensity": 1.0,
-      "DurationFrom": null,
-      "DurationTo": null,
+      "SupportIntensity": 0.50,
+      "DurationFrom": "2026-02-25",
+      "DurationTo": "2026-10-25",
       "Participants": [
         {
           "PersonID": "EL",
@@ -296,18 +237,23 @@
           "Role": "Prosjektansvarlig / tilskuddsmottaker"
         }
       ],
-      "ConsortiumPartners": [],
+      "ConsortiumPartners": [
+        {"Name": "Sastech AS", "Role": "Energianalyse og rapportering (energikartleggingsrapport iht. NS 3031)"},
+        {"Name": "SAHAA Arkitekter", "Role": "Vurdering av tiltak ift. arkitektonisk uttrykk og vernestatus"},
+        {"Name": "HRP AS", "Role": "Teknisk gjennomførbarhet (VVS, elektro, brann, bæresystemer)"},
+        {"Name": "Astra Bygg og Entreprenør AS", "Role": "Bygningsteknisk innsikt og kostnadsestimater"}
+      ],
       "ReportingDates": [
         {
-          "DeadlineDate": null,
-          "PeriodFrom": null,
-          "PeriodTo": null,
+          "DeadlineDate": "2026-12-25",
+          "PeriodFrom": "2026-02-25",
+          "PeriodTo": "2026-10-25",
           "Recipient": "Enova",
           "ReportType": "final",
           "TemplateLink": "Enovas søknads- og rapporteringssenter",
           "SubmittedDate": null,
           "Status": "upcoming",
-          "Comments": "Sluttrapport – ombrukskartleggingsrapport. Ferdigstillelse innen 10 måneder fra vedtaksdato."
+          "Comments": "Sluttrapport – energikartleggingsrapport iht. NS 3031. Rapport ferdigstilt av HRP 05.05.2026 (bakgrunn/stotte/hrp_energikartlegging_rapport.md). Klar for innlevering."
         }
       ],
       "PaymentDates": [
@@ -315,22 +261,132 @@
           "ExpectedDate": null,
           "ReceivedDate": null,
           "Amount": 400000,
-          "Basis": "Etterskuddsvis etter godkjent sluttrapport. 100% av godkjente kartleggingskostnader.",
+          "Basis": "Etterskuddsvis etter anmodning i fremdrifts- og regnskapsrapport. 20% holdes tilbake til sluttrapport er godkjent.",
           "Status": "expected",
-          "Comments": "Innvilget høst/vinter 2025. Utbetalingsstatus ukjent pr. juni 2026."
+          "Comments": "Tilskuddsbrev saksnr. 26/2548. Rapport ferdig 05.05.2026 – utbetaling kan anmodes."
         }
       ],
-      "SpecialRules": "100% støtteandel av kartleggingskostnad. Krav om ferdigstillelse innen 10 måneder fra vedtaksdato. Rapportering via Enovas søknads- og rapporteringssenter.",
-      "UsageConstraints": null,
-      "Comments": "Innvilget beløp NOK 400 000. Eksakt vedtaksdato og Tilskuddsbrev-referanse ikke dokumentert i arkivet. Kilde: bakgrunn/enova_soeknad_ombrukskartlegging.md og historikk.md.",
+      "SpecialRules": "Maks 50% av godkjente prosjektkostnader, inntil 400 000 kr. 20% av tilskuddet holdes tilbake til godkjent sluttrapport. Prosjektendringer krever skriftlig samtykke fra Enova. MVA/offentlige avgifter som kan refunderes skal ikke belastes Enova. Enova kan kontakte tilskuddsmottaker i inntil 5 år etter prosjektslutt.",
+      "UsageConstraints": {
+        "eligible": [
+          "Innkjøp av tjenester fra rådgivere (Sastech, SAHAA, HRP, Astra Bygg)",
+          "Egne timer"
+        ],
+        "ineligible": [
+          "MVA og offentlige avgifter som tilskuddsmottaker kan kreve refundert",
+          "Kostnader over sluttregnskapet"
+        ]
+      },
+      "Comments": "Tilskuddsbrev saksnr. 26/2548. Søknad datert 21.01.2026. Prosjektstart 25.02.2026. NB: historikk.md hadde feil beløp (500 000) – korrekt er 400 000 iht. tilskuddsbrev. Kilde: bakgrunn/stotte/enova_kl_tilskuddsbrev.txt, enova_kl_soeknad.txt.",
       "Status": "active",
       "workpackages": [],
       "budget_categories": [
         {
-          "BudgetCatID": "kart",
-          "CatName": "Ombrukskartlegging – rådgivningstjenester",
+          "BudgetCatID": "tjenester",
+          "CatName": "Innkjøp av tjenester",
           "IsIndirectBase": false,
-          "Budget": null,
+          "Budget": 500000,
+          "BudgetCurrency": "NOK"
+        },
+        {
+          "BudgetCatID": "egne_timer",
+          "CatName": "Egne timer",
+          "IsIndirectBase": false,
+          "Budget": 300000,
+          "BudgetCurrency": "NOK"
+        }
+      ]
+    },
+    {
+      "ProjectID": "ENOVA-OM-FG30",
+      "ProjectName": "Mulighetsstudie for ombruk og fleksibilitet, Fjordgata 30",
+      "Company": "KodeWorks Eiendom AS",
+      "SchemeID": "ENOVA_KART",
+      "ProjectLeader": "Eirik Larsen",
+      "GrantReference": "26/2555",
+      "TotalBudget": 1000000,
+      "GrantAmount": 500000,
+      "BudgetCurrency": "NOK",
+      "SupportIntensity": 0.50,
+      "DurationFrom": "2026-02-25",
+      "DurationTo": "2026-12-25",
+      "Participants": [
+        {
+          "PersonID": "EL",
+          "FullName": "Eirik Larsen",
+          "Role": "Prosjektansvarlig / tilskuddsmottaker"
+        }
+      ],
+      "ConsortiumPartners": [
+        {"Name": "SAHAA Arkitekter", "Role": "Kartlegging og fleksibilitetsanalyse"},
+        {"Name": "HRP", "Role": "Teknisk og strukturell vurdering"},
+        {"Name": "Astra Bygg", "Role": "Bygningsteknisk dokumentasjon og gjennomførbarhet"},
+        {"Name": "Sastech", "Role": "Klimagassberegning og analyse"}
+      ],
+      "ReportingDates": [
+        {
+          "DeadlineDate": "2027-02-25",
+          "PeriodFrom": "2026-02-25",
+          "PeriodTo": "2026-12-25",
+          "Recipient": "Enova",
+          "ReportType": "final",
+          "TemplateLink": "Enovas søknads- og rapporteringssenter",
+          "SubmittedDate": null,
+          "Status": "upcoming",
+          "Comments": "Sluttrapport – dokumentere aktivitet og konklusjoner iht. kriteriene for Mulighetsstudie ombruk og fleksibilitet."
+        }
+      ],
+      "PaymentDates": [
+        {
+          "ExpectedDate": null,
+          "ReceivedDate": null,
+          "Amount": 500000,
+          "Basis": "Etterskuddsvis etter anmodning i fremdrifts- og regnskapsrapport. 20% holdes tilbake til sluttrapport er godkjent.",
+          "Status": "expected",
+          "Comments": "Maks 50% av godkjente prosjektkostnader. Tilskuddsbrev saksnr. 26/2555."
+        }
+      ],
+      "SpecialRules": "Maks 50% av godkjente prosjektkostnader, inntil 500 000 kr. 20% av tilskuddet holdes tilbake til godkjent sluttrapport. Prosjektendringer krever skriftlig samtykke fra Enova. MVA/offentlige avgifter som kan refunderes skal ikke belastes Enova. Enova kan kontakte tilskuddsmottaker i inntil 5 år etter prosjektslutt.",
+      "UsageConstraints": {
+        "eligible": [
+          "Innkjøp av tjenester fra rådgivere (SAHAA, HRP, Astra Bygg, Sastech)",
+          "Prosjektledelse",
+          "Egne timer"
+        ],
+        "ineligible": [
+          "MVA og offentlige avgifter som tilskuddsmottaker kan kreve refundert",
+          "Kostnader over sluttregnskapet"
+        ]
+      },
+      "Comments": "Tilskuddsbrev saksnr. 26/2555. Søknad datert 21.01.2026. Prosjektstart 25.02.2026. Kilde: bakgrunn/stotte/enova_om_tilskuddsbrev.txt, enova_om_soeknad.txt. NB: historikk.md hadde feil beløp (400 000) – korrekt er 500 000 iht. tilskuddsbrev.",
+      "Status": "active",
+      "workpackages": [
+        {"WPID": "AP1", "Title": "Kartlegging og tilstandsvurdering", "Lead": "SAHAA/HRP/Astra"},
+        {"WPID": "AP2", "Title": "Ombruksanalyse og sirkulær strategi", "Lead": "SAHAA/HRP"},
+        {"WPID": "AP3", "Title": "Analyse av byggets fleksibilitetspotensial", "Lead": "HRP/Astra"},
+        {"WPID": "AP4", "Title": "Klimagassberegning og miljøanalyse", "Lead": "Sastech"},
+        {"WPID": "AP5", "Title": "Oppsummering og anbefalinger", "Lead": "HRP"}
+      ],
+      "budget_categories": [
+        {
+          "BudgetCatID": "tjenester",
+          "CatName": "Innkjøp av tjenester",
+          "IsIndirectBase": false,
+          "Budget": 750000,
+          "BudgetCurrency": "NOK"
+        },
+        {
+          "BudgetCatID": "prosjektledelse",
+          "CatName": "Prosjektledelse",
+          "IsIndirectBase": false,
+          "Budget": 50000,
+          "BudgetCurrency": "NOK"
+        },
+        {
+          "BudgetCatID": "egne_timer",
+          "CatName": "Egne timer",
+          "IsIndirectBase": false,
+          "Budget": 200000,
           "BudgetCurrency": "NOK"
         }
       ]
