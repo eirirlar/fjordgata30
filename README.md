@@ -14,6 +14,7 @@ numpy                    (normalisering)
 recognize-anything       (RAM – installeres fra GitHub)
 open-clip-torch          (CLIP)
 requests                 (nedlasting av store modellvekter på Windows)
+python-docx              (post-prosessering av docx – tabellrammer og kolonnebredder)
 ```
 
 Installer ImageMagick:
@@ -296,6 +297,18 @@ før regresjon. Format:
 
 ---
 
+## Generere forretningsplan som docx
+
+```bash
+cd forretningsplan
+pandoc fg30_forretningsplan.md -o fg30_forretningsplan.docx
+uv run python ../scripts/format_docx.py fg30_forretningsplan.docx
+```
+
+`format_docx.py` legger til tynn grå ramme (0,5pt, #BFBFBF) på alle tabellceller og setter faste kolonnebredder per tabell.
+
+---
+
 ## Mappestruktur
 
 ```
@@ -328,6 +341,29 @@ fjordgata30/
 │   └── weights_combined.json
 ├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter
 ├── brann/                     – branndokumentasjon og TBRT-korrespondanse
+├── forretningsplan/           – forretningsplan, MVA-vurderinger og markedsdata
+│   ├── fg30_forretningsplan.md          – fullstendig forretningsplan (bankpresentasjon)
+│   ├── fg30_vurderinger_mva.md          – MVA-strategi og alternativer
+│   ├── fg30_selskapsstruktur_mva.md     – bygge-AS vs. drifts-AS: MVA-konsekvenser (T76)
+│   ├── fg30_konkurrentanalyse_valet.md  – detaljert analyse av Vinden, Box2Box, Stash (T79)
+│   ├── kilde_markedsdata.md             – konkurrentanalyse og markedsdata Trondheim
+│   ├── kilde_mva_regelverk.md           – lovhenvisninger og prinsipputtalelser
+│   └── lover/                           – nedlastede lovtekster og prinsipputtalelser (verbatim)
+│       ├── mval_2-1_registreringsplikt.md
+│       ├── mval_2-3_frivillig_registrering.md
+│       ├── mval_3-11_fast_eiendom.md
+│       ├── mval_8-1_fradragsrett.md
+│       ├── mval_8-2_forholdsvis_fradrag.md
+│       ├── mval_8-6_tilbakegaende_avgiftsoppgjor.md
+│       ├── mval_9-1_kapitalvarer.md
+│       ├── mval_9-4_justeringsperiode.md
+│       ├── prinsipputtalelse_2014_minilager.md
+│       └── skatteklagenemnda_datasenter_2020.md
+├── stotte/                    – tilskuddsdata og støttesøknader
+│   ├── project_cards.json               – strukturerte tilskuddsdata (alle ordninger)
+│   ├── schemes.csv                      – støtteordninger og intensitetsregler
+│   ├── fg30_skattefunn_vurdering.md     – SkatteFunn vurdering og søknadsskisse (T70)
+│   └── fg30_innovasjon_norge_vurdering.md – Innovasjon Norge virkemidler og søknadsskisse (T71)
 └── referat/                   – møtereferater
 ```
 

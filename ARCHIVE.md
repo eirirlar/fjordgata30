@@ -642,7 +642,7 @@ Trenger en samlet oversikt over alle innvilgede tilskudd og finansieringskilder 
 - Opprettet `stotte/` mappe i prosjektet
 - `stotte/schemes.csv` – scheme-definisjoner for KMF, BYA, UNI og ENOVA_KART
 - `stotte/project_cards.json` – tilskuddskort i samme format som `../stotte/project_cards.json`, med én entry per tilskudd: KMF-FG30, BYA-FG30, UNI-FG30, ENOVA-KL-FG30, ENOVA-OM-FG30
-- `leveranser/fg30_stoetteoversikt_bank.md` – bankfokusert oversikt (Pandoc-klar Markdown → .docx) med tilskuddstabell, forklaring av utbetalingsmekanismen, finansieringsplan og framdriftsplan
+- `leveranser/2026-06-22_fg30_stoetteoversikt_bank.md` – bankfokusert oversikt (Pandoc-klar Markdown → .docx) med tilskuddstabell, forklaring av utbetalingsmekanismen, finansieringsplan og framdriftsplan
 - Samlet innvilget: 2 250 000 NOK (KMF 750 000 + BYA 500 000 + UNI 100 000 + Enova 900 000)
 
 ---
@@ -696,7 +696,7 @@ Lag en kronologisk fremstilling av Fjordgata 30-prosjektet fra start til i dag, 
 
 ### T31 `[x]` Klage på alle tre innkrevinger av tvangsmulkt
 **Mottaker:** Trøndelag brann- og redningstjeneste IKS  
-**Filnavn:** `tbrt_klage_innkrevinger_2026.md`
+**Filnavn:** `2026-06-17_tbrt_klage_innkrevinger_2026.md`
 
 **Kronologi:**
 
@@ -790,9 +790,9 @@ Subsidiært: Be TBRT omgjøre innkrevingene 1 og 2 på eget initiativ etter forv
 
 ---
 
-### T60 `[x]` Gjennomgå og ferdigstill brannvesen-rapport (leveranser/fg30_arbeidsrapport.md)
+### T60 `[x]` Gjennomgå og ferdigstill brannvesen-rapport (leveranser/2026-04-20_fg30_arbeidsrapport.md)
 
-Rapport sendt til TBRT/brannvesenet ca. 20. april 2026. Filen er konvertert fra `.docx` og har formateringsfeil fra konverteringen. Filen ligger nå i `leveranser/fg30_arbeidsrapport.md`.
+Rapport sendt til TBRT/brannvesenet ca. 20. april 2026. Filen er konvertert fra `.docx` og har formateringsfeil fra konverteringen. Filen ligger nå i `leveranser/2026-04-20_fg30_arbeidsrapport.md`.
 
 **Hva som skal gjøres:**
 1. Les hele filen og identifiser alle konverteringsartefakter (stray `<`-tegn, ødelagte avsnitt, manglende mellomrom)
@@ -815,3 +815,279 @@ Rapport sendt til TBRT/brannvesenet ca. 20. april 2026. Filen er konvertert fra 
 **Mål:** `stotte/project_cards.json` skal ha alle felt utfylt fra primærkilder (tilsagnsbrev, søknader, budsjett-xlsx) – ikke fra historikk.md. For hvert prosjektkort: GrantReference, TotalBudget, SupportIntensity, DurationFrom/To, ReportingDates (med datoer og krav), PaymentDates (med triggere og krav), UsageConstraints (eligible/ineligible), SpecialRules.
 
 **Arbeidsregel:** Tilsagnsbrev og budsjettdokumenter er primærkilder. historikk.md er ikke kilde. Kopier kun .txt-filer (ikke PDF) til `bakgrunn/stotte/`.
+
+### T80 `[x]` HRP-brev – revidert versjon til økonomiavdelingen
+
+**Mål:** Revidere `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md` slik at:
+1. Brevet adresseres til **økonomiavdelingen i HRP**, ikke Ole Morten personlig.
+2. YAML-frontmatter er korrekt for Pandoc → .docx-konvertering.
+3. Brevet inkluderer ikke bare innvilgede tilskudd (2 250 000 NOK), men også **planlagte søknader** som styrker prosjektets finansieringsbilde:
+   - SkatteFunn (19 % skattefradrag, høy sannsynlighet)
+   - Mer fra Enova (ytterligere kartlegging/mulighetsstudie)
+   - Innovasjon Norge (oppstartstilskudd / vekstlån)
+   - FoU-samarbeid med NTNU Bygg
+   - Støtte til opplæring innen gammelt håndverk (rehab av historiske bygg)
+   - Fylkeskommunal støtte til brannvern av verneverdige bygg
+   - Ytterligere støtte fra Byantikvaren (har indikert interesse)
+   - Mer fra Kulturminnefondet
+   - Mer fra Stiftelsen UNI (sprinkling/brannsikring)
+
+**Bakgrunn:** Det opprinnelige brevet (T10) ble adressert til Ole Morten og dekker kun innvilgede tilskudd. Økonomiavdelingen trenger et bredere bilde av prosjektets totale offentlige finansieringsambisjon for å forstå betalingsstrukturens logikk.
+
+**Løsning (23.06.2026):** `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md` revidert. Adressat endret til Økonomiavdelingen, HRP AS. YAML-frontmatter beholdt (korrekt for Pandoc). Nytt kapittel 3 med tabell over planlagte søknader (SkatteFunn, Enova, Innovasjon Norge, NTNU IPN, opplæring, fylkeskommune, BYA/KMF/UNI runde 2). Seksjon 5 justert til «dere» i stedet for «deg».
+
+---
+### T77 `[x]` CLAUDE.md – Python-kommando på Windows
+
+**Mål:** Legg inn en arbeidsregel i `CLAUDE.md` som beskriver hvilken Python-kommando som skal brukes på Windows vs. Linux, slik at feil som «Python ble ikke funnet» ikke oppstår igjen.
+
+**Bakgrunn:** Forsøk på å kjøre `python3` og `uv run python3` feiler på Windows i dette prosjektet. Eneste fungerende kommando er `uv run python`. På Linux/macOS kan `python3` fungere direkte. Regelen bør sette dette eksplisitt.
+
+
+**Løst 2026-06-23:** Lagt til regel i `CLAUDE.md` under Arbeidsregler: på Windows brukes alltid `uv run python`; `python3` og `uv run python3` feiler. På Linux/macOS fungerer `python3` direkte.
+
+**Fil:** `CLAUDE.md`
+---
+
+### T78 `[x]` Kartlegg maksimal støtteintensitet – UNI, KMF og Byantikvaren
+
+**Mål:** Kartlegge hva som er maksimalt tillatt støtteintensitet hos Stiftelsen UNI, Kulturminnefondet og Byantikvaren via internett-research, og vurdere om det er grunnlag for å sende endringsanmodninger som øker støtteprosenten på eksisterende tilsagn.
+
+**Bakgrunn:** Statsstøtteregelverket setter et tak på 70 % samlet støtteintensitet (kumulering). Prosjektets strategi er å allokere alle fakturaer og lønnskostnader på tvers av ordningene slik at den samlede støtteintensiteten nærmer seg 70 % på alle kostnader. For å optimalisere fullt ut må vi vite hva maksimal intensitet er per ordning, og om budsjettendringer kan gjøres via endringsanmodning.
+
+**Kilde:** Internett-research (lovdata.no, kulturminnefondet.no, tilskudd.lottstift.no, stiftelsen-uni.no, trondheim.kommune.no)
+
+**Spørsmål som skal besvares:**
+1. Hva er maksimal tillatt støtteintensitet per ordning (KMF, BYA, UNI)?
+2. Hva er gjeldende budsjett og intensitet i de innvilgede tilsagnene?
+3. Hvilke justeringer (budsjettnedskriving, ny søknad) kan øke intensiteten opp mot maks?
+4. Hva er prosedyren for endringsanmodning hos hver enkelt ordning?
+
+**Relevante filer:** `stotte/project_cards.json`, `stotte/schemes.csv`, `bakgrunn/stotte/kmf/`, `bakgrunn/stotte/bya/`, `bakgrunn/stotte/uni/`
+
+**Løsning (23.06.2026):** Internett-research gjennomført. Funn dokumentert i `bakgrunn/2026-06-23_kartlegging_max_stotteintensitet.md`. KMF: maks 50 % (ordinær), 70 % (fredet) – FG30 kan gå fra 15 % til 30 % via budsjettnedskriving til 2,5 MNOK. BYA: ingen publisert maks, men 30 % privat egenandel impliserer maks ~70 % – kontakt saksbehandler for prosess. UNI: ingen publisert maks eller egenfinansieringskrav – kontakt direkte. 70 %-kumuleringstaket bekreftet av statsstøtteregelverket. NB: `stotte/schemes.csv` har feil DefaultIntensity for ENOVA_KART (1,00, korrekt er 0,50).
+
+---
+
+### T79 `[x]` Konkurrentanalyse – valet storage (Vinden, Box2Box, Stash)
+
+**Mål:** Kartlegge i detalj hva Vinden, Box2Box og Stash Storage tilbyr, for å (1) forstå hva «Alternativ C» (aktiv lagringstjeneste) ser ut i praksis hos etablerte aktører, og (2) vurdere om anbefalingen om å starte med Alternativ D (hybrid) er riktig gitt at konkurrenter allerede tilbyr Alternativ C.
+
+**Løsning (23.06.2026):** Internett-research gjennomført. Detaljert analyse skrevet til `forretningsplan/fg30_konkurrentanalyse_valet.md`. Funn: Vinden opererer NØYAKTIG som Alternativ C i Norge i dag – bevis på at modellen er gjennomførbar og sannsynligvis MVA-godkjent. Box2Box (Spania) og Stash (USA) gjør det samme i sine markeder. Ingen norsk tradisjonell selvbetjent aktør tilbyr Alternativ C lokalt i Trondheim. Anbefalingen om D som startpunkt er begrunnet med operasjonell kapasitet og BFU-timing – ikke med at C er uprøvd.
+
+---
+
+## Oppgaver T70–T76
+
+### T70 `[x]` SkatteFunn – research, mal og søknad
+
+**Mål:** Vurdere og eventuelt sende SkatteFunn-søknad for FoU-innhold i FG30-prosjektet.
+
+SkatteFunn (Forskningsrådet) gir skattefradrag for dokumenterte FoU-kostnader. FG30 kan ha FoU-innhold på to fronter: (1) teknologisk restaureringsmetodikk (antikvarisk + ny bruk), og (2) utvikling av minilager-as-a-service-plattform (kundeportal, inventarstyring, valet storage). Begge fronter bør vurderes opp mot SkatteFunns krav.
+
+**Tre steg:**
+1. **Research**: Hva anses som FoU etter SkatteFunn-regelverket? Er restaurering av fredet bygg til ny bruk (minilager) FoU? Er utvikling av lagringsplattform (T68) FoU? Sjekk skattefunn.no og Forskningsrådets veileder.
+2. **Finn mal**: Last ned gjeldende søknadsmal og kravspesifikasjonen fra skattefunn.no.
+3. **Skriv søknad**: Utarbeide søknad i henhold til malen, basert på funnene fra steg 1.
+
+**Avhenger av:** T68 (teknisk konsept for lagringsplattform) for å ha nok konkretisering av FoU-innholdet.
+
+**Løst 2026-06-23:** Utarbeidet vurdering og søknadsskisse for SkatteFunn. To spor vurdert: Spor A (digital lagringsplattform med AI-inventarstyring – anbefalt) og Spor B (restaureringsmetodikk for antikvarisk bygg – lav godkjenningssannsynlighet). Estimert SkatteFunn-fradrag år 1–2: 285 000–570 000 NOK (19 % av 1,5–3 MNOK FoU-kostnader). Søknadsfrist for skatteåret 2026: innen Q3 2026 (garantert behandling).
+
+**Filer:** `stotte/fg30_skattefunn_vurdering.md`
+
+---
+
+### T71 `[x]` Innovasjon Norge – søknad basert på minilager-as-a-service
+
+**Mål:** Utarbeide søknad til Innovasjon Norge med utgangspunkt i forretningsplanen for FG30 minilager, med særlig vekt på konseptet «minilager as a service» (valet storage, digital plattform, kundeportal).
+
+**Bakgrunn:** Forretningsplanen (T62) beskriver et helhetlig tjenestetilbud med henting/levering, barcode-inventar og digital kundeportal. Dette er et innovativt forretningskonsept i norsk kontekst og kan kvalifisere til Innovasjon Norges virkemidler (f.eks. Oppstartslån, Innovasjonslån, Etablerertilskudd eller Grønn plattform).
+
+**Handling:**
+1. Kartlegg aktuelle støtteordninger hos Innovasjon Norge som passer konseptet
+2. Velg egnet ordning og hent søknadsmalen
+3. Skriv søknad med forankring i `forretningsplan/fg30_forretningsplan.md`
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/fg30_vurderinger_mva.md`
+
+**Løst 2026-06-23:** Kartlagt tre aktuelle ordninger (Oppstartstilskudd 250–500k, Innovasjonslån 0,5–10 MNOK, IPN via Forskningsrådet 1–10 MNOK/år). Utarbeidet full søknadsskisse for Oppstartstilskudd: budsjett 420 000 kr, søker 200–250k fra IN til MVP og markedsvalidering. Markedspotensial år 1: 800–1 200 kunder (sentrumsbeboere, båteiere, studenter, Nye Trondheim S-beboere). Anbefalt neste steg: søk Oppstartstilskudd Q3 2026.
+
+**Filer:** `stotte/fg30_innovasjon_norge_vurdering.md`
+
+---
+
+### T72 `[x]` Forretningsplan – faktiske bodstørrelser og 150 kvm lavt areal
+
+**Mål:** Oppdatere `forretningsplan/fg30_forretningsplan.md` med faktiske bodstørrelser fra `fg30_arealoversikt.csv` i stedet for de generiske S/M/L-kategoriene som ble brukt som estimat.
+
+**Hva som skal gjøres:**
+1. Les `fg30_arealoversikt.csv` og finn faktiske mål på alle boder/arealer
+2. Vurder om S/M/L-kategorisering er realistisk gitt faktiske mål, eller om vi bør bruke faktiske kvm-intervaller direkte
+3. Inkluder det store arealet med lavt tak (~150 kvm) som **ikke er med i den ordinære oversikten** – dette arealet egner seg for spesialiserte gjenstander med lav høyde: kajakker, kanoer, sykler, ski, surfebrett, etc. Vurder egne priser og markedsposisjonering for dette segmentet.
+4. Oppdater inntektsmodellen (antall enheter, priser, beleggsprojeksjon) basert på faktiske tall.
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `fg30_arealoversikt.csv`
+
+**Løst 2026-06-23:** Lest `fg30_arealoversikt.csv` og oppdatert seksjon 4.1 i forretningsplanen med faktiske mål. Faktisk fordeling: 22 Micro (<2,0 kvm), 432 Standard (2,0–2,4 kvm), 51 Medium+ (2,5–3,6 kvm) = 505 enheter totalt + 204 kvm spesialareal (lavt tak: kajakk/sykkel/ski/sesong). Gjennomsnitt 2,12 kvm per enhet. Inntektsmodellen oppdatert med faktiske tall.
+
+**Filer:** `forretningsplan/fg30_forretningsplan.md` (seksjon 4.1 oppdatert)
+
+---
+
+### T73 `[x]` Forretningsplan – kildehenvisninger for alle priser
+
+**Mål:** Alle priser i `forretningsplan/fg30_forretningsplan.md` og `forretningsplan/kilde_markedsdata.md` skal ha eksakte kildehenvisninger.
+
+**Format:** For hver pris/prisintervall: hvilken konkurrent, hvilken nettside (eksakt URL), hentet dato, og eventuelle forklarende kommentarer (f.eks. om prisen er eks./ink. MVA, sesongbasert, om det er listepris eller faktisk leiepris).
+
+**Handling:**
+1. Gå gjennom alle prisreferanser i begge filer
+2. Søk opp nettside for hver konkurrent og verifiser at prisen stemmer (eller oppdater med gjeldende pris)
+3. Legg til kildehenvisning direkte i tabellene (f.eks. som fotnote eller ekstra kolonne)
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/kilde_markedsdata.md`
+
+**Løst 2026-06-23:** Lagt til eksakte kilde-URL-er og hentet dato (23.06.2026) for alle konkurrentpriser. Minilager1: kvm-pris korrigert (Small 2,1 kvm = 238 kr/kvm). ESP Lager: Heimdalsvegen 157, Leinstrand – lagt til 6,8 kvm-rad. Trondheim Minilager: bekreftet ingen priser online. Green Storage Lade, Tiller og Fossegrenda: bekreftet.
+
+**Filer:** `forretningsplan/kilde_markedsdata.md` (seksjon 2 oppdatert med URL-er og prisnøyaktighet)
+
+---
+
+### T74 `[x]` Forretningsplan – markedsfordeler: Nidelven, leiligheter, sentralitet, lastesone
+
+**Mål:** Oppdatere markedsanalysen i `forretningsplan/fg30_forretningsplan.md` og `forretningsplan/kilde_markedsdata.md` med FG30s unike markedsposisjonsargumenter.
+
+**Innhold som skal inn:**
+
+1. **Nidelven-inngang og båtplass-segmentet:** FG30 er eneste brygge i Trondheim med direkte inngang fra Nidelven. Alle som leier båtplass langs elva har i dag 0 tilgang til lagringsplass i nærheten. FG30 er det naturlige valget. Allerede mottatt uformelle forespørsler om fortrinnsrett. Kartlegg antall båtplasser langs Nidelven som potensiell kundekrets.
+
+2. **600 nye leiligheter 250 m unna:** Over jernbanebrua over Nidelven, ca. 250 m fra FG30, er 600 nye leiligheter under ferdigstillelse. Moderne standard = svært lite innebygd lagringsplass. FG30 er nærmeste minilager. Anslå markedspotensial.
+
+3. **Sentralitet – avstand fra Trondheim sentrum:** Kartlegg alle 7 konkurrenter (fra `kilde_markedsdata.md`) med faktisk avstand fra Trondheim sentrum (gå/sykkel/bil). FG30 er i sentrum. Vurder om sentralitet rettferdiggjør premiumprising sammenlignet med konkurrenter i periferien.
+
+4. **Lastesone:** FG30 har allokert lastesone utenfor brygga, slik at bilister enkelt kan laste og losse. Dette er en praktisk fordel som bør fremheves i markedsføring og forretningsplan.
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/kilde_markedsdata.md`
+
+**Løst 2026-06-23:** Lagt til ny seksjon 4 i `kilde_markedsdata.md` med avstandstabell for alle 7 konkurrenter (FG30: 0,5 km fra Torget – eneste gangbar fra sentrum utenom Utleiebod). Dokumentert Nidelven-segmentet (TBF: 14 havner, 96 ledige sentrumsplasser; kajakk/kano-inngang). Nye Trondheim S: 485 leiligheter totalt, fase 3 ferdig 2027/2028, 250–350 m fra FG30. Lastesone på kaien dokumentert. Forretningsplanens konkurransefordelsliste utvidet til 8 punkter.
+
+**Filer:** `forretningsplan/kilde_markedsdata.md` (seksjon 4 lagt til), `forretningsplan/fg30_forretningsplan.md` (konkurransefordeler utvidet)
+
+---
+
+### T75 `[x]` Forretningsplan – verifiser alle paragrafhenvisninger mot nedlastede lovfiler
+
+**Mål:** Dobbeltsjekke at alle lovhenvisninger i forretningsplanen peker til korrekte paragrafer, og oppdatere dem til å referere de nedlastede lovfilene i `forretningsplan/lover/`.
+
+**Bakgrunn:** AI kan ta feil på paragrafnummerering. Alle §-referanser i `fg30_forretningsplan.md`, `fg30_vurderinger_mva.md` og `kilde_mva_regelverk.md` skal nå verifiseres mot de verbatim nedlastede lovtekstene i `forretningsplan/lover/`.
+
+**Handling:**
+1. Gå gjennom alle §-referanser i de tre filene
+2. Slå opp faktisk paragraftekst i den tilhørende lovfilen i `lover/`
+3. Bekreft at innholdet stemmer med påstanden i forretningsplanen
+4. Oppdater referansen til å eksplisitt peke til lovfilen
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/fg30_vurderinger_mva.md`, `forretningsplan/kilde_mva_regelverk.md`, `forretningsplan/lover/`
+
+**Løst 2026-06-23:** Gjennomgått alle §-referanser i tre filer. Viktigste korrektur: § 3-11 annet ledd bokstav e gjelder «utleie av oppbevaringsbokser» (tradisjonelle boksenheter), IKKE aktiv lagringstjeneste. Aktive lagringstjenester faller under § 3-1 (alminnelig avgiftsplikt). MVA-strategi-tabell og kilde_mva_regelverk.md oppdatert med filreferanser til `lover/`-mappen.
+
+**Filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/fg30_vurderinger_mva.md`, `forretningsplan/kilde_mva_regelverk.md` (§-referanser korrigert)
+
+---
+
+### T76 `[x]` MVA-konsekvenser av selskapsstruktur: bygge-AS vs. drifts-AS
+
+**Mål:** Utrede fordeler og ulemper ved å skille byggherre-selskapet (Fjordgata 30 AS) fra driftsselskapet (eventuelt Fjordgata 30 Minilager AS), med særlig fokus på MVA.
+
+**Bakgrunn:** Etter fisjonen (T32) vil Fjordgata 30 AS eie og bygge ut eiendommen. Spørsmålet er om minilagerdriften bør legges til et separat driftsselskap som leietaker fra Fjordgata 30 AS, eller om alt bør samles i ett selskap.
+
+**Spørsmål som skal besvares:**
+1. **Frivillig MVA-registrering:** Hvem registreres – Fjordgata 30 AS (utleier) eller Fjordgata 30 Minilager AS (driftsselskap)?
+2. **Fradragsrett:** Hvem kan kreve fradrag for inngående MVA på byggekostnadene?
+3. **Justeringsplikt (§ 9-4):** Hvem bærer justeringsplikten i 10-årsperioden?
+4. **Overdragelse/salg:** Utløser evt. salg av eiendommen fra Fjordgata 30 AS til Fjordgata 30 Minilager AS MVA? Justeringsoverføring?
+5. **Praktiske fordeler/ulemper:** Organisatorisk, skattemessig, ift. banklån og tilskudd.
+
+**Henvis til:** `forretningsplan/lover/mval_8-1_fradragsrett.md`, `mval_8-6_tilbakegaende_avgiftsoppgjor.md`, `mval_9-1_kapitalvarer.md`, `mval_9-4_justeringsperiode.md`, `mval_2-3_frivillig_registrering.md`
+
+**Avhenger av:** T32 (fisjon), T67 (BFU)
+
+**Løst 2026-06-23:** Utarbeidet fullstendig analyse av tre selskapsstrukturmodeller. Modell 1 (ett AS – enklest, direkte MVA-fradrag). Modell 2 (FG30 AS utleier + FG30 Minilager AS drifter – best risikoseparasjon, frivillig reg. § 2-3). Modell 3 (Minilager AS kjøper eiendommen – justeringsoverføring mulig iht. § 9-2 fjerde ledd). Anbefaling: Modell 1 for enkelthet; Modell 2 dersom bank krever separasjon eller ekstern investering planlegges.
+
+**Filer:** `forretningsplan/fg30_selskapsstruktur_mva.md` (opprettet)
+
+---
+
+### T65 `[x]` Strukturere arbeidsøkter fra eksisterende data
+
+**Mål:** Samle og strukturere de arbeidsøktene vi allerede har data på i en felles oversiktsfil.
+
+**Løst 2026-06-23:** Opprettet strukturert oversikt i `bakgrunn/2026-06-19_arbeidsokter_kmte.md` basert på innsendte data fra Kristian og Ole Morten. Kristians 9 økteer (35,5 timer, alle i 2026) er tabellsatt fordelt på kategori Berg og Bygg. Ole Mortens narrative arbeidsbeskrivelse er lagt inn. «Spinell» og «Lapis» er avklart som betegnelser på arbeidsgruppene. Åpne punkter (manglende datoer og Ole Mortens timelogg) er videreført til T66.
+
+**Filer:** `bakgrunn/2026-06-19_arbeidsokter_kmte.md`
+
+---
+
+### T62 `[x]` Forretningsplan for minilager
+
+**Mål:** Utarbeide en detaljert forretningsplan for Fjordgata 30 som minilagerbygning.
+
+Planen bør dekke:
+- Markedsanalyse: etterspørsel etter minilager i Trondheim sentrum, konkurrenter, prising
+- Inntektsmodell: enhetsstørrelser, belegg, månedspriser, inntektsprojeksjon
+- Kostnadsstruktur: kapital, drift, vedlikehold, forsikring, teknologi (booking/adgangssystem)
+- Finansieringsplan: egenkapital, lån, tilskudd – samlet oversikt
+- Break-even-analyse og lønnsomhetsvurdering
+- Risikovurdering og mitigering
+- Fremdriftsplan frem mot åpning
+
+**Løst 2026-06-23:** Utarbeidet fullstendig forretningsplan basert på websøk (konkurrenter, markedsdata, MVA-regelverk, valet-storage modeller) og prosjektdata. Fire filer opprettet i `forretningsplan/`-mappen:
+- `fg30_forretningsplan.md` – Fullstendig forretningsplan (bankpresentasjons-klar Markdown)
+- `fg30_vurderinger_mva.md` – MVA-strategi med 5 alternativer analysert og anbefaling
+- `kilde_markedsdata.md` – Konkurrentanalyse Trondheim + nordisk markedsdata
+- `kilde_mva_regelverk.md` – Lovhenvisninger, Skattedirektoratets uttalelse (2014), domspraksis
+
+**Nøkkelfunn:**
+- Selvbetjent minilager er MVA-unntatt (mval. § 3-11); full-service / aktiv lagringstjeneste er avgiftspliktig
+- Anbefalt modell: Hybrid (B2B frivillig MVA-reg. + full-service lagringstjeneste) → 90–100 % input-MVA-dekning → est. 5–6 MNOK i refusjon
+- Markedet: 7 aktive konkurrenter i Trondheim; ingen tilbyr valet/full-service fra sentrum
+- Stabilisert inntekt: 2,1–2,5 MNOK/år ved 85–90 % belegg; EBITDA 0,8–0,9 MNOK
+- Break-even belegg: 63 % (svært oppnåelig gitt markedet)
+
+**Relevante filer:** `forretningsplan/fg30_forretningsplan.md`, `forretningsplan/fg30_vurderinger_mva.md`, `forretningsplan/kilde_markedsdata.md`, `forretningsplan/kilde_mva_regelverk.md`
+
+**Neste steg (se T67–T69):** BFU til Skatteetaten, MVA-spesialist, bankpresentasjon
+
+---
+
+### T10 `[x]` Rapport til HRP om støtteordninger som EK
+**Mottaker:** HRP (rådgivende ingeniørfirma)
+**Filnavn:** `hrp_brev_stoetteordninger_ek.md`
+
+**Bakgrunn:** HRP er rådgivende ingeniørfirma som jobber på Fjordgata 30-prosjektet. De sender fakturaer til KodeWorks Eiendom og forventer betaling innen normale forfallsfrister (typisk 30 dager).
+
+**Problemet:** Prosjektet finansieres delvis gjennom tilskudd (støtteordninger) fra bl.a. Kulturminnefondet, Byantikvaren, Enova og Stiftelsen UNI. Disse tilskuddene fungerer i praksis som egenkapital (EK) i prosjektet – de utbetales ikke på forhånd, men utløses av dokumentert, gjennomført arbeid. Det betyr at prosjektet ikke har likviditeten til å betale leverandørfakturaer på normale vilkår: pengene eksisterer ikke til tilskuddene er utbetalt, og tilskuddene utbetales etter at arbeid er dokumentert og anmodning er sendt.
+
+**Rapporten skal:**
+1. Forklare prosjektets finansieringsstruktur – at tilskudd er EK, ikke driftslikviditet
+2. Vise konkret hvilke tilskudd som er innvilget, fra hvem, og når de kan forventes utbetalt (se `../stotte` og prosjektets tilskuddsoversikt)
+3. Forklare at HRP – som en sentral samarbeidspart – må akseptere utsatte betalingsfrister i takt med at tilskudd utbetales
+4. Understreke at dette er en midlertidig situasjon knyttet til prosjektets oppstartsfase, og at betalingsevne vil bedre seg etter hvert som rammesøknad behandles og IG-søknad leveres (T12)
+5. Gi HRP nok trygghet til å fortsette arbeidet uten at forholdet forringes
+
+**Relevante kilder:** `status.txt`, `../stotte`, møtereferater i `referat/`, `bakgrunn/`
+**Format:** Brev/rapport på norsk, Pandoc-klar Markdown → `.docx`
+
+**Oppdatering 2026-06-23 (basert på T62/T70–T76):**
+- Forretningsplan for minilager er nå utarbeidet (`forretningsplan/fg30_forretningsplan.md`) – breves økonomiargumenter kan forankres i denne
+- MVA-refusjoner (5–6 MNOK) forventet under byggefasen er en stor konkret likviditetshendelse som bør nevnes
+- SkatteFunn-søknad (T70) kan gi 285–570 000 NOK ekstra; Innovasjon Norge-søknad (T71) kan gi 200–250 000 NOK
+- HRP er registrert som konsortiumpartner på begge Enova-prosjekter (ENOVA-KL 400k + ENOVA-OM 500k) – Enova-energikartleggingsrapporten er ferdigstilt av HRP 05.05.2026 → utbetaling kan anmodes snart
+- NB: Beløpene i `leveranser/2026-06-22_fg30_stoetteoversikt_bank.md` for Enova er byttet om – korrekte beløp er Energikartlegging 400k, Mulighetsstudie 500k (iht. project_cards.json)
+
+**Løst 2026-06-23:** Brev omskrevet. Fire seksjoner: innvilget støtte (totalsum 2 250 000 NOK, ingen individuelle prosentsatser oppgitt), støtteoptimalisering som mekanisme (alle fakturaer + lønnstimer allokeres på tvers av ordninger for å nå maks støtteintensitet etter statsstøtteregelverket – arbeidet skjer etter at kostnader er kjent, ikke løpende), fleksibelt betalingstidspunkt (ikke betalingsudyktighet, men optimaliseringstiming), notat om desember 2025-faktura (noe høyere enn faktisk arbeid – tas opp ved helhetlig oppgjør), og Eiriks track record som garanti.
+
+**Fil:** `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md`
+---
+

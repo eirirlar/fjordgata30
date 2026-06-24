@@ -496,7 +496,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^67]: `bakgrunn/2024-01-22_soknader_adolfoeiensfond_kavlifondet_dogadip.txt` – Søknader til Adolf Øiens Fond, Kavlifondet og DOGA DIP. Dokumenterer at det ble søkt støtte; utfall ikke dokumentert i arkivet. Ikke kilde for innvilgede beløp.
 
-[^69]: `leveranser/tbrt_klage_innkrevinger_2026.md` – KodeWorks formell klage på 1., 2. og 3. gangs innkreving av tvangsmulkt, 17.06.2026.
+[^69]: `leveranser/2026-06-17_tbrt_klage_innkrevinger_2026.md` – KodeWorks formell klage på 1., 2. og 3. gangs innkreving av tvangsmulkt, 17.06.2026.
 
 [^70]: `bakgrunn/2026-04-16_ai_feedback.txt` – Eirik Larsens (prosjektleder) redaksjonelle merknader til utkast av arbeidsrapport. Inneholder primærkildeopplysninger om rådgiverteam (RiB Ole Stenmo, RiBr Gunnhild Henriksen Leere, RiE/RiEn opprinnelig Sastech – senere HRP v/ Anne Kristine Amble), entreprenør (Astra Bygg, akseptert ifm. kontorombyggingen), forkastet BYA-søknad om ansvarsrett, samt at brannkonseptet for byggefasen etterleves under pågående arbeid.
 
