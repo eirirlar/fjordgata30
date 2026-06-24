@@ -58,6 +58,7 @@ fjordgata30/
 - **Kode og parametere på engelsk:** All kode skrives på engelsk – variabelnavn, funksjonsnavn, kommentarer i koden, og CLI-argumenter/flagg til scripts (f.eks. `--from`, `--to`, `--limit`, ikke `--fra`, `--til`, `--antall`). Dokumentasjon og rapporter til brukere/interessenter skrives på norsk.
 - **Dato-prefix på filer i `bakgrunn/`:** Alle nye filer som legges i `bakgrunn/` skal ha dato-prefix på formen `YYYY-MM-DD_beskrivelse.ext` (f.eks. `2026-06-23_notat_byantikvaren.md`). Eksisterende filer uten dato-prefix skal omdøpes ved neste berøring, og referanser i `historikk.md` og `TASKS.md` oppdateres tilsvarende. Unntak: filer i `bakgrunn/stotte/` (følger prosjektmappestruktur).
 - **"Nye oppgaver"-seksjonen i TASKS.md:** Når `TASKS.md` leses, sjekk alltid om `## Nye oppgaver` inneholder uprosesserte punkter (bullet-linjer). Hvis det finnes slike punkter: spør brukeren om de skal prosesseres. Prosessering betyr å konvertere hvert punkt til en nummerert T-task med beskrivelse og slette punktet fra seksjonen.
+- **Git og gh er forbudt uten eksplisitt tillatelse:** Kjør aldri `git`, `gh` eller andre kommandoer som invoker git (f.eks. scripts som kaller git internt) uten at brukeren eksplisitt har gitt tillatelse i den aktuelle samtalen. Dette gjelder alle git-operasjoner: commit, add, status, log, diff, push, pull, checkout osv.
 
 ---
 

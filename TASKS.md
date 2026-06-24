@@ -9,6 +9,16 @@ Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene
 
 ## Nye oppgaver
 
+### T67 `[x]` Renskriv og berik arbeidsbeskrivelse
+
+**Mål:** Kopier `bakgrunn/2026-06-01_arbeidsbeskrivelse_org.md` til `bakgrunn/2026-06-01_arbeidsbeskrivelse.md` og renskriv den. Berik med informasjon fra andre bakgrunnsdokumenter (arbeidsøkter, statusmøter, arbeidslogger).
+
+**Løst 2026-06-24:** Komplett arbeidsbeskrivelse skrevet i `bakgrunn/2026-06-01_arbeidsbeskrivelse.md`. Strukturert i 6 seksjoner: prosjekthistorikk, fagteam, fysisk arbeid (med tabeller for Kristians arbeidsøkter), prosjektering/myndighetsarbeid, avvikling av eksisterende bruk, og fremdriftsplan. Hentet fra: `_org.md`, `2026-06-19_arbeidsokter_kmte.md`, `2026-04-16_arbeid_kristian.txt`, `2026-04-16_arbeid_ole_morten.txt`, `2026-02-27_status_fjordgata30.md`, Statusmøte 04 og 05.
+
+**Filer:** `bakgrunn/2026-06-01_arbeidsbeskrivelse.md` (kilde: `_org.md` + bakgrunn/)
+
+---
+
 ### T65 `[x]` Strukturere arbeidsøkter fra eksisterende data
 
 **Mål:** Samle og strukturere de arbeidsøktene vi allerede har data på i en felles oversiktsfil.
@@ -33,7 +43,7 @@ Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene
 
 ---
 
-### T62 `[ ]` Forretningsplan for minilager
+### T62 `[x]` Forretningsplan for minilager
 
 **Mål:** Utarbeide en detaljert forretningsplan for Fjordgata 30 som minilagerbygning.
 
@@ -47,6 +57,8 @@ Planen bør dekke:
 - Fremdriftsplan frem mot åpning
 
 **Relevante kilder:** `historikk.md`, `status.txt`, `stotte/project_cards.json`, referat fra statusmøter
+
+**Løst 2026-06-24:** Komplett forretningsplan utarbeidet i `forretningsplan/fg30_forretningsplan.md` (+ `.docx`). Inkluderer markedsanalyse, arealoversikt (`fg30_arealoversikt.csv`), konkurrentanalyse (`fg30_konkurrentanalyse_valet.md`), inntektsmodell, finansieringsplan og fremdriftsplan. Kildemateriale dokumentert i `kilde_markedsdata.md` og `kilde_mva_regelverk.md`.
 ---
 
 ### T01 `[ ]` Arbeidsrapport – utbetalingsanmodning, Kulturminnefondet / Stiftelsen UNI / Byantikvaren
@@ -206,7 +218,7 @@ KodeWorks Eiendom AS eier i dag både Fjordgata 30 og Grønnegata 10. Selskapet 
 Alle pågående støtteordninger (KMF, Byantikvaren, Enova, UNI) skal overføres til Fjordgata 30 AS. Banklån søkes i Fjordgata 30 AS. Fisjonen bør gjennomføres før IG-søknad leveres (T12) slik at riktig juridisk enhet er byggherre fra starten.
 ---
 
-### T33 `[ ]` Utred og dokumenter MVA-refusjon for minilager
+### T33 `[x]` Utred og dokumenter MVA-refusjon for minilager
 **Filnavn:** `mva_minilager_redegjoerelse.md`
 
 Under bygging av Fjordgata 30 til minilager vil det påløpe MVA på bygge- og prosjekteringskostnader. MVA kan kreves refundert dersom bygget ved ferdigstillelse leies ut til en MVA-pliktig leietaker. Dette er ikke automatisk – utleie av fast eiendom er i utgangspunktet unntatt MVA, men det finnes unntak for lagring og visse tilknyttede tjenester.
@@ -219,9 +231,11 @@ Under bygging av Fjordgata 30 til minilager vil det påløpe MVA på bygge- og p
 5. Beregne estimert MVA-beløp som kan refunderes basert på prosjektbudsjett
 
 **Hent bakgrunnsmateriale fra:** Skatteetaten, Merverdiavgiftsloven, eventuelt skatterådgiver/advokat med MVA-kompetanse.
+
+**Løst 2026-06-24:** MVA-vurderinger og selskapsstruktur dokumentert i `forretningsplan/fg30_vurderinger_mva.md` og `forretningsplan/fg30_selskapsstruktur_mva.md`. Regelverket er gjennomgått med utgangspunkt i prinsipputtalelsen fra 2014 om minilager og Skatteklagenemnda 2020.
 ---
 
-### T44 `[ ]` Dokumenter relevant lovverk – MVA ved utleie av lagerplass
+### T44 `[x]` Dokumenter relevant lovverk – MVA ved utleie av lagerplass
 **Mappe:** `bakgrunn/lovverk/`
 **Filnavn:** `bakgrunn/lovverk/mva_lagerplass.md`
 
@@ -236,6 +250,8 @@ Hent inn og dokumenter relevant lovverk og praksis knyttet til MVA ved utleie av
 7. **Relevante rettskilder** – lovtekst, Skattedirektoratets bindende forhåndsuttalelser (BFU), Merverdiavgiftshåndboken
 
 **Avhenger av / relatert til:** T33 (MVA-redegjørelse for minilager)
+
+**Løst 2026-06-24:** Lovverk dokumentert i `forretningsplan/lover/` med egne filer per paragraf: `mval_2-1`, `mval_2-3`, `mval_3-11`, `mval_8-1`, `mval_8-2`, `mval_8-6`, `mval_9-1`, `mval_9-4`. I tillegg er prinsipputtalelse fra Skattedirektoratet 2014 (minilager) og Skatteklagenemndas avgjørelse 2020 (datasenter) dokumentert. Filene ligger i `forretningsplan/lover/` i stedet for `bakgrunn/lovverk/` (samlet med forretningsplanen der de brukes).
 ---
 
 ### T59 `[ ]` Gjennomgå og innarbeid bakgrunnsfiler fra rot
