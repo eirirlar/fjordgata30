@@ -339,6 +339,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **11.06.2026** – **Statusmøte med TBRT.** Gjennomgang av fremdrift. TBRT orienteres om rammesøknad, brannsikringsplan og utført ryddearbeid.[^65] [^66]
 
+**13. jun 2026** – **Arbeidsøkt:** KB (Bygg 3), 3 deltakere – byggearbeid. Ca. 3,0 timer.[^71]
+
 **17.06.2026** – **KodeWorks klager på alle tre innkrevinger av tvangsmulkt** (sak 24/1007-45, 24/1007-46, 24/1007-52). Klagen sendes innen fristen for 3. innkreving (ca. 24. juni). For 1. og 2. innkreving (frist brutt) anmodes om behandling til tross for fristoverskridelse etter forvaltningsloven § 31, subsidiært omgjøring etter § 35. Utsatt iverksetting anmodes etter § 42 for alle tre.[^69]
 
 ---
