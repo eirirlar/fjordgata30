@@ -3,7 +3,7 @@
   "projects": [
     {
       "ProjectID": "KMF-FG30",
-      "ProjectName": "Tilskudd til sikringstiltak – Fjordgata 30",
+      "ProjectName": "Tilbakeføring bæring kjeller 1. etg – Fjordgata 30",
       "Company": "KodeWorks Eiendom AS",
       "SchemeID": "KMF",
       "ProjectLeader": "Eirik Larsen",
@@ -11,9 +11,9 @@
       "TotalBudget": 5000000,
       "GrantAmount": 750000,
       "BudgetCurrency": "NOK",
-      "SupportIntensity": 0.30,
+      "SupportIntensity": 0.15,
       "DurationFrom": "2024-03-13",
-      "DurationTo": null,
+      "DurationTo": "2024-12-31",
       "Participants": [
         {
           "PersonID": "EL",
@@ -63,7 +63,13 @@
       },
       "Comments": "Tilskuddet er bekreftet innvilget. Vedtaksdato: 13.03.2024, tilsagnsbrev: 18.03.2024. Prosjektnummer: 240126. Støtteintensitet 30% (endelig søknad) – innvilget 750 000 av omsøkt 1 500 000. Prosjektet er endret fra kontorbygg til minilager – KMF må informeres om endret formål.",
       "Status": "active",
-      "workpackages": [],
+      "workpackages": [
+        {"WPID": "AP1", "WPName": "Bæresystemets helhet", "WPLeader": "KodeWorks Eiendom"},
+        {"WPID": "AP2", "WPName": "Søyler", "WPLeader": "KodeWorks Eiendom"},
+        {"WPID": "AP3", "WPName": "Bjelker og etasjeskillere", "WPLeader": "KodeWorks Eiendom"},
+        {"WPID": "AP4", "WPName": "Avstivende konstruksjoner", "WPLeader": "KodeWorks Eiendom"},
+        {"WPID": "AP5", "WPName": "Bærende yttervegger", "WPLeader": "KodeWorks Eiendom"}
+      ],
       "budget_categories": [
         {
           "BudgetCatID": "rehab",

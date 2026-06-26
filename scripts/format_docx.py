@@ -105,7 +105,7 @@ def set_column_widths(table, fractions):
             tcPr.insert(0, tcW)
 
 
-def process(input_path, output_path):
+def process(input_path, output_path, borders_only=False):
     doc = Document(input_path)
 
     for i, table in enumerate(doc.tables):
@@ -113,10 +113,11 @@ def process(input_path, output_path):
             for cell in row.cells:
                 add_cell_borders(cell)
 
-        if i < len(TABLE_WIDTHS):
-            set_column_widths(table, TABLE_WIDTHS[i])
-        else:
-            print(f"  warning: no width config for table {i} – borders applied, widths left as-is")
+        if not borders_only:
+            if i < len(TABLE_WIDTHS):
+                set_column_widths(table, TABLE_WIDTHS[i])
+            else:
+                print(f"  warning: no width config for table {i} – borders applied, widths left as-is")
 
     doc.save(output_path)
     print(f"Done: {len(doc.tables)} tables processed -> {output_path}")
@@ -126,6 +127,8 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print(__doc__)
         sys.exit(1)
-    inp  = sys.argv[1]
-    outp = sys.argv[2] if len(sys.argv) > 2 else inp
-    process(inp, outp)
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    borders_only = "--borders-only" in sys.argv
+    inp  = args[0]
+    outp = args[1] if len(args) > 1 else inp
+    process(inp, outp, borders_only=borders_only)

@@ -1,111 +1,220 @@
-# Søknad om tilskudd til bevaring av faste kulturminner
+---
+title: "Søknad om tilskudd til bevaring av faste kulturminner"
+subtitle: "Prosjektnr. 240126 – Tilbakeføring bæring kjeller 1. etg, Fjordgata 30"
+date: "22.01.2024"
+source: "C:/dev/src/temp/Støtte/Kulturminnefondet/Kulturminnefondet 1/Tilsvar 1/kulturminnefondet_2.txt"
+---
 
 **Søknadsdato:** 22.01.2024
-**Søknadsår:** 2024
-**Prosjektnummer:** 240126
+
+# Søknad om tilskudd til bevaring av faste kulturminner
+
+240126 Tilbakeføring bæring kjeller 1. etg Fjordgata 30, Trondheim, Trøndelag
 
 ---
 
-## Søker
+## Generelle opplysninger
+
+**Søknadsår:** 2024
+
+### Søker
 
 | Felt | Verdi |
 |------|-------|
-| Navn | KodeWorks Eiendom |
+| Navn på søker | KodeWorks Eiendom |
 | Adresse | Fjordgata 30, 7010 Trondheim |
-| Kontaktperson | Eirik Rosvold Larsen |
-| E-post | eirik.larsen@kodeworks.no |
-| Telefon | 416 70 269 |
+
+### Kontaktperson
+
+| Felt | Verdi |
+|------|-------|
+| Navn | Larsen Eirik Rosvold |
+| Personnummer | 22067946190 |
+| Adresse | Gaustadveien 23d, 0372 Oslo |
+| E-postadresse | eirik.larsen@kodeworks.no |
+| Telefonnummer | 416 70 269 |
+
+### Eier(e)
+
+| Felt | Verdi |
+|------|-------|
 | Eierform | Aksjeselskap |
-
-**Kulturminnets beliggenhet:**
-- Adresse: Fjordgata 30, 7010 Trondheim
-- Kommune: Trondheim / Fylke: Trøndelag
-- Gnr/Bnr: 401/149 | Bygningsnr: 182133272
+| Antall eiere | 1 |
+| Navn | Larsen Eirik Rosvold |
+| Adresse | Gaustadveien 23d, 0372 Oslo |
 
 ---
 
-## Beskrivelse av kulturminnet
+## Kulturminnets beliggenhet
 
-Fjordgata 30 er en brygge oppført i laftet konstruksjon i 1857 av handelsbetjent Thorvald Martinus Moe, etter en bybrann i Fjordgata. Bryggen er et levende kulturminne fra Trondheims maritime fortid, og har gjennom årene huset handelsvirksomhet med sild, fisk og salt.
-
-Med opprinnelig laftet konstruksjon i tre etasjer, ble bygget i 1904 utvidet med to ekstra etasjer i bindingsverk. Fasadeendringer skjedde i 1911 og 1934. Bygget har verneklasse C.
-
----
-
-## Dagens bruk
-
-KodeWorks og KodeWorks Trondheim er største leietakere (kontor i 1. etg.). Øvrige leietakere: butikklokale (klær/møbler), garnbutikk, to IT-kontorer i 2. etg., spillklubb og minilager i 2. etg. 3.–5. etasje: tom og ubrukt grunnet dårlig bæreevne, fukt og råte.
-
----
-
-## Fremtidig bruk
-
-Planlagt omfattende restaurering og ombygging. Målsetning om å bevare original trekonstruksjon og antikvarisk karakter, kombinert med moderne næringsbruk. Planer om solceller og varmeveksling med Nidelva. Bygget planlegges ombygget til moderne kontorbygg med leietakere.
+| Felt | Verdi |
+|------|-------|
+| Adresse | Fjordgata 30, 7010 TRONDHEIM |
+| Kommune | Trondheim |
+| Fylke | Trøndelag |
+| Gårdsnummer | 401 |
+| Bruksnummer | 149 |
+| Bygningsnummer | 182133272 |
 
 ---
 
-## Tilstand
+## Prosjektet
 
-- Fundament og grunn: generelt stabile, men med behov for utbedring i kjeller og 1. etg.
-- Bæresystem (søyler/bjelker): visuelt generelt god stand, men usikkerhet rundt ytterveggenes bæreevne
-- Råte- og setningsskader i bærende yttervegger
-- Tilstandsgrad: **TG 3** (overordnet, jf. NS-EN 16096)
-- Manglende og fjernede skråavstivere, spesielt i 3. etg.
+### Beskrivelse av kulturminnet
+
+Fjordgata 30 er en brygge med en unik antikvarisk verdi med en historie som strekker seg fra 1857 da den ble oppført av handelsbetjent Thorvald Martinus Moe. Moe satte opp brygga i laftet konstruksjon etter en omfattende bryggebrann i Fjordgata, kun 16 år etter den store bybrannen i 1841 hvor bygget også brant ned til grunnen og ble gjenreist. Denne tømmerbryggen er en et levende kulturminne fra Trondheims maritime fortid, og står som et viktig symbol på byens historiske utvikling.
+
+Gjennom årene har Fjordgata 30 fungert som et viktig knutepunkt for betydningsfulle handelsmenn som Thorvald Moe og kjøpmann Oliver Fossum. Bygningens betydning som et senter for handelsaktiviteter, særlig knyttet til sild, fisk, og salt, har satt sitt tydelige preg på bygningens struktur, og den har vært et sentrum for distribusjon til ulike utsalgssteder rundt om i byen.
+
+Med en opprinnelig laftet konstruksjon i tre etasjer, ble Fjordgata 30 i 1904 utvidet med to ekstra etasjer i bindingsverk. Denne påbygningen, sammen med senere fasadeendringer i 1911 og 1934, viser bygningens evne til å tilpasse seg endringer i takt med bruken av bygget gjennom tidene.
+
+I dag er midlertid behovet for å sikre bærekonstruksjonen i Fjordgata 30 tydelig. Det er flere antikvariske hensyn å ta under slikt vedlikehold, og det er viktig å få oversikt over bærekonstruksjonen i bygget for å evaluere hvorvidt tømmer, betong og stål må erstattes eller suppleres med andre avstivende elementer. Deler av det originale eksteriøret og interiøret er erstattet av nyere deler og materialer, og selv om fasaden mot elva og Fjordgata har bevart noe av sitt opprinnelige uttrykk med høvlet kledning og gamle porter, har bærekonstrkusjon, vegger mot nabobryggene, interiør og mange andre deler av bygget gjennomgått betydelige endringer. Disse endringene obstruerer det meste av bærekonstruksjon og yttervegger, noe som vanskeliggjør vurdering av byggets bæreevne.
+
+Den antikvariske verneklasse C som Fjordgata 30 har blitt tildelt, understreker nødvendigheten av å implementere tiltak for å bevare og beskytte bygningen for kommende generasjoner. Sikringen av bærekonstruksjonen blir dermed en essensiell oppgave for å bevare den unike historien som Fjordgata 30 bærer på, og for å sikre at dens antikvariske verdi forblir intakt i fremtiden.
+
+### Dagens bruk
+
+KodeWorks Eiendom AS inngår i konsernet KodeWorks AS. KodeWorks driver primært med utviklingstjenester innen IT. KodeWorks Trondheim, et selskap og en avdeling i konsernet KodeWorks, er største leietaker av Fjordgata 30, sammen med KodeWorks. KodeWorks og KodeWorks Trondheim leier en del av 1. etasje som kalles "selskapslokalet" da denne delen av bygget tidligere ble brukt til sammenkomster. I dag brukes det som kontor for IT-virksomheten. Nærmest Fjordgata i 1. etg er det utleie av et butikklokale hvor det selges klær og møbler. Lengst vest i 1. etasje går en gang inn til en garnbutikk nærmest Nidelven.
+
+I 2. etasje er det to kontorer nærmest Fjordgata, det østlige benyttes av KodeWorks, og det vestlige leies ut til et annet IT-selskap. Lengst vest i 2. etasje, i det som omtales "klubblokalet", leier en spillklubb lokalet og har jevnlige sammenkomster. I midtre og østre del av 2. etasje er deler av etasjen ombygd til minilager. Her lagres diverse fra eksterne brukere av minilageret.
+
+3. 4., og 5. etasje står tom og ubrukt på grunn av byggets dårlige bæreevne oppover i etasjene, fukt og råte, og veggenes bæreevne. I tillegg ville en eventuell bruk av disse etasjene utløst potensielt kostnadsdrivende brannkrav dersom de hadde blitt brukt.
+
+I kjelleren er det svært lav takhøyde bortsett fra en liten seksjon som har moderat høyde, og gulvet innover i kjelleren er råttent eller mangler. I kjelleren lagres diverse båtutstyr.
+
+Det er vanskelig å gjøre tiltak i bygget slik det står for å optimalisere dagens bruk i særlig grad. Det må en større ombygging til.
+
+### Fremtidig bruk
+
+Fjordgata 30 står foran en omfattende restaurering og ombygging for å fremheve og bevare byggets kulturhistoriske verdi. Dette initiativet representerer ikke bare en forestående modernisering av lokalene, men en unik mulighet til å vise frem byggets opprinnelige arkitektur samtidig som det tilpasses moderne behov.
+
+**Bevaring av trekonstruksjon og originalitet:**
+I tråd med antikvariske prinsipper vil vi beholde den originale trestrukturen i Fjordgata 30. Gjennom kommende restaureringsarbeider vil den autentiske karakteren i byggets design bli synlig for besøkende, og dette er en nøkkelkomponent i vår tilnærming til å bevare historiske aspekter ved eiendommen.
+
+**Samspill mellom historie og moderne funksjonalitet:**
+Vårt mål er å skape en symbiose mellom historiske elementer og moderne funksjonalitet. Hver etasje, med om lag 400 kvm, vil bli designet med respekt for byggets opprinnelige struktur, samtidig som det tilbyr moderne kontorfasiliteter. Etasjene blir ekstra luftige ved at vi fjerner 3. og delvis 5. etasje, slik at bærekonstruksjonen kommer tydelig fram. Denne balansen mellom det historiske og det moderne vil skape et unikt miljø for fremtidige leietakere.
+
+**Bærekraftige elementer og integrasjon med Nidelva:**
+Vi planlegger å implementere bærekraftige løsninger, inkludert solceller på taket og varmeveksling med Nidelva, for å sikre miljøvennlig drift på en anonym måte som respekterer byggets natur. Nidelva vil bli gjort aksessibel og tilføre et vakkert og naturlig element, og også gi en unik mulighet for sosiale aktiviteter og rekreasjon for fremtidige leietakere.
+
+**Estimert byggestart og intensjonsavtaler:**
+Vi planlegger å starte ombyggingsprosjektet parallelt med restaureringsarbeidet, og bygge i to faser, hvor første fase skal ferdigstille kjeller og 1. etasje, og siste fase hele bygget. Vi har allerede presentert prospektet til potensielle leietakere og responsen har vært meget god. Når restaureringen og prosjekteringen har kommet lenger vil vi inngå leieavtaler med 1-10 leietakere for leie av kontorplasser. Denne tilnærmingen sikrer et mangfold av fremtidige aktører som kan sette sitt preg på og sette pris på det kommende restaurerte kulturminnet.
+
+Fjordgata 30 blir ikke bare et kommende moderne kontorbygg, men en levende historiebok som vil veve sammen fortiden og nåtiden. Vi søker støtte fra Kulturminnefondet for å realisere denne verdifulle historiefortellingen og åpne dørene til et unikt, restaurert kulturminne i hjertet av Trondheim.
 
 ---
 
-## Planlagte tiltak
+## Tilstand og tiltak
 
-I dette prosjektet: antikvarisk forsvarlig fjerning og bevaring av opprinnelige paneler, gulvplater, himlinger og interiør for å undersøke bærekonstruksjon i kjeller og 1. etasje, deretter utskifting av nødvendige søyler og innkassing.
+### Beskrivelse av dagens tilstand
 
-Arbeidspakker:
-1. **Bæresystemets helhet** – undersøkelse av råteskader og svekkelser fra bunnen og opp
-2. **Søyler** – undersøkelse og utskifting av råteskadede søyler i kjeller og 1. etg.
-3. **Bjelker og etasjeskillere** – kartlegging og utbedring av skjevheter
-4. **Avstivende konstruksjoner** – reetablering av skråavstivere og strekkfisker
-5. **Bærende yttervegger** – undersøkelse og utbedring av råteskader og skjevheter
+Byggets grunn og fundamenter har blitt utbedret og forsterket gjentatte ganger, og de fremstår i hovedsak som stabile, men med behov for utbedring i under- og 1. etasje, men konstruksjonen fremstår mindre stabil over 2. etasje. Bæresystemet med søyler og bjelker ser visuelt ut til å være i generelt god stand, med en stabil bæreevne i hovedkonstruksjonen, som må undersøkes nærmere for å konkludere. Det er imidlertid usikkerhet knyttet til ytterveggenes bæreevne på grunn av råte- og setningsskader. Vinduer, dører og utvendig kledning varierer i utførelse og alder.
+
+En helhetlig tilstandsvurdering av nivå 1 ihht NS-EN 16096 indikerer en tilstandsgrad på 2.3, men spesifikke avvik i vegger, tak, takrennesystem og taktekking fører til en overordnet tilstandsgrad på TG 3. Videre undersøkelser anbefales, spesielt med fokus på bærende yttervegger på grunn av mistanke om råteskader i tømmerkassen.
+
+Gjennomgangen av bæresystemet viser variasjon i tilstanden av søyler og bjelker i ulike etasjer. I underetasjen og 1. etasje er søyler i tre og limtredragere. I de øvre etasjene er det behov for reparasjon og utskifting av noen søyler på grunn av råteskader og oppflising av treverk. Etasjeskillere mellom ulike etasjer har lokale skjevheter, og noen områder krever grundigere undersøkelser.
+
+Avstivende konstruksjoner viser bekymringsfulle forhold, spesielt i 3. etasje der fjerning av skråavstivere har ført til store skjevheter. Det anbefales å reetablere skråavstivere og stramme opp konstruksjonen. Ytterligere avstivningsarbeider anbefales i andre etasjer.
+
+Bærende yttervegger har utfordringer som råteskader, skjevheter og behov for retting og låsing. Spesielt i 3. etasje, der skråavstivere er fjernet, må det gjennomføres grundige undersøkelser for å fastslå tilstanden. Retting av skjevheter og utbedring av råteskader i både laftevegger i 1. til 3. etasje og vegger i tungt bindingsverk er nødvendig, og en forutsetning for dette er en rehabilitering av bærekonstruksjon i kjeller og 1. etasje.
+
+Det er viktig å påpeke at omfanget av utbedringsarbeidene som følger av den observerte tilstanden må sees i sammenheng med resultater fra en fremtidig grundigere undersøkelse i en nivå 2 tilstandsanalyse. En omfattende rehabilitering og istandsetting av bygget krever nøye planlegging og ingeniørmessig vurdering for å sikre langsiktig stabilitet og funksjonalitet.
+
+### Beskrivelse av planlagte tiltak
+
+Bærende konstruksjoner i Fjordgata 30 er i ulik tilstand og krever nærmere undersøkelser, spesielt rettet mot bæreevne og stabilitet. I dette prosjektet skal vi på en antikvarisk forsvarlig måte fjerne og ta vare på opprinnelige og eldre paneler, gulvplater, himlinger og interiør, for å undersøke tilstanden til bærekonstruksjonen i kjeller og 1. etasje. Dette arbeidet skal resultere i utskifting av nødvendige søyler og innkassing, samt en dyptgående kartlegging og planlegging av hvilke arbeidspakker som må inngå i en helhetlig plan for en restaurering av bygget.
+
+**1. Bæresystemets Helhet:**
+Søyler og bjelker korresponderer fra fundament til topp, og den overordnede bæreevnen anses som stabil. Likevel er det identifisert svekkelser som råteskader, manglende avstivninger, og helningsavvik i øvre etasjer. Nærmere undersøkelser av råteskadede vegger og konsekvensutredning i forhold til reetablering av avstivende elementer er nødvendig for å danne seg et helhetlig inntrykk av bygningens integritet og bæreevne. Dette må gjøres fra bunnen opp, og vi tar derfor for oss kjeller og 1. etasje først.
+
+**2. Søyler:**
+I underetasjen er det identifisert oppflising av treverk på enkelte søyler, spesielt de i et fuktig klima. Disse må undersøkes grundigere og eventuell utskifting av berørte stolper må planlegges på en måte som bevarer bæreevnen i bygget under arbeidet. I øvre etasjer er det avdekket fjerning av søyler, spesielt i 3. etasje, som har resultert i skjevheter og svikt. Reetablering av manglende søyler er avgjørende for å gjenopprette strukturell integritet, noe som må planlegges, spesielt i forhold til statikk. Vi skal ta for oss søyler i kjeller og 1. etasje.
+
+**3. Bjelker og Etasjeskillere:**
+Skjevheter i etasjeskillere, spesielt i nordre gavlvegg, krever videre undersøkelser for å vurdere tilstanden. Utglidning og knekk i etasjeskiller mot nordre gavlvegg må planlegges utbedret etter funnene i nivå 2 tilstandsvurdering. I under-, 1.- og 2. etasje er det behov for å fjerne mye av innvendig kledning på ytterveggen for å kartlegge.
+
+**4. Avstivende Konstruksjoner:**
+Identifiserte mangler i avstivende konstruksjoner, spesielt i 2. og 3. etasje, krever reetablering av skråavstivere og oppstramming av vegger med strekkfisker. Dette er viktige tiltak for å sikre stabilitet og hindre videre utglidning. Hvis nødvendig utføres dette i dette prosjektet i kjeller, 1. og 2. etasje.
+
+**5. Bærende Yttervegger:**
+Bærende yttervegger viser varierende tilstand, både mot øst og vest hvor tømmeret og bindingsverket er skadet av fukt og råte. Omfattende utbedringer må planlegges, innbefattende med utskifting av skadede deler og retting av skjevheter. For å avdekke detaljerte forhold, er det nødvendig å fjerne deler av kledningen på ytterveggens ut- og innvendig side. Ut fra disse undersøkelsene kan man planlegge utbedringer av skadede konstruksjonsdeler, reetablering av manglende støtteelementer, og sikring av strukturen på en god og kvalitetsmessig måte. I dette prosjektet tar vi for oss kjeller, 1. og 2. etasje.
 
 ---
 
 ## Fremdriftsplan
 
-| Periode | Aktivitet |
-|---------|-----------|
-| 0–2 mnd | Forundersøkelser |
-| 2–3 mnd | Planlegging av restaureringsarbeid |
-| 3–6 mnd | Restaurering av bæring og søyler i kjeller |
-| 6–9 mnd | Restaurering av bæring og søyler i 1. etg. |
+**Startdato:** 01.04.2024  
+**Sluttdato:** 31.12.2024
 
-**Startdato:** 01.04.2024 | **Sluttdato:** 31.12.2024
+Dette prosjektet er planlagt til å gå over 9 måneder fordelt på følgende aktiviteter:
+
+- 0–2 mnd: forundersøkelser
+- 2–3 mnd: planlegging av restaureringsarbeid
+- 3–6 mnd: restaurering av bæring og søyler i kjeller
+- 6–9 mnd: restaurering av bæring og søyler i 1. etg.
+
+Etter dette prosjektet er følgende restaureringsprosjekter tiltenkt gjennomført:
+
+- Reetablere laftevegger i kjeller og 1. etg
+- Reetablere laftevegger i 2. og 3. etg
+- Reetablere laftevegger i 4. og 5. etg
+- Forsterkning av tak
+- Utvendig kledning
+- Vinduer
+- Etterisolering
 
 ---
 
 ## Budsjett
 
-| Kostnader | Beløp |
-|-----------|-------|
-| Planlagte kjøp av tjenester | kr 5 000 000 |
+Alle kostnader, kjøp av varer og tjenester, skal oppgis inklusiv merverdiavgift. Alle beløp avrundes til nærmeste 1000.
+
+### Kostnader
+
+| Post | Beløp |
+|------|-------|
+| Dugnad | — |
+| Egne maskiner og materialer | kr 5 000 000 |
+| Materialer som skal kjøpes inn | 0 |
+| Lønn til egne ansatte | 0 |
+| Planlagte kjøp av tjenester | — |
+| Fraktkostnader | kr 5 000 000 |
+| Diverse kostnader | — |
 | **Totale kostnader** | **kr 5 000 000** |
 
-| Finansiering | Beløp | Andel |
-|-------------|-------|-------|
-| Egenkapital og egne midler | kr 3 500 000 | 70 % |
-| Søkt fra Kulturminnefondet | kr 1 500 000 | 30 % |
-| **Sum** | **kr 5 000 000** | |
+### Finansiering
 
-> **Innvilget:** kr 750 000 (15 % av totalkostnad, 50 % av omsøkt beløp)
+| Post | Beløp |
+|------|-------|
+| Dugnad | — |
+| Egne maskiner og materialer | kr 3 500 000 |
+| Egenkapital og egne midler | 0 |
+| Lån | 0 |
+| Private tilskudd | 0 |
+| Offentlige tilskudd | — |
+| Beløp det søkes om fra Kulturminnefondet | kr 1 500 000 |
+| **Sum finansiering** | **kr 5 000 000** |
+
+| Andel | Prosent |
+|-------|---------|
+| Privat finansiering | 70 % |
+| Offentlige tilskudd | 0 % |
+| Finansiering fra KMF | 30 % |
 
 ---
 
 ## Vedlegg
 
-- forhandskonferanse.pdf
-- tilstandsvurdering.pdf
-- tegninger.pdf
-- Fjordgata_30_estimat_rehab_1etg.pdf
-- Fjordgata_30_estimat_rehab_fund.pdf
-- byantikvaren_uttalelse.pdf
-- rammesøknad.pdf
-- tradisjonsbygg_referanser.pdf
-- fremdriftsplan.xlsx
-- 2024.02.06 Tilsvar.pdf
+Antall vedlegg: 11
+
+1. forhandskonferanse.pdf
+2. tilstandsvurdering.pdf
+3. tegninger.pdf
+4. annonse.pdf
+5. Fjordgata_30_estimat_rehab_1etg.pdf
+6. Fjordgata_30_estimat_rehab_fund.pdf
+7. byantikvaren_uttalelse.pdf
+8. rarmmetillatelse.pdf
+9. tradisjonsbygg_referanser.pdf
+10. fremdriftsplan.xlsx
+11. 2024.02.06 Tilsvar.pdf

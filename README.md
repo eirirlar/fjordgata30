@@ -361,7 +361,6 @@ fjordgata30/
 │       └── skatteklagenemnda_datasenter_2020.md
 ├── stotte/                    – tilskuddsdata og støttesøknader
 │   ├── project_cards.json               – strukturerte tilskuddsdata (alle ordninger)
-│   ├── schemes.csv                      – støtteordninger og intensitetsregler
 │   ├── fg30_skattefunn_vurdering.md     – SkatteFunn vurdering og søknadsskisse (T70)
 │   └── fg30_innovasjon_norge_vurdering.md – Innovasjon Norge virkemidler og søknadsskisse (T71)
 └── referat/                   – møtereferater

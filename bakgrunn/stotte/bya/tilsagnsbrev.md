@@ -33,6 +33,8 @@ Søkte arbeider:
 - Utskifting og sikring av råteskadde søyler og bjelker – gjenbruk av bjelker mellomlagret i kjeller
 - Tiltak for å stabilisere yttervegger og etasjeskillere
 
+Det er totalt søkt om mer enn 12 millioner kroner i tilskudd til bryggene i 2025. Den totale tilskuddspotten for 2025 er på 2,2 millioner kroner. Ordningen omfatter fra 2025 både brygger i Kjøpmannsgata og Fjordgata. På grunn av stor søknadsmengde og begrenset pott har kommunen i år måttet prioritere å gi tilskudd til tiltak knyttet til utbedring av råteskader og andre skader i konstruksjon og ferdigstillelse/sikring av råteskader.
+
 ---
 
 ## Beregning av tilskudd
@@ -62,10 +64,17 @@ Det kunne søkes støtte til 3 typer tiltak (prioritert rekkefølge):
 
 ---
 
+## Frist for gjennomføring
+
+Se over. Utbetaling av tilskuddet skjer etter gjennomføring og godkjent rapportering. Dersom dette ikke lar seg gjøre, må det søkes utsettelse i god tid før gjennomføringsfrist.
+
+---
+
 ## Andre vilkår
 
 - Kommunen kan kreve tilskuddet tilbakebetalt (helt eller delvis) ved uriktige opplysninger, lavere kostnader enn budsjettert, eller manglende gjennomføring
-- Tilskuddsbeløp baseres på **søknadbeløp ekskl. MVA** (foretaket er registrert i Merverdiavgiftsregisteret)
+- Tilskuddsbeløp baseres på **søknadbeløp ekskl. MVA** når foretaket er registrert i Merverdiavgiftsregisteret; basert på søknadbeløp inkl. MVA når foretaket ikke er registrert
+- Dersom MVA-status endres vil tilskuddsbeløpet bli det samme, men utgjøre en lavere prosentandel av kostnadene inkl. MVA
 
 ---
 
@@ -82,6 +91,14 @@ Det kunne søkes støtte til 3 typer tiltak (prioritert rekkefølge):
 Enkeltvedtak som kan påklages jf. forvaltningsloven §28. Frist: tre uker etter mottak.
 Klages til: Trondheim kommune, Enhet for kart og arkitektur, Postboks 2300 Torgarden, 7004 Trondheim.
 Eventuell klage oversendes Statsforvalteren i Trøndelag for endelig vedtak.
+
+---
+
+**Vedlegg:**
+1. Akseptskjema tilskudd brygger (vedlegg 1)
+2. Anmodning om utbetaling av tilskudd bryggene (vedlegg 2)
+
+*Kopi til: Silje Taftø Petersen*
 
 ---
 

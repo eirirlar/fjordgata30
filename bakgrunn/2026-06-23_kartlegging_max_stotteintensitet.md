@@ -116,4 +116,4 @@ For kulturarv-rehabilitering i Norge (KMF + BYA + UNI = alle KULT-kategori):
 | 3 (ingen) | Ingen tiltak – UNI-intensiteten (5,6 %) fungerer som fyllstoff mot 70%-taket | UNI | Behold som er |
 | 4 (løpende) | Allokere alle fakturaer + lønn på tvers av KMF/BYA/UNI | Alle KULT | Samlede 70 % på alle kostnader |
 
-**Se også:** `stotte/project_cards.json` (gjeldende tall), `stotte/schemes.csv` (NB: ENOVA_KART DefaultIntensity er feil oppgitt som 1,00 – korrekt er 0,50).
+**Se også:** `stotte/project_cards.json` (gjeldende tall).

@@ -139,9 +139,13 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **05.03.2024** – KodeWorks sender handlingsplan til TBRT.
 
+**06.03.2024** – **Byantikvaren anbefaler tilskudd til istandsetting** av Fjordgata 30. Byantikvaren fastslår at skadene i tømmerkonstruksjonene er «særdeles omfattende», at prosjektet er faglig godt kvalitetssikret, og anbefaler at det gis tilskudd.[^73]
+
 **18.03.2024** – TBRT sender gjentatt varsel.[^29]
 
 **28.04.2024** – Orienteringsmøte med TBRT om status på ombygging.
+
+**29.04.2024** – **TBRT utsteder støttebrev for brannsikringstiltak og søknad om tilskudd.** Brevet fastslår at bygget ikke er forsvarlig sikret mot brann, at en brann kan spre seg til nabobrygger, og anbefaler at det gis tilskudd til oppgradering. Kravet til brannforebyggingsforskriften §8 løftes frem.[^74]
 
 **13.03.2024** – **KMF innvilger tilskudd på 750 000 kr** (vedtaksdato 13.03.2024, tilsagnsbrev 18.03.2024). Støtteintensitet: 30 % av omsøkt 5 000 000 kr. Prosjektnummer 240126.[^31] [^30]
 
@@ -245,6 +249,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **17. jan 2026 (E)** – **Arbeidsøkt:** KB (Berg 1) + Spinell – rydding og konstruksjonskartlegging, kjeller. Ca. 4 timer.[^71]
 
+**23.01.2026** – **Byantikvaren gir formell tilbakemelding på konseptendring til minilager** (etter møte 15.01.2026). BYA er positive til reversibel løsning, men fraråder minilager i 1. etasje av hensyn til byliv og ny områdeplan (§ 5.1.2 og § 4.2.2). Ingen avgjørende innvendinger mot øvrige etasjer. Fullstendig istandsetting av konstruksjoner og fasader er «helt avgjørende uavhengig av bruk». Kopi til Byplankontoret og Byggesakskontoret.[^75]
+
 **24. jan 2026 (E)** – **Arbeidsøkt:** KB + OML + **RIB Harboe & Leganger (E)** – befaring konstruksjon. Ca. 4 timer.[^71]
 
 **26.01.2026** – Nabovarsel og dispensasjonssøknad for minilager-prosjektet sendes inn.[^41] [^42]
@@ -342,6 +348,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 **13. jun 2026** – **Arbeidsøkt:** KB (Bygg 3), 3 deltakere – byggearbeid. Ca. 3,0 timer.[^71]
 
 **17.06.2026** – **KodeWorks klager på alle tre innkrevinger av tvangsmulkt** (sak 24/1007-45, 24/1007-46, 24/1007-52). Klagen sendes innen fristen for 3. innkreving (ca. 24. juni). For 1. og 2. innkreving (frist brutt) anmodes om behandling til tross for fristoverskridelse etter forvaltningsloven § 31, subsidiært omgjøring etter § 35. Utsatt iverksetting anmodes etter § 42 for alle tre.[^69]
+
+**24.06.2026** – **El-kartlegging:** Hermod Brandsegg og Vidar Skjetne (KMTE) gjennomfører elektrisk kartlegging av bygget. Funn: kabler til brannvarsler og strøm ligger side om side i 1. etasje – rivemannskap må sjekke nøye. Kabel merket «SKAL IKKE RIVES» i bakrommet til butikken. Strøm til 5. etasje allerede koblet ut i fordelingsskap i 2. etasje og merket «Koblet fra grunnet jordfeil»; kabel trukket ut og lagt oppå skapet. Vifter i 4. etasje regulert fra henholdsvis pokerklubben (venstre) og KodeWorks (høyre) – stikkontaktene er dedikerte og kan ikke brukes til annet. Plan for temporær byggstrøm (32A-boks i 1. og 2. etasje, Elektrikerpartner) utarbeides av Vidar Skjetne.[^72]
 
 ---
 
@@ -506,4 +514,12 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^71]: `bakgrunn/2026-06-19_arbeidsokter_kmte.md` – Estimert arbeidsøkt-logg, KB og OML, jun 2025–mai 2026. Alle datoer er merket (E) og vil bli korrigert når faktiske data foreligger (se T66).
 
-*Sist oppdatert: 23. juni 2026*
+[^72]: `bakgrunn/2026-06-24_kmte_el_kartlegging.md` – El-kartlegging ved Hermod Brandsegg og Vidar Skjetne (KMTE), 24.06.2026. Kilde: e-post fra Hermod Brandsegg til Vidar Skjetne, videresendt via Kristian Brandsegg 25.06.2026.
+
+[^73]: `bakgrunn/stotte/bya/anbefaling.md` – Byantikvarens anbefaling av støttesøknad for Fjordgata 30, 06.03.2024. Fra Silje Taftø Petersen. Fastslår at skadene i tømmerkonstruksjonene er «særdeles omfattende» og anbefaler tilskudd til istandsetting.
+
+[^74]: `bakgrunn/2024-04-29_tbrt_behov_brannsikring.md` – TBRTs støttebrev til søknad om tilskudd, 29.04.2024. Fra Morten Knutsen. Anbefaler tilskudd; fastslår at bygget ikke oppfyller brannforebyggingsforskriften §8 og at en brann kan spre seg til nabobrygger.
+
+[^75]: `bakgrunn/2026-01-23_byantikvaren_tilbakemelding_endring_rammesoeknad.md` – Byantikvarens formelle tilbakemelding til foreslått konseptendring, 23.01.2026. Fra Roy Åge Håpnes og Silje Taftø Petersen. Kopi til Byplankontoret og Byggesakskontoret. BYA fraråder minilager i 1. etasje (byliv, ny områdeplan §§ 5.1.2 og 4.2.2), ingen avgjørende innvendinger mot øvrige etasjer.
+
+*Sist oppdatert: 26. juni 2026*

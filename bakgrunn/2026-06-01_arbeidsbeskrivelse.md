@@ -130,7 +130,7 @@ Som forutsetning for rehabilitering er eksisterende leieforhold i bygget avvikle
 | Igangsettingssøknad (IG) sendes | Ca. 1. september 2026 |
 | IG-godkjenning | Ca. desember 2026 |
 | Byggestart | Ca. januar 2027 |
-| Byggetid | 9–12 måneder |
+| Byggetid | 12–18 måneder |
 | Estimert ferdigstillelse | Ca. 2028 |
 
 Parallelt med byggesaksbehandling arbeides det med:

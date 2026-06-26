@@ -1,4 +1,4 @@
-# Akseptskjema – Tilskudd bryggene 2025
+# Vedlegg 1. Akseptskjema for tilskudd bryggene 2025
 
 **Vedlegg 1 til tilsagnsbrev 2025/5928**
 
@@ -32,7 +32,7 @@
 - Iht. tilsagnsbrev
 - Tilskuddet kan komme til utbetaling når vi mottar kopi av betalt faktura og regnskap for prosjektet som viser at egenkapitalkravet er oppfylt
 
-## Forutsetninger for tilskudd til bygningsmessige tiltak
+## Forutsetninger for tilskudd til bygningsmessige tiltak på tak og fasade
 
 - Arbeidene skal utføres av håndverker med antikvarisk spesialkompetanse
 - Det skal avholdes oppstartsmøte og holdes løpende dialog med Byantikvaren om tiltakene
@@ -55,5 +55,7 @@ Vi anmoder om sammenslåing av prosjektet med prosjektstøtten fra Kulturminnefo
 | Egenandel (30 %) | kr 578 571 |
 
 ---
+
+*Sted, dato:* _____________________ *Forpliktende underskrift:* _____________________
 
 *Akseptert av KodeWorks Eiendom AS*

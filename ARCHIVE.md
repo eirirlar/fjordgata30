@@ -12,7 +12,7 @@ Legende: alle oppgaver her er `[x]` Ferdig.
 
 Rapporten måtte dokumentere utført fysisk arbeid, informere om konseptendringen fra kontorbygg til minilager, og vise fremdriftsplan fremover.
 
-**Løst 2026-06-25:** Framdriftsrapport ferdigstilt i `leveranser/2026-06-24_kmf_framdriftsrapport.md` (.docx generert med pandoc + format_docx.py). Dekker: prosjekthistorikk og konseptendring, begrunnelse for at antikvarisk kjerneformål er uendret, argument om at minilager er bevaringsmessig bedre enn kontor (ingen irreversibel fjerning av etasjeskillere i etg. 3–5 for lysinnslipp), kulturminnefaglige funn (natursteinsmur, strekkfisker/stålstag, fundamentering), fremdriftsplan med kommende leieforholdsavviklinger (1. juli og 1. august) og fisjonsstrategi. 11 bilder innebygd i dokumentet. Sammendrag nevner at rapporten er vedlegg til to formelle endringsmeldinger (T19: utsettelse, T20: endring av støtteintensitet) som leveres i KMFs søknadsportal.
+**Løst 2026-06-25:** Framdriftsrapport ferdigstilt i `stotte/2026-06-24_kmf_framdriftsrapport.md` (.docx generert med pandoc + format_docx.py). Dekker: prosjekthistorikk og konseptendring, begrunnelse for at antikvarisk kjerneformål er uendret, argument om at minilager er bevaringsmessig bedre enn kontor (ingen irreversibel fjerning av etasjeskillere i etg. 3–5 for lysinnslipp), kulturminnefaglige funn (natursteinsmur, strekkfisker/stålstag, fundamentering), fremdriftsplan med kommende leieforholdsavviklinger (1. juli og 1. august) og fisjonsstrategi. 11 bilder innebygd i dokumentet. Sammendrag nevner at rapporten er vedlegg til to formelle endringsmeldinger (T19: utsettelse, T20: endring av støtteintensitet) som leveres i KMFs søknadsportal.
 
 ---
 
@@ -650,9 +650,8 @@ Trenger en samlet oversikt over alle innvilgede tilskudd og finansieringskilder 
 
 **Løsning (2026-06-22):**
 - Opprettet `stotte/` mappe i prosjektet
-- `stotte/schemes.csv` – scheme-definisjoner for KMF, BYA, UNI og ENOVA_KART
 - `stotte/project_cards.json` – tilskuddskort i samme format som `../stotte/project_cards.json`, med én entry per tilskudd: KMF-FG30, BYA-FG30, UNI-FG30, ENOVA-KL-FG30, ENOVA-OM-FG30
-- `leveranser/2026-06-22_fg30_stoetteoversikt_bank.md` – bankfokusert oversikt (Pandoc-klar Markdown → .docx) med tilskuddstabell, forklaring av utbetalingsmekanismen, finansieringsplan og framdriftsplan
+- `stotte/2026-06-22_fg30_stoetteoversikt_bank.md` – bankfokusert oversikt (Pandoc-klar Markdown → .docx) med tilskuddstabell, forklaring av utbetalingsmekanismen, finansieringsplan og framdriftsplan
 - Samlet innvilget: 2 250 000 NOK (KMF 750 000 + BYA 500 000 + UNI 100 000 + Enova 900 000)
 
 ---
@@ -962,7 +961,7 @@ Filreferanser i `stotte/project_cards.json` oppdatert til nye stier (f.eks. `bak
 
 ### T80 `[x]` HRP-brev – revidert versjon til økonomiavdelingen
 
-**Mål:** Revidere `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md` slik at:
+**Mål:** Revidere `stotte/2026-06-23_hrp_brev_stoetteordninger_ek.md` slik at:
 1. Brevet adresseres til **økonomiavdelingen i HRP**, ikke Ole Morten personlig.
 2. YAML-frontmatter er korrekt for Pandoc → .docx-konvertering.
 3. Brevet inkluderer ikke bare innvilgede tilskudd (2 250 000 NOK), men også **planlagte søknader** som styrker prosjektets finansieringsbilde:
@@ -978,7 +977,7 @@ Filreferanser i `stotte/project_cards.json` oppdatert til nye stier (f.eks. `bak
 
 **Bakgrunn:** Det opprinnelige brevet (T10) ble adressert til Ole Morten og dekker kun innvilgede tilskudd. Økonomiavdelingen trenger et bredere bilde av prosjektets totale offentlige finansieringsambisjon for å forstå betalingsstrukturens logikk.
 
-**Løsning (23.06.2026):** `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md` revidert. Adressat endret til Økonomiavdelingen, HRP AS. YAML-frontmatter beholdt (korrekt for Pandoc). Nytt kapittel 3 med tabell over planlagte søknader (SkatteFunn, Enova, Innovasjon Norge, NTNU IPN, opplæring, fylkeskommune, BYA/KMF/UNI runde 2). Seksjon 5 justert til «dere» i stedet for «deg».
+**Løsning (23.06.2026):** `stotte/2026-06-23_hrp_brev_stoetteordninger_ek.md` revidert. Adressat endret til Økonomiavdelingen, HRP AS. YAML-frontmatter beholdt (korrekt for Pandoc). Nytt kapittel 3 med tabell over planlagte søknader (SkatteFunn, Enova, Innovasjon Norge, NTNU IPN, opplæring, fylkeskommune, BYA/KMF/UNI runde 2). Seksjon 5 justert til «dere» i stedet for «deg».
 
 ---
 ### T77 `[x]` CLAUDE.md – Python-kommando på Windows
@@ -1007,10 +1006,9 @@ Filreferanser i `stotte/project_cards.json` oppdatert til nye stier (f.eks. `bak
 3. Hvilke justeringer (budsjettnedskriving, ny søknad) kan øke intensiteten opp mot maks?
 4. Hva er prosedyren for endringsanmodning hos hver enkelt ordning?
 
-**Relevante filer:** `stotte/project_cards.json`, `stotte/schemes.csv`, `bakgrunn/stotte/kmf/`, `bakgrunn/stotte/bya/`, `bakgrunn/stotte/uni/`
+**Relevante filer:** `stotte/project_cards.json`, `bakgrunn/stotte/kmf/`, `bakgrunn/stotte/bya/`, `bakgrunn/stotte/uni/`
 
-**Løsning (23.06.2026):** Internett-research gjennomført. Funn dokumentert i `bakgrunn/2026-06-23_kartlegging_max_stotteintensitet.md`. KMF: maks 50 % (ordinær), 70 % (fredet) – FG30 kan gå fra 15 % til 30 % via budsjettnedskriving til 2,5 MNOK. BYA: ingen publisert maks, men 30 % privat egenandel impliserer maks ~70 % – kontakt saksbehandler for prosess. UNI: ingen publisert maks eller egenfinansieringskrav – kontakt direkte. 70 %-kumuleringstaket bekreftet av statsstøtteregelverket. NB: `stotte/schemes.csv` har feil DefaultIntensity for ENOVA_KART (1,00, korrekt er 0,50).
-
+**Løsning (23.06.2026):** Internett-research gjennomført. Funn dokumentert i `bakgrunn/2026-06-23_kartlegging_max_stotteintensitet.md`. KMF: maks 50 % (ordinær), 70 % (fredet) – FG30 kan gå fra 15 % til 30 % via budsjettnedskriving til 2,5 MNOK. BYA: ingen publisert maks, men 30 % privat egenandel impliserer maks ~70 % – kontakt saksbehandler for prosess. UNI: ingen publisert maks eller egenfinansieringskrav – kontakt direkte. 70 %-kumuleringstaket bekreftet av statsstøtteregelverket.
 ---
 
 ### T79 `[x]` Konkurrentanalyse – valet storage (Vinden, Box2Box, Stash)
@@ -1228,11 +1226,11 @@ Planen bør dekke:
 - MVA-refusjoner (5–6 MNOK) forventet under byggefasen er en stor konkret likviditetshendelse som bør nevnes
 - SkatteFunn-søknad (T70) kan gi 285–570 000 NOK ekstra; Innovasjon Norge-søknad (T71) kan gi 200–250 000 NOK
 - HRP er registrert som konsortiumpartner på begge Enova-prosjekter (ENOVA-KL 400k + ENOVA-OM 500k) – Enova-energikartleggingsrapporten er ferdigstilt av HRP 05.05.2026 → utbetaling kan anmodes snart
-- NB: Beløpene i `leveranser/2026-06-22_fg30_stoetteoversikt_bank.md` for Enova er byttet om – korrekte beløp er Energikartlegging 400k, Mulighetsstudie 500k (iht. project_cards.json)
+- NB: Beløpene i `stotte/2026-06-22_fg30_stoetteoversikt_bank.md` for Enova er byttet om – korrekte beløp er Energikartlegging 400k, Mulighetsstudie 500k (iht. project_cards.json)
 
 **Løst 2026-06-23:** Brev omskrevet. Fire seksjoner: innvilget støtte (totalsum 2 250 000 NOK, ingen individuelle prosentsatser oppgitt), støtteoptimalisering som mekanisme (alle fakturaer + lønnstimer allokeres på tvers av ordninger for å nå maks støtteintensitet etter statsstøtteregelverket – arbeidet skjer etter at kostnader er kjent, ikke løpende), fleksibelt betalingstidspunkt (ikke betalingsudyktighet, men optimaliseringstiming), notat om desember 2025-faktura (noe høyere enn faktisk arbeid – tas opp ved helhetlig oppgjør), og Eiriks track record som garanti.
 
-**Fil:** `leveranser/2026-06-23_hrp_brev_stoetteordninger_ek.md`
+**Fil:** `stotte/2026-06-23_hrp_brev_stoetteordninger_ek.md`
 ---
 
 ### T67 `[x]` Renskriv og berik arbeidsbeskrivelse

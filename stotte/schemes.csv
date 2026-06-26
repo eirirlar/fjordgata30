@@ -1,5 +1,0 @@
-SchemeID,SchemeName,Funder,DefaultIntensity,BudgetCurrency,ReportingCurrency,StateAidCategory,MaxHoursPerPersonYear,MaxHourlyRate,RateMethod,SpecialRules,IndirectRate,DefaultGGE
-KMF,Kulturminnefondet – tilskudd til kulturminner,Kulturminnefondet,0.30,NOK,NOK,KULT,,,,Tilskudd utbetales etterskuddsvis mot dokumentert og gjennomført arbeid. Krav om fotodokumentasjon og framdriftsrapport.,0,0.30
-BYA,Byantikvaren Trondheim – tilskudd til verneverdig bebyggelse,Byantikvaren Trondheim,0.26,NOK,NOK,KULT,,,,Tilskudd utbetales mot dokumentert arbeid i tråd med antikvariske retningslinjer. KMF + BYA + UNI samlet til felles 70%-avtale.,0,0.26
-UNI,Stiftelsen UNI – tilskudd til kulturminnevern,Stiftelsen UNI,0.15,NOK,NOK,KULT,,,,Tilskudd utbetales mot dokumentert arbeid. Samlet støttegrad 70% med KMF og BYA.,0,0.15
-ENOVA_KART,Enova – støtte til kartlegging (energi og ombruk),Enova,1.00,NOK,NOK,ENERG,,,,100% støtteandel av kartleggingskostnad. Ferdigstillelse innen 8–10 måneder fra vedtaksdato. Sluttrapport utløser utbetaling.,0,1.00

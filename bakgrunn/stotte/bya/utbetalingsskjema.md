@@ -3,7 +3,7 @@
 **Vedlegg 2 til tilsagnsbrev**
 
 > **Merk:** Dette er et tomt skjema (mal). Det fylles ut og sendes til byantikvaren.kart@trondheim.kommune.no
-> etter at arbeidene er gjennomført og fakturaer er betalt.
+> etter at arbeidene er gjennomført og fakturaer er betalt. Anmodningen legges ved den elektroniske fakturaen.
 
 ---
 

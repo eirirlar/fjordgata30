@@ -36,9 +36,10 @@ fjordgata30/
 │   ├── arbeid_ole_morten.txt  – arbeidslogg, Ole Morten Lagmannssveen
 │   ├── ai_feedback.txt        – redaksjonelle merknader fra prosjektleder til arbeidsrapport-utkast
 │   └── nye/                   – innkommende filer som ikke er klassifisert ennå (opprettes ved behov)
+│   └── stotte/                – bakgrunnsdokumenter relatert til støtteprosjekter
 ├── leveranser/                – ferdige dokumenter produsert i prosjektet (klager, rapporter, brev; .docx genereres ved behov med Pandoc)
 │   └── 2026-04-20_fg30_arbeidsrapport.md – arbeidsrapport (Pandoc-klar Markdown)
-├── stotte/                    – tilskuddsdata i project_cards.json-format (speil av ../stotte for FG30)
+├── stotte/                    – tilskuddsdata i project_cards.json-format, og annen støtte relatert dokumentasjon. Se også bakgrunn/stotte. Se også ../stotte (annet git prosjekt - fare for at det ikke er sjekket ut). ../stotte har original template for project_cards.json, som vi har divergert litt fra.
 └── brann/                     – branndokumentasjon, brannkonsept, TBRT-redegjørelse
 ```
 
@@ -54,7 +55,8 @@ fjordgata30/
 - **Arkivering av tasks:** Løste tasks flyttes fra `TASKS.md` til `ARCHIVE.md` kun når brukeren eksplisitt ber om det. Aldri arkiver på eget initiativ. Søk alltid i `ARCHIVE.md` før du starter en oppgave for å unngå dobbeltarbeid.
 - **README-oppdatering:** Vurder alltid om `README.md` må oppdateres som del av å løse en oppgave. Nye scripts, endrede filnavn, endret filstruktur eller nye avhengigheter skal alltid reflekteres i README.
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`
-- **Python-kommando (plattformavhengig):** På **Windows** (dette prosjektet): bruk alltid `uv run python` – aldri `python3` eller `uv run python3` (disse feiler med «Python ble ikke funnet»). På **Linux/macOS**: `python3` fungerer direkte. Bruk Bash-verktøyet, ikke PowerShell, for Python-kjøring.
+- **Python-kommando (plattformavhengig):** På **Windows**: bruk alltid `uv run python` – aldri `python3` eller `uv run python3` (disse feiler med «Python ble ikke funnet»). På **Linux/macOS**: `python3` fungerer direkte. `uv run python` fungerer på begge plattformer og er trygt å bruke uansett. Bruk Bash-verktøyet, ikke PowerShell, for Python-kjøring.
+- **Plattform og skallmiljø varierer:** Brukeren jobber på tvers av Windows (Git Bash, Cygwin, WSL2) og Linux på ulike maskiner. Anta aldri et bestemt operativsystem, skallmiljø eller filsti. Unngå Cygwin-spesifikke stier (`/cygdrive/c/...`). Bash-verktøyet er satt til prosjektmappen — bruk `cd` kun når strengt nødvendig, og bruk da relative stier eller stier som fungerer i Git Bash/Linux (`/c/dev/...` el. absolutte Linux-stier). Memory-filer (`.claude/projects/.../memory/`) er lokale per maskin og følger ikke med git-commits — skriv aldri maskin- eller OS-spesifikke antakelser til memory.
 - **Spør før suboptimal fremgangsmåte:** Hvis du ser at du er i ferd med å gjøre noe på en ineffektiv måte (mange trinn, store tokenkostnader, omveier), stopp og spør brukeren om de er sikre på at de vil at du skal fortsette slik – selv om du kjører med `--dangerously-skip-permissions`.
 - **Kode og parametere på engelsk:** All kode skrives på engelsk – variabelnavn, funksjonsnavn, kommentarer i koden, og CLI-argumenter/flagg til scripts (f.eks. `--from`, `--to`, `--limit`, ikke `--fra`, `--til`, `--antall`). Dokumentasjon og rapporter til brukere/interessenter skrives på norsk.
 - **Dato-prefix på filer i `bakgrunn/`:** Alle nye filer som legges i `bakgrunn/` skal ha dato-prefix på formen `YYYY-MM-DD_beskrivelse.ext` (f.eks. `2026-06-23_notat_byantikvaren.md`). Eksisterende filer uten dato-prefix skal omdøpes ved neste berøring, og referanser i `historikk.md` og `TASKS.md` oppdateres tilsvarende. Unntak: filer i `bakgrunn/stotte/` (følger prosjektmappestruktur).
