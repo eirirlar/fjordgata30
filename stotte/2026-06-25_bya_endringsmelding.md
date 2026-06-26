@@ -101,7 +101,7 @@ Kontorprosjektet inkluderte lysinnslipp gjennom de øvre etasjene med fjerning a
 
 ## Status for natursteinsmuren i kjeller
 
-Vi bekrefter at **natursteinsmuren i kjeller er avdekket, dokumentert og vil bli bevart synlig** i det ferdige bygget, i tråd med Byantikvarens ønske. Avdekkingen har bekreftet at stripefundamentene ikke er støpt gjennom muren, og at den kan innglasses og eksponeres som en integrert del av konstruksjonen. Muren vil gi det ferdige minilageret en direkte og lesbar forbindelse til Fjordgata 30s maritime og kulturhistoriske fortid.
+Vi bekrefter at **natursteinsmuren i kjeller er avdekket, dokumentert og vil bli bevart synlig** i det ferdige bygget, i tråd med Byantikvarens ønske. Avdekkingen har bekreftet at stripefundamentene ikke er støpt gjennom muren. Muren vil stå fritt eksponert under krypkjelleren, åpen mot Nidelva; ny betongfundamentering legges bak muren inn mot Fjordgata-siden. Muren vil gi det ferdige minilageret en direkte og lesbar forbindelse til Fjordgata 30s maritime og kulturhistoriske fortid.
 
 ## Hva vi ber om
 

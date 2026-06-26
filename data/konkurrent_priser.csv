@@ -1,0 +1,52 @@
+aktor,adresse,avstand_sentrum_km,storrelse_m2,storrelse_m3,bod_id,type,temperert,bindingstid_mnd,kr_mnd,kr_kvm_mnd,kilde_type,kilde_url,hentet_dato,notater
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,1.9,4.6,bod-736,standard,ukjent,ukjent,630,332,webfetch_produktside,https://trondheimminilager.no/product/bod-736/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,1.9,4.6,bod-841,standard,ukjent,ukjent,630,332,webfetch_produktside,https://trondheimminilager.no/product/bod-841/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,2.1,5.1,bod-827,standard,ukjent,ukjent,700,333,webfetch_produktside,https://trondheimminilager.no/product/bod-827/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,2.9,6.8,bod-417,standard,ukjent,ukjent,810,279,webfetch_produktside,https://trondheimminilager.no/product/bod-417/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,3.0,7.2,bod-48,standard,ukjent,ukjent,840,280,webfetch_produktside,https://trondheimminilager.no/product/bod-48/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,3.1,7.6,bod-51,standard,ukjent,ukjent,860,277,webfetch_produktside,https://trondheimminilager.no/product/bod-51/,2026-06-26,"Kategori: Lite lager; søyle i boden"
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,3.2,7.7,bod-46,standard,ukjent,ukjent,880,275,webfetch_produktside,https://trondheimminilager.no/product/bod-46/,2026-06-26,Kategori: Lite lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,4.1,4.3,bod-808,skratak,ukjent,ukjent,630,154,webfetch_produktside,https://trondheimminilager.no/product/bod-808/,2026-06-26,Kategori: Lite lager med skrå tak; takhøyde varierer langs bod
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,4.2,4.4,bod-728,skratak,ukjent,ukjent,630,150,webfetch_produktside,https://trondheimminilager.no/product/bod-728/,2026-06-26,Kategori: Lite lager med skrå tak
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,4.2,5.3,bod-713,skratak,ukjent,ukjent,700,167,webfetch_produktside,https://trondheimminilager.no/product/bod-713/,2026-06-26,Kategori: Lite lager med skrå tak
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,4.5,5.9,bod-819,skratak,ukjent,ukjent,730,162,webfetch_produktside,https://trondheimminilager.no/product/bod-819/,2026-06-26,Kategori: Lite lager med skrå tak
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,5.7,13.7,bod-9,standard,ukjent,ukjent,1490,261,webfetch_produktside,https://trondheimminilager.no/product/bod-9/,2026-06-26,Kategori: Stort lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,6.1,14.2,bod-335,standard,ukjent,ukjent,1530,251,webfetch_produktside,https://trondheimminilager.no/product/bod-335/,2026-06-26,Kategori: Stort lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,6.5,17.6,bod-114,standard,ukjent,ukjent,1630,251,webfetch_produktside,https://trondheimminilager.no/product/bod-114/,2026-06-26,Kategori: Stort lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,7.0,16.8,bod-1043,standard,ukjent,ukjent,1500,214,webfetch_produktside,https://trondheimminilager.no/product/bod-1043/,2026-06-26,Kategori: Stort lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,7.2,17.2,bod-1047,standard,ukjent,ukjent,1610,224,webfetch_produktside,https://trondheimminilager.no/product/bod-1047/,2026-06-26,Kategori: Stort lager
+Trondheim Minilager,Ranheimsvegen 13 Trondheim,7.5,7.4,17.8,bod-21,standard,ukjent,ukjent,1630,220,webfetch_produktside,https://trondheimminilager.no/product/bod-21/,2026-06-26,Kategori: Stort lager
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,1.9,,Mini,standard,ukjent,1,600,316,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,1-måneds kontrakt; 53% dyrere enn 12-mnd
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,2.1,,Small,standard,ukjent,1,499,238,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,Samme pris for 1 og 12 mnd
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,4.4,,Medium,standard,ukjent,1,699,159,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,Samme pris for 1 og 12 mnd
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,6.6,,Large,standard,ukjent,1,999,151,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,Samme pris for 1 og 12 mnd
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,8.8,,XL,standard,ukjent,1,1299,148,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,Samme pris for 1 og 12 mnd
+Minilager1,Presthusvegen 47 Ranheim Trondheim,9.0,16.0,,XXL,standard,ukjent,1,1490,93,webfetch_prisliste,https://minilager1.no/artikkel/forside/7/priser,2026-06-26,Samme pris for 1 og 12 mnd
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,4.8,14.0,,standard,ja,ukjent,650,135,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C; 3 mnd forskudd; 1 mnd oppsigelse; gratis dolly
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,5.0,15.0,,standard,ja,ukjent,680,136,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,6.0,18.0,,standard,ja,ukjent,760,127,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,6.8,22.0,,standard,ja,ukjent,825,121,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,9.0,27.0,,standard,ja,ukjent,1125,125,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,10.0,,,standard,ja,ukjent,1200,120,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C; m3 ikke oppgitt
+ESP Lager,Heimdalsvegen 157 Leinstrand Trondheim,12.0,13.0,39.0,,standard,ja,ukjent,1450,112,webfetch_prisliste,https://esplager.no/priser-35941s.html,2026-06-23,Temperert ca 10°C
+123 Minilager,Solsiden Trondheim,1.5,4.7,,4.7m2-unit,container,nei,ukjent,1390,296,webfetch_prisliste,https://123minilager.no/pris-minilager/,2026-06-26,"Fra-pris fra nasjonal prisliste; minste enhet i Trondheim oppgitt som 4.7 m²; pris gjelder når enheten er tilgjengelig"
+123 Minilager,Solsiden Trondheim,1.5,4.8,,4.8m2-unit,container,nei,ukjent,1490,310,copy_paste_prosjektleder,,2026-06-26,"Drive-in; 2.10×2.27×2.05m; tilgjengelig fra 09.07.2026; bookingside krever nettleser; mulig prisøkning eller litt annen enhet enn 4.7m2-prisliste-raden"
+123 Minilager,Solsiden Trondheim,1.5,6.5,,6.5m2-unit,container,nei,ukjent,1590,245,copy_paste_prosjektleder,,2026-06-26,"Drive-in; 2.34×2.83×2.39m; tilgjengelig fra 18.07.2026"
+123 Minilager,Solsiden Trondheim,1.5,13.9,,13.9m2-unit,container,nei,ukjent,2190,158,copy_paste_prosjektleder,,2026-06-26,"Drive-in; 2.35×5.90×2.39m; tilgjengelig fra 13.07.2026"
+Utleiebod,Kobbes gate 10 Trondheim,1.2,1.0,,1m2,high_ceiling,ja,ukjent,399,399,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m; betaling forskuddvis; 1 mnd gratis ved binding >3 mnd
+Utleiebod,Kobbes gate 10 Trondheim,1.2,2.0,,2m2,high_ceiling,ja,ukjent,738,369,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,3.0,,3m2,high_ceiling,ja,ukjent,1107,369,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,4.0,,4m2,high_ceiling,ja,ukjent,1356,339,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,5.0,,5m2,high_ceiling,ja,ukjent,1695,339,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,6.0,,6m2,high_ceiling,ja,ukjent,1714,286,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,8.0,,8m2,high_ceiling,ja,ukjent,2440,305,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Utleiebod,Kobbes gate 10 Trondheim,1.2,10.0,,10m2,high_ceiling,ja,ukjent,3000,300,webfetch_prisliste,https://utleiebod.no/priser/,2026-06-26,Takhøyde ca 3m
+Green Storage,Trondheim (lokasjon ikke angitt – sannsynlig Lade),3.5,1.0,,1m2,standard,ja,ukjent,438,438,copy_paste_prosjektleder,,2026-06-26,"Etableringsgebyr 159 kr engangs (ikke inkl i kr/mnd); booking-API ga HTTP 403; nettleser nødvendig"
+Green Storage,Trondheim (lokasjon ikke angitt – sannsynlig Lade),3.5,3.0,,3m2,standard,ja,ukjent,1198,399,copy_paste_prosjektleder,,2026-06-26,"Etableringsgebyr 159 kr engangs; merk: dyrere enn 4m2-enheten – mulig ulike kategorier/etasjer"
+Green Storage,Trondheim (lokasjon ikke angitt – sannsynlig Lade),3.5,4.0,,4m2,standard,ja,ukjent,1188,297,copy_paste_prosjektleder,,2026-06-26,"Etableringsgebyr 159 kr engangs; billigere enn 3m2-enheten – mulig ulike kategorier/etasjer"
+Green Storage,Trondheim (lokasjon ikke angitt – sannsynlig Lade),3.5,5.0,,5m2,standard,ja,ukjent,1088,218,copy_paste_prosjektleder,,2026-06-26,"Etableringsgebyr 159 kr engangs"
+Green Storage,Trondheim (lokasjon ikke angitt – sannsynlig Lade),3.5,1.5,,1.5m2-gammelt-datapunkt,standard,ja,ukjent,919,613,prosjektleder_datapunkt,,ukjent,"USIKKERT – gammelt datapunkt fra prosjektleder (siteId A06D000000V8UCT); inkonsistent med nye 1m2=438 og 3m2=1198; mulig feil lokasjon eller utdatert pris – ikke bruk i analyse"
+Extra Minilager,Romolslia Trondheim,9.0,1.7,,Bod 9,standard,ukjent,ukjent,720,424,visuelt_estimat_screenshot,,2026-06-26,"ESTIMAT ±40%; visuelt anslått fra screenshot; bredde ~0.9m dybde ~1.8m; pris oppgitt som fra-pris; nettsiden ga 500-feil for WebFetch"
+Extra Minilager,Romolslia Trondheim,9.0,2.0,,Bod 7,standard,ukjent,ukjent,780,390,visuelt_estimat_screenshot,,2026-06-26,"ESTIMAT ±40%; visuelt anslått fra screenshot; bredde ~1.0m dybde ~2.0m"
+Extra Minilager,Romolslia Trondheim,9.0,2.2,,Bod 14,standard,ukjent,ukjent,1010,459,visuelt_estimat_screenshot,,2026-06-26,"ESTIMAT ±40%; visuelt anslått fra screenshot; smal og dyp; bredde ~1.0m dybde ~2.2m"
+Extra Minilager,Romolslia Trondheim,9.0,2.7,,Bod 30,standard,ukjent,ukjent,1010,374,visuelt_estimat_screenshot,,2026-06-26,"ESTIMAT ±40%; visuelt anslått fra screenshot; bredere enn Bod 14; bredde ~1.5m dybde ~1.8m"

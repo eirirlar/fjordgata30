@@ -1,6 +1,6 @@
 # Markedsdata – Minilager Trondheim og Norge
 
-*Kilde-notat for forretningsplan. Innsamlet 23. juni 2026.*
+*Kilde-notat for forretningsplan. Innsamlet 23. juni 2026. Oppdatert med prisdata 26. juni 2026 (T91).*
 
 ---
 
@@ -34,34 +34,65 @@
 ## 2. Konkurrenter i Trondheim
 
 ### 2.1 Trondheim Minilager *(STØRSTE LOKALE AKTØR)*
-- **Adresse:** Ranheimsvegen 13, 7044 Trondheim (~10 min fra sentrum med bil)
+- **Adresse:** Ranheimsvegen 13, 7044 Trondheim (~7,5 km fra sentrum, bil nødvendig)
 - **Enheter:** 500 boder
-- **Størrelser:** Lite lager (4,5–7,6 m³), Lite m/skrå tak (4,0–8,0 m³), Medium (8,1–12,9 m³), Stort (13,2–23,0 m³)
 - **Tilgang:** 06:00–23:00, 365 dager
 - **Teknologi:** Selvbetjent, online booking, SMS-kode
-- **Priser:** Ikke publisert på nett (kontakt salg@trondheimminilager.no)
-- **Kilde:** [trondheimminilager.no](https://trondheimminilager.no) (hentet 23.06.2026 – ingen priser online)
-- **Merknad:** Periferi-lokasjon; konkurrerer ikke direkte på sentrum. Alle enheter er 4+ m³ (tilsvarer FG30s Medium+ kategori).
+- **Kilde:** [trondheimminilager.no](https://trondheimminilager.no) – produktsider hentet 26.06.2026
+
+**Priser (hentet 26.06.2026 fra individuelle produktsider – representativt utvalg):**
+
+*Lite lager – standard tak (~2,4 m takhøyde)*
+
+| Størrelse (m²) | Størrelse (m³) | Kr/mnd | Kr/kvm/mnd |
+|---|---|---|---|
+| 1,9 | 4,6 | 630 | 332 |
+| 2,1 | 5,1 | 700 | 333 |
+| 2,9 | 6,8 | 810 | 279 |
+| 3,2 | 7,7 | 880 | 275 |
+
+*Lite lager med skrå tak (gulvareal 4,2–4,5 m², redusert nyttevolum)*
+
+| Størrelse (m²) | Størrelse (m³) | Kr/mnd | Kr/kvm/mnd |
+|---|---|---|---|
+| 4,2 | 4,4 | 630 | 150 |
+| 4,2 | 5,3 | 700 | 167 |
+| 4,5 | 5,9 | 730 | 162 |
+
+*Stort lager (~2,4 m takhøyde)*
+
+| Størrelse (m²) | Størrelse (m³) | Kr/mnd | Kr/kvm/mnd |
+|---|---|---|---|
+| 5,7 | 13,7 | 1 490 | 261 |
+| 6,1 | 14,2 | 1 530 | 251 |
+| 6,5 | 17,6 | 1 630 | 251 |
+| 7,0 | 16,8 | 1 500 | 214 |
+| 7,2 | 17,2 | 1 610 | 224 |
+
+**Samlet prisspenn: 150–333 kr/kvm/mnd.**
+
+- **Merknad:** Priser er publisert på individuelle produktsider (ikke samlet prisliste). Standardenheter 1,9–3,2 m² er direkte sammenlignbare med FG30s Standard-boder (2,1 kvm) – og koster 275–333 kr/kvm/mnd, altså *høyere* enn FG30s planlagte 220 kr/kvm/mnd selvbetjent. Skrå-tak-enhetene er billigere per kvm/mnd men har lavere nyttevolum. Periferi-lokasjon (Ranheim) er en vesentlig ulempe vs. FG30.
 
 ### 2.2 Green Storage (tidl. City Self-Storage / OK Minilager)
-*Skandinavias ledende aktør; tilstede i Trondheim med to avdelinger:*
+*Skandinavias ledende aktør; tilstede i Trondheim med tre avdelinger:*
 - **Lade (Ladeparken):** O. J. Aalmos veg 25 – temperert innendørs, 2–80 kvm, 06:00–23:00
 - **Tiller:** John Aaes veg 40 – tilsvarende konsept
 - **Fossegrenda:** Ytterligere lokasjon
-- **Priser:** Ikke offentliggjort på nett per jun 2026
+- **Priser (Lade, hentet 26.06.2026):** Booking-API-URL-ene (`greenstorage.com/no/bestilling/...?groupName=Small/Medium/Large/XL`) returnerte alle HTTP 403. Kan ikke hentes med WebFetch. Kjent datapunkt fra prosjektleder: **1,5 m² = 919 kr/mnd → 613 kr/kvm/mnd** (Lade, siteId A06D000000V8UCT). Ingen uavhengig verifisering.
+- **Merknad:** 613 kr/kvm/mnd er langt over øvrige aktørers priser. Green Storage opererer sannsynligvis i et annet prissegment (premium innendørs klimastyrt kjede), eller minste-enhetens pris inneholder minimumsleie. Fullstendig prisliste er utilgjengelig via WebFetch.
 
 ### 2.3 Minilager1
 - **Adresse:** Presthusvegen 47, 7056 Ranheim (utenfor sentrum)
 - **Enheter:** Varierende (etter størrelsesskategori)
 - **Prisskala (verifisert 23.06.2026):**
-  | Størrelse | Fra (12+ mnd) | Per kvm |
+  | Størrelse | Fra (12+ mnd) | Kr/kvm/mnd |
   |-----------|---------------|---------|
-  | Mini (1,9 m²) | 280 kr/mnd | 147 kr/kvm |
-  | Small (2,1 m²) | 499 kr/mnd | 238 kr/kvm |
-  | Medium (4,4 m²) | 699 kr/mnd | 159 kr/kvm |
-  | Large (6,6 m²) | 999 kr/mnd | 151 kr/kvm |
-  | XL (8,8 m²) | 1 299 kr/mnd | 148 kr/kvm |
-  | XXL (16 m²) | 1 490 kr/mnd | 93 kr/kvm |
+  | Mini (1,9 m²) | 280 kr/mnd | 147 |
+  | Small (2,1 m²) | 499 kr/mnd | 238 |
+  | Medium (4,4 m²) | 699 kr/mnd | 159 |
+  | Large (6,6 m²) | 999 kr/mnd | 151 |
+  | XL (8,8 m²) | 1 299 kr/mnd | 148 |
+  | XXL (16 m²) | 1 490 kr/mnd | 93 |
   *1-måneds kontrakt: 600 kr/mnd for Mini. Pris øker med kortere bindingstid.*
 - **Kilde:** [minilager1.no/priser](https://minilager1.no/artikkel/forside/7/priser) (hentet 23.06.2026)
 - **Tilgang:** 07:00–23:00, 365 dager
@@ -70,30 +101,60 @@
 ### 2.4 ESP Lager *(Trondheim sør og omegn)*
 - **Adresse:** Heimdalsvegen 157, Leinstrand (sør for Trondheim, ca. 15–20 min fra sentrum)
 - **Priser (verifisert 23.06.2026):**
-  | Størrelse | Volum | Pris/mnd | Per kvm |
+  | Størrelse | Volum | Pris/mnd | Kr/kvm/mnd |
   |-----------|-------|----------|---------|
-  | 4,8 m² | 14 m³ | 650 kr | 135 kr/kvm |
-  | 5,0 m² | 15 m³ | 680 kr | 136 kr/kvm |
-  | 6,0 m² | 18 m³ | 760 kr | 127 kr/kvm |
-  | 6,8 m² | 22 m³ | 825 kr | 121 kr/kvm |
-  | 9,0 m² | 27 m³ | 1 125 kr | 125 kr/kvm |
-  | 10,0 m² | – | 1 200 kr | 120 kr/kvm |
-  | 13,0 m² | 39 m³ | 1 450 kr | 112 kr/kvm |
+  | 4,8 m² | 14 m³ | 650 kr | 135 |
+  | 5,0 m² | 15 m³ | 680 kr | 136 |
+  | 6,0 m² | 18 m³ | 760 kr | 127 |
+  | 6,8 m² | 22 m³ | 825 kr | 121 |
+  | 9,0 m² | 27 m³ | 1 125 kr | 125 |
+  | 10,0 m² | – | 1 200 kr | 120 |
+  | 13,0 m² | 39 m³ | 1 450 kr | 112 |
 - **Kilde:** [esplager.no/priser](https://esplager.no/priser-35941s.html) (hentet 23.06.2026)
 - **Inkludert:** Temperert (~10°C), gratis dolly ved innflytting
 - **Leievilkår:** 3 mnd forskudd, 1 mnd oppsigelse
 - **Merknad:** ESP Lagres minste enhet er 4,8 m² – vesentlig større enn FG30s typiske 2,0–2,4 m² boder. Ulike segmenter, ikke direkte sammenlignbar per enhet.
 
 ### 2.5 123 Minilager
-- **Lokasjon:** Solsiden – sentralt beliggende
+- **Lokasjon:** Solsiden – sentralt beliggende (~1,5 km fra Torget)
 - **Tilbud:** Selvbetjent, døgnåpent, temperert + container
+- **Kilde:** [123minilager.no/avdelinger/minilager-trondheim](https://123minilager.no/avdelinger/minilager-trondheim/) (hentet 26.06.2026)
+
+**Enheter og priser (Trondheim-avdeling, lest av prosjektleder fra bookingsiden 26.06.2026):**
+
+| Størrelse (m²) | Mål (B × D × H) | Kr/mnd | Kr/kvm/mnd |
+|---|---|---|---|
+| 4,8 | 2,10 × 2,27 × 2,05 m | 1 490 | 310 |
+| 6,5 | 2,34 × 2,83 × 2,39 m | 1 590 | 245 |
+| 13,9 | 2,35 × 5,90 × 2,39 m | 2 190 | 158 |
+
+- **Type:** Lagercontainer, utemperert, drive-in. Tilgjengelighet: juli 2026.
+- **Datakilde:** Priser ikke tilgjengelig via WebFetch (bookingsiden krever nettleser). Tall copy-pastet inn av prosjektleder fra bookingsiden. Pris-listesiden viste «fra 1 390 kr/mnd» – sannsynligvis nasjonal startpris for annen lokasjon; faktisk minsteenhet i Trondheim er 4,8 m² til 1 490 kr/mnd.
+- **Merknad:** Utemperert containerlagring – ikke direkte sammenlignbart med innendørs tempererte boder.
 
 ### 2.6 Utleiebod
-- **Adresse:** Kobbes gate 10, 7042 Trondheim (nær sentrum)
-- **Størrelse:** 1–10 m², takhoyde 3 m, 3–30 m³
+- **Adresse:** Kobbes gate 10, 7042 Trondheim (~1,2 km fra Torget)
 - **Teknologi:** Telefonbasert tilgang, adgangskontroll
 - **Org.nr.:** 921 636 199 MVA (registrert i MVA-registeret)
 - **Spesialtilbud:** 1 mnd gratis ved binding >3 mnd
+- **Kilde:** [utleiebod.no/priser](https://utleiebod.no/priser/) (hentet 26.06.2026)
+
+**Priser (alle størrelser, hentet 26.06.2026):**
+
+| Størrelse (m²) | Kr/mnd | Kr/kvm/mnd |
+|---|---|---|
+| 1 | 399 | 399 |
+| 2 | 738 | 369 |
+| 3 | 1 107 | 369 |
+| 4 | 1 356 | 339 |
+| 5 | 1 695 | 339 |
+| 6 | 1 714 | 286 |
+| 8 | 2 440 | 305 |
+| 10 | 3 000 | 300 |
+
+- **Takhøyde:** ~3 m (høyere enn standard 2,4 m; gir mer nyttevolum)
+- **Vilkår:** Betaling forskuddvis; oppsigelse innen 15. i siste måned.
+- **Merknad:** Utleiebod er vesentlig dyrere enn tidligere oppgitt i kilde_markedsdata (~120–150 kr/kvm/mnd). Faktisk prisnivå er **286–399 kr/kvm/mnd**. FG30s planlagte 220 kr/kvm/mnd selvbetjent er billigere enn Utleiebod på alle sammenlignbare størrelser. FG30 og Utleiebod er de eneste gangbare alternativene fra sentrum – FG30 kan konkurrere på pris, kapasitet og full-service.
 
 ### 2.7 Extra Minilager (Romolslia)
 - **Enheter:** Ca. 40
@@ -108,18 +169,24 @@
 
 ## 3. Prisspenn og markedsposisjonering
 
-**Pris per kvm per måned (Trondheim, 2026):**
-| Aktør | Min | Max | Snitt |
-|-------|-----|-----|-------|
-| Minilager1 | 93 kr | 147 kr | 115 kr |
-| ESP Lager | 112 kr | 135 kr | 124 kr |
-| Markedsbenchmark NO | – | – | 120–140 kr |
+**Pris per kvm per måned (Trondheim, 2026 – oppdatert 26.06.2026):**
 
-**Posisjoneringsanalyse:**
-- Under 100 kr/kvm: Priskrig/utklassering
-- 100–120 kr/kvm: Konkurransedyktig markedsandel
-- 130–160 kr/kvm: Premium/sentrum-prisnivå
-- 160+ kr/kvm: Full-service / valet-segment
+| Aktør | Min (kr/kvm/mnd) | Max (kr/kvm/mnd) | Kilde / status |
+|-------|---|---|---|
+| Minilager1 (Ranheim) | 93 | 238 | Verifisert 23.06.2026 |
+| ESP Lager (Leinstrand) | 112 | 135 | Verifisert 23.06.2026 |
+| Trondheim Minilager (Ranheim) | 150 | 333 | Verifisert 26.06.2026 |
+| 123 Minilager (Solsiden) | 158 | 310 | Prosjektleder, bookingside 26.06.2026 |
+| Utleiebod (Kobbes gate) | 286 | 399 | Verifisert 26.06.2026 |
+| Green Storage (Lade) | 613+ | n/a | Datapunkt fra prosjektleder; ikke verifisert |
+| Markedsbenchmark NO | – | – | ~120–140 kr (Stortrack 2025) |
+| **Fjordgata 30 (Bryggen) – prismål** | **220** | **265** | **Selvbetjent / full-service** |
+
+**Posisjoneringsanalyse (kr/kvm/mnd):**
+- Under 100: Priskrig/utklassering
+- 100–120: Konkurransedyktig markedsandel
+- 130–160: Premium/sentrum-prisnivå
+- 160+: Full-service / valet-segment
 
 **Fjordgata 30 fordeler:**
 - Sentral beliggenhet (ingen biletid for mange kunder)
@@ -149,7 +216,7 @@ FG30 ligger på Bryggen i Trondheim sentrum, direkte ved Nidelven. Konkurrentene
 
 **Konsekvens:** For byboere uten bil (studenter, expats, sentrumsbeboere) er FG30 og Utleiebod de eneste reelle alternativene. FG30 har 5× større kapasitet enn Utleiebod og kan tilby full-service i tillegg.
 
-**Premiumargument:** Forskning på urban self-storage viser at sentralt beliggende anlegg tar 20–35 % premiumprising over periferianlegg i samme by (Stortrack Europe Self-Storage Report 2025). For Trondheim tilsier dette 130–165 kr/kvm/mnd for FG30 vs. 100–120 kr/kvm for Ranheim/Leinstrand-anlegg.
+**Premiumargument:** Forskning på urban self-storage viser at sentralt beliggende anlegg tar 20–35 % premiumprising over periferianlegg i samme by (Stortrack Europe Self-Storage Report 2025). For Trondheim tilsier dette 130–165 kr/kvm/mnd for FG30 vs. 100–120 kr/kvm/mnd for Ranheim/Leinstrand-anlegg.
 
 ### 4.2 Nidelven-inngang og båtplass-segmentet
 
@@ -218,7 +285,9 @@ FG30 har allokert dedikert lastesone på Bryggen utenfor bygget. Bilister kan pa
 - Stortrack: Self-Storage in Europe – Growth, Consolidation 2025
 - Minilager1.no: Prisliste (hentet 23.06.2026)
 - ESP Lager prisliste (hentet 23.06.2026)
-- Trondheim Minilager nettsted (hentet 23.06.2026)
-- Utleiebod.no (hentet 23.06.2026)
+- Trondheim Minilager: Individuelle produktsider (hentet 26.06.2026)
+- Utleiebod.no/priser: Full pristabell (hentet 26.06.2026)
+- 123minilager.no: Trondheim-avdeling + pris-side (hentet 26.06.2026)
+- Green Storage booking-API: HTTP 403 – kun prosjektleders datapunkt tilgjengelig
 - Lagersmart.no: Minilager Trondheim guide
 - Facebook: Fjordgata 30 Minilager

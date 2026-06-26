@@ -1,5 +1,6 @@
 {
   "_description": "Grant card data for KodeWorks Eiendom AS / Fjordgata 30. Values sourced from grant agreements, tilskuddsbrev, and application documents in bakgrunn/. Null = not yet confirmed from source document.",
+  "_revision": "Rev. 2026-06-26: KMF og BYA oppdatert iht. endringsanmodninger sendt 25.06.2026 (stotte/2026-06-25_kmf_endringsmelding.md, stotte/2026-06-25_bya_endringsmelding.md). Endringer ikke bekreftet godkjent av mottakerne.",
   "projects": [
     {
       "ProjectID": "KMF-FG30",
@@ -8,12 +9,12 @@
       "SchemeID": "KMF",
       "ProjectLeader": "Eirik Larsen",
       "GrantReference": "240126",
-      "TotalBudget": 5000000,
+      "TotalBudget": 2500000,
       "GrantAmount": 750000,
       "BudgetCurrency": "NOK",
-      "SupportIntensity": 0.15,
+      "SupportIntensity": 0.30,
       "DurationFrom": "2024-03-13",
-      "DurationTo": "2024-12-31",
+      "DurationTo": "2026-12-31",
       "Participants": [
         {
           "PersonID": "EL",
@@ -61,7 +62,7 @@
           "Kostnader som overstiger sluttregnskapet (tilskuddet reduseres tilsvarende)"
         ]
       },
-      "Comments": "Tilskuddet er bekreftet innvilget. Vedtaksdato: 13.03.2024, tilsagnsbrev: 18.03.2024. Prosjektnummer: 240126. Støtteintensitet 30% (endelig søknad) – innvilget 750 000 av omsøkt 1 500 000. Prosjektet er endret fra kontorbygg til minilager – KMF må informeres om endret formål.",
+      "Comments": "Tilskuddet er bekreftet innvilget. Vedtaksdato: 13.03.2024, tilsagnsbrev: 18.03.2024. Prosjektnummer: 240126. REV: Budsjett nedjustert fra kr 5 000 000 til kr 2 500 000 og støtteintensitet økt fra 15% til 30% iht. endringsanmodning 25.06.2026. Prosjektperiode forlenget til 31.12.2026. Prosjekt endret fra kontorbygg til minilager – KMF informert via endringsmelding. Endringer ikke bekreftet godkjent.",
       "Status": "active",
       "workpackages": [
         {"WPID": "AP1", "WPName": "Bæresystemets helhet", "WPLeader": "KodeWorks Eiendom"},
@@ -87,12 +88,12 @@
       "SchemeID": "BYA",
       "ProjectLeader": "Eirik Larsen",
       "GrantReference": "2025/5928",
-      "TotalBudget": 2285714,
+      "TotalBudget": 1666667,
       "GrantAmount": 500000,
       "BudgetCurrency": "NOK",
-      "SupportIntensity": 0.219,
+      "SupportIntensity": 0.30,
       "DurationFrom": "2025-06-01",
-      "DurationTo": "2025-12-31",
+      "DurationTo": "2026-12-31",
       "Participants": [
         {
           "PersonID": "EL",
@@ -140,7 +141,7 @@
           "Kostnader som overstiger sluttregnskapet (tilskuddet reduseres tilsvarende)"
         ]
       },
-      "Comments": "Tilsagnsbrev datert 02.05.2025 fra Elisabeth Kahrs, Trondheim kommune (saksref. 2025/5928). Søkte 750 000 – innvilget 500 000 (type 1-tiltak: sikring og istandsetting av konstruksjon). SupportIntensity 21,9% (500 000 / 2 285 714). Kilde: bakgrunn/stotte/bya/tilsagnsbrev.md, bya/soeknad.md.",
+      "Comments": "Tilsagnsbrev datert 02.05.2025 fra Elisabeth Kahrs, Trondheim kommune (saksref. 2025/5928). Søkte 750 000 – innvilget 500 000 (type 1-tiltak: sikring og istandsetting av konstruksjon). REV: Budsjett nedjustert fra kr 2 285 714 til kr 1 666 667 og støtteintensitet økt fra 21,9% til 30% iht. endringsanmodning 25.06.2026. Prosjektperiode forlenget til 31.12.2026. Prosjekt endret fra kontorbygg til minilager – BYA informert via endringsmelding. Endringer ikke bekreftet godkjent. Kilde: bakgrunn/stotte/bya/tilsagnsbrev.md, bya/soeknad.md.",
       "Status": "active",
       "workpackages": [],
       "budget_categories": [
@@ -148,7 +149,7 @@
           "BudgetCatID": "rehab",
           "CatName": "Rehabilitering og sikringstiltak – verneverdig bebyggelse",
           "IsIndirectBase": false,
-          "Budget": 2285714,
+          "Budget": 1666667,
           "BudgetCurrency": "NOK"
         }
       ]

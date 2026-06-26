@@ -9,27 +9,9 @@ Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene
 
 ## Nye oppgaver
 
-### T86 `[ ]` Gjennomgå og strukturer timelister fra HRP
+--
 
-#### Bakgrunn
-
-Ny mappe `timer/` er opprettet med timelister fra HRP. Timelister inneholder personell som ikke er kjent, og arbeid som ikke er bestilt. Vi trenger bedre oversikt.
-
-#### Mål
-
-- Strukturer timelister for oversikt uten å miste informasjon fra beskrivelsene
-- Aggreger og grupper på tid og person
-- Summer timer per person/kategori
-- Konkatener beskrivelser på en lesbar måte
-- Lag et forslag til format/script for dette
-
-#### Fremgangsmåte
-
-- Les filene i `timer/`
-- Kartlegg personell, arbeidstyper og beskrivelser
-- Foreslå aggregeringsstruktur — vurder om dette bør løses som et script eller manuelt i Markdown/CSV
-
----
+## Oppgaver
 
 ### T83 `[ ]` Sammendrag av ../stotte-prosjektet til bruk i stotte/
 
@@ -42,98 +24,6 @@ Les `../stotte/`-repoet (CLAUDE.md, README.md, project_cards.json, project_cards
 - Praktisk for FG30: hvilke ordninger vi har aktive, hvilke vi vurderer, og hvordan de koordineres
 
 Sammendraget skal være forståelig for en leser uten kjennskap til statsstøtteregelverket (f.eks. KMF-saksbehandler) og brukes som internt referansedokument og grunnlag for vedlegg til støttesøknader.
-
----
-
-### T84 `[x]` Verifiser at BYA-konverteringer er trofaste (tilsvarende T82 for KMF)
-
-#### Bakgrunn
-
-Samme type konverteringsproblem som ble avdekket i T82 for KMF kan ha rammet BYA-dokumentene. Under T61 (22.06.2026) ble `bya_soeknad.txt`, `bya_tilsagnsbrev.txt`, `bya_akseptskjema.txt` og `bya_utbetalingsskjema.txt` kopiert fra `temp/` og konvertert til .md i `bakgrunn/stotte/bya/`. Det er uklart om konverteringen var trofast eller om innhold ble fjernet/forenklet – de nåværende .md-filene ser «ferdig-formaterte» ut på en måte som minner om den redigerte KMF-søknaden (ikke rå konvertering).
-
-#### Kildefiler og målfiler å sammenlikne
-
-| Kildefil (i `temp/`) | Målfil (`bakgrunn/stotte/bya/`) | Særlig å verifisere |
-|---|---|---|
-| `bya_soeknad.txt` | `soeknad.md` | Alle seksjoner med? Originalen har trolig mer enn de 7 seksjonene i .md-versjonen (bygningshistorikk, faglig begrunnelse, ev. vedleggsbeskrivelser). Vedleggsliste komplett? |
-| `bya_tilsagnsbrev.txt` | `tilsagnsbrev.md` | Alle vilkår og forutsetninger gjengitt fullt ut? |
-| `bya_akseptskjema.txt` | `akseptskjema.md` | «Anmodning om sammenslåing»-seksjonen (BYA+KMF+UNI = 1 350 000 kr) – er dette originalt innhold fra skjemaet eller ble det lagt til under konverteringen? |
-| `bya_utbetalingsskjema.txt` | `utbetalingsskjema.md` | Alle felt og instruksjoner fra originalskjemaet med? |
-
-#### Fremgangsmåte
-
-- Finn kildefilene: de lå i `temp/Byantikvaren/` (lokal mappe utenfor repoet) – be brukeren bekrefte sti
-- Les hver kildefil i sin helhet med Bash (`cat` eller `type`)
-- Sammenlign antall hoveddeler, tabeller og detaljer mot .md-versjonen
-- Rett eventuelle mangler ved lossless konvertering (jf. T82: bevar alt, ikke omstrukturér, bevar æøå)
-
-#### Avhengigheter
-
-T82 (erfaringer herfra gjelder direkte).
-
-#### Løsning (25.06.2026)
-
-Kildefiler lest fra `../temp/Støtte/Byantikvaren/`. Merk: `Fjordgata 30 - Søknad om tilskudd rehabilitering av bærekonstruksjon(ref. CS0495805).txt` er tilsagnsbrevet (feilnavngitt i temp-mappen); `søknad_byantikvaren.txt` er søknaden.
-
-**soeknad.md** – gjenopprettet:
-- Bakgrunn: lagt til tre avsnitt (bygget inngår i bryggerekke, innovasjonshub-fremtidig bruk, fase-strategi for bæring, støttegrad-begrunnelse)
-- Tilstand og tiltak: lagt til brannforebyggingsforskriften §8 og brannspredningsrisiko
-- Sammenheng: utvidet med TBRT-sitat og TEK17-referanse
-- Organisering: lagt til avsnitt om Ole Mortens erfaring fra kulturhistoriske brygger
-- Avslutning: hel seksjon gjenopprettet
-- Fremdriftsplan (Vedlegg 1): tredje kolonne «Beskrivelse og merknad» gjenopprettet
-- Budsjett (Vedlegg 2): «Budsjettprinsipper»-seksjon gjenopprettet
-
-**tilsagnsbrev.md** – gjenopprettet:
-- Søknadens omfang: lagt til kontekstparagraf om total søknadsmengde (>12 MNOK søkt, pott 2,2 MNOK) – forklarer hvorfor 500 000 og ikke 750 000 ble innvilget
-- Ny seksjon: «Frist for gjennomføring»
-- Andre vilkår: utvidet MVA-tekst (inkl. hva som skjer ved statusendring)
-- Lagt til vedleggsliste og «Kopi til: Silje Taftø Petersen»
-
-**akseptskjema.md** – rettet:
-- Tittel: «Vedlegg 1. Akseptskjema for tilskudd bryggene 2025»
-- Seksjonstittel: «Forutsetninger for tilskudd til bygningsmessige tiltak på tak og fasade»
-- Lagt til underskriftsfelt («Sted, dato» / «Forpliktende underskrift»)
-
-**utbetalingsskjema.md** – rettet:
-- Lagt til fakturainstruks-merknad: anmodningen legges ved den elektroniske fakturaen
-
----
-
-### T82 `[x]` Rett opp ødelagte KMF-konverteringer og legg inn forhåndskonferanse
-
-#### Hva gikk galt (bakgrunn)
-
-En tidligere runde med .txt→.md-konvertering av KMF-søknadsdokumentene hadde to feil:
-
-1. **Feil kildefil:** Konverteringen brukte `Kulturminnefondet 1.txt` (en eldre eller annen versjon) i stedet for `Tilsvar 1/kulturminnefondet_2.txt` — den endelige, reviderte søknaden som er primærkilden.
-2. **Aggressiv konvertering:** Innhold ble fjernet under konverteringen — seksjoner trunkert, æøå-encoding ødelagt, vedleggslister og arbeidspakker delvis slettet. Resultatet i `bakgrunn/stotte/kmf/soeknad_ordinaer.md` var en mangelfull og misvisende gjengivelse av originaldokumentet.
-
-#### Riktig fremgangsmåte (trofast konvertering)
-
-- Les kildefilen i sin helhet med `pdftotext` eller direkte fillesing
-- Konverter lossless — ikke forenkle, ikke omstrukturere, ikke fjerne seksjoner som virker utdaterte
-- Bevar alt: alle arbeidspakker, budsjett, fremdriftsplan, vedleggslister, æøå-tegn
-- Sjekk at resulterende .md inneholder samme antall hoveddeler som kilden
-
-#### Kildefiler for KMF
-
-Hentet fra `temp/Kulturminnefondet/` (lokal temp-mappe utenfor repoet):
-- Primærkilde søknad: `Tilsvar 1/kulturminnefondet_2.txt` → `bakgrunn/stotte/kmf/soeknad_ordinaer.md`
-- `Kulturminnefondet 1/` inneholder tilsagnsbrev og annet — ikke søknadsteksten
-- `Kulturminnefondet 1.txt` er IKKE primærkilden for søknaden — ignorer denne som søknadskilde
-
-#### Løsning (25.06.2026)
-
-**Steg 1 – utført:** `bakgrunn/stotte/kmf/soeknad_ordinaer.md` erstattet med fullstendig trofast konvertering av `kulturminnefondet_2.txt`. Encoding rettet (æøå). Hele «Fremtidig bruk»-seksjonen er med, inkl. kontorplan med fjerning av 3. og delvis 5. etasje og lysinnslipp. Alle fem arbeidspakker, fremdriftsplan, budsjett og alle 11 vedlegg er bevart.
-
-**Steg 2 – ikke utført:** Bruker avklarte at `Kulturminnefondet 1.txt` ikke er interessant og at `soeknad_sikringstiltak.md` kan ignoreres.
-
-**Steg 3 – utført:** `bakgrunn/2023-06-23_forhandskonferanse_presentasjon.md` opprettet fra `forhandskonferanse.txt`. Presentasjon datert 23.06.2023: reguleringsstatus, kulturminnekartet, eksisterende plantegninger (A20-22 t.o.m. A40-14), rammer for utvikling (lyssjakt, åpning til kjeller, fjerning av 3. og 5. etasje), romprogram per etasje for skisseforslaget, og høyder/konstruksjonsdiskusjon.
-
-#### For tilsvarende arbeid med BYA
-
-BYA-kildefilene ble kopiert fra `temp/` til `bakgrunn/stotte/bya/` den 22.06.2026 (se T61 i ARCHIVE.md): `bya_tilsagnsbrev.txt`, `bya_soeknad.txt`, `bya_akseptskjema.txt`, `bya_utbetalingsskjema.txt`. Samme prinsipp gjelder: les kildefilene i sin helhet og konverter lossless til .md — ikke forenkle eller fjerne innhold.
 
 ---
 
@@ -204,14 +94,6 @@ Se T02 for kontekst. Samme krav, men fokus på fremdrift fremover snarere enn ut
 Samme situasjon som Kulturminnefondet (T02). I tillegg er Byantikvaren særlig opptatt av steinmuren i kjeller – rammesøknaden foreslår å bevare muren, men støype betong foran den for bæring. Anmodningen bør adressere dette direkte og vise at antikvariske verdier ivaretas.
 ---
 
-### T05 `[x]` Framdriftsrapport – Byantikvaren
-**Mottaker:** Byantikvaren
-
-Se T04 for kontekst.
-
-**Løst 2026-06-25:** `stotte/2026-06-25_bya_framdriftsrapport.md`. Dekker: bygningshistorikk, prosjektteam med kulturminneansvarlig (HRP/Ole Morten Lagmannssveen), utført arbeid 2025–2026 (rydding, hulltaking, grunnundersøkelser, demontasje), kulturminnefaglige funn (natursteinsmur bekreftet bevart, strekkfisker avdekket, bæresystem bedre enn antatt), fremdriftsplan og fotodokumentasjon. Rapport adresserer Byantikvarens særlige bekymring om steinmuren direkte.
----
-
 ### T06 `[ ]` Utbetalingsanmodning / framdriftsrapport – Enova
 **Mottaker:** Enova
 
@@ -243,76 +125,6 @@ Lag rapport/logg over hva studentene har gjort og lært.
 Bilder skal inn i arbeidsrapport og evt. framdriftsrapporter.
 ---
 
-### T19 `[x]` Søk om utsettelse av prosjektperiode – Kulturminnefondet
-**Mottaker:** Kulturminnefondet
-
-**Løst 2026-06-25:** Løst sammen med T20 i `stotte/2026-06-25_kmf_endringsmelding.md`. Søker om forlengelse til 31.12.2026. Begrunnet med: kompleks bygningskonstruksjon, konseptendring til minilager (krevde ny planlegging), myndighetsdialog. Viser til at prosjektet nå er konkret med rammesøknad levert 12. mai 2026 og IG planlagt september 2026. Framdriftsrapporten (T01.01) er vedlegg.
----
-
-### T20 `[x]` Søk om endring av støtteintensitet – Kulturminnefondet
-**Mottaker:** Kulturminnefondet
-
-**Løst 2026-06-25:** Del 2 og Del 3 i `stotte/2026-06-25_kmf_endringsmelding.md`. Del 2 melder konseptendring (kontor → minilager), argumenterer for at de støttede tiltakene er uendret og at minilager er bevaringsmessig bedre. Del 3 søker eksplisitt om nedjustering av budsjett fra kr 5 000 000 til kr 2 500 000, med tre begrunnelser: endret sluttprodukt, avdekking/demontering større enn estimert, bæresystemet i bedre stand enn antatt. Støtteintensitet økes fra 15 % til 30 %. Webskjema for omdisponeringssøknad i `stotte/2026-06-25_kmf_endringsmelding_webskjema.md`. Vedlegg: `stotte/2026-06-25_kmf_omdisponering_vedlegg.md/.docx` (begrunnelse for endret budsjett og utførende, inkl. skifte fra Riis Eiendom til HRP/KMTE/SAHAA/HL/KWE) og `stotte/2026-06-25_kmf_omdisponering_finansiering.md/.docx` (finansieringsplan med koordinering av KMF/BYA/UNI mot 70 %-taket).
----
-
-### T85 `[x]` Søk om endring av støtteintensitet – Byantikvaren
-
-**Mottaker:** Byantikvaren, Trondheim kommune (saksbehandler Elisabeth Kahrs, ref. 2025/5928)
-
-#### Mål
-
-Redusere godkjent budsjett fra **kr 2 285 714** til **kr 1 666 667**, slik at støtteintensiteten øker fra 21,9 % til **30 %** (500 000 / 1 666 667 = 30,0 %).
-
-#### Bakgrunn
-
-BYA innvilget 500 000 kr mot et søknadsbudsjett på 2 285 714 kr – dette gir 21,9 % intensitet. Tilsvarende endringsanmodning for KMF (T20, løst 2026-06-25) reduserte KMF-budsjettet fra 5 MNOK til 2,5 MNOK og økte intensiteten til 30 %. BYA har ikke publisert standardprosedyre for budsjettendriger (jf. T78-kartlegging) – kontakt saksbehandler direkte.
-
-#### Fremgangsmåte
-
-1. **Avklar prosessen** – ring/e-post Elisabeth Kahrs for å bekrefte at budsjettreduksjon kan søkes om skriftlig og uten nytt vedtaksmøte.
-2. **Skriv endringsmelding** – kombiner med T21 (utsettelse) i ett brev. Strukturér som:
-   - Del 1: statusoppdatering (rammesøknad levert 12. mai 2026, IG planlagt sept. 2026, steinmur-status)
-   - Del 2: søknad om utsettelse til 31.12.2026 (jf. T21)
-   - Del 3: søknad om budsjettnedskriving fra 2 285 714 til 1 666 667 kr
-3. **Begrunnelse for budsjettreduksjon** (tilsvarende KMF T20):
-   - Konseptendring fra generell istandsetting til minilager har endret omfanget av tiltak
-   - Avdekkingsarbeider og demontering har vist at bæresystemet er i bedre stand enn antatt på søknadstidspunktet
-   - Mer fokusert kostnadsprogram etter detaljert prosjektering
-
-#### Regnestykke
-
-| | Nå | Etter endring |
-|---|---|---|
-| Godkjent budsjett (BYA-program) | kr 2 285 714 | **kr 1 666 667** |
-| Tilskudd | kr 500 000 | kr 500 000 |
-| Støtteintensitet | 21,9 % | **30,0 %** |
-| Egenandel + øvrig finansiering | kr 1 785 714 | kr 1 166 667 |
-
-#### Dokumenter som skal produseres
-
-- `stotte/[dato]_bya_endringsmelding.md` – brev til BYA (kombinerer T21 + T85)
-- Oppdatert finansieringsplan (jf. `stotte/2026-06-25_kmf_omdisponering_finansiering.md`) som viser koordinering KMF/BYA/UNI mot 70 %-taket
-
-#### Avhengigheter
-
-- **T21** (utsettelse BYA) – løses i samme brev
-- **T20** (KMF-endringsmelding, løst) – mal for fremgangsmåte og begrunnelse
-- **T78** (kartlegging maks intensitet, løst) – dokumenterer at BYA aksepterer budsjettendringer
-
-**Løst 2026-06-25:** Del 3 i `stotte/2026-06-25_bya_endringsmelding.md`. Løst sammen med T21. Søker nedjustering av budsjett fra 2 285 714 til 1 666 667 kr. Tre begrunnelser: endret sluttprodukt (minilager vs. kontor), avdekking var mer enn estimert, bæresystemet bedre enn antatt. Støtteintensitet økes fra 21,9 % til 30 %. Sendes til byantikvaren.kart@trondheim.kommune.no (ingen nettskjema for BYA).
-
-**Merk:** BYA har ikke standardprosedyre for budsjettendringer — ta telefonkontakt med Elisabeth Kahrs (saksref. 2025/5928) for å bekrefte at prosessen er riktig før innsending.
-
----
-
-### T21 `[x]` Søk om utsettelse av prosjektperiode – Byantikvaren
-**Mottaker:** Byantikvaren
-
-Samme situasjon som KMF (T19). Prosjektperioden for Byantikvaren-tilskuddet (500 000 kr) må forlenges. Se T19 for kontekst om årsaker. I tillegg bør brevet adressere steinmur-spørsmålet fra rammesøknaden slik at Byantikvaren er oppdatert på prosjektets nåværende form.
-
-**Løst 2026-06-25:** Del 1 og Del 2 i `stotte/2026-06-25_bya_endringsmelding.md`. Løst sammen med T85. Del 1 søker forlengelse til 31.12.2026 med tre begrunnelser (kompleks bygg, konseptendring, myndighetsdialog). Del 2 melder konseptendring (kontor/innovasjonshub → minilager), bekrefter at støttede tiltak er uendret, argumenterer for at minilager er bevaringsmessig bedre, og bekrefter at natursteinsmuren vil stå synlig.
----
-
 ### T22 `[ ]` Søk om utsettelse – Enova Ombrukskartlegging
 **Mottaker:** Enova
 
@@ -325,19 +137,237 @@ Ombrukskartleggingen ble innvilget støtte og skulle gjennomføres av HRP. Per S
 Energikartleggingen gjennomføres av HRP (RiEn-avdeling). Per Statusmøte 04/05 var RiEn i gang, med planlagt statusoppsummering 17. april 2026. Avklar med HRP om rapport er levert. Dersom prosjektperioden utløper før rapport er klar, send søknad om utsettelse til Enova.
 ---
 
-### T24 `[ ]` Lag oversikt over alle støtteordninger
-**Format:** Dokument/tabell, egnet for intern bruk og som vedlegg til bank (se T09)
+### T24 `[x]` Støtteoversikt til bank – komplett og underbygget versjon
+**Format:** Dokument egnet som bankvedlegg (se T09). Avhenger av T87 og T88.
 
-Lag en strukturert oversikt over samtlige innvilgede tilskudd med følgende kolonner:
-- Støttegiver
-- Prosjektnavn (slik det er registrert hos støttegiver)
-- Innvilget beløp
-- Støtteintensitet (% av kostnad)
-- Prosjektperiode (fra–til)
-- Kort beskrivelse av hva vi skal gjøre i prosjektet
-- Status (aktiv / søkt utsettelse / utbetalt)
+**Løst 2026-06-26 via T87, T88 og T89.** Leveranser:
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` – komplett støtteoversikt med rettede tall, juridisk grunnlag og grønt lån
+- `leveranser/2026-06-26_tilskudd_som_egenkapital.md` – juridisk utredning (T87)
+- `leveranser/2026-06-26_groenne_laan_kriterier.md` – grønt lån-kriterier (T88)
 
-Bruk `../stotte`-prosjektet som kilde for tall. Lagres som `stoetteoversikt.md` i prosjektmappen.
+**Subtasks:** T87 `[x]`, T88 `[x]`, T89 `[x]`
+---
+
+### T87 `[x]` Hent inn lovverk: tilskudd som egenkapital overfor bank
+**Avhengighet:** Må løses før T89
+
+Bankfinansiering forutsetter at vi kan dokumentere at offentlige tilskudd teller som egenkapital (eller egenkapitallignende finansiering) i prosjektet. Dette er ikke selvsagt og banken vil stille spørsmål. Vi trenger et solid juridisk og bransjemessig grunnlag.
+
+Utred og dokumenter følgende:
+- Hvilke lover og forskrifter regulerer hva som kan klassifiseres som egenkapital i et låneopptak (Finansavtaleloven, bankenes interne retningslinjer, EBA-retningslinjer om kredittvurdering)?
+- Hva sier regnskapsloven (regnskapsloven § 6-2 og god regnskapsskikk / NRS) om klassifisering av tilskudd – som gjeld, utsatt inntekt eller egenkapital?
+- Hva sier skatteloven om skattefrihet for tilskudd til kulturminner og tilhørende behandling i balansen?
+- Er det bransjepraksis eller presedens for at offentlige tilskudd anerkjennes som EK-komponent av norske banker ved prosjektfinansiering av rehabilitering?
+- Hvilke krav stiller banker (særlig DNB Næringseiendom) til dokumentasjon av tilskudd som EK-komponent?
+
+Lagre sammenstilling som `bakgrunn/lovverk/tilskudd_som_egenkapital.md` med eksplisitte paragrafhenvisninger.
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (ren, generell juridisk utredning uten FG30-spesifikke beløp). Dekker:
+- Finansavtaleloven (LOV-2020-12-18-146) og EBA/GL/2020/06 (avsnitt 5.2.7, 6.1): tilskudd inngår i LTV-vurdering
+- NRS 4 og regnskapsloven § 6-2: tilskudd er utsatt inntekt (ikke EK), men reduserer netto gjeld og styrker EK-andelen
+- Skatteloven § 14-42 (3): investeringstilskudd reduserer avskrivningsgrunnlaget – ingen umiddelbar skattepliktig inntekt
+- Bransjepraksis: bekreftet tilskudd anerkjennes bredt som EK-ekvivalent av norske banker; KMF stiller krav om 30% privat finansiering (FOR-2003-06-27-801 kap. 5)
+- Konklusjon og bankenes dokumentasjonskrav
+
+Individuelle lovreferanser i `bakgrunn/lovverk/`: `regnskapsloven.md`, `skatteloven.md`, `finansavtaleloven.md`, `finansforetaksloven.md`, `nrs_4_offentlige_tilskudd.md`, `eba_gl_2020_06.md`, `kulturminneloven.md`, `kulturminnefondet_vedtekter.md`, `forskrift_fredete_kulturminner.md`
+---
+
+### T88 `[x]` Hent inn regelverk: grønt prosjekt og grønne lån
+**Avhengighet:** Må løses før T89
+
+Energikartleggingsrapporten fra HRP (05.05.2026) viser at tiltakspakke T1 gir 53% energireduksjon og energimerke D. Vi ønsker å posisjonere prosjektet som et grønt prosjekt overfor banken for å kvalifisere til grønt lån (lavere rente). Vi trenger et solid regelverk-grunnlag.
+
+Utred og dokumenter følgende:
+- DNBs rammeverk for grønne lån til næringseiendom: hvilke krav gjelder (minimum 30% energiforbedring per § X i DNBs grønne rameverk)?
+- EUs Taksonomiforordning (Taxonomy Regulation, EU 2020/852) og tekniske screeningkriterier for byggrehabilitering («substantially improve energy performance»): hva er kravet og oppfyller vi det?
+- Energimerkeforskriften (Forskrift om energimerking av bygninger, FOR-2009-12-18-1665) og NS 3031:2025: hva kreves for energimerke D, og dokumenterer rapporten dette?
+- Eventuelt: BREEAM-klassifisering og om dette er relevant for minilager
+- Hva er minimumsgrensen for «grønt» i norsk bankpraksis og EU-taksonomi?
+
+Koble til konkrete tall fra `bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md`:
+- Nå-tilstand: 252 000 kWh/år, energikarakter G
+- T1-pakken: 53% reduksjon → energimerke D
+- T2-pakken: 56% reduksjon → energimerke C
+
+Lagre sammenstilling som `bakgrunn/lovverk/groenne_laan_kriterier.md` med eksplisitte paragrafhenvisninger og konklusjon om hva FG30 kvalifiserer til.
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_groenne_laan_kriterier.md`. Dekker:
+- DNB Rammeverk for grønne lån V.5.1 (feb. 2026): krav ≥ 30% energireduksjon og min. energimerke D
+- EU-taksonomiforordning (EU 2020/852) og Delegert forordning (EU 2021/2139) seksjon 7.2: krav ≥ 30% PED-reduksjon
+- Energimerkeforskriften (FOR-2009-12-18-1665) §§ 5, 10, 10b og NS 3031:2025: beregningsgrunnlag og ny skala fra 1.1.2026
+- BREEAM: ikke obligatorisk for minilager; vurdering forklart
+- Norsk bankpraksis (DNB, SpareBank 1, Nordea, Sparebanken Møre): 30%-kravet er industrikonsensus
+- FG30-konklusjon: T1-pakken (53% / energimerke D) oppfyller alle kriterier. G→D = 3 energimerkenivåers forbedring.
+---
+
+### T89 `[x]` Skriv ferdig støtteoversikt for bank
+**Avhengighet:** T87 og T88 må være løst
+
+Reskriv `stotte/2026-06-22_fg30_stoetteoversikt_bank.md` med:
+1. Rettede tall fra `stotte/project_cards.json` (Enova-beløp byttet, BYA-dato, støtteintensiteter)
+2. Avsnitt om juridisk grunnlag for tilskudd som egenkapital, basert på T87, med paragrafhenvisninger
+3. Avsnitt om grønt prosjekt og kvalifisering til grønt lån, basert på T88 og energikartleggingsrapporten
+4. Oppdatert finansieringsplan som reflekterer KMF- og BYA-endringsanmodninger (reviderte budsjetter)
+5. Fjern eller verifiser «70%-avtale»-kommentaren
+
+Lagre som ny fil `stotte/2026-06-26_fg30_stoetteoversikt_bank.md` (nytt dato-prefix).
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md`. Rettelser fra project_cards.json:
+- Enova energikartlegging: 400 000 kr (saksnr. 26/2548), 50% intensitet
+- Enova ombrukskartlegging: 500 000 kr (saksnr. 26/2555), 50% intensitet
+- BYA dato: 02.05.2025 (tilsagnsbrev)
+- UNI intensitet: 5,6%
+- KMF og BYA: reviderte budsjetter (2 500 000 / 1 666 667) og 30% intensitet
+- «70%-avtale»-kommentaren fjernet (udokumentert)
+Lagt til: pkt. 4 juridisk grunnlag (NRS 4, sktl. § 14-42(3), EBA/GL/2020/06), pkt. 5 grønt lån (53% energireduksjon, energimerke D > DNBs 30%-krav, kilde HRP-rapport 05.05.2026). T88 ikke formelt løst, men energidata hentet direkte fra HRP-rapporten.
+---
+
+### T91 `[x]` Oppdater konkurrentpriser – full innhenting fra alle aktører
+
+Forretningsplanens konkurrentanalyse (`forretningsplan/kilde_markedsdata.md`) har ufullstendige og delvis feilaktige prisdata. Prosjektleder har funnet at priser er tilgjengelige på nett for aktører som i første runde ble oppgitt uten priser. Denne tasken krever grundig innhenting: bruk WebFetch på alle URL-er nedenfor, hent faktiske priser, beregn kr/kvm/mnd, og innarbeid i begge filer. **Dersom en side ikke kan hentes med WebFetch, si eksplisitt at siden ikke lot seg hente og hva som hindret det – ikke bare hopp over aktøren.**
+
+**Filer som skal oppdateres:**
+- `forretningsplan/kilde_markedsdata.md` – seksjon 2 (Konkurrenter i Trondheim) og seksjon 3 (Prisspenn og markedsposisjonering)
+- `forretningsplan/fg30_forretningsplan.md` – konkurrenttabellen i seksjon 4
+
+---
+
+#### Aktør 1: Trondheim Minilager (Ranheimsvegen 13, ~7,5 km fra sentrum, 500 boder)
+
+Prisene ligger per enkelt produkt/bod, ikke på én samlet side. Bruk WebFetch på kategori-sidene og følg deretter lenker til individuelle produkter for å hente størrelse (m³) og pris (kr/mnd):
+- <https://trondheimminilager.no/produktkategori/lite-lager/>
+- <https://trondheimminilager.no/produktkategori/lite-lager-med-skratak/>
+- <https://trondheimminilager.no/produktkategori/stort-lager/>
+
+Prisene er i **kubikkmeter (m³)**. Konverter til m² ved å dele på TEK17-godkjent takhøyde **2,4 m**. Beregn kr/kvm/mnd for hvert produkt. Presenter som tabell med kolonnene: Størrelse (m³) | m² (beregnet) | Kr/mnd | Kr/kvm/mnd.
+
+**Viktig:** `kilde_markedsdata.md` inneholder i dag priser for «Minilager1» (minilager1.no, Ranheim) – dette er et **annet selskap** enn Trondheim Minilager (trondheimminilager.no). Legg til Trondheim Minilager som ny oppføring. Vurder om Minilager1-dataene også skal beholdes, erstattes eller merkes som usikre.
+
+**Referanse (Minilager1 Romerike, samme kjede som Minilager1, 01.01.2026, 12 mnd binding):**
+Mini 5 m³ = 370 kr/mnd, Small 11 m³ = 680 kr/mnd, Medium 13 m³ = 990 kr/mnd, Large 19 m³ = 1 550 kr/mnd
+
+---
+
+#### Aktør 2: Green Storage / City Self-Storage (Lade, Tiller, Fossegrenda)
+
+Kjent datapunkt fra prosjektleder: 1,5 m² = 919 kr/mnd → **613 kr/kvm/mnd** (Lade-avdelingen, siteId=A06D000000V8UCT).
+
+Hent fullstendig prisoversikt for alle størrelser ved å bruke WebFetch på booking-URL-en med ulike groupName-verdier (Small, Medium, Large, XL – prøv alle):
+- <https://www.greenstorage.com/no/bestilling/bestill-minilager/?siteId=A06D000000V8UCT&groupName=Small>
+- Bytt `groupName=Small` til `Medium`, `Large`, `XL` og hent tilsvarende.
+
+Beregn kr/kvm/mnd for hver størrelse. Noter hvilken avdeling (Lade). Hvis andre avdelinger (Tiller, Fossegrenda) har andre priser, noter det.
+
+**NB:** 613 kr/kvm/mnd for minste enhet er langt høyere enn øvrige konkurrenter – analysen må kommentere om Green Storage opererer i et annet prissegment.
+
+---
+
+#### Aktør 3: 123 Minilager (Solsiden, ~1,5 km fra sentrum)
+
+Kjent datapunkt fra prosjektleder: Container 4,7–13,8 m², fra 1 390 kr/mnd (Trondheim/Trøndelag).
+
+Hent full pristabell med WebFetch:
+- <https://123minilager.no/pris-minilager/>
+
+Avklar hvilken størrelse «fra 1 390 kr/mnd» gjelder (sannsynligvis minste enhet 4,7 m² → ~296 kr/kvm/mnd, men verifiser). Hent alle størrelser og priser. Beregn kr/kvm/mnd for hele spekteret.
+
+---
+
+#### Aktør 4: Utleiebod (Kobbes gate 10, ~1,2 km fra sentrum)
+
+Prisen ~120–150 kr/kvm/mnd i forretningsplanen mangler kildeangivelse og hentetidspunkt. Hent aktuell pris med WebFetch:
+- <https://utleiebod.no>
+
+Legg til pris, kilde og hentetidspunkt i filen.
+
+---
+
+#### Ikke løs dette med WebFetch – avklar med Eirik
+
+- **Facebook-pris 100 kr/kvm:** Forretningsplanen viser en annonsert «soft launch»-pris på 100 kr/kvm på Facebook – 55 % under planens egne 220 kr. Det er uklart om dette er en aktiv prisannonsering eller en feil. Marker som «avklares med Eirik» og ikke endre prismålet i forretningsplanen basert på dette.
+
+---
+
+**Leveranse:** Oppdaterte tabeller i begge filer. Alle aktører skal ha: pris per størrelse, beregnet kr/kvm/mnd, kilde-URL og hentetidspunkt. Der WebFetch feiler: eksplisitt notat om hva som hindret henting.
+
+**Løst 26.06.2026.** Oppdaterte filer: `forretningsplan/kilde_markedsdata.md` (seksjon 2.1, 2.2, 2.5, 2.6, 3, 5) og `forretningsplan/fg30_forretningsplan.md` (seksjon 3.2 tabell, seksjon 4.1 prisnote).
+
+Funn per aktør:
+- **Trondheim Minilager**: Priser funnet på individuelle produktsider (ikke samlet prisliste). Lite lager 275–333 kr/kvm, skrå tak 150–167 kr/kvm, stort lager 214–261 kr/kvm. Forretningsplanens «~100–120 kr» var feil – faktisk nivå er 150–333 kr/kvm.
+- **Green Storage (Lade)**: Alle booking-API-URL-er returnerte HTTP 403. Pristabell utilgjengelig via WebFetch. Kjent datapunkt (613 kr/kvm, prosjektleder) beholdt med merknad om at det ikke er verifisert.
+- **123 Minilager (Trondheim)**: WebFetch kom kun til «fra 1 390 kr/mnd» (nasjonal prisliste). Fullstendige priser copy-pastet inn av prosjektleder fra bookingsiden (nettleser nødvendig): 4,8 m² = 1 490 kr/mnd (310 kr/kvm/mnd), 6,5 m² = 1 590 kr/mnd (245 kr/kvm/mnd), 13,9 m² = 2 190 kr/mnd (158 kr/kvm/mnd). Utemperert container, drive-in.
+- **Utleiebod**: Full pristabell hentet fra /priser/. 286–399 kr/kvm/mnd – langt høyere enn de «120–150 kr» som stod i filen. FG30 planlegger 220 kr/kvm – billigere enn Utleiebod på alle størrelser.
+
+---
+
+### T92 `[x]` Konkurranseanalyse med størrelsesvekting
+
+Bruk datasettet i `data/konkurrent_priser.csv` til å lage en vektet konkurranseanalyse som er relevant for FG30s faktiske boder.
+
+**Bakgrunn:**
+FG30 har individuelle boder på ~1,7 m² (Micro, 22 boder), ~2,1 m² (Standard, 432 boder) og ~2,9 m² (Medium+, 51 boder). Spesialareal 204 kvm er én udelt sone og tas ikke med i per-kvm prissammenligning. CSV-en inneholder konkurrentdata for enheter fra 1,0 til 16 m².
+
+**Oppgave:**
+Lag et Python-script `scripts/analyse_konkurrentpriser.py` som:
+
+1. Leser `data/konkurrent_priser.csv`
+2. For hvert datapunkt beregner en **størrelsesvekt** som faller med avstand fra FG30s bodspenn (1,7–2,9 m²). Forslag til vektingsfunksjon: Gauss/eksponentiell forfall med tyngdepunkt ~2,1 m² (FG30 Standard-bod). Enheter utenfor 1–5 m² kan utelates eller gis svært lav vekt.
+3. Beregner vektet gjennomsnitt av kr/kvm/mnd per aktør
+4. Produserer en sammenligningstabel: aktør | vektet kr/kvm/mnd | antall datapunkter | type | avstand sentrum
+5. Skriver resultatet til `data/konkurrent_analyse.md` og printer til stdout
+
+**Viktige hensyn:**
+- Skrå-tak-enheter (type=skratak) bør vektes ned ytterligere fordi de har lavere nyttevolum
+- Container (type=container) er annen produkttype enn FG30 – skal analyseres separat, ikke blandes med innendørs
+- Minilager1 Mini har to prispunkter (1 mnd vs 12 mnd binding) – bruk 12-mnd som primær (FG30 vil primært tilby månedlig/fleksibelt, men 12-mnd er mer sammenlignbart med andre)
+- Utleiebod har 3m takhøyde vs FG30s ~2,4m – overpriser per kvm (mer volum per m²); vurder om det bør korrigeres
+- Green Storage har kun ett datapunkt med ukjent reliabilitet – vis det men marker det
+
+**Leveranse:** `scripts/analyse_konkurrentpriser.py` + `data/konkurrent_analyse.md`
+
+**Løst 26.06.2026.** Gaussian vekting (µ=2,1 m², σ=0,8 m²) med volum-korreksjon for skrå tak og høy takhøyde. Resultater (vektet kr/kvm/mnd for sammenlignbare størrelser):
+- ESP Lager 135 kr – [NB] ingen enheter i FG30-størrelsesspenn, resultat ikke representativt
+- Minilager1 193 kr (9 km, periferisk)
+- **FG30 selvbetjent mål: 220 kr**
+- **FG30 full-service mål: 265 kr**
+- Utleiebod 299 kr (1,2 km, sentral)
+- Trondheim Minilager 316 kr (7,5 km, periferisk)
+- Green Storage 408 kr (3,5 km)
+- Extra Minilager 414 kr (9 km) – [NB] størrelser estimert fra bilde
+
+FG30s prismål (220–265 kr) er lavere enn alle sentrale og halvsentrale konkurrenter unntatt Minilager1 (som er 9 km unna). Containerdata separat i rapporten.
+
+---
+
+### T90 `[ ]` Bankhenvendelse – e-post med vedleggsliste til to banker
+
+Forfatt en e-post som kan sendes til to ulike banker (tilpass avsender/mottaker per bank) med mål om å få dem til å vurdere prosjektfinansiering for Fjordgata 30. E-posten skal overbevise banken om at prosjektet er solid og at de bør sette av tid til en gjennomgang.
+
+**E-posten skal adressere følgende temaer:**
+
+1. **Forretningsplan og konsept** – minilager i rehabilitert 1857-brygge; inntektsmodell, markedsposisjon, driftsøkonomi
+2. **MVA-håndtering** – unikt konsept (minilager som næring), hybridmodell under vurdering (BFU, T67); bankens kredittvurdering må ta høyde for MVA-fradragets størrelse (~5–6 MNOK)
+3. **Grønt lån** – T1-pakken gir 53 % energireduksjon og energimerke D; prosjektet oppfyller DNBs og andre bankers kriterier for grønt lån
+4. **Offentlige tilskudd som egenkapital** – ~2,25 MNOK innvilget (KMF, BYA, Enova, UNI); juridisk og bransjemessig grunnlag for at bevilgede tilskudd anerkjennes som EK-ekvivalent etter EBA/GL/2020/06
+5. **Prosjektets troverdighet** – rammesøknad levert 12.05.2026, støtte fra to offentlige kulturminnemyndigheter, energikartlegging ferdig, aktiv TBRT-dialog
+
+**Vedlegg som skal listes i e-posten (med kort beskrivelse av hvert):**
+
+| Vedlegg | Fil | Formål |
+|---|---|---|
+| Forretningsplan | `bakgrunn/2026-04-xx_forretningsplan.md` (finn korrekt filnavn) | Konsept, marked, økonomi |
+| Støtteoversikt for bank | `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` | Innvilgede tilskudd, juridisk grunnlag, grønt lån |
+| Juridisk utredning – tilskudd som EK | `leveranser/2026-06-26_tilskudd_som_egenkapital.md` | Rettsgrunnlag EBA/GL/2020/06 m.fl. |
+| Grønt lån – kriteriedokument | `leveranser/2026-06-26_groenne_laan_kriterier.md` | DNB/EU-kriterier og FG30-konklusjon |
+| Energikartleggingsrapport | `bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md` | 53 % reduksjon, energimerke D |
+| Arbeidsrapport (fysisk arbeid) | `leveranser/2026-04-20_fg30_arbeidsrapport.md` | Dokumentasjon på reelt pågående arbeid |
+
+**Før skriving:** Finn korrekt filnavn på forretningsplanen og sjekk om det finnes et finansieringsplan-dokument som bør med.
+
+**Tone:** Konkret og faktabasert. Ikke selgende. La dokumentasjonen tale for seg.
+
+**Leveranse:** `leveranser/YYYY-MM-DD_fg30_bankhenvendelse.md` (Pandoc-klar, kan konverteres til .docx)
+
 ---
 
 ### T32 `[ ]` Fisjon av KodeWorks Eiendom AS

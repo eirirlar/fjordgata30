@@ -135,13 +135,13 @@ Det norske minilager-markedet er i sterk vekst:
 
 | Aktør (lokasjon) | Pris/kvm/mnd | Differensiator |
 |------------------|-------------|----------------|
-| Trondheim Minilager (Ranheim) | ~100–120 kr | Størst; periferi |
-| Green Storage (Lade, Tiller, Fossegrenda) | ~120–140 kr | Kjede; klimastyrt |
-| Minilager1 (Ranheim) | 93–147 kr | Billigst; periferi |
-| ESP Lager (Sør/omegn) | 112–135 kr | Regional |
-| 123 Minilager (Solsiden) | n/a | Sentral; kontainer |
-| Utleiebod (Kobbes gate) | ~120–150 kr | Nær sentrum; 3m høyde |
-| **Fjordgata 30 (Sentrum/Bryggen)** | **220–265 kr** | **Full-service; historisk** |
+| Minilager1 (Ranheim) | 93–238 kr | Billigst; periferi |
+| ESP Lager (Leinstrand) | 112–135 kr | Regional; periferi |
+| Trondheim Minilager (Ranheim) | 150–333 kr | Størst lokalt; periferi; verifisert 26.06.2026 |
+| 123 Minilager (Solsiden) | 158–310 kr | Sentral; container utemperert; verifisert 26.06.2026 |
+| Utleiebod (Kobbes gate) | 286–399 kr | Gangavstand sentrum; 3m høyde; verifisert 26.06.2026 |
+| Green Storage (Lade, Tiller) | 613 kr+ | Kjede; klimastyrt; kun ett datapunkt |
+| **Fjordgata 30 (Sentrum/Bryggen)** | **220–265 kr** | **Full-service; historisk; prismål** |
 
 **FG30s konkurransefordeler:**
 
@@ -184,7 +184,7 @@ Prismål:
 - Full-service: 265 kr/kvm/mnd (3 180 kr/kvm/år)
 - Blandet gjennomsnitt (30/70-fordeling): **~3 000 kr/kvm/år**
 
-Prisnivået er premium ift. perifere konkurrenter (120–150 kr/kvm/mnd) og understøttes av sentral beliggenhet, full-service og historisk merkevare. Norsk gjennomsnitt i 2024 var €201/kvm/år (~2 300 NOK, kilde: Stortrack 2025); Trondheim sentrum med full-service bør ligge 30–35 % over dette.
+Prisnivået er premium ift. billigste perifere konkurrenter (Minilager1/ESP Lager: 93–159 kr/kvm/mnd), og konkurransedyktig ift. sentrale aktører: Utleiebod tar 286–399 kr/kvm/mnd, Trondheim Minilager (Ranheim) 150–333 kr/kvm/mnd for sammenlignbare enheter (verifisert 26.06.2026). Norsk gjennomsnitt 2024: €201/kvm/år (~2 300 NOK, Stortrack 2025); Trondheim sentrum med full-service bør ligge 30–35 % over dette.
 
 | Kategori | Antall | Selvbetjent (kr/mnd) | Full-service (kr/mnd) |
 |----------|--------|---------------------|----------------------|

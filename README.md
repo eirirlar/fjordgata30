@@ -297,6 +297,18 @@ før regresjon. Format:
 
 ---
 
+## Konkurranseanalyse
+
+```bash
+uv run python scripts/analyse_konkurrentpriser.py
+```
+
+Leser prisdata fra `data/konkurrent_priser.csv` og beregner vektet gjennomsnittspris (kr/kvm/mnd) per konkurrent, normert til FG30s typiske bodstørrelse (2,1 m²). Vektingen er Gaussisk – enheter nær 2,1 m² teller mest. Volumkorreksjoner anvendes for skrå tak og høy takhøyde. Skriver rapport til `data/konkurrent_analyse.md`.
+
+Parametere (Gaussisk bredde, volum-korreksjonsfaktorer) justeres i `data/comp_weights.conf`.
+
+---
+
 ## Generere forretningsplan som docx
 
 ```bash
@@ -328,9 +340,10 @@ fjordgata30/
 │   ├── calibrate_combined.py  – kombinert kalibrering, skriver weights_combined.json
 │   ├── build_scores.py        – beregner scores_total.csv
 │   ├── select_images.py       – velg beste bilder for en tidsperiode
+│   ├── analyse_konkurrentpriser.py – vektet konkurranseanalyse, skriver konkurrent_analyse.md
 │   ├── config.py              – leser config.json, eksponerer BILDER_DIR/PROCESSED_DIR/EXTRACTED_DIR
 │   └── scoring/               – moduler per metrikk (sharpness, exposure, brisque, musiq)
-├── data/                      – alle datafiler (scores + weights)
+├── data/                      – alle datafiler (scores + weights + konkurranseanalyse)
 │   ├── scores_auto.csv
 │   ├── scores_manual.csv
 │   ├── scores_ram.csv
@@ -338,7 +351,10 @@ fjordgata30/
 │   ├── scores_total.csv
 │   ├── weights_auto.json
 │   ├── weights_tags.json
-│   └── weights_combined.json
+│   ├── weights_combined.json
+│   ├── konkurrent_priser.csv        – prisdata per konkurrent (kilde + proveniensmetadata)
+│   ├── konkurrent_analyse.md        – generert rapport (analyse_konkurrentpriser.py)
+│   └── comp_weights.conf            – parametere for konkurranseanalysen (Gaussisk bredde, etc.)
 ├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter
 ├── brann/                     – branndokumentasjon og TBRT-korrespondanse
 ├── forretningsplan/           – forretningsplan, MVA-vurderinger og markedsdata

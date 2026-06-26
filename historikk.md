@@ -351,6 +351,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **24.06.2026** – **El-kartlegging:** Hermod Brandsegg og Vidar Skjetne (KMTE) gjennomfører elektrisk kartlegging av bygget. Funn: kabler til brannvarsler og strøm ligger side om side i 1. etasje – rivemannskap må sjekke nøye. Kabel merket «SKAL IKKE RIVES» i bakrommet til butikken. Strøm til 5. etasje allerede koblet ut i fordelingsskap i 2. etasje og merket «Koblet fra grunnet jordfeil»; kabel trukket ut og lagt oppå skapet. Vifter i 4. etasje regulert fra henholdsvis pokerklubben (venstre) og KodeWorks (høyre) – stikkontaktene er dedikerte og kan ikke brukes til annet. Plan for temporær byggstrøm (32A-boks i 1. og 2. etasje, Elektrikerpartner) utarbeides av Vidar Skjetne.[^72]
 
+**26.06.2026** – **Gjennomgang av støttemuligheter.** Samlet oversikt over kommende og potensielle støttesøknader utarbeidet. Eksisterende innvilgede tilskudd ~2,25 MNOK. Prioriterte nye søknader: Enova energioppgradering (~2,3 MNOK, høy sannsynlighet), KMF søknad 2+3 (~1,5 MNOK), BYA søknad 2+3 (~1,0 MNOK), UNI søknad 2 (~0,1 MNOK), Skattefunn over 3 år (~2,5 MNOK, middels). Riksantikvaren opplæring vurderes som middels-høy sannsynlighet etter anbefaling fra både KMF og BYA. Realistisk samlet støttepotensial: ~10 MNOK.[^76]
+
 ---
 
 ## Udokumenterte hendelser – mangler tilstrekkelig underlag
@@ -521,5 +523,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 [^74]: `bakgrunn/2024-04-29_tbrt_behov_brannsikring.md` – TBRTs støttebrev til søknad om tilskudd, 29.04.2024. Fra Morten Knutsen. Anbefaler tilskudd; fastslår at bygget ikke oppfyller brannforebyggingsforskriften §8 og at en brann kan spre seg til nabobrygger.
 
 [^75]: `bakgrunn/2026-01-23_byantikvaren_tilbakemelding_endring_rammesoeknad.md` – Byantikvarens formelle tilbakemelding til foreslått konseptendring, 23.01.2026. Fra Roy Åge Håpnes og Silje Taftø Petersen. Kopi til Byplankontoret og Byggesakskontoret. BYA fraråder minilager i 1. etasje (byliv, ny områdeplan §§ 5.1.2 og 4.2.2), ingen avgjørende innvendinger mot øvrige etasjer.
+
+[^76]: `bakgrunn/stotte/2026-06-26-fg30-stotte.md` – Samlet oversikt over kommende og potensielle støttesøknader for Fjordgata 30, utarbeidet 26.06.2026. Inkluderer prioritering, estimert støttebeløp og sannsynlighet for 9 ordninger. Realistisk samlet støttepotensial ~10 MNOK inkl. eksisterende innvilgede tilskudd.
 
 *Sist oppdatert: 26. juni 2026*
