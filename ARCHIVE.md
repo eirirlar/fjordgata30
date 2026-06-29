@@ -1506,3 +1506,137 @@ Samme situasjon som KMF (T19). Prosjektperioden for Byantikvaren-tilskuddet (500
 
 **Løst 2026-06-25:** Del 1 og Del 2 i `stotte/2026-06-25_bya_endringsmelding.md`. Løst sammen med T85. Del 1 søker forlengelse til 31.12.2026 med tre begrunnelser (kompleks bygg, konseptendring, myndighetsdialog). Del 2 melder konseptendring (kontor/innovasjonshub → minilager), bekrefter at støttede tiltak er uendret, argumenterer for at minilager er bevaringsmessig bedre, og bekrefter at natursteinsmuren vil stå synlig.
 ---
+
+---
+
+### T01 `[x]` Arbeidsrapport – Stiftelsen UNI
+**Mottaker:** Stiftelsen UNI (100 000 kr, ref UNI-38702)
+
+Tilskuddet gjelder brannsikring. Rapporten dokumenterer framdrift på brannsikringstiltak og plan for sprinkelanlegg og rømningsveier. Baserer seg på samme kildedokument og struktur som rapportene til Kulturminnefondet og Byantikvaren: `bakgrunn/2026-06-01_arbeidsbeskrivelse.md`, strukturmal `leveranser/2026-04-20_fg30_arbeidsrapport.md`.
+
+**Løst 2026-06-27.** Rapport levert. Se T95 for utbetalingsanmodning.
+
+---
+
+### T07 `[x]` Framdriftsrapport / redegjørelse – Trondheim Brannvesen / TBRT
+**Mottaker:** Trondheim Brannvesen / TBRT
+
+TBRT har ilagt dagbøter på 2 000 kr/dag, noe vi bestrider som lovstridig. Prosjektet har tatt tid fordi bygget er komplekst og økonomi har vært usikker. Nå er prosjektet konkret: rammesøknad levert 12. mai. Kommunikasjon mot TBRT skal:
+- Dokumentere konkret framdrift
+- Vise at prosjektet faktisk blir noe av
+- Argumentere for at dagbøter ikke bør løpe i mellomtiden (de vil ellers kunne velte prosjektøkonomien)
+
+**Løst 2026-06-27.**
+
+---
+
+### T16 `[x]` Legge inn bilder i rapporter
+Bilder skal inn i arbeidsrapport og evt. framdriftsrapporter.
+
+**Løst 2026-06-27.**
+
+---
+
+### T24 `[x]` Støtteoversikt til bank – komplett og underbygget versjon
+**Format:** Dokument egnet som bankvedlegg (se T09). Avhenger av T87 og T88.
+
+**Løst 2026-06-26 via T87, T88 og T89.** Leveranser:
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` – komplett støtteoversikt med rettede tall, juridisk grunnlag og grønt lån
+- `leveranser/2026-06-26_tilskudd_som_egenkapital.md` – juridisk utredning (T87)
+- `leveranser/2026-06-26_groenne_laan_kriterier.md` – grønt lån-kriterier (T88)
+
+**Subtasks:** T87 `[x]`, T88 `[x]`, T89 `[x]`
+
+---
+
+### T59 `[x]` Gjennomgå og innarbeid bakgrunnsfiler fra rot
+
+Fire filer er flyttet fra prosjektroten til `bakgrunn/nye/` for gjennomgang:
+
+| Fil | Innhold |
+|---|---|
+| `2026-04-16_ai_feedback.txt` | Tilbakemeldinger fra AI-verktøy brukt underveis i prosjektet |
+| `2026-04-16_arbeid_kristian.txt` | Arbeidslogg for Kristian Brandsegg |
+| `2026-04-16_arbeid_ole_morten.txt` | Arbeidslogg for Ole Morten Lagmannssveen |
+
+**Løst 2026-06-27.**
+
+---
+
+### T81 `[x]` Dokumenter hva som ble gjort med bygget på 1980-tallet
+
+Søk i bakgrunnsdokumentene etter informasjon om hva som faktisk ble gjort under rehabiliteringen etter brannen på 1980-tallet: hvilke tiltak, hvilke materialer, og hvem som utførte arbeidet. Funnene er relevante for å forstå dagens bæresystem (stålbæring, skråavstivere i 3. etasje, betongmur i fundamentering, strekkfisker/stålstag) og for å dokumentere byggets historikk korrekt i rapporter til KMF og Byantikvaren.
+
+**Relevante filer å søke i:** `historikk.md`, `bakgrunn/`-mappen generelt, særlig eiendomsinformasjon, matrikkelen og eventuelle byggesaksarkiver.
+
+**Løst 2026-06-27.** Opprettet `bakgrunn/2026-06-27_1980tall_rehabilitering.md`. Dokumenterer: brannårsak og gjenoppbygging 1980–1994, 6 konstruksjonstiltak (betongmur fundamentering, stålkonstruksjoner kjeller/1.etg, limtrekonstruksjon plan 0–1, stålplatekledd vestre langvegg, kryssavstivere stål 3.etg, strekkfisker/vaiere), tilstand per 2026, og relevans for KMF, RiB og TBRT.
+
+---
+
+### T83 `[x]` Sammendrag av ../stotte-prosjektet til bruk i stotte/
+
+Les `../stotte/`-repoet (CLAUDE.md, README.md, project_cards.json, project_cards_template.json, kravspek.txt, history-log.md) og lag et sammendrag i `stotte/2026-06-27_stotte_sammendrag.md`. Sammendraget skal forklare hva ../stotte er, filosofien bak støttekoordinering, kumuleringsprinsippet (70 %-tak), overlappshåndtering, og praktisk for FG30.
+
+**Løst 2026-06-27.** Opprettet `stotte/2026-06-27_stotte_sammendrag.md`. Forklarer: hva ../stotte er (Google Sheets-arbeidsbok + Python-referansemotor for 3 selskaper), datamodell (project_cards.json-format), støttekoordineringens filosofi, kumuleringsprinsippet (70 %-tak), overlappshåndtering, FG30s aktive ordninger (KMF 750k/30%, BYA 500k/30%, UNI 100k/5,6%, Enova KL 400k/50%, Enova OM 500k/50%), og praktisk veiledning.
+
+---
+
+### T87 `[x]` Hent inn lovverk: tilskudd som egenkapital overfor bank
+**Avhengighet:** Måtte løses før T89
+
+Bankfinansiering forutsetter at vi kan dokumentere at offentlige tilskudd teller som egenkapital (eller egenkapitallignende finansiering) i prosjektet.
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_tilskudd_som_egenkapital.md`. Dekker: Finansavtaleloven og EBA/GL/2020/06 (tilskudd inngår i LTV-vurdering), NRS 4 og regnskapsloven § 6-2 (tilskudd er utsatt inntekt, styrker EK-andelen), skatteloven § 14-42(3), bransjepraksis. Individuelle lovreferanser i `bakgrunn/lovverk/`.
+
+---
+
+### T88 `[x]` Hent inn regelverk: grønt prosjekt og grønne lån
+**Avhengighet:** Måtte løses før T89
+
+Energikartleggingsrapporten fra HRP (05.05.2026) viser at tiltakspakke T1 gir 53% energireduksjon og energimerke D. Prosjektet ønskes posisjonert som grønt overfor banken.
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_groenne_laan_kriterier.md`. Dekker: DNB Rammeverk V.5.1 (krav ≥ 30% energireduksjon og min. energimerke D), EU-taksonomiforordning (EU 2020/852), energimerkeforskriften og NS 3031:2025. FG30-konklusjon: T1-pakken (53% / energimerke D) oppfyller alle kriterier. G→D = 3 energimerkenivåers forbedring.
+
+---
+
+### T89 `[x]` Skriv ferdig støtteoversikt for bank
+**Avhengighet:** T87 og T88 måtte være løst
+
+Reskriv `stotte/2026-06-22_fg30_stoetteoversikt_bank.md` med rettede tall, juridisk grunnlag og grønt lån-seksjon.
+
+**Løst 2026-06-26.** Leveranse: `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md`. Rettelser: Enova energikartlegging 400 000 kr / ombrukskartlegging 500 000 kr (saksnr. 26/2548 og 26/2555), BYA dato 02.05.2025, UNI intensitet 5,6%, KMF og BYA reviderte budsjetter (2 500 000 / 1 666 667) med 30% intensitet. «70%-avtale»-kommentaren fjernet. Lagt til juridisk grunnlag (NRS 4, sktl. § 14-42(3), EBA/GL/2020/06) og grønt lån-seksjon (53% energireduksjon, energimerke D, kilde HRP-rapport 05.05.2026).
+
+---
+
+### T91 `[x]` Oppdater konkurrentpriser – full innhenting fra alle aktører
+
+Forretningsplanens konkurrentanalyse hadde ufullstendige og delvis feilaktige prisdata. Krevde grundig innhenting via WebFetch på alle aktørers URL-er.
+
+**Løst 26.06.2026.** Oppdaterte filer: `forretningsplan/kilde_markedsdata.md` og `forretningsplan/fg30_forretningsplan.md`. Funn: Trondheim Minilager faktisk 150–333 kr/kvm (ikke ~100–120 kr), Utleiebod 286–399 kr/kvm (ikke 120–150 kr), 123 Minilager fullstendig pristabell innhentet via bruker, Green Storage 403-feil fra WebFetch (kjent datapunkt 613 kr/kvm beholdt med merknad).
+
+---
+
+### T92 `[x]` Konkurranseanalyse med størrelsesvekting
+
+Vektet konkurranseanalyse relevant for FG30s faktiske boder (Micro ~1,7 m², Standard ~2,1 m², Medium+ ~2,9 m²). Bruk `data/konkurrent_priser.csv`.
+
+**Løst 26.06.2026.** Gaussian vekting (µ=2,1 m², σ=0,8 m²). Leveranser: `scripts/analyse_konkurrentpriser.py` + `data/konkurrent_analyse.md`. Autoritative resultater regenereres med `uv run python scripts/analyse_konkurrentpriser.py` – ikke rekonstruer manuelt. Gjeldende vektede kr/kvm/mnd: Minilager1 249, Trondheim Minilager 306, Green Storage 365, Utleiebod 365, Extra Minilager 412.
+
+---
+
+### T94 `[x]` Sorter ARCHIVE.md på task-ID
+
+`ARCHIVE.md` har tasks i tilfeldig rekkefølge. Sorter alle tasks numerisk stigende på T-nummer, identisk med regelen for `TASKS.md`. Bevar innholdet i hver task uendret – kun rekkefølgen endres.
+
+**Løst 2026-06-27.**
+
+---
+
+### T96 `[x]` Arbeidsrapport – Byantikvaren
+**Mottaker:** Byantikvaren (500 000 kr, saksnr 2025/5928)
+
+BYA er særlig opptatt av steinmuren i kjeller. Rapporten dokumenterer utført fysisk arbeid med antikvarisk relevans, adresserer steinmur-spørsmålet direkte (rammesøknaden foreslår bevaring med betong foran for bæring), og viser at antikvariske verdier ivaretas. Baserer seg på `bakgrunn/2026-06-01_arbeidsbeskrivelse.md`.
+
+Se T04 for utbetalingsanmodning.
+
+**Løst 2026-06-27.**

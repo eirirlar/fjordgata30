@@ -32,56 +32,49 @@ Den faktiske lovteksten lyder: *«utleie av oppbevaringsbokser»*. Bestemmelsen 
 - **Aktive lagringstjenester** (operatør håndterer varer, ingen fast enhet for kunden) → avgiftspliktig etter den alminnelige regelen i **mval. § 3-1**, *ikke* etter § 3-11 annet ledd bokstav e.
 - **Oppbevaringsbokser** (tradisjonelle, små, kan flyttes) → avgiftspliktig etter § 3-11 annet ledd bokstav e.
 
-Online: [lovdata.no/…/§3-11](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-11)  
-Nedlastet: `lover/mval_3-11_fast_eiendom.md` · `lover/prinsipputtalelse_2014_minilager.md`
+Online: [lovdata.no/…/§3-11](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-11)
 
 ---
 
 **§ 2-1 – Registreringsplikt:**
 Næringsdrivende med omsetning over 50 000 kr i en 12-månedersperiode skal registreres i MVA-registeret.
 
-Online: [lovdata.no/…/§2-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-1)  
-Nedlastet: `lover/mval_2-1_registreringsplikt.md`
+Online: [lovdata.no/…/§2-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-1)
 
 ---
 
 **§ 2-3 – Frivillig registrering:**
 Utleiere av bygg eller anlegg kan frivillig registrere seg i MVA-registeret for leie til virksomheter som driver avgiftspliktig aktivitet. Gir fradragsrett for inngående MVA på oppføring/rehabilitering. Gjelder ikke for leie til privatpersoner.
 
-Online: [lovdata.no/…/§2-3](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-3)  
-Nedlastet: `lover/mval_2-3_frivillig_registrering.md`
+Online: [lovdata.no/…/§2-3](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-3)
 
 ---
 
 **§ 8-1 – Fradragsrett (hovedregel):**
 Registrerte næringsdrivende kan fradragsføre inngående MVA på anskaffelser til bruk i avgiftspliktig virksomhet.
 
-Online: [lovdata.no/…/§8-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-1)  
-Nedlastet: `lover/mval_8-1_fradragsrett.md`
+Online: [lovdata.no/…/§8-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-1)
 
 ---
 
 **§ 8-2 – Forholdsmessig fradrag:**
 Ved blandet bruk (avgiftspliktig + avgiftsunntatt) fordeles fradraget forholdsmessig, typisk etter areal.
 
-Online: [lovdata.no/…/§8-2](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-2)  
-Nedlastet: `lover/mval_8-2_forholdsvis_fradrag.md`
+Online: [lovdata.no/…/§8-2](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-2)
 
 ---
 
 **§ 8-6 – Tilbakegående avgiftsoppgjør:**
 Registrert avgiftssubjekt kan kreve fradrag for inngående MVA på anskaffelser inntil 3 år før registrering. For fast eiendom (§ 9-1 annet ledd bokstav b) gjelder ingen 3-årsgrense. Frivillig registrerte utleiere: bygget må være leid ut innen 6 måneder etter fullføring for å få tilbakegående oppgjør (ellers justeres over 10 år).
 
-Online: [lovdata.no/…/§8-6](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-6)  
-Nedlastet: `lover/mval_8-6_tilbakegaende_avgiftsoppgjor.md`
+Online: [lovdata.no/…/§8-6](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-6)
 
 ---
 
 **§ 9-1 annet ledd bokstav b – Kapitalvare (fast eiendom):**
 Fast eiendom som har vært gjenstand for ny-, på- eller ombygging der inngående MVA på kostnadene utgjør minst 100 000 kr er en kapitalvare med 10-årig justeringsperiode.
 
-Online: [lovdata.no/…/§9-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-1)  
-Nedlastet: `lover/mval_9-1_kapitalvarer.md`
+Online: [lovdata.no/…/§9-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-1)
 
 ---
 
@@ -95,8 +88,7 @@ Online: [lovdata.no/…/§9-2](https://lovdata.no/dokument/NL/lov/2009-06-19-58/
 **§ 9-4 – Justeringsperioden (10 år for fast eiendom):**
 Justeringsperioden for fast eiendom er ti år fra fullføring (ferdigattest eller første gangs bruk). Justeringsbeløpet er 1/10 av total inngående MVA per år (§ 9-5).
 
-Online: [lovdata.no/…/§9-4](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-4) · [§9-5](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-5)  
-Nedlastet: `lover/mval_9-4_justeringsperiode.md` (inneholder også § 9-5)
+Online: [lovdata.no/…/§9-4](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-4) · [§9-5](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-5)
 
 ---
 
@@ -114,8 +106,7 @@ Nedlastet: `lover/mval_9-4_justeringsperiode.md` (inneholder også § 9-5)
 
 **Nøkkelprinsipp:** *Passivt arealdisponering = fast eiendom = avgiftsunntatt*
 
-Online: [skatteetaten.no – prinsipputtalelse 18.11.2014](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--2-1-jf.--3-11-forste-ledd-og--3-11-annet-ledd-bokstav-e---sporsmal-om-avgiftsplikt-for-utleie-av-lagerromminilager--skattedirektoratets-brev-av-18.11.2014/)  
-Nedlastet: `lover/prinsipputtalelse_2014_minilager.md` · `lover/prinsipputtalelse_2014_minilager_tekst.txt`
+Online: [skatteetaten.no – prinsipputtalelse 18.11.2014](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--2-1-jf.--3-11-forste-ledd-og--3-11-annet-ledd-bokstav-e---sporsmal-om-avgiftsplikt-for-utleie-av-lagerromminilager--skattedirektoratets-brev-av-18.11.2014/)
 
 ---
 
@@ -149,8 +140,7 @@ Nøkkelpunkter:
 
 **Analogien til minilager:** Dersom en minilager-operatør aktivt overvåker, klimakontrollerer, fotograferer, registrerer og administrerer kundens inventar som en løpende tjeneste, tilsier dette avgiftspliktig tjeneste fremfor avgiftsunntatt leie.
 
-Online: [skatteetaten.no – Skatteklagenemnda datasenter](https://www.skatteetaten.no/rettskilder/type/vedtak/skatteklagenemnda/mva-behandling-ved-omsetning-av-datasenterdriftstjenester-til-utenlandske-kunder/)  
-Nedlastet: `lover/skatteklagenemnda_datasenter_2020.md`
+Online: [skatteetaten.no – Skatteklagenemnda datasenter](https://www.skatteetaten.no/rettskilder/type/vedtak/skatteklagenemnda/mva-behandling-ved-omsetning-av-datasenterdriftstjenester-til-utenlandske-kunder/)
 
 ---
 
@@ -234,18 +224,3 @@ Dersom FG30 opererer som en **aktiv lagringstjeneste** (jf. avsnitt 2.2 over) fr
 | Prinsipputtalelse minilager 2014 | [skatteetaten.no – uttalelse 18.11.2014](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--2-1-jf.--3-11-forste-ledd-og--3-11-annet-ledd-bokstav-e---sporsmal-om-avgiftsplikt-for-utleie-av-lagerromminilager--skattedirektoratets-brev-av-18.11.2014/) |
 | Skatteklagenemnda – datasenter 2020 | [skatteetaten.no – SKNS1-2020-134](https://www.skatteetaten.no/rettskilder/type/vedtak/skatteklagenemnda/mva-behandling-ved-omsetning-av-datasenterdriftstjenester-til-utenlandske-kunder/) |
 
-### Nedlastede filer – `lover/`
-
-| Fil | Innhold |
-|---|---|
-| `lover/mval_2-1_registreringsplikt.md` | § 2-1 lovtekst + kommentar |
-| `lover/mval_2-3_frivillig_registrering.md` | § 2-3 lovtekst + vilkår |
-| `lover/mval_3-11_fast_eiendom.md` | § 3-11 lovtekst + skillet utleie vs. tjeneste |
-| `lover/mval_8-1_fradragsrett.md` | § 8-1 lovtekst + fradragsprinsipp |
-| `lover/mval_8-2_forholdsvis_fradrag.md` | § 8-2 lovtekst + fordelingsmetode |
-| `lover/mval_8-6_tilbakegaende_avgiftsoppgjor.md` | § 8-6 lovtekst + 6-månedersregelen |
-| `lover/mval_9-1_kapitalvarer.md` | §§ 9-1, 9-2, 9-4, 9-5 lovtekst + FG30-relevans |
-| `lover/mval_9-4_justeringsperiode.md` | § 9-4 og § 9-5 lovtekst + justeringseksempel |
-| `lover/prinsipputtalelse_2014_minilager.md` | Sammendrag av Skattedirektoratets brev 18.11.2014 |
-| `lover/prinsipputtalelse_2014_minilager_tekst.txt` | Verbatim tekst fra prinsipputtalelsen |
-| `lover/skatteklagenemnda_datasenter_2020.md` | SKNS1-2020-134 sammendrag og analogi til minilager |

@@ -10,13 +10,13 @@
 
 | Parameter | Krav | FG30 – T1-pakken | Oppfylt? |
 |---|---|---|---|
-| DNB grønt lån – energiforbedring | ≥ 30 % | **53 %** | **JA** |
+| DNB grønt lån – energiforbedring (mot referansebygg / opprinnelig ytelse) | ≥ 30 % | **53 % / 34 %** | **JA** |
 | DNB grønt lån – energimerke etter tiltak | Minimum D | **D** | **JA** |
 | EU-taksonomiforordning – PED-reduksjon | ≥ 30 % | **53 %** | **JA** |
 | SpareBank 1 / norsk bankpraksis | ≥ 30 % eller +2 energimerkenivåer | **53 % / G→D (+3 nivåer)** | **JA** |
 | BREEAM-sertifisering | Ikke obligatorisk for lager | – | N/A |
 
-Fjordgata 30 kvalifiserer til **grønt lån** etter alle relevante norske bankrammeverk ved gjennomføring av tiltakspakke T1. Prosjektet oppfyller også EU-taksonomiforordningens tekniske screeningkriterier for byggrehabilitering.
+Fjordgata 30 kvalifiserer til **grønt lån** etter alle relevante norske bankrammeverk ved gjennomføring av tiltakspakke T1. Prosjektet oppfyller også EU-taksonomiforordningens tekniske screeningkriterier for byggrehabilitering. HRP-rapporten oppgir to ulike reduksjonstall (53 % mot referansebygg etter ombygging, 34 % mot opprinnelig ytelse); begge overstiger 30 %-kravet. Se seksjon 1.4 for en utdypning, inkludert byggets overgang fra delvis til full drift.
 
 ---
 
@@ -51,15 +51,34 @@ For **rehabilitering av eksisterende næringseiendom** gjelder følgende kriteri
 
 Fra HRP-rapport 05.05.2026, avsnitt 5.2 (Tiltakspakker og påvirkning på energimerket):
 
-| Tiltakspakke | Energireduksjon | Energimerke | DNB krav | Status |
+| Tiltakspakke | Energireduksjon (mot referansebygg) | Energimerke | DNB krav | Status |
 |---|---:|---|---|---|
 | T1 (etterisolering, tetting, vinduer/porter, ventilasjon m/VGV) | **53 %** | **D** | ≥ 30 %, min. D | **Oppfylt** |
 | T2 (T1 + varmepumpe, belysning) | 56 % | C | ≥ 30 %, min. D | Oppfylt |
 | T3 (T1 + fjernvarme, belysning) | 52 % | C | ≥ 30 %, min. D | Oppfylt |
 
-Alle tre tiltakspakkene kvalifiserer. T1 er minimumsalternativet og er den anbefalte pakken fra HRP.
+Alle tre tiltakspakkene kvalifiserer. T1 er minimumsalternativet og er den anbefalte pakken fra HRP. Tallene i tabellen er HRPs reduksjonstall mot referansebygg etter ombygging. Tilsvarende reduksjon mot byggets opprinnelige ytelse er 34 % for T1 – også over DNB-kravet. Se seksjon 1.4 for utdypning av basisvalg og byggets overgang fra delvis til full drift.
 
 Energimerkeoppgradering: nå-tilstand G → T1 gir D = **tre nivåers forbedring** (G→F→E→D). Dette overstiger kravet om to nivåer.
+
+### 1.4 Beregningsbasis – flere reduksjonstall i HRP-rapporten
+
+HRP-rapporten oppgir to ulike reduksjonstall i forskjellige avsnitt. Begge er korrekte hver for seg og oppfyller DNBs 30 %-krav uavhengig av valgt basis, men det er nyttig for bankens vurdering å forstå hva hvert tall representerer:
+
+| Reduksjonstall | Basis | Kilde i HRP-rapport |
+|---:|---|---|
+| **53 %** | Mot referansebygg etter ombygging (427 000 → ~200 500 kWh/år) | Avsnitt 3 og 5.1 |
+| **34 %** | Mot byggets opprinnelige energiytelse, energimerke G → D | Avsnitt 5.3.1 |
+
+I tillegg gir bygningens overgang fra delvis bruk til full drift en utvidet kontekst som banken kan ta inn i sin vurdering:
+
+- I dag er kun ca. 1 000 m² av byggets ~2 655 m² i aktiv bruk (energikrevende oppvarming i 1. etasje og deler av 2. etasje; resten står tilnærmet uoppvarmet og uten lys). Dette gir et spesifikt energibruk på 256 kWh/m² (energimerke G) basert på det aktivt brukte arealet.
+- Etter rehabilitering vil hele bygget på 2 655 m² være i drift med et spesifikt energibruk på ca. 75 kWh/m² (energimerke D).
+- Per aktivt brukt kvm er den faktiske energireduksjonen ~71 % (256 → 75 kWh/m²) – selv om absolutt energibruk reduseres bare moderat fordi nye arealer kommer i bruk.
+
+Bygget endrer altså karakter fra delvis brukt til fullt rehabilitert i drift, og en strikt kWh/m²-sammenligning mellom de to tilstandene er ikke epler-mot-epler. T1-pakkens kvalifikasjon til grønt lån står uavhengig av hvilken av de tre basisene man bruker, da alle overstiger DNB-/EU-taksonomi-kravet på 30 %. Banken kan utvise skjønn på hvilken som er mest relevant for kredittvurderingen.
+
+**Merknad:** HRP er bedt om å komplettere rapportens presentasjon av disse basisene (areal-betraktning, eksplisitt kWh/m² i flere snitt, samletabell mot DNB-/EU-krav). Den oppdaterte presentasjons-versjonen ettersendes som tillegg til bankpakka. Kjernekonklusjonen – at T1 oppfyller grønt lån-kriteriene – er uendret og kan vurderes av banken på grunnlag av HRP-rapporten 05.05.2026 som vedlagt.
 
 ---
 
@@ -161,7 +180,7 @@ Disse kravene gjelder primært for **nybygg** og store kommersielle kontorprosje
 BREEAM-sertifisering er **ikke obligatorisk** for Fjordgata 30 som minilager, av følgende grunner:
 
 1. **Segment:** Minilager faller ikke under de segmentene der DNB stiller absolutte BREEAM-krav
-2. **Byggets karakter:** Verneklasse B-bygg fra 1857 – BREEAM-prosessen vil kollidere med antikvariske krav og er uforholdsmessig ressurskrevende for et historisk bygg
+2. **Byggets karakter:** Verneklasse C-bygg fra 1857 – BREEAM-prosessen vil kollidere med antikvariske krav og er uforholdsmessig ressurskrevende for et historisk bygg
 3. **Alternativt grunnlag:** 30 %-kriteriet fra DNBs rammeverk og energimerke D er tilstrekkelig for grønt lån uten BREEAM
 
 BREEAM-NOR In-Use kan vurderes etter rehabilitering er fullført, dersom det ønskes en sertifisering for markedsføring eller fremtidig refinansiering. Dette er en separat vurdering og ikke en forutsetning for grønt lån i rehabiliteringsfasen.
@@ -200,12 +219,16 @@ Fjordgata 30 kvalifiserer til **grønt lån** fra norske banker ved gjennomføri
 
 | Kriterium | Krav | Oppnådd (T1) | Status |
 |---|---|---|---|
-| Energireduksjon | ≥ 30 % (DNB, SpareBank 1, bankpraksis) | 53 % | ✓ |
-| Energireduksjon | ≥ 30 % PED (EU-taksonomi art. 7.2) | 53 % | ✓ |
+| Energireduksjon mot referansebygg | ≥ 30 % (DNB, SpareBank 1, bankpraksis) | 53 % | ✓ |
+| Energireduksjon mot opprinnelig ytelse (G→D) | ≥ 30 % | 34 % | ✓ |
+| Energireduksjon per aktivt brukt kvm (informativt) | – | ~71 % | – |
+| Energireduksjon PED | ≥ 30 % (EU-taksonomi art. 7.2) | 53 % | ✓ |
 | Energimerke etter tiltak | Min. D | D | ✓ |
 | Energimerkeoppgradering | Min. 2 nivåer | G → D (3 nivåer) | ✓ |
 | BREEAM | Ikke obligatorisk for minilager | N/A | N/A |
 | Beregningsstandard | NS 3031:2025 | NS 3031:2025 (Simien Pro) | ✓ |
+
+Jf. seksjon 1.4: Bygget endrer karakter fra delvis brukt (~1 000 m² aktivt i dag) til fullt rehabilitert i drift (2 655 m² etter tiltak). T1 oppfyller 30 %-kravet i alle relevante basiser; banken kan utvise skjønn på hvilken som er mest informativ for kredittvurderingen.
 
 ### 6.2 Potensial for ytterligere Enova-støtte
 
@@ -241,4 +264,4 @@ For å dokumentere kvalifisering overfor bank:
 
 ---
 
-*Dette dokumentet er utarbeidet som faglig grunnlag for T89 (støtteoversikt for bank) og T24 (bankfinansiering). HRP-tallene er hentet direkte fra energikartleggingsrapporten (05.05.2026). EU-taksonomivurderingen bør bekreftes av ESG-rådgiver ved formell bankdialog.*
+*HRP-tallene er hentet direkte fra energikartleggingsrapporten (05.05.2026). EU-taksonomivurderingen bør bekreftes av ESG-rådgiver ved formell bankdialog.*

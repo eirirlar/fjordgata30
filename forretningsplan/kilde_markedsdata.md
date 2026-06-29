@@ -1,6 +1,6 @@
 # Markedsdata – Minilager Trondheim og Norge
 
-*Kilde-notat for forretningsplan. Innsamlet 23. juni 2026. Oppdatert med prisdata 26. juni 2026 (T91).*
+*Kilde-notat for forretningsplan. Innsamlet 23. juni 2026. Oppdatert med prisdata 26. juni 2026.*
 
 ---
 
@@ -180,7 +180,7 @@
 | Utleiebod (Kobbes gate) | 286 | 399 | Verifisert 26.06.2026 |
 | Green Storage (Lade) | 613+ | n/a | Datapunkt fra prosjektleder; ikke verifisert |
 | Markedsbenchmark NO | – | – | ~120–140 kr (Stortrack 2025) |
-| **Fjordgata 30 (Bryggen) – prismål** | **220** | **265** | **Selvbetjent / full-service** |
+| **Fjordgata 30 (Bryggen) – prismål** | **300** | **360** | **Selvbetjent / full-service, launch år 1–2. Stabilisert år 3+: 350/420 kr** |
 
 **Posisjoneringsanalyse (kr/kvm/mnd):**
 - Under 100: Priskrig/utklassering
@@ -230,7 +230,7 @@ FG30 er den **eneste bryggebygningen i Trondheim med direkte tilgang fra Nidelve
 
 **Markeds-argument:** Alle som leier båtplass langs Nidelven har i dag tilnærmet null lagringsplass i tilknytning til båtplassen. FG30 er naturlig nærliggende lagring for:
 - Motorer, redningsvester, sejl, fiskeutstyr
-- Kajakker og kanoer (spesialareal 204 kvm i 1. etg passer perfekt)
+- Kajakker og kanoer (krypkjeller ~152 kvm i kjeller passer perfekt med direkte Nidelv-tilknytning)
 - Vinterlagring av båtutstyr
 
 **Etterspørsel bekreftet:** FG30 har allerede mottatt uformelle forespørsler om fortrinnsrett fra båteiere langs Nidelven.

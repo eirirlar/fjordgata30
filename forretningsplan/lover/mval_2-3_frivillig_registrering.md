@@ -38,7 +38,7 @@ Beløpsgrensene i § 2-1 gjelder tilsvarende.
 
 **§ 2-3 første ledd** er grunnlaget for frivillig MVA-registrering for utleie til næringsdrivende. Vilkåret i bokstav **a)** er at leietaker er registrert i MVA-registeret og bruker lokalene i avgiftspliktig virksomhet.
 
-- Kontorlokaler (190 kvm): Kan frivillig registreres ved utleie til næringslivet
+- Kontorlokaler (193 kvm): Kan frivillig registreres ved utleie til næringslivet
 - B2B-lagerboder: Kan frivillig registreres dersom leietaker bruker lokalene i avgiftspliktig virksomhet
 
 Frivillig registrering gir utleier fradragsrett for inngående MVA på anskaffelser til utleievirksomheten (jf. § 8-1 og § 8-6 om tilbakegående avgiftsoppgjør).

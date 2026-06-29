@@ -1,10 +1,5 @@
 # Fjordgata 30 – Selskapsstruktur og MVA: Bygge-AS vs. drifts-AS
 
-*Arbeidsnotat. Ikke juridisk rådgivning. Skal gjennomgås med MVA-spesialist og advokat.*
-*Utarbeidet 23. juni 2026. Avhenger av T32 (fisjon av KodeWorks Eiendom AS).*
-
----
-
 ## 1. Bakgrunn og problemstilling
 
 Etter planlagt fisjon (T32) vil **Fjordgata 30 AS** eie eiendommen og stå som byggherre for rehabiliteringen. Spørsmålet er om minilagerdriften bør legges i:

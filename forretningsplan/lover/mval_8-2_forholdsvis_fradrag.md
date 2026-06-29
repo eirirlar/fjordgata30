@@ -19,7 +19,7 @@ Når anskaffelser bare delvis brukes i registrert virksomhet, har avgiftssubjekt
 Ved blandet bruk av bygget (delvis avgiftspliktig, delvis avgiftsunntatt) skal fradraget fordeles. Den vanligste fordelingsnøkkelen for fast eiendom er **areal** (kvm avgiftspliktig areal ÷ totalt areal).
 
 **Eksempel for FG30 (hybridmodell):**
-- Avgiftspliktig areal: 190 kvm kontor (frivillig reg.) + 756 kvm full-service (lagringstjeneste) = 946 kvm
+- Avgiftspliktig areal: 193 kvm kontor (frivillig reg.) + 756 kvm full-service (lagringstjeneste) = 946 kvm
 - Avgiftsunntatt areal: 324 kvm selvbetjent B2B uten frivillig reg. (dersom noen er uten)
 - Total: 1270 kvm
 - Fradragsprosent: 946/1270 = 74 %

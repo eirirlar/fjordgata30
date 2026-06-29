@@ -1,18 +1,14 @@
 # Fjordgata 30 – MVA-strategi: Vurderinger og rationale
 
-*Arbeidsnotat. Ikke juridisk rådgivning. Skal gjennomgås med MVA-spesialist.*
-*Utarbeidet 23. juni 2026.*
-
----
 
 ## 1. Problemstilling
 
-KodeWorks Eiendom AS rehabiliterer Fjordgata 30 til minilager. Rehabiliteringen er en stor investering (anslått 20–35 MNOK i byggekostnader). MVA på byggekostnadene utgjør 25 %, potensielt 5–9 MNOK.
+KodeWorks Eiendom AS rehabiliterer Fjordgata 30 til minilager. Rehabiliteringen er en stor investering (anslått 30 MNOK i byggekostnader). MVA på byggekostnadene utgjør 25 %, totalt 7,5 MNOK.
 
 **Kjerneproblemet:**
 - Standard minilager (passiv utleie) er *unntatt* MVA (mval. § 3-11 første ledd)
 - Unntatt MVA → ingen fradragsrett for inngående MVA på byggekostnader
-- Tap: 5–9 MNOK i ikke-refunderbar MVA
+- Tap: 7,5 MNOK i ikke-refunderbar MVA
 
 **Ambisjonen:**
 Finne en lovlig, robust og genuin forretningsmodell som gjør at virksomheten er *avgiftspliktig*, slik at:
@@ -33,7 +29,7 @@ Utleie av fast eiendom (inkludert lagerrom og minilager) er *unntatt* fra MVA et
 
 ### 2.2 Frivillig registrering (mval. § 2-3)
 
-Utleier av bygg/anlegg KAN registrere seg frivillig i MVA-registeret for leie til avgiftsregistrerte næringsdrivende. Se `lover/mval_2-3_frivillig_registrering.md`. Vilkår:
+Utleier av bygg/anlegg KAN registrere seg frivillig i MVA-registeret for leie til avgiftsregistrerte næringsdrivende, jf. [mval. § 2-3](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-3). Vilkår:
 - Leietaker er registrert i MVA-registeret
 - Leietaker bruker lokalene i sin avgiftspliktige virksomhet
 - Utleier fakturerer 25 % MVA på leien
@@ -43,7 +39,7 @@ Utleier av bygg/anlegg KAN registrere seg frivillig i MVA-registeret for leie ti
 
 ### 2.3 Aktiv lagringstjeneste (mval. § 3-1 – alminnelig avgiftsplikt)
 
-Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den *utenfor* eiendomsunntaket i § 3-11 første ledd og er fullt ut avgiftspliktig etter den alminnelige regelen i **§ 3-1**. Merk: § 3-11 annet ledd bokstav e gjelder spesifikt «utleie av oppbevaringsbokser» (tradisjonelle, typisk små bokser), ikke aktive lagringstjenester. Se `lover/mval_3-11_fast_eiendom.md` og `lover/prinsipputtalelse_2014_minilager.md`. Kjennetegn på aktiv tjeneste:
+Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den *utenfor* eiendomsunntaket i [mval. § 3-11](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-11) første ledd og er fullt ut avgiftspliktig etter den alminnelige regelen i [mval. § 3-1](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-1). Merk: § 3-11 annet ledd bokstav e gjelder spesifikt «utleie av oppbevaringsbokser» (tradisjonelle, typisk små bokser), ikke aktive lagringstjenester. Skillet er bekreftet i Skattedirektoratets prinsipputtalelse av 18. juni 2014 om utleie av lagerlokaler. Kjennetegn på aktiv tjeneste:
 - Operatør mottar, håndterer, registrerer varene
 - Kunden har ikke eksklusiv råderett over et bestemt areal
 - Operatøren plukker frem og leverer varer på bestilling
@@ -63,7 +59,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 
 **MVA-fradrag i byggefasen:**
 - Kun for den andelen som er frivillig registrert (bedriftskunder som bruker lokalene i avgiftspliktig virksomhet)
-- Anslår vi 30 % bedriftskunder → 30 % fradrag → ~1,5–2,7 MNOK av estimert 5–9 MNOK MVA
+- Anslår vi 30 % bedriftskunder → 30 % fradrag → ~2,25 MNOK av 7,5 MNOK MVA
 
 **Fordeler:**
 - Enklest å operere
@@ -87,7 +83,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 
 **MVA-fradrag i byggefasen:**
 - Dersom 70–80 % leies til avgiftsregistrerte bedrifter → 70–80 % fradrag
-- Estimat: 3,5–7,2 MNOK av estimert 5–9 MNOK MVA
+- Estimat: 5,25–6,0 MNOK av 7,5 MNOK MVA
 
 **Fordeler:**
 - Robust juridisk grunnlag (velprøvd modell)
@@ -114,7 +110,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 **Juridisk grunnlag:** Basert på Skattedirektoratets 2014-uttalelse (motsatt: en aktiv modell der operatør håndterer varer = avgiftspliktig). Dessuten analogt med datasenter-saken (Skatteklagenemnda 2020): kombinert tjenesteleveranse med løpende aktiv komponent = avgiftspliktig.
 
 **Fordeler:**
-- Full MVA-dekning → 5–9 MNOK i fradrag
+- Full MVA-dekning → 7,5 MNOK i fradrag
 - Unik differensiering i Trondheims-markedet
 - Høyere prisnivå enn standard selvbetjening (20–35 % premium)
 - Ingen lokal konkurrent tilbyr dette per i dag
@@ -124,7 +120,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 - Høyere driftskostnader
 - Krever juridisk avklaring (BFU anbefales)
 
-**Om juridisk risiko:** Vinden opererer denne modellen i Norge i dag (8 000+ kunder, 75 000+ hentinger/leveringer) – noe som sterkt indikerer at norske skattemyndigheter aksepterer aktiv lagringstjeneste som avgiftspliktig. Se `fg30_konkurrentanalyse_valet.md`.
+**Om juridisk risiko:** Vinden opererer denne modellen i Norge i dag (8 000+ kunder, 75 000+ hentinger/leveringer) – noe som sterkt indikerer at norske skattemyndigheter aksepterer aktiv lagringstjeneste som avgiftspliktig.
 
 **Anbefaling:** Sterkeste scenario for MVA-fradrag. Forutsetter BFU og reell operasjonell implementering fra dag én – men modellen er bevist gjennomførbar i det norske markedet.
 
@@ -146,7 +142,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 - Alle kunder kan velge dette (inkl. private)
 
 **Areal-allokering:**
-- Kontorarealer (190 kvm): Frivillig registrering næring
+- Kontorarealer (193 kvm): Frivillig registrering næring
 - Lagerboder utleid til bedrifter direkte (estimert 30 %): Frivillig registrering
 - Full-service enheter (estimert 70 %): Avgiftspliktig lagringstjeneste
 
@@ -192,7 +188,8 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 - Prisen er per volum/gjenstand, ikke per areal
 - Modellen er identisk med varehuslogistikk (som er avgiftspliktig)
 
-**Referanser:** Se detaljert gjennomgang i `fg30_konkurrentanalyse_valet.md`.
+**Internasjonale og nordiske referanser for modellen:**
+
 - **Vinden (Sverige/Norge):** Fullservice valet storage med henting/levering. Opererer i Norge med 8 000+ kunder. Ingen fast bod – volumbasert pris. Kunden administrerer via app. Identisk med Alternativ C.
 - **Box2Box (Spania/Portugal/Mexico):** Henting, profesjonell pakking, digital inventarliste, levering på bestilling. Fra €58/mnd. Opererer ikke i Norden.
 - **Stash Storage (USA):** Boks-basert: leverer bokser til kunden, henter, katalogiserer med QR-kode, leverer innen 24–48t. Regional aktør (NC/SC).
@@ -227,7 +224,7 @@ Uavhengig av C eller D:
 - Etabler genuint hente-/leveringstilbud (bil, sjåfør, booking-system)
 
 ### Fase 2 (Stabilisering, år 2–4): Alternativ E
-- Bygg digital plattform (kundeportal, app, barcode-system) – se `stotte/fg30_skattefunn_vurdering.md` og `stotte/fg30_innovasjon_norge_vurdering.md`
+- Bygg digital plattform (kundeportal, app, barcode-system)
 - Ekspander hente-/leveringstjenesten
 - Etabler partnerskap med flyttebyrå / budtjeneste i Trondheim
 - Mål: Full «lagringstjeneste»-klassifisering for > 80 % av omsetningen
@@ -255,17 +252,17 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 
 ## 6. Kvantifisering av MVA-effekten
 
-*Antagelser: Total rehabiliteringskostnad 25 MNOK eks. MVA, 25 % MVA = 6,25 MNOK input-MVA.*
+*Antagelser: Total rehabiliteringskostnad 30 MNOK eks. MVA, 25 % MVA = 7,5 MNOK input-MVA.*
 
 | Alternativ | MVA-dekning (%) | Fradrag (NOK) |
 |-----------|-----------------|---------------|
 | A – Ren selvbetjent, ingen reg. | 0 % | 0 |
-| A – Selvbetjent, 30 % B2B | 30 % | 1 875 000 |
-| B – B2B-fokus, 70 % næring | 70 % | 4 375 000 |
-| D – Hybrid | 90–95 % | 5 625 000–5 938 000 |
-| C/E – Full lagringstjeneste | 100 % | 6 250 000 |
+| A – Selvbetjent, 30 % B2B | 30 % | 2 250 000 |
+| B – B2B-fokus, 70 % næring | 70 % | 5 250 000 |
+| D – Hybrid | 90–95 % | 6 750 000–7 125 000 |
+| C/E – Full lagringstjeneste | 100 % | 7 500 000 |
 
-**Differansen mellom ingen registrering og full dekning: 6,25 MNOK.**
+**Differansen mellom ingen registrering og full dekning: 7,5 MNOK.**
 
 *Med Tilbakegående avgiftsoppgjør (§ 8-6) kreves at anlegget tas i bruk/leies ut innen 6 mnd etter ferdigstillelse. Ellers justeres over 10 år.*
 
@@ -275,7 +272,39 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 
 | Risiko | Sannsynlighet | Konsekvens | Mitigering |
 |--------|---------------|------------|------------|
-| Skatteetaten omklassifiserer full-service til passiv utleie | Middels | Høy (tilbakebetaling + tilleggsavgift) | BFU, reell operasjon, advokatdokumentasjon |
+| Skatteetaten omklassifiserer full-service til passiv utleie | Lav | Høy (tilbakebetaling + tilleggsavgift) | BFU, reell operasjon, advokatdokumentasjon |
 | Utilstrekkelig B2B andel for frivillig registrering | Lav | Middels | Aktivt B2B-salg, kontrakter |
 | Endring i regelverket | Lav | Middels | Følg med på Skatteetaten + fagpresse |
 | 10-årig justeringsrisiko ved bruksendring | Lav | Høy | Ikke endre formål; dokumenter bruk løpende |
+
+---
+
+## 8. Lovhenvisninger og kilder
+
+### Lovdata – merverdiavgiftsloven (LOV-2009-06-19-58)
+
+| Paragraf | Tema | Lenke |
+|---|---|---|
+| § 2-1 | Registreringsplikt | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-1) |
+| § 2-3 | Frivillig registrering | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§2-3) |
+| § 3-1 | Alminnelig avgiftsplikt | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-1) |
+| § 3-11 | Unntak for fast eiendom | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§3-11) |
+| § 8-1 | Fradragsrett | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-1) |
+| § 8-2 | Forholdsmessig fradrag | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-2) |
+| § 8-6 | Tilbakegående avgiftsoppgjør | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§8-6) |
+| § 9-1 | Kapitalvarer (fast eiendom) | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-1) |
+| § 9-2 | Overdragelse av justeringsplikt | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-2) |
+| § 9-4 | Justeringsperioden (10 år) | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-4) |
+| § 9-5 | Justeringsbeløpet | [lovdata.no](https://lovdata.no/dokument/NL/lov/2009-06-19-58/§9-5) |
+
+### Skatteetaten – prinsipputtalelser og praksis
+
+| Referanse | Tema | Lenke |
+|---|---|---|
+| Skattedirektoratets brev 18.11.2014 | Avgiftsplikt utleie av lagerrom/minilager | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/uttalelser/prinsipputtalelser/merverdiavgiftsloven--2-1-jf.--3-11-forste-ledd-og--3-11-annet-ledd-bokstav-e---sporsmal-om-avgiftsplikt-for-utleie-av-lagerromminilager--skattedirektoratets-brev-av-18.11.2014/) |
+| Skatteklagenemnda SKNS1-2020-134 | Datasenterdriftstjenester – aktiv tjeneste vs. passiv arealdisponering | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/vedtak/skatteklagenemnda/mva-behandling-ved-omsetning-av-datasenterdriftstjenester-til-utenlandske-kunder/) |
+| KMVA 8785 | Frivillighetsregistrering – tilbakeføring av fradragsført MVA | søk på [lovdata.no](https://lovdata.no) |
+| MVA-håndbok M-3-11 | Tolkning av § 3-11 (fast eiendom) | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/handboker/merverdiavgiftshandboken/gjeldende/M-3/M-3-11/) |
+| MVA-håndbok M-2-3 | Tolkning av § 2-3 (frivillig reg.) | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/handboker/merverdiavgiftshandboken/gjeldende/M-2/M-2-3/) |
+| MVA-håndbok M-8-6 | Tolkning av § 8-6 (tilbakegående avgiftsoppgjør) | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/handboker/merverdiavgiftshandboken/gjeldende/M-8/M-8-6/) |
+| MVA-håndbok kapittel 9 | Justeringsbestemmelser | [skatteetaten.no](https://www.skatteetaten.no/rettskilder/type/handboker/merverdiavgiftshandboken/gjeldende/M-9/) |

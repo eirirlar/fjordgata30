@@ -32,7 +32,7 @@ For prosjektfinansiering av næringseiendom er det altså bankenes egne retnings
 **§ 13-5** pålegger banker å fastsette interne retningslinjer som sikrer forsvarlig kredittvurdering. Bankenes kredittmanualer for næringseiendom konkretiserer dette. I praksis innebærer «forsvarlig utlånspraksis» ved prosjektfinansiering normalt:
 
 - Egenkapitalandel fra eier: 30–40 % av totalinvestering
-- Bevilgede offentlige tilskudd med bindende vedtak: anerkjennes som ekvivalent til egenkapital
+- Bevilgede offentlige tilskudd med bindende vedtak: kan tas i betraktning som reduksjon i nettoeksponering
 - Restfinansiering: lån med pant i eiendommen
 
 ### 1.3 EBA-retningslinjer for utlånsinitiering og -overvåking (EBA/GL/2020/06)
@@ -41,7 +41,7 @@ EBAs retningslinjer («Guidelines on loan origination and monitoring», EBA/GL/2
 
 - **Avsnitt 5.2 (Kredittvurdering):** Bankene skal kartlegge alle finansieringskilder ved kredittvurderingen, inkludert offentlige tilskudd og støttemidler.
 - **Avsnitt 5.2.7 (Næringseiendom / commercial real estate):** For CRE-prosjekter skal banken kartlegge prosjektets totale finansieringsstruktur – egenkapital fra eier, offentlige tilskudd og låneandel. Bevilgede og dokumenterte tilskudd inngår i vurderingen av effektiv LTV.
-- **Avsnitt 6.1 (LTV-beregning):** Loan-to-value beregnes med utgangspunkt i eiendommens markedsverdi. Bekreftet offentlig tilskudd kan behandles som ekvivalent til egenkapital i LTV-brøken, fordi det reduserer bankens nettoeksponering mot eiendomsverdien.
+- **Avsnitt 6.1 (LTV-beregning):** Loan-to-value beregnes med utgangspunkt i eiendommens markedsverdi. Bekreftet offentlig tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i LTV-brøken.
 
 **Praktisk konsekvens:** Et bindende tilskuddsvedtak (tilsagnsbrev) er den dokumentasjonen banken trenger for å redusere beregnet LTV. Jo tidligere tilskuddet er bekreftet og eventuelt utbetalt, desto sterkere vekter det i bankens kredittvurdering.
 
@@ -118,10 +118,9 @@ Dette kravstrukturen har en viktig bivirkning for bankfinansiering: tilskuddsgiv
 
 Norsk bankpraksis ved prosjektfinansiering av rehabilitering av næringseiendom viser konsistent at:
 
-1. **Bekreftet tilskudd** (bindende tilsagnsbrev med beløp og vilkår) anerkjennes som ekvivalent til egenkapital i bankens finansieringsstruktur.
+1. **Bekreftet tilskudd** (bindende tilsagnsbrev med beløp og vilkår) kan tas i betraktning som reduksjon i bankens nettoeksponering i finansieringsstrukturen.
 2. **LTV beregnes mot markedsverdi etter rehabilitering**, ikke mot brutto investeringskostnad. Bekreftet tilskudd reduserer netto lånebehov og dermed effektiv LTV.
-3. **Husbanken som referanse:** Husbankens startlånsordning (rundskriv HB 2.B.14) tillater eksplisitt at kommunale tilskudd medregnes i egenkapitalandelen. Selv om dette gjelder forbrukerlån, illustrerer det den bredere prinsipielle anerkjennelsen av tilskudd som egenkapitalsubstitutt i norsk bankvesen.
-4. **Innovasjon Norge:** Finansieringsordninger fra Innovasjon Norge er eksplisitt konstruert som egenkapital eller egenkapitallignende finansiering i kombinasjon med bankfinansiering.
+3. **Innovasjon Norge:** Finansieringsordninger fra Innovasjon Norge er eksplisitt konstruert som egenkapital eller egenkapitallignende finansiering i kombinasjon med bankfinansiering.
 
 ### 4.3 Sammenlignbare prosjekttyper
 
@@ -137,7 +136,7 @@ Mønsteret er etablert gjennom praksis i:
 
 ### 5.1 Standardkrav for anerkjennelse av tilskudd som EK-komponent
 
-Basert på EBA/GL/2020/06 og etablert norsk bankpraksis vil banker normalt kreve følgende for å anerkjenne tilskudd som ekvivalent til egenkapital i en prosjektsøknad:
+Basert på EBA/GL/2020/06 og etablert norsk bankpraksis vil banker normalt kreve følgende for å ta hensyn til tilskudd som reduksjon i nettoeksponering i en prosjektsøknad:
 
 | Dokument | Formål |
 |---|---|
@@ -161,7 +160,7 @@ Slike klausuler utgjør en betinget gjeld og bør opplyses banken. Banken vil ty
 Banker skiller mellom:
 - **Bevilget, ikke utbetalt:** Anerkjennes med noe forsiktighet – tilskuddsgiver har vedtaksrett til å trekke tilskuddet dersom vilkår ikke oppfylles
 - **Bevilget og delvis utbetalt:** Anerkjennes fullt for utbetalt del; bevilget rest vektes noe lavere
-- **Bevilget og fullt utbetalt:** Anerkjennes fullt som egenkapitalekvivalent
+- **Bevilget og fullt utbetalt:** Anerkjennes fullt som reduksjon i nettoeksponering
 
 ---
 
@@ -190,7 +189,3 @@ Offentlige investeringstilskudd til næringseiendom er **ikke egenkapital** i re
 | Kulturminnefondets vedtekter (FOR-2003-06-27-801) | Kapittel 5 | Krav om privat medfinansiering |
 | Kulturminneloven (LOV-1978-06-09-50) | §§ 15, 19–20 | Fredning og tilskuddsregler |
 | Forskrift FOR-2021-08-13-2508 | – | Tilskudd til fredete kulturminner i privat eie |
-
----
-
-*Dette dokumentet er et internt faglig notat om rettslig rammeverk. Det erstatter ikke juridisk rådgivning fra advokat eller skattemessig rådgivning fra registrert revisor.*

@@ -25,10 +25,20 @@ Installer ImageMagick:
 sudo apt install imagemagick
 ```
 
-Installer Python-avhengigheter i et virtuelt miljø med `uv`:
+Installer først `uv` med pipx (Ubuntu 24.04+/Debian markerer system-Python som «externally-managed», så `pip install uv` direkte fungerer ikke):
 
 ```bash
-uv venv .venv
+sudo apt install pipx        # hvis pipx ikke er installert
+pipx install uv
+pipx ensurepath              # legger ~/.local/bin på PATH
+```
+
+Restart shellet etter `pipx ensurepath` første gang.
+
+Installer Python-avhengigheter i et virtuelt miljø med `uv`. **Bruk Python 3.11** – `pyiqa` trekker inn `numba`/`llvmlite` som pinner seg til Python 3.6–3.9 transitive, så uv kan ikke løse avhengighetstreet på nyere Python (3.12+). uv laster automatisk ned Python 3.11 hvis det ikke er installert:
+
+```bash
+uv venv .venv --python 3.11
 uv pip install Pillow opencv-contrib-python pyiqa torch scikit-learn numpy requests open-clip-torch
 uv pip install "transformers<4.41" fairscale
 uv pip install git+https://github.com/xinyu1205/recognize-anything.git
@@ -297,6 +307,18 @@ før regresjon. Format:
 
 ---
 
+## Arealoversikt
+
+```bash
+uv run python scripts/arealoversikt.py
+```
+
+Leser `forretningsplan/fg30_arealoversikt.csv` og beregner sum kvm per etasje, antall lager-enheter, krypkjeller- og kontorareal, totalt utleibart areal, samt fordeling per størrelseskategori (Micro <2,0 / Standard 2,0–2,4 / Medium+ ≥2,5). Brukes som autoritativ kilde for areal-tall i forretningsplan, finansieringsplan og bankhenvendelse – sørger for at samme tall brukes konsekvent på tvers av dokumenter.
+
+CSV-formatet: Hver etasje starter med en label-rad ("Kjeller", "1. etg" osv.). Numeriske rader lister kvm per lager-enhet. Spesialarealer (krypkjeller, kontor) er ett enkelt tall med tekst-annotasjon i nabocellen.
+
+---
+
 ## Konkurranseanalyse
 
 ```bash
@@ -321,6 +343,91 @@ uv run python ../scripts/format_docx.py fg30_forretningsplan.docx
 
 ---
 
+## Transkribering av lydopptak (WhisperX)
+
+WhisperX kombinerer OpenAI Whisper med automatisk taler-separasjon (pyannote). Kjøres i **WSL2/Linux** – ikke Windows direkte.
+
+### Forutsetninger
+
+**1. Installer WhisperX** (én gang, i WSL2):
+
+```bash
+python3.12 -m venv whisper-env
+source whisper-env/bin/activate
+python -m pip install whisperx
+```
+
+WhisperX krever Python 3.12. Aktiver `whisper-env` før hvert bruk (`source whisper-env/bin/activate`).
+
+**2. HuggingFace-konto og token**
+
+- Opprett konto på [huggingface.co](https://huggingface.co)
+- Gå til [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) og generer et **read**-token
+- Legg tokenet i miljøvariabelen:
+
+```bash
+export HF_TOKEN=hf_xxxxxxxxxxxxxxxxxxxx
+# Legg gjerne i ~/.bashrc for å slippe å sette det hver gang
+```
+
+**3. Godta brukervilkår for tre pyannote-modeller**
+
+Logg inn på HuggingFace og klikk **"Agree and access repository"** på disse tre sidene:
+
+| Modell | URL |
+|---|---|
+| `pyannote/segmentation-3.0` | https://huggingface.co/pyannote/segmentation-3.0 |
+| `pyannote/speaker-diarization-3.1` | https://huggingface.co/pyannote/speaker-diarization-3.1 |
+| `pyannote/embedding` | https://huggingface.co/pyannote/embedding |
+
+Uten disse tillatelsene feiler diariseringssteget med en autentiseringsfeil.
+
+### Plasser lydfil
+
+Legg lydfilen her (opprett mappen om den ikke finnes):
+
+```
+referat/nye/ref.m4a
+```
+
+### Kjør transkripsjon
+
+```bash
+whisperx referat/nye/ref.m4a \
+  --model large-v2 \
+  --language no \
+  --compute_type float32 \
+  --diarize \
+  --hf_token $HF_TOKEN \
+  --batch_size 4 \
+  --output_dir referat/nye/ \
+  --output_format srt
+```
+
+`--batch_size 4` er trygt på de fleste maskiner; øk til 8 eller 16 hvis du har mye GPU-minne.
+
+### Utdata
+
+Skriver `referat/nye/ref.srt` – undertekster med tidskoder og taler-ID per segment.
+
+### Fra transkripsjon til referat
+
+Talerne i utdata er merket `SPEAKER_00`, `SPEAKER_01` osv. Identifiser hvem som er hvem ut fra sammenhengen og skriv referatet i `referat/YYYY-MM-DD_statusmote_XX.md` etter det etablerte formatet.
+
+---
+
+## Ekstrahere bilder fra tegnings-PDFer
+
+```bash
+uv run --with pymupdf python scripts/extract_tegninger.py
+```
+
+Renderer hver side i PDF-ene i `tegninger/` til PNG (200 DPI) og navngir filene etter mønsteret `YYYY-MM-DD_E-XX_<beskrivelse>.png`. E-nummeret og tittelteksten leses direkte fra PDF-en. Side 1 i hver PDF behandles som omslag og navngis med E-rekkevidde (`E-01-E-04_omslag_<kategori>`). Datoprefix er rammesøknadsdato (12.05.2026).
+
+PyMuPDF hentes som engangs-avhengighet av `uv run --with pymupdf` – ingen installasjon nødvendig på forhånd. Skriptet er idempotent: re-kjøring overskriver eksisterende PNG-er.
+
+---
+
 ## Mappestruktur
 
 ```
@@ -341,6 +448,8 @@ fjordgata30/
 │   ├── build_scores.py        – beregner scores_total.csv
 │   ├── select_images.py       – velg beste bilder for en tidsperiode
 │   ├── analyse_konkurrentpriser.py – vektet konkurranseanalyse, skriver konkurrent_analyse.md
+│   ├── arealoversikt.py            – summerer arealer fra fg30_arealoversikt.csv (autoritativ kilde)
+│   ├── extract_tegninger.py        – rasteriserer PDF-tegninger til PNG i tegninger/
 │   ├── config.py              – leser config.json, eksponerer BILDER_DIR/PROCESSED_DIR/EXTRACTED_DIR
 │   └── scoring/               – moduler per metrikk (sharpness, exposure, brisque, musiq)
 ├── data/                      – alle datafiler (scores + weights + konkurranseanalyse)
@@ -375,6 +484,9 @@ fjordgata30/
 │       ├── mval_9-4_justeringsperiode.md
 │       ├── prinsipputtalelse_2014_minilager.md
 │       └── skatteklagenemnda_datasenter_2020.md
+├── tegninger/                 – arkitekttegninger (PDF + PNG per side)
+│   ├── *.pdf                              – kilde-PDFer fra SAHAA (rammesøknadsvedlegg, IG-vedlegg osv.)
+│   └── 2026-05-12_E-XX_*.png              – rasteriserte enkelttegninger (ekstrahert med extract_tegninger.py)
 ├── stotte/                    – tilskuddsdata og støttesøknader
 │   ├── project_cards.json               – strukturerte tilskuddsdata (alle ordninger)
 │   ├── fg30_skattefunn_vurdering.md     – SkatteFunn vurdering og søknadsskisse (T70)

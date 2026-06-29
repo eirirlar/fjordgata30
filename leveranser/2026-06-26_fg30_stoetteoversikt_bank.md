@@ -63,7 +63,7 @@ Konsekvensene for prosjektets likviditet er:
 **Støtteberettiget budsjett:** 2 500 000 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot framdriftsrapport med fotodokumentasjon
 
-Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet. KMF er informert om endret bruk (fra kontor til minilager) via endringsmelding datert 25.06.2026 – svar avventes.
+Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet – tiltakene er knyttet til byggets bærekonstruksjon, uavhengig av hva bygget brukes til etter rehabilitering. KMF har vært samarbeidspart gjennom hele planleggingsperioden, og det er sendt endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager). KMF har i muntlig dialog signalisert at endringen ligger innenfor tilskuddets formål, og formell skriftlig bekreftelse forventes som en formalitet. Tilbakekallsrisikoen vurderes derfor som lav.
 
 ---
 
@@ -76,7 +76,7 @@ Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 
 **Støtteberettiget budsjett:** 1 666 667 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot rapport med beskrivelse, foto og betalt faktura (Vedlegg 2-skjema)
 
-Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak. Byantikvaren er informert om endret bruk via endringsmelding 25.06.2026 – svar avventes. Byantikvaren skal i tillegg avgi uttalelse om solceller ved igangsettingssøknad.
+Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom hele planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak – kravet ligger fast uavhengig av bruksformål etter rehabilitering. Endringsmelding om endret bruk er sendt 25.06.2026, og Byantikvaren har muntlig bekreftet at endringen ligger innenfor tilskuddets formål; formell skriftlig godkjenning forventes som en formalitet. Tilbakekallsrisikoen vurderes derfor som lav. Byantikvaren skal i tillegg avgi uttalelse om solceller ved igangsettingssøknad.
 
 ---
 
@@ -128,7 +128,7 @@ Etter skatteloven § 14-42 (3) reduserer et investeringstilskudd avskrivningsgru
 
 ### 4.3 Bankpraksis og EBA-retningslinjer (EBA/GL/2020/06)
 
-EBA-retningslinjer for utlånspraksis (EBA/GL/2020/06, gjeldende fra 30. juni 2021) regulerer norske bankers kredittvurdering. Avsnitt 5.2.7 (næringseiendom) og avsnitt 6.1 (LTV) åpner eksplisitt for at bankene tar hensyn til bevilgede og dokumenterte offentlige tilskudd ved beregning av effektiv LTV. Bekreftet tilskudd reduserer bankens nettoeksponering mot eiendommen og kan behandles som ekvivalent til egenkapital i LTV-beregningen.
+EBA-retningslinjer for utlånspraksis (EBA/GL/2020/06, gjeldende fra 30. juni 2021) regulerer norske bankers kredittvurdering. Avsnitt 5.2.7 (næringseiendom) og avsnitt 6.1 (LTV) åpner for at bankene tar hensyn til bevilgede og dokumenterte offentlige tilskudd ved beregning av effektiv LTV. Bekreftet tilskudd reduserer bankens nettoeksponering mot eiendommen og kan tas i betraktning som reduksjon i nettoeksponering i LTV-beregningen.
 
 ### 4.4 Kulturminnefondets eget krav som kredibilitetsmarkør
 
@@ -138,7 +138,7 @@ Kulturminnefondet krever etter sine vedtekter (FOR-2003-06-27-801, kapittel 5) a
 
 Tilskuddene har tilbakebetalingsvilkår typisk knyttet til vesentlige endringer i bygget uten godkjenning eller opphør av tilskuddsformålet. Tilbakebetalingsrisikoen vurderes som lav gitt at prosjektet gjennomføres som planlagt. Betingelsene opplyses banken og kan vedlegges lånesøknaden.
 
-**Detaljert juridisk utredning:** Se `bakgrunn/lovverk/tilskudd_som_egenkapital.md` (utarbeidet 26.06.2026) med paragrafhenvisninger til NRS 4, regnskapsloven § 6-2, skatteloven §§ 5-30 og 14-42 (3), finansforetaksloven § 13-5 og EBA/GL/2020/06.
+**Detaljert juridisk utredning:** Se separat vedlegg «Juridisk utredning – tilskudd som egenkapitallignende finansiering» med paragrafhenvisninger til NRS 4, regnskapsloven § 6-2, skatteloven §§ 5-30 og 14-42 (3), finansforetaksloven § 13-5 og EBA/GL/2020/06.
 
 ---
 
@@ -195,18 +195,19 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 | **Sum bekreftet offentlig finansiering** | **2 250 000 NOK** | |
 | | | |
 | **Egenfinansiering** | | |
-| Egenkapital KodeWorks Eiendom AS | ~1 500 000 NOK | |
+| Historisk innskutt egenkapital i KodeWorks Eiendom AS | ~1 500 000 NOK | |
+| Kontant-egenkapital fra eier ved byggestart | 2 000 000 – 3 000 000 NOK | |
 | | | |
 | **Planlagt bankfinansiering** | | |
-| Byggelån / prosjektkreditt (søkes) | TBD | |
+| Konstruksjonsfinansiering inkl. refinansiering av eksisterende pantelån (15,5 MNOK) | ~28 000 000 – 30 000 000 NOK | Søkes |
 | | | |
 | **Potensielle tilleggstilskudd** | | |
 | Enova – Energitiltak i yrkesbygg (T1-pakken, 25 % av ~9,3 MNOK) | ~2 300 000 NOK | Søkes |
-| Andre støtteordninger | TBD | |
+| Øvrige støttesøknader (KMF 2/3, BYA 2/3, UNI 2, Skattefunn, Riksantikvaren, Trøndelag fylke, IN) | ~3 100 000 – 5 700 000 NOK | Under søknad |
 | | | |
-| **Estimert total prosjektkostnad** | ~6–15 MNOK | |
+| **Total byggekostnad eks. MVA** | **~30 000 000 NOK** | |
 
-*Merknad: Estimert total prosjektkostnad avhenger av valgt tiltakspakke for energioppgradering. Fastsettes ved igangsettingssøknad.*
+*Detaljert finansieringsplan med scenarier (konservativt/realistisk/optimistisk) og LTV-utregning fremgår av separat vedlegg «Finansieringsplan, Fjordgata 30».*
 
 ---
 
@@ -217,11 +218,7 @@ Ytterligere dokumentasjon fremlegges på forespørsel:
 - Tilsagnsbrev / tildelingsbrev fra alle tilskuddsorgan
 - Utbetalingsbekreftelser (fremlegges etter hvert som utbetalinger mottas)
 - Rammesøknad for minilager (levert 12.05.2026, Trondheim kommune)
-- Energikartleggingsrapport – HRP AS, 05.05.2026 (NS 3031:2025)
-- Juridisk notat: tilskudd som egenkapital overfor bank (`bakgrunn/lovverk/tilskudd_som_egenkapital.md`)
-- Tilstandsanalyse – HRP AS
-- project_cards.json – fullstendig oversikt over alle støtteordninger
 
 ---
 
-*Dokumentet er utarbeidet av KodeWorks Eiendom AS, 26. juni 2026. Erstatter utkastet av 22. juni 2026 (`stotte/2026-06-22_fg30_stoetteoversikt_bank.md`). For spørsmål: Eirik Larsen, eirik.larsen@kodeworks.no*
+*Dokumentet er utarbeidet av KodeWorks Eiendom AS, 26. juni 2026. For spørsmål: Eirik Larsen, eirik.larsen@kodeworks.no*

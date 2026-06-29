@@ -20,7 +20,7 @@ Kildehenvisninger angir primærdokument i arkivet; referanseliste følger sist i
 
 **1934** – Fasadeendring.[^1]
 
-**Ca. 1980-tallet (dato ukjent) – mangler dokumentasjon** – Bryggebrann; bygget gjenoppbygges. I forbindelse med opprettingen etableres langsgående betongmur i fundamenteringen mot Fjordgata og sentrale bæringspunkter sentralt i bygget. Disse konstruksjonene er senere (2026) befart og funnet i fortsatt god stand. Brannskadet rundtømmer fra denne perioden ligger i 2026 igjen i kjelleren og må fjernes som ledd i ryddearbeidet.[^52]
+**Ca. 1980-tallet (dato ukjent) – mangler dokumentasjon** – Bryggebrann; bygget gjenoppbygges i perioden ca. 1980–1994. Seks dokumenterte konstruksjonstiltak fra denne perioden: (1) langsgående betongmur i fundamenteringen mot Fjordgata og sentrale bæringspunkter i betong, (2) stålkonstruksjoner (søyler og dragere) i kjeller og 1. etg., (3) limtrekonstruksjon i plan 0 og 1 (underdimensjonert – må skiftes iht. RiB-beregninger 2026), (4) stålplatekledd vestre langvegg, (5) kryssavstivere i stål i 3. etg., (6) langsgående vaiere med strekkfisker mellom langsidene i kjeller (avdekket under rydding 2026 – essensiell del av bæringen). Brannskadet rundtømmer fra denne perioden ligger i 2026 igjen i kjelleren og fjernes som ledd i ryddearbeidet.[^52] [^77]
 
 **04.02.1993** – Trondheim Båtforening tinglyser hjemmel til eiendommen (dagboknr 1787). Tinglyst vederlag: NOK 1 100 000. Ingen heftelser eller servitutter registrert i grunnboken. Båtforeningen bruker bygget til kontorer, selskapslokaler og lager.[^4] [^5]
 
@@ -353,6 +353,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **26.06.2026** – **Gjennomgang av støttemuligheter.** Samlet oversikt over kommende og potensielle støttesøknader utarbeidet. Eksisterende innvilgede tilskudd ~2,25 MNOK. Prioriterte nye søknader: Enova energioppgradering (~2,3 MNOK, høy sannsynlighet), KMF søknad 2+3 (~1,5 MNOK), BYA søknad 2+3 (~1,0 MNOK), UNI søknad 2 (~0,1 MNOK), Skattefunn over 3 år (~2,5 MNOK, middels). Riksantikvaren opplæring vurderes som middels-høy sannsynlighet etter anbefaling fra både KMF og BYA. Realistisk samlet støttepotensial: ~10 MNOK.[^76]
 
+**27.06.2026** – **Støttekoordinering dokumentert.** Internt sammendrag av `../stotte`-prosjektet (Google Sheets-arbeidsbok og Python-referansemotor for sporing av tilskuddskostnader og timer på tvers av Sunlit Sea AS, EnerSky AS og KodeWorks Eiendom AS) utarbeidet som referansedokument for FG30. Dekker kumuleringsprinsippet (70 %-tak for samlet støtteintensitet), overlappshåndtering mellom ordninger og koordinering av de fem aktive ordningene (KMF, BYA, UNI, Enova KL, Enova OM).[^78]
+
 ---
 
 ## Udokumenterte hendelser – mangler tilstrekkelig underlag
@@ -526,4 +528,8 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^76]: `bakgrunn/stotte/2026-06-26-fg30-stotte.md` – Samlet oversikt over kommende og potensielle støttesøknader for Fjordgata 30, utarbeidet 26.06.2026. Inkluderer prioritering, estimert støttebeløp og sannsynlighet for 9 ordninger. Realistisk samlet støttepotensial ~10 MNOK inkl. eksisterende innvilgede tilskudd.
 
-*Sist oppdatert: 26. juni 2026*
+[^77]: `bakgrunn/2026-06-27_1980tall_rehabilitering.md` – Sammenstilling av alle kjente konstruksjonstiltak fra gjenoppbyggingen etter bryggebrannen på 1980-/1990-tallet. Kildegrunnlag: tilstandsanalyse nivå 1 (2022–2023), RiB-notat (2026-02-10), brannteknisk vurdering TekØk Rev. C og D (2018), arbeidslogger KB og OML (2026-04-16), forhåndskonferanse-presentasjon (2023-06-23).
+
+[^78]: `stotte/2026-06-27_stotte_sammendrag.md` – Internt sammendrag av `../stotte`-prosjektet: datamodell (project_cards.json-format), støttekoordineringens filosofi, kumuleringsprinsippet (70 %-tak), overlappshåndtering og FG30s aktive ordninger (KMF 750k/30%, BYA 500k/30%, UNI 100k/5,6%, Enova KL 400k/50%, Enova OM 500k/50%). Brukes som internt referansedokument og grunnlag for vedlegg til støttesøknader.
+
+*Sist oppdatert: 27. juni 2026*
