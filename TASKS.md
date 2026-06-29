@@ -528,17 +528,23 @@ Dette gjør fremtidige revisjoner robuste – samme tall garantert konsistent p�
 
 ---
 
-### T104 `[x]` Multi-agent rolle-review av bankpakken
+### T104 `[ ]` Multi-agent rolle-review av bankpakken (gjenbrukbar – iterativ)
 
-**Mål:** Få en rollebasert kritikk av bankpakken før utsending. Hver agent leser hele pakken fra én bank-rolles perspektiv, vurderer hvert dokument og oppsummerer styrker/svakheter. Resultatene samles i `bank/bank_review.md`.
+**Mål:** Få en rollebasert kritikk av bankpakken før utsending. Hver agent leser hele pakken fra én bank-rolles perspektiv, vurderer hvert dokument og oppsummerer styrker/svakheter. Resultatene samles i `bank/reviews/YYYY-MM-DD_bank_review.md`.
+
+Tasken er **gjenbrukbar**: hver gang bankpakka har vært gjennom vesentlige justeringer, kjøres tasken på nytt for å fange opp om endringene har løst tidligere svakheter og om nye er introdusert. Iterasjonene dokumenteres i «Iterasjonshistorikk»-seksjonen nederst.
+
+#### KRITISK: ikke bruk worktree-isolation
+
+Når `Agent`-tool invokeres for denne tasken, **må `isolation: "worktree"` IKKE settes**. Agentene er read-only (leser bankpakka og rapporterer tekst), og worktrees gir null verdi i den konteksten. Første iterasjon (29.06.2026) brukte uvettig worktree-isolation, noe som etterlot 7 låste worktrees + 7 stale branches som krevde manuell opprydding via `git worktree unlock` + `remove --force` + `branch -D`. Se også arbeidsregel i `CLAUDE.md` om dette.
 
 #### Hvordan agenter fungerer (kort)
 
-Claude Code har en `Agent`-tool som starter en isolert subagent med eget kontekstvindu. Subagenten får en prompt + tilgang til å lese filer. Den returnerer ett tekstsvar når den er ferdig. Flere agenter kan kjøre **i parallell** ved å sende dem i samme melding. Bruksområder for FG30:
+Claude Code har en `Agent`-tool som starter en subagent med eget kontekstvindu. Subagenten får en prompt + tilgang til å lese filer. Den returnerer ett tekstsvar når den er ferdig. Flere agenter kan kjøre **i parallell** ved å sende dem i samme melding. Bruksområder for FG30:
 
 - Hver rolle = én agent med rolle-spesifikk prompt
 - Alle agenter leser samme filer, men gjennom rollens linse
-- Hovedtråden (jeg) venter på alle svarene, så syntesetiserer dem til `bank/bank_review.md`
+- Hovedtråden (jeg) venter på alle svarene, så syntesetiserer dem til iterasjonens review-fil
 
 Subagenter koster kjøringstid – ikke gratis. For 7 roller × ~5 min pr agent = ca. 35 min parallell jobb, men kortere veggtid siden de kjører samtidig (ca. 5–10 min total).
 
@@ -586,9 +592,9 @@ Hver agent returnerer kun denne strukturen (Markdown):
 
 #### Filer agentene skal lese
 
-Markdown-versjonen (ikke docx) av hvert vedlegg. Stier samles og sendes til hver agent i prompten:
+Markdown-versjonen (ikke docx) av hvert vedlegg. Listen under er **utgangspunktet for iterasjon 1**, men må sjekkes og oppdateres ved hver ny iterasjon – bankhenvendelsen, forretningsplanen og finansieringsplanen får ofte nye datoer i filnavnet, og nye vedlegg kan komme til (eller falle bort). Verifiser stiene mot innholdet i `bank/`-mappa og `leveranser/` før agentene spawnes.
 
-| Nr | Fil |
+| Nr | Fil (iterasjon 1) |
 |---|---|
 | 00 | `leveranser/2026-06-28_fg30_bankhenvendelse.md` |
 | 01 | `forretningsplan/fg30_forretningsplan.md` |
@@ -602,14 +608,18 @@ Markdown-versjonen (ikke docx) av hvert vedlegg. Stier samles og sendes til hver
 
 #### Utførelses-flyt
 
-1. **Skriv role-promptene** først (ett avsnitt pr rolle). Brukes som åpningstekst i hver agent-kall. Bør beskrive rollens mandat hos en typisk norsk bank, hva som er rød tråd i vurderingen, og hva som er deal-breakers
-2. **Start alle 7 agenter parallelt** med Agent-tool i én melding (subagent_type: `Explore` for lese-tunge oppgaver, eller `general-purpose` hvis Explore ikke kan skrive output strukturert nok)
-3. **Vent på svar** – Agent-tool returnerer ferdige svar i samme melding
-4. **Bygg `bank/bank_review.md`** med:
-   - Innledning som forklarer metodikken og caveats
+1. **Verifiser filliste** mot dagens innhold i `bank/`/`leveranser/` – oppdater stier hvis filnavn eller -sammensetning har endret seg siden forrige iterasjon
+2. **Skriv role-promptene** (ett avsnitt pr rolle). Brukes som åpningstekst i hver agent-kall. Bør beskrive rollens mandat hos en typisk norsk bank, hva som er rød tråd i vurderingen, og hva som er deal-breakers. Promptene kan gjenbrukes mellom iterasjoner – men hvis tidligere iterasjon har avdekket spesifikke svakheter, gi gjerne hint i prompten om å fokusere ekstra på de områdene (eller eksplisitt sjekke at de er rettet)
+3. **Start alle 7 agenter parallelt** med Agent-tool i én melding. `subagent_type: claude` (eller `Explore` for ren leseoppgave). **MERK: ikke sett `isolation: "worktree"`** (se kritisk-seksjonen øverst)
+4. **Vent på svar** – Agent-tool returnerer ferdige svar i samme melding
+5. **Bygg `bank/reviews/YYYY-MM-DD_bank_review.md`** (ny fil per iterasjon, datostemplet). Ved datokonflikt (flere iterasjoner samme dag): legg til løpende suffiks `_001`, `_002`, osv. (f.eks. `bank/reviews/2026-06-29_bank_review_001.md`). Filen skal inneholde:
+   - Innledning som forklarer metodikken, hvilken iterasjon dette er, og hvilke endringer som er gjort i pakka siden forrige iterasjon
    - En seksjon per rolle (svaret kopieres inn)
    - En oppsummeringsseksjon på toppen: gjennomsnittlig rating per dokument, top-3 styrker på tvers, top-3 svakheter på tvers, prioritert handlingsliste
-5. **Vurder gjennomgang** – brukeren leser, beslutter hvilke justeringer som faktisk skal gjøres før utsending. Justeringene blir egne tasks
+   - **Diff mot forrige iterasjon** (hvis aktuelt): hvilke svakheter fra forrige iterasjon er løst? Hvilke består? Hvilke nye er introdusert?
+6. **Verifiser ingen worktree-rester** (`ls .claude/worktrees/` – skal være tom) – hvis det er rester må de ryddes manuelt
+7. **Brukeren leser** og beslutter hvilke justeringer som blir egne tasks før neste iterasjon
+8. **Oppdater «Iterasjonshistorikk» nederst i denne tasken** med dato, fil-referanse og topp-funn fra iterasjonen
 
 #### Tone og forbehold i agent-promptene
 
@@ -625,18 +635,23 @@ Hver agent skal bli minnet om at:
 
 #### Relevante filer
 
-- Alle 9 vedleggsfiler (se tabell over)
-- `bank/bank_review.md` (output – ny fil)
+- Alle vedleggsfiler i bankpakken (se filliste-tabell over – verifiser før kjøring)
+- `bank/reviews/YYYY-MM-DD_bank_review.md` (output per iterasjon – ny fil hver gang)
 
 #### Leveranse
 
-`bank/bank_review.md` med rolle-baserte vurderinger + syntese.
+`bank/reviews/YYYY-MM-DD_bank_review.md` med rolle-baserte vurderinger + syntese + diff mot forrige iterasjon.
 
-**Løst 29.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). Resultater syntetisert til `bank/bank_review.md`.
+---
 
-**Hovedfunn:** Gjennomsnittlig helhetsrating **5,7/10**. Tredjepartsdokumentasjon (energirapport 8,3; grønt lån 7,4) scorer høyt; egne strategiske dokumenter (forretningsplan 5,4; konkurrentanalyse 5,6) scorer lavest.
+#### Iterasjonshistorikk
 
-**Topp-anbefalinger på tvers av roller (i prioritert rekkefølge):**
+**Iterasjon 1 – 29.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`, men uvettig med `isolation: "worktree"` – ga 7 stale worktrees som senere måtte ryddes manuelt; se «KRITISK»-seksjon over). Resultater syntetisert til `bank/reviews/2026-06-29_bank_review.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **5,7/10**. Tredjepartsdokumentasjon (energirapport 8,3; grønt lån 7,4) scorer høyt; egne strategiske dokumenter (forretningsplan 5,4; konkurrentanalyse 5,6) scorer lavest.
+
+Topp-anbefalinger på tvers av roller (i prioritert rekkefølge):
+
 1. Skill bevilget tilskudd (2,25 MNOK) fra under-søknad i base-LTV
 2. Modér EBA/GL/2020/06-formuleringen fra "EK-ekvivalent" til "reduksjon i nettoeksponering"
 3. Rens opp tallinkonsistens (verneklasse B vs. C, LTV 55–60 %, EK 1,5 vs. 2–3, prosjektkostnad 6–15 vs. 30)
@@ -648,7 +663,9 @@ Hver agent skal bli minnet om at:
 9. Konkretiser uforutsett (10 % → 15–20 %)
 10. TBRT-saken adresseres åpent
 
-Brukeren leser `bank/bank_review.md` og beslutter hvilke justeringer som blir egne tasks.
+Oppfølging i etterfølgende tasks: T105 (konsistens- og tekst-rydding), T106 (KMF/BYA + TBRT), T107 (driftsøkonomi/DSCR), T108 (verdsettelse cap rate 6,0 → 7,0 %), T109 (HRP-presentasjon).
+
+**Iterasjon 2 – planlagt.** Kjøres når pakken har vært gjennom T108 (verdsettelse), interim-implementeringen av T109 (HRP-presentasjon), og ev. andre justeringer brukeren ønsker å validere. Forventes å vise hvilke svakheter fra iterasjon 1 som er løst og hvilke som består.
 
 ---
 
