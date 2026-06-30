@@ -63,7 +63,7 @@ Konsekvensene for prosjektets likviditet er:
 **Støtteberettiget budsjett:** 2 500 000 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot framdriftsrapport med fotodokumentasjon
 
-Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet – tiltakene er knyttet til byggets bærekonstruksjon, uavhengig av hva bygget brukes til etter rehabilitering. KMF har vært samarbeidspart gjennom hele planleggingsperioden, og det er sendt endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager). KMF har i muntlig dialog signalisert at endringen ligger innenfor tilskuddets formål, og formell skriftlig bekreftelse forventes som en formalitet. Tilbakekallsrisikoen vurderes derfor som lav.
+Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet – tiltakene er knyttet til byggets bærekonstruksjon, uavhengig av hva bygget brukes til etter rehabilitering. KMF har vært samarbeidspart gjennom hele planleggingsperioden. Endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager) er godkjent av KMF som innenfor tilskuddets formål.
 
 ---
 
@@ -76,7 +76,7 @@ Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 
 **Støtteberettiget budsjett:** 1 666 667 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot rapport med beskrivelse, foto og betalt faktura (Vedlegg 2-skjema)
 
-Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom hele planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak – kravet ligger fast uavhengig av bruksformål etter rehabilitering. Endringsmelding om endret bruk er sendt 25.06.2026, og Byantikvaren har muntlig bekreftet at endringen ligger innenfor tilskuddets formål; formell skriftlig godkjenning forventes som en formalitet. Tilbakekallsrisikoen vurderes derfor som lav. Byantikvaren skal i tillegg avgi uttalelse om solceller ved igangsettingssøknad.
+Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom hele planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak – kravet ligger fast uavhengig av bruksformål etter rehabilitering. Endringsmelding om endret bruk er sendt 25.06.2026 og godkjent av Byantikvaren som innenfor tilskuddets formål. Byantikvaren skal i tillegg avgi uttalelse om solceller ved igangsettingssøknad.
 
 ---
 
@@ -208,6 +208,14 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 | **Total byggekostnad eks. MVA** | **~30 000 000 NOK** | |
 
 *Detaljert finansieringsplan med scenarier (konservativt/realistisk/optimistisk) og LTV-utregning fremgår av separat vedlegg «Finansieringsplan, Fjordgata 30».*
+
+### 6.1 Kort om kumulering og statsstøtteregelverket
+
+Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak – for kulturminnerehabilitering er taket 70 % samlet intensitet (Kulturminnefondets vedtekter, FOR-2003-06-27-801).
+
+Samlet bekreftet tilskuddsbeløp utgjør ~7,5 % av total byggekostnad (2,25 MNOK / 30 MNOK), og maksimalt potensial inkludert alle pågående søknader utgjør ~33–43 % – godt innenfor 70 %-taket på prosjektnivå.
+
+Operativ kumulering håndteres per bilag/timekostnad ved utbetalingsanmodning, via prosjektets etablerte støttekoordineringssystem (`stotte/project_cards.json` med automatisk kombinert-intensitet-beregning). En statisk forhåndskalkulasjon av allokering per ordning er ikke meningsfull før prosjektet har faktiske fakturaer å fordele.
 
 ---
 

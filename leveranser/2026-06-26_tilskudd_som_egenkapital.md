@@ -153,7 +153,7 @@ Banker vil vurdere tilskuddenes tilbakebetalingsrisiko. Typiske tilbakebetalings
 - Salg av eiendommen i strid med tilskuddsformålet
 - Opphør av den tilskuddsberettigede aktiviteten innen en bestemt periode
 
-Slike klausuler utgjør en betinget gjeld og bør opplyses banken. Banken vil typisk ta pant i tilskuddsrettigheter som del av sikkerhetsstrukturen. Tilbakebetalingsrisikoen er normalt lav dersom prosjektet gjennomføres som planlagt.
+Slike klausuler utgjør en betinget gjeld og bør opplyses banken. Tilbakebetalingsrisikoen er normalt lav dersom prosjektet gjennomføres som planlagt.
 
 ### 5.3 Utbetalingsstatus og vektlegging
 

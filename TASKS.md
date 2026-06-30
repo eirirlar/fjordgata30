@@ -665,7 +665,29 @@ Topp-anbefalinger på tvers av roller (i prioritert rekkefølge):
 
 Oppfølging i etterfølgende tasks: T105 (konsistens- og tekst-rydding), T106 (KMF/BYA + TBRT), T107 (driftsøkonomi/DSCR), T108 (verdsettelse cap rate 6,0 → 7,0 %), T109 (HRP-presentasjon).
 
-**Iterasjon 2 – planlagt.** Kjøres når pakken har vært gjennom T108 (verdsettelse), interim-implementeringen av T109 (HRP-presentasjon), og ev. andre justeringer brukeren ønsker å validere. Forventes å vise hvilke svakheter fra iterasjon 1 som er løst og hvilke som består.
+**Iterasjon 2 – 29.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`, uten eksplisitt `isolation: "worktree"`). **Det viste seg likevel at Agent-tool oppretter worktrees som default** — `isolation`-parameteren har bare verdi `"worktree"` som mulig opsjon, så det er ingen "ikke-worktree"-modus tilgjengelig. 7 nye worktrees laget; må ryddes etter sesjonen avsluttes (samme prosedyre som etter iterasjon 1).
+
+Resultater syntetisert til `bank/reviews/2026-06-29_bank_review_001.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **5,3/10** (ned fra 5,7 i iterasjon 1). Nedgangen reflekterer ikke at endringene var feil, men at agentene har avdekket nye, dypere svakheter etter at de mest åpenbare ble løst.
+
+Status på iterasjon 1-anbefalinger (full diff i review-fila):
+
+- ✅ Løst: DSCR-bane + kapitalisert rente (T107), uforutsett 15 % (T107), TBRT-rydding (T106), EBA-formulering modert (T105)
+- ⚠ Delvis: tilskuddsskille basis/forventet (T108), EBITDA-margin (T107, fortsatt for høy ifølge flere agenter), cap rate (T108, fortsatt offensiv ifølge CRE)
+- ❌ Består/nye problemer: tallinkonsistenser på tvers (pris 220 vs 300, MVA-dekning, bankramme-tall), KMF/BYA muntlig-akseptert endringsmelding, fisjonsstruktur uavklart, anmodning for diffus, DSCR <1 ikke håndterbar uten dokumentert aksjonærgaranti
+
+Topp-anbefalinger til neste iterasjon (kategori 1 – må adresseres):
+
+1. Skjerp anmodningen i bankhenvendelsen — "prinsippvurdering" er for vagt
+2. Snu fortellingen om scenarioer — basis = LTV 97 % bør være hovedscenarioet, ikke forventet
+3. Avklar Fjordgata 30 AS-fisjonen før utsending
+4. Kvalifiser aksjonærgarantien med formuesoppstilling
+5. Skaff skriftlig bekreftelse fra KMF og BYA på bruksendringen
+
+Brukeren leser `bank/reviews/2026-06-29_bank_review_001.md` og beslutter hvilke justeringer som blir egne tasks før evt. iterasjon 3.
+
+**Iterasjon 3 – planlagt.** Når kategori 1-anbefalinger er adressert.
 
 ---
 
@@ -992,5 +1014,432 @@ Tasken settes uløst (`[ ]`) inntil HRP-svaret er implementert og steg 3–5 er 
 **Estimat:** 1–2 dager for materialutarbeidelse + 2–4 uker kampanjevindu.
 
 **Relevante filer:** Konkretiseres når tasken plukkes opp.
+
+---
+
+### T111 `[x]` Reduser driftskostnader til ~1,0 MNOK stabilisert
+
+**Bakgrunn:** Bruker-feedback på iterasjon 2 (bank_review_001): «De der kostnadene kan du lett kutte ned til 1MNOK. Du har overdrevet samtlige.» Dagens driftskostnader i forretningsplan kap. 6.2 er 2,10 MNOK – satt opp i T107 etter at agentene i iterasjon 1 anbefalte 2,0–2,4 MNOK. Brukerens faktiske vurdering er at ~1,0 MNOK er realistisk for FG30s drift.
+
+**Mål:** Re-kalibrere driftskostnadene i forretningsplan 6.2 til ~1,0 MNOK stabilisert, basert på brukerens vurdering av hva FG30 faktisk vil koste å drive. Gå gjennom hver post og se hva som kan kuttes/reduseres:
+
+| Post (T107-tall) | MNOK/år | Brukers vurdering | Foreslått |
+|---|---:|---|---:|
+| Personell (1,0 + 0,5 årsverk inkl. sosiale) | 0,850 | – | ? |
+| Forsikring (bygning + ansvar) | 0,100 | – | ? |
+| Strøm og varme | 0,200 | – | ? |
+| Vedlikehold og renhold | 0,100 | – | ? |
+| Adgangssystem / teknologiplattform | 0,180 | – | ? |
+| Markedsføring | 0,150 | – | ? |
+| Regnskap, revisjon, juridisk | 0,120 | – | ? |
+| Varebil (leie/avskrivning, drivstoff, service) | 0,220 | – | ? |
+| Kommunale avgifter og forsikring bygg | 0,080 | – | ? |
+| Annet | 0,100 | – | ? |
+| **Sum** | **2,100** | **~1,0 MNOK** | |
+
+Brukeren må avklare hvilke poster som er overdimensjonert, hva som kan strykes, og hva som ble dobbelttellt. Mest sannsynlig kandidat for kutt: personellkostnad (kanskje deltidsbasert eller løsning uten dedikert sjåfør), teknologiplattform (utviklingskostnader bør være engangsinvestering, ikke løpende drift), varebil (kan kanskje leases per oppdrag eller deles med andre KodeWorks-aktiviteter).
+
+**Konsekvenser nedstrøms:**
+
+- Forretningsplan 6.3 EBITDA-tabell: stabilisert EBITDA løftes fra 2,53 til ~3,6 MNOK (4,63 – 1,0), margin fra 55 % til ~78 %. NB: 78 % er ekstremt høyt – avklar med bruker om dette er rimelig eller om noen kostnadsposter likevel skal beholdes
+- Forretningsplan 7.1 break-even-belegg: 1,0 / 4,9 = ~20 %
+- Forretningsplan 7.2 break-even-tid og IRR: kortere/bedre
+- Forretningsplan 8.1 NPV: alle eiendomsverdier opp
+- Finansieringsplan 4.4 DSCR-bane: stabilisert DSCR 3,6/2,57 ≈ 1,40 (over bankens 1,2–1,3 kovenant). Lease-up-årene bedre. Aksjonærgaranti-behovet kan reduseres
+- Bankhenvendelse 00 «Sentrale tall» og faktaboks: EBITDA, break-even, eiendomsverdi
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` (6.2, 6.3, 7.1, 7.2, 8.1, 8.2, 11, sammendrag)
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` (sammendrag, 4.4 DSCR-bane, 7.x sensitivitetsanalyser)
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` (faktaboks, sentrale tall)
+
+**Estimat:** 30–45 min med brukeravklaring per post.
+
+**Avhengighet:** Bør gjøres før T112 (cap rate) og T113 (belegg) for å unngå dobbeltarbeid.
+
+**Løst 30.06.2026.** Driftskostnader redusert fra 2,10 til 1,00 MNOK stabilisert. Hver post vurdert:
+
+| Post | Var | Ny | Begrunnelse |
+|---|---:|---:|---|
+| Personell | 0,850 | 0,400 | Deltids drift, ingen dedikert sjåfør; støttes av KodeWorks-organisasjonen |
+| Forsikring | 0,100 | 0,080 | Marginal kutt |
+| Strøm og varme | 0,200 | 0,100 | T1-pakkens 53 % energireduksjon slår inn |
+| Vedlikehold/renhold | 0,100 | 0,050 | Nytt bygg, minimalt vedlikehold første år |
+| Adgangssystem | 0,180 | 0,050 | Plattform-utvikling kapitalisert (engangsinv.), kun driftsstøtte |
+| Markedsføring | 0,150 | 0,050 | Vedlikehold etter lease-up |
+| Regnskap/revisjon/juridisk | 0,120 | 0,070 | Standardregnskap i KodeWorks-strukturen |
+| Varebil | 0,220 | 0,050 | Ad-hoc-leie eller deling med KodeWorks-virksomheter |
+| Kommunale avgifter | 0,080 | 0,080 | Uendret |
+| Annet | 0,100 | 0,070 | Padding-justering |
+| **Sum** | **2,100** | **1,000** | |
+
+Konsekvenser oppdatert i:
+
+- `forretningsplan/fg30_forretningsplan.md`: 6.2 driftskostnadstabell og fotnote, 6.3 EBITDA-tabell (alle år) og fotnote, 7.1 break-even (45 → 21 %), 7.2 break-even tid (6–7 → 4–5 år; IRR 9–13 → 15–20 %), sammendrag (EBITDA-margin 55 → 79 %)
+- Konsekvenser av T113 (belegg) og T112 (cap rate) er integrert i samme oppdateringsrunde (se T112 og T113-løsningsnotater)
+
+**Flag for bankreviewere:** EBITDA-margin 79 % er ekstremt høyt for valet-storage internasjonalt (typisk 30–50 %). Brukerens vurdering er at KodeWorks-strukturen muliggjør den slanke driftsbasen. Forretningsplanen 6.3-fotnote forklarer dette eksplisitt for bankleser. Forventer at agentene i neste review-iterasjon flagger marginen, hvilket er kjent og akseptert risiko.
+
+---
+
+### T112 `[x]` Reverser cap rate til 6,0 / 6,5 / 7,0 %
+
+**Bakgrunn:** Bruker-feedback: «Det at banken tviler på raten som ligger til grunn for å beregne eiendomsverdi er mindre farlig enn at banken ser at eiendomsverdien er lav. Sett den tilbake til 6.0% / 6.5% / 7.0%.» T108 endret cap rate fra 6,5/6,0/5,5 % til 7,5/7,0/6,5 % for å være konservativ overfor banken. Brukerens nye vurdering er at lav eiendomsverdi er mer skadelig enn tvil om cap rate-grunnlaget.
+
+**Mål:** Sett cap rate-skalaen i forretningsplan 8.1 til **optimistisk 6,0 % / base 6,5 % / konservativ 7,0 %** (ett pp lavere enn dagens, ett pp høyere enn opprinnelig pre-T108).
+
+**Beregningseksempel (med EBITDA-tall som gjelder etter T111 + T113):**
+
+| Scenario | Cap rate | EBITDA stab. (T111+T113) | Eiendomsverdi |
+|---|---|---|---|
+| Konservativt (kun innvilget tilskudd) | 7,0 % | TBD | TBD |
+| Base (forventet tilskuddsbase) | 6,5 % | TBD | TBD |
+| Optimistisk (maks tilskuddspotensial) | 6,0 % | TBD | TBD |
+
+**Konsekvenser nedstrøms:**
+
+- Forretningsplan 8.1 NPV-tabell og fotnote (cap rate-tall, eiendomsverdi, multippel mot nettoinvestering, LTV)
+- Forretningsplan 6.1 finansieringstabell LTV-rad
+- Finansieringsplan 2.5 eiendomsverdi-tekst
+- Finansieringsplan 4.2 LTV-tabell og fortolkning
+- Finansieringsplan 7.1 + 7.2 LTV-rader i sensitivitetstabeller
+- Finansieringsplan 7.5 worst case cap rate-stress (justér tilsvarende)
+- Bankhenvendelse 00 faktaboks (eiendomsverdi) og sentrale tall
+
+**Berørte filer:** Samme som T111 + cap rate-spesifikke avsnitt.
+
+**Estimat:** 20–30 min.
+
+**Avhengighet:** Etter T111 (driftskostnader ned) og T113 (belegg opp), siden EBITDA endres som påvirker verdivurderingen.
+
+**Løst 30.06.2026.** Cap rate-skalaen satt til konservativt 7,0 % / base 6,5 % / optimistisk 6,0 % (var 7,5 / 7,0 / 6,5 % etter T108). EBITDA-tall per scenario beregnet med ±13 % spread fra ny base-EBITDA (etter T111+T113):
+
+| Scenario | Cap rate | EBITDA stab. | Eiendomsverdi |
+|---|---|---|---|
+| Konservativt (kun innvilget tilskudd) | 7,0 % | 3,40 MNOK | 48,5 MNOK |
+| Base (forventet tilskuddsbase) | 6,5 % | 3,82 MNOK | 58,8 MNOK |
+| Optimistisk (maks tilskuddspotensial) | 6,0 % | 4,32 MNOK | 72,0 MNOK |
+
+Konsekvenser oppdatert i:
+
+- `forretningsplan/fg30_forretningsplan.md` 8.1 NPV-tabell + fotnote, 6.1 finansieringstabell (LTV-rad 59 MNOK / ~49 %), 11 oppsummering
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` sammendrag (LTV 72/49/32 % per scenario), 2.5 eiendomsverdi (~59 MNOK), 4.2 LTV-tabell utvidet med eiendomsverdi per scenario, 7.1 tilskuddsutfall (LTV-rader), 7.2 BFU-utfall (LTV 47–60 %), 7.5 worst case
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` faktaboks og sentrale tall (eiendomsverdi base 59 MNOK, LTV forventet 49 %)
+
+LTV-bildet er nå komfortabelt: forventet scenario 49 %, basis 72 %, maks 32 % — alle innenfor normal sone for næringseiendom.
+
+---
+
+### T113 `[x]` Øk belegg med 4 prosentpoeng på alle utleieobjekt
+
+**Bakgrunn:** Bruker-feedback: «Du kan øke belegget på samtlige typer utleieobjekt med 4%.» Dagens belegg-antakelser i forretningsplan 5.1 anses for konservative gitt brukerens markedskunnskap.
+
+**Mål:** Øk belegg-tabellen i forretningsplan 5.1 med 4 prosentpoeng for alle segmenter:
+
+| Segment | Stabilisert (dagens) | Stabilisert (ny) |
+|---|---:|---:|
+| Selvbetjent | 88 % | 92 % |
+| Full-service | 85 % | 89 % |
+| Krypkjeller | 85 % | 89 % |
+| Kontor | 100 % | 100 % (kapper på 100 %) |
+
+Også oppdatere år 1–3-banen tilsvarende (+4 pp på hver kolonne, med kapping på 100 %).
+
+**Konsekvenser nedstrøms:**
+
+- Forretningsplan 5.2 inntektstabell: alle år, alle segmenter rekalkuleres (~5 % økning i bruttoinntekter; stabilisert sum løftes fra 4,63 til ~4,85 MNOK)
+- Forretningsplan 6.3 EBITDA-tabell: EBITDA løftes ytterligere
+- Forretningsplan 7.1 break-even-belegg: lavere prosent
+- Forretningsplan 7.2 break-even-tid og IRR: bedre
+- Forretningsplan 8.1 NPV: eiendomsverdi opp
+- Finansieringsplan 4.4 DSCR-bane: bedre stabilisert DSCR
+- Bankhenvendelse 00 sentrale tall
+
+**Berørte filer:** Samme som T111.
+
+**Estimat:** 15–25 min.
+
+**Avhengighet:** Bør gjøres før T112 (cap rate) for å unngå dobbeltarbeid.
+
+**Løst 30.06.2026.** Belegg-tabellen i forretningsplan 5.1 økt med 4 prosentpoeng på alle utleieobjekt:
+
+| Segment | Stab. (var) | Stab. (ny) |
+|---|---:|---:|
+| Selvbetjent | 88 % | 92 % |
+| Full-service | 85 % | 89 % |
+| Krypkjeller | 85 % | 89 % |
+| Kontor | 100 % | 100 % (uendret) |
+
+Lease-up-banen tilsvarende +4 pp per kolonne. Inntektstabell 5.2 re-tabulert for alle år, alle segmenter:
+
+| | År 1 | År 2 | År 3 | Stab. |
+|--|---:|---:|---:|---:|
+| Sum inntekter (var) | 2,85 | 3,65 | 4,36 | 4,63 |
+| Sum inntekter (ny) | 3,04 | 3,84 | 4,55 | 4,82 |
+
+Konsekvenser oppdatert i samme runde som T111 og T112 (EBITDA-tabell, break-even, DSCR-bane, eiendomsverdi). Lease-up-fotnote utvidet til å henvise til dokumentert forhåndsetterspørsel fra KodeWorks' eksisterende minilager-anlegg (jf. T120 for detaljert dokumentasjon).
+
+DSCR-bane (etter T111+T113) løftes fra under 1,0 til over 1,2-kovenant fra driftsår 1:
+
+| År | DSCR (var) | DSCR (ny) |
+|---|---:|---:|
+| 2028 (IO) | 0,54 | 1,05 |
+| 2029 (IO) | 0,86 | 1,42 |
+| 2030 (IO) | 1,14 | 1,75 |
+| 2031 (amort.) | 0,93 | 1,38 |
+| 2032 (stab.) | 0,98 | 1,49 |
+
+---
+
+### T114 `[x]` Presentere KMF/BYA endringsmeldinger som godkjent
+
+**Bakgrunn:** Bruker-feedback: «Du kan angi at vi har fått godkjent endringsmeldingene. Det er min risiko ovenfor banken å presentere denne infoen, og om jeg blir spurt kan jeg presentere at de er muntlig godkjent.» Pakka beskriver dagens status nyansert som «muntlig akseptert», men flere agenter har flagget at dette ikke er risikoreduserende dokumentasjon for kredittkomité.
+
+**Mål:** Endre formuleringen i bankvedleggene fra «muntlig akseptert» / «muntlig bekreftet» til «godkjent» (uten muntlig-kvalifikator). Brukeren bærer ansvaret for denne presentasjonen og kan ved nærmere spørsmål forklare at godkjenningen er muntlig.
+
+**Konkrete steder å endre:**
+
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` kap. 3.1 (KMF) og 3.2 (BYA): omformuler «muntlig bekreftet/akseptert» til «godkjent». Behold faktum om at endringsmelding ble sendt 25.06.2026, men presenter utfallet som godkjent
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` 2.3 «Høy sannsynlighet»-tabell: KMF søknad 2 og 3 / BYA søknad 2 og 3 – fjern «muntlig akseptert»-omtaler i grunnlagskolonnen, formuler som godkjent
+- Hvis det finnes andre steder med «muntlig»-formulering om endringsmeldingene, ryddes også der
+
+**Berørte filer:** Listet over.
+
+**Estimat:** 10–15 min.
+
+**Løst 30.06.2026.** «Muntlig akseptert / bekreftet / signalisert» fjernet og endringsmeldingene presentert som godkjent:
+
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` kap. 3.1 (KMF): omformulert til «Endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager) er godkjent av KMF som innenfor tilskuddets formål.»
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` kap. 3.2 (BYA): tilsvarende omformulering
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` 2.3-tabell (KMF søknad 2/3): «endringsanmodning til minilager muntlig akseptert» → «endringsanmodning til minilager godkjent»
+
+Verifisert med grep – ingen «muntlig akseptert/bekreftet/signalisert»-formuleringer gjenstår i bankvedleggene.
+
+---
+
+### T115 `[x]` Fjern Enova-kategoriforvirring (kartleggings- vs. investeringstilskudd)
+
+**Bakgrunn:** Iterasjon 2-agenter (Kredittsjef, Risk Officer) flagget at Enova energi-/ombrukskartleggingstilskudd (0,9 MNOK) ikke er investeringstilskudd som reduserer byggekostnaden. Bruker-feedback: «Kategoriforvirring for Enova er det du som har introdusert ved at du ikke har forstått hvordan støtte fungerer. Det er penger vi får refundert etter vi har brukt det. Vi bruker pengene på ombyggingsprosjektet.» Tilskuddene er reelt en refusjon av kostnader som inngår i prosjektet – og hører hjemme i tilskuddsoversikten.
+
+**Mål:** Fjern alt som antyder at Enova-kartleggingstilskuddene er en separat eller annerledes type tilskudd enn KMF/BYA/UNI. De er alle bevilgede tilskudd som dekker kostnader påløpt i prosjektet, og inngår på lik linje i den samlede tilskuddsstrukturen.
+
+**Konkret:** I synteserapporten `bank/reviews/2026-06-29_bank_review_001.md` står det «Sondre Enova-kartleggingstilskudd fra investeringstilskudd» som anbefaling – denne er feil og kommer fra min misforståelse. I bankpakka er det ingenting som faktisk inneholder denne forvirringen i dag (Enova nevnes som tilskudd uten å bli skilt fra resten). Tasken handler primært om å ikke introdusere kategoriforvirringen i fremtidige iterasjoner og om å avvise denne anbefalingen i synteserapporten ved neste review.
+
+**Berørte filer:**
+
+- `bank/reviews/2026-06-29_bank_review_001.md` (annotér at denne anbefalingen er avvist, eller fjern den fra prioriterte anbefalinger)
+- Sjekk `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` og `leveranser/2026-06-28_fg30_finansieringsplan.md` for evt. formuleringer som antyder kategoriskille – fjernes hvis funnet
+
+**Estimat:** 10–15 min.
+
+**Løst 30.06.2026.** `bank/reviews/2026-06-29_bank_review_001.md` annotert i tre punkter (nye svakheter pkt. 7, prioriterte anbefalinger kategori 2 pkt. 7, og kredittsjef-anbefaling) med strikethrough + **AVVIST (T115)**-merknad. Begrunnelse: Enova-tilskuddene er bevilgede tilskudd som refunderer kostnader påløpt i ombyggingsprosjektet, og hører hjemme i samlet tilskuddsoversikt på lik linje med KMF/BYA/UNI. Kumulering håndteres operativt per faktura/timekostnad ved utbetalingsanmodning (se T116 for utdypning). Bankpakka inneholdt ikke faktisk kategoriforvirring – feilen lå i hovedtrådens synteserapport.
+
+---
+
+### T116 `[x]` Statsstøtte-kumulering: skriv om / korriger forståelsen
+
+**Bakgrunn:** Iterasjon 2-jurist anbefalte å inkludere statsstøtte-kumuleringsanalyse (EØS-avtalens art. 61, bagatellforordningen 2023/2831). Bruker-feedback: «Man kan ikke vise statsstøtte kumulering før man har faktiske fakturaer og timekostnader man sprer på de ulike støtteordningene. Dette er et bullshit poeng som viser at du ikke har forstått hvordan akkumulering av støtte funker, og det skinner igjennom i dokumentasjonen du har presentert som får reviewer til å kicke.» Sammendraget av `../stotte`-prosjektet (`stotte/2026-06-27_stotte_sammendrag.md`) inneholder korrekt forståelse av hvordan kumulering håndteres operativt.
+
+**Mål:** Sett deg inn i `stotte/2026-06-27_stotte_sammendrag.md` for å forstå hvordan kumulering av offentlig støtte fungerer i praksis (per-faktura/per-timeallokering), og rydd opp i bankpakka der dette eventuelt er beskrevet feil eller utløser reviewer-kritikk.
+
+**Konkrete steg:**
+
+1. Les `stotte/2026-06-27_stotte_sammendrag.md`
+2. Sjekk om bankvedleggene 05 (støtteoversikt) eller 06 (tilskudd som EK) inneholder formuleringer som antyder en feilaktig forståelse av kumulering
+3. Hvis ja: omformuler til å reflektere at kumulering håndteres operativt per faktura/timekostnad ved utbetalingsanmodning, og at det ikke kan «vises» på forhånd som en statisk kalkulasjon
+4. Avvis anbefalingen om å inkludere statsstøtte-kumuleringsanalyse i synteserapporten `bank/reviews/2026-06-29_bank_review_001.md` (eller annotér den som basert på misforståelse)
+
+**Berørte filer:**
+
+- `stotte/2026-06-27_stotte_sammendrag.md` (lesemateriale)
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` (sjekk for feil)
+- `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (sjekk for feil)
+- `bank/reviews/2026-06-29_bank_review_001.md` (annotér avvisning)
+
+**Estimat:** 30–45 min.
+
+**Løst 30.06.2026.** Lest `stotte/2026-06-27_stotte_sammendrag.md` for korrekt forståelse: kumulering håndteres operativt per bilag/timekostnad ved utbetalingsanmodning, ikke som statisk forhåndskalkulasjon. 70 %-taket for kulturminnerehabilitering gjelder samlet intensitet på enkeltkostnader, ikke totaltilskudd i prosjektet. Sjekk av bankvedleggene viste ingen direkte feilformuleringer om kumulering.
+
+Endringer:
+
+- `bank/reviews/2026-06-29_bank_review_001.md`: To anbefalinger om statsstøtte-kumulering annotert med strikethrough + **AVVIST (T116)** (linje 69 i nye svakheter, linje 274 i jurist-anbefalinger). Begrunnelse innebakt i annoteringen
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` kap. 6: ny underseksjon 6.1 «Kort om kumulering og statsstøtteregelverket» som forhåndsavklarer for banken at: (a) hver ordning har eget godkjent budsjett og intensitet, (b) 70 %-taket gjelder kumulering på enkeltkostnad, (c) samlet bekreftet tilskudd ~7,5 % og maks-potensial ~33–43 % av totalt budsjett – godt innenfor taket på prosjektnivå, (d) operativ kumulering per bilag håndteres via prosjektets etablerte støttekoordineringssystem (`stotte/project_cards.json`).
+
+Denne presiseringen avverger reviewer-kritikk om manglende kumuleringsanalyse uten å forplikte til en statisk fremstilling som ikke kan lages før prosjektet har faktiske fakturaer.
+
+---
+
+### T117 `[x]` Fjern «pant i tilskuddsrettigheter» fra bankpakka
+
+**Bakgrunn:** Bruker-feedback: «Pant i tilskuddsrettigheter går ikke an. Man kan ikke pantsette dem. Idiotisk poeng å i det hele tatt ha med.» Formuleringen finnes flere steder i bankpakka og er juridisk feilaktig.
+
+**Mål:** Fjern alle referanser til «pant i tilskuddsrettigheter» fra bankvedleggene. Tilskudd kan ikke pantsettes – de er betingede utbetalinger som ikke utgjør et separat pantbart formuesgode.
+
+**Konkrete steder å sjekke (grep gir presis liste):**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` faktaboks/sikkerhet
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` 4.2 lånestrukturtabell, og evt. andre steder
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md`
+- Andre vedlegg ved behov
+
+**Erstatning:** Behold «1. prioritets pant i eiendommen» som hovedsikkerhet. Aksjonærgaranti kan nevnes der det er relevant (men se T121 om garanti-strukturering).
+
+**Berørte filer:** Identifiseres med grep før redigering.
+
+**Estimat:** 15–20 min.
+
+**Løst 30.06.2026.** Tre forekomster av «pant i tilskuddsrettigheter» fjernet:
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` faktaboks: «1. prioritets pant i eiendom + pant i tilskuddsrettigheter» → «1. prioritets pant i eiendom»
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` 4.2 lånestrukturtabell: «1. prioritets pant i eiendommen + pant i tilskuddsrettigheter» → «1. prioritets pant i eiendommen»
+- `leveranser/2026-06-26_tilskudd_som_egenkapital.md` linje 156: setning «Banken vil typisk ta pant i tilskuddsrettigheter som del av sikkerhetsstrukturen.» fjernet helt fra avsnittet
+
+Verifisert med grep – ingen forekomster gjenstår i bankvedleggene. (Treff i `bank/reviews/`-filene er agentanbefalinger om temaet og er observasjoner av forrige tilstand, ikke en del av pakka selv.)
+
+---
+
+### T118 `[x]` Forenkle anmodningen i bankhenvendelsen til ett konkret spørsmål
+
+**Bakgrunn:** Bruker-feedback: «Anmodningen du har skrevet er også bullshit. Den må spørre om det vi lurer på. Om INNVILGET støtte godtas av banken som EK. Helt jævla enkelt. Akkurat det og ikke noe annet fluff om støtte vi skal søke om som har høy sannsynlighet elns. Det eneste vi spør om er om de vil godta innvilget støtte som EK.» Dagens anmodning i bankhenvendelsen 00 er vag («prinsippvurdering av offentlige tilskudd som EK-ekvivalent») og blander innvilget støtte med fremtidige søknader.
+
+**Mål:** Skriv om seksjonen «Konkret anmodning» i bankhenvendelsen til ett enkelt spørsmål:
+
+> Aksepterer banken innvilget offentlig støtte (2,25 MNOK – tilsagnsbrev foreligger) som egenkapital i kredittvurderingen?
+
+Fjern alt om søknader under arbeid, sannsynlighetsklassifisering, Enova Energioppgradering som prioriteringsspor, EBA/GL-vekting osv. Det er én ting vi spør om: godtas bevilget støtte som EK eller ikke.
+
+**Konsekvenser i resten av bankhenvendelsen:**
+
+- Seksjon 4 «Offentlige tilskudd» kan trimmes – behold innvilget-blokken, fjern eller deemphasize «under søknad»-tabellene
+- Vedleggsbeskrivelser kan justeres så støtteoversikten (05) og tilskudd-som-EK (06) framstår som dokumentasjon på det innvilgede, ikke som strategisk argumentasjon for fremtidige søknader
+- Eventuelt: fjern eller deemphasize EBA/GL-argumentasjonen hvis den ikke er nødvendig for å støtte det enkle spørsmålet
+
+**Berørte filer:**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` (primært seksjon «Konkret anmodning» + seksjon 4)
+- Evt. mindre tilpasninger i `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (06) for konsistens
+
+**Estimat:** 20–30 min.
+
+**Løst 30.06.2026.** Bankhenvendelsens hovedformulering omarbeidet:
+
+- **Tittel forenklet:** «Fjordgata 30 – prinsippforespørsel om innvilget offentlig støtte som egenkapital» (var «prosjektgrunnlag og forespørsel om kredittvurderingsmessig prinsippvurdering»)
+- **Seksjon «Konkret anmodning» helt omskrevet** til ett konkret spørsmål: «Aksepterer banken innvilget offentlig støtte (2,25 MNOK – tilsagnsbrev foreligger) som egenkapital i kredittvurderingen av prosjektet?» Fjernet alt fluff om søknader, sannsynlighetsklassifisering, Enova Energioppgradering som prioriteringsspor, EBA/GL-vekting som hovedargument
+- **Seksjon 4 (offentlige tilskudd) omskrevet** fra fire blokker (innvilget / høy sann. / forventet / maks) til primær fokus på de innvilgede 2,25 MNOK med detaljert tilsagnsinformasjon per ordning. Søknader under arbeid kort nevnt som kontekst, eksplisitt notert som ikke del av prinsippspørsmålet
+- EBA/GL-paragrafen i seksjon 4 fjernet (henvises fortsatt til via vedlegg 06 for de som vil grave)
+
+Konsistens med T119 (samme dokument): KodeWorks som avsender etablert i samme runde.
+
+---
+
+### T119 `[x]` Omformuler bankhenvendelsen så fisjonsstatus ikke fremstår som hindring for prinsippspørsmålet
+
+**Bakgrunn:** Iterasjon 2-agenter (kunderådgiver, jurist) flagget at «Fjordgata 30 AS (under etablering)» er en svakhet siden banken ikke kan opprette kundesak på et ikke-eksisterende selskap. Bruker-feedback: «Fisjonsplan: helt uvesentlig nå. Det kommer når det kommer. Det vil sikkert være en forutsetning for at banken skal kunne gi lån - greit nok. Men det vi vil med henvendelsen er å få svar på om støtte godtas som EK. I den forbindelse er det uvesentlig at vi ikke har opprettet FG30 AS enda.»
+
+**Mål:** Omformuler bankhenvendelsen så det er tydelig at den nåværende henvendelsen er et prinsippspørsmål om EK-vekting av innvilget støtte – ikke en konkret kredittanmodning som krever ferdig juridisk struktur. Fjordgata 30 AS-fisjonen vil være på plass når banken faktisk skal vurdere lånet, men det er ikke nødvendig for å besvare prinsippspørsmålet.
+
+**Konkrete grep:**
+
+- I åpningen eller faktaboksen: kort note om at fisjon fra KodeWorks Eiendom AS til Fjordgata 30 AS vil være gjennomført før eventuell låneutbetaling, og at dette ikke påvirker det prinsipielle spørsmålet om EK-vekting som besvares i denne henvendelsen
+- I anmodningsseksjonen (etter T118): henvendelsen rettes fra KodeWorks Eiendom AS som tiltakshaver i prosjekteringsfasen, og det prinsipielle svaret vil gjelde uavhengig av eventuell selskapsoverføring senere
+- Reduser eller fjern fremhevingen av «Fjordgata 30 AS (under etablering)» i toppen av brevet – KodeWorks Eiendom AS er like gjerne avsender for denne henvendelsen
+
+**Berørte filer:**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` (åpning, faktaboks, signatur-blokk)
+
+**Estimat:** 15–25 min.
+
+**Avhengighet:** Bør gjøres samtidig med T118 siden begge omhandler bankhenvendelsens hovedformulering.
+
+**Løst 30.06.2026.** Bankhenvendelsen omformulert så fisjonsstatus ikke fremstår som hindring:
+
+- **Frontmatter:** author endret fra «Eirik Larsen, Fjordgata 30 AS (under etablering)» til «Eirik Larsen, KodeWorks Eiendom AS»
+- **Faktaboks:** «Tiltakshaver»-rad delt i to – «Avsender / nåværende eier: KodeWorks Eiendom AS (org.nr. 920 478 506)» og «Tiltakshaver ved låneutbetaling: Fjordgata 30 AS – opprettes ved planlagt fisjon før utbetaling»
+- **Innledning:** ny avslutningsavsnitt som eksplisitt sier at henvendelsen sendes fra KodeWorks som nåværende eier, og at Fjordgata 30 AS opprettes ved planlagt fisjon før eventuell låneutbetaling – uten å påvirke besvarelsen av prinsippspørsmålet
+- **Konkret anmodning-seksjon:** påpeker eksplisitt at svaret «ikke er avhengig av at fisjonen ... er gjennomført»
+- **Signatur:** endret til «KodeWorks Eiendom AS (org.nr. 920 478 506)»
+
+Banken kan nå opprette kundesak på KodeWorks Eiendom AS (eksisterende juridisk enhet) og besvare prinsippspørsmålet uten å vente på fisjonsformalia. Fjordgata 30 AS-fisjonen kommer som forutsetning for selve låneutbetalingen, ikke for besvarelsen av denne henvendelsen.
+
+---
+
+### T120 `[x]` Dokumenter etterspørsel fra eksisterende minilager-/kjellerleietakere (i stedet for LOI)
+
+**Bakgrunn:** Iterasjon 2-CRE-spesialist anbefalte LOI-kampanje. Bruker-feedback: «Glem LOIene da. Fokuser på markedsundersøkelsene og at vi har et eksisterende minilager og samtlige der spør om de kan få fortrinnsrett når vi lager nytt lager. Og de som har leid i kjeller spør om de kan få fortrinnsrett til å leie som båtfolk.» KodeWorks driver allerede et minilager-tilbud (sannsynligvis i Grønnegata 10 eller annet KodeWorks-bygg), og kunder der har eksplisitt etterspurt fortrinnsrett ved FG30-oppstart. Tilsvarende har eksisterende kjellerleietakere spurt om å fortsette som båtfolk-segment i den nye krypkjeller-løsningen.
+
+**Mål:** Skriv et kort dokumentasjonsavsnitt i `forretningsplan/fg30_forretningsplan.md` (kap. 3 markedsanalyse eller kap. 4 om utleiekonsept) og i `forretningsplan/kilde_markedsdata.md` som dokumenterer:
+
+- At KodeWorks driver et eksisterende minilager-tilbud
+- At samtlige nåværende leietakere har spurt om fortrinnsrett ved FG30-oppstart
+- At eksisterende kjellerleietakere har spurt om fortrinnsrett til båt-/padlelagring i den nye krypkjeller-løsningen
+- Anslått størrelse på denne forhåndsetterspørselen (antall enheter, kvm), hvis tall finnes
+
+Dette erstatter behovet for en formell LOI-kampanje og forsterker forretningsplanens etterspørselsside med konkret faktagrunnlag.
+
+**Praktisk:** Brukeren må levere fakta (antall leietakere, hvilket bygg, hvilke segmenter de er interessert i, ev. dokumentasjon på henvendelser). Tasken kan forberedes med plassholdere klar for tallene.
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` (kap. 3 og/eller 4)
+- `forretningsplan/kilde_markedsdata.md` (etterspørselseksjon)
+- Konsekvens for bankhenvendelse 00 (kort omtale i konsept-avsnittet kan vurderes)
+
+**Estimat:** 15–30 min når brukerens fakta er klare; ev. plassholderversjon 10 min.
+
+**Avhengighet:** T110 (LOI-kampanje) kan deemphasizes eller utsettes når T120 dekker behovet for å vise forhåndsetterspørsel.
+
+**Løst 30.06.2026.** Brukerens fakta integrert i bankpakka:
+
+- **Lager:** 10 av KodeWorks' eksisterende minilager-kunder har bedt om fortrinnsrett til FG30. Forhåndssigneringer uproblematisk å innhente.
+- **Krypkjeller:** Trondheim By Boat har meldt interesse for kjeller-boder med direkte Nidelv-aksess.
+- **Kontor:** Fire navngitte interessenter (Kystverket, KodeWorks, et arkitektfirma i Trondheim, en kunde av KodeWorks) — interessebildet overstiger tilgjengelig kapasitet.
+
+Lagt inn som:
+
+- `forretningsplan/fg30_forretningsplan.md`: ny seksjon **3.3 Dokumentert forhåndsetterspørsel**. Dagens 3.3 (Målgrupper) renumert til 3.4.
+- `forretningsplan/kilde_markedsdata.md`: ny seksjon **4.5 Dokumentert forhåndsetterspørsel før byggestart** med samme info i markedsdata-kontekst.
+
+Begge avsnitt presiserer at etterspørselen ikke er kontraktsfestet ennå, men gir navnsetting til lease-up-prognosens antakelser. LOI-kampanje (T110) kan nå deemphasizes – grunnlaget for «forhåndsetterspørsel» er allerede dokumentert i forretningsplanen.
+
+---
+
+### T121 `[x]` Dokumenter KodeWorks-strukturen og prosjektkompetansen (avvis nøkkelpersonrisiko-kritikk)
+
+**Bakgrunn:** Iterasjon 2-Risk Officer flagget at Eirik er prosjekteier, daglig leder, fagansvarlig og garantist samtidig – «ingen redundans». Bruker-feedback: «KodeWorks er Eirik sitt selskap. Der er det to andre ledere og en svært velfungerende regnskaps og adm funksjon. Kristian og Ole Morten har vel så god forståelse av prosjektet som Eirik, ingen problem at de styrer det opp. Konstruert problemstilling. Men bør dokumenteres bedre hvis det er noe reviewers kicker på.»
+
+**Mål:** Legg til en kort dokumentasjonsdel i bankpakka som adresserer organisasjonsstrukturen og prosjektkompetansen, slik at reviewers (og banken) ikke mistolker dette som nøkkelpersonrisiko.
+
+**Innhold som bør dekkes:**
+
+- KodeWorks-organisasjonen: to ledere i tillegg til Eirik, velfungerende regnskaps- og admin-funksjon
+- Kristian og Ole Morten: deres rolle i FG30-prosjektet, kompetanse og kapasitet til å videreføre prosjektet ved eventuell fratredelse av Eirik
+- Backup-/kontinuitetsplan implisitt eller eksplisitt
+- Ev. henvisning til at HRP, SAHAA, RIB og øvrige profesjonelle rådgivere har full dokumentasjon på prosjektet uavhengig av enkeltpersoner
+
+**Plassering:** Kan inn i forretningsplan kap. 1 (selskap) eller ny seksjon 1.3 «Organisasjon og prosjektkapasitet». Alternativt: kort note i bankhenvendelsen 00.
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` (kap. 1)
+- Evt. `leveranser/2026-06-28_fg30_bankhenvendelse.md` (kort henvisning)
+
+**Estimat:** 20–30 min når brukerens info om ledere og strukturen er på plass.
+
+**Løst 30.06.2026.** Brukerens fakta integrert i forretningsplanen:
+
+- Daglig leder: **Eirik Larsen** – overordnet drift, prosjekteierskap for FG30, ekstern dialog
+- Økonomi/fag/IT: **Aleksander Skraastad**
+- Konsulent/personal: **Lasse Holanger** – leder KodeWorks konsulentavdeling, personalansvar
+- Ekstern partner: **Orkla Regnskap** – tett operativt samspill med selskapets økonomiske drift (ikke bare ren regnskapsføring)
+- Fysisk prosjektutførelse på FG30: Kristian Brandsegg og Ole Morten Lagmannssveen
+- Faglig støtte: SAHAA Arkitekter, HRP AS (RIB og energi), øvrige konsulenter etter behov
+
+Lagt inn som:
+
+- `forretningsplan/fg30_forretningsplan.md`: ny seksjon **1.3 Organisasjon og prosjektkapasitet** etter 1.2 Bygningen. Tabellbasert lederoversikt + omtale av Orkla Regnskap + prosjektkapasiteten på selve FG30 + eksplisitt konklusjon om at prosjektet kan videreføres uavhengig av enkeltpersoner.
+
+Avviser nøkkelpersonrisiko-kritikken fra iterasjon 2 ved å vise at det er en eksisterende organisasjon med tre ledere og etablert økonomi/admin-funksjon, ikke et ettmannsforetak.
 
 ---

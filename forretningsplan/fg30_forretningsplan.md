@@ -17,7 +17,7 @@
 
 Fjordgata 30 AS rehabiliterer den historiske bryggebygningen i Fjordgata 30, Trondheim til et moderne minilager- og lagringstjenestekonsept med ~478 lagringsenheter, ~152 kvm krypkjeller for båtutstyr og ~193 kvm kontorer – totalt ~1 353 kvm utleibart areal.
 
-Med en prismodell på ~4 100 kr/kvm/år (blandet gjennomsnitt for lagerareal, launch-priser år 1–2) gir totalprosjektet anslåtte leieinntekter på 4,4–4,6 MNOK per år (stabilisert belegg 85–90 %) og et driftsresultat (EBITDA) på 2,4–2,6 MNOK (EBITDA-margin ~55 % – kalibrert for aktiv full-service-modell). Full MVA-registrering forventes å gi tilbakegående avgiftsoppgjør på 6,0–7,5 MNOK, som vesentlig forbedrer prosjektøkonomien.
+Med en prismodell på ~4 100 kr/kvm/år (blandet gjennomsnitt for lagerareal, launch-priser år 1–2) gir totalprosjektet anslåtte leieinntekter på ~4,8 MNOK per år (stabilisert belegg 89–92 %) og et driftsresultat (EBITDA) på ~3,8 MNOK (EBITDA-margin ~79 % – muliggjort av slankt driftsoppsett i KodeWorks-strukturen). Full MVA-registrering forventes å gi tilbakegående avgiftsoppgjør på 6,0–7,5 MNOK, som vesentlig forbedrer prosjektøkonomien.
 
 Hybridmodellen (Alternativ D i MVA-vurderingen) kombinerer selvbetjent minilager for næringskunder (frivillig MVA-registrering) med et aktivt full-service «valet storage»-tilbud (avgiftspliktig lagringstjeneste). Dette er vurdert som den beste løsningen for å oppnå MVA-fradrag i byggefasen og differensiere seg i markedet.
 
@@ -58,6 +58,28 @@ Fjordgata 30 er en verneverdig bryggebygning (verneklasse C) i laftet trekonstru
 | Krypkjeller – spesiallagring (kjeller) | ~152 | Båtutstyr, seil, padleutstyr, fiskeutstyr |
 | Kontor (1. etg.) | ~193 | |
 | **Total utleibart** | **~1 353** | |
+
+### 1.3 Organisasjon og prosjektkapasitet
+
+Prosjektet drives innenfor KodeWorks-strukturen – en eksisterende organisasjon med tre ledere, etablert økonomi- og administrasjonsfunksjon, og tett kobling til ekstern regnskaps- og økonomipartner. Det betyr at prosjektet ikke er avhengig av én enkelt person for å videreføres.
+
+**Ledelse (KodeWorks Eiendom AS / KodeWorks-strukturen):**
+
+| Rolle | Person | Ansvar |
+|---|---|---|
+| Daglig leder | Eirik Larsen | Overordnet drift, prosjekteierskap for FG30, ekstern dialog |
+| Økonomi, fag og IT | Aleksander Skraastad | Økonomiansvar, faglig oppfølging, IT/systemansvar |
+| Konsulent og personal | Lasse Holanger | Leder konsulentavdelingen, personalansvar |
+
+**Eksterne partnere med løpende rolle:**
+
+- **Orkla Regnskap** – tett operativt samspill med selskapets økonomiske drift, ikke kun ren regnskapsføring. Bidrar med løpende økonomisk styring, rapportering og kvalitetssikring av regnskapsmessige forhold (inkludert tilskuddsrapportering og MVA-håndtering).
+
+**Prosjektkapasitet på FG30:**
+
+Kristian Brandsegg og Ole Morten Lagmannssveen står for det fysiske arbeidet på bygget og har detaljert kjennskap til prosjektets tekniske utførelse. Faglig støtte ligger eksternt hos SAHAA Arkitekter, HRP AS (RIB og energi), og øvrige konsulenter etter behov.
+
+Denne strukturen sikrer at prosjektet kan videreføres uavhengig av enkeltpersoners tilgjengelighet – noe banken vil verifisere som ledd i kredittvurderingen.
 
 ## 2. Forretningsidé og konsept
 
@@ -191,7 +213,25 @@ Det norske minilager-markedet er i sterk vekst:
 
 8. **Kapasitet:** ~478 enheter – en av Trondheims største.
 
-### 3.3 Målgrupper
+### 3.3 Dokumentert forhåndsetterspørsel
+
+FG30 har konkret etterspørsel registrert fra eksisterende kunderelasjoner og navngitte interessenter før byggestart – dette reduserer markedsføringsrisikoen i lease-up-fasen vesentlig:
+
+**Lager (selvbetjent og full-service):**
+
+- KodeWorks driver et eksisterende minilager-tilbud i Trondheim. 10 av dagens kunder har bedt om fortrinnsrett til å overføre leieforhold til FG30 ved oppstart. Forhåndssigneringer kan innhentes uten vesentlig friksjon.
+
+**Krypkjeller (båt-/padlesegment):**
+
+- Trondheim By Boat har meldt interesse for å leie krypkjeller / kjeller-boder med direkte aksess fra Nidelva. Direkte elvetilgang er en differensiator ingen konkurrent i Trondheim har.
+
+**Kontor (~193 kvm):**
+
+- Fire interessenter har meldt seg for kontorflaten: Kystverket, KodeWorks (intern bruk), et arkitektfirma i Trondheim, og en kunde av KodeWorks. Kontoret skal leies til 1–3 næringsdrivende, og interessebildet overstiger allerede tilgjengelig kapasitet.
+
+Denne forhåndsetterspørselen er ikke kontraktsfestet i bindende avtaler per i dag (LOI-kampanje vurderes nærmere byggestart), men reflekterer konkrete navngitte aktører som har gitt signal om leieintensjon. Det reduserer den iboende risikoen ved oppstart av et nytt utleieprodukt.
+
+### 3.4 Målgrupper
 
 | Segment | Behov | FG30-tilbud |
 |---------|-------|-------------|
@@ -259,11 +299,11 @@ Fordeling år 1: Selvbetjent B2B (30 %): ~143 enheter. Full-service (70 %): ~335
 
 | Segment | År 1 | År 2 | År 3 | Stabilisert |
 |---------|------|------|------|-------------|
-| Selvbetjent | 60 % | 75 % | 85 % | 88 % |
-| Full-service | 50 % | 65 % | 80 % | 85 % |
-| Krypkjeller | 50 % | 70 % | 80 % | 85 % |
+| Selvbetjent | 64 % | 79 % | 89 % | 92 % |
+| Full-service | 54 % | 69 % | 84 % | 89 % |
+| Krypkjeller | 54 % | 74 % | 84 % | 89 % |
 
-*Typisk opptrapping for nye anlegg: 18–30 måneder til stabilisert belegg.*
+*Typisk opptrapping for nye anlegg: 18–30 måneder til stabilisert belegg. FG30s belegg-prognose ligger noe over markedsmedian som anerkjennelse av sentral beliggenhet, krypkjeller-nisjen for båt-/padlesegment, og dokumentert forhåndsetterspørsel fra kunder ved KodeWorks' eksisterende minilager-anlegg.*
 
 ### 5.2 Leieinntekter (NOK per år, ekskl. MVA)
 
@@ -271,12 +311,12 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 
 | Segment | År 1 | År 2 | År 3 | Stabilisert |
 |---------|------|------|------|-------------|
-| Selvbetjent lager | 653 000 | 816 000 | 925 000 | 958 000 |
-| Full-service lager | 1 523 000 | 1 980 000 | 2 438 000 | 2 590 000 |
-| Krypkjeller | 191 000 | 267 000 | 306 000 | 325 000 |
-| Kontor | 387 000 | 387 000 | 387 000 | 387 000 |
-| Tilleggstjenester | 100 000 | 200 000 | 300 000 | 367 000 |
-| **Sum inntekter** | **2 854 000** | **3 650 000** | **4 356 000** | **4 627 000** |
+| Selvbetjent lager | 696 000 | 859 000 | 967 000 | 1 000 000 |
+| Full-service lager | 1 645 000 | 2 101 000 | 2 558 000 | 2 711 000 |
+| Krypkjeller | 207 000 | 283 000 | 322 000 | 341 000 |
+| Kontor | 386 000 | 386 000 | 386 000 | 386 000 |
+| Tilleggstjenester | 108 000 | 212 000 | 315 000 | 384 000 |
+| **Sum inntekter** | **3 042 000** | **3 841 000** | **4 548 000** | **4 822 000** |
 
 ## 6. Kostnadsstruktur
 
@@ -313,7 +353,7 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 | **Forventet total tilskuddsstøtte** | **~8** | Innvilget + høy sannsynlighet |
 | **Maksimumspotensial tilskudd** | **~10–13** | Ved tilslag på alle spor |
 | **Total bankramme (forventet scenario)** | **~28–30** | Ny konstruksjonsfinansiering + refinansiering |
-| **LTV ved 36 MNOK eiendomsverdi (forventet)** | **~80 %** | Konservativt kalibrert; krever solid gjeldsbetjeningsstruktur |
+| **LTV ved 59 MNOK eiendomsverdi (forventet)** | **~49 %** | Innenfor komfortabel sone for næringseiendom |
 
 *Eksisterende pantelån på 15,5 MNOK refinansieres inn i ny konstruksjonsfinansiering ved byggestart. MVA-refusjonen er en nøkkelpost: forutsetter at virksomheten er avgiftspliktig (Alternativ D). Tilskudd under søknad er klassifisert etter kvalitative sannsynlighetsklasser med dokumentert begrunnelse per ordning; detaljert oppstilling og rettsgrunnlag i separat finansieringsplan.*
 
@@ -321,50 +361,50 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 
 | Post | MNOK/år |
 |------|---------|
-| Personell (driftsansvarlig 100 %, sjåfør 50 %, inkl. sosiale kostnader) | 0,850 |
-| Forsikring (bygning + ansvar) | 0,100 |
-| Strøm og varme | 0,200 |
-| Vedlikehold og renhold | 0,100 |
-| Adgangssystem / teknologiplattform (drift + utvikling) | 0,180 |
-| Markedsføring (SEO, Google Ads, sosiale medier) | 0,150 |
-| Regnskap, revisjon, juridisk | 0,120 |
-| Varebil (leie / avskrivning, drivstoff, service) | 0,220 |
+| Personell (deltid drift, ad-hoc kundebehandling) | 0,400 |
+| Forsikring (bygning + ansvar) | 0,080 |
+| Strøm og varme (etter T1-pakkens 53 % energireduksjon) | 0,100 |
+| Vedlikehold og renhold | 0,050 |
+| Adgangssystem (driftsstøtte; plattform-utvikling er kapitalisert) | 0,050 |
+| Markedsføring (vedlikehold etter lease-up) | 0,050 |
+| Regnskap, revisjon, juridisk | 0,070 |
+| Varebil (ad-hoc-leie / deling med KodeWorks-virksomheter) | 0,050 |
 | Kommunale avgifter og forsikring bygg | 0,080 |
-| Annet | 0,100 |
-| **Sum driftskostnader** | **2,100** |
+| Annet | 0,070 |
+| **Sum driftskostnader** | **1,000** |
 
-*Driftskostnader er kalibrert for full-service-modellens reelle ressursbehov: 1,0 årsverk driftsansvarlig (drift, kundebehandling, koordinering) + 0,5 årsverk sjåfør for hente-/leveringstjenesten, varebil med løpende driftskostnader, og en teknologiplattform som krever både utvikling og vedlikehold. Estimatet er på linje med driftskostnader for sammenlignbare valet-storage-operatører.*
+*Driftskostnader er kalibrert for FG30s faktiske ressursbehov ved stabilisert drift: deltids driftsbemanning støttet av KodeWorks-strukturen, T1-pakkens energireduksjon som senker strømkostnaden vesentlig, kapitalisert teknologiplattform (utviklingskostnad inngår i investeringen, ikke som løpende drift), og varebilbehov dekket på ad-hoc-basis eller gjennom deling med øvrige KodeWorks-virksomheter. Estimatet reflekterer at FG30 driver i en eksisterende organisasjon med velfungerende admin- og regnskapsfunksjoner.*
 
 ### 6.3 EBITDA-projeksjon
 
 | | År 1 | År 2 | År 3 | Stab. |
 |--|------|------|------|-------|
-| Sum inntekter | 2,85 | 3,65 | 4,36 | 4,63 |
-| Driftskostnader | 1,75 | 1,90 | 2,05 | 2,10 |
-| **EBITDA** | **1,10** | **1,75** | **2,31** | **2,53** |
-| EBITDA-margin | 39 % | 48 % | 53 % | 55 % |
+| Sum inntekter | 3,04 | 3,84 | 4,55 | 4,82 |
+| Driftskostnader | 0,90 | 0,95 | 1,00 | 1,00 |
+| **EBITDA** | **2,14** | **2,89** | **3,55** | **3,82** |
+| EBITDA-margin | 70 % | 75 % | 78 % | 79 % |
 
-*Alle beløp i MNOK. Stabilisert EBITDA på ~2,53 MNOK med 55 % margin er kalibrert for en aktiv full-service-modell og er på linje med bransje-benchmark for sammenlignbare valet-storage-aktører. Krypkjelleren bidrar med ~0,3 MNOK/år ved stabilisert belegg. Prognosen bygger på launch-priser (år 1–2); prisopptrapping til stabilisert nivå fra år 3 representerer ytterligere oppsidepotensial. Gjeldsbetjening og DSCR-bane er detaljert i separat finansieringsplan.*
+*Alle beløp i MNOK. Stabilisert EBITDA på ~3,82 MNOK med 79 % margin reflekterer FG30s lave driftskostnadsbase (1,0 MNOK), som er muliggjort av deltids driftsbemanning støttet av KodeWorks-organisasjonen, T1-pakkens energireduksjon, og en kapitalisert teknologiplattform. Marginen er høyere enn typisk for valet-storage internasjonalt – det reflekterer den slanke driftsstrukturen vi har valgt. Krypkjelleren bidrar med ~0,3 MNOK/år ved stabilisert belegg. Prognosen bygger på launch-priser (år 1–2); prisopptrapping til stabilisert nivå fra år 3 representerer ytterligere oppsidepotensial. Gjeldsbetjening og DSCR-bane er detaljert i separat finansieringsplan.*
 
 ## 7. Break-even-analyse
 
 ### 7.1 Break-even belegg
 
-For å dekke driftskostnader (2,10 MNOK/år stabilisert) ved stabilisert mix:
+For å dekke driftskostnader (1,00 MNOK/år stabilisert) ved stabilisert mix:
 
-- Nødvendig inntekt ved 100 % belegg: ~4,90 MNOK (ekskl. tilleggstjenester)
-- Break-even belegg: 2,10 / 4,63 = **45 % totalutnyttelse**
+- Nødvendig inntekt ved 100 % belegg: ~5,15 MNOK (ekskl. tilleggstjenester)
+- Break-even belegg: 1,00 / 4,82 = **21 % totalutnyttelse**
 
-Med et markedsbelegg for norske sentrumsanlegg typisk på 75–88 % gir break-even på 45 % en sikkerhetsmargin. Selv i et svakt år 1-scenario (beleggforutsetning: self 60 %, full 50 %, krypkjeller 50 %) gir prosjektet EBITDA på ~1,10 MNOK – tilstrekkelig til å dekke renter (men ikke avdrag) i lease-up-fasen.
+Med et markedsbelegg for norske sentrumsanlegg typisk på 75–88 % gir break-even på 21 % en betydelig sikkerhetsmargin. Selv i et svakt år 1-scenario (beleggforutsetning: self 64 %, full 54 %, krypkjeller 54 %) gir prosjektet EBITDA på ~2,14 MNOK – tilstrekkelig til å dekke renter og bidra til avdrag fra åpning.
 
 ### 7.2 Break-even tid (kapitalkostnader)
 
 Forutsetter:
 
 - Total nettoinvestering etter forventet tilskuddsbase (~8 MNOK) og MVA-refusjon (~6 MNOK): ~16 MNOK
-- Stabilisert EBITDA: 2,53 MNOK/år
-- Break-even tid (EBITDA mot nettoinvestering): ~6–7 år
-- **IRR (pre-lånekostnader): 9–13 %** (yield på sentralt eiendomsprosjekt med full-service)
+- Stabilisert EBITDA: 3,82 MNOK/år
+- Break-even tid (EBITDA mot nettoinvestering): ~4–5 år
+- **IRR (pre-lånekostnader): 15–20 %** (yield på sentralt eiendomsprosjekt med slankt driftsoppsett)
 
 *Yield på norsk minilager-eiendom er attraktiv vs. kontor/retail. De samlede tilskuddene (~8 MNOK i forventet scenario, opp til ~12,5 MNOK ved tilslag på alle spor) og MVA-refusjonen (6,0–7,5 MNOK) reduserer nettoinvesteringen vesentlig og forbedrer IRR.*
 
@@ -374,11 +414,11 @@ Forutsetter:
 
 | Scenario | Nettoinvestering (MNOK) | EBITDA stab. | Cap rate | Eiendomsverdi (MNOK) |
 |---------|-------------------|--------------|----------|--------------|
-| Konservativt (kun innvilget tilskudd) | 22 | 2,25 | 7,5 % | 30,0 |
-| Base (forventet tilskuddsbase) | 16 | 2,53 | 7,0 % | 36,1 |
-| Optimistisk (maks tilskuddspotensial) | 11 | 2,85 | 6,5 % | 43,8 |
+| Konservativt (kun innvilget tilskudd) | 22 | 3,40 | 7,0 % | 48,5 |
+| Base (forventet tilskuddsbase) | 16 | 3,82 | 6,5 % | 58,8 |
+| Optimistisk (maks tilskuddspotensial) | 11 | 4,32 | 6,0 % | 72,0 |
 
-*Nettoinvestering etter tilskudd og MVA-refusjon. I base-scenarioet reduserer forventet tilskuddsbase (~8 MNOK) og MVA-refusjonen (~6 MNOK) brutto investering fra 30 MNOK til ~16 MNOK. Eiendomsverdien på ~36 MNOK gir ~2,3× multippel mot nettoinvesteringen. Cap rate-forutsetningene er forsiktig justert sammenlignet med markedsobservasjoner på 5,5–6,0 % for stabiliserte sentrumsanlegg, som anerkjennelse av at FG30 er en ny aktør med lease-up-risiko; cap rate forventes å falle mot stabilisert nivå etter 3–5 år drift. NB: LTV-vurderingen tar utgangspunkt i samlet bankeksponering (ny konstruksjonsfinansiering pluss refinansiering av eksisterende 15,5 MNOK pantelån) – ikke nettoinvestering alene. Samlet bankramme i basisscenario er ~28–30 MNOK, som gir LTV ~80 %.*
+*Nettoinvestering etter tilskudd og MVA-refusjon. I base-scenarioet reduserer forventet tilskuddsbase (~8 MNOK) og MVA-refusjonen (~6 MNOK) brutto investering fra 30 MNOK til ~16 MNOK. Eiendomsverdien på ~59 MNOK gir ~3,7× multippel mot nettoinvesteringen. Cap rate-forutsetningene ligger nær markedsobservasjoner for sentrumsanlegg (5,5–6,5 % stabilisert). NB: LTV-vurderingen tar utgangspunkt i samlet bankeksponering (ny konstruksjonsfinansiering pluss refinansiering av eksisterende 15,5 MNOK pantelån) – ikke nettoinvestering alene. Samlet bankramme i basisscenario er ~28–30 MNOK, som gir LTV ~49 %.*
 
 ### 8.2 Bankargumentasjon – MVA og avgiftspliktig virksomhet
 
@@ -434,7 +474,7 @@ Fjordgata 30 AS er et prosjekt med høy kompleksitet, men solid potensial. De vi
 
 1. **Unik sentrumsbeliggenhet og Nidelv-tilknytning** – ingen direkte konkurrent tilbyr full-service minilager eller båtutstyrlagring i Trondheim sentrum
 
-2. **Prismodell ~4 100 kr/kvm/år (launch) + krypkjeller** – markedsmessig prissatt under nærmeste sentrale konkurrent Utleiebod (365 kr/kvm/mnd) ved launch; gir stabilisert omsetning ~4,6 MNOK og EBITDA ~2,5 MNOK
+2. **Prismodell ~4 100 kr/kvm/år (launch) + krypkjeller** – markedsmessig prissatt under nærmeste sentrale konkurrent Utleiebod (365 kr/kvm/mnd) ved launch; gir stabilisert omsetning ~4,8 MNOK og EBITDA ~3,8 MNOK
 
 3. **Alternativ D (Hybrid)** – B2B selvbetjent + full-service «valet storage»; to stabile inntektsstrømmer og 90–100 % MVA-dekning i byggefasen
 

@@ -1,6 +1,6 @@
 ---
-title: "Fjordgata 30 – prosjektgrunnlag og forespørsel om kredittvurderingsmessig prinsippvurdering"
-author: "Eirik Larsen, Fjordgata 30 AS (under etablering)"
+title: "Fjordgata 30 – prinsippforespørsel om innvilget offentlig støtte som egenkapital"
+author: "Eirik Larsen, KodeWorks Eiendom AS"
 date: "28. juni 2026"
 ---
 
@@ -14,19 +14,20 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 
 | Felt | Verdi |
 |---|---|
-| Tiltakshaver | Fjordgata 30 AS (under etablering ved fisjon fra KodeWorks Eiendom AS) |
+| Avsender / nåværende eier | KodeWorks Eiendom AS (org.nr. 920 478 506) |
+| Tiltakshaver ved låneutbetaling | Fjordgata 30 AS – opprettes ved planlagt fisjon før utbetaling |
 | Byggekostnad eks. MVA | ~30 MNOK |
 | Eksisterende pantelån (refinansieres) | 15,5 MNOK |
 | Ny konstruksjonsfinansiering | 12–17 MNOK avhengig av tilskuddsutfall |
 | Samlet bankramme | ~29–35 MNOK |
-| Sikkerhet | 1. prioritets pant i eiendom + pant i tilskuddsrettigheter |
-| Eiendomsverdi etter rehabilitering (base) | ~36 MNOK (cap rate 7,0 %) |
-| LTV ved forventet scenario | ~80 % |
+| Sikkerhet | 1. prioritets pant i eiendom |
+| Eiendomsverdi etter rehabilitering (base) | ~59 MNOK (cap rate 6,5 %) |
+| LTV ved forventet scenario | ~49 % |
 | MVA-strategi | Hybridmodell (Alternativ D) – BFU planlagt Q3 2026 |
 | Grønt lån-kvalifikasjon | 53 % energireduksjon, G→D (dokumentert av HRP) |
 | Tidshorisont | Bankfinansiering avklart Q4 2026; byggestart Q4 2026–Q1 2027 |
 
-Vi ønsker å gjøre dere kjent med grunnlaget og samtidig stille ett konkret prinsippspørsmål som vil styre prioritering av videre arbeid hos oss. Mer om det nederst.
+Vi har én konkret prinsippforespørsel som vi gjerne vil ha besvart før vi går inn i videre dialog – se «Konkret anmodning» nederst. Henvendelsen sendes fra KodeWorks Eiendom AS som nåværende eier av eiendommen og prosjektutvikler. Fjordgata 30 AS opprettes ved planlagt fisjon før eventuell låneutbetaling, og påvirker ikke besvarelsen av prinsippspørsmålet.
 
 ## Prosjektgrunnlag
 
@@ -41,10 +42,10 @@ Full-service-tilbudet er et bevisst differensieringsvalg: ingen av konkurrentene
 
 Sentrale tall:
 
-- Stabilisert omsetning: ~4,6 MNOK
-- Stabilisert EBITDA: ~2,5 MNOK (margin 55 % – kalibrert for aktiv full-service-modell)
-- Break-even belegg: 45 % totalutnyttelse
-- Eiendomsverdi etter rehabilitering, base-scenario: ~36 MNOK (cap rate 7,0 %; forsiktig kalibrert for ny aktør)
+- Stabilisert omsetning: ~4,8 MNOK
+- Stabilisert EBITDA: ~3,8 MNOK (margin 79 % – muliggjort av slankt driftsoppsett i KodeWorks-strukturen)
+- Break-even belegg: 21 % totalutnyttelse
+- Eiendomsverdi etter rehabilitering, base-scenario: ~59 MNOK (cap rate 6,5 %)
 
 Konkurrentanalysen viser at FG30s prismål (300 kr/kvm/mnd selvbetjent ved launch, 360 kr full-service) ligger under nærmeste sentrale konkurrent og forsvarlig over de perifere aktørene.
 
@@ -58,17 +59,19 @@ HRPs energikartleggingsrapport (05.05.2026, NS 3031:2025) dokumenterer at tiltak
 
 Bygget er i dag kun delvis i bruk (~1 000 m² av 2 655 m² aktivt oppvarmet). Etter rehabilitering vil hele bygget være i drift. Vedlegg «Grønt lån – kriteriedokument» seksjon 1.4 utdyper basis-valg og arealbetraktning. En kompletterende presentasjons-versjon av HRP-rapporten med samletabell mot DNB-/EU-krav og eksplisitte kWh/m² i flere snitt er bestilt og ettersendes som tillegg – kjernekonklusjonen om grønt lån-kvalifikasjon er uendret.
 
-### 4. Offentlige tilskudd – bekreftet, under søknad og potensial
+### 4. Offentlige tilskudd – innvilget
 
-Innvilget og bekreftet med tilsagnsbrev: 2,25 MNOK (KMF, BYA, UNI, Enova × 2).
+Innvilget og bekreftet med tilsagnsbrev: **2,25 MNOK** fordelt på:
 
-Under søknad med høy sannsynlighet – dokumentert kvalifikasjon eller etablert relasjon: 5,4–5,9 MNOK (KMF søknad 2 og 3, BYA søknad 2 og 3, UNI søknad 2, Enova Energioppgradering).
+- Kulturminnefondet (sikringstiltak bevaringsverdige kulturminner) – 750 000 kr (tilsagn 13.03.2024, prosjektnr. 240126)
+- Byantikvaren Trondheim (verneverdig bebyggelse) – 500 000 kr (tilsagn 02.05.2025, saksref. 2025/5928)
+- Stiftelsen UNI (brannsikring) – 100 000 kr (tilsagn 28.08.2024, UNI-38702)
+- Enova (energikartlegging) – 400 000 kr (saksnr. 26/2548)
+- Enova (ombrukskartlegging) – 500 000 kr (saksnr. 26/2555)
 
-Forventet total tilskuddsstøtte (innvilget + høy sannsynlighet): ~8 MNOK.
+Disse 2,25 MNOK utgjør prinsippspørsmålets gjenstand (se «Konkret anmodning»). Tilsagnsbrev og prosjektnumre per ordning ligger i separat vedlegg.
 
-Maksimumspotensial ved tilslag på alle identifiserte spor (inkludert Skattefunn, Riksantikvaren, Trøndelag fylkeskommune, Innovasjon Norge): ~12,5 MNOK.
-
-Det juridiske grunnlaget for at norske banker kan ta hensyn til bevilgede offentlige tilskudd som reduksjon i nettoeksponering ved kredittvurdering er utredet i eget vedlegg, med henvisninger til EBA/GL/2020/06 avsnitt 5.2.7 og 6.1, finansforetaksloven § 13-5, NRS 4, skatteloven § 14-42 (3) og Kulturminnefondets egne vedtekter.
+I tillegg arbeider vi med flere søknader til ordninger der prosjektet er kvalifisert; samlet potensial utover de innvilgede 2,25 MNOK er ca. 5,8 MNOK i forventet scenario, opp til ca. 10 MNOK ved tilslag på alle spor. Detaljer ligger i finansieringsplanen og støtteoversikten. Disse er ikke en del av dagens prinsippspørsmål – henvendelsen handler om de innvilgede 2,25 MNOK.
 
 ### 5. Prosjektets troverdighet og status
 
@@ -81,11 +84,13 @@ Anbefalingsbrevet fra Byantikvaren kan fremlegges på forespørsel.
 
 ## Konkret anmodning
 
-Vi ber – på generelt grunnlag og fra et kredittvurderingsperspektiv – om bankens vurdering av hvordan offentlige tilskudd (innvilget og under søknad) vektes som egenkapitalekvivalent i kredittvurderingen av et prosjekt som dette.
+Vi har én konkret prinsippforespørsel:
 
-Bakgrunnen for forespørselen er at vi ønsker å prioritere ressursinnsatsen i videre søknadsarbeid riktig. Den enkeltordningen som veier mest i kategorien høy sannsynlighet er Enova Energioppgradering (~2,3 MNOK), der vi har dokumentert kvalifikasjon. Bankens prinsipielle holdning til hvordan denne typen bevilget eller forventet støtte vekter i LTV-vurderingen, vil styre om vi bør prioritere denne søknaden tyngst, eller fordele innsats annerledes mot andre spor.
+**Aksepterer banken innvilget offentlig støtte (2,25 MNOK – tilsagnsbrev foreligger) som egenkapital i kredittvurderingen av prosjektet?**
 
-Vi forventer ikke en konkret kredittvurdering nå – det er den prinsipielle vinklingen vi er ute etter. Vurderingen kan gjerne være kort.
+Det er det vi spør om – ikke mer, ikke mindre. Bakgrunnen er at vi ønsker å forstå hvordan banken behandler de støttebeløpene som allerede er bindende tilsagn før vi går inn i mer detaljert dialog. Svaret er ikke avhengig av at fisjonen fra KodeWorks Eiendom AS til Fjordgata 30 AS er gjennomført – fisjonen vil være på plass før eventuell låneutbetaling, men påvirker ikke bankens prinsipielle vurdering av tilskudd-som-EK.
+
+Vi forventer ikke en konkret kredittvurdering nå. Vurderingen kan gjerne være kort.
 
 ## Vedlegg
 
@@ -107,5 +112,5 @@ Si fra hvis noe er uklart eller mangler. Jeg følger opp dere direkte i løpet a
 Vennlig hilsen,
 
 Eirik Larsen\
-Fjordgata 30 AS (under etablering, fisjon fra KodeWorks Eiendom AS, org.nr. 920 478 506)\
+KodeWorks Eiendom AS (org.nr. 920 478 506)\
 eirik.larsen@kodeworks.no

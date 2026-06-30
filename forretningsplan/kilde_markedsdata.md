@@ -251,6 +251,21 @@ FG30 har allokert dedikert lastesone på Bryggen utenfor bygget. Bilister kan pa
 
 **Sammenligning:** 123 Minilager (Solsiden) og Utleiebod (Kobbes gate) opererer i bysentrum uten dedikert lastesone. FG30 løser dette med allokert plass på kaien.
 
+### 4.5 Dokumentert forhåndsetterspørsel før byggestart
+
+FG30 har konkret etterspørsel fra navngitte aktører før prosjektet åpner – reduserer lease-up-risikoen vesentlig:
+
+**Lager-segment (selvbetjent og full-service):**
+- KodeWorks driver et eksisterende minilager-tilbud i Trondheim. 10 av dagens kunder har bedt om fortrinnsrett til å overføre leieforhold til FG30 ved oppstart. Forhåndssigneringer kan innhentes uten vesentlig friksjon.
+
+**Krypkjeller-segment (båt/padle):**
+- Trondheim By Boat har meldt interesse for å leie krypkjeller / kjeller-boder med direkte aksess fra Nidelva. Dette validerer båtsegment-konseptet med en konkret kommersiell aktør, ikke kun anekdotiske henvendelser.
+
+**Kontor-segment (~193 kvm):**
+- Fire navngitte interessenter har meldt seg: Kystverket, KodeWorks (intern bruk), et arkitektfirma i Trondheim, og en kunde av KodeWorks. Kontoret leies til 1–3 næringsdrivende, og dagens interessebilde overstiger allerede tilgjengelig kapasitet.
+
+Etterspørselen er ikke kontraktsfestet i bindende avtaler per i dag (en LOI-runde vurderes nærmere byggestart), men gir konkret navnsetting til de antakelsene som ligger i lease-up-prognosen.
+
 ---
 
 ## 5. Globale "valet storage" / full-service referanser
