@@ -277,6 +277,16 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 | Endring i regelverket | Lav | Middels | Følg med på Skatteetaten + fagpresse |
 | 10-årig justeringsrisiko ved bruksendring | Lav | Høy | Ikke endre formål; dokumenter bruk løpende |
 
+**Kvantifisering av 10-årig justeringsrisiko:** Ved bruksendring fra avgiftspliktig til avgiftsunntatt drift innenfor justeringsperioden (mval. § 9-1 til § 9-4) må forholdsmessig MVA-refusjon tilbakebetales. Med maksimal MVA-refusjon 6,0–7,5 MNOK gir det:
+
+| Bruksendring i år | Resterende justeringsperiode | Tilbakebetalingsplikt (MNOK) |
+|---|---:|---:|
+| År 2 | 8 år | 4,8–6,0 |
+| År 5 | 5 år | 3,0–3,75 |
+| År 8 | 2 år | 1,2–1,5 |
+
+Sannsynligheten for slik bruksendring vurderes som lav: FG30 driver minilager etter Alternativ D (full-service + selvbetjent B2B) og har ingen kommersielle insentiver til å gå over til passiv utleie etter at modellen er etablert. Hovedrisikoen er om Skatteetaten skulle omklassifisere full-service til passiv – men dette håndteres ved BFU før byggestart (jf. kap. 7).
+
 ---
 
 ## 8. Lovhenvisninger og kilder

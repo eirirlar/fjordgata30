@@ -11,7 +11,7 @@ Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, 
 
 1. **Regnskapsrettslig (NRS 4, regnskapsloven § 6-2):** Investeringstilskudd klassifiseres som utsatt inntekt, ikke gjeld, og reduserer netto finansieringsbehov – den reelle egenkapitalandelen styrkes.
 2. **Skattemessig (skatteloven § 14-42 (3)):** Tilskuddet reduserer avskrivningsgrunnlaget fremfor å skattlegges direkte som inntekt. Skatteeffekten er dermed utsatt og over lang tid ubetydelig for bygg med lav avskrivningssats.
-3. **Bankpraksis og EBA/GL/2020/06:** Bevilgede og dokumenterte offentlige tilskudd inngår i bankens LTV-beregning som reduksjon i nettoeksponering, på linje med egenkapital.
+3. **Bankpraksis og EBA/GL/2020/06:** Vi forstår det slik at banker etter EBA-GL § 5.2 skal kartlegge alle finansieringskilder, inkludert offentlige tilskudd, og at det er bankens kredittpolicy som styrer hvordan slike kilder vektes i kredittvurderingen.
 4. **Tilskuddsgivers egne krav:** Ordninger som krever privat medfinansiering bekrefter at prosjektet har gjennomgått ekstern prosjektvurdering, noe som styrker bankens tillitt til finansieringsplanen.
 
 ---
@@ -41,7 +41,7 @@ EBAs retningslinjer («Guidelines on loan origination and monitoring», EBA/GL/2
 
 - **Avsnitt 5.2 (Kredittvurdering):** Bankene skal kartlegge alle finansieringskilder ved kredittvurderingen, inkludert offentlige tilskudd og støttemidler.
 - **Avsnitt 5.2.7 (Næringseiendom / commercial real estate):** For CRE-prosjekter skal banken kartlegge prosjektets totale finansieringsstruktur – egenkapital fra eier, offentlige tilskudd og låneandel. Bevilgede og dokumenterte tilskudd inngår i vurderingen av effektiv LTV.
-- **Avsnitt 6.1 (LTV-beregning):** Loan-to-value beregnes med utgangspunkt i eiendommens markedsverdi. Bekreftet offentlig tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i LTV-brøken.
+- **Avsnitt 6.1 (LTV-beregning):** Loan-to-value beregnes med utgangspunkt i eiendommens markedsverdi. Banken skal kartlegge all finansiering bak prosjektet (inkludert bekreftede offentlige tilskudd), og det er bankens kredittpolicy som styrer hvordan dette vektes i nettoeksponering-vurderingen.
 
 **Praktisk konsekvens:** Et bindende tilskuddsvedtak (tilsagnsbrev) er den dokumentasjonen banken trenger for å redusere beregnet LTV. Jo tidligere tilskuddet er bekreftet og eventuelt utbetalt, desto sterkere vekter det i bankens kredittvurdering.
 
@@ -168,7 +168,7 @@ Banker skiller mellom:
 
 Offentlige investeringstilskudd til næringseiendom er **ikke egenkapital** i regnskapsmessig forstand (NRS 4, regnskapsloven § 6-2), men anerkjennes av norske banker som **egenkapitallignende finansiering** på grunnlag av:
 
-1. **EBA/GL/2020/06 (avsnitt 5.2.7, 6.1):** Bekreftet tilskudd trekkes inn i LTV-vurderingen som reduksjon i bankens nettoeksponering.
+1. **EBA/GL/2020/06 (avsnitt 5.2.7, 6.1):** Banken skal kartlegge alle finansieringskilder, inkludert bekreftede tilskudd. Hvordan den enkelte finansieringskilde vektes i kredittvurderingen, styres av bankens interne kredittpolicy.
 2. **Skatteloven § 14-42 (3):** Tilskuddet binder seg til byggets skattemessige verdi gjennom redusert avskrivningsgrunnlag, og skaper ikke umiddelbar skattebyrde – det styrker byggverdien.
 3. **Finansforetaksloven § 13-5 og bankpraksis:** Forsvarlig utlånspraksis for næringseiendom anerkjenner bekreftet offentlig tilskudd som del av prosjektets egenkapitalbase.
 4. **Tilskuddsgivers prosjektvurdering:** Innvilget tilskudd fra fagmyndigheter bekrefter at prosjektet har bestått en ekstern vurdering av gjennomførbarhet og finansieringsstruktur.

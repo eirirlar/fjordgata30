@@ -9,6 +9,8 @@ subtitle: "Bilag til bankhenvendelse"
 
 Prosjekt: rehabilitering og ombygging av Fjordgata 30, 7010 Trondheim (gnr 401/bnr 149) til minilager og lagringstjenester. Tiltakshaver: Fjordgata 30 AS (under etablering ved fisjon fra KodeWorks Eiendom AS, org.nr. 920 478 506). Kontakt: Eirik Larsen, eirik.larsen@kodeworks.no.
 
+> **Om dokumentets karakter:** Tallene i denne planen er **modellverdier** basert på det vi vet på nåværende tidspunkt. Endelige scenarioer, sensitiviteter og driftsbudsjett finkalibreres når Fjordgata 30 AS er stiftet, BFU er innhentet, IG er innvilget og detaljprosjektering er ferdig. Materialet vedlegges som faktagrunnlag for prinsippforespørselen i bankhenvendelse 00, ikke som endelig kredittsøknad.
+
 ---
 
 ## Sammendrag
@@ -23,9 +25,9 @@ Byggekostnaden er anslått til 30 MNOK eks. MVA i tråd med forretningsplanen. E
 | MVA-refusjon (likviditetspost, ikke EK) | 6,0–7,5 | 20–25 % |
 | Ny konstruksjonsfinansiering | 12–15 | 40–50 % |
 
-Total bankramme ved ferdigstillelse: ny konstruksjonsfinansiering pluss refinansiering av eksisterende lån, pluss kapitalisert byggerente (~2,3 MNOK). I basisscenariet (kun innvilget støtte) gir det en samlet bankeksponering i størrelsesorden 37,05 MNOK mot en anslått eiendomsverdi etter rehabilitering på ~48,5 MNOK (forretningsplan kapittel 8.1, konservativ EBITDA og cap rate 7,0 %) – LTV ~76 % (72 % uten kapitalisert byggerente). I forventet scenario (innvilget støtte + høy-sannsynlighets-tilskudd) reduseres bankrammen til ~31,3 MNOK mot ~59 MNOK eiendomsverdi (base-EBITDA, cap rate 6,5 %), LTV ~53 % (49 % uten kapitalisert byggerente) – innenfor komfortabel sone for næringseiendom.
+Total bankramme ved ferdigstillelse: ny konstruksjonsfinansiering pluss refinansiering av eksisterende lån, pluss kapitalisert byggerente (~2,3 MNOK). I basisscenariet (kun innvilget støtte) gir det en samlet bankeksponering i størrelsesorden 37,05 MNOK mot en anslått eiendomsverdi etter rehabilitering på ~44,1 MNOK (forretningsplan kapittel 8.1, konservativ EBITDA og cap rate 7,0 %) – LTV ~84 % (78 % uten kapitalisert byggerente). I forventet scenario (innvilget støtte + høy-sannsynlighets-tilskudd) reduseres bankrammen til ~31,3 MNOK mot ~53 MNOK eiendomsverdi (base-EBITDA, cap rate 6,5 %), LTV ~59 % (55 % uten kapitalisert byggerente) – innenfor komfortabel sone for næringseiendom.
 
-Et maksimumsscenario der også middels- og lav-sannsynlighets-tilskudd slår til, kan tilføre ytterligere ~4,5 MNOK og redusere LTV til ~35 % mot optimistisk eiendomsverdi (~72 MNOK). Den konkrete anmodningen til banken er en generell vurdering av i hvilken grad offentlige tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i kredittvurderingen, slik at vi kan prioritere videre søknadsarbeid.
+Et maksimumsscenario der også middels- og lav-sannsynlighets-tilskudd slår til, kan tilføre ytterligere ~4,5 MNOK og redusere LTV til ~39 % mot optimistisk eiendomsverdi (~65 MNOK). Den konkrete anmodningen til banken er en generell vurdering av i hvilken grad offentlige tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i kredittvurderingen, slik at vi kan prioritere videre søknadsarbeid.
 
 ---
 
@@ -121,7 +123,7 @@ Den forventede basen på ~8 MNOK er anslaget som styrer øvrige beregninger i de
 
 ### 2.5 Eiendomsverdi og historisk innskutt egenkapital
 
-KodeWorks Eiendom AS ervervet Fjordgata 30 i 2015 for 10,0 MNOK. Siden har selskapet stått for utvikling, prosjektering, dialog med vernemyndigheter, rammesøknad levert 12. mai 2026 og forberedende fysisk arbeid. Etter rehabilitering anslås eiendomsverdi (base-scenario, cap rate 6,5 %, EBITDA 3,82 MNOK) til ~59 MNOK i forretningsplanen kapittel 8.1. Cap rate-forutsetningen ligger nær markedsobservasjoner for sentrumsanlegg (5,5–6,5 % stabilisert).
+KodeWorks Eiendom AS ervervet Fjordgata 30 i 2015 for 10,0 MNOK. Siden har selskapet stått for utvikling, prosjektering, dialog med vernemyndigheter, rammesøknad levert 12. mai 2026 og forberedende fysisk arbeid. Etter rehabilitering anslås eiendomsverdi (base-scenario, cap rate 6,5 %, EBITDA 3,47 MNOK) til ~53 MNOK i forretningsplanen kapittel 8.1. Cap rate-forutsetningen ligger nær markedsobservasjoner for sentrumsanlegg (5,5–6,5 % stabilisert).
 
 ---
 
@@ -161,11 +163,11 @@ Behovet for ny konstruksjonsfinansiering avhenger av tilskuddsutfall og MVA-refu
 
 | Scenario | Innvilget | Tilskudd under søknad | MVA-refusjon | Kontant-EK | Ny konstr.fin. | + 15,5 refinansiert | + 2,3 kap. byggerente | Sum bankeksponering | Eiendomsverdi | LTV |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Basis (kun innvilget) | 2,25 | – | 6,0 | 2,5 | 19,25 | 15,5 | 2,3 | 37,05 | 48,5 | **76 %** |
-| Forventet (+ høy sann.) | 2,25 | 5,75 | 6,0 | 2,5 | 13,5 | 15,5 | 2,3 | 31,30 | 58,8 | **53 %** |
-| Maks (alle spor) | 2,25 | 10,25 | 7,5 | 2,5 | 7,5 | 15,5 | 2,3 | 25,30 | 72,0 | **35 %** |
+| Basis (kun innvilget) | 2,25 | – | 6,0 | 2,5 | 19,25 | 15,5 | 2,3 | 37,05 | 44,1 | **84 %** |
+| Forventet (+ høy sann.) | 2,25 | 5,75 | 6,0 | 2,5 | 13,5 | 15,5 | 2,3 | 31,30 | 53,4 | **59 %** |
+| Maks (alle spor) | 2,25 | 10,25 | 7,5 | 2,5 | 7,5 | 15,5 | 2,3 | 25,30 | 65,3 | **39 %** |
 
-LTV-tallene er bankens reelle eksponering etter byggefase, inkludert kapitalisert byggerente. Uten kapitalisert byggerente blir LTV henholdsvis 72 % / 49 % / 32 % – men siden banken faktisk blir eksponert for både hovedrammen og oppløpt rente i byggeperioden, er tallene med kapitalisert rente det styrende. Forventet scenario er det realistiske målbildet og gir LTV ~53 %, innenfor komfortabel sone for næringseiendom. Basisscenariet (kun innvilget støtte, ingen tilslag på pågående søknader) gir LTV 76 %. Eiendomsverdiene er beregnet med cap rate 7,0 / 6,5 / 6,0 % for henholdsvis konservativ / base / optimistisk scenario, basert på markedsobservasjoner for sentrumsanlegg.
+LTV-tallene er bankens reelle eksponering etter byggefase, inkludert kapitalisert byggerente. Uten kapitalisert byggerente blir LTV henholdsvis 78 % / 55 % / 35 % – men siden banken faktisk blir eksponert for både hovedrammen og oppløpt rente i byggeperioden, er tallene med kapitalisert rente det styrende. Forventet scenario er det realistiske målbildet og gir LTV ~59 %, innenfor komfortabel sone for næringseiendom. Basisscenariet (kun innvilget støtte, ingen tilslag på pågående søknader) gir LTV 84 %. Eiendomsverdiene er beregnet med cap rate 7,0 / 6,5 / 6,0 % for henholdsvis konservativ / base / optimistisk scenario, basert på markedsobservasjoner for sentrumsanlegg.
 
 Foreløpig strukturforslag, som finkalibreres i bankforhandling:
 
@@ -212,24 +214,24 @@ Foreløpig forutsetning, som finkalibreres i bankforhandling:
 
 | År | EBITDA | Gjeldstjeneste | DSCR | Kommentar |
 |---|---:|---:|---:|---|
-| 2028 (driftsår 1, IO) | 2,14 | 2,03 | 1,05 | EBITDA dekker rente med liten margin |
-| 2029 (driftsår 2, IO) | 2,89 | 2,03 | 1,42 | Godt over rentedekning |
-| 2030 (driftsår 3, IO) | 3,55 | 2,03 | 1,75 | Sterk lease-up-utvikling |
-| 2031 (driftsår 4, amort. start) | 3,55 | 2,57 | 1,38 | Amortisering starter, fortsatt over kovenant |
-| 2032 (driftsår 5, stabilisert) | 3,82 | 2,57 | 1,49 | Stabilisert drift |
-| 2033+ (annuitet løpende) | 3,82 | 2,57 | 1,49 | Sensitivitet i 7.1 |
+| 2028 (driftsår 1, IO) | 1,84 | 2,03 | 0,91 | Lease-up; rentedekning sikret gjennom aksjonærgaranti/likviditetsbuffer |
+| 2029 (driftsår 2, IO) | 2,56 | 2,03 | 1,26 | Over kovenant |
+| 2030 (driftsår 3, IO) | 3,20 | 2,03 | 1,58 | Sterk lease-up-utvikling |
+| 2031 (driftsår 4, amort. start) | 3,20 | 2,57 | 1,25 | Amortisering starter, over kovenant |
+| 2032 (driftsår 5, stabilisert) | 3,47 | 2,57 | 1,35 | Stabilisert drift |
+| 2033+ (annuitet løpende) | 3,47 | 2,57 | 1,35 | Sensitivitet i 7.1 |
 
-DSCR-banen er over bankens vanlige kovenant (1,2–1,3) fra og med driftsår 1 i den anbefalte strukturen: (a) interest-only i 3 år for å gi lease-up-perioden tid og bygge buffer, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
+DSCR-banen er stram i driftsår 1 (0,91) og krever likviditetsbuffer eller aksjonærgaranti for å dekke kortsiktig shortfall. Fra og med driftsår 2 er DSCR over 1,2, og fra driftsår 3 over 1,5. Strukturen forutsetter (a) interest-only i 3 år for å gi lease-up-perioden tid, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
 
 #### Sensitivitet på rente
 
 | Rente | DSCR år 5 (stabilisert) | Gjeldstjeneste (MNOK) |
 |---|---:|---:|
-| 5,5 % (NIBOR -100 bps) | 1,69 | 2,26 |
-| 6,5 % (basis) | 1,49 | 2,57 |
-| 7,5 % (+100 bps) | 1,32 | 2,90 |
-| 8,5 % (+200 bps) | 1,17 | 3,28 |
-| 9,5 % (+300 bps) | 1,04 | 3,68 |
+| 5,5 % (NIBOR -100 bps) | 1,54 | 2,26 |
+| 6,5 % (basis) | 1,35 | 2,57 |
+| 7,5 % (+100 bps) | 1,20 | 2,90 |
+| 8,5 % (+200 bps) | 1,06 | 3,28 |
+| 9,5 % (+300 bps) | 0,94 | 3,68 |
 
 #### Mitigerende tiltak
 
@@ -285,17 +287,17 @@ Toppkapitalbehov inntreffer typisk i Q2–Q3 2027, før MVA-refusjon og rest-til
 
 | Scenario | Tilskudd (MNOK) | Sum bankeksponering inkl. kap. byggerente (MNOK) | Eiendomsverdi (MNOK) | LTV |
 |---|---:|---:|---:|---:|
-| Basis – kun innvilget | 2,25 | 37,05 | 48,5 | 76 % |
-| Forventet – innvilget + høy sannsynlighet | 8,0 | 31,30 | 58,8 | 53 % |
-| Maks – alle tilskuddsspor | 12,5 | 25,30 | 72,0 | 35 % |
+| Basis – kun innvilget | 2,25 | 37,05 | 44,1 | 84 % |
+| Forventet – innvilget + høy sannsynlighet | 8,0 | 31,30 | 53,4 | 59 % |
+| Maks – alle tilskuddsspor | 12,5 | 25,30 | 65,3 | 39 % |
 
 ### 7.2 Utfall av bindende forhåndsuttalelse (BFU) for MVA-refusjon
 
-| BFU-utfall | MVA-refusjon | Sum bankeksponering inkl. kap. byggerente | LTV mot 58,8 MNOK |
+| BFU-utfall | MVA-refusjon | Sum bankeksponering inkl. kap. byggerente | LTV mot 53,4 MNOK |
 |---|---:|---:|---:|
-| Positiv – full hybrid godkjent | 6,0–7,5 | 29,8–31,3 | 51–53 % |
-| Delvis – kun kontor og B2B selvbetjent | 2,5–3,5 | 34,8–36,8 | 59–63 % |
-| Negativ – kun passiv utleie | 0 | 37,3 | 63 % |
+| Positiv – full hybrid godkjent | 6,0–7,5 | 29,8–31,3 | 56–59 % |
+| Delvis – kun kontor og B2B selvbetjent | 2,5–3,5 | 34,8–36,8 | 65–69 % |
+| Negativ – kun passiv utleie | 0 | 37,3 | 70 % |
 
 Selv om sannsynligheten vurderes som lav (jf. kapittel 5), vises BFU-utfallet som sentral sensitivitet fordi konsekvensen for MVA-refusjonen er materiell. Risikoen håndteres ved (a) reell aktiv tjenestemodell, (b) BFU innhentet før byggestart, og (c) fallback til passiv minilager-utleie ved negativt utfall – beskrevet i kapittel 5.
 
@@ -309,11 +311,11 @@ Renteforutsetningen i basis er ~6,5 %. Stress på renten påvirker både DSCR og
 
 | Rentenivå | DSCR år 5 (stabilisert) | Årlig gjeldstjeneste (MNOK) | Konsekvens |
 |---|---:|---:|---|
-| 5,5 % (basis −100 bps) | 1,12 | 2,26 | God dekning |
-| 6,5 % (basis) | 0,98 | 2,57 | Stram – krever fast rente på del av lån |
-| 7,5 % (basis +100 bps) | 0,87 | 2,90 | Aksjonærgaranti aktiveres |
-| 8,5 % (basis +200 bps) | 0,77 | 3,28 | Materielt stress |
-| 9,5 % (basis +300 bps) | 0,69 | 3,68 | Krever kovenantforhandling |
+| 5,5 % (basis −100 bps) | 1,54 | 2,26 | God dekning |
+| 6,5 % (basis) | 1,35 | 2,57 | Over kovenant |
+| 7,5 % (basis +100 bps) | 1,20 | 2,90 | På kovenant-grensen |
+| 8,5 % (basis +200 bps) | 1,06 | 3,28 | Marginalt over rentedekning |
+| 9,5 % (basis +300 bps) | 0,94 | 3,68 | Under 1,0 – krever likviditetsbuffer |
 
 Mitigerende tiltak: fast rente på 50 % av rammen i 5–7 år, og aktiv likviditetsstyring med tilskuddsutbetalinger for å redusere låneramme.
 
@@ -329,8 +331,8 @@ Simultan-stress med fire negative variabler – ren stresstest for å vise prosj
 | Komponent | Basis (forventet) | Worst case |
 |---|---:|---:|
 | Stab. inntekter | 4,82 | 3,28 |
-| Driftskostnader | 1,00 | 1,00 |
-| Stab. EBITDA | 3,82 | 2,28 |
+| Driftskostnader | 1,35 | 1,35 |
+| Stab. EBITDA | 3,47 | 1,93 |
 | Brutto byggekostnad | 30 | 34,5 |
 | Tilskudd | 8,0 | 2,25 |
 | MVA-refusjon | 6,0 | 0 |
@@ -338,9 +340,9 @@ Simultan-stress med fire negative variabler – ren stresstest for å vise prosj
 | Ny konstruksjonsfinansiering | 13,5 | 29,75 |
 | + Refinansiert | 15,5 | 15,5 |
 | Total bankramme | 29,0 | 45,25 |
-| Eiendomsverdi (cap rate 6,5 % basis, 9,0 % worst) | 58,8 | 25,3 |
-| LTV | 49 % | (180 % – stresstest, ikke realistisk pant-tap) |
-| DSCR stabilisert | 1,49 | 0,62 |
+| Eiendomsverdi (cap rate 6,5 % basis, 9,0 % worst) | 53,4 | 21,4 |
+| LTV | 59 % | 212 % (ekstrem stresstest – ikke et plausibelt scenario) |
+| DSCR stabilisert | 1,35 | 0,53 |
 
 Kombinert simultan-stress er bevisst ekstrem og brukes til å belyse mitigerende behov, ikke som et plausibelt scenario. Sannsynligheten for samtidige negative utfall på alle fire variabler er svært lav. Mitigerende strukturelle tiltak er beskrevet i kapittel 4.4:
 
@@ -349,7 +351,7 @@ Kombinert simultan-stress er bevisst ekstrem og brukes til å belyse mitigerende
 - **Tilskudd under søknad** (5,75 MNOK i forventet scenario) reduserer låneramme etter hvert som de innvilges
 - **KodeWorks-strukturen** som backstop ved uforutsette hendelser
 
-I et mer plausibelt «kombinert moderat stress» (rente +100 bp, belegg −10 pp, leiepris −5 %, byggekostnad +5 %) blir EBITDA ~3,12 MNOK, eiendomsverdi ~44,6 MNOK, LTV ~69 % og DSCR stabilisert ~1,21 – fortsatt over kovenant.
+I et mer plausibelt «kombinert moderat stress» (rente +100 bp, belegg −10 pp, leiepris −5 %, byggekostnad +5 %) blir EBITDA ~2,77 MNOK, eiendomsverdi ~39,6 MNOK, LTV ~79 % og DSCR stabilisert ~0,96 – krever likviditetsbuffer eller forsiktig kovenant-struktur.
 
 ---
 

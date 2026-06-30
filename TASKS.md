@@ -709,7 +709,41 @@ Nye kritiske funn (kategori 1 før utsending):
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review.md` og beslutter hvilke justeringer som blir egne tasks før evt. iterasjon 4.
 
-**Iterasjon 4 – planlagt.** Når kategori 1-anbefalinger er adressert.
+**Iterasjon 4 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_001.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **6,7/10** (opp fra 6,1 i iter 3). Per-dokument-snitt opp fra 7,2 til 7,4. Klar forbedring i bankhenvendelsen (+0,5, nå 7,6), støtteoversikt (+0,5, nå 8,1) og energirapport (+0,4, nå 8,0).
+
+Vesentlige forbedringer mottatt:
+- T118/T119/T123: bankhenvendelsen er nå «krystallklar» (Kunderådgiver 9/10)
+- T124: kapitalisert rente i LTV mottas positivt
+- T125: tallinkonsistens (tilskudd, uforutsett, pris) ryddet
+- T122: driftskostnad rebalansert (men EBITDA-margin 79 % fortsatt flagget)
+- T126/T127: klimatilpasning-bullet inn (ESG/Risk Officer mener fortsatt anekdotisk)
+
+Største gjenstående svakhet:
+
+**DSCR-INKONSISTENS 4.4 vs 7.4 — FORTSATT IKKE LØST.** Flagged av ALLE 7 agenter som «showstopper». Glemt nedstrøms-oppdatering fra T111: tabell 7.4 bruker fortsatt gammel EBITDA 2,53 MNOK (gir DSCR 0,98 ved 6,5 %); må oppdateres til 3,82 (gir DSCR 1,49). Konsekvenskolonne må skrives om siden DSCR nå er over kovenant.
+
+Andre konsistente kategori 1-funn:
+- EBITDA-margin 79 % – Kunderådgiver, Kredittanalytiker, Kredittsjef, Risk Officer, CRE flagger
+- EBA/GL/2020/06-overstrekk i dok 06 – Jurist gir 4/10 (var 6/10 i iter 3; verre i iter 4)
+- Tilsagnsbrev «på forespørsel» bør være vedlagt – Kredittsjef + Kunderådgiver
+- Konstruksjonsfinansiering-spenn ulikt på tvers (00: 12–17, 01: 12–16, 02: 7,5–19,25) – Kredittsjef
+
+Nye funn i iter 4 (ikke fanget tidligere):
+- «Vinden» som MVA-presedens overstrekkes (Jurist)
+- Fisjon: skattefri vs skattepliktig ikke avklart (Jurist)
+- 10-årig MVA-justeringsrisiko (mval. § 9-1 ff.) ikke kvantifisert (Risk Officer + Jurist)
+- ESA/EØS-statsstøtte kumulering ikke adressert (Jurist)
+- PED-basis (taksonomi vs HRP) (Jurist + ESG)
+- Konsekvens av fallback til passiv minilager ved negativ BFU – kollaps av 79 %-margin og pris 200 kr (CRE)
+- Driftskostnader mangler: eiendomsskatt, IT-/SaaS-lisenser, tap på fordringer (Kredittanalytiker)
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_001.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 5.
+
+**Iterasjon 5 – planlagt.** Når kategori 1-anbefalinger er adressert. Topp-prioritet: fiks DSCR 7.4-tabellen (showstopper, 5 min jobb).
 
 ---
 
@@ -1936,5 +1970,178 @@ Myndigheter/tilskuddsorgan: KMF, BYA, UNI, Enova, TBRT, Skatteetaten, Riksantikv
 Forhåndsinteressenter (per T120): Trondheim By Boat (krypkjeller), Kystverket (kontor), arkitektfirma i Trondheim (navn ikke spesifisert), kunde av KodeWorks (navn ikke spesifisert), 10 kunder av KodeWorks' eksisterende minilager.
 
 **Avklaring brukeravhengig (kompletteres ved behov):** Navn på arkitektfirma og kunde av KodeWorks som har meldt kontorinteresse.
+
+---
+
+### T129 `[x]` Iter 4-respons (del 1): driftskostnader, KodeWorks-presentasjon, tap på fordringer
+
+**Bakgrunn:** Iter 4-review (`bank/reviews/2026-06-30_bank_review_001.md`) flagget tre relaterte funn rundt driftsøkonomi og presentasjon av KodeWorks-relasjonen:
+
+1. **EBITDA-margin 79 % er over bransjenorm.** Fem av syv agenter mener marginen er aggressiv for valet storage. Internasjonale referanser (Clutter, MakeSpace, Stash) er konkurs/pivotert pga. logistikk-tyngde. Vinden (svensk valet-referanse i pakka) opererer på vesentlig lavere margin. Kredittanalytiker estimerer realistisk 68–73 %; CRE foreslår 55–65 %.
+2. **KodeWorks-tjenester feilpresentert.** Dagens fotnote i forretningsplan 6.2 sier «KodeWorks-strukturen bistår med HR-administrasjon via tjenesteavtale på markedsvilkår» – som om avtaler eksisterer. Selskapet finnes ikke ennå, og det er fortsatt urealistisk å ha avtaler på plass før Fjordgata 30 AS er stiftet. Reelt: KodeWorks **har kapabiliteten** og er én mulig leverandør; tjenestene vil kjøpes i markedet til beste tilbyder.
+3. **Tap på fordringer ikke priset inn.** Iter 4-kredittanalytiker etterspør tap på fordringer som standard driftskostnad ~1–2 % av omsetning. Brukerens faktum: KodeWorks driver eksisterende minilager med up-front kortbetaling og har hatt **0 tap på fordringer siden oppstart i 2015**. Samme praksis videreføres for FG30.
+
+**Brukerens beslutninger 30.06.2026:**
+
+- Justér driftskostnadene opp slik at stabilisert EBITDA-margin treffer **72 %** (innenfor Kredittanalytikers «sweet spot» 68–73 %).
+- KodeWorks-fotnoten omformuleres til å reflektere reell situasjon (kapabilitet, ikke avtale; markedsmessig kjøp).
+- Tap på fordringer-historikken (0 siden 2015) dokumenteres som risk-mitigation.
+
+**Konkret målsetning:**
+
+| Parameter | Før | Etter |
+|---|---:|---:|
+| Stabilisert inntekt | 4,82 MNOK | 4,82 (uendret) |
+| Stabilisert driftskost | 1,00 MNOK | **1,35 MNOK** |
+| Stabilisert EBITDA | 3,82 MNOK | **3,47 MNOK** |
+| EBITDA-margin stab. | 79 % | **72 %** |
+
+**Foreslått ny 6.2-tabell:**
+
+| Post | Var | Ny |
+|---|---:|---:|
+| Fast bemanning (vaktmester/drift) | 0,250 | 0,300 |
+| Ekstern valet-operatør (resource-on-demand) | 0,150 | 0,300 |
+| Forsikring (bygning + ansvar) | 0,080 | 0,080 |
+| Strøm og varme (etter T1-pakkens 53 % energireduksjon) | 0,100 | 0,100 |
+| Vedlikehold og renhold | 0,050 | 0,050 |
+| Adgangssystem (drift og IT-support; markedsmessig innkjøp) | 0,050 | 0,050 |
+| Markedsføring (vedlikehold etter lease-up) | 0,050 | 0,050 |
+| Regnskap, administrasjon og HR-bistand (markedsmessig innkjøp) | 0,070 | 0,070 |
+| IT/SaaS-lisenser (kundeportal, betaling, fakturering) – **ny post** | – | 0,100 |
+| Varebil (ad-hoc-leie) | 0,050 | 0,050 |
+| Kommunale avgifter og forsikring bygg | 0,080 | 0,080 |
+| Annet | 0,070 | 0,070 |
+| **Sum** | **1,000** | **1,350** |
+
+**Foreslått ny fotnote (korrigert KodeWorks-presentasjon + IT-/tap-på-fordringer-omtale):**
+
+> Driftskostnader reflekterer FG30s anslåtte kostnadsbase ved stabilisert drift, kalibrert med en EBITDA-margin (~72 %) som ligger innenfor bransjenorm for sentralt minilager med innslag av aktiv lagringstjeneste. Tjenester som regnskap, administrasjon, HR-bistand og IT-support for adgangssystem vil kjøpes i markedet til beste tilbyder. KodeWorks har kapabilitet til å levere disse tjenestene og er én mulig leverandør, men selve avtaler etableres når Fjordgata 30 AS er stiftet etter fisjonen. Kostnadstallene over er ment som modellverdier basert på markedsobservasjoner – endelig fordeling og avtaleform finkalibreres ved selskapsoppstart. Tap på fordringer er ikke priset inn: KodeWorks driver i dag eksisterende minilager med up-front kortbetaling og har hatt 0 tap på fordringer siden oppstart i 2015. Praksisen videreføres for FG30.
+
+**Konsekvensoppdateringer nedstrøms (alle påvirkes av ny stabilisert EBITDA 3,47):**
+
+- **Forretningsplan 6.3 EBITDA-tabell:** alle år oppdateres (driftskost-bane: 1,20 / 1,28 / 1,35 / 1,35; EBITDA-bane: 1,84 / 2,56 / 3,20 / 3,47; margin-bane: 60 / 67 / 70 / 72 %)
+- **Forretningsplan 7.1 break-even-belegg:** 1,35 / 4,82 = 28 % (var 21 %)
+- **Forretningsplan 7.2 break-even tid og IRR:** kortere tid + IRR justeres
+- **Forretningsplan 8.1 NPV-tabell:** alle eiendomsverdier nedjusteres
+  - Konservativt: 3,47 × 0,89 / 7,0 % = 44,1 MNOK (var 48,5)
+  - Base: 3,47 / 6,5 % = 53,4 MNOK (var 58,8)
+  - Optimistisk: 3,47 × 1,13 / 6,0 % = 65,3 MNOK (var 72,0)
+- **Forretningsplan 8.1 fotnote, 6.1 LTV-rad:**
+  - LTV forventet (31,3 / 53,4) = **59 %** (var 53 %) inkl. kap. byggerente; 55 % uten
+  - LTV basis (37,05 / 44,1) = **84 %** (var 76 %)
+  - LTV maks (25,3 / 65,3) = **39 %** (var 35 %)
+- **Forretningsplan 11 oppsummering, sammendrag:** EBITDA og margin oppdateres
+- **Finansieringsplan sammendrag, 2.5 eiendomsverdi:** oppdatert til 53 MNOK
+- **Finansieringsplan 4.2 LTV-tabell:** alle scenarier
+- **Finansieringsplan 4.4 DSCR-bane:** ny EBITDA-bane:
+  - 2028 (IO 2,03): 1,84 / 2,03 = 0,91 (var 1,05) – tilbake under 1,0 i lease-up
+  - 2029 (IO 2,03): 2,56 / 2,03 = 1,26 (var 1,42)
+  - 2030 (IO 2,03): 3,20 / 2,03 = 1,58 (var 1,75)
+  - 2031 (amort 2,57): 3,20 / 2,57 = 1,25 (var 1,38)
+  - 2032 (stab 2,57): 3,47 / 2,57 = 1,35 (var 1,49)
+- **Finansieringsplan 4.4 rentestress:** alle DSCR-tall ved rente
+- **Finansieringsplan 7.1, 7.2 LTV-rader**
+- **Finansieringsplan 7.5 worst case** (ny EBITDA-base for sjokk-beregning)
+- **Bankhenvendelse 00 faktaboks:** LTV oppdateres til ~59 %
+- **Bankhenvendelse 00 sentrale tall:** EBITDA, margin, break-even, eiendomsverdi
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` (sammendrag, 1.3 evt., 6.2, 6.3, 7.1, 7.2, 8.1, 8.2 evt., 11)
+- `leveranser/2026-06-28_fg30_finansieringsplan.md` (sammendrag, 2.5, 4.2, 4.4, 7.1, 7.2, 7.5)
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` (faktaboks, sentrale tall)
+- `bank/reviews/2026-06-30_bank_review_001.md` (annotering)
+
+**Estimat:** 60–90 min (mange filer og kaskaderende tallendringer).
+
+**Løst 30.06.2026.** Driftskostnader rebalansert + KodeWorks-fotnote korrigert + tap på fordringer dokumentert. Kaskaderende endringer på tvers av forretningsplan, finansieringsplan, bankhenvendelse.
+
+**Nye sentrale tall:**
+
+| Variabel | Var | Ny |
+|---|---:|---:|
+| Stab. driftskostnader | 1,00 | **1,35** MNOK |
+| Stab. EBITDA | 3,82 | **3,47** MNOK |
+| EBITDA-margin | 79 % | **72 %** |
+| Break-even belegg | 21 % | **28 %** |
+| Eiendomsverdi base | 58,8 | **53,4** MNOK |
+| LTV forventet (inkl. kap. byggerente) | 53 % | **59 %** |
+| LTV basis | 76 % | **84 %** |
+| LTV maks | 35 % | **39 %** |
+| DSCR stab. (basis 6,5 % rente) | 1,49 | **1,35** |
+| DSCR lease-up år 1 | 1,05 | **0,91** (krever likviditetsbuffer) |
+
+**Driftskostnadsendringer (forretningsplan 6.2):**
+
+- Fast bemanning 0,250 → 0,300
+- Ekstern valet-operatør 0,150 → 0,300
+- Ny post: IT/SaaS-lisenser (kundeportal, betaling, fakturering) 0,100
+- Øvrige poster uendret
+- KodeWorks-fotnote omformulert: «KodeWorks har kapabilitet til å levere disse tjenestene og er én mulig leverandør, men selve avtaler etableres når Fjordgata 30 AS er stiftet etter fisjonen. Tjenestene vil kjøpes i markedet til beste tilbyder.»
+- Tap på fordringer-note tilføyd: «0 tap siden 2015 med up-front kortbetaling; praksis videreføres»
+
+**DSCR-INKONSISTENSEN 4.4 vs 7.4 ENDELIG LØST** som bivirkning – ny EBITDA-base brukt konsistent i begge tabellene.
+
+Oppdaterte filer:
+- `forretningsplan/fg30_forretningsplan.md`: sammendrag, 6.1 LTV-rad, 6.2 tabell + fotnote, 6.3 EBITDA-tabell + fotnote, 7.1 break-even, 7.2 break-even tid, 8.1 NPV-tabell + fotnote, 11 oppsummering
+- `leveranser/2026-06-28_fg30_finansieringsplan.md`: sammendrag, 2.5 eiendomsverdi, 4.2 LTV-tabell, 4.4 DSCR-bane + rentesensitivitet, 7.1 tilskuddsutfall, 7.2 BFU-utfall, 7.4 rentestress (konsistent med 4.4), 7.5 worst case
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md`: faktaboks + sentrale tall
+- `bank/reviews/2026-06-30_bank_review_001.md`: to kategori 1-anbefalinger annotert som ADRESSERT
+
+---
+
+### T130 `[x]` Iter 4-respons (del 2): juridisk og presentasjons-presisjon
+
+**Bakgrunn:** Iter 4-review (`bank/reviews/2026-06-30_bank_review_001.md`) flagget en rekke punkter rundt juridisk presisjon og presentasjon som påvirker hvordan banken leser pakka. Disse er separat fra T129 (drifts-/tall-justeringer) og handler om tone, formuleringer og enkelte tillegg/korrigeringer.
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Funn fra iter 4 | Handling |
+|---|---|
+| EBA/GL/2020/06-overstrekk i dok 06 (Jurist gir 4/10) | Modere ytterligere – «vi forstår det slik at banker etter EBA-GL § 5.2 skal kartlegge alle finansieringskilder, og at det er bankens kredittpolicy som styrer hvordan tilskudd vektes» |
+| Tilsagnsbrev «på forespørsel» | Fjern «på forespørsel»-formuleringen for tilsagnsbrev i bankhenvendelsen. Selve tilsagnsdataene (dato, beløp, saksnummer) står allerede i seksjon 4 og støtteoversikt – det er nok i prinsipp-fasen. Banken får brevene ved evt. lånesøknad |
+| Fisjon skattefri vs skattepliktig (Jurist) | Tilføy i forretningsplan 1.1: «fisjonen planlegges gjennomført som skattefri etter sktl. § 11-4 (skattemessig kontinuitet, konsernintern)» |
+| 10-årig MVA-justeringsrisiko ikke kvantifisert (Risk Officer, Jurist) | Kort scenario-bullet i MVA-strategi 03 eller finansieringsplan 5 som viser maksimum tilbakebetaling ved bruksendring i ulike år av justeringsperioden |
+| ESA/EØS-statsstøtte-kumulering (Jurist) | Kort tilføyelse i støtteoversikt 6.1 om at 70 %-taket korresponderer med EØS/GBER art. 53 om støtte til kulturminne – avverger juristens innvending uten ekstra arbeid |
+| Sensitivitet på marginen + manglende driftskostnadsposter = prematurt | Innledende prinsipp-disclaimer i finansieringsplanens åpning: «Tallene er modellverdier; endelige scenarioer, sensitiviteter og driftsbudsjett finkalibreres når selskapet er opprettet, BFU er innhentet og detaljprosjektering er ferdig» |
+| Konstruksjonsfinansiering-spenn ulikt (00: 12–17, 01: 12–16, 02: 7,5–19,25) | Konsistent presentasjon: bankhenvendelse + forretningsplan leder med forventet (~13,5 MNOK), henviser til finansieringsplan 4.2-scenariotabellen for fullt spenn |
+| Worst case LTV 180 %-formulering svekker (Risk Officer, CRE, Kredittsjef) | Omformuler «ikke realistisk pant-tap» til noe som ikke virker bagatelliserende |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (dok 06) | Modere EBA-formuleringer; fjerne «bankens LTV-beregning», bruke «kredittpolicy styrer vekting» |
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` | Fjerne «på forespørsel»-formulering for tilsagnsbrev i avslutningen + vedleggsdel; harmoniser konstruksjonsfinansiering-tall |
+| `forretningsplan/fg30_forretningsplan.md` 1.1 | Legg til skattefri fisjon sktl. § 11-4 |
+| `forretningsplan/fg30_vurderinger_mva.md` 03 | Kort scenario-bullet om kvantifisert justeringsrisiko |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` 6.1 | Legg til EØS/GBER art. 53-tilføyelse |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` innledning + 7.5 | Prinsipp-disclaimer; omformuler worst case |
+| `bank/reviews/2026-06-30_bank_review_001.md` | Annotér adresserte funn |
+
+**Berørte filer:** Listet over.
+
+**Estimat:** 45–60 min.
+
+**Løst 30.06.2026.** Alle åtte punkter implementert:
+
+1. **EBA/GL/2020/06-modering i dok 06:** Tre forekomster oppdatert (pkt. 3 i sammendrag, § 6.1-omtale, vedleggsoversikt). Ny formulering: «vi forstår det slik at banker etter EBA-GL § 5.2 skal kartlegge alle finansieringskilder, og at det er bankens kredittpolicy som styrer hvordan tilskudd vektes». Fjernet «inngår i bankens LTV-beregning som reduksjon» og lignende kategoriske formuleringer.
+
+2. **Tilsagnsbrev «på forespørsel» fjernet** i bankhenvendelse 00. To steder: tilskuddsavsnittet (seksjon 4) og avslutningens originaldokumentasjon-linje. Erstatningstekst: «fremlegges som del av en eventuell etterfølgende lånesøknad».
+
+3. **Fisjon skattefri etter sktl. § 11-4** lagt til i forretningsplan 1.1: «Fisjonen planlegges gjennomført som skattefri etter skatteloven § 11-4 (skattemessig kontinuitet, konsernintern fisjon med samme aksjonærer).»
+
+4. **10-årig MVA-justeringsrisiko kvantifisert** i MVA-vurderingen kap. 7 risikotabell. Ny tabell viser tilbakebetalingsplikt ved bruksendring i år 2 (4,8–6,0 MNOK), år 5 (3,0–3,75) og år 8 (1,2–1,5). Sannsynlighet vurdert som lav med begrunnelse.
+
+5. **EØS/GBER-tilføyelse** i støtteoversikt 6.1: «70 %-taket korresponderer med Kulturminnefondets vedtekter og EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne, som Norge er bundet av gjennom EØS-avtalens art. 61.»
+
+6. **Innledende prinsipp-disclaimer** i finansieringsplanens åpning som blockquote: «Tallene er modellverdier basert på det vi vet nå. Endelige scenarioer, sensitiviteter og driftsbudsjett finkalibreres når Fjordgata 30 AS er stiftet, BFU er innhentet, IG er innvilget og detaljprosjektering er ferdig. Materialet vedlegges som faktagrunnlag for prinsippforespørselen i bankhenvendelse 00, ikke som endelig kredittsøknad.»
+
+7. **Konstruksjonsfinansiering-spenn standardisert:** Bankhenvendelse 00 og forretningsplan 6.1 leder med «~13,5 MNOK (forventet scenario)» og henviser til finansieringsplan 4.2 for fullt scenariospenn 7,5–19,25 MNOK. Konsistent presentasjon.
+
+8. **Worst case-formulering ryddet:** «212 % (ekstrem stresstest – ikke et plausibelt scenario)» istedenfor «ikke realistisk pant-tap».
+
+Iter 4-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_review_001.md` (kategori 1 nr. 2, 3, 4).
 
 ---

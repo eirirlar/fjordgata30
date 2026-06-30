@@ -20,11 +20,11 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Tiltakshaver ved låneutbetaling | Fjordgata 30 AS – opprettes ved planlagt fisjon før utbetaling |
 | Byggekostnad eks. MVA | ~30 MNOK |
 | Eksisterende pantelån (refinansieres) | 15,5 MNOK |
-| Ny konstruksjonsfinansiering | 12–17 MNOK avhengig av tilskuddsutfall |
+| Ny konstruksjonsfinansiering (forventet scenario) | ~13,5 MNOK (fullt scenariospenn 7,5–19,25 MNOK i finansieringsplan 4.2) |
 | Sum bankeksponering (inkl. refinansiering 15,5 MNOK + kapitalisert byggerente ~2,3 MNOK) | ~25–37 MNOK |
 | Sikkerhet | 1. prioritets pant i eiendom |
-| Eiendomsverdi etter rehabilitering (base) | ~59 MNOK (cap rate 6,5 %) |
-| LTV ved forventet scenario | **~53 %** (49 % uten kapitalisert byggerente) |
+| Eiendomsverdi etter rehabilitering (base) | ~53 MNOK (cap rate 6,5 %) |
+| LTV ved forventet scenario | **~59 %** (55 % uten kapitalisert byggerente) |
 | MVA-strategi | Hybridmodell (Alternativ D) – BFU planlagt Q3 2026 |
 | Grønt lån-kvalifikasjon | 53 % energireduksjon, G→D (dokumentert av HRP) |
 | Tidshorisont | Bankfinansiering avklart Q4 2026; byggestart Q4 2026–Q1 2027 |
@@ -62,9 +62,9 @@ Full-service-tilbudet er et bevisst differensieringsvalg: ingen av konkurrentene
 Sentrale tall:
 
 - Stabilisert omsetning: ~4,8 MNOK
-- Stabilisert EBITDA: ~3,8 MNOK (margin 79 % – muliggjort av slankt driftsoppsett i KodeWorks-strukturen)
-- Break-even belegg: 21 % totalutnyttelse
-- Eiendomsverdi etter rehabilitering, base-scenario: ~59 MNOK (cap rate 6,5 %)
+- Stabilisert EBITDA: ~3,5 MNOK (margin 72 % – innenfor bransjenorm for sentralt minilager med innslag av aktiv lagringstjeneste)
+- Break-even belegg: 28 % totalutnyttelse
+- Eiendomsverdi etter rehabilitering, base-scenario: ~53 MNOK (cap rate 6,5 %)
 
 Konkurrentanalysen viser at FG30s prismål (300 kr/kvm/mnd selvbetjent ved launch, 360 kr full-service) ligger under nærmeste sentrale konkurrent og forsvarlig over de perifere aktørene.
 
@@ -88,7 +88,7 @@ Innvilget og bekreftet med tilsagnsbrev: **2,25 MNOK** fordelt på:
 - Enova (energikartlegging) – 400 000 kr (saksnr. 26/2548)
 - Enova (ombrukskartlegging) – 500 000 kr (saksnr. 26/2555)
 
-Disse 2,25 MNOK utgjør prinsippspørsmålets gjenstand (se «Konkret anmodning»). Tilsagnsbrev og prosjektnumre per ordning ligger i separat vedlegg.
+Disse 2,25 MNOK utgjør prinsippspørsmålets gjenstand (se «Konkret anmodning»). Tilsagnsdetaljene over (datoer, beløp, saks-/prosjektnumre) er tilstrekkelig for prinsippsvaret. Selve tilsagnsbrevene fremlegges som del av en eventuell etterfølgende lånesøknad.
 
 I tillegg arbeider vi med flere søknader til ordninger der prosjektet er kvalifisert; samlet potensial utover de innvilgede 2,25 MNOK er ca. 5,8 MNOK i forventet scenario, opp til ca. 10,3 MNOK ved tilslag på alle spor (samlet potensial inkl. innvilget: ~12,5 MNOK). Detaljer ligger i finansieringsplanen og støtteoversikten. Disse er ikke en del av dagens prinsippspørsmål – henvendelsen handler om de innvilgede 2,25 MNOK.
 
@@ -124,7 +124,7 @@ Vi forventer ikke en konkret kredittvurdering nå. Vurderingen kan gjerne være 
 | Grønt lån – kriteriedokument | DNBs rammeverk, EU-taksonomiforordningen, kvalifikasjonsvurdering for Fjordgata 30 |
 | Energikartleggingsrapport, HRP AS, 05.05.2026 | NS 3031:2025, Simien Pro – 53 % energireduksjon, energimerke D |
 
-Originaldokumentasjon (tilsagnsbrev, BFU-utkast når ferdig, RIB-rapport, arbeidsrapport, anbefalingsbrev fra Byantikvaren, arkitekttegninger fra rammesøknad – fasader, planer og snitt) fremlegges på forespørsel.
+Originaldokumentasjon (tilsagnsbrev, BFU-utkast når ferdig, RIB-rapport, arbeidsrapport, anbefalingsbrev fra Byantikvaren, arkitekttegninger fra rammesøknad – fasader, planer og snitt) fremlegges som del av en eventuell etterfølgende lånesøknad.
 
 Si fra hvis noe er uklart eller mangler. Jeg følger opp dere direkte i løpet av de nærmeste ukene.
 

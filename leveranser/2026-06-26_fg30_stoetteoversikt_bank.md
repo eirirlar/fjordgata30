@@ -211,7 +211,7 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 
 ### 6.1 Kort om kumulering og statsstøtteregelverket
 
-Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak – for kulturminnerehabilitering er taket 70 % samlet intensitet (Kulturminnefondets vedtekter, FOR-2003-06-27-801).
+Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak – for kulturminnerehabilitering er taket 70 % samlet intensitet. Dette taket korresponderer med Kulturminnefondets vedtekter (FOR-2003-06-27-801) og EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne, som Norge er bundet av gjennom EØS-avtalens art. 61.
 
 Samlet bekreftet tilskuddsbeløp utgjør ~7,5 % av total byggekostnad (2,25 MNOK / 30 MNOK), og maksimalt potensial inkludert alle pågående søknader utgjør ~33–43 % – godt innenfor 70 %-taket på prosjektnivå.
 
