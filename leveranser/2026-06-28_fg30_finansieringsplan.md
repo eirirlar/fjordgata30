@@ -214,14 +214,14 @@ Foreløpig forutsetning, som finkalibreres i bankforhandling:
 
 | År | EBITDA | Gjeldstjeneste | DSCR | Kommentar |
 |---|---:|---:|---:|---|
-| 2028 (driftsår 1, IO) | 1,84 | 2,03 | 0,91 | Lease-up; rentedekning sikret av kontant likviditetsbuffer 0,5 MNOK fra KodeWorks Eiendom AS |
+| 2028 (driftsår 1, IO) | 1,84 | 2,03 | 0,91 | Lease-up; rentedekning sikret av kontant likviditetsbuffer 0,5 MNOK fra KodeWorks AS (morselskap), overført til Fjordgata 30 AS ved oppstart |
 | 2029 (driftsår 2, IO) | 2,56 | 2,03 | 1,26 | Over kovenant |
 | 2030 (driftsår 3, IO) | 3,20 | 2,03 | 1,58 | Sterk lease-up-utvikling |
 | 2031 (driftsår 4, amort. start) | 3,20 | 2,57 | 1,25 | Amortisering starter, over kovenant |
 | 2032 (driftsår 5, stabilisert) | 3,47 | 2,57 | 1,35 | Stabilisert drift |
 | 2033+ (annuitet løpende) | 3,47 | 2,57 | 1,35 | Sensitivitet i 7.1 |
 
-DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 MNOK) dekkes av en **kontant likviditetsbuffer på 0,5 MNOK satt av ved oppstart fra KodeWorks Eiendom AS**. Bufferen gir margin også ved noe svakere lease-up enn forutsatt. Fra og med driftsår 2 er DSCR over 1,2, og fra driftsår 3 over 1,5. Strukturen forutsetter (a) interest-only i 3 år for å gi lease-up-perioden tid, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
+DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 MNOK) dekkes av en **kontant likviditetsbuffer på 0,5 MNOK stilt av KodeWorks AS (morselskap til Fjordgata 30 AS) og overført til Fjordgata 30 AS ved oppstart**. Bufferen gir margin også ved noe svakere lease-up enn forutsatt. KodeWorks AS består som selskap uavhengig av fisjonen og har solid økonomi som sikrer bufferens forankring også post-fisjon. Fra og med driftsår 2 er DSCR over 1,2, og fra driftsår 3 over 1,5. Strukturen forutsetter (a) interest-only i 3 år for å gi lease-up-perioden tid, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
 
 #### Sensitivitet på rente
 
@@ -237,7 +237,7 @@ DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 M
 
 Selv med god dekning i base-scenariet legges følgende strukturelle tiltak inn for å håndtere uforutsette hendelser:
 
-- **Kontant likviditetsbuffer 0,5 MNOK** satt av ved oppstart fra KodeWorks Eiendom AS – dekker DSCR-shortfall i driftsår 1 (~0,19 MNOK) med margin for noe svakere lease-up
+- **Kontant likviditetsbuffer 0,5 MNOK** stilt av KodeWorks AS (morselskap) og overført til Fjordgata 30 AS ved oppstart – dekker DSCR-shortfall i driftsår 1 (~0,19 MNOK) med margin for noe svakere lease-up
 - **Interest-only-periode** på 3 år gir lease-up-tid med god margin
 - **Fast rente på del av lån** (50 % av rammen) i 5–7 år for å begrense rentestressfølsomhet
 - **Tilskuddsutbetalinger** brukes til å redusere låneramme etter hvert som de mottas (forventet ~6 MNOK i løpet av 2027–2029 fra KMF, BYA, UNI, Enova-ordningene)

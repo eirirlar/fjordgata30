@@ -259,10 +259,11 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 | A – Ren selvbetjent, ingen reg. | 0 % | 0 |
 | A – Selvbetjent, 30 % B2B | 30 % | 2 250 000 |
 | B – B2B-fokus, 70 % næring | 70 % | 5 250 000 |
-| D – Hybrid | 90–95 % | 6 750 000–7 125 000 |
+| **D – Hybrid (basis-forutsetning)** | **80 %** | **6 000 000** |
+| D – Hybrid (BFU-bekreftet oppside) | 90–95 % | 6 750 000–7 125 000 |
 | C/E – Full lagringstjeneste | 100 % | 7 500 000 |
 
-**Differansen mellom ingen registrering og full dekning: 7,5 MNOK.**
+**Basis-forutsetning brukt konsekvent i finansieringsplan 02 er 80 %-dekning (6,0 MNOK).** Modellberegnet hybriddekning (90–95 %) er øvre estimat ved full areal-allokeringsdokumentasjon og positivt BFU-utfall; vises som sensitivitetsoppside i finansieringsplan 7.2. Differansen mellom ingen registrering og full dekning er 7,5 MNOK.
 
 *Med Tilbakegående avgiftsoppgjør (§ 8-6) kreves at anlegget tas i bruk/leies ut innen 6 mnd etter ferdigstillelse. Ellers justeres over 10 år.*
 
@@ -286,6 +287,8 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 | År 8 | 2 år | 1,2–1,5 |
 
 Sannsynligheten for slik bruksendring vurderes som lav: FG30 driver minilager etter Alternativ D (full-service + selvbetjent B2B) og har ingen kommersielle insentiver til å gå over til passiv utleie etter at modellen er etablert. Hovedrisikoen er om Skatteetaten skulle omklassifisere full-service til passiv – men dette håndteres ved BFU før byggestart (jf. kap. 7).
+
+**Justeringsforpliktelsen ved fisjon (mval. § 9-2):** Dersom byggekostnader påløper i KodeWorks Eiendom AS før fisjonen er gjennomført, overdras justeringsforpliktelsen formelt fra KodeWorks Eiendom AS til Fjordgata 30 AS sammen med driftsmidlet ved fisjon (mval. § 9-2). Dette skjer i kontinuitet som del av den skattenøytrale fisjonen etter sktl. §§ 11-4 og 11-7, og utløser ikke justering. Skriftlig justeringsavtale mellom KodeWorks Eiendom AS og Fjordgata 30 AS opprettes som del av fisjonsdokumentasjonen.
 
 ---
 

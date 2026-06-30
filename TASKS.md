@@ -893,6 +893,86 @@ Konklusjon: Pakka stabiliserer seg på 7,5/10 ± 0,2. Nye iter 8-funn er primær
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_005.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 9.
 
+**Iterasjon 9 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). T132-kontekstinstrukser supplert med selskapsstruktur-presisering fra T134 (KodeWorks AS som morselskap). 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_006.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **7,9/10** (opp 0,4 fra 7,5 i iter 8). Per-dokument-snitt 8,1 (opp 0,2 fra 7,9). **Stor T134-effekt målbar.**
+
+T134-effekt:
+- **Finansieringsplan (dok 02) +0,7 (7,4 → 8,1)** – buffer-kilden i KodeWorks AS mottatt svært godt; Jurist: «bufferens juridiske forankring nå klar etter fisjon»
+- **Støtteoversikt (dok 05) +0,6 (8,1 → 8,7)**
+- **MVA-strategi (dok 03) +0,4 (8,3 → 8,7)** – § 9-2-presisering: «den korrekte konstruksjonen»
+- **Kredittanalytiker +1,0 (7 → 8)**, **Kunderådgiver +0,5 (8 → 8,5)**, **Jurist +0,5 (8 → 8,5)**, **CRE +0,5 (7,5 → 8)**
+
+Eneste nedgang: **Dok 04 −0,7 (7,4 → 6,7)** – 4 agenter flagger Green Storage 613 kr + Stortrack-premium tynt + intern inkonsistens i posisjoneringsanalyse (100–120 vs 300–360).
+
+Status på iter 8-anbefalinger (T134-effekt):
+- ✅ LØST: MVA-basis-inkonsistens (#1), Mval. § 9-2 ved fisjon (#3), Buffer-kilde til KodeWorks AS (#4-delvis)
+- ⚠ AVVIST: Tittel på dok 06 (#2)
+- ⚠ DELVIS: Buffer-kilden flyttet til KodeWorks AS, men juridisk form (aksjonærtilskudd/lån/garanti) ikke spesifisert
+
+Nye iter 9-funn (kategori 1 – kvikke gevinster):
+1. Likviditetsbufferens juridiske form (Jurist, CRE) — krever brukerinput
+2. KodeWorks AS' soliditet kvalitativ note (Risk Officer, Kredittanalytiker) — krever brukerinput
+3. DSCR-tabellinkonsistens 2030/2031 (Jurist)
+4. Byggetid 10 vs 12–15 mnd 01 vs 02 (Kredittanalytiker)
+5. Mval. § 9-2 justeringsavtalen «senest på fisjons-virkningstidspunktet» (Jurist)
+6. «80–100 %»-prosa-tekst i 00/01 motsi 80 %-basis (Kunderådgiver)
+7. Historisk EK 1,5 MNOK i 05 vs 10 MNOK kjøpesum (Kredittsjef)
+8. 04 posisjoneringsanalyse intern inkonsistens (Risk Officer)
+9. Stiftelsen UNI utbetalingsbetingelse ikke i likviditetsplan (Kredittanalytiker)
+
+Konklusjon: Pakka løfter seg til 7,9/10. T134 traff. Nye funn er hovedsakelig mindre presisjon/inkonsistens-ryddinger. Strukturelle svakheter ligger på T109 eller kredittsøknad-fase.
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_006.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 10.
+
+---
+
+### T134 `[x]` Iter 8-respons: rydde MVA-basis-inkonsistens i 03, § 9-2 ved fisjon, buffer-kilde til morselskap
+
+**Bakgrunn:** Iter 8-review (`bank/reviews/2026-06-30_bank_review_005.md`) stabiliserte pakka på 7,5/10 og avdekket tre konkrete kategori 1-funn som kan løses uten å vente på T109. To av funnene er kvikke gevinster (MVA-basis-konsistens, § 9-2-presisering), den tredje er en strukturell forbedring av likviditetsbufferens forankring (fra «KodeWorks Eiendom AS» til «KodeWorks AS» som morselskap, med eksplisitt overføring til Fjordgata 30 AS ved oppstart).
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Iter 8-funn | Sted | Beslutning |
+|---|---|---|
+| MVA-basis-inkonsistens 02 (80 %) vs 03 (90–95 % hybrid D) — 4 agenter | 03 kap. 6 + kap. 4 anbefaling | Rette 03 til å lede med 80 % basis (matche 02s 6,0 MNOK); 95 % vises som BFU-bekreftet hybrid-oppside |
+| Mval. § 9-2 justeringsforpliktelsens overgang ved fisjon — Jurist | 03 kap. 7 | Tilføy én setning om at justeringsforpliktelsen overdras formelt ved fisjon etter mval. § 9-2 som del av kontinuitetsprinsippet |
+| Likviditetsbufferens forankring etter fisjon — 4 agenter | 02 4.4 (tre steder) | Endre buffer-kilden fra «KodeWorks Eiendom AS» til «KodeWorks AS» (morselskap), med eksplisitt formulering om at bufferen overføres til Fjordgata 30 AS ved oppstart. KodeWorks AS er morselskap til både KodeWorks Eiendom AS og Fjordgata 30 AS etter fisjon og er det selskapet som har solid økonomi som backstop |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `forretningsplan/fg30_vurderinger_mva.md` (03) kap. 6 | Tabellen D-rad oppdateres til å vise basis 80 % / 6,0 MNOK + oppside 90–95 % / 6,75–7,125 MNOK. Innledende tekst presiseres om at 80 % er basis-forutsetning brukt i finansieringsplan 02 |
+| `forretningsplan/fg30_vurderinger_mva.md` (03) kap. 7 | Ny kort avsnitt etter justeringsrisikotabell om mval. § 9-2 ved fisjon (overdragelse av justeringsforpliktelsen som del av kontinuitetsprinsippet i den skattenøytrale fisjonen etter sktl. §§ 11-4 og 11-7) |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) 4.4 — tre steder | Endre «KodeWorks Eiendom AS» → «KodeWorks AS (morselskap)»; tilføy: «overført til Fjordgata 30 AS ved oppstart» |
+| `bank/reviews/2026-06-30_bank_review_005.md` | Annotér adresserte iter 8-funn 1, 2, 3 som ADRESSERT i T134. Funn 4 (rettskildetetthet) AVVIST som agent-paranoia. Funn 5 (tittel på 06) AVVIST som agent-pirk (tittel = tema, ikke konklusjon) |
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 15 min.
+
+**Løst 30.06.2026.** Tre svar-spor implementert + to spor avvist:
+
+1. **MVA-basis-konsistens i 03 kap. 6:** Tabellen kvantifisert MVA-effekt fikk ny struktur. D-raden splittet i to: «D – Hybrid (basis-forutsetning) | **80 %** | **6 000 000**» (fremhevet med fet) + «D – Hybrid (BFU-bekreftet oppside) | 90–95 % | 6 750 000–7 125 000». Ny presisering rett under tabellen: «Basis-forutsetning brukt konsekvent i finansieringsplan 02 er 80 %-dekning (6,0 MNOK). Modellberegnet hybriddekning (90–95 %) er øvre estimat ved full areal-allokeringsdokumentasjon og positivt BFU-utfall; vises som sensitivitetsoppside i finansieringsplan 7.2.» Adresserer 4 av 7 agenters viktigste flagg i iter 8.
+
+2. **Mval. § 9-2 ved fisjon i 03 kap. 7:** Nytt avsnitt etter justeringsrisikotabellen: «Justeringsforpliktelsen ved fisjon (mval. § 9-2): Dersom byggekostnader påløper i KodeWorks Eiendom AS før fisjonen er gjennomført, overdras justeringsforpliktelsen formelt fra KodeWorks Eiendom AS til Fjordgata 30 AS sammen med driftsmidlet ved fisjon (mval. § 9-2). Dette skjer i kontinuitet som del av den skattenøytrale fisjonen etter sktl. §§ 11-4 og 11-7, og utløser ikke justering. Skriftlig justeringsavtale mellom KodeWorks Eiendom AS og Fjordgata 30 AS opprettes som del av fisjonsdokumentasjonen.»
+
+3. **Buffer-kilde i 02 4.4 — tre steder:** Endret fra «KodeWorks Eiendom AS» til «KodeWorks AS» (morselskap):
+   - DSCR-tabell linje 2028: «kontant likviditetsbuffer 0,5 MNOK fra KodeWorks AS (morselskap), overført til Fjordgata 30 AS ved oppstart»
+   - Bane-beskrivelse: «stilt av KodeWorks AS (morselskap til Fjordgata 30 AS) og overført til Fjordgata 30 AS ved oppstart» + ny presisering: «KodeWorks AS består som selskap uavhengig av fisjonen og har solid økonomi som sikrer bufferens forankring også post-fisjon»
+   - Mitigerende tiltak: «stilt av KodeWorks AS (morselskap) og overført til Fjordgata 30 AS ved oppstart»
+
+4. **AVVIST: Iter 8-funn 4 (samlet rettskildetetthet)** – agent-paranoia. Pakka har gjort tre formelle moderasjonsrunder (T105, T130, T133); ytterligere modering har null informasjonsverdi.
+
+5. **AVVIST: Iter 8-funn 7 (tittel på dok 06)** – tittel er tema, ikke konklusjon. Dokumentet anbefaler at tilskudd kan benyttes som egenkapital; tittel beskriver temaet, og brukerens tolkning er at dette står seg helt fint.
+
+Iter 8-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_005.md` (kategori 1 nr. 1, 3, 4 ADRESSERT; nr. 2 AVVIST).
+
+Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
+
 ---
 
 ### T105 `[x]` Konsistens- og tekst-rydding i bankpakka (kvikke gevinster fra bank_review)
