@@ -351,9 +351,9 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 | Refinansiering av eksisterende pantelån | 15,5 | Konverteres inn i ny bankramme ved byggestart |
 | **Byggekostnad (eks. MVA)** | **30** | |
 | **Forventet total tilskuddsstøtte** | **~8** | Innvilget + høy sannsynlighet |
-| **Maksimumspotensial tilskudd** | **~10–13** | Ved tilslag på alle spor |
-| **Total bankramme (forventet scenario)** | **~28–30** | Ny konstruksjonsfinansiering + refinansiering |
-| **LTV ved 59 MNOK eiendomsverdi (forventet)** | **~49 %** | Innenfor komfortabel sone for næringseiendom |
+| **Maksimumspotensial tilskudd** | **~12,5** | Ved tilslag på alle spor (detaljert spenn 10,1–12,7 i finansieringsplan 2.4) |
+| **Sum bankeksponering (forventet scenario)** | **~31,3** | Ny konstr.fin. + refinansiering + ~2,3 kap. byggerente |
+| **LTV ved 59 MNOK eiendomsverdi (forventet)** | **~53 %** | Inkl. kapitalisert byggerente (~2,3 MNOK); 49 % uten – innenfor komfortabel sone for næringseiendom |
 
 *Eksisterende pantelån på 15,5 MNOK refinansieres inn i ny konstruksjonsfinansiering ved byggestart. MVA-refusjonen er en nøkkelpost: forutsetter at virksomheten er avgiftspliktig (Alternativ D). Tilskudd under søknad er klassifisert etter kvalitative sannsynlighetsklasser med dokumentert begrunnelse per ordning; detaljert oppstilling og rettsgrunnlag i separat finansieringsplan.*
 
@@ -361,19 +361,20 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 
 | Post | MNOK/år |
 |------|---------|
-| Personell (deltid drift, ad-hoc kundebehandling) | 0,400 |
+| Fast bemanning (vaktmester/drift) | 0,250 |
+| Ekstern valet-operatør (resource-on-demand) | 0,150 |
 | Forsikring (bygning + ansvar) | 0,080 |
 | Strøm og varme (etter T1-pakkens 53 % energireduksjon) | 0,100 |
 | Vedlikehold og renhold | 0,050 |
-| Adgangssystem (driftsstøtte; plattform-utvikling er kapitalisert) | 0,050 |
+| Adgangssystem (drift og IT-support via KodeWorks tjenesteavtale) | 0,050 |
 | Markedsføring (vedlikehold etter lease-up) | 0,050 |
-| Regnskap, revisjon, juridisk | 0,070 |
-| Varebil (ad-hoc-leie / deling med KodeWorks-virksomheter) | 0,050 |
+| Regnskap, administrasjon og HR-bistand via KodeWorks tjenesteavtale | 0,070 |
+| Varebil (ad-hoc-leie) | 0,050 |
 | Kommunale avgifter og forsikring bygg | 0,080 |
 | Annet | 0,070 |
 | **Sum driftskostnader** | **1,000** |
 
-*Driftskostnader er kalibrert for FG30s faktiske ressursbehov ved stabilisert drift: deltids driftsbemanning støttet av KodeWorks-strukturen, T1-pakkens energireduksjon som senker strømkostnaden vesentlig, kapitalisert teknologiplattform (utviklingskostnad inngår i investeringen, ikke som løpende drift), og varebilbehov dekket på ad-hoc-basis eller gjennom deling med øvrige KodeWorks-virksomheter. Estimatet reflekterer at FG30 driver i en eksisterende organisasjon med velfungerende admin- og regnskapsfunksjoner.*
+*Driftskostnader reflekterer FG30s faktiske kostnadsbase ved stabilisert drift. Fast bemanning (vaktmester/drift) er ansatt hos FG30; KodeWorks-strukturen bistår med HR-administrasjon via tjenesteavtale på markedsvilkår. Valet-tjenesten driftes av ekstern operatør på resource-on-demand-kontrakt – kostnaden skalerer med faktisk aktivitet, og KodeWorks' brede nettverk (sammen med Kristian Brandsegg og Ole Morten Lagmannssveen) gjør strukturen realistisk å implementere. Regnskap, administrasjon og IT-support for adgangssystem leveres tilsvarende av KodeWorks-strukturen via tjenesteavtale på markedsvilkår. T1-pakkens 53 % energireduksjon senker strømkostnaden vesentlig. Teknologiplattformens utviklingskostnad er kapitalisert (engangsinvestering).*
 
 ### 6.3 EBITDA-projeksjon
 
@@ -418,7 +419,7 @@ Forutsetter:
 | Base (forventet tilskuddsbase) | 16 | 3,82 | 6,5 % | 58,8 |
 | Optimistisk (maks tilskuddspotensial) | 11 | 4,32 | 6,0 % | 72,0 |
 
-*Nettoinvestering etter tilskudd og MVA-refusjon. I base-scenarioet reduserer forventet tilskuddsbase (~8 MNOK) og MVA-refusjonen (~6 MNOK) brutto investering fra 30 MNOK til ~16 MNOK. Eiendomsverdien på ~59 MNOK gir ~3,7× multippel mot nettoinvesteringen. Cap rate-forutsetningene ligger nær markedsobservasjoner for sentrumsanlegg (5,5–6,5 % stabilisert). NB: LTV-vurderingen tar utgangspunkt i samlet bankeksponering (ny konstruksjonsfinansiering pluss refinansiering av eksisterende 15,5 MNOK pantelån) – ikke nettoinvestering alene. Samlet bankramme i basisscenario er ~28–30 MNOK, som gir LTV ~49 %.*
+*Nettoinvestering etter tilskudd og MVA-refusjon. I base-scenarioet reduserer forventet tilskuddsbase (~8 MNOK) og MVA-refusjonen (~6 MNOK) brutto investering fra 30 MNOK til ~16 MNOK. Eiendomsverdien på ~59 MNOK gir ~3,7× multippel mot nettoinvesteringen. Cap rate-forutsetningene ligger nær markedsobservasjoner for sentrumsanlegg (5,5–6,5 % stabilisert). NB: LTV-vurderingen tar utgangspunkt i samlet bankeksponering inkludert kapitalisert byggerente (ny konstruksjonsfinansiering + refinansiering av eksisterende 15,5 MNOK pantelån + ~2,3 MNOK kapitalisert rente) – ikke nettoinvestering alene. Sum bankeksponering i forventet scenario er ~31,3 MNOK, som gir LTV ~53 % (49 % uten kapitalisert byggerente).*
 
 ### 8.2 Bankargumentasjon – MVA og avgiftspliktig virksomhet
 
@@ -447,6 +448,7 @@ For banken er det vesentlig å dokumentere:
 | Byggerisiko: Overskridelse | Middels | Middels | Buffer i budsjett; EK-reserve |
 | Konkurranserisiko: Ny aktør sentrum | Lav | Lav | Launch-pris (300 kr) er under Utleiebod (365 kr) og Trondheim Minilager (306 kr, 7,5 km); historisk bygg som barriere |
 | Renterisiko | Middels | Middels | Fast rente på deler av lån |
+| Klimatilpasning: flom Nidelva + stormflod Trondheimsfjorden | Lav–middels | Middels | Bygget har stått siden 1857 og overlevd 200-årsflommen i 1944. Trondheimsfjorden har begrenset havnivåstigning frem mot 2100 grunnet landheving. NVE-flomsonekart fra 2001 er under oppdatering (2023+); ny vurdering integreres ved IG. Bygningsmessige tiltak i kjeller/fundament (drenering, vanntett membran, tilpasset krypkjeller-løsning) håndteres i detaljprosjekteringen |
 
 ## 10. Fremdriftsplan
 
@@ -476,7 +478,7 @@ Fjordgata 30 AS er et prosjekt med høy kompleksitet, men solid potensial. De vi
 
 2. **Prismodell ~4 100 kr/kvm/år (launch) + krypkjeller** – markedsmessig prissatt under nærmeste sentrale konkurrent Utleiebod (365 kr/kvm/mnd) ved launch; gir stabilisert omsetning ~4,8 MNOK og EBITDA ~3,8 MNOK
 
-3. **Alternativ D (Hybrid)** – B2B selvbetjent + full-service «valet storage»; to stabile inntektsstrømmer og 90–100 % MVA-dekning i byggefasen
+3. **Alternativ D (Hybrid)** – B2B selvbetjent + full-service «valet storage»; to stabile inntektsstrømmer og 80–100 % MVA-dekning i byggefasen
 
 4. **Offentlig støtte ~8 MNOK forventet + MVA-refusjon ~6 MNOK** – reduserer nettoinvestering fra 30 MNOK til ~16 MNOK i forventet scenario; maksimumspotensial ved tilslag på alle tilskuddsspor er ~12,5 MNOK
 

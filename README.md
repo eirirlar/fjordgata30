@@ -232,6 +232,17 @@ Viser råscore og normalisert score (fra `scores_total.csv`) for ett bilde.
 
 Alle datafiler ligger i `data/`.
 
+### `team.json` — autoritativt register over ressurspersoner og organisasjoner
+
+Strukturert JSON med fire seksjoner:
+
+- `personer` – ressurspersoner med rolle, organisasjon, kontaktinfo og hvor de er nevnt
+- `organisasjoner` – samarbeidende firma og deres rolle i FG30
+- `myndigheter_og_tilskuddsorgan` – tilskuddsgivere, kommunale/statlige etater
+- `forhandsinteressenter` – aktører som har meldt interesse for utleieflate
+
+Dokumenter som omtaler personer eller organisasjoner skal henvise til denne filen som autoritativ kilde for navn, roller og kontaktinfo. Eventuelle uoverensstemmelser rettes her først, deretter i kildedokumentet.
+
 ### `scores_auto.csv` — append-only, skrives av `score_auto.py`
 
 | Kolonne | Beskrivelse |

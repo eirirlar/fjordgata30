@@ -1,0 +1,250 @@
+{
+  "_meta": {
+    "beskrivelse": "Autoritativt register over ressurspersoner, organisasjoner og myndigheter knyttet til Fjordgata 30-prosjektet. Bygges opp basert på det som er nevnt i prosjektets dokumenter. Korriger ev. feil direkte i denne filen.",
+    "opprettet": "2026-06-30",
+    "kilder": "Referater (statusmøte 01–07), forretningsplan, leveranser, HRP-rapport, statusoversikt-stotte"
+  },
+
+  "personer": [
+    {
+      "navn": "Eirik Larsen",
+      "rolle": "Byggherre / prosjekteier FG30; daglig leder KodeWorks Eiendom AS",
+      "organisasjon": "KodeWorks Eiendom AS",
+      "kontakt": {
+        "epost": "eirik.larsen@kodeworks.no",
+        "tlf": "416 70 269"
+      },
+      "ansvar_i_fg30": "Prosjekteierskap, overordnet drift, ekstern dialog (bank, kulturminnefond, myndigheter)",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md", "leveranser/2026-06-28_fg30_bankhenvendelse.md", "referat/*"]
+    },
+    {
+      "navn": "Aleksander Skraastad",
+      "rolle": "Økonomi-, fag- og IT-ansvarlig KodeWorks",
+      "organisasjon": "KodeWorks Eiendom AS",
+      "kontakt": {},
+      "ansvar_i_fg30": "Økonomi, faglig oppfølging, IT/systemansvar",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (kap. 1.3)"]
+    },
+    {
+      "navn": "Lasse Holanger",
+      "rolle": "Leder konsulentavdeling og personal KodeWorks",
+      "organisasjon": "KodeWorks Eiendom AS",
+      "kontakt": {},
+      "ansvar_i_fg30": "Personalansvar; leder KodeWorks' konsulentavdeling",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (kap. 1.3)"]
+    },
+    {
+      "navn": "Kristian Brandsegg",
+      "rolle": "Koordinator FG30",
+      "organisasjon": "KMTE",
+      "kontakt": {
+        "epost": "kristian.b.brandsegg@gmail.com",
+        "tlf": "917 83 003"
+      },
+      "ansvar_i_fg30": "Koordinering og fysisk prosjektutførelse",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (kap. 1.3)", "referat/*", "bakgrunn/2026-04-16_arbeid_kristian.txt"]
+    },
+    {
+      "navn": "Ole Morten Lagmannssveen",
+      "rolle": "Prosjekteringsgruppeleder (PGL) for FG30",
+      "organisasjon": "HRP AS",
+      "kontakt": {
+        "epost": "ola@hrprosjekt.no",
+        "tlf": "990 94 851"
+      },
+      "ansvar_i_fg30": "PGL hos HRP; også fysisk prosjektutførelse på FG30 (ressursperson)",
+      "alias": ["OML"],
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (kap. 1.3)", "bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md", "referat/*", "bakgrunn/2026-04-16_arbeid_ole_morten.txt"]
+    },
+    {
+      "navn": "Anne Kristine Amble",
+      "rolle": "Energirådgiver",
+      "organisasjon": "HRP AS",
+      "kontakt": {},
+      "ansvar_i_fg30": "Utarbeidet energikartleggingsrapport (05.05.2026, prosjektnr. 2612200) etter NS 3031:2025 / Simien Pro",
+      "nevnt_i": ["bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md", "leveranser/2026-06-26_groenne_laan_kriterier.md", "leveranser/2026-06-29_fg30_tilbakemelding_hrp_energirapport.md"]
+    },
+    {
+      "navn": "Adnan Harambasic",
+      "rolle": "Arkitekt",
+      "organisasjon": "SAAHA AS",
+      "kontakt": {
+        "epost": "adnan@saaha.no",
+        "tlf": "473 56 130"
+      },
+      "ansvar_i_fg30": "Arkitekt for rammesøknad og prosjektering",
+      "nevnt_i": ["referat/*"]
+    },
+    {
+      "navn": "Liza Marchenko",
+      "rolle": "Arkitekt",
+      "organisasjon": "SAAHA AS",
+      "kontakt": {
+        "epost": "liza@saaha.no",
+        "tlf": "482 09 416"
+      },
+      "ansvar_i_fg30": "Arkitekt for rammesøknad og prosjektering",
+      "nevnt_i": ["referat/*"]
+    },
+    {
+      "navn": "Elisabeth Kahrs",
+      "rolle": "Kontaktperson",
+      "organisasjon": "Byantikvaren Trondheim",
+      "kontakt": {},
+      "ansvar_i_fg30": "Saksbehandler/kontaktperson for FG30 hos Byantikvaren",
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md"]
+    }
+  ],
+
+  "organisasjoner": [
+    {
+      "navn": "KodeWorks Eiendom AS",
+      "type": "Eier og prosjektutvikler",
+      "orgnr": "920 478 506",
+      "rolle_i_fg30": "Nåværende eier av Fjordgata 30. Prosjektutvikler. Fisjonerer ut Fjordgata 30 AS før eventuell låneutbetaling. Leverer tjenester (regnskap, administrasjon, IT-support adgangssystem, HR-bistand) til FG30 på markedsvilkår via tjenesteavtale",
+      "kontakt": "Eirik Larsen (daglig leder)",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md", "leveranser/2026-06-28_fg30_bankhenvendelse.md"]
+    },
+    {
+      "navn": "Fjordgata 30 AS",
+      "type": "SPV under etablering",
+      "orgnr": "Ikke registrert ennå",
+      "rolle_i_fg30": "Planlagt eier- og driftsselskap etter fisjon fra KodeWorks Eiendom AS. Opprettes før eventuell låneutbetaling",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md"]
+    },
+    {
+      "navn": "HRP AS",
+      "type": "Rådgivende ingeniør",
+      "rolle_i_fg30": "RIB, energi (NS 3031:2025/Simien Pro), ombrukskartlegging, prosjekteringsgruppeledelse. Leverte energikartleggingsrapport 05.05.2026 (prosjektnr. 2612200)",
+      "nokkelpersoner_fg30": ["Anne Kristine Amble (energi)", "Ole Morten Lagmannssveen (PGL)"],
+      "nevnt_i": ["bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md", "leveranser/2026-06-26_groenne_laan_kriterier.md"]
+    },
+    {
+      "navn": "SAAHA AS",
+      "type": "Arkitekt",
+      "rolle_i_fg30": "Arkitekttegninger til rammesøknad (levert 12.05.2026), planløsning, fasader, snitt",
+      "nokkelpersoner_fg30": ["Adnan Harambasic", "Liza Marchenko"],
+      "nevnt_i": ["referat/*", "tegninger/"]
+    },
+    {
+      "navn": "KMTE",
+      "type": "Koordinator-/utførelsesvirksomhet",
+      "rolle_i_fg30": "Koordinering og fysisk prosjektutførelse",
+      "nokkelpersoner_fg30": ["Kristian Brandsegg"],
+      "nevnt_i": ["referat/*"]
+    },
+    {
+      "navn": "Orkla Regnskap",
+      "type": "Regnskap og økonomisk drift",
+      "rolle_i_fg30": "Tett operativt samspill med KodeWorks' økonomiske drift; ikke kun ren regnskapsføring",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (kap. 1.3)"]
+    }
+  ],
+
+  "myndigheter_og_tilskuddsorgan": [
+    {
+      "navn": "Kulturminnefondet",
+      "kortform": "KMF",
+      "type": "Statlig tilskuddsgiver (kulturminne)",
+      "rolle_i_fg30": "Tilskuddsgiver – sikringstiltak bevaringsverdige kulturminner. Innvilget 750 000 NOK (tilsagn 13.03.2024, prosjektnr. 240126). Endringsmelding 25.06.2026 (kontor → minilager) godkjent",
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md", "stotte/project_cards.json"]
+    },
+    {
+      "navn": "Byantikvaren Trondheim",
+      "kortform": "BYA",
+      "type": "Kommunalt tilskuddsorgan",
+      "rolle_i_fg30": "Tilskuddsgiver – verneverdig bebyggelse. Innvilget 500 000 NOK (tilsagnsbrev 02.05.2025, saksref. 2025/5928). Endringsmelding 25.06.2026 godkjent. Kontaktperson Elisabeth Kahrs",
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md"]
+    },
+    {
+      "navn": "Stiftelsen UNI",
+      "type": "Privat stiftelse (brannsikring)",
+      "rolle_i_fg30": "Tilskuddsgiver – brannsikring. Innvilget 100 000 NOK (styrevedtak 28.08.2024, ref. UNI-38702)",
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md"]
+    },
+    {
+      "navn": "Enova",
+      "type": "Statlig støtteorgan (energi og klima)",
+      "rolle_i_fg30": "Tilskuddsgiver – energikartlegging (400 000 NOK, saksnr. 26/2548) + ombrukskartlegging (500 000 NOK, saksnr. 26/2555). Potensiell tilleggsstøtte: energioppgradering yrkesbygg",
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md", "bakgrunn/stotte/enova_kl/*", "bakgrunn/stotte/enova_om/*"]
+    },
+    {
+      "navn": "Trondheim Brann og Redningstjeneste",
+      "kortform": "TBRT",
+      "type": "Kommunalt tilsynsorgan",
+      "rolle_i_fg30": "Tilsynsmyndighet for brannsikring. Historisk dialog (tilsyn, varsler, tiltaksplaner, dagbøter)",
+      "nevnt_i": ["bakgrunn/2018-* til 2022-* tbrt_*", "brann/"]
+    },
+    {
+      "navn": "Skatteetaten",
+      "type": "Statlig myndighet",
+      "rolle_i_fg30": "Mottar BFU (bindende forhåndsuttalelse) for MVA-klassifisering av full-service. Planlagt Q3 2026",
+      "nevnt_i": ["leveranser/2026-06-28_fg30_finansieringsplan.md", "forretningsplan/fg30_vurderinger_mva.md"]
+    },
+    {
+      "navn": "Riksantikvaren",
+      "type": "Statlig kulturminnemyndighet",
+      "rolle_i_fg30": "Potensiell tilskuddsgiver (opplæring i gammelt håndverk – under søknad). Har gitt føringer om solcelle-plassering",
+      "nevnt_i": ["leveranser/2026-06-28_fg30_finansieringsplan.md", "bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md"]
+    },
+    {
+      "navn": "Trøndelag fylkeskommune",
+      "type": "Regional tilskuddsmyndighet",
+      "rolle_i_fg30": "Potensiell tilskuddsgiver – brannsikring tette trehusområder + kulturtilskudd",
+      "nevnt_i": ["leveranser/2026-06-28_fg30_finansieringsplan.md"]
+    },
+    {
+      "navn": "Innovasjon Norge",
+      "kortform": "IN",
+      "type": "Statlig næringslivsorgan",
+      "rolle_i_fg30": "Potensiell tilskuddsgiver – Minilager-as-a-Service (digital plattform/IoT)",
+      "nevnt_i": ["leveranser/2026-06-28_fg30_finansieringsplan.md", "stotte/fg30_innovasjon_norge_vurdering.md"]
+    },
+    {
+      "navn": "Trondheim kommune",
+      "type": "Kommunal byggesaksmyndighet",
+      "rolle_i_fg30": "Behandler rammesøknad (levert 12.05.2026) og senere igangsettingstillatelse (IG)",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md", "leveranser/2026-06-28_fg30_bankhenvendelse.md"]
+    }
+  ],
+
+  "forhandsinteressenter": [
+    {
+      "navn": "Trondheim By Boat",
+      "type": "Bedrift",
+      "interesse": "Krypkjeller / kjeller-boder med aksess fra Nidelva",
+      "status": "Meldt interesse 2026-06-30",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (3.3)", "forretningsplan/kilde_markedsdata.md (4.5)"]
+    },
+    {
+      "navn": "Kystverket",
+      "type": "Statlig etat",
+      "interesse": "Kontorflate (1. etasje)",
+      "status": "Meldt interesse 2026-06-30",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (3.3)", "forretningsplan/kilde_markedsdata.md (4.5)"]
+    },
+    {
+      "navn": "Arkitektfirma i Trondheim (navn ikke spesifisert)",
+      "type": "Bedrift",
+      "interesse": "Kontorflate",
+      "status": "Meldt interesse 2026-06-30",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (3.3)"],
+      "kommentar": "Navn kan kompletteres når kjent"
+    },
+    {
+      "navn": "Kunde av KodeWorks (navn ikke spesifisert)",
+      "type": "Bedrift",
+      "interesse": "Kontorflate",
+      "status": "Meldt interesse 2026-06-30",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (3.3)"],
+      "kommentar": "Navn kan kompletteres når kjent"
+    },
+    {
+      "navn": "10 kunder av KodeWorks' eksisterende minilager (navngitte i intern oversikt)",
+      "type": "Kundeportefølje",
+      "interesse": "Fortrinnsrett til lagerflate ved FG30-oppstart",
+      "status": "Meldt interesse; forhåndssigneringer kan innhentes uten vesentlig friksjon",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md (3.3)", "forretningsplan/kilde_markedsdata.md (4.5)"]
+    }
+  ]
+}

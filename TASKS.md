@@ -687,7 +687,29 @@ Topp-anbefalinger til neste iterasjon (kategori 1 – må adresseres):
 
 Brukeren leser `bank/reviews/2026-06-29_bank_review_001.md` og beslutter hvilke justeringer som blir egne tasks før evt. iterasjon 3.
 
-**Iterasjon 3 – planlagt.** Når kategori 1-anbefalinger er adressert.
+**Iterasjon 3 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). Agent-tool opprettet 7 worktrees (uunngåelig); må ryddes etter sesjon med samme prosedyre som etter iterasjon 1 og 2.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **6,1/10** (opp fra 5,3 i iterasjon 2). Per-dokument-snitt opp fra 6,1 til 7,2. Klare forbedringer i bankhenvendelsen (+1,5), tilskudd som EK (+1,2) og finansieringsplanen (+1,1).
+
+Status på iterasjon 2-anbefalinger:
+
+- ✅ Løst: Skjerpet anmodning (T118), Skriftlig KMF/BYA (T114), Enova-avvisning (T115), Pant i tilskuddsrettigheter fjernet (T117), KodeWorks-organisasjon (T121), Forhåndsetterspørsel (T120)
+- ⚠ Delvis: Snu scenario-fortellingen (forventet 49 % fortsatt hovedtall), Fisjon-avklaring (KodeWorks etablert som avsender, men ingen fisjonsplan)
+- ❌ Ikke løst: DNSH/klimatilpasning, Aksjonærgaranti-kvalifisering, Kapitalisert rente i LTV
+
+Nye kritiske funn (kategori 1 før utsending):
+
+1. **DSCR-inkonsistens i finansieringsplan (4.4 vs 7.4)** — samme rente, ulike DSCR (1,49 stab. vs 0,98 stab.). Flagged av fire av syv agenter. Showstopper.
+2. **Kapitalisert rente 2,3 MNOK ikke i LTV-tall** — reell LTV i forventet er ~53 %, ikke 49 %.
+3. **EBITDA-margin 79 % avhenger av KodeWorks-subsidiert drift** — standalone-budsjett etter fisjon vil ha høyere driftskost.
+4. **Refinansiering av 15,5 MNOK pantelån — eksisterende panthavers samtykke** ikke dokumentert.
+5. **Tallinkonsistens** (uforutsett 10 % vs 15 %, MVA-dekning 80–100 % vs 90–95 %, tilskudd-maks 10 / 10–13 / 10,1–12,7 / 12,5 MNOK).
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review.md` og beslutter hvilke justeringer som blir egne tasks før evt. iterasjon 4.
+
+**Iterasjon 4 – planlagt.** Når kategori 1-anbefalinger er adressert.
 
 ---
 
@@ -1441,5 +1463,478 @@ Lagt inn som:
 - `forretningsplan/fg30_forretningsplan.md`: ny seksjon **1.3 Organisasjon og prosjektkapasitet** etter 1.2 Bygningen. Tabellbasert lederoversikt + omtale av Orkla Regnskap + prosjektkapasiteten på selve FG30 + eksplisitt konklusjon om at prosjektet kan videreføres uavhengig av enkeltpersoner.
 
 Avviser nøkkelpersonrisiko-kritikken fra iterasjon 2 ved å vise at det er en eksisterende organisasjon med tre ledere og etablert økonomi/admin-funksjon, ikke et ettmannsforetak.
+
+---
+
+### T122 `[x]` Korriger driftskostnadsstruktur og fotnote – tjenestekjøp fra KodeWorks + ekstern valet på resource-on-demand
+
+**Bakgrunn:** CRE-spesialist i iterasjon 3 (`bank/reviews/2026-06-30_bank_review.md`) flagget at 79 % EBITDA-margin avhenger av «KodeWorks-subsidiert drift», basert på fotnote-formuleringen i forretningsplan 6.2 (skrevet under T111: «deltids driftsbemanning støttet av KodeWorks-organisasjonen ... varebilbehov dekket på ad-hoc-basis eller gjennom deling med øvrige KodeWorks-virksomheter»). Brukerens oppklaring 30.06.2026: KodeWorks subsidierer **ikke** driften, men bistår med konkrete tjenester på markedspris. Fotnoten er villedende.
+
+**Brukerens faktiske driftsmodell (30.06.2026):**
+
+KodeWorks bistår FG30 med følgende tjenester (på markedspris/tjenesteavtale):
+
+- Regnskap
+- Administrasjon (myndighetsrapportering etc.)
+- IT-support for adgangssystem
+- HR opp mot vaktmester/drifttjeneste
+
+KodeWorks **har ikke varebil** – dagens fotnote om «deling med KodeWorks-virksomheter» er faktisk feil.
+
+Valet-tjenesten driftes av eksterne på **resource-on-demand-kontrakt** (kun betaling når det er noe å gjøre). KodeWorks, Kristian Brandsegg og Ole Morten Lagmannssveen har et bredt nettverk av ressurspersoner og organisasjoner som gjør modellen realistisk å implementere – dette dokumenteres for å vise at on-demand-strukturen ikke hviler på antatte aktører som ikke finnes.
+
+**Mål:**
+
+1. Korriger fotnoten i forretningsplan 6.2 så den reflekterer reell modell (tjenestekjøp på markedspris fra KodeWorks + ekstern valet på resource-on-demand + ressursnettverk som ressursgrunnlag) – fjerner det misvisende «subsidiert»-inntrykket
+2. Justér driftskostnadstabellen om nødvendig så postene reflekterer faktisk struktur:
+   - Splitt «Personell 0,400» til «KodeWorks-tjenester (regnskap/admin/IT-support/HR) på tjenesteavtale» + «Ekstern valet-operatør (resource-on-demand)»
+   - Fjern referanse til «delt varebil med KodeWorks» – endre til ad-hoc-leie eller integrert i valet-operatørens tjeneste
+3. Dokumenter ressursnettverket: KodeWorks + Kristian + Ole Morten som ressursgrunnlag for å realisere on-demand-modellen
+4. Oppdater evt. 1.3 (Organisasjon og prosjektkapasitet, fra T121) med kort note om at KodeWorks-tjenester kjøpes på markedspris via tjenesteavtale, ikke gratis
+
+**Avklaring fra bruker 30.06.2026:**
+
+- **Total beholdes på 1,0 MNOK** – kun re-balansering av poster, ingen endring i sum (EBITDA, DSCR og nedstrømstall berøres ikke)
+- **Fordeling av dagens 0,400 MNOK personell-post:**
+  - Ekstern valet-operatør (resource-on-demand): **0,150 MNOK**
+  - Fast bemanning (vaktmester/drift): **0,250 MNOK**
+- **KodeWorks-tjenester** (regnskap, administrasjon, IT-support adgangssystem, HR opp mot vaktmester/drift) ligger innebygd i eksisterende poster på markedspris – ikke ny aggregert post:
+  - Regnskap/admin/HR-bistand → del av «Regnskap, revisjon, juridisk» (0,070 MNOK)
+  - IT-support adgangssystem → del av «Adgangssystem» (0,050 MNOK)
+- **Varebil-posten**: endres fra «delt med KodeWorks-virksomheter» (faktisk feil – KodeWorks har ikke varebil) til «ad-hoc-leie» (0,050 MNOK uendret)
+
+**Foreslått ny 6.2-tabell (samme totalsum 1,0 MNOK):**
+
+| Post | MNOK/år |
+|---|---:|
+| Fast bemanning (vaktmester/drift) | 0,250 |
+| Ekstern valet-operatør (resource-on-demand) | 0,150 |
+| Forsikring (bygning + ansvar) | 0,080 |
+| Strøm og varme (etter T1-pakkens 53 % energireduksjon) | 0,100 |
+| Vedlikehold og renhold | 0,050 |
+| Adgangssystem (drift og IT-support via KodeWorks tjenesteavtale) | 0,050 |
+| Markedsføring (vedlikehold etter lease-up) | 0,050 |
+| Regnskap, administrasjon og HR-bistand via KodeWorks tjenesteavtale | 0,070 |
+| Varebil (ad-hoc-leie) | 0,050 |
+| Kommunale avgifter og forsikring bygg | 0,080 |
+| Annet | 0,070 |
+| **Sum driftskostnader** | **1,000** |
+
+**Foreslått ny fotnote:**
+
+«Driftskostnader reflekterer FG30s faktiske kostnadsbase ved stabilisert drift. Fast bemanning (vaktmester/drift) er ansatt hos FG30; KodeWorks-strukturen bistår med HR-administrasjon via tjenesteavtale på markedsvilkår. Valet-tjenesten driftes av ekstern operatør på resource-on-demand-kontrakt – kostnaden skalerer med faktisk aktivitet, og KodeWorks' brede nettverk (sammen med Kristian Brandsegg og Ole Morten Lagmannssveen) gjør strukturen realistisk å implementere. Regnskap, administrasjon og IT-support for adgangssystem leveres tilsvarende av KodeWorks-strukturen via tjenesteavtale på markedsvilkår. T1-pakkens 53 % energireduksjon senker strømkostnaden vesentlig. Teknologiplattformens utviklingskostnad er kapitalisert (engangsinvestering).»
+
+**Konsekvens for resten av bankpakka:**
+
+- Forretningsplan 6.3 EBITDA-tabell uendret (totalen 1,0 MNOK driftskost) hvis re-balansering er kostnadsnøytral
+- CRE-agentens kritikk i bank_review iterasjon 3 kan annoteres som adressert / misforståelse, slik som T115/T116-mønsteret
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` (6.2 tabell + fotnote, evt. 1.3)
+- `bank/reviews/2026-06-30_bank_review.md` (annotering av CRE-anbefaling om standalone-budsjett)
+
+**Estimat:** 20–30 min med brukeravklaring på post-fordeling.
+
+**Løst 30.06.2026.** Driftskostnadstabell og fotnote i forretningsplan 6.2 oppdatert per brukerens fordeling: «Personell 0,400» splittet til «Fast bemanning (vaktmester/drift) 0,250» + «Ekstern valet-operatør (resource-on-demand) 0,150». Varebil omformulert fra «delt med KodeWorks» til «ad-hoc-leie» (KodeWorks har ikke varebil). Adgangssystem og regnskap-postene har fått eksplisitt «via KodeWorks tjenesteavtale»-merking. Total 1,0 MNOK uendret – EBITDA-tabell 6.3, break-even, DSCR-bane og øvrige nedstrømstall berøres ikke.
+
+Ny fotnote dokumenterer reell driftsmodell: fast bemanning ansatt hos FG30, KodeWorks-tjenester på markedsvilkår via tjenesteavtale, valet-operatør på resource-on-demand, bredt nettverk hos KodeWorks/Kristian/Ole Morten som ressursgrunnlag.
+
+CRE-agentens anbefaling «Separer KodeWorks-subsidiert drift fra standalone Fjordgata 30 AS-drift» annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_review.md` (linje 319) – samme mønster som T115/T116-avvisninger. KodeWorks subsidierer ikke, men leverer tjenester til markedspris.
+
+---
+
+### T123 `[x]` Tydeliggjør at bankpakka er materialgrunnlag for prinsippspørsmål, ikke et ferdig prospekt
+
+**Bakgrunn:** Bruker-feedback 30.06.2026:
+
+> Vi vil ikke «overloade» banken med info: pass på at du ikke drar inn mer detaljer enn det som er nødvendig på nåværende tidspunkt. Vi spør om hvordan de stiller seg til støtte som EK. Alle detaljer i planen er ikke ferdig enda. Vi har ikke IG enda feks, vi har ikke gjort avklaring mot skattemyndighetene. Det er ikke et ferdig prospekt banken får. Jeg er usikker på om dette er tilstrekkelig tydeliggjort i dokumentene som går til bank. Ta en vurdering på det.
+
+Iter 3-agentene behandlet på flere punkter pakka som om den var en endelig kredittsøknad: de etterspør LOI-kampanje, full kostnadskalkyle ned til entreprenørtilbud, formell fisjonsplan med tidsanker, formell energiattest, fisjonsformaliteter, eksisterende panthavers samtykke til refinansiering, BFU-utkast, m.m. Mange av disse er forutsetninger som hører til en endelig kredittsøknad – ikke et prinsippspørsmål om støtte-som-EK.
+
+Risikoen er at pakka i sin nåværende form gir inntrykk av å være et ferdig prospekt, og at banken da svarer på spørsmål vi ikke har stilt (eller avslår fordi ferdig-pakke-kriterier ikke er innfridd) i stedet for å gi den korte prinsippvurderingen vi ber om.
+
+**Scope (brukerens avgrensning 30.06.2026):** Fokus på **bankhenvendelse 00** (`leveranser/2026-06-28_fg30_bankhenvendelse.md`). Vedleggene står som de er – tonen i selve henvendelsen er det som skal sette rammen for hvordan banken leser pakka. Hvis bankhenvendelsen tydelig kommuniserer «prinsippspørsmål, ikke prospekt», vil banken forstå at vedleggene er faktagrunnlag, ikke endelig kredittsøknad.
+
+**Mål:** Gjennomgå bankhenvendelse 00 og vurdere hvor tonen kan virke som «ferdig prospekt». Tydeliggjør i selve henvendelsen at:
+
+- Henvendelsen er **én konkret prinsippforespørsel** om innvilget støtte som EK
+- Materialet er **solid faktagrunnlag**, men ikke et endelig prospekt
+- Flere brikker er **fortsatt under arbeid** og kommer på plass før endelig kredittsøknad:
+  - IG (igangsettingstillatelse) – søknad ikke levert
+  - BFU (bindende forhåndsuttalelse) fra Skatteetaten – ikke sendt
+  - Fisjon fra KodeWorks Eiendom AS til Fjordgata 30 AS – planlagt, ikke gjennomført
+  - HRP-rapport kompletterende presentasjons-versjon – bestilt, ikke levert
+  - Detaljprosjektering og endelig entreprenørkalkyle – ikke ferdig
+  - Aksjonærgarantistruktur og pant-prioritet med eksisterende panthaver – ikke ferdig avklart
+- Banken kan **besvare prinsippspørsmålet uten** at disse er ferdige
+- Endelig kredittsøknad følger senere når flere brikker er på plass
+
+**Steg:**
+
+1. **Gjennomgå bankhenvendelse 00** mht. tone:
+   - Er prinsipp-rammen tydelig nok i åpning og faktaboks?
+   - Bør «Saken i korte trekk»-tabellen ha en eksplisitt status-kolonne («ferdig», «under arbeid», «planlagt») eller en separat status-tabell?
+   - Settes scope (prinsipp, ikke prospekt) tilstrekkelig tidlig i brevet?
+   - Gir formuleringer inntrykk av at vedlegg som «kompletterende HRP-versjon ettersendes», «BFU planlagt Q3 2026», «Fjordgata 30 AS opprettes ved fisjon» osv. er løse tråder som svekker pakka – eller settes de inn i en ramme der banken forstår at de ikke trengs for prinsippsvaret?
+2. **Implementer justeringer i bankhenvendelse 00**:
+   - Tydelig rammesettende avsnitt øverst som etablerer prinsipp- vs prospekt-skillet
+   - Status-tabell eller -avsnitt som lister hva som er ferdig / under arbeid / planlagt
+   - Setninger som «endelige tall avhenger av BFU», «kostnadsbildet finkalibreres ved IG», «fisjon planlagt før låneutbetaling» der det er relevant
+   - Eksplisitt: «Banken kan besvare prinsippspørsmålet uten å vente på disse»
+3. **Annotér iter 3-agentenes anbefalinger** som hører hjemme i endelig kredittsøknad-fase (LOI, formell energiattest, fisjonsplan med tidsanker, eksisterende panthavers samtykke, BFU-utkast, etc.) – marker «utenfor scope for prinsippspørsmål» i `bank/reviews/2026-06-30_bank_review.md`, samme mønster som T115/T116/T117
+
+**Forbehold:**
+
+- Skal **ikke** fjerne korrekt faktagrunnlag fra 00 eller justere vedleggene
+- Skal **ikke** undergrave troverdigheten ved å virke uforberedt – bare gjøre scopet tydelig
+- Skal **ikke** fjerne sentrale tall (LTV, EBITDA, eiendomsverdi) i faktaboksen – men kan ramme dem inn som modellscenarier knyttet til hva som er kjent på nåværende tidspunkt
+- Skal **ikke** justere selve fagvurderingene i vedleggene
+
+**Berørte filer:**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md` (primær)
+- `bank/reviews/2026-06-30_bank_review.md` (annotering av iter 3-anbefalinger som er utenfor scope for prinsippspørsmål-fase)
+
+**Estimat:** 20–30 min.
+
+**Løst 30.06.2026.** Tre endringer i bankhenvendelse 00:
+
+1. **Nytt avsnitt «Om henvendelsens karakter»** etter innledningens andre paragraf: tydeliggjør at pakka er materialgrunnlag for én prinsippforespørsel, ikke endelig kredittsøknad. Lister hva som fortsatt er under arbeid og påpeker at prinsippspørsmålet kan besvares uavhengig
+2. **Ny status-tabell «Status – hva er ferdig, hva er under arbeid»** etter «Saken i korte trekk»: oversiktlig tabell over forretningsplan/finansieringsplan/MVA/konkurrentanalyse (ferdig), HRP-energikartlegging (ferdig + kompletterende ettersendes), innvilget tilskudd (ferdig), rammesøknad (levert, avventer), IG (planlagt Q3 2026), BFU (planlagt Q3 2026), fisjon (planlagt før låneutbetaling), detaljprosjektering (pågår), garanti-/sikkerhetsstruktur (strukturering pågår), refinansiering eksisterende pantelån (håndteres i kredittprosess). Avsluttes med eksplisitt: «Prinsippspørsmålet kan besvares uavhengig av elementene i 'under arbeid'- og 'planlagt'-kategoriene»
+3. **Iter 3-review-annoteringer:** To kategori 1-anbefalinger annotert som UTENFOR SCOPE FOR PRINSIPPSPØRSMÅL (refinansiering 15,5 MNOK samtykke, fisjonsplan med tidsanker). Disse hører til endelig kredittsøknad-fase
+
+Bankhenvendelsen står nå tydelig som prinsippspørsmål-grunnlag, ikke ferdig prospekt. Banken får en klar ramme for å forstå at vedleggene er solid faktagrunnlag, ikke endelig kredittpakke.
+
+---
+
+### T124 `[x]` Inkluder kapitalisert rente i LTV-tall (led med reell eksponering, utdyp uten)
+
+**Bakgrunn:** Iterasjon 3-kredittanalytiker og CRE-spesialist (`bank/reviews/2026-06-30_bank_review.md`) flagget at bankpakkas LTV-tabeller bruker bare ny konstruksjonsfinansiering (29 MNOK i forventet scenario) uten å inkludere kapitalisert rente (2,3 MNOK), som er bankens reelle eksponering etter byggefase. Reell LTV i forventet er ~53 %, ikke 49 %.
+
+Finansieringsplan 4.4 dokumenterer den kapitaliserte renten eksplisitt («Etter byggefase blir samlet bankramme i basisscenario ~31,3 MNOK = 29 MNOK + 2,3 MNOK kapitalisert rente»), men alle øvrige LTV-tabeller bruker bare hovedrammen. Inkonsistens som banken vil regne ut selv og merke seg.
+
+**Brukerens avgjørelse 30.06.2026:** Vis begge tall, men **led med reell eksponering (inkl. kapitalisert rente)** og utdyp med tallet uten under – f.eks. «LTV 53 % (49 % uten kapitalisert rente)».
+
+**Nye scenario-tall:**
+
+| Scenario | Bankramme | + kap. rente | Sum eksp. | Eiendomsverdi | LTV inkl. kap. rente | LTV uten kap. rente |
+|---|---:|---:|---:|---:|---:|---:|
+| Basis (kun innvilget) | 34,75 | +2,3 | 37,05 | 48,5 | **76 %** | 72 % |
+| Forventet (+ høy sann.) | 29,0 | +2,3 | 31,3 | 58,8 | **53 %** | 49 % |
+| Maks (alle spor) | 23,0 | +2,3 | 25,3 | 72,0 | **35 %** | 32 % |
+
+**Mål:** Oppdatere alle LTV-tabeller og -referanser i bankpakka til å lede med reell eksponering inkl. kapitalisert rente, med kort utdyping av tallet uten under.
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` | Faktaboks rad «LTV ved forventet scenario»: 49 → 53 %. Sentrale tall-avsnittet i seksjon 1: oppdater hvis nevnt. Kort utdyping (parentes eller fotnote) som forklarer at 49 % er LTV uten kapitalisert rente |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` sammendrag | 72/49/32 → 76/53/35 % som hovedtall, med utdyping |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` 4.2 | LTV-tabell: ny kolonne eller fotnote som viser begge tall per scenario. «Sum eksponering inkl. kap. rente»-rad vurderes |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` 7.1 | LTV-rad i tilskuddsutfall-tabell oppdateres tilsvarende |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` 7.2 | LTV-rader i BFU-utfall-tabell oppdateres tilsvarende |
+| `forretningsplan/fg30_forretningsplan.md` 6.1 | LTV-rad i finansieringstabell (49 → 53 %, eiendomsverdi henvises) |
+| `forretningsplan/fg30_forretningsplan.md` 8.1 | NPV-fotnote: LTV-mention oppdateres |
+
+**Presentasjonsprinsipp:** Konsekvent – samme formuleringsmønster i alle dokumenter. F.eks.:
+
+> «LTV ved forventet scenario: **53 %** (49 % uten kapitalisert rente; se finansieringsplan 4.4 for beregning)»
+
+eller i tabellform:
+
+| Scenario | Sum bankeksponering | Eiendomsverdi | LTV |
+|---|---:|---:|---:|
+| Basis | 37,05 MNOK | 48,5 MNOK | 76 % |
+| Forventet | 31,3 MNOK | 58,8 MNOK | 53 % |
+| Maks | 25,3 MNOK | 72,0 MNOK | 35 % |
+
+Med kort note under: «Sum bankeksponering inkluderer ny konstruksjonsfinansiering + refinansiering av eksisterende pantelån + kapitalisert byggerente (~2,3 MNOK).»
+
+**Bonus:** Annotér iter 3-funn som «adressert (T124)» i `bank/reviews/2026-06-30_bank_review.md`, samme mønster som T115/T116-avvisningene (men her er det fiks, ikke avvisning).
+
+**Berørte filer:**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md`
+- `leveranser/2026-06-28_fg30_finansieringsplan.md`
+- `forretningsplan/fg30_forretningsplan.md`
+- `bank/reviews/2026-06-30_bank_review.md` (annotering)
+
+**Estimat:** 25–35 min (mange tall, men mekanisk oppdatering).
+
+**Løst 30.06.2026.** Alle LTV-tabeller oppdatert til å lede med reell eksponering inkl. kapitalisert byggerente. Nye tall:
+
+- Basis: 72 % → **76 %** (37,05 MNOK / 48,5 MNOK)
+- Forventet: 49 % → **53 %** (31,30 MNOK / 58,8 MNOK)
+- Maks: 32 % → **35 %** (25,30 MNOK / 72,0 MNOK)
+
+Tallet uten kapitalisert byggerente er utdypet i parentes / fotnote der relevant. Konsekvent presentasjonsmønster: «LTV X % (Y % uten kapitalisert byggerente)».
+
+Oppdaterte filer:
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md`: faktaboks
+- `leveranser/2026-06-28_fg30_finansieringsplan.md`: sammendrag (76/53/35 %), 4.2 LTV-tabell utvidet med kap. byggerente-kolonne og «Sum bankeksponering» (37,05/31,30/25,30), 7.1 tilskuddsutfall-tabell, 7.2 BFU-utfall-tabell (LTV 51–63 %)
+- `forretningsplan/fg30_forretningsplan.md`: 6.1 LTV-rad (53 %, 49 % uten), 8.1 fotnote (utvidet)
+- `bank/reviews/2026-06-30_bank_review.md`: kategori 1-anbefaling nr. 2 annotert som ADRESSERT
+
+---
+
+### T125 `[x]` Rydd tallinkonsistens på tvers av bankvedleggene
+
+**Bakgrunn:** Iterasjon 3-review (`bank/reviews/2026-06-30_bank_review.md`) avdekket flere tilfeller hvor samme parameter har ulik verdi i forskjellige vedlegg. Hovedsakelig glemte nedstrøms-oppdateringer fra T107, T111, T112, T113. Bank vil notere seg motsigelser uavhengig av om pakka er prinsippspørsmål-grunnlag eller prospekt – troverdighet svekkes.
+
+**Konkrete inkonsistenser å rydde:**
+
+| Parameter | Funnet i | Sannsynlig korrekt | Anbefalt handling |
+|---|---|---|---|
+| Tilskudd-maks | 10 / 10–13 / 10,1–12,7 / 12,5 MNOK | Velg én konsekvent | Velg det mest oppdaterte tallet, oppdater øvrige |
+| Uforutsett | forretningsplan 6.1: 15 % (4–4,5 MNOK); finansieringsplan kap. 1: 10 % (3 MNOK) | 15 % (per T107) | Finansieringsplan kap. 1 oppdateres til 15 % |
+| MVA-dekning | 80–100 % vs 90–100 % vs 90–95 % | Sannsynligvis konservativ 80–100 % som ramme | Standardiser, ev. presiser når intervallet er bevisst |
+| Pris launch selvbetjent | forretningsplan/markedsdata: 300 kr; MVA-vedlegg: 220 kr | 300 kr (per T93/T111) | Oppdater MVA-vedlegg til 300 kr (hvis det inngår i MVA-beregning, oppdater også beregning) |
+| Bankramme | 12–17 / 23–34,75 / 28–30 / 29–35 MNOK | Bevisst forskjellige i kontekst (ny konstr.fin. vs samlet vs forventet scenario) | Tydeliggjør med konsistente etiketter («ny konstruksjonsfinansiering», «samlet bankramme inkl. refinansiering»), ikke nødvendigvis ett tall |
+| «Forventet 8 MNOK tilskudd» | Bankhenvendelse + finansieringsplan | Kan re-merkes som «mål-scenario» siden kun 2,25 MNOK er innvilget | Avhenger av T123 (prinsipp vs prospekt) – håndteres der hvis ikke allerede |
+
+**Steg:**
+
+1. Grep og inventér alle forekomster per parameter
+2. Velg det mest oppdaterte/korrekte tallet (dokumenter valget per parameter)
+3. Oppdater øvrige forekomster
+4. Verifiser med grep at det ikke er rester
+5. Annotér iter 3-review at tallinkonsistens er adressert
+
+**Inputbehov fra bruker:** Ingen. Jeg velger korrekt tall basert på hva som er sist oppdatert (typisk T107/T111/T113) og dokumenterer valgene i løsningsnotat. Bruker kan korrigere hvis noe er valgt feil.
+
+**Berørte filer:**
+
+- `leveranser/2026-06-28_fg30_bankhenvendelse.md`
+- `leveranser/2026-06-28_fg30_finansieringsplan.md`
+- `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md`
+- `forretningsplan/fg30_forretningsplan.md`
+- `forretningsplan/fg30_vurderinger_mva.md`
+- `forretningsplan/kilde_markedsdata.md`
+- `bank/reviews/2026-06-30_bank_review.md` (annotering)
+
+**Estimat:** 30–45 min (mekanisk arbeid, men mange filer).
+
+**Løst 30.06.2026.** Tallinkonsistenser ryddet:
+
+- **Tilskudd-maks:** Standardisert til ~12,5 MNOK / detaljspenn 10,1–12,7 (finansieringsplan 2.4 var allerede konsistent). Bankhenvendelse seksjon 4: «ca. 10 MNOK» → «ca. 10,3 MNOK utover innvilget; samlet potensial inkl. innvilget ~12,5 MNOK». Forretningsplan 6.1 finansieringstabell: «10–13» → «~12,5 (detaljert spenn 10,1–12,7 i finansieringsplan 2.4)»
+- **Uforutsett:** Finansieringsplan kap. 1 byggekostnadstabell: «10 % | 3» → «15 % | 4–4,5». Glemt nedstrøms-oppdatering fra T107
+- **MVA-dekning:** Forretningsplan 11 oppsummering: «90–100 %» → «80–100 %». MVA-vedlegget beholder 90–95 % som faglig vurdering for spesifikk Alt D-anslag – dette er bevisst forskjellig fra den brede rammen i bankvedleggene
+- **Pris launch selvbetjent 220 vs 300 kr:** kilde_markedsdata.md to forekomster («FG30s planlagte 220 kr/kvm/mnd selvbetjent») oppdatert til 300 kr (per T93/T111). Konkurranseargument omformulert: var «billigere enn Utleiebod» (sant ved 220), nå «på linje med eller noe under» (sant ved 300)
+- **Bankramme:** Konsistente etiketter på tvers. Bankhenvendelse faktaboks: «Samlet bankramme ~29–35 MNOK» → «Sum bankeksponering (inkl. refinansiering + kap. byggerente) ~25–37 MNOK». Forretningsplan 6.1: «Total bankramme ~28–30» → «Sum bankeksponering (forventet scenario) ~31,3». Konsistent med T124
+
+Iter 3-review kategori 1-anbefaling nr. 3 annotert som ADRESSERT.
+
+---
+
+### T126 `[x]` Klimatilpasning Nidelv-flom – risiko-bullet i forretningsplan kap. 9
+
+**Bakgrunn:** Iterasjon 3 ESG-rådgiver og jurist flagget at klimatilpasning for et bryggebygg ved Nidelvas bredd (flomrisiko, ekstremnedbør, havnivåstigning) ikke er adressert i bankpakka. Full DNSH-vurdering for EU-taksonomien art. 7.2 håndteres i T109 (allerede åpen, hører til endelig kredittsøknad-fase). Men selve klimatilpasningen er en spesifikk risiko som banken kan adressere direkte i risiko-tabellen i forretningsplan kap. 9 – uten å åpne full DNSH-løype.
+
+**Mål:** Legg til klimatilpasning som risiko-bullet i forretningsplan kap. 9 risiko-tabell. Kort, faktabasert, med mitigerende tiltak. Tar bort en spesifikk agent-kritikk uten å åpne hele DNSH-vurderingen.
+
+**Innhold som bør dekkes (faktabasert):**
+
+- Risiko: Flomrisiko Nidelva, ekstremnedbør, havnivåstigning (Trondheimsfjorden)
+- Sannsynlighet/konsekvens (vurder)
+- Mitigerende tiltak:
+  - Henvisning til NVE-flomsonekart for Nidelva (offentlig tilgjengelig)
+  - Trondheim kommunes ROS-analyse for sentrumsområdene
+  - Byggets eksisterende fundament har stått i 1857 (~169 år) – inkluderer historisk håndtering av Nidelv-flom
+  - Eventuelle planlagte tiltak i ramme-/IG-fase (drenering, fundamentsikring, vanntett kjeller, etc.)
+
+**Inputbehov fra bruker:** Ikke kritisk, men ville styrket teksten:
+
+- Konkret flomhistorikk for Fjordgata 30 (er bygget noensinne flomrammet siden 1857?)
+- Planlagte mitigerende tiltak i ramme-/IG-fase som adresserer flom
+- Eventuell befaring eller analyse som allerede er gjort på dette
+
+Hvis bruker ikke har spesifikk info, lages bullet på generelt faglig grunnlag (NVE-data, bryggens historiske resiliens, standard mitigering for sentrale tiltak).
+
+**Berørte filer:**
+
+- `forretningsplan/fg30_forretningsplan.md` kap. 9 risiko-tabell
+- `bank/reviews/2026-06-30_bank_review.md` (annotering)
+
+**Estimat:** 15–20 min (mer hvis bruker har spesifikk info å integrere).
+
+**Avhengighet:** T127 (research-grunnlag for flomhistorikk). Full DNSH-vurdering håndteres separat i T109 når kredittsøknad-fase nås.
+
+**Løst 30.06.2026.** Ny risiko-rad lagt til i forretningsplan kap. 9 risiko-tabell, basert på T127-research:
+
+> Klimatilpasning: flom Nidelva + stormflod Trondheimsfjorden | Lav–middels | Middels | Bygget har stått siden 1857 og overlevd 200-årsflommen i 1944. Trondheimsfjorden har begrenset havnivåstigning frem mot 2100 grunnet landheving. NVE-flomsonekart fra 2001 er under oppdatering (2023+); ny vurdering integreres ved IG. Bygningsmessige tiltak i kjeller/fundament (drenering, vanntett membran, tilpasset krypkjeller-løsning) håndteres i detaljprosjekteringen
+
+Iter 3-review kategori 2-anbefaling nr. 7 (DNSH-vurdering inkl. klimatilpasning) annotert som DELVIS ADRESSERT (klimatilpasning på plass; full DNSH-vurdering venter på T109 endelig kredittsøknad-fase).
+
+---
+
+### T127 `[x]` Research – flomhistorikk Fjordgata 30 / Nidelva og havnivåstigning Trondheimsfjorden
+
+**Bakgrunn:** T126 (klimatilpasning-bullet i forretningsplan kap. 9) ville styrkes vesentlig med konkret faktagrunnlag om hvordan Nidelv-flom og havnivåstigning faktisk har påvirket Fjordgata 30 og sentrumsbryggene. Generelle utsagn om «historisk resiliens» er svakere enn dokumenterte fakta.
+
+**Mål:** Søke på nett etter offentlig tilgjengelig informasjon og samle i et kort referansenotat som T126 kan basere seg på.
+
+**Spesifikt å undersøke:**
+
+1. **Historiske flommer i Trondheim sentrum:**
+   - Storflommer i Nidelva 1857–2026 (vårflom, høstflom)
+   - Hvilke som påvirket bryggebebyggelsen i sentrum
+   - Spesifikke hendelser ved Fjordgata-området / Kjøpmannsgata-bryggene
+   - Skader og tiltak rapportert etter hver hendelse
+
+2. **NVE-data:**
+   - NVE flomsonekart for Nidelva i Trondheim sentrum
+   - 200-årsflom-nivåer for området
+   - Eventuell flomrisikoklassifisering for Fjordgata-bryggene
+
+3. **Trondheim kommunes flomdata:**
+   - ROS-analyse (risiko og sårbarhetsanalyse) for sentrumsområdet
+   - Sentrumsplan / klimatilpasningsstrategi
+   - Eventuell publisert info om bryggens bygningsmessige eksponering
+
+4. **Havnivåstigning Trondheimsfjorden:**
+   - Klimaprofil Trøndelag (DSB/Norsk Klimaservicesenter)
+   - Forventet havnivåstigning frem mot 2050/2100
+   - Tidevannsforhold og stormflod-scenarier
+
+5. **Generelt om bryggebebyggelsen som type:**
+   - Historisk konstruksjonsvise (laftet trekonstruksjon, fundamenttype)
+   - Hvordan brygger i Bergen, Trondheim og andre kystbyer historisk har håndtert flom
+
+**Leveranse:** `bakgrunn/2026-06-30_research_flomrisiko_nidelv_fjordgata30.md` (dato-prefix per CLAUDE.md). Kort notat med:
+
+- Funn per spørsmål over, med kildehenvisninger
+- Konkret vurdering av FG30s eksponering basert på funnene
+- Anbefalte formuleringer til T126 risiko-bullet
+
+**Verktøy:** WebSearch (deferred tool – må loades via ToolSearch ved utføring) + WebFetch ved behov.
+
+**Inputbehov fra bruker:** Ingen. Brukeren kan supplere etter at research er levert hvis han har annen info.
+
+**Berørte filer:**
+
+- `bakgrunn/2026-06-30_research_flomrisiko_nidelv_fjordgata30.md` (ny)
+
+**Estimat:** 30–45 min (websearch + syntese).
+
+**Avhengighet:** Blokkerer T126 (klimatilpasning-bullet). Bør utføres før T126.
+
+**Løst 30.06.2026.** Websearch (NVE, Norsk klimaservicesenter, Trondheim kommune, snl.no, lokalhistoriewiki). Leveranse: `bakgrunn/2026-06-30_research_flomrisiko_nidelv_fjordgata30.md`.
+
+Hovedfunn:
+- **Største flom Nidelva etter 1881:** 14. juni 1944 (ca. 200-årsflom). Bygget har stått siden 1857 og overlevd denne uten å gå tapt
+- **NVE flomsonekart:** Eksisterer fra 2001 (10/20/50/100/200/500-årsflom). Bryggene er innenfor 100-årsflom-sone. **Sjønivåstigning er ikke inkludert.** NVE startet oppdatering 2023+
+- **Klimaprofil Trøndelag:** Trondheimsfjorden har **lav havnivåstigning** frem mot 2100 grunnet landheving (best i Norge sammen med Oslofjorden). Hovedrisiko: hyppigere stormflod + ekstremnedbør
+- **Bryggens historiske resiliens:** Pelefundament tilpasset varierende vannstand; 169 års drift uten kritisk skade
+
+Anbefalt risiko-rad og utvidet tekst inkludert i notatet, klar for T126-implementering.
+
+---
+
+### T128 `[x]` Samle ressurspersoner og organisasjoner i `data/team.json` + peker fra README
+
+**Bakgrunn:** Prosjektets ressurspersoner og samarbeidende organisasjoner er nevnt spredt på tvers av forretningsplan, bankhenvendelse, støtteoversikt, energirapport, referater, arbeidsrapporter, m.fl. Det er nyttig å ha én strukturert oversikt – både for fremtidig referanse, for å unngå inkonsistens i navn/rolletitler, og for å kunne refereres til fra andre dokumenter.
+
+**Mål:** Opprette `data/team.json` som samler alle ressurspersoner og organisasjoner vi vet om fra prosjektets dokumenter, med strukturert metadata. Peker fra README.md.
+
+**Innhold som skal samles (eksempler – ikke uttømmende):**
+
+**Interne / KodeWorks-strukturen:**
+- Eirik Larsen – daglig leder KodeWorks Eiendom AS / prosjekteier FG30
+- Aleksander Skraastad – økonomi, fag og IT KodeWorks
+- Lasse Holanger – leder konsulentavdeling og personal KodeWorks
+- Kristian Brandsegg – fysisk prosjektutførelse FG30
+- Ole Morten Lagmannssveen – fysisk prosjektutførelse FG30 (også kontroll HRP-rapport som «OML»?)
+
+**Eksterne fagpersoner og firma:**
+- Anne Kristine Amble – HRP AS, energirådgiver
+- HRP AS – rådgivende ingeniør (RIB, energi, ombrukskartlegging)
+- SAHAA Arkitekter – arkitekttegninger rammesøknad
+- Orkla Regnskap – ekstern økonomisk drift / regnskapsfører
+- Elisabeth Kahrs – kontaktperson Byantikvaren Trondheim
+
+**Forhåndsinteressenter / kontakter:**
+- Trondheim By Boat (krypkjeller-interesse)
+- Kystverket (kontorinteresse)
+- Et arkitektfirma i Trondheim (kontorinteresse – navn ev. fra bruker)
+- En kunde av KodeWorks (kontorinteresse – navn ev. fra bruker)
+
+**Myndigheter / tilskuddsorgan:**
+- Kulturminnefondet (KMF)
+- Byantikvaren Trondheim
+- Stiftelsen UNI
+- Enova
+- Trondheim brann og redningstjeneste (TBRT)
+- Skatteetaten (BFU-prosess)
+
+**Foreslått struktur for `data/team.json`:**
+
+```json
+{
+  "personer": [
+    {
+      "navn": "Eirik Larsen",
+      "rolle": "Daglig leder",
+      "organisasjon": "KodeWorks Eiendom AS",
+      "ansvar_i_fg30": "Prosjekteier, ekstern dialog",
+      "kontakt": "eirik.larsen@kodeworks.no",
+      "nevnt_i": ["forretningsplan/fg30_forretningsplan.md", "leveranser/2026-06-28_fg30_bankhenvendelse.md"]
+    }
+  ],
+  "organisasjoner": [
+    {
+      "navn": "HRP AS",
+      "type": "Rådgivende ingeniør",
+      "rolle_i_fg30": "RIB, energi, ombrukskartlegging",
+      "kontakt": "Anne Kristine Amble (energi)",
+      "nevnt_i": ["bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md"]
+    }
+  ],
+  "myndigheter_og_tilskuddsorgan": [
+    {
+      "navn": "Kulturminnefondet",
+      "kortform": "KMF",
+      "rolle": "Tilskuddsgiver",
+      "kontaktperson_fg30": null,
+      "nevnt_i": ["leveranser/2026-06-26_fg30_stoetteoversikt_bank.md", "stotte/project_cards.json"]
+    }
+  ]
+}
+```
+
+**Steg:**
+
+1. Grep gjennom prosjektets dokumenter for navngitte personer, firmaer, myndigheter
+2. Strukturere i `data/team.json` med foreslått skjema
+3. Verifisere at samme person har konsistent navn-skrivemåte (f.eks. «Ole Morten Lagmannssveen» vs varianter)
+4. Oppdatere `README.md` med kort seksjon som peker til `data/team.json` og beskriver formatet
+5. Vurdere om dokumenter som inneholder rolle-/navn-info skal henvise til team.json som autoritativ kilde (f.eks. forretningsplan 1.3 fra T121)
+
+**Inputbehov fra bruker:** Mest kan løses med systematisk grep. Ev. avklaring:
+
+- Navn på arkitektfirma og kunde av KodeWorks som har meldt kontorinteresse (per T120-data: «et arkitektfirma i Trondheim» og «en kunde av KodeWorks» – ikke navngitt)
+- Bekreft om «OML» i HRP-rapporten er Ole Morten Lagmannssveen
+- Eventuelle andre ressurspersoner brukeren vet om som ikke står i dokumentene
+
+**Berørte filer:**
+
+- `data/team.json` (ny)
+- `README.md` (ny seksjon med peker)
+- Eventuelt henvisninger fra `forretningsplan/fg30_forretningsplan.md` 1.3 (T121)
+
+**Estimat:** 30–45 min (grep + strukturering + README).
+
+**Løst 30.06.2026.** `data/team.json` opprettet med fire seksjoner: `personer` (9), `organisasjoner` (6), `myndigheter_og_tilskuddsorgan` (10), `forhandsinteressenter` (5). README oppdatert med ny seksjon under «Datafiler» som beskriver formatet og henviser til filen som autoritativ kilde.
+
+Personer inkludert: Eirik Larsen, Aleksander Skraastad, Lasse Holanger, Kristian Brandsegg (KMTE-koordinator), Ole Morten Lagmannssveen (HRP PGL; bekreftet alias «OML» fra HRP-rapporten), Anne Kristine Amble (HRP energi), Adnan Harambasic (SAAHA arkitekt), Liza Marchenko (SAAHA arkitekt), Elisabeth Kahrs (Byantikvaren).
+
+Organisasjoner: KodeWorks Eiendom AS (org.nr. 920 478 506), Fjordgata 30 AS (under etablering), HRP AS, SAAHA AS, KMTE, Orkla Regnskap.
+
+Myndigheter/tilskuddsorgan: KMF, BYA, UNI, Enova, TBRT, Skatteetaten, Riksantikvaren, Trøndelag fylkeskommune, Innovasjon Norge, Trondheim kommune.
+
+Forhåndsinteressenter (per T120): Trondheim By Boat (krypkjeller), Kystverket (kontor), arkitektfirma i Trondheim (navn ikke spesifisert), kunde av KodeWorks (navn ikke spesifisert), 10 kunder av KodeWorks' eksisterende minilager.
+
+**Avklaring brukeravhengig (kompletteres ved behov):** Navn på arkitektfirma og kunde av KodeWorks som har meldt kontorinteresse.
 
 ---

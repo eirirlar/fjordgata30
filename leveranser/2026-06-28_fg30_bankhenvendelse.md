@@ -10,6 +10,8 @@ Takk for den innledende dialogen rundt Fjordgata 30-prosjektet i vår. Dere så 
 
 Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse for Trondheims-markedet, utredet MVA-strategi for byggefasen, analysert juridisk grunnlag for bruk av offentlige tilskudd som egenkapitallignende finansiering, og samlet en finansieringsplan. Vi har også fått energikartleggingsrapport fra HRP som dokumenterer at prosjektet kvalifiserer til grønt lån. Alle dokumentene ligger ved.
 
+**Om henvendelsens karakter:** Dette er **materialgrunnlag for én konkret prinsippforespørsel** – ikke en endelig kredittsøknad. Flere prosjektelementer (IG, BFU, fisjon, kompletterende HRP-presentasjon, detaljprosjektering, garanti- og sikkerhetsstruktur) er fortsatt under arbeid og kommer på plass før en eventuell endelig kredittsøknad. Prinsippspørsmålet vi stiller (se «Konkret anmodning» nederst) kan besvares uavhengig av disse. Materialet vi sender med er solid faktagrunnlag for at banken skal kunne kjenne prosjektet og gi en kort prinsippvurdering.
+
 ### Saken i korte trekk
 
 | Felt | Verdi |
@@ -19,13 +21,30 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Byggekostnad eks. MVA | ~30 MNOK |
 | Eksisterende pantelån (refinansieres) | 15,5 MNOK |
 | Ny konstruksjonsfinansiering | 12–17 MNOK avhengig av tilskuddsutfall |
-| Samlet bankramme | ~29–35 MNOK |
+| Sum bankeksponering (inkl. refinansiering 15,5 MNOK + kapitalisert byggerente ~2,3 MNOK) | ~25–37 MNOK |
 | Sikkerhet | 1. prioritets pant i eiendom |
 | Eiendomsverdi etter rehabilitering (base) | ~59 MNOK (cap rate 6,5 %) |
-| LTV ved forventet scenario | ~49 % |
+| LTV ved forventet scenario | **~53 %** (49 % uten kapitalisert byggerente) |
 | MVA-strategi | Hybridmodell (Alternativ D) – BFU planlagt Q3 2026 |
 | Grønt lån-kvalifikasjon | 53 % energireduksjon, G→D (dokumentert av HRP) |
 | Tidshorisont | Bankfinansiering avklart Q4 2026; byggestart Q4 2026–Q1 2027 |
+
+### Status – hva er ferdig, hva er under arbeid
+
+| Område | Status |
+|---|---|
+| Forretningsplan, finansieringsplan, MVA-strategi, konkurrentanalyse | Ferdig (vedlagt) |
+| Energikartlegging (HRP, 05.05.2026) | Ferdig; kompletterende presentasjons-versjon bestilt og ettersendes |
+| Tilskudd – innvilget (2,25 MNOK) | Ferdig (tilsagnsbrev foreligger – vedlagt på forespørsel) |
+| Rammesøknad | Levert 12. mai 2026 – avventer kommunens behandling |
+| Igangsettingstillatelse (IG) | Søknad planlagt Q3 2026 |
+| BFU til Skatteetaten (MVA-klassifisering) | Planlagt Q3 2026 |
+| Fisjon KodeWorks Eiendom AS → Fjordgata 30 AS | Planlagt før eventuell låneutbetaling |
+| Detaljprosjektering og endelig entreprenørkalkyle | Pågår; finkalibreres ved IG |
+| Aksjonærgaranti- og sikkerhetsstruktur | Strukturering pågår; finkalibreres i bankforhandling |
+| Refinansiering av eksisterende pantelån (15,5 MNOK) | Håndteres med eksisterende panthaver i kredittprosessen |
+
+Prinsippspørsmålet vi stiller kan besvares uavhengig av elementene i «under arbeid»- og «planlagt»-kategoriene.
 
 Vi har én konkret prinsippforespørsel som vi gjerne vil ha besvart før vi går inn i videre dialog – se «Konkret anmodning» nederst. Henvendelsen sendes fra KodeWorks Eiendom AS som nåværende eier av eiendommen og prosjektutvikler. Fjordgata 30 AS opprettes ved planlagt fisjon før eventuell låneutbetaling, og påvirker ikke besvarelsen av prinsippspørsmålet.
 
@@ -71,7 +90,7 @@ Innvilget og bekreftet med tilsagnsbrev: **2,25 MNOK** fordelt på:
 
 Disse 2,25 MNOK utgjør prinsippspørsmålets gjenstand (se «Konkret anmodning»). Tilsagnsbrev og prosjektnumre per ordning ligger i separat vedlegg.
 
-I tillegg arbeider vi med flere søknader til ordninger der prosjektet er kvalifisert; samlet potensial utover de innvilgede 2,25 MNOK er ca. 5,8 MNOK i forventet scenario, opp til ca. 10 MNOK ved tilslag på alle spor. Detaljer ligger i finansieringsplanen og støtteoversikten. Disse er ikke en del av dagens prinsippspørsmål – henvendelsen handler om de innvilgede 2,25 MNOK.
+I tillegg arbeider vi med flere søknader til ordninger der prosjektet er kvalifisert; samlet potensial utover de innvilgede 2,25 MNOK er ca. 5,8 MNOK i forventet scenario, opp til ca. 10,3 MNOK ved tilslag på alle spor (samlet potensial inkl. innvilget: ~12,5 MNOK). Detaljer ligger i finansieringsplanen og støtteoversikten. Disse er ikke en del av dagens prinsippspørsmål – henvendelsen handler om de innvilgede 2,25 MNOK.
 
 ### 5. Prosjektets troverdighet og status
 

@@ -23,9 +23,9 @@ Byggekostnaden er anslått til 30 MNOK eks. MVA i tråd med forretningsplanen. E
 | MVA-refusjon (likviditetspost, ikke EK) | 6,0–7,5 | 20–25 % |
 | Ny konstruksjonsfinansiering | 12–15 | 40–50 % |
 
-Total bankramme ved ferdigstillelse: ny konstruksjonsfinansiering pluss refinansiering av eksisterende lån. I basisscenariet (kun innvilget støtte) gir det en samlet bankeksponering i størrelsesorden 34,75 MNOK mot en anslått eiendomsverdi etter rehabilitering på ~48,5 MNOK (forretningsplan kapittel 8.1, konservativ EBITDA og cap rate 7,0 %) – LTV ~72 %. I forventet scenario (innvilget støtte + høy-sannsynlighets-tilskudd) reduseres bankrammen til ~29 MNOK mot ~59 MNOK eiendomsverdi (base-EBITDA, cap rate 6,5 %), LTV ~49 % – innenfor komfortabel sone for næringseiendom.
+Total bankramme ved ferdigstillelse: ny konstruksjonsfinansiering pluss refinansiering av eksisterende lån, pluss kapitalisert byggerente (~2,3 MNOK). I basisscenariet (kun innvilget støtte) gir det en samlet bankeksponering i størrelsesorden 37,05 MNOK mot en anslått eiendomsverdi etter rehabilitering på ~48,5 MNOK (forretningsplan kapittel 8.1, konservativ EBITDA og cap rate 7,0 %) – LTV ~76 % (72 % uten kapitalisert byggerente). I forventet scenario (innvilget støtte + høy-sannsynlighets-tilskudd) reduseres bankrammen til ~31,3 MNOK mot ~59 MNOK eiendomsverdi (base-EBITDA, cap rate 6,5 %), LTV ~53 % (49 % uten kapitalisert byggerente) – innenfor komfortabel sone for næringseiendom.
 
-Et maksimumsscenario der også middels- og lav-sannsynlighets-tilskudd slår til, kan tilføre ytterligere ~4,5 MNOK og redusere LTV til ~32 % mot optimistisk eiendomsverdi (~72 MNOK). Den konkrete anmodningen til banken er en generell vurdering av i hvilken grad offentlige tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i kredittvurderingen, slik at vi kan prioritere videre søknadsarbeid.
+Et maksimumsscenario der også middels- og lav-sannsynlighets-tilskudd slår til, kan tilføre ytterligere ~4,5 MNOK og redusere LTV til ~35 % mot optimistisk eiendomsverdi (~72 MNOK). Den konkrete anmodningen til banken er en generell vurdering av i hvilken grad offentlige tilskudd kan tas i betraktning som reduksjon i bankens nettoeksponering i kredittvurderingen, slik at vi kan prioritere videre søknadsarbeid.
 
 ---
 
@@ -42,7 +42,7 @@ Byggekostnaden er detaljert i forretningsplanen kapittel 6.1 og oppsummeres her 
 | Innredning (vegger, dører, boder) | 4–6 |
 | Arkitektur og prosjektering | 2–3 |
 | Faglig bistand (juridisk, MVA, bank) | 0,5 |
-| Uforutsett (10 %) | 3 |
+| Uforutsett (15 %) | 4–4,5 |
 | Total investering eks. MVA | 30 |
 
 Endelig budsjett fastlegges ved igangsettingssøknad i Q3 2026. Vesentlig restusikkerhet ligger i fundamenteringsarbeidet i kjeller – RIB-kartlegging av Harboe & Leganger pågår og dekkes innen bufferposten.
@@ -159,13 +159,13 @@ Eksisterende pantelån på eiendommen utgjør 15,5 MNOK. Lånet refinansieres in
 
 Behovet for ny konstruksjonsfinansiering avhenger av tilskuddsutfall og MVA-refusjon. Tabellen viser tre scenarier:
 
-| Scenario | Innvilget | Tilskudd under søknad | MVA-refusjon | Kontant-EK | Ny konstr.fin. | + 15,5 refinansiert | Total bankramme | Eiendomsverdi | LTV |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Basis (kun innvilget) | 2,25 | – | 6,0 | 2,5 | 19,25 | 15,5 | 34,75 | 48,5 | 72 % |
-| Forventet (+ høy sann.) | 2,25 | 5,75 | 6,0 | 2,5 | 13,5 | 15,5 | 29,0 | 58,8 | 49 % |
-| Maks (alle spor) | 2,25 | 10,25 | 7,5 | 2,5 | 7,5 | 15,5 | 23,0 | 72,0 | 32 % |
+| Scenario | Innvilget | Tilskudd under søknad | MVA-refusjon | Kontant-EK | Ny konstr.fin. | + 15,5 refinansiert | + 2,3 kap. byggerente | Sum bankeksponering | Eiendomsverdi | LTV |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Basis (kun innvilget) | 2,25 | – | 6,0 | 2,5 | 19,25 | 15,5 | 2,3 | 37,05 | 48,5 | **76 %** |
+| Forventet (+ høy sann.) | 2,25 | 5,75 | 6,0 | 2,5 | 13,5 | 15,5 | 2,3 | 31,30 | 58,8 | **53 %** |
+| Maks (alle spor) | 2,25 | 10,25 | 7,5 | 2,5 | 7,5 | 15,5 | 2,3 | 25,30 | 72,0 | **35 %** |
 
-Forventet scenario er det realistiske målbildet og gir LTV ~49 %, innenfor komfortabel sone for næringseiendom. Basisscenariet (kun innvilget støtte, ingen tilslag på pågående søknader) gir LTV 72 %. Eiendomsverdiene er beregnet med cap rate 7,0 / 6,5 / 6,0 % for henholdsvis konservativ / base / optimistisk scenario, basert på markedsobservasjoner for sentrumsanlegg.
+LTV-tallene er bankens reelle eksponering etter byggefase, inkludert kapitalisert byggerente. Uten kapitalisert byggerente blir LTV henholdsvis 72 % / 49 % / 32 % – men siden banken faktisk blir eksponert for både hovedrammen og oppløpt rente i byggeperioden, er tallene med kapitalisert rente det styrende. Forventet scenario er det realistiske målbildet og gir LTV ~53 %, innenfor komfortabel sone for næringseiendom. Basisscenariet (kun innvilget støtte, ingen tilslag på pågående søknader) gir LTV 76 %. Eiendomsverdiene er beregnet med cap rate 7,0 / 6,5 / 6,0 % for henholdsvis konservativ / base / optimistisk scenario, basert på markedsobservasjoner for sentrumsanlegg.
 
 Foreløpig strukturforslag, som finkalibreres i bankforhandling:
 
@@ -283,19 +283,19 @@ Toppkapitalbehov inntreffer typisk i Q2–Q3 2027, før MVA-refusjon og rest-til
 
 ### 7.1 Tilskuddsutfall
 
-| Scenario | Tilskudd (MNOK) | Total bankramme (MNOK) | Eiendomsverdi (MNOK) | LTV |
+| Scenario | Tilskudd (MNOK) | Sum bankeksponering inkl. kap. byggerente (MNOK) | Eiendomsverdi (MNOK) | LTV |
 |---|---:|---:|---:|---:|
-| Basis – kun innvilget | 2,25 | 34,75 | 48,5 | 72 % |
-| Forventet – innvilget + høy sannsynlighet | 8,0 | 29,0 | 58,8 | 49 % |
-| Maks – alle tilskuddsspor | 12,5 | 23,0 | 72,0 | 32 % |
+| Basis – kun innvilget | 2,25 | 37,05 | 48,5 | 76 % |
+| Forventet – innvilget + høy sannsynlighet | 8,0 | 31,30 | 58,8 | 53 % |
+| Maks – alle tilskuddsspor | 12,5 | 25,30 | 72,0 | 35 % |
 
 ### 7.2 Utfall av bindende forhåndsuttalelse (BFU) for MVA-refusjon
 
-| BFU-utfall | MVA-refusjon | Total bankramme (forventet tilskudd) | LTV mot 58,8 MNOK |
+| BFU-utfall | MVA-refusjon | Sum bankeksponering inkl. kap. byggerente | LTV mot 58,8 MNOK |
 |---|---:|---:|---:|
-| Positiv – full hybrid godkjent | 6,0–7,5 | 27,5–29,0 | 47–49 % |
-| Delvis – kun kontor og B2B selvbetjent | 2,5–3,5 | 32,5–34,5 | 55–59 % |
-| Negativ – kun passiv utleie | 0 | 35,0 | 60 % |
+| Positiv – full hybrid godkjent | 6,0–7,5 | 29,8–31,3 | 51–53 % |
+| Delvis – kun kontor og B2B selvbetjent | 2,5–3,5 | 34,8–36,8 | 59–63 % |
+| Negativ – kun passiv utleie | 0 | 37,3 | 63 % |
 
 Selv om sannsynligheten vurderes som lav (jf. kapittel 5), vises BFU-utfallet som sentral sensitivitet fordi konsekvensen for MVA-refusjonen er materiell. Risikoen håndteres ved (a) reell aktiv tjenestemodell, (b) BFU innhentet før byggestart, og (c) fallback til passiv minilager-utleie ved negativt utfall – beskrevet i kapittel 5.
 

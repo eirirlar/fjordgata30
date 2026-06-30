@@ -71,7 +71,7 @@
 
 **Samlet prisspenn: 150–333 kr/kvm/mnd.**
 
-- **Merknad:** Priser er publisert på individuelle produktsider (ikke samlet prisliste). Standardenheter 1,9–3,2 m² er direkte sammenlignbare med FG30s Standard-boder (2,1 kvm) – og koster 275–333 kr/kvm/mnd, altså *høyere* enn FG30s planlagte 220 kr/kvm/mnd selvbetjent. Skrå-tak-enhetene er billigere per kvm/mnd men har lavere nyttevolum. Periferi-lokasjon (Ranheim) er en vesentlig ulempe vs. FG30.
+- **Merknad:** Priser er publisert på individuelle produktsider (ikke samlet prisliste). Standardenheter 1,9–3,2 m² er direkte sammenlignbare med FG30s Standard-boder (2,1 kvm) – og koster 275–333 kr/kvm/mnd, altså *på linje med eller noe over* FG30s planlagte 300 kr/kvm/mnd selvbetjent (launch). Skrå-tak-enhetene er billigere per kvm/mnd men har lavere nyttevolum. Periferi-lokasjon (Ranheim) er en vesentlig ulempe vs. FG30.
 
 ### 2.2 Green Storage (tidl. City Self-Storage / OK Minilager)
 *Skandinavias ledende aktør; tilstede i Trondheim med tre avdelinger:*
@@ -154,7 +154,7 @@
 
 - **Takhøyde:** ~3 m (høyere enn standard 2,4 m; gir mer nyttevolum)
 - **Vilkår:** Betaling forskuddvis; oppsigelse innen 15. i siste måned.
-- **Merknad:** Utleiebod er vesentlig dyrere enn tidligere oppgitt i kilde_markedsdata (~120–150 kr/kvm/mnd). Faktisk prisnivå er **286–399 kr/kvm/mnd**. FG30s planlagte 220 kr/kvm/mnd selvbetjent er billigere enn Utleiebod på alle sammenlignbare størrelser. FG30 og Utleiebod er de eneste gangbare alternativene fra sentrum – FG30 kan konkurrere på pris, kapasitet og full-service.
+- **Merknad:** Utleiebod er vesentlig dyrere enn tidligere oppgitt i kilde_markedsdata (~120–150 kr/kvm/mnd). Faktisk prisnivå er **286–399 kr/kvm/mnd**. FG30s planlagte 300 kr/kvm/mnd selvbetjent (launch år 1–2) ligger i nedre sjikt av Utleiebods spenn. FG30 og Utleiebod er de eneste gangbare alternativene fra sentrum – FG30 kan konkurrere på pris, kapasitet og full-service.
 
 ### 2.7 Extra Minilager (Romolslia)
 - **Enheter:** Ca. 40
