@@ -866,6 +866,33 @@ Gjengangere (samme tematikk, redusert intensitet):
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_004.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 8.
 
+**Iterasjon 8 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). T132-kontekstinstrukser fortsatt aktive i alle prompts. 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_005.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **7,5/10** (ned 0,2 fra 7,7 i iter 7). Per-dokument-snitt 7,9 (ned 0,1 fra 8,0). **Stabiliserer seg.**
+
+T133-effekt:
+- **MVA-strategi (dok 03) +0,4 (7,9 → 8,3)** – SKNS1-modering + Vinden-presisering landet
+- **Energirapport (dok 08) +0,5 (7,6 → 8,1)** – omkringliggende dokumenter styrkes
+- **Risk Officer +0,5, Kredittsjef +0,5** – armlengdes-prinsipp og asl. § 14-7 mottatt positivt
+
+Nedganger og nytt funn (kategori 1):
+- **MVA-basis-inkonsistens 02 (80 %) vs 03 (90–95 % hybrid D)** – kaskaderende konsekvens av T133. 4 av 7 agenter flagger eksplisitt: «sender blandet signal»
+- **Likviditetsbufferens juridiske form etter fisjon** – 4 agenter (Kredittsjef, Kredittanalytiker, CRE, Kunderådgiver). «Satt av fra KEAS» tvetydig når KEAS er fisjonert
+- **Mval. § 9-2 justeringsforpliktelsens overgang ved fisjon** – Jurist
+- **Samlet rettskildetetthet** – Kunderådgiver + Risk Officer: hver referanse OK, men samlet for tett
+- **Tittel på dok 06** bryter med konklusjon (Kredittsjef)
+
+Status på iter 7-anbefalinger (T133-effekt):
+- ✅ LØST: Begrepsstramming (#1), asl. § 14-7 (#2), SKNS/Vinden (#5), armlengdes (#7)
+- ⚠ DELVIS: MVA-basis (#4) – løst i 02, men 03 ikke vurdert → ny inkonsistens
+- ⚠ UTSATT TIL T109: Reduksjonsbasis-rydding (#3)
+
+Konklusjon: Pakka stabiliserer seg på 7,5/10 ± 0,2. Nye iter 8-funn er primært en kaskaderende inkonsistens fra T133 (lett å rette) + juridiske nyanser (mval. § 9-2 + bufferens form). Kvikke gevinster identifisert for evt. T134; større elementer henger på T109.
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_005.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 9.
+
 ---
 
 ### T105 `[x]` Konsistens- og tekst-rydding i bankpakka (kvikke gevinster fra bank_review)
@@ -2390,6 +2417,66 @@ Iter 5-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_revie
    - (d) Scenariofortellingen leder med forventet (~59 %), basis (~84 %) vises side-om-side i 00 – ikke flagg som «underkommunisering»
 
 Iter 6-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_003.md` (kategori 1): funn 2, 3, 4 og 8 ADRESSERT i pakka; funn 5 og 6 ADRESSERT i T104-prompt; funn 1 (KMF-bekreftelse vedlegges nå) IKKE ADRESSERT siden bekreftelsen ennå ikke foreligger – tas inn når mottatt.
+
+Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
+
+---
+
+### T133 `[x]` Iter 7-respons: fem kvikke gevinster (begrepsstramming, fisjonsfrist, MVA-tall, presedens-modering, armlengdes)
+
+**Bakgrunn:** Iter 7-review (`bank/reviews/2026-06-30_bank_review_004.md`) brakte pakka til 7,7/10 overall – største enkeltforbedring i hele iterasjonsserien. Tre dokumenter (00, 05, 07) ligger på 8,4–8,7. De gjenstående svakhetene faller i tre grupper: (a) fem kvikke gevinster som kan implementeres her, (b) større strukturelle elementer som tilhører T109/kredittsøknad-fase, (c) avhengighet av eksternt input (KMF-bekreftelse).
+
+T133 dekker gruppe (a). Etter T133 er pakka rimelig å betrakte som prinsippfase-klar.
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Iter 7-funn | Sted | Beslutning |
+|---|---|---|
+| Begrepsbruk «egenkapital» vs «egenkapitallignende» i spørsmålsformulering 00 (Jurist) | 00 + 06 | Justér spørsmålet til «egenkapitallignende finansiering (reduksjon i nettoeksponering)». Symmetrisk justering i 06 konklusjon |
+| Asl. § 14-7 6-ukers kreditorvarsel som rettsvirkningstidspunkt (Jurist) | 00 + 01 | Tilføy én linje i 01 1.1 og milepælstabellen i 00 om at fisjonen rettslig kan tre i kraft tidligst 6 uker etter kunngjøring |
+| Mva-tall 6,0 vs 7,5 MNOK ikke låst som basis (Kredittsjef) | 02 + 03 + 05 | Lås 6,0 MNOK som arbeidsforutsetning gjennom pakka; 7,5 MNOK vises kun som oppside i sensitivitet |
+| Skattedirektoratets 2014-uttalelse + SKNS1-2020-134 brukes for sterkt (Jurist, Kredittanalytiker) | 03 | «Dessuten analogt» → «sammenlignbart prinsipielt»; Vinden «sannsynligvis MVA-godkjent» → «opererer som avgiftspliktig lagringstjeneste i Norge» |
+| Nærstående-transaksjoner og armlengdes-prinsipp (Risk Officer) | 01 kap. 6.2 | Kort erklæring (én setning) om at tjenester fra KodeWorks-strukturen prises på armlengdes prinsipp (sktl. §§ 13-1, 13-2); transaksjoner dokumenteres og revisorbekreftes |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` (00) | (a) Spørsmålsformulering: «som egenkapital» → «som egenkapitallignende finansiering (reduksjon i nettoeksponering)». (b) Milepælstabell eller fisjonsbeskrivelse: linje om asl. § 14-7 6-ukers kreditorvarsel som rettsvirkningstidspunkt |
+| `forretningsplan/fg30_forretningsplan.md` 1.1 | Tilføyelse om asl. § 14-7 6-ukers kreditorvarsel etter eksisterende fisjonsbeskrivelse |
+| `forretningsplan/fg30_forretningsplan.md` 6.2 | Kort armlengdes-prinsipp-erklæring som fotnote eller separat setning i driftskostnadsavsnittet |
+| `forretningsplan/fg30_vurderinger_mva.md` (03) | (a) «Dessuten analogt» → «sammenlignbart prinsipielt» for SKNS1-2020-134; (b) Vinden-formuleringen dempes |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) | Lås 6,0 MNOK MVA-refusjon som basis i tekst og tabeller; 7,5 MNOK kun som oppside i sensitivitet 7.2 |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` (05) | Harmoniser MVA-omtaler til 6,0 MNOK basis (hvis aktuelle steder finnes) |
+| `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (06) | Konklusjonsavsnitt 6 pkt. 3: «som del av prosjektets egenkapitalbase» → «som reduksjon i bankens nettoeksponering» |
+| `bank/reviews/2026-06-30_bank_review_004.md` | Annotér iter 7-funn 1–6 som ADRESSERT i T133 |
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 20–30 min.
+
+**Løst 30.06.2026.** Alle fem svar-spor implementert:
+
+1. **Begrepsstramming i 00 + 06:** Spørsmålet i bankhenvendelsen omformulert: «som egenkapital i kredittvurderingen» → «som egenkapitallignende finansiering (reduksjon i nettoeksponering) i kredittvurderingen». Symmetrisk justering i tilskudd-som-EK 06 konklusjonsavsnitt kap. 6 pkt. 3: «som del av prosjektets egenkapitalbase» → «som reduksjon i bankens nettoeksponering mot prosjektet, innenfor rammen av bankens egen kredittpolicy».
+
+2. **Asl. § 14-7 6-ukers kreditorvarsel:**
+   - Forretningsplan 1.1: Fisjonsbeskrivelsen utvidet til «kreditorvarsel 6 uker etter asl. § 14-7, melding til Foretaksregisteret»; ny setning: «Fisjonens rettsvirkningstidspunkt inntrer tidligst 6 uker etter kreditorvarselets kunngjøring, og dette tidsforholdet legges inn i fremdriftsplanen for låneutbetaling.»
+   - Bankhenvendelse 00 status-tabell: Fisjons-raden utvidet med «rettsvirkning inntrer tidligst 6 uker etter kreditorvarselets kunngjøring (asl. § 14-7)».
+
+3. **MVA-tall låst til 6,0 MNOK basis i finansieringsplan 02:**
+   - Oversiktstabell kap. 1.1: «6,0–7,5» → «6,0 (basis); 7,5 (oppside)»
+   - Kap. 5 introtekst: Tilføyd: «Basis-forutsetning som brukes konsekvent i pakka er 6,0 MNOK (80 %-dekning); 7,5 MNOK (100 %-dekning) vises som oppside i sensitivitetsanalysen 7.2.»
+   - Kap. 5 tidslinjetabell: «6,0–7,5 MNOK» → «6,0 MNOK (basis); 7,5 MNOK ved full hybriddekning»
+   - 03 og 05 trengte ingen endring (05 nevner ikke MVA-spennverdier; 03s alternativ-omtaler beskriver alternativene C/D, ikke ett enkelt basis-tall)
+
+4. **Modere SKNS1-2020-134 + Vinden i MVA-strategi 03:**
+   - Alt. C «Juridisk grunnlag»: «Dessuten analogt med datasenter-saken (Skatteklagenemnda 2020)» → «Sammenlignbart prinsipielt med datasenter-saken (Skatteklagenemnda SKNS1-2020-134)» + ny avsluttende setning: «Avgjørelsen er ikke direkte presedens for FG30; den konkrete klassifiseringen avklares gjennom BFU.»
+   - Alt. C «Om juridisk risiko»: «sterkt indikerer at norske skattemyndigheter aksepterer aktiv lagringstjeneste som avgiftspliktig» → «opererer som avgiftspliktig lagringstjeneste» + presisering: «Vinden er en markedsobservasjon, ikke en rettskilde; den konkrete MVA-klassifiseringen for FG30 må avklares gjennom BFU.»
+   - Kap. 4 anbefaling: «Vinden beviser at Alternativ C ... er etablert og sannsynligvis MVA-godkjent» → «Vinden viser at Alternativ C ... opererer som avgiftspliktig lagringstjeneste i det norske markedet» + «så lenge BFU bekrefter klassifiseringen» i etterfølgende setning.
+
+5. **Armlengdes-prinsipp-erklæring i forretningsplan 6.2:** Driftskostnadsavsnittets fotnote utvidet med ny setning: «Tjenestekjøp fra KodeWorks-strukturen prises på armlengdes prinsipp (sktl. §§ 13-1 og 13-2); transaksjoner dokumenteres og revisorbekreftes.»
+
+Iter 7-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_004.md` (kategori 1): funn 1, 2, 4, 5 ADRESSERT i pakka; funn 7 (armlengdes) ADRESSERT i pakka; funn 3 (reduksjonsbasis-rydding) UTSATT TIL T109 siden HRPs kompletterende presentasjon adresserer det i samletabell.
 
 Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
 

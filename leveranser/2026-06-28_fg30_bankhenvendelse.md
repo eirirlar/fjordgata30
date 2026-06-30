@@ -41,7 +41,7 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Rammesøknad | Levert 12. mai 2026 – avventer kommunens behandling |
 | Igangsettingstillatelse (IG) | Søknad planlagt Q3 2026 |
 | BFU til Skatteetaten (MVA-klassifisering) | Planlagt Q3 2026 |
-| Fisjon KodeWorks Eiendom AS → Fjordgata 30 AS | Planlagt før eventuell låneutbetaling |
+| Fisjon KodeWorks Eiendom AS → Fjordgata 30 AS | Planlagt før eventuell låneutbetaling; rettsvirkning inntrer tidligst 6 uker etter kreditorvarselets kunngjøring (asl. § 14-7) |
 | Detaljprosjektering og endelig entreprenørkalkyle | Pågår; finkalibreres ved IG |
 | Aksjonærgaranti- og sikkerhetsstruktur | Strukturering pågår; finkalibreres i bankforhandling |
 | Refinansiering av eksisterende pantelån (15,5 MNOK, DNB) | Dialog innledet med DNB; refinansiering håndteres i kredittprosessen |
@@ -107,7 +107,7 @@ Anbefalingsbrevet fra Byantikvaren kan fremlegges på forespørsel.
 
 Vi har én konkret prinsippforespørsel:
 
-**Aksepterer banken innvilget offentlig støtte (2,25 MNOK – tilsagnsbrev foreligger) som egenkapital i kredittvurderingen av prosjektet?**
+**Aksepterer banken innvilget offentlig støtte (2,25 MNOK – tilsagnsbrev foreligger) som egenkapitallignende finansiering (reduksjon i nettoeksponering) i kredittvurderingen av prosjektet?**
 
 Det er det vi spør om – ikke mer, ikke mindre. Bakgrunnen er at vi ønsker å forstå hvordan banken behandler de støttebeløpene som allerede er bindende tilsagn før vi går inn i mer detaljert dialog. Svaret er ikke avhengig av at fisjonen fra KodeWorks Eiendom AS til Fjordgata 30 AS er gjennomført – fisjonen vil være på plass før eventuell låneutbetaling, men påvirker ikke bankens prinsipielle vurdering av tilskudd-som-EK.
 

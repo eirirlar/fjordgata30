@@ -107,7 +107,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 
 **MVA-fradrag i byggefasen:** Full fradragsrett (100 %) for all input-MVA.
 
-**Juridisk grunnlag:** Basert på Skattedirektoratets 2014-uttalelse (motsatt: en aktiv modell der operatør håndterer varer = avgiftspliktig). Dessuten analogt med datasenter-saken (Skatteklagenemnda 2020): kombinert tjenesteleveranse med løpende aktiv komponent = avgiftspliktig.
+**Juridisk grunnlag:** Basert på Skattedirektoratets 2014-uttalelse (motsatt: en aktiv modell der operatør håndterer varer = avgiftspliktig). Sammenlignbart prinsipielt med datasenter-saken (Skatteklagenemnda SKNS1-2020-134): kombinert tjenesteleveranse med løpende aktiv komponent ble der klassifisert som avgiftspliktig. Avgjørelsen er ikke direkte presedens for FG30; den konkrete klassifiseringen avklares gjennom BFU.
 
 **Fordeler:**
 - Full MVA-dekning → 7,5 MNOK i fradrag
@@ -120,7 +120,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 - Høyere driftskostnader
 - Krever juridisk avklaring (BFU anbefales)
 
-**Om juridisk risiko:** Vinden opererer denne modellen i Norge i dag (8 000+ kunder, 75 000+ hentinger/leveringer) – noe som sterkt indikerer at norske skattemyndigheter aksepterer aktiv lagringstjeneste som avgiftspliktig.
+**Om juridisk risiko:** Vinden opererer denne modellen i Norge i dag (8 000+ kunder, 75 000+ hentinger/leveringer) som avgiftspliktig lagringstjeneste. Vinden er en markedsobservasjon, ikke en rettskilde; den konkrete MVA-klassifiseringen for FG30 må avklares gjennom BFU.
 
 **Anbefaling:** Sterkeste scenario for MVA-fradrag. Forutsetter BFU og reell operasjonell implementering fra dag én – men modellen er bevist gjennomførbar i det norske markedet.
 
@@ -213,7 +213,7 @@ Dersom virksomheten *ikke* er passiv utleie, men aktiv tjenesteyting, faller den
 
 ### Fase 1 (Åpning, år 1–2): Alternativ C eller D
 
-**Oppdatert vurdering:** Vinden beviser at Alternativ C (aktiv lagringstjeneste) er etablert og sannsynligvis MVA-godkjent i det norske markedet. Valget mellom C og D som startpunkt er derfor primært **operasjonelt**, ikke juridisk:
+**Oppdatert vurdering:** Vinden viser at Alternativ C (aktiv lagringstjeneste) opererer som avgiftspliktig lagringstjeneste i det norske markedet. Valget mellom C og D som startpunkt er derfor primært **operasjonelt** så lenge BFU bekrefter klassifiseringen:
 
 - **Start med C direkte** dersom logistikkkapasitet (bil, sjåfør, rutine) er på plass fra åpning. Bruk Vinden som markedsreferanse i BFU-søknaden. Gir 100 % MVA-dekning fra dag én.
 - **Start med D** dersom operasjonell kapasitet ikke tillater full valet-drift fra start. D gir 90–95 % MVA-dekning og lavere driftsrisiko i oppstartsfasen.

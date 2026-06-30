@@ -178,7 +178,7 @@ Offentlige investeringstilskudd til næringseiendom er **ikke egenkapital** i re
 
 1. **EBA/GL/2020/06 (avsnitt 5.2.7, 6.1):** Banken skal kartlegge alle finansieringskilder, inkludert bekreftede tilskudd. Hvordan den enkelte finansieringskilde vektes i kredittvurderingen, styres av bankens interne kredittpolicy.
 2. **Skatteloven § 14-42 (3):** Tilskuddet binder seg til byggets skattemessige verdi gjennom redusert avskrivningsgrunnlag, og skaper ikke umiddelbar skattebyrde – det styrker byggverdien.
-3. **Finansforetaksloven § 13-5 og bankpraksis:** Forsvarlig utlånspraksis for næringseiendom anerkjenner bekreftet offentlig tilskudd som del av prosjektets egenkapitalbase.
+3. **Finansforetaksloven § 13-5 og bankpraksis:** Forsvarlig utlånspraksis for næringseiendom kan ta hensyn til bekreftet offentlig tilskudd som reduksjon i bankens nettoeksponering mot prosjektet, innenfor rammen av bankens egen kredittpolicy.
 4. **Tilskuddsgivers prosjektvurdering:** Innvilget tilskudd fra fagmyndigheter bekrefter at prosjektet har bestått en ekstern vurdering av gjennomførbarhet og finansieringsstruktur.
 
 ---

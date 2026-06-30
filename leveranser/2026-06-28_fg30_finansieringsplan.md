@@ -22,7 +22,7 @@ Byggekostnaden er anslått til 30 MNOK eks. MVA i tråd med forretningsplanen. E
 | Innvilgede offentlige tilskudd | 2,25 | 7,5 % |
 | Tilskudd under søknad – høy sannsynlighet | 5,4–5,9 | 18–20 % |
 | Kontant-egenkapital fra eier | 2–3 | 7–10 % |
-| MVA-refusjon (likviditetspost, ikke EK) | 6,0–7,5 | 20–25 % |
+| MVA-refusjon (likviditetspost, ikke EK) | 6,0 (basis); 7,5 (oppside) | 20–25 % |
 | Ny konstruksjonsfinansiering | 12–15 | 40–50 % |
 
 Total bankramme ved ferdigstillelse: ny konstruksjonsfinansiering pluss refinansiering av eksisterende lån, pluss kapitalisert byggerente (~2,3 MNOK). I basisscenariet (kun innvilget støtte) gir det en samlet bankeksponering i størrelsesorden 37,05 MNOK mot en anslått eiendomsverdi etter rehabilitering på ~44,1 MNOK (forretningsplan kapittel 8.1, konservativ EBITDA og cap rate 7,0 %) – LTV ~84 % (78 % uten kapitalisert byggerente). I forventet scenario (innvilget støtte + høy-sannsynlighets-tilskudd) reduseres bankrammen til ~31,3 MNOK mot ~53 MNOK eiendomsverdi (base-EBITDA, cap rate 6,5 %), LTV ~59 % (55 % uten kapitalisert byggerente) – innenfor komfortabel sone for næringseiendom.
@@ -251,7 +251,7 @@ MVA-refusjonen er ikke egenkapital, men en likviditetspost som vesentlig reduser
 
 Passiv selvbetjent minilagerutleie er MVA-unntatt etter mval. § 3-11 første ledd, og gir ingen fradragsrett. Forretningsplanens valgte modell (Alternativ D, hybridmodell) kombinerer frivillig MVA-registrering for kontor og selvbetjent B2B (mval. § 2-3) med full-service lagring som avgiftspliktig tjeneste (mval. § 3-1). Dette gir forventet MVA-dekning på 80–100 % av inngående MVA i byggefasen.
 
-Ved en byggekostnad på 30 MNOK eks. MVA utgjør brutto MVA 7,5 MNOK. Med 80–100 % dekning blir tilbakegående avgiftsoppgjør i størrelsesorden 6,0–7,5 MNOK.
+Ved en byggekostnad på 30 MNOK eks. MVA utgjør brutto MVA 7,5 MNOK. Med 80–100 % dekning blir tilbakegående avgiftsoppgjør i størrelsesorden 6,0–7,5 MNOK. **Basis-forutsetning som brukes konsekvent i pakka er 6,0 MNOK** (80 %-dekning); 7,5 MNOK (100 %-dekning) vises som oppside i sensitivitetsanalysen 7.2.
 
 For å sikre forutsigbarhet rundt klassifiseringen av full-service-tjenesten innhentes en bindende forhåndsuttalelse (BFU) fra Skatteetaten før byggestart. En BFU er en formell uttalelse hvor Skatteetaten på forhånd tar stilling til den skattemessige behandlingen av en konkret transaksjon eller virksomhet, og er rettslig bindende for etaten. Dette gir både prosjektet og banken sikkerhet for at MVA-strategien holder gjennom byggefasen.
 
@@ -259,7 +259,7 @@ For å sikre forutsigbarhet rundt klassifiseringen av full-service-tjenesten inn
 |---|---|---|
 | BFU til Skatteetaten | Q3 2026 | – |
 | Frivillig MVA-registrering | Q3 2026 (før byggestart) | – |
-| Tilbakegående avgiftsoppgjør | Q3 2026 – Q2 2027 | 6,0–7,5 MNOK |
+| Tilbakegående avgiftsoppgjør | Q3 2026 – Q2 2027 | 6,0 MNOK (basis); 7,5 MNOK ved full hybriddekning |
 
 Restrisikoen er at Skatteetaten omklassifiserer full-service til passiv utleie. Sannsynligheten vurderes som lav: modellen er reell (aktiv hente- og leveringstjeneste, digital plattform, kundeservice), den treffer Skattedirektoratets prinsipputtalelse fra 2014 og praksisen rundt avgiftsplikt for aktive lagringstjenester, og BFU innhentes før byggestart. Ved et eventuelt negativt utfall faller prosjektet tilbake på passiv minilager-utleie – uten MVA-refusjon, men med tilsvarende lavere driftskostnader – som er det dominerende driftskonseptet i norsk minilagerbransje. Prosjektet er derfor ikke avhengig av full-service-klassifiseringen for å være levedyktig.
 
