@@ -820,6 +820,52 @@ Gjengangere (status uendret):
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_003.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 7.
 
+**Iterasjon 7 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). Første iterasjon med T132s «Kontekst agentene ikke nødvendigvis vet»-tilføyelse i alle prompts (DNB-dialog, tilskuddsoverføring, EBA-modering, scenariofortelling). 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_004.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **7,7/10** (opp 0,8 fra 6,9 i iter 6) – **største enkeltforbedring i hele iterasjonsserien**. Per-dokument-snitt 8,0 (opp 0,6 fra 7,4).
+
+T132-effekt:
+- **CRE +2,0 (6 → 8)** – største enkeltrolle-forbedring. «Overraskende moden for en prinsippforespørsel»
+- **Jurist +1,0 (7 → 8)** – § 14-42 (3) skille direkte/analogisk og DNB-dialog landet hardt; dok 06 går fra 6 til 9
+- **Kunderådgiver +1,0 (7 → 8)** – basis/forventet side-om-side: «forbilledlig transparent»
+- **ESG +1,0 (6 → 7)** og **Kredittanalytiker +1,0 (7 → 8)** – tonejustering treffer rollene
+- **Risk Officer +0,5 (7 → 7,5)** – ytterligere modning
+- **Kredittsjef −0,5 (8 → 7,5)** – Risk-/EBITDA-bekymringer fremstår nå tydeligere når andre svakheter er ryddet
+
+Per-dokument-løft:
+- **01 Forretningsplan +1,2 (6,4 → 7,6)** – største dokumentforbedring
+- **06 Tilskudd som EK +1,0 (6,9 → 7,9)** – rehabilitering etter iter 6-fallet
+- **02 Finansieringsplan +0,9 (7,0 → 7,9)**
+- **00 Bankhenvendelse +0,8 (7,9 → 8,7)** – nær perfekt for prinsippforespørsel
+
+T104-promptforbedringene har målbar effekt: DNB-«interessekonflikt» og tilskuddsoverføring-«skjult risiko» nevnes ikke av en eneste agent (mot fire+ i iter 6). EBA-«overpresishet» reduseres til én mild Risk Officer-kommentar.
+
+Status på iter 6-anbefalinger (T132-effekt):
+- ✅ LØST: DNB-pantefrigjøring (#2), tilskuddsoverføring (#3), § 14-42 (3) analogi (#4), EBA modering (#5), DNB-interessekonflikt (#6), basis/forventet side-om-side (#8)
+- ⚠ ÅPEN: KMF-bruksendringsbekreftelse (#1) – skriftlig bekreftelse foreligger ikke
+
+Nye iter 7-funn (kategori 1):
+1. **Begrepsbruk «egenkapital» vs «egenkapitallignende»** i spørsmålsformulering 00 – Jurist
+2. **Asl. § 14-7 6-ukers kreditorvarsel** rettsvirkningstidspunkt for fisjon – Jurist
+3. **EK-strukturen rundt fisjonen** – kontant 2-3 + historisk 1,5 + buffer 0,5 = tre overlappende poster – Kunderådgiver
+4. **Nærstående-transaksjoner og armlengdes-prinsipp** (sktl. §§ 13-1, 13-2) – Risk Officer
+5. **Mval. § 8-6 6-måneders ferdigstillelse-frist** ikke koplet – Jurist
+6. **Skattedirektoratets 2014-uttalelse + SKNS1-2020-134 brukes for sterkt** – Kredittanalytiker, Jurist
+7. **Reduksjonsbasis 53/34/71 % rydding** – Kunderådgiver
+8. **Mva-tall 6,0 vs 7,5 MNOK ikke låst som basis** – Kredittsjef
+9. **Cap rate 6,5 % forankres mot CBRE/JLL Norden** – CRE, Kredittanalytiker, Kredittsjef
+10. **Belegg-sensitivitet isolert** (utenom kombinert) – CRE, Kredittanalytiker
+
+Gjengangere (samme tematikk, redusert intensitet):
+- EBITDA-margin 72 % aggressiv – fortsatt utfordringspunkt, ikke «showstopper»
+- DNSH-vurdering manglende – T109 venter HRP
+- Tilsagnsbrev vedlegges nå – Kredittsjef: «det enkelttiltaket som vil gi komitéen mest komfort»
+- Likviditetsbuffer 0,5 MNOK ved forsinkelse for tynn
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_004.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 8.
+
 ---
 
 ### T105 `[x]` Konsistens- og tekst-rydding i bankpakka (kvikke gevinster fra bank_review)
