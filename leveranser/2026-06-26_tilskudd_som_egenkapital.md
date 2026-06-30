@@ -92,7 +92,13 @@ Praktisk virkning:
 
 For **forretningsbygg** (saldogruppe i, 2 % avskrivning per år) er den årlige skatteeffekten av redusert saldo svært liten – i størrelsesorden 0,4–0,5 % av tilskuddsbeløpet per år. Tilskuddet er dermed tilnærmet skattenøytralt over en lang planleggingshorisont.
 
-**Anvendelse for FG30s tilskuddspott:** Alle FG30s innvilgede tilskudd – Kulturminnefondet (sikringstiltak), Byantikvaren (verneverdig bebyggelse), Stiftelsen UNI (brannsikring) og Enovas energi- og ombrukskartleggingstilskudd – refunderer kostnader som er en del av byggeprosjektets kostnadsbase og som aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Enova-kartleggingsprosjektene løper i sin helhet i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027), og kostnadene til energi- og ombrukskartleggingsrapporter inngår i byggets prosjekteringskostnad. Skatteloven § 14-42 (3) gjelder dermed konsistent for hele tilskuddspotten på 2,25 MNOK.
+**Anvendelse for FG30s tilskuddspott:** Alle FG30s innvilgede tilskudd – Kulturminnefondet (sikringstiltak), Byantikvaren (verneverdig bebyggelse), Stiftelsen UNI (brannsikring) og Enovas energi- og ombrukskartleggingstilskudd – refunderer kostnader som er en del av byggeprosjektets kostnadsbase og som aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4.
+
+For KMF, BYA og UNI gjelder skatteloven § 14-42 (3) direkte: tilskuddene er gitt til tiltak som er en del av selve ervervet av driftsmidlet (rehabilitering av bærekonstruksjon, antikvariske bæretiltak, brannsikring).
+
+For Enovas energi- og ombrukskartleggingstilskudd anvendes § 14-42 (3) analogisk. Den underliggende kostnaden er en konsulenttjeneste (HRPs energikartleggingsrapport og ombrukskartleggingsrapport), ikke et driftsmiddel i lovens ordlyd. Begge kartleggingsprosjektene løper imidlertid i sin helhet i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027) og aktiveres på driftsmidlet som prosjekteringskostnad. Tilskuddet reduserer dermed aktivert kostpris med samme virkning som om § 14-42 (3) gjaldt direkte. Endelig klassifisering forelegges regnskapsfører ved sluttoppgjør.
+
+Skatteloven § 14-42 (3) gir dermed konsistent virkning for hele tilskuddspotten på 2,25 MNOK, direkte for de tre rehab-tilskuddene og analogisk for de to Enova-kartleggingstilskuddene.
 
 ### 3.2 Skatteloven § 5-30 – tilskudd og næringsinntekt
 

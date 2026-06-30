@@ -51,6 +51,8 @@ Konsekvensene for prosjektets likviditet er:
 | Enova-kartlegginger sluttrapport godkjent | Q3/Q4 2026 | 400 000 + 500 000 NOK |
 | Byggeprosjekt ferdigstilt | ~Q2/Q3 2027 | Sluttutbetaling |
 
+**Tilskuddsoverføring ved fisjon:** Tilskuddsgivere er informert om planlagt fisjon fra KodeWorks Eiendom AS til Fjordgata 30 AS. Overføring av tilsagn til nytt eiendomsselskap planlegges sammen med fisjonsgjennomføringen og legges fram for tilskuddsgiverne for samtykke. Ved manglende samtykke ferdigstilles prosjektleveransene i KodeWorks Eiendom AS, med konsernintern verdioverføring av tilskuddseffekten til Fjordgata 30 AS.
+
 ---
 
 ## 3. Tilskuddsdetaljer
@@ -101,7 +103,7 @@ Stiftelsen UNI støtter brannsikringstiltakene. Utbetaling krever revisorbekreft
 
 Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 2612200) er ferdigstilt etter NS 3031:2025. Sluttrapport er klar for innlevering til Enova.
 
-*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.10.2026 løper i sin helhet i prosjekteringsfasen, godt før byggets ferdigstillelse (Q3 2027). Kostnaden til energikartleggingen inngår i byggets prosjekteringskostnad og aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Enova-tilskuddet behandles regnskaps- og skattemessig som tilskudd til erverv av driftsmiddel etter skatteloven § 14-42 (3) – på linje med tilskuddene fra KMF, BYA og UNI (se også pkt. 4.2).
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.10.2026 løper i sin helhet i prosjekteringsfasen, godt før byggets ferdigstillelse (Q3 2027). Kostnaden til energikartleggingen inngår i byggets prosjekteringskostnad og aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (3) gjelder tilskudd til «erverv av driftsmiddel» direkte for KMF, BYA og UNI, og anvendes analogisk for Enova-kartleggingstilskuddet siden den underliggende konsulentkostnaden aktiveres på driftsmidlet – tilskuddet reduserer dermed aktivert kostpris på samme måte. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør (se også pkt. 4.2).
 
 ---
 
@@ -114,7 +116,7 @@ Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 
 
 Ombrukskartleggingen dokumenterer bygningsdeler og materialer som kan gjenbrukes i rehabiliteringen – originalt laftet treverk, bærende tømmer og historiske konstruksjonselementer. Rapport under utarbeidelse.
 
-*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.12.2026 løper i sin helhet i prosjekteringsfasen, før byggets ferdigstillelse (Q3 2027). Kostnaden aktiveres på driftsmidlet per regnskapsloven § 5-4 / NRS 4, og Enova-tilskuddet behandles etter skatteloven § 14-42 (3) på linje med øvrige investeringstilskudd (se også pkt. 4.2).
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.12.2026 løper i sin helhet i prosjekteringsfasen, før byggets ferdigstillelse (Q3 2027). Kostnaden aktiveres på driftsmidlet per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (3) anvendes analogisk på samme grunnlag som for energikartleggingstilskuddet (se 3.4); tilskuddet reduserer aktivert kostpris på driftsmidlet. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør.
 
 ---
 

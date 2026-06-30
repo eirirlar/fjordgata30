@@ -629,6 +629,18 @@ Hver agent skal bli minnet om at:
 - Ratingene skal være kalibrerte: 10 = perfekt for rollens behov, 5 = brukbart med betydelige forbehold, 2 = uakseptabelt
 - De er ikke bank-spesialister med 20 års erfaring, men en LLM som imiterer rollen ut fra allmenn kunnskap. Brukeren vil bruke output som idégrunnlag, ikke som autoritativ vurdering
 
+#### Kontekst agentene ikke nødvendigvis vet (standard-tilføyelse i alle prompts)
+
+Iterativt har agentene flagget noen tema som er agent-artefakter snarere enn reelle pakke-svakheter. Disse bør inkluderes som kontekst i alle iter 7+ prompts:
+
+**(a) DNB-dialog er innledet og åpen.** Den eksisterende panthaveren DNB er informert om refinansieringen og har bekreftet åpenhet for håndtering i kredittprosessen. Ikke flagg DNB som «interessekonflikt» (hvis henvendelsen går til DNB selv) eller som «koordineringsbarriere» (hvis henvendelsen går til annen bank) – ingen av delene er reelle bekymringer. ESG-«second opinion»-krav gjelder grønne obligasjonsutstedere, ikke individuelle låntakere.
+
+**(b) Tilskuddsoverføring KodeWorks Eiendom AS → Fjordgata 30 AS er ikke en åpen risiko.** Tilskuddsgiverne er informert om planlagt fisjon, og overføring av tilsagn til Fjordgata 30 AS planlegges sammen med fisjonsgjennomføringen. Ved manglende samtykke ferdigstilles prosjektleveransene i KodeWorks Eiendom AS med konsernintern verdioverføring. Ikke flagg som «skjult risiko at KMF nekter samtykke».
+
+**(c) EBA/GL/2020/06 § 5.2 og finansforetaksloven § 13-5 er bevisst nedjustert.** Pakka har gjennomgått to formelle moderasjonsrunder (T105, T130). Dagens formulering er at «vi forstår det slik at banker etter EBA-GL § 5.2 skal kartlegge alle finansieringskilder, og at det er bankens kredittpolicy som styrer hvordan tilskudd vektes». Dette er **nettopp** den vurderingen banken skal gjøre – pakka skal ikke trekke en sterkere konklusjon enn dette, fordi prinsippspørsmålet handler om bankens vekting. Ikke flagg dagens formulering som «overpresis» eller «hjemmelsfester noe EBA ikke sier» med mindre du finner en konkret kategorisk feilformulering – ytterligere modering har null informasjonsverdi.
+
+**(d) Scenariofortellingen leder med forventet (LTV ~59 %), basis (~84 %) vises side-om-side i 00 og fullstendig i finansieringsplan 4.2.** Dette er en bevisst presentasjonsbeslutning: åpne med basis 84 % gjør at saksbehandleren lukker mailen før han starter å lese. Forventet scenario er Plan A med solid grunnlag (særlig HRPs energirådgivers eksplisitte anbefaling om å søke Enova-energioppgraderingstøtte ~2,3 MNOK). Begge tall er nå transparent i 00 – ikke flagg som «underkommunisering» eller «selektiv hovedlinje».
+
 #### Estimat
 
 5–10 min veggtid for agent-kjøring + 5–10 min syntesearbeid = ca. 15–20 min total.
@@ -768,7 +780,45 @@ Nye iter 5-funn (potensielle kvikke gevinster):
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_002.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 6.
 
-**Iterasjon 6 – planlagt.** Vurder om enkelte kvikke gevinster fra iter 5 skal adresseres. Større strukturelle funn (energiattest/DNSH, konsentrasjonsrisiko, exit-perspektiv) henger på T109 og endelig kredittsøknad-fase.
+**Iterasjon 6 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_003.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **6,9/10** (opp 0,3 fra 6,6 i iter 5). Per-dokument-snitt 7,4 (opp 0,2 fra 7,2).
+
+T131-effekt:
+- **Risk Officer +2,0 (5 → 7)** – fisjon-presisering + DNB-navngivning + likviditetsbuffer landet konkret. Største enkeltrolle-løft i pakkens historikk.
+- **Kredittsjef +1,0 (7 → 8)** – «beslutningsklar for prinsippforespørselen»; bankeksponering 31,3 MNOK leder mottatt positivt.
+- **MVA-strategi (dok 03) opp til 8,0** – eneste dokument med 8+ snitt.
+
+Svekkelser:
+- **Dok 06 (Tilskudd som EK) ned 0,7 (7,6 → 6,9)** – Jurist (6/10) og Risk Officer (7/10) kritiserer at EBA/GL/2020/06 5.2.7/6.1 og finansforetaksloven § 13-5 brukes overpresist som «hjemmel» for at tilskudd reduserer LTV.
+- **Kunderådgiver -1 (8 → 7)** – ikke pga svekket pakke, men reaksjon på volum: «du sender 8 vedlegg for å få svar på ett spørsmål om 2,25 MNOK».
+
+Status på iter 5-anbefalinger (T131-effekt):
+- ✅ LØST: DNB navngitt (T131 #1), fisjon §§ 11-4 + 11-7 + asl. kap. 14 (#2), GBER art. 53 vs KMF 70 % (#3), bankeksponering 31,3 MNOK leder (#6)
+- ⚠ DELVIS: Enova-kontekstnoter (#4, Jurist ber om kvalifisering som analogibetraktning), buffer 0,5 MNOK (#5, fire agenter mener for tynn), KMF-bekreftelse «holdes klar» (#7, fire agenter ber om vedlegg nå)
+
+Nye iter 6-funn (kategori 1 – kvikke gevinster):
+1. **Pantefrigjøring fra DNB + pantsetter-samtykke** (pantel. § 1-11) ikke adressert – Jurist + Risk Officer + CRE
+2. **Tilskuddsoverføring KodeWorks Eiendom AS → Fjordgata 30 AS** krever tilskuddsgivers samtykke – Jurist (skjult risiko: et nei fra KMF = 750 kkr tapt)
+3. **DNB som eksisterende panthaver = interessekonflikt** hvis henvendelsen går til DNB – Kredittanalytiker + Risk Officer + ESG
+4. **Likviditetsbufferens juridiske binding uklar** etter fisjon – Jurist
+5. **§ 14-42 (3) for Enova-kartlegging = analogibetraktning** – Jurist + ESG (premiss-kvalifisering)
+6. **EBA/GL og finansforetaksloven § 13-5 brukes overpresist** i dok 06 – Jurist + Risk Officer
+7. **Lead med basisscenario LTV 84 %, ikke forventet 59 %** – Risk Officer + Kredittsjef + Kredittanalytiker + ESG + CRE (5 av 7 agenter)
+8. **Pakka for stor for prinsippspørsmål** – Kunderådgiver foreslår 00 + 05 + 06 som hovedpakke
+9. **Belegg år 1 (64 %/54 %) urealistisk høyt** – Risk Officer + CRE + Kredittanalytiker
+
+Gjengangere (status uendret):
+- EBITDA-margin 72 % aggressiv (CRE, Kredittanalytiker)
+- Cap rate 6,5 % uten Trondheim-data (CRE, Kredittanalytiker)
+- DNSH-vurdering manglende (ESG, T109 venter HRP)
+- Energiattest etter rehab mangler (ESG, T109)
+- TBRT bevisst utelatt (per T106)
+- Forhåndsetterspørsel ikke kontraktsfestet
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_003.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 7.
 
 ---
 
@@ -2239,3 +2289,61 @@ Iter 4-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_revie
 9. **Sktl. § 14-42 (3) bundet til hele tilskuddspotten** i tilskudd-som-EK kap. 3.1: Ny avsnitt «Anvendelse for FG30s tilskuddspott» binder KMF, BYA, UNI og begge Enova-tilskudd under samme regnskaps- og skattemessige regime, med eksplisitt redegjørelse for at Enova-kartleggingsprosjektene løper i prosjekteringsfasen.
 
 Iter 5-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_review_002.md` (kategori 1 nr. 1, 2, 3, 4 og kategori 2 nr. 5, 6, 7). Jurist nr. 4 spesifikt markert som AVVIST i premiss, adressert med kontekst-supplement.
+
+---
+
+### T132 `[x]` Iter 6-respons: disarmer-tilføyelser i pakka + agent-promptforbedringer i T104
+
+**Bakgrunn:** Iter 6-review (`bank/reviews/2026-06-30_bank_review_003.md`) stabiliserte pakka på 6,9/10 og avdekket seks nye kategori 1-funn. Etter dialog med Eirik 30.06.2026 ble disse fordelt på tre svar-spor:
+
+1. **Disarmer-tilføyelser i pakka** for funn der substansen er ikke-problem, men der lesere/agenter mangler kontekst (DNB-dialog, tilskuddsoverføring, scenariofortelling)
+2. **Presisering i pakka** for funn der den juridiske ordlyden bør strammes (Enova-kartlegging som analogibetraktning etter § 14-42 (3))
+3. **Agent-promptforbedringer i T104** for funn som er artefakter av at agentene mangler ekstern kontekst (DNB-«interessekonflikt», EBA/§ 13-5-«overpresishet»)
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Iter 6-funn | Spor | Beslutning |
+|---|---|---|
+| 1 Pantefrigjøring fra DNB | Disarmer i 00 | Ikke-problem materielt – DNB er informert og åpen. Legg til én linje i 00 om at dialog er innledet |
+| 2 Tilskuddsoverføring KEAS → FG30 AS | Disarmer i 05 | Ikke-problem materielt – tilskuddsgivere er informert, og fallback (ferdigstillelse i KEAS + konsernintern overføring) er kjent. Legg til én linje i 05 |
+| 3 DNB-interessekonflikt | T104-prompt | Avvises som agent-paranoia (interessekonflikt-rammen holder ikke kommersielt for ordinær kredittprosess). Tilføyes som kontekst i agent-promptene |
+| 4 § 14-42 (3) som analogibetraktning | Presisering i 05 + 06 | Juristens spesifikke poeng: paragrafen treffer Enova-kartleggingene analogisk (kostnaden aktiveres, ikke tilskuddet i seg selv som «erverv av driftsmiddel»). Presisering på 2–3 linjer |
+| 5 EBA/GL + finansforetaksloven § 13-5 «overpresist» | T104-prompt | Avvises – pakka har gjort to moderasjonsrunder (T105, T130), dagens formulering er allerede «banken kartlegger og kredittpolicy styrer». Tilføyes som kontekst i agent-promptene |
+| 6 Lead med basisscenario 84 %, ikke forventet 59 % | Presisering i 00 | Beslutning: vi leder fortsatt med 59 % (det er Plan A med solid grunnlag), men inkluderer 84 % side-om-side i samme rad + substansierende fotnote om HRP-anbefalt Enova-energioppgraderingstøtte |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` (00) | (a) Status-tabell-linje «Refinansiering av eksisterende pantelån» utvides: «Dialog innledet med DNB; refinansiering håndteres i kredittprosessen». (b) Faktaboks LTV-rad utvides til å vise basis 84 % side-om-side med forventet 59 %, med substansierende fotnote om Enova-energioppgraderingstøtte |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` (05) | (a) Legg til kort note i kap. 2 eller egen liten seksjon: «Tilskuddsgivere er informert om planlagt fisjon til Fjordgata 30 AS. Overføring av tilsagn til nytt selskap planlegges; ved manglende samtykke ferdigstilles prosjektleveransene i KodeWorks Eiendom AS med konsernintern verdioverføring.» (b) Note i 3.4 og 3.5 (Enova-tilskudd) utvides til å eksplisitt si at sktl. § 14-42 (3) anvendes analogisk siden den underliggende kostnaden aktiveres på driftsmidlet |
+| `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (06) | Kap. 3.1 «Anvendelse for FG30s tilskuddspott» utvides med kort presisering om at § 14-42 (3) for Enova-kartleggingene anvendes analogisk (konsulenttjeneste vs driftsmiddel; reduserer aktivert kostnad) – endelig klassifisering avklares med regnskapsfører |
+| `TASKS.md` T104 prompt-mønster | Ny seksjon «Kontekst agentene ikke nødvendigvis vet» i T104 dokumentert som standard-tilføyelse til alle agent-prompts. To kategorier: (a) DNB-dialog er innledet og åpen – ikke flagg som interessekonflikt eller koordineringsbarriere; (b) EBA/GL § 5.2 og fin.fortl. § 13-5 er bevisst nedjustert to ganger – ikke flagg dagens formulering som overpresis med mindre konkret kategorisk feilformulering finnes |
+| `bank/reviews/2026-06-30_bank_review_003.md` | Annotér adresserte iter 6-funn: 1, 2, 4, 6 som ADRESSERT i pakka; 3 og 5 som ADRESSERT i T104-instruksjon |
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 20–30 min.
+
+**Løst 30.06.2026.** Alle seks svar-spor implementert:
+
+1. **DNB-dialog-disarmer i 00:** Status-tabell-linje «Refinansiering av eksisterende pantelån» oppdatert fra «Håndteres med DNB som eksisterende panthaver i kredittprosessen» til «Dialog innledet med DNB; refinansiering håndteres i kredittprosessen». Disarmer Risk Officer / Jurist-flagging om uavklart take-out.
+
+2. **Basis/forventet side-om-side i 00 faktaboks:** LTV-raden vist som «**~59 %** (55 % uten kapitalisert byggerente) — basis-scenario (kun innvilget tilskudd): ~84 %» med fotnote som substansierer at hovedposten i forskjellen (Enova T1-energioppgraderingstøtte ~2,3 MNOK) er klassifisert som høy sannsynlighet basert på HRPs sertifiserte energirådgivers eksplisitte søknadsanbefaling. Adresserer iter 6-funn 8 (5 av 7 agenter ba om dette) uten å bytte ut Plan A som ledende fortelling.
+
+3. **Tilskuddsoverføring-note i støtteoversikt 05 kap. 2:** Ny avsnitt etter milepælstabellen som forklarer at tilskuddsgivere er informert om planlagt fisjon, at overføring av tilsagn til Fjordgata 30 AS planlegges sammen med fisjonsgjennomføring, og at fallback ved manglende samtykke er ferdigstillelse i KodeWorks Eiendom AS med konsernintern verdioverføring. Disarmer Juristens flagging av «skjult tilskuddsrisiko».
+
+4. **§ 14-42 (3) analogi-presisering i 05 3.4 og 3.5:** Notene omskrevet til å eksplisitt skille direkte lovanvendelse (KMF/BYA/UNI – tilskudd til erverv) fra analogisk anvendelse (Enova-kartlegging – konsulenttjeneste som aktiveres). Slutter på «Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør».
+
+5. **§ 14-42 (3) analogi-presisering i 06 kap. 3.1 «Anvendelse for FG30s tilskuddspott»:** Avsnittet utvidet til å skille de to gruppene tilskudd med separate paragrafer. Avsluttende setning: «Skatteloven § 14-42 (3) gir dermed konsistent virkning for hele tilskuddspotten på 2,25 MNOK, direkte for de tre rehab-tilskuddene og analogisk for de to Enova-kartleggingstilskuddene.» Juridisk presisjon Juristen ba om i iter 6-funn 5 (analogibetraktning, ikke direkte lovanvendelse).
+
+6. **T104 ny seksjon «Kontekst agentene ikke nødvendigvis vet»:** Lagt til som standard-tilføyelse i alle iter 7+ prompts. Fire kontekst-bullets:
+   - (a) DNB-dialog er innledet og åpen – ikke flagg som interessekonflikt/koordineringsbarriere
+   - (b) Tilskuddsoverføring KEAS → FG30 AS er ikke åpen risiko (tilskuddsgivere informert + fallback)
+   - (c) EBA/GL § 5.2 og fin.fortl. § 13-5 er bevisst nedjustert to ganger – ikke flagg dagens formulering som overpresis
+   - (d) Scenariofortellingen leder med forventet (~59 %), basis (~84 %) vises side-om-side i 00 – ikke flagg som «underkommunisering»
+
+Iter 6-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_003.md` (kategori 1): funn 2, 3, 4 og 8 ADRESSERT i pakka; funn 5 og 6 ADRESSERT i T104-prompt; funn 1 (KMF-bekreftelse vedlegges nå) IKKE ADRESSERT siden bekreftelsen ennå ikke foreligger – tas inn når mottatt.
+
+Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
+

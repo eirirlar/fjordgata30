@@ -24,10 +24,12 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Sum bankeksponering (forventet scenario, inkl. refinansiering 15,5 MNOK + kapitalisert byggerente ~2,3 MNOK) | **~31,3 MNOK** (fullt scenariospenn 25–37 MNOK i finansieringsplan 4.2) |
 | Sikkerhet | 1. prioritets pant i eiendom |
 | Eiendomsverdi etter rehabilitering (base) | ~53 MNOK (cap rate 6,5 %) |
-| LTV ved forventet scenario | **~59 %** (55 % uten kapitalisert byggerente) |
+| LTV ved forventet scenario¹ | **~59 %** (55 % uten kapitalisert byggerente) — basis-scenario (kun innvilget tilskudd): ~84 % |
 | MVA-strategi | Hybridmodell (Alternativ D) – BFU planlagt Q3 2026 |
 | Grønt lån-kvalifikasjon | 53 % energireduksjon, G→D (dokumentert av HRP) |
 | Tidshorisont | Bankfinansiering avklart Q4 2026; byggestart Q4 2026–Q1 2027 |
+
+*¹ Forventet scenario inkluderer 2,25 MNOK innvilget tilskudd + ~5,75 MNOK høy-sannsynlighets-tilskudd. Hovedposten i sistnevnte er Enova-energioppgraderingstøtte (~2,3 MNOK) for T1-tiltakspakka, som HRPs sertifiserte energirådgiver eksplisitt anbefaler å søke ut fra dokumentert kvalifikasjon i energikartleggingsrapporten. Se finansieringsplan 4.2 for full scenariomatrise.*
 
 ### Status – hva er ferdig, hva er under arbeid
 
@@ -42,7 +44,7 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Fisjon KodeWorks Eiendom AS → Fjordgata 30 AS | Planlagt før eventuell låneutbetaling |
 | Detaljprosjektering og endelig entreprenørkalkyle | Pågår; finkalibreres ved IG |
 | Aksjonærgaranti- og sikkerhetsstruktur | Strukturering pågår; finkalibreres i bankforhandling |
-| Refinansiering av eksisterende pantelån (15,5 MNOK, DNB) | Håndteres med DNB som eksisterende panthaver i kredittprosessen |
+| Refinansiering av eksisterende pantelån (15,5 MNOK, DNB) | Dialog innledet med DNB; refinansiering håndteres i kredittprosessen |
 
 Prinsippspørsmålet vi stiller kan besvares uavhengig av elementene i «under arbeid»- og «planlagt»-kategoriene.
 
