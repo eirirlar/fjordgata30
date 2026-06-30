@@ -119,7 +119,7 @@ Moderne kontorarealer i rehabilitert historisk bygg, sentralt i Trondheim. Leies
 | B2B lagerboder (30 % av enheter) | Frivillig reg., 25 % MVA | mval. § 2-3 |
 | Full-service (70 % av enheter) | Avgiftspliktig lagringstjeneste, 25 % MVA | mval. § 3-1 – aktiv tjeneste faller utenfor § 3-11 eiendomsunntaket |
 
-**Forventet MVA-dekning i byggefasen: 80–100 %.** Estimert fradrag: 6,0–7,5 MNOK (25 % av 30 MNOK byggekostnad eks. MVA, justert for dekningsgrad).
+**Basis-forutsetning for MVA-dekning i byggefasen: 80 % (modellberegnet hybriddekning 90–95 % ved positiv BFU vises som sensitivitetsoppside).** Estimert fradrag basis: 6,0 MNOK; oppside: 6,75–7,125 MNOK (25 % av 30 MNOK byggekostnad eks. MVA, justert for dekningsgrad).
 
 *Merk: Full-service-tieret krever BFU (bindende forhåndsuttalelse) fra Skatteetaten for å sikre klassifisering som avgiftspliktig lagringstjeneste. Dette er planlagt som eget prosjektsteg (se Fremdriftsplan).*
 
@@ -345,7 +345,7 @@ Prisforutsetninger (launch): Selvbetjent ~302 kvm til 3 600 kr/kvm/år. Full-ser
 | Innvilget offentlig tilskudd (KMF, BYA, UNI, Enova × 2) | 2,25 | Tilsagnsbrev foreligger |
 | Tilskudd under søknad – høy sannsynlighet (KMF 2/3, BYA 2/3, UNI 2, Enova Energioppgradering) | 5,4–5,9 | Etablerte relasjoner og dokumentert kvalifikasjon |
 | Tilskudd under søknad – middels og lav-middels (Skattefunn, Riksantikvaren, Trøndelag fylke, IN) | 2,5–4,55 | Søknader under utforming |
-| MVA-refusjon (tilbakegående avgiftsoppgjør, 80–100 % dekning) | 6,0–7,5 | Forutsetter avgiftspliktig virksomhet (Alternativ D) |
+| MVA-refusjon (tilbakegående avgiftsoppgjør, 80 % basis / 90–95 % BFU-oppside) | 6,0 (basis); 6,75–7,125 (oppside) | Forutsetter avgiftspliktig virksomhet (Alternativ D) |
 | Kontant-egenkapital fra eier | 2–3 | Justeres etter bankens anerkjennelse av tilskudd som EK |
 | Ny konstruksjonsfinansiering (bank, forventet scenario) | ~13,5 | Fullt scenariospenn 7,5–19,25 i finansieringsplan 4.2 |
 | Refinansiering av eksisterende pantelån | 15,5 | Konverteres inn i ny bankramme ved byggestart |
@@ -466,7 +466,7 @@ For banken er det vesentlig å dokumentere:
 | IG-søknad (igangsettingstillatelse) | Sep 2026 | – |
 | Bankfinansiering avklart | Q4 2026 | – |
 | Byggestart (IG innvilget) | Nov 2026 – Jan 2027 | – |
-| Estimert byggetid | 10 måneder | – |
+| Estimert byggetid | 15 måneder (spenn 12–18 mnd) | – |
 | Åpning for utleie | Sep–Nov 2027 | – |
 | Break-even belegg nådd | ~2028 | – |
 | Stabilisert belegg (85–90 %) | 2029–2030 | – |
@@ -481,7 +481,7 @@ Fjordgata 30 AS er et prosjekt med høy kompleksitet, men solid potensial. De vi
 
 2. **Prismodell ~4 100 kr/kvm/år (launch) + krypkjeller** – markedsmessig prissatt under nærmeste sentrale konkurrent Utleiebod (365 kr/kvm/mnd) ved launch; gir stabilisert omsetning ~4,8 MNOK og EBITDA ~3,5 MNOK
 
-3. **Alternativ D (Hybrid)** – B2B selvbetjent + full-service «valet storage»; to stabile inntektsstrømmer og 80–100 % MVA-dekning i byggefasen
+3. **Alternativ D (Hybrid)** – B2B selvbetjent + full-service «valet storage»; to stabile inntektsstrømmer og 80 % MVA-basisdekning (90–95 % BFU-oppside) i byggefasen
 
 4. **Offentlig støtte ~8 MNOK forventet + MVA-refusjon ~6 MNOK** – reduserer nettoinvestering fra 30 MNOK til ~16 MNOK i forventet scenario; maksimumspotensial ved tilslag på alle tilskuddsspor er ~12,5 MNOK
 

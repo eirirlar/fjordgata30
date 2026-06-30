@@ -199,7 +199,7 @@ Konstruksjonsfinansieringen trekkes løpende fra Q4 2026 til Q3 2027. Rentekostn
 
 - Gjennomsnittlig trukket beløp i byggefasen: ~28 MNOK (lineær opptrapping fra 15,5 MNOK refinansiert til ~29 MNOK ved ferdigstillelse)
 - Renteforutsetning: NIBOR 3M + 200 bps + 10–25 bps grønt lån-rabatt = ~6,5 %
-- Byggefase: ~12–15 måneder
+- Byggefase: ~15 måneder (spenn 12–18 mnd avhengig av IG-utfall og fremdrift)
 - Kapitalisert rente: ~2,3 MNOK
 
 Etter byggefase blir samlet bankramme i basisscenario ~31,3 MNOK (29 MNOK + 2,3 MNOK kapitalisert rente).
@@ -208,20 +208,20 @@ Etter byggefase blir samlet bankramme i basisscenario ~31,3 MNOK (29 MNOK + 2,3 
 
 Foreløpig forutsetning, som finkalibreres i bankforhandling:
 
-- Interest-only (renter, ingen avdrag) i lease-up-perioden: Q4 2026 – Q4 2029 (byggefase + 2 år driftsoppstart)
-- Annuitetslån fra og med 2030: 25 års nedbetaling, fast/flytende rente
+- Interest-only (renter, ingen avdrag) i lease-up-perioden: Q4 2026 – Q4 2030 (byggefase + 3 år driftsoppstart)
+- Annuitetslån fra og med 2031: 25 års nedbetaling, fast/flytende rente
 - Rente i drift: ~6,5 % (NIBOR 3M + ~225 bps – grønt lån-rabatt)
 
 | År | EBITDA | Gjeldstjeneste | DSCR | Kommentar |
 |---|---:|---:|---:|---|
-| 2028 (driftsår 1, IO) | 1,84 | 2,03 | 0,91 | Lease-up; rentedekning sikret av kontant likviditetsbuffer 0,5 MNOK fra KodeWorks AS (morselskap), overført til Fjordgata 30 AS ved oppstart |
+| 2028 (driftsår 1, IO) | 1,84 | 2,03 | 0,91 | Lease-up; rentedekning sikret av kontant likviditetsbuffer 0,5 MNOK overført fra KodeWorks AS (morselskap) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart |
 | 2029 (driftsår 2, IO) | 2,56 | 2,03 | 1,26 | Over kovenant |
 | 2030 (driftsår 3, IO) | 3,20 | 2,03 | 1,58 | Sterk lease-up-utvikling |
 | 2031 (driftsår 4, amort. start) | 3,20 | 2,57 | 1,25 | Amortisering starter, over kovenant |
 | 2032 (driftsår 5, stabilisert) | 3,47 | 2,57 | 1,35 | Stabilisert drift |
 | 2033+ (annuitet løpende) | 3,47 | 2,57 | 1,35 | Sensitivitet i 7.1 |
 
-DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 MNOK) dekkes av en **kontant likviditetsbuffer på 0,5 MNOK stilt av KodeWorks AS (morselskap til Fjordgata 30 AS) og overført til Fjordgata 30 AS ved oppstart**. Bufferen gir margin også ved noe svakere lease-up enn forutsatt. KodeWorks AS består som selskap uavhengig av fisjonen og har solid økonomi som sikrer bufferens forankring også post-fisjon. Fra og med driftsår 2 er DSCR over 1,2, og fra driftsår 3 over 1,5. Strukturen forutsetter (a) interest-only i 3 år for å gi lease-up-perioden tid, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
+DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 MNOK) dekkes av en **kontant likviditetsbuffer på 0,5 MNOK overført fra KodeWorks AS (morselskap til Fjordgata 30 AS) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart**. Bufferen gir margin også ved noe svakere lease-up enn forutsatt. KodeWorks AS består som selskap uavhengig av fisjonen og har solid forankring som backstop: selskapet er et konsulentselskap med solid egenkapital, kontantposisjon og omsetning – alle konsulentprofiler er utleid i oppdrag, og selskapet har sterk ordreinngang. Fra og med driftsår 2 er DSCR over 1,2, og fra driftsår 3 over 1,5. Strukturen forutsetter (a) interest-only i 3 år for å gi lease-up-perioden tid, (b) annuitetslån fra og med 2031 (driftsår 4) med 25 års nedbetaling.
 
 #### Sensitivitet på rente
 
@@ -237,7 +237,7 @@ DSCR-banen er stram i driftsår 1 (0,91), og shortfall mot rentedekning (~0,19 M
 
 Selv med god dekning i base-scenariet legges følgende strukturelle tiltak inn for å håndtere uforutsette hendelser:
 
-- **Kontant likviditetsbuffer 0,5 MNOK** stilt av KodeWorks AS (morselskap) og overført til Fjordgata 30 AS ved oppstart – dekker DSCR-shortfall i driftsår 1 (~0,19 MNOK) med margin for noe svakere lease-up
+- **Kontant likviditetsbuffer 0,5 MNOK** overført fra KodeWorks AS (morselskap) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart – dekker DSCR-shortfall i driftsår 1 (~0,19 MNOK) med margin for noe svakere lease-up
 - **Interest-only-periode** på 3 år gir lease-up-tid med god margin
 - **Fast rente på del av lån** (50 % av rammen) i 5–7 år for å begrense rentestressfølsomhet
 - **Tilskuddsutbetalinger** brukes til å redusere låneramme etter hvert som de mottas (forventet ~6 MNOK i løpet av 2027–2029 fra KMF, BYA, UNI, Enova-ordningene)
@@ -275,10 +275,11 @@ Tabellen viser kvartalsvis trekk på kapital sett opp mot utbetalt tilskudd og r
 | Q4 2026 (byggestart, første milepæl) | 4–6 | 0,4 (Enova kart.) | 1–2 | -2,6 til -3,6 |
 | Q1 2027 (bygging) | 5–7 | 0,5 (KMF/BYA milepæl 1) | 1–2 | -3,5 til -4,5 |
 | Q2 2027 (bygging) | 5–7 | 0,5 (KMF/BYA milepæl 2) | 1–2 | -3,5 til -4,5 |
-| Q3 2027 (ferdigstillelse) | 3–5 | 0,5 (Enova kart. retention + UNI) | 1–2 | -1,5 til -2,5 |
+| Q3 2027 (ferdigstillelse) | 3–5 | 0,4 (Enova kart. retention) | 1–2 | -1,6 til -2,6 |
 | Q4 2027 (åpning, drift) | – | 0,5 (rest tilskudd) | 0,5–1 | +1,0 til +1,5 |
+| H1 2028 (sluttrapport + revisorbekreftelse) | – | 0,1 (Stiftelsen UNI) | – | +0,1 |
 
-Toppkapitalbehov inntreffer typisk i Q2–Q3 2027, før MVA-refusjon og rest-tilskudd er fullt realisert. Konstruksjonsfinansieringen bør dimensjoneres med headroom for denne toppen, ikke for slutt-LTV. Trekkrammen reduseres etter hvert som tilskudd og MVA realiseres.
+Toppkapitalbehov inntreffer typisk i Q2–Q3 2027, før MVA-refusjon og rest-tilskudd er fullt realisert. Konstruksjonsfinansieringen bør dimensjoneres med headroom for denne toppen, ikke for slutt-LTV. Trekkrammen reduseres etter hvert som tilskudd og MVA realiseres. Stiftelsen UNI (0,1 MNOK) krever revisorbekreftet sluttrapport og at hele prosjektet er ferdigstilt før utbetaling – realistisk utbetaling H1 2028.
 
 ---
 

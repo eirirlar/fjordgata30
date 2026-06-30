@@ -201,7 +201,7 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 | **Sum bekreftet offentlig finansiering** | **2 250 000 NOK** | |
 | | | |
 | **Egenfinansiering** | | |
-| Historisk innskutt egenkapital i KodeWorks Eiendom AS | ~1 500 000 NOK | |
+| Påløpte prosjektutviklingskostnader båret av KodeWorks Eiendom AS (2023–2026) – planlegging, brannkonsept, rammesøknad, RIB, dialog med vernemyndigheter mv.; aktiveres på driftsmidlet ved fisjon | ~1 500 000 NOK | |
 | Kontant-egenkapital fra eier ved byggestart | 2 000 000 – 3 000 000 NOK | |
 | | | |
 | **Planlagt bankfinansiering** | | |

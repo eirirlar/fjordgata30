@@ -182,11 +182,13 @@
 | Markedsbenchmark NO | – | – | ~120–140 kr (Stortrack 2025) |
 | **Fjordgata 30 (Bryggen) – prismål** | **300** | **360** | **Selvbetjent / full-service, launch år 1–2. Stabilisert år 3+: 350/420 kr** |
 
-**Posisjoneringsanalyse (kr/kvm/mnd):**
+**Posisjoneringsanalyse for selvbetjent minilager (kr/kvm/mnd, nasjonalt gjennomsnitt):**
 - Under 100: Priskrig/utklassering
-- 100–120: Konkurransedyktig markedsandel
+- 100–120: Konkurransedyktig markedsandel (nasjonalt snitt 2024–2025, Stortrack)
 - 130–160: Premium/sentrum-prisnivå
 - 160+: Full-service / valet-segment
+
+*FG30s prismål 300–360 kr/kvm/mnd ligger over disse spennene fordi FG30 plasseres i Trondheim sentrum-segmentet (verifisert lokalt prisspenn 286–399 kr/kvm/mnd hos Utleiebod, jf. seksjon 2.1) kombinert med valet-modell — to ulike segmenter enn det nasjonale gjennomsnittet for perifert selvbetjent minilager.*
 
 **Fjordgata 30 fordeler:**
 - Sentral beliggenhet (ingen biletid for mange kunder)

@@ -288,7 +288,7 @@ Kontorlokalene leies til næringsdrivende. Dette er det enkleste tilfellet:
 
 Sannsynligheten for slik bruksendring vurderes som lav: FG30 driver minilager etter Alternativ D (full-service + selvbetjent B2B) og har ingen kommersielle insentiver til å gå over til passiv utleie etter at modellen er etablert. Hovedrisikoen er om Skatteetaten skulle omklassifisere full-service til passiv – men dette håndteres ved BFU før byggestart (jf. kap. 7).
 
-**Justeringsforpliktelsen ved fisjon (mval. § 9-2):** Dersom byggekostnader påløper i KodeWorks Eiendom AS før fisjonen er gjennomført, overdras justeringsforpliktelsen formelt fra KodeWorks Eiendom AS til Fjordgata 30 AS sammen med driftsmidlet ved fisjon (mval. § 9-2). Dette skjer i kontinuitet som del av den skattenøytrale fisjonen etter sktl. §§ 11-4 og 11-7, og utløser ikke justering. Skriftlig justeringsavtale mellom KodeWorks Eiendom AS og Fjordgata 30 AS opprettes som del av fisjonsdokumentasjonen.
+**Justeringsforpliktelsen ved fisjon (mval. § 9-2):** Dersom byggekostnader påløper i KodeWorks Eiendom AS før fisjonen er gjennomført, overdras justeringsforpliktelsen formelt fra KodeWorks Eiendom AS til Fjordgata 30 AS sammen med driftsmidlet ved fisjon (mval. § 9-2). Dette skjer i kontinuitet som del av den skattenøytrale fisjonen etter sktl. §§ 11-4 og 11-7, og utløser ikke justering. Skriftlig justeringsavtale mellom KodeWorks Eiendom AS og Fjordgata 30 AS opprettes som del av fisjonsdokumentasjonen og inngås senest på fisjons-virkningstidspunktet.
 
 ---
 

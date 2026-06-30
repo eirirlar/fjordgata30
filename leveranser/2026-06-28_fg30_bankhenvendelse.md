@@ -72,7 +72,7 @@ Konkurrentanalysen viser at FG30s prismål (300 kr/kvm/mnd selvbetjent ved launc
 
 ### 2. MVA-strategi
 
-Vi har valgt en hybridmodell der kontor og selvbetjent B2B-lager ligger på frivillig MVA-registrering (mval. § 2-3), mens full-service-tjenesten klassifiseres som avgiftspliktig lagringstjeneste (mval. § 3-1 – aktiv tjeneste faller utenfor § 3-11 eiendomsunntaket). Forventet MVA-dekning i byggefasen er 80–100 %, som gir tilbakegående avgiftsoppgjør på 6,0–7,5 MNOK. BFU innhentes fra Skatteetaten før byggestart for å sikre klassifiseringen.
+Vi har valgt en hybridmodell der kontor og selvbetjent B2B-lager ligger på frivillig MVA-registrering (mval. § 2-3), mens full-service-tjenesten klassifiseres som avgiftspliktig lagringstjeneste (mval. § 3-1 – aktiv tjeneste faller utenfor § 3-11 eiendomsunntaket). Basis-forutsetning for MVA-dekning i byggefasen er 80 % (6,0 MNOK i tilbakegående avgiftsoppgjør); modellberegnet hybriddekning 90–95 % (6,75–7,125 MNOK) ved positiv BFU vises som sensitivitetsoppside i finansieringsplanen. BFU innhentes fra Skatteetaten før byggestart for å sikre klassifiseringen.
 
 ### 3. Grønt lån – kvalifikasjon dokumentert
 

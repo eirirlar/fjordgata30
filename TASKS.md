@@ -927,6 +927,172 @@ Konklusjon: Pakka løfter seg til 7,9/10. T134 traff. Nye funn er hovedsakelig m
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_006.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 10.
 
+**Iterasjon 10 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). T132 + T134-kontekstinstrukser aktive i alle prompts. 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_007.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **7,9/10** (uendret fra iter 9). Per-dokument-snitt 8,2 (opp 0,1 fra 8,1). **Stabiliserer seg.**
+
+T135 + T136-effekt:
+- **ESG +1,5 (6 → 7,5)** – største enkeltrolle-løft. MVA-konsistens og posisjoneringsanalyse-fix ringvirker
+- **Dok 04 Konkurrent+marked +0,6 (6,7 → 7,3)** – posisjoneringsanalyse-fixet landet
+- **Risk Officer +0,3, dok 08 +0,4, dok 07 +0,3** – modne ratinger
+
+Nedgang:
+- **Dok 05 Støtteoversikt −0,7 (8,7 → 8,0)** – etter at T135/T136 ryddet «historisk EK» og UNI, dukker nye Jurist-funn opp (Stiftelsen UNI som privat stiftelse, kap. 6-tabell vs 02 4.2, GBER-formulering)
+- Kunderådgiver, Kredittanalytiker, Jurist hver −0,5
+
+Klassisk modningsmønster: marginale endringer i overall (0,0) men forskyvning mellom rolle- og dokumentratinger ettersom tidligere svakheter løses og nye nyanser kommer fram.
+
+Status på iter 9-anbefalinger (T135 + T136-effekt):
+- ✅ LØST: Alle 9 punktene fra iter 9 — buffer-form, IO-periode, byggetid, § 9-2, «80–100 %», historisk EK, 04 posisjoneringsanalyse, UNI utbetaling, KodeWorks AS-noten (delvis)
+- ⚠ DELVIS: KodeWorks AS-noten kvantifiseres ikke (kvalitativ tekst mottatt, men 3 agenter ber om nøkkeltall)
+
+Nye iter 10-funn (kategori 1):
+1. Ansvarlig konsernlån trenger juridisk presisering (subordinering, lock-up) – Jurist
+2. Kvantifisering av KodeWorks AS-noten – 3 agenter
+3. Stiftelsen UNI som privat stiftelse – Jurist
+4. Statsstøtteformulering 05 6.1 «gjennom GBER» upresis – Jurist
+5. «BFU-oppside» upresist i 03/01 (areal-allokering styrer, ikke BFU) – Jurist
+6. MVA-kolonne-inkonsistens 02 scenariotabell 4.2 – Jurist, Kredittanalytiker
+7. DSCR-tabell vs 50 % fast rente – CRE
+8. Talloppsett ny konstruksjonsfinansiering inkonsistent (00/01/02/05) – Kunderådgiver
+9. Konsolidér EBA-argumentasjon i 02/05/06 – Kunderådgiver
+10. Trim 00 ingressen – Kunderådgiver
+11. «Kvalifiserer» → «oppfyller terskeltallene» – ESG
+12. Ombrukskartlegging som DNSH-aktivum – ESG
+13. Ny kjeller taksonomi art. 7.1 vs 7.2 – ESG
+14. Use-of-proceeds vs sustainability-linked grønt lån – ESG
+
+Gjengangere (samme tematikk, jevn intensitet):
+- EBITDA-margin 72 % uten kilde (4 agenter)
+- Forhåndsetterspørsel ikke LOI (5 agenter)
+- Green Storage 613 kr (3 agenter)
+- Basis-LTV 84 % framing (3 agenter) – bevisst presentasjonsbeslutning per T132
+- Buffer 0,5 MNOK marginalt
+- DNSH + energiattest manglende (ESG) – T109 venter
+
+Konklusjon: Pakka stabiliserer seg ved 7,9/10. Mange nye iter 10-funn er kvikke gevinster (8 av 14 i kategori 1 kan løses uten brukerinput). Punkt 2 (kvantifisering KodeWorks AS) krever Eiriks input.
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_007.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 11.
+</invoke>
+
+---
+
+### T135 `[x]` Iter 9-respons: fem kvikke ryddinger som kan gjøres uten brukerinput
+
+**Bakgrunn:** Iter 9-review (`bank/reviews/2026-06-30_bank_review_006.md`) brakte pakka til 7,9/10. Ni nye kategori 1-funn ble identifisert. Av disse er fem fixable uten brukerinput, fire krever input fra Eirik. T135 dekker de fem fixable.
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Iter 9-funn | Sted | Handling |
+|---|---|---|
+| 3 DSCR-tabellinkonsistens 2030/2031 (IO vs amortisering) — Jurist | 02 4.4 | IO-perioden er Q4 2026 – Q4 2029 (3 år, jf. bane-beskrivelsen); 2030 er driftsår 3 (siste IO-år), 2031 er driftsår 4 (første amortiseringsår). Tabell-kommentaren «Sterk lease-up-utvikling» for 2030 er greit; men «driftsår 4» for 2031 og «(IO)»-markering for 2030 vs 2031 må sjekkes mot tabellens egne radnumre |
+| 5 Mval. § 9-2 mikro-presisering — Jurist | 03 kap. 7 | Tilføy «inngås senest på fisjons-virkningstidspunktet» i § 9-2-avsnittet |
+| 6 «80–100 %»-prosa-tekst i 00/01 motsi 80 %-basis — Kunderådgiver | 00, 01 | Søk-og-erstatt «80–100 %» → «80 % basis, 90–95 % som BFU-bekreftet oppside» i prosatekst |
+| 8 04 posisjoneringsanalyse inkonsistens (100–120 vs 300–360) — Risk Officer | 04 | Klargjør at 100–120 kr/kvm/mnd er nasjonalt gjennomsnitt for selvbetjent minilager (Stortrack 2025); FG30 prismål 300–360 kr/kvm/mnd er Trondheim sentrum med valet-modell — to ulike segmenter |
+| 9 Stiftelsen UNI utbetalingsbetingelse i likviditetsplan — Kredittanalytiker | 02 kap. 6 | UNI 100 kkr krever revisorbekreftet sluttrapport + ferdigstilt prosjekt — flyttes til 2028 i likviditetstabellen |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) 4.4 | Sjekk DSCR-tabell-radene mot IO-periode-definisjonen; rette eventuelle inkonsistenser |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) kap. 6 | Stiftelsen UNI 100 kkr flyttes til 2028 i likviditetstabellen (eller minst flagges) |
+| `forretningsplan/fg30_vurderinger_mva.md` (03) kap. 7 | Tilføyelse «senest på fisjons-virkningstidspunktet» i § 9-2-avsnitt |
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` (00) | Søk-og-erstatt «80–100 %» MVA-prosatekst |
+| `forretningsplan/fg30_forretningsplan.md` (01) | Søk-og-erstatt «80–100 %» MVA-prosatekst |
+| `forretningsplan/kilde_markedsdata.md` (04) | Klargjøring av 100–120 vs 300–360 som ulike segmenter |
+| `bank/reviews/2026-06-30_bank_review_006.md` | Annotér adresserte iter 9-funn 3, 5, 6, 8, 9 som ADRESSERT i T135 |
+
+**Åpne iter 9-funn som krever Eiriks input (utenfor T135):**
+
+| Iter 9-funn | Sted | Hvorfor åpen |
+|---|---|---|
+| 1 Likviditetsbufferens juridiske form | 02 4.4 | Trenger valg: aksjonærtilskudd / ansvarlig konsernlån / morselskapsgaranti |
+| 2 KodeWorks AS' soliditet kvalitativ note | 02 4.4 | Trenger Eiriks vurdering av hva som er passende å si (egenkapital? kontantposisjon? omsetning?) |
+| 4 Byggetid 10 mnd (01) vs 12–15 mnd (02) | 01.10 + 02 4.4 | Trenger valg: standardisere på 10, 12 eller spenn — påvirker kapitalisert byggerente |
+| 7 Historisk EK 1,5 MNOK vs 10 MNOK kjøpesum | 05 pkt. 6 | Trenger Eiriks begrunnelse — er det akkumulerte forbedringer? Rest etter nedskrivning? |
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 20 min.
+
+**Løst 30.06.2026.** Fem svar-spor implementert:
+
+1. **DSCR-tabell-rydding i 02 4.4 (iter 9-funn 3, Jurist):** Bane-beskrivelsen rettet fra «Q4 2026 – Q4 2029 (byggefase + 2 år driftsoppstart)» og «annuitetslån fra og med 2030» til «Q4 2026 – Q4 2030 (byggefase + 3 år driftsoppstart)» og «annuitetslån fra og med 2031». Matcher nå tabellen og bunnbeskrivelsens «annuitetslån fra og med 2031».
+
+2. **Mval. § 9-2-presisering i 03 kap. 7 (iter 9-funn 5, Jurist):** Avsluttende setning tilføyd: «...som del av fisjonsdokumentasjonen og inngås senest på fisjons-virkningstidspunktet.» Skatteetaten har i praksis avvist etterfølgende justeringsavtaler — formuleringen sikrer korrekt timing.
+
+3. **«80–100 %»-prosa rettet i 00 og 01 (iter 9-funn 6, Kunderådgiver):** Fire forekomster oppdatert til «80 % basis / 90–95 % BFU-oppside»-formulering:
+   - 00 Bankhenvendelse kap. 2 (MVA-strategi-avsnitt)
+   - 01 Forretningsplan kap. 2.2 (Forventet MVA-dekning)
+   - 01 Forretningsplan kap. 7.x (finansieringsplan-tabell-linje)
+   - 01 Forretningsplan kap. 8.x (Alternativ D-omtale)
+
+4. **04 posisjoneringsanalyse rydding (iter 9-funn 8, Risk Officer):** Tabelloverskriften endret fra «Posisjoneringsanalyse (kr/kvm/mnd)» til «Posisjoneringsanalyse for selvbetjent minilager (kr/kvm/mnd, nasjonalt gjennomsnitt)». «Konkurransedyktig markedsandel» presisert til «nasjonalt snitt 2024–2025, Stortrack». Ny forklarende setning under: «FG30s prismål 300–360 kr/kvm/mnd ligger over disse spennene fordi FG30 plasseres i Trondheim sentrum-segmentet (verifisert lokalt prisspenn 286–399 kr/kvm/mnd hos Utleiebod, jf. seksjon 2.1) kombinert med valet-modell — to ulike segmenter enn det nasjonale gjennomsnittet for perifert selvbetjent minilager.»
+
+5. **Stiftelsen UNI i likviditetstabell 02 kap. 6 (iter 9-funn 9, Kredittanalytiker):** Q3 2027-raden korrigert fra «0,5 (Enova kart. retention + UNI)» til «0,4 (Enova kart. retention)». Ny rad lagt til: «H1 2028 (sluttrapport + revisorbekreftelse) | – | 0,1 (Stiftelsen UNI) | – | +0,1». Tilføyelse i prosaen under tabellen: «Stiftelsen UNI (0,1 MNOK) krever revisorbekreftet sluttrapport og at hele prosjektet er ferdigstilt før utbetaling – realistisk utbetaling H1 2028.»
+
+**Åpne iter 9-funn (krever brukerinput, IKKE adressert i T135):**
+- Funn 1: Likviditetsbufferens juridiske form (aksjonærtilskudd / ansvarlig konsernlån / morselskapsgaranti)
+- Funn 2: KodeWorks AS' soliditet kvalitativ note (hva kan sies?)
+- Funn 4: Byggetid 10 (01) vs 12–15 mnd (02) — valg påvirker kapitalisert byggerente
+- Funn 7: Historisk EK 1,5 MNOK i 05 — begrunnelse for tallet
+
+Iter 9-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_006.md` (kategori 1 nr. 2, 4, 5, 7, 8 ADRESSERT; nr. 1, 3, 6 ÅPEN).
+
+Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
+
+---
+
+### T136 `[x]` Iter 9-respons del 2: fire restpunkter med brukerinput
+
+**Bakgrunn:** T135 dekket fem iter 9-funn som kunne fikses uten brukerinput. De fire resterende krevde input fra Eirik, som ga konkrete svar 30.06.2026. T136 implementerer disse.
+
+**Brukerens beslutninger 30.06.2026:**
+
+| Iter 9-funn | Sted | Beslutning |
+|---|---|---|
+| 1 Likviditetsbufferens juridiske form — Jurist, CRE | 02 4.4 (tre forekomster) | **Ansvarlig konsernlån fra KodeWorks AS til Fjordgata 30 AS** |
+| 2 KodeWorks AS' soliditet kvalitativ note — Risk Officer, Kredittanalytiker | 02 4.4 (bufferbeskrivelsen) | Kort kvalitativ note: «KodeWorks AS er et konsulentselskap med solid egenkapital, kontantposisjon og omsetning. Alle konsulentprofiler er utleid i oppdrag, og selskapet har sterk ordreinngang.» |
+| 4 Byggetid 10 (01) vs 12–15 mnd (02) — Kredittanalytiker | 01 kap. 10 + 02 4.4 | **15 måneder eksakt** (spenn 12–18 mnd). Synkroniser begge filer. Kapitalisert byggerente sjekkes (28 MNOK snittsaldo × 6,5 % × 15/12 ≈ 2,28 MNOK — minimal endring fra dagens 2,3 MNOK) |
+| 7 «Historisk EK 1,5 MNOK» i 05 — Kredittsjef | 05 kap. 6 finansieringstabell | **Tallet er ikke EK, men prosjektutviklingskostnader** påløpt i KodeWorks Eiendom AS 2023–2026 (planlegging, brannkonsept, rammesøknad, RIB, byantikvar-dialog mv.). Linjen omdøpes til: «Påløpte prosjektutviklingskostnader båret av KodeWorks Eiendom AS (2023–2026, ca. 1,5 MNOK) til planlegging, brannkonsept, rammesøknad, RIB og dialog med vernemyndigheter; aktiveres på driftsmidlet ved fisjonen». Fjerner inkonsistens-inntrykket mot kjøpesum 10 MNOK i 2015 |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) 4.4 — tre forekomster | Buffer-form spesifiseres som «ansvarlig konsernlån fra KodeWorks AS til Fjordgata 30 AS» (DSCR-tabell linje 2028, bane-beskrivelse, mitigerende tiltak-liste). I bane-beskrivelsen utvides KodeWorks AS-soliditetslinjen med den kvalitative noten |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` (02) 4.4 — kap. byggerente-beregning | Byggefasen «~12–15 måneder» → «~15 måneder (spenn 12–18 mnd avhengig av IG-utfall)». Sjekk om kapitalisert byggerente-tallet skal justeres (forventet liten endring, fortsatt ~2,3 MNOK) |
+| `forretningsplan/fg30_forretningsplan.md` (01) kap. 10 (Fremdriftsplan) | Byggetid synkroniseres til 15 mnd. Sjekk konsistens med Q4 2026 byggestart + Q3/Q4 2027 ferdigstillelse |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` (05) kap. 6 finansieringstabell | Linje «Historisk innskutt egenkapital i KodeWorks Eiendom AS ~1 500 000 NOK» omdøpes til «Påløpte prosjektutviklingskostnader båret av KodeWorks Eiendom AS (2023–2026) — planlegging, brannkonsept, rammesøknad, RIB, dialog med vernemyndigheter mv.; aktiveres på driftsmidlet ved fisjon». Beløp ~1 500 000 NOK uendret |
+| `bank/reviews/2026-06-30_bank_review_006.md` | Annotér iter 9-funn 1, 2, 4, 7 (alle Kategori 1 unntatt allerede løste) som ADRESSERT i T136 |
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 20 min.
+
+**Løst 30.06.2026.** Fire svar-spor implementert:
+
+1. **Buffer-form: ansvarlig konsernlån i 02 4.4 (iter 9-funn 1):** Tre forekomster oppdatert:
+   - DSCR-tabell linje 2028: «kontant likviditetsbuffer 0,5 MNOK overført fra KodeWorks AS (morselskap) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart»
+   - Bane-beskrivelse: «kontant likviditetsbuffer på 0,5 MNOK overført fra KodeWorks AS (morselskap til Fjordgata 30 AS) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart»
+   - Mitigerende tiltak: «overført fra KodeWorks AS (morselskap) til Fjordgata 30 AS som ansvarlig konsernlån ved oppstart»
+
+2. **KodeWorks AS soliditets-note i 02 4.4 bane-beskrivelse (iter 9-funn 2):** Erstattet «KodeWorks AS består som selskap uavhengig av fisjonen og har solid økonomi som sikrer bufferens forankring også post-fisjon» med: «KodeWorks AS består som selskap uavhengig av fisjonen og har solid forankring som backstop: selskapet er et konsulentselskap med solid egenkapital, kontantposisjon og omsetning – alle konsulentprofiler er utleid i oppdrag, og selskapet har sterk ordreinngang.»
+
+3. **Byggetid synkronisert til 15 mnd (iter 9-funn 4):**
+   - 01 kap. 10 Fremdriftsplan: «Estimert byggetid | 10 måneder» → «Estimert byggetid | 15 måneder (spenn 12–18 mnd)»
+   - 02 4.4 byggerente-beregning: «Byggefase: ~12–15 måneder» → «Byggefase: ~15 måneder (spenn 12–18 mnd avhengig av IG-utfall og fremdrift)»
+   - Kapitalisert byggerente 2,3 MNOK uendret – dagens tall matchar allerede ~15 mnd beregning
+
+4. **«Historisk EK 1,5 MNOK» → prosjektutviklingskostnader i 05 kap. 6 (iter 9-funn 7):** Linje omdøpt fra «Historisk innskutt egenkapital i KodeWorks Eiendom AS | ~1 500 000 NOK» til «Påløpte prosjektutviklingskostnader båret av KodeWorks Eiendom AS (2023–2026) – planlegging, brannkonsept, rammesøknad, RIB, dialog med vernemyndigheter mv.; aktiveres på driftsmidlet ved fisjon | ~1 500 000 NOK». Fjerner inkonsistens-inntrykket mot kjøpesum 10 MNOK i 2015.
+
+Iter 9-anbefalinger annotert i `bank/reviews/2026-06-30_bank_review_006.md` (kategori 1 nr. 1, 3, 6 nå ADRESSERT — alle iter 9-funn er enten ADRESSERT eller UTSATT TIL T109).
+
+Ingen worktrees opprettet (ingen Agent-tool-bruk). Ingen docx regenerert.
+
 ---
 
 ### T134 `[x]` Iter 8-respons: rydde MVA-basis-inkonsistens i 03, § 9-2 ved fisjon, buffer-kilde til morselskap
