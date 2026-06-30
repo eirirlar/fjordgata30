@@ -347,10 +347,14 @@ Parametere (Gaussisk bredde, volum-korreksjonsfaktorer) justeres i `data/comp_we
 ```bash
 cd forretningsplan
 pandoc fg30_forretningsplan.md -o fg30_forretningsplan.docx
-uv run python ../scripts/format_docx.py fg30_forretningsplan.docx
+uv run --with python-docx python ../scripts/format_docx.py fg30_forretningsplan.docx
 ```
 
 `format_docx.py` legger til tynn grå ramme (0,5pt, #BFBFBF) på alle tabellceller og setter faste kolonnebredder per tabell.
+
+## Bankpakke
+
+Bankpakka (9 dokumenter) ligger i `bank/`. Markdown → docx-mappingen og regenereringskommandoer er dokumentert i [`bank/MANIFEST.md`](bank/MANIFEST.md). Pandoc er valgt konverteringsverktøy for docx/pptx/pdf. PDF konverteres fra docx i Word/Office (ingen PDF-engine konfigurert på prosjektnivå).
 
 ---
 

@@ -528,7 +528,7 @@ Dette gjør fremtidige revisjoner robuste – samme tall garantert konsistent p�
 
 ---
 
-### T104 `[ ]` Multi-agent rolle-review av bankpakken (gjenbrukbar – iterativ)
+### T104 `[x]` Multi-agent rolle-review av bankpakken (gjenbrukbar – iterativ)
 
 **Mål:** Få en rollebasert kritikk av bankpakken før utsending. Hver agent leser hele pakken fra én bank-rolles perspektiv, vurderer hvert dokument og oppsummerer styrker/svakheter. Resultatene samles i `bank/reviews/YYYY-MM-DD_bank_review.md`.
 

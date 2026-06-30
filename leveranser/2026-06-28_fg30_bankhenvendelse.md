@@ -8,7 +8,7 @@ Hei,
 
 Takk for den innledende dialogen rundt Fjordgata 30-prosjektet i vår. Dere så da en tidlig kalkyle og hovedlinjene i et minilager- og kontorprosjekt i den verneverdige bryggebygningen i sentrum av Trondheim. Siden den gang har vi gjort en betydelig dokumentasjons- og analysejobb og bygget konseptet noe ut, og prosjektet er nå i en fase der det er naturlig å gjenoppta dialogen.
 
-Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse for Trondheims-markedet, utredet MVA-strategi for byggefasen, analysert juridisk grunnlag for bruk av offentlige tilskudd som egenkapitallignende finansiering, og samlet en finansieringsplan. Vi har også fått energikartleggingsrapport fra HRP som dokumenterer at prosjektet kvalifiserer til grønt lån. Alle dokumentene ligger ved.
+Vi har nå utarbeidet en førsteversjon av forretningsplanen, gjennomført grundig konkurrentanalyse for Trondheims-markedet, utredet MVA-strategi for byggefasen, analysert juridisk grunnlag for bruk av offentlige tilskudd som egenkapitallignende finansiering, og samlet en finansieringsplan. Vi har også fått energikartleggingsrapport fra HRP som dokumenterer at prosjektet kvalifiserer til grønt lån. Alle dokumentene ligger ved. Disse oppdateres etter hvert som ny dokumentasjon foreligger (BFU, LOI med leietakere, revidert energikartlegging, detaljprosjektering mv.).
 
 **Om henvendelsens karakter:** Dette er **materialgrunnlag for én konkret prinsippforespørsel** – ikke en endelig kredittsøknad. Flere prosjektelementer (IG, BFU, fisjon, kompletterende HRP-presentasjon, detaljprosjektering, garanti- og sikkerhetsstruktur) er fortsatt under arbeid og kommer på plass før en eventuell endelig kredittsøknad. Prinsippspørsmålet vi stiller (se «Konkret anmodning» nederst) kan besvares uavhengig av disse. Materialet vi sender med er solid faktagrunnlag for at banken skal kunne kjenne prosjektet og gi en kort prinsippvurdering.
 
@@ -35,7 +35,7 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 
 | Område | Status |
 |---|---|
-| Forretningsplan, finansieringsplan, MVA-strategi, konkurrentanalyse | Ferdig (vedlagt) |
+| Forretningsplan, finansieringsplan, MVA-strategi, konkurrentanalyse | Førsteversjon vedlagt; oppdateres etter hvert som ny dokumentasjon foreligger (BFU, LOI, detaljprosjektering mv.) |
 | Energikartlegging (HRP, 05.05.2026) | Ferdig; kompletterende presentasjons-versjon bestilt og ettersendes |
 | Tilskudd – innvilget (2,25 MNOK) | Ferdig (tilsagnsbrev foreligger – vedlagt på forespørsel) |
 | Rammesøknad | Levert 12. mai 2026 – avventer kommunens behandling |
