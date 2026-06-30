@@ -92,6 +92,8 @@ Praktisk virkning:
 
 For **forretningsbygg** (saldogruppe i, 2 % avskrivning per år) er den årlige skatteeffekten av redusert saldo svært liten – i størrelsesorden 0,4–0,5 % av tilskuddsbeløpet per år. Tilskuddet er dermed tilnærmet skattenøytralt over en lang planleggingshorisont.
 
+**Anvendelse for FG30s tilskuddspott:** Alle FG30s innvilgede tilskudd – Kulturminnefondet (sikringstiltak), Byantikvaren (verneverdig bebyggelse), Stiftelsen UNI (brannsikring) og Enovas energi- og ombrukskartleggingstilskudd – refunderer kostnader som er en del av byggeprosjektets kostnadsbase og som aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Enova-kartleggingsprosjektene løper i sin helhet i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027), og kostnadene til energi- og ombrukskartleggingsrapporter inngår i byggets prosjekteringskostnad. Skatteloven § 14-42 (3) gjelder dermed konsistent for hele tilskuddspotten på 2,25 MNOK.
+
 ### 3.2 Skatteloven § 5-30 – tilskudd og næringsinntekt
 
 Tilskudd til næringsvirksomhet er i utgangspunktet **skattepliktig inntekt** etter skatteloven § 5-30. For investeringstilskudd er imidlertid § 14-42 (3) det spesielle regelverket som styrer behandlingen – tilskuddet beskattes ikke som løpende inntekt, men gjennom redusert saldo (se pkt. 3.1).

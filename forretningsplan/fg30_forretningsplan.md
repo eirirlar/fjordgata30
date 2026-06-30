@@ -27,7 +27,7 @@ Tiltakspakke T1 (etterisolering, lufttetting, vinduer/porter, balansert ventilas
 
 ### 1.1 Fjordgata 30 AS
 
-Fjordgata 30 AS er det planlagte drifts- og eiendomsselskapet for prosjektet, under etablering gjennom fisjon av KodeWorks Eiendom AS (org.nr. 920 478 506). Selskapet vil overta eiendommen og drive rehabilitering og minilagervirksomheten. KodeWorks Eiendom AS ervervet eiendommen i 2015 og har siden stått for utvikling og prosjektering. Overgangen til Fjordgata 30 AS skjer som del av en planlagt selskapsmessig restrukturering. Fisjonen planlegges gjennomført som skattefri etter skatteloven § 11-4 (skattemessig kontinuitet, konsernintern fisjon med samme aksjonærer).
+Fjordgata 30 AS er det planlagte drifts- og eiendomsselskapet for prosjektet, under etablering gjennom fisjon av KodeWorks Eiendom AS (org.nr. 920 478 506). Selskapet vil overta eiendommen og drive rehabilitering og minilagervirksomheten. KodeWorks Eiendom AS ervervet eiendommen i 2015 og har siden stått for utvikling og prosjektering. Overgangen til Fjordgata 30 AS skjer som del av en planlagt selskapsmessig restrukturering. Fisjonen planlegges gjennomført som skattenøytral med kontinuitet etter skatteloven §§ 11-4 og 11-7 (konsernintern fisjon med samme aksjonærer), og gjennomføres etter aksjelovens kapittel 14 (fisjonsplan, kreditorvarsel 6 uker, melding til Foretaksregisteret).
 
 - **Kjøpesum 2015:** NOK 10 000 000
 - **Eksisterende gjeld på eiendommen:** 15,5 MNOK (refinansieres inn i ny konstruksjonsfinansiering)

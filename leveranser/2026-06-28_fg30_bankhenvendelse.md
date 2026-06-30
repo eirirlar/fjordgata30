@@ -21,7 +21,7 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Byggekostnad eks. MVA | ~30 MNOK |
 | Eksisterende pantelån (refinansieres) | 15,5 MNOK |
 | Ny konstruksjonsfinansiering (forventet scenario) | ~13,5 MNOK (fullt scenariospenn 7,5–19,25 MNOK i finansieringsplan 4.2) |
-| Sum bankeksponering (inkl. refinansiering 15,5 MNOK + kapitalisert byggerente ~2,3 MNOK) | ~25–37 MNOK |
+| Sum bankeksponering (forventet scenario, inkl. refinansiering 15,5 MNOK + kapitalisert byggerente ~2,3 MNOK) | **~31,3 MNOK** (fullt scenariospenn 25–37 MNOK i finansieringsplan 4.2) |
 | Sikkerhet | 1. prioritets pant i eiendom |
 | Eiendomsverdi etter rehabilitering (base) | ~53 MNOK (cap rate 6,5 %) |
 | LTV ved forventet scenario | **~59 %** (55 % uten kapitalisert byggerente) |
@@ -42,7 +42,7 @@ Vi har nå ferdigstilt forretningsplanen, gjennomført grundig konkurrentanalyse
 | Fisjon KodeWorks Eiendom AS → Fjordgata 30 AS | Planlagt før eventuell låneutbetaling |
 | Detaljprosjektering og endelig entreprenørkalkyle | Pågår; finkalibreres ved IG |
 | Aksjonærgaranti- og sikkerhetsstruktur | Strukturering pågår; finkalibreres i bankforhandling |
-| Refinansiering av eksisterende pantelån (15,5 MNOK) | Håndteres med eksisterende panthaver i kredittprosessen |
+| Refinansiering av eksisterende pantelån (15,5 MNOK, DNB) | Håndteres med DNB som eksisterende panthaver i kredittprosessen |
 
 Prinsippspørsmålet vi stiller kan besvares uavhengig av elementene i «under arbeid»- og «planlagt»-kategoriene.
 

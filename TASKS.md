@@ -743,7 +743,32 @@ Nye funn i iter 4 (ikke fanget tidligere):
 
 Brukeren leser `bank/reviews/2026-06-30_bank_review_001.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 5.
 
-**Iterasjon 5 – planlagt.** Når kategori 1-anbefalinger er adressert. Topp-prioritet: fiks DSCR 7.4-tabellen (showstopper, 5 min jobb).
+**Iterasjon 5 – 30.06.2026.** 7 agenter kjørt parallelt (subagent_type `claude`). 7 nye worktrees opprettet (uunngåelig); ryddes etter sesjon.
+
+Resultater syntetisert til `bank/reviews/2026-06-30_bank_review_002.md`.
+
+Hovedfunn: Gjennomsnittlig helhetsrating **6,6/10** (ned 0,1 fra 6,7 i iter 4). Per-dokument-snitt 7,2 (ned 0,2 fra 7,4).
+
+T129+T130-effekt:
+- **Finansieringsplan +1,2 (6,1 → 7,3)** – DSCR-fiksen mottas svært godt
+- **Tilskudd som EK +0,5 (7,1 → 7,6)** – EBA-moderingen mottas positivt
+- **Jurist overall +1,0 (6 → 7)** – fisjon-presisering og EBA-modering løfter
+- Marginale fall i 03/04/05/07/08 (-0,2 til -0,7) – agentene «vipper» på andre svakheter
+
+Risk Officer faller fra 6,5 til 5; ESG faller fra 7 til 6. Begge trekker fram svakheter som bevisst er utsatt:
+- ESG: energiattest (T109 venter), DNSH, PED vs levert energi
+- Risk Officer: konsentrasjon, nøkkelperson, TBRT (bevisst utelatt per T106)
+
+Nye iter 5-funn (potensielle kvikke gevinster):
+- 15,5 MNOK eksisterende panthaver bør navngis i 00
+- Fisjon: sktl. § 11-4 må også henvise § 11-7 + aksjelovens kap. 14
+- GBER art. 53: 80 %-tak (ikke 70 %) for kulturarv med driftselement
+- Enova kartleggingstilskudd: driftskostnad, ikke investering (sktl. § 14-42 (3) ikke anvendelig)
+- Aksjonærgaranti/likviditetsbuffer for DSCR år 1 bør beløpsfestes
+
+Brukeren leser `bank/reviews/2026-06-30_bank_review_002.md` og beslutter hvilke justeringer som blir tasks før evt. iterasjon 6.
+
+**Iterasjon 6 – planlagt.** Vurder om enkelte kvikke gevinster fra iter 5 skal adresseres. Større strukturelle funn (energiattest/DNSH, konsentrasjonsrisiko, exit-perspektiv) henger på T109 og endelig kredittsøknad-fase.
 
 ---
 
@@ -2145,3 +2170,72 @@ Oppdaterte filer:
 Iter 4-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_review_001.md` (kategori 1 nr. 2, 3, 4).
 
 ---
+
+### T131 `[x]` Iter 5-respons: kvikke gevinster + Enova-kontekst i støttegrunnlaget
+
+**Bakgrunn:** Iter 5-review (`bank/reviews/2026-06-30_bank_review_002.md`) stabiliserte pakka på 6,6/10 og identifiserte syv kvikke gevinster (kategori 1 + utvalg av kategori 2) som kan implementeres uten å bryte med prinsippfase-rammen. I tillegg avdekket dialogen 30.06.2026 (etter review) at Jurist-agentens anbefaling nr. 4 (skill Enova kartleggingstilskudd som «driftskostnad-refusjon») bygger på en for snever lesning av sktl. § 14-42 (3) – Enova-kartleggingsprosjektene løper i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027) og refunderer prosjekteringskostnader som aktiveres på bygget per regnskapsloven § 5-4 / NRS 4. Riktig respons er å **supplere kontekst** i støtteoversikten og tilskudd-som-EK-dokumentet slik at fremtidige lesere (inkludert banken) ser dette uten å måtte resonnere seg fram til det.
+
+**Anbefalinger fra iter 5 og handling:**
+
+| Funn iter 5 | Handling | Kategori |
+|---|---|---|
+| Navngi 15,5 MNOK eksisterende panthaver (4 agenter) | Sett inn navn på eksisterende panthaver i bankhenvendelse 00. Setning som «eksisterende panthaver er [X]; refinansiering håndteres med panthaver i kredittprosessen». **Krever input fra Eirik: hvem er panthaver?** | Iter 5 kat. 1 nr. 1 |
+| Sktl. § 11-4 alene ikke tilstrekkelig (Jurist) | Utvid fisjonshenvisning i forretningsplan 1.1: «skattenøytral fisjon med kontinuitet etter sktl. §§ 11-4 og 11-7, gjennomført etter aksjelovens kapittel 14 (fisjonsplan, kreditorvarsel 6 uker, melding til Foretaksregisteret)» | Iter 5 kat. 1 nr. 2 |
+| GBER art. 53 har 80 %-tak (Jurist) | Korriger støtteoversikt 6.1: presiser at 70 % er KMFs vedtekts-tak, og at EØS/GBER art. 53 har et eget 80 %-tak for kulturarvprosjekter med driftselement. Behold 70 % som styrende for FG30 siden det er KMF-rammeverket som setter den lavere grensen | Iter 5 kat. 1 nr. 3 |
+| Enova kartlegging «er driftskostnad-refusjon» (Jurist nr. 4) | **AVVIST som premiss, men adressert med kontekst-supplement.** Sett inn korte noter i støtteoversikt 3.4/3.5 og tilskudd-som-EK kap. 3 som forklarer at kartleggingsprosjektene løper i prosjekteringsfasen, kostnaden aktiveres på bygget per rskl. § 5-4 / NRS 4, og at sktl. § 14-42 (3) dermed gjelder hele tilskuddspotten på 2,25 MNOK | Iter 5 kat. 1 nr. 4 (omformulert) |
+| Aksjonærgaranti / likviditetsbuffer for DSCR år 1 ikke beløpsfestet (4 agenter) | Konkretiser i finansieringsplan 4.4 og forretningsplan 6.3: «Aksjonærgaranti X MNOK i lease-up-perioden» eller «Likviditetsbuffer 0,5 MNOK kontant ved oppstart». **Krever input fra Eirik: hva er realistisk størrelse og kilde (KodeWorks-konsernet)?** | Iter 5 kat. 2 nr. 5 |
+| Bankeksponering-spenn 25–37 MNOK i 00 for vidt (3 agenter) | Led med «~31,3 MNOK (forventet scenario)» i hovedteksten/faktaboksen i bankhenvendelse 00, spenn 25–37 MNOK som fotnote. Tilsvarende harmonisering som T130 nr. 7 gjorde for konstruksjonsfinansiering | Iter 5 kat. 2 nr. 6 |
+| KMF bruksendring skriftlig dokumentasjon (Jurist) | Tilføy én setning i støtteoversikt 3.1 om at skriftlig bekreftelse fra KMF på bruksendringen holdes klar for fremleggelse ved lånesøknad. Selve dokumentet ettersendes ikke i prinsippfase | Iter 5 kat. 2 nr. 7 |
+
+**Konkrete endringer per fil:**
+
+| Fil | Hva |
+|---|---|
+| `leveranser/2026-06-28_fg30_bankhenvendelse.md` | Navngi 15,5 MNOK panthaver; led med ~31,3 MNOK / LTV 59 % i hovedfaktaboks, spenn 25–37 MNOK i fotnote |
+| `forretningsplan/fg30_forretningsplan.md` 1.1 | Utvid fisjonshenvisning til §§ 11-4 og 11-7 + aksjelovens kap. 14 |
+| `forretningsplan/fg30_forretningsplan.md` 6.3 | Beløpsfest aksjonærgaranti / likviditetsbuffer for DSCR år 1 |
+| `leveranser/2026-06-28_fg30_finansieringsplan.md` 4.4 | Konsistent omtale av aksjonærgaranti/buffer-beløp |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` 3.1 (KMF) | Tilføy at skriftlig bekreftelse på bruksendring holdes klar for kredittfase |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` 3.4 (Enova energikartlegging) | Note om prosjektperiode, kostnadsaktivering, sktl. § 14-42 (3) |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` 3.5 (Enova ombrukskartlegging) | Tilsvarende note som 3.4 |
+| `leveranser/2026-06-26_fg30_stoetteoversikt_bank.md` 6.1 | Presiser 70 % som KMF-vedtekt + GBER art. 53 (80 %)-tak som EØS-rammeverk |
+| `leveranser/2026-06-26_tilskudd_som_egenkapital.md` kap. 3 | Tilføy én setning om at hele tilskuddspotten (2,25 MNOK) refunderer kostnader som aktiveres på bygget, slik at sktl. § 14-42 (3) gjelder konsistent for alle fem tilskudd |
+| `bank/reviews/2026-06-30_bank_review_002.md` | Annotér adresserte funn (kategori 1 + kategori 2 nr. 5/6/7); marker Jurist nr. 4 som AVVIST i premiss men adressert med kontekst-supplement |
+
+**Avhengighet av brukerinput (må avklares før kjøring):**
+
+1. Navn på eksisterende panthaver for 15,5 MNOK pantelån
+2. Realistisk størrelse på aksjonærgaranti / likviditetsbuffer (foreslår 0,5 MNOK kontant ved oppstart fra KodeWorks Eiendom AS, men trenger bekreftelse)
+
+**Berørte filer:** Listet over. Ingen scripts eller datafiler.
+
+**Estimat:** 30–45 min etter at inputene over er avklart.
+
+**Brukerens inputs 30.06.2026:**
+1. Panthaver for 15,5 MNOK pantelån: **DNB**
+2. Aksjonærgaranti / likviditetsbuffer DSCR år 1: **0,5 MNOK kontant buffer fra KodeWorks Eiendom AS** (anbefalt opsjon)
+
+**Løst 30.06.2026.** Alle ni punkter implementert:
+
+1. **DNB navngitt som panthaver** i bankhenvendelse 00 to steder: faktaboks (linje «Eksisterende pantelån, DNB») og status-tabell-linje («Håndteres med DNB som eksisterende panthaver»).
+
+2. **Bankeksponering leder med 31,3 MNOK** i bankhenvendelse 00 faktaboks: «**~31,3 MNOK** (fullt scenariospenn 25–37 MNOK i finansieringsplan 4.2)» – tre agenter etterspurte denne strammingen.
+
+3. **Fisjon utvidet i forretningsplan 1.1:** Fra «skattefri etter skatteloven § 11-4 (skattemessig kontinuitet, konsernintern fisjon med samme aksjonærer)» til «skattenøytral med kontinuitet etter skatteloven §§ 11-4 og 11-7 (konsernintern fisjon med samme aksjonærer), og gjennomføres etter aksjelovens kapittel 14 (fisjonsplan, kreditorvarsel 6 uker, melding til Foretaksregisteret)». Adresserer Juristens hovedinnvending fra iter 5.
+
+4. **Kontant likviditetsbuffer 0,5 MNOK fra KodeWorks Eiendom AS** lagt inn i finansieringsplan 4.4 tre steder:
+   - DSCR-bane-tabell kommentar for år 2028: «rentedekning sikret av kontant likviditetsbuffer 0,5 MNOK fra KodeWorks Eiendom AS»
+   - DSCR-bane-beskrivelse: «shortfall mot rentedekning (~0,19 MNOK) dekkes av en kontant likviditetsbuffer på 0,5 MNOK satt av ved oppstart fra KodeWorks Eiendom AS. Bufferen gir margin også ved noe svakere lease-up enn forutsatt»
+   - Mitigerende tiltak: ny bullet «Kontant likviditetsbuffer 0,5 MNOK satt av ved oppstart fra KodeWorks Eiendom AS – dekker DSCR-shortfall i driftsår 1 (~0,19 MNOK) med margin»
+
+5. **Skriftlig KMF-bruksendring** klargjort i støtteoversikt 3.1: «Skriftlig bekreftelse fra KMF på godkjent bruksendring holdes klar for fremleggelse som del av en eventuell etterfølgende lånesøknad.»
+
+6. **Enova-kontekstnote i 3.4 (energikartlegging):** Ny avsnitt om regnskaps- og skattemessig behandling – prosjektperiode 25.02.2026 – 25.10.2026 i prosjekteringsfase, kostnad aktiveres på driftsmidlet per rskl. § 5-4 / NRS 4, sktl. § 14-42 (3) gjelder.
+
+7. **Enova-kontekstnote i 3.5 (ombrukskartlegging):** Tilsvarende avsnitt med prosjektperiode 25.02.2026 – 25.12.2026.
+
+8. **GBER art. 53 korrigert i støtteoversikt 6.1:** Presisert at KMF-vedtektenes 70 % er det styrende taket for FG30 (driver kravet om 30 % privat medfinansiering), og at EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 tillater opptil 80 % for kulturarvprosjekter med driftselement men at KMF-vedtektenes 70 % er den lavere og dermed styrende grensen.
+
+9. **Sktl. § 14-42 (3) bundet til hele tilskuddspotten** i tilskudd-som-EK kap. 3.1: Ny avsnitt «Anvendelse for FG30s tilskuddspott» binder KMF, BYA, UNI og begge Enova-tilskudd under samme regnskaps- og skattemessige regime, med eksplisitt redegjørelse for at Enova-kartleggingsprosjektene løper i prosjekteringsfasen.
+
+Iter 5-anbefalinger annotert som ADRESSERT i `bank/reviews/2026-06-30_bank_review_002.md` (kategori 1 nr. 1, 2, 3, 4 og kategori 2 nr. 5, 6, 7). Jurist nr. 4 spesifikt markert som AVVIST i premiss, adressert med kontekst-supplement.

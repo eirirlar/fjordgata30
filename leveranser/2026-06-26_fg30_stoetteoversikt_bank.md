@@ -63,7 +63,7 @@ Konsekvensene for prosjektets likviditet er:
 **Støtteberettiget budsjett:** 2 500 000 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot framdriftsrapport med fotodokumentasjon
 
-Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet – tiltakene er knyttet til byggets bærekonstruksjon, uavhengig av hva bygget brukes til etter rehabilitering. KMF har vært samarbeidspart gjennom hele planleggingsperioden. Endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager) er godkjent av KMF som innenfor tilskuddets formål.
+Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 1. etasje. Støtteberettigede kostnader er direkte håndverkertjenester til bæresystemet – tiltakene er knyttet til byggets bærekonstruksjon, uavhengig av hva bygget brukes til etter rehabilitering. KMF har vært samarbeidspart gjennom hele planleggingsperioden. Endringsmelding 25.06.2026 om endret formålsbruk (fra kontor til minilager) er godkjent av KMF som innenfor tilskuddets formål. Skriftlig bekreftelse fra KMF på godkjent bruksendring holdes klar for fremleggelse som del av en eventuell etterfølgende lånesøknad.
 
 ---
 
@@ -101,6 +101,8 @@ Stiftelsen UNI støtter brannsikringstiltakene. Utbetaling krever revisorbekreft
 
 Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 2612200) er ferdigstilt etter NS 3031:2025. Sluttrapport er klar for innlevering til Enova.
 
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.10.2026 løper i sin helhet i prosjekteringsfasen, godt før byggets ferdigstillelse (Q3 2027). Kostnaden til energikartleggingen inngår i byggets prosjekteringskostnad og aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Enova-tilskuddet behandles regnskaps- og skattemessig som tilskudd til erverv av driftsmiddel etter skatteloven § 14-42 (3) – på linje med tilskuddene fra KMF, BYA og UNI (se også pkt. 4.2).
+
 ---
 
 ### 3.5 Enova – Ombrukskartlegging – 500 000 NOK
@@ -111,6 +113,8 @@ Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 
 **Utbetaling:** Etterskuddsvis (20 % holdes tilbake til sluttrapport er godkjent)
 
 Ombrukskartleggingen dokumenterer bygningsdeler og materialer som kan gjenbrukes i rehabiliteringen – originalt laftet treverk, bærende tømmer og historiske konstruksjonselementer. Rapport under utarbeidelse.
+
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.12.2026 løper i sin helhet i prosjekteringsfasen, før byggets ferdigstillelse (Q3 2027). Kostnaden aktiveres på driftsmidlet per regnskapsloven § 5-4 / NRS 4, og Enova-tilskuddet behandles etter skatteloven § 14-42 (3) på linje med øvrige investeringstilskudd (se også pkt. 4.2).
 
 ---
 
@@ -211,7 +215,7 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 
 ### 6.1 Kort om kumulering og statsstøtteregelverket
 
-Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak – for kulturminnerehabilitering er taket 70 % samlet intensitet. Dette taket korresponderer med Kulturminnefondets vedtekter (FOR-2003-06-27-801) og EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne, som Norge er bundet av gjennom EØS-avtalens art. 61.
+Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak. For FG30 er **Kulturminnefondets vedtekter (FOR-2003-06-27-801) det styrende rammeverket med et tak på 70 % samlet støtteintensitet** – det er kravet om minimum 30 % privat medfinansiering som faller ut av KMF-vedtektene. EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne åpner for opptil 80 % intensitet for kulturarvprosjekter med driftselement, og Norge er bundet av rammeverket gjennom EØS-avtalens art. 61. KMF-vedtektenes 70 %-tak er imidlertid den lavere og dermed styrende grensen for FG30.
 
 Samlet bekreftet tilskuddsbeløp utgjør ~7,5 % av total byggekostnad (2,25 MNOK / 30 MNOK), og maksimalt potensial inkludert alle pågående søknader utgjør ~33–43 % – godt innenfor 70 %-taket på prosjektnivå.
 
