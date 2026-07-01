@@ -1,0 +1,4 @@
+prosjekt_nr,prosjekt_navn,faktura_nr,fakturadato,forfall,belop_eks_mva,belop_inkl_mva,betalt,restbelop,status,kunde
+2601,Fjordgata_Minilager,1621,2026-01-31,2026-03-01,105192.00,131490.00,0.00,131490.00,Sendt som EHF-faktura 2026-02-03,Kodeworks Eiendom AS (10077)
+2601,Fjordgata_Minilager,1646,2026-02-27,2026-03-29,24700.00,30875.00,0.00,30875.00,Sendt som EHF-faktura 2026-03-02,Kodeworks Eiendom AS (10077)
+2601,Fjordgata_Minilager,1697,2026-03-31,2026-04-30,2988.00,3735.00,0.00,3735.00,Sendt som EHF-faktura 2026-04-08,Kodeworks Eiendom AS (10077)

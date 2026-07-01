@@ -500,7 +500,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^62]: `bakgrunn/2026-04-17_2gangs_innkreving_tvangsmulkt.md` – TBRTs 2. innkreving av tvangsmulkt (periode 19.03–14.04.2026, NOK 54 000), 17.04.2026.
 
-[^63]: `bakgrunn/stotte/enova_kl/hrp_energikartlegging_rapport.md` – HRP/RiEn, energikartlegging og energimerking Fjordgata 30. Energikarakter G, 252 000 kWh/år. 12 tiltak med kostnader og besparelser.
+[^63]: `bakgrunn/stotte/enova_kl/energikartleggingsrapport.md` – HRP/RiEn, energikartlegging og energimerking Fjordgata 30. Energikarakter G, 252 000 kWh/år. 12 tiltak med kostnader og besparelser.
 
 [^64]: `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md` – TBRTs 3. innkreving av tvangsmulkt (periode 15.04–31.05.2026, NOK 94 000), 03.06.2026.
 

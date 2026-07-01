@@ -130,4 +130,4 @@ Skattedirektoratets konklusjon identifiserer hvilke egenskaper som skiller fast 
 
 **Konklusjon for FG30:** Bygg full-service-tieren slik at den er materielt forskjellig fra selvbetjent minilager. Dokumentér driftsmodellen (operatørtilgang, aktiv håndtering, bevegelse av varer) og sørg for at kontraktsvilkårene gjenspeiler dette.
 
-**Se også:** `forretningsplan/fg30_vurderinger_mva.md` (MVA-strategi), `forretningsplan/lover/mval_3-11_fast_eiendom.md`
+**Se også:** `forretningsplan/mva_strategi.md` (MVA-strategi), `forretningsplan/lover/mval_3-11_fast_eiendom.md`

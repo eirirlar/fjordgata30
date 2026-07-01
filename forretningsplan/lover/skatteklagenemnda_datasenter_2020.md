@@ -105,4 +105,4 @@ Dersom FG30 tilbyr:
 
 **Kontrast til prinsipputtalelse 2014:** Der er det passive selvbetjente minilager (eksklusiv tilgang, eget lås, leietakers risiko) som ble ansett som avgiftsunntatt fast eiendom. FG30s full-service-tier skal aktivt skille seg fra dette mønsteret.
 
-**Se også:** `prinsipputtalelse_2014_minilager.md`, `forretningsplan/fg30_vurderinger_mva.md`
+**Se også:** `prinsipputtalelse_2014_minilager.md`, `forretningsplan/mva_strategi.md`

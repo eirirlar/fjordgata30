@@ -7,7 +7,7 @@
 
 ## Sammendrag
 
-Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjennes av norske banker som **egenkapitallignende finansiering** ved prosjektvurdering av næringseiendom. Grunnlaget er:
+Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjennes av norske banker som egenkapitallignende finansiering ved prosjektvurdering av næringseiendom. Grunnlaget er:
 
 1. **Regnskapsrettslig (NRS 4, regnskapsloven § 6-2):** Investeringstilskudd klassifiseres som utsatt inntekt, ikke gjeld, og reduserer netto finansieringsbehov – den reelle egenkapitalandelen styrkes.
 2. **Skattemessig (skatteloven § 14-42 (3)):** Tilskuddet reduserer avskrivningsgrunnlaget fremfor å skattlegges direkte som inntekt. Skatteeffekten er dermed utsatt og over lang tid ubetydelig for bygg med lav avskrivningssats.
@@ -20,7 +20,7 @@ Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, 
 
 ### 1.1 Finansavtaleloven (LOV-2020-12-18-146)
 
-Finansavtaleloven trådte i kraft 1. januar 2023. Den gjennomfører EUs boliglåndirektiv (2014/17/EU) og forbrukerkredittdirektiv, og regulerer primært **forbrukerlån**. For næringslån gjelder loven i begrenset utstrekning:
+Finansavtaleloven trådte i kraft 1. januar 2023. Den gjennomfører EUs boliglåndirektiv (2014/17/EU) og forbrukerkredittdirektiv, og regulerer primært forbrukerlån. For næringslån gjelder loven i begrenset utstrekning:
 
 - **§ 1-5 (virkeområde):** Loven gjelder i utgangspunktet for kredittavtaler med forbrukere. Næringsdrivende parter kan avtale fravik (§ 1-5 (3)).
 - **§ 3-1 (kredittvurdering):** Forbrukernes kredittvurderingsregler gjelder ikke direkte for næringslån, men finansforetaksloven og EBA-retningslinjene pålegger bankene tilsvarende krav til forsvarlig kredittvurdering for næringsengasjementer.
@@ -51,12 +51,12 @@ EBAs retningslinjer («Guidelines on loan origination and monitoring», EBA/GL/2
 
 ### 2.1 Regnskapsloven § 6-2 – oppstillingsplan for balansen
 
-Regnskapsloven § 6-2 (LOV-1998-07-17-56) fastsetter standard balanseoppsett. Tilskudd klassifiseres **ikke** under egenkapitalposter (§ 6-2 I) etter norsk god regnskapsskikk. Et investeringstilskudd klassifiseres i stedet typisk som:
+Regnskapsloven § 6-2 (LOV-1998-07-17-56) fastsetter standard balanseoppsett. Tilskudd klassifiseres ikke under egenkapitalposter (§ 6-2 I) etter norsk god regnskapsskikk. Et investeringstilskudd klassifiseres i stedet typisk som:
 
 - **Utsatt inntekt** under langsiktig gjeld (§ 6-2 II D), eller
 - Inntektsføres løpende som «annen driftsinntekt» i takt med avskrivningene
 
-Tilskuddet er regnskapsmessig en **forpliktelse av typen utsatt inntekt**, ikke en egenkapitalpost. Den reelle egenkapitalandelen styrkes likevel, fordi tilskuddet reduserer netto gjeld og øker prosjektets netto bokverdi.
+Tilskuddet er regnskapsmessig en forpliktelse av typen utsatt inntekt, ikke en egenkapitalpost. Den reelle egenkapitalandelen styrkes likevel, fordi tilskuddet reduserer netto gjeld og øker prosjektets netto bokverdi.
 
 ### 2.2 NRS 4 Offentlige tilskudd
 
@@ -80,17 +80,18 @@ Norsk god regnskapsskikk (NRS 4) tillater kun bruttoføring. IFRS (IAS 20) tilla
 
 ### 3.1 Skatteloven § 14-42 (3) – reduksjon av avskrivningsgrunnlag
 
-Det sentrale skatterettslige regelverket for investeringstilskudd er **skatteloven § 14-42 (3)** (LOV-1999-03-26-14):
+Det sentrale skatterettslige regelverket for investeringstilskudd er skatteloven § 14-42 (3) (LOV-1999-03-26-14):
 
 > Mottatte tilskudd til erverv av driftsmiddel reduserer avskrivningsgrunnlaget (saldoen) for det aktuelle driftsmidlet med det mottatte beløpet.
 
 Praktisk virkning:
+
 - Driftsmidlet (bygget) aktiveres til full anskaffelseskostnad
-- Mottatt investeringstilskudd **reduserer saldoen** tilsvarende
+- Mottatt investeringstilskudd reduserer saldoen tilsvarende
 - Tilskuddet skattlegges ikke som inntekt i mottaksåret – skatteeffekten tas i stedet ut gjennom lavere fremtidige avskrivningsfradrag
 - Effekten er en utsatt skattemessig kostnad, ikke en umiddelbar skattepliktig inntekt
 
-For **forretningsbygg** (saldogruppe i, 2 % avskrivning per år) er den årlige skatteeffekten av redusert saldo svært liten – i størrelsesorden 0,4–0,5 % av tilskuddsbeløpet per år. Tilskuddet er dermed tilnærmet skattenøytralt over en lang planleggingshorisont.
+For forretningsbygg (saldogruppe i, 2 % avskrivning per år) er den årlige skatteeffekten av redusert saldo svært liten – i størrelsesorden 0,4–0,5 % av tilskuddsbeløpet per år. Tilskuddet er dermed tilnærmet skattenøytralt over en lang planleggingshorisont.
 
 **Anvendelse for FG30s tilskuddspott:** Alle FG30s innvilgede tilskudd – Kulturminnefondet (sikringstiltak), Byantikvaren (verneverdig bebyggelse), Stiftelsen UNI (brannsikring) og Enovas energi- og ombrukskartleggingstilskudd – refunderer kostnader som er en del av byggeprosjektets kostnadsbase og som aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4.
 
@@ -102,7 +103,7 @@ Skatteloven § 14-42 (3) gir dermed konsistent virkning for hele tilskuddspotten
 
 ### 3.2 Skatteloven § 5-30 – tilskudd og næringsinntekt
 
-Tilskudd til næringsvirksomhet er i utgangspunktet **skattepliktig inntekt** etter skatteloven § 5-30. For investeringstilskudd er imidlertid § 14-42 (3) det spesielle regelverket som styrer behandlingen – tilskuddet beskattes ikke som løpende inntekt, men gjennom redusert saldo (se pkt. 3.1).
+Tilskudd til næringsvirksomhet er i utgangspunktet skattepliktig inntekt etter skatteloven § 5-30. For investeringstilskudd er imidlertid § 14-42 (3) det spesielle regelverket som styrer behandlingen – tilskuddet beskattes ikke som løpende inntekt, men gjennom redusert saldo (se pkt. 3.1).
 
 **Driftstilskudd** (tilskudd av driftskarakter) skattlegges derimot som vanlig næringsinntekt i mottaksåret.
 
@@ -110,7 +111,7 @@ Tilskudd til næringsvirksomhet er i utgangspunktet **skattepliktig inntekt** et
 
 Det finnes ikke noe generelt skattefritak i skatteloven for tilskudd til rehabilitering av vernede bygg. Skatteloven § 5-50 (tilfeldig inntekt) og § 14-70 (betinget skattefritak ved ufrivillig realisasjon) er ikke relevante for planlagte prosjekttilskudd.
 
-For **formelt fredede kulturminner** (fredet etter kulturminneloven §§ 15, 19–20) kan tilskudd etter Forskrift FOR-2021-08-13-2508 i noen tilfeller ha en spesifikk skattemessig behandling avhengig av formål og utforming – dette bør avklares med regnskapsfører i det konkrete tilfellet. Verneklasse-betegnelser i kommunale planer (f.eks. verneklasse B) gir ikke i seg selv skattefritak.
+For formelt fredede kulturminner (fredet etter kulturminneloven §§ 15, 19–20) kan tilskudd etter Forskrift FOR-2021-08-13-2508 i noen tilfeller ha en spesifikk skattemessig behandling avhengig av formål og utforming – dette bør avklares med regnskapsfører i det konkrete tilfellet. Verneklasse-betegnelser i kommunale planer (f.eks. verneklasse B) gir ikke i seg selv skattefritak.
 
 ---
 
@@ -133,6 +134,7 @@ Norsk bankpraksis ved prosjektfinansiering av rehabilitering av næringseiendom 
 ### 4.3 Sammenlignbare prosjekttyper
 
 Mønsteret er etablert gjennom praksis i:
+
 - Rehabilitering av eldre industri- og næringsbygg med Enova-tilskudd
 - BREEAM-sertifiserte prosjekter finansiert med grønne lån
 - Rehabilitering av vernede bygg og bygårder i norske byer med kombinert KMF/Byantikvaren-tilskudd og bankfinansiering
@@ -157,6 +159,7 @@ Basert på EBA/GL/2020/06 og etablert norsk bankpraksis vil banker normalt kreve
 ### 5.2 Tilbakebetalingsklausuler som betinget gjeld
 
 Banker vil vurdere tilskuddenes tilbakebetalingsrisiko. Typiske tilbakebetalingsvilkår i offentlige tilskudd til næringseiendom:
+
 - Vesentlige prosjektendringer uten tilskuddsgivers godkjenning
 - Salg av eiendommen i strid med tilskuddsformålet
 - Opphør av den tilskuddsberettigede aktiviteten innen en bestemt periode
@@ -166,6 +169,7 @@ Slike klausuler utgjør en betinget gjeld og bør opplyses banken. Tilbakebetali
 ### 5.3 Utbetalingsstatus og vektlegging
 
 Banker skiller mellom:
+
 - **Bevilget, ikke utbetalt:** Anerkjennes med noe forsiktighet – tilskuddsgiver har vedtaksrett til å trekke tilskuddet dersom vilkår ikke oppfylles
 - **Bevilget og delvis utbetalt:** Anerkjennes fullt for utbetalt del; bevilget rest vektes noe lavere
 - **Bevilget og fullt utbetalt:** Anerkjennes fullt som reduksjon i nettoeksponering
@@ -174,7 +178,7 @@ Banker skiller mellom:
 
 ## 6. Konklusjon
 
-Offentlige investeringstilskudd til næringseiendom er **ikke egenkapital** i regnskapsmessig forstand (NRS 4, regnskapsloven § 6-2), men anerkjennes av norske banker som **egenkapitallignende finansiering** på grunnlag av:
+Offentlige investeringstilskudd til næringseiendom er ikke egenkapital i regnskapsmessig forstand (NRS 4, regnskapsloven § 6-2), men anerkjennes av norske banker som egenkapitallignende finansiering på grunnlag av:
 
 1. **EBA/GL/2020/06 (avsnitt 5.2.7, 6.1):** Banken skal kartlegge alle finansieringskilder, inkludert bekreftede tilskudd. Hvordan den enkelte finansieringskilde vektes i kredittvurderingen, styres av bankens interne kredittpolicy.
 2. **Skatteloven § 14-42 (3):** Tilskuddet binder seg til byggets skattemessige verdi gjennom redusert avskrivningsgrunnlag, og skaper ikke umiddelbar skattebyrde – det styrker byggverdien.

@@ -12,7 +12,7 @@
 | **Box2Box** | Spania, Portugal, Mexico | Henting → pakking → lager → levering på bestilling. App-basert. Volumbasert pris. | Alternativ C og E |
 | **Stash Storage** | USA (NC + SC) | Bokser til kunden → henting → katalogisering → levering innen 24–48t. | Alternativ C |
 
-**Hovedfunn:** Vinden gjør *nøyaktig* det `fg30_vurderinger_mva.md` kaller Alternativ C i Norge i dag – og har gjort det i mange år (8 000+ kunder, 75 000+ hentinger). Alternativ C er altså ikke uprøvd eller eksperimentelt i norsk kontekst. Det er en etablert forretningsmodell med norsk aktør i drift.
+**Hovedfunn:** Vinden gjør *nøyaktig* det `mva_strategi.md` kaller Alternativ C i Norge i dag – og har gjort det i mange år (8 000+ kunder, 75 000+ hentinger). Alternativ C er altså ikke uprøvd eller eksperimentelt i norsk kontekst. Det er en etablert forretningsmodell med norsk aktør i drift.
 
 ---
 
@@ -60,7 +60,7 @@ Prisen justeres automatisk etter faktisk lagret volum – ingen fast størrelse 
 
 ### Relevans for FG30
 
-Vinden er **bevis nr. 1** på at Alternativ C er en fungerende, kommersielt levedyktig modell i det norske markedet. Modellen er nesten identisk med det `fg30_vurderinger_mva.md` beskriver under Alternativ C: ingen eksklusiv bod, operatøren håndterer varene, kunden bestiller via digital flate. Vinden opererer sannsynligvis som avgiftspliktig tjenesteleverandør i Norge – ikke som passiv utleier.
+Vinden er **bevis nr. 1** på at Alternativ C er en fungerende, kommersielt levedyktig modell i det norske markedet. Modellen er nesten identisk med det `mva_strategi.md` beskriver under Alternativ C: ingen eksklusiv bod, operatøren håndterer varene, kunden bestiller via digital flate. Vinden opererer sannsynligvis som avgiftspliktig tjenesteleverandør i Norge – ikke som passiv utleier.
 
 ---
 
@@ -138,7 +138,7 @@ Stash illustrerer den «boks-baserte» varianten av valet storage der kunden pak
 
 **Ja – Vinden.**
 
-Vinden opererer i Norge med en modell som er punkt-for-punkt identisk med Alternativ C i `fg30_vurderinger_mva.md`:
+Vinden opererer i Norge med en modell som er punkt-for-punkt identisk med Alternativ C i `mva_strategi.md`:
 
 | Kjennetegn på Alternativ C | Vinden |
 |---|---|
@@ -153,7 +153,7 @@ Det finnes ingen lokal konkurrent i Trondheim som tilbyr dette. Alle tradisjonel
 
 ## 6. Hvorfor anbefaler MVA-notatet å starte med Alternativ D og ikke C direkte?
 
-`fg30_vurderinger_mva.md` anbefaler D som startpunkt av **operasjonelle** grunner, ikke fordi C er juridisk uprøvd:
+`mva_strategi.md` anbefaler D som startpunkt av **operasjonelle** grunner, ikke fordi C er juridisk uprøvd:
 
 | Begrunnelse i notatet | Vurdering etter konkurransekartlegging |
 |---|---|

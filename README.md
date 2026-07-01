@@ -346,7 +346,7 @@ Parametere (Gaussisk bredde, volum-korreksjonsfaktorer) justeres i `data/comp_we
 
 ```bash
 cd forretningsplan
-pandoc fg30_forretningsplan.md -o fg30_forretningsplan.docx
+pandoc forretningsplan.md -o fg30_forretningsplan.docx
 uv run --with python-docx python ../scripts/format_docx.py fg30_forretningsplan.docx
 ```
 
@@ -482,11 +482,11 @@ fjordgata30/
 ├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter
 ├── brann/                     – branndokumentasjon og TBRT-korrespondanse
 ├── forretningsplan/           – forretningsplan, MVA-vurderinger og markedsdata
-│   ├── fg30_forretningsplan.md          – fullstendig forretningsplan (bankpresentasjon)
-│   ├── fg30_vurderinger_mva.md          – MVA-strategi og alternativer
+│   ├── forretningsplan.md          – fullstendig forretningsplan (bankpresentasjon)
+│   ├── mva_strategi.md          – MVA-strategi og alternativer
 │   ├── fg30_selskapsstruktur_mva.md     – bygge-AS vs. drifts-AS: MVA-konsekvenser (T76)
 │   ├── fg30_konkurrentanalyse_valet.md  – detaljert analyse av Vinden, Box2Box, Stash (T79)
-│   ├── kilde_markedsdata.md             – konkurrentanalyse og markedsdata Trondheim
+│   ├── konkurrentanalyse_og_markedsdata.md             – konkurrentanalyse og markedsdata Trondheim
 │   ├── kilde_mva_regelverk.md           – lovhenvisninger og prinsipputtalelser
 │   └── lover/                           – nedlastede lovtekster og prinsipputtalelser (verbatim)
 │       ├── mval_2-1_registreringsplikt.md

@@ -78,7 +78,7 @@ Kulturminnefondet støtter rehabiliteringen av bærekonstruksjonen i kjeller og 
 **Støtteberettiget budsjett:** 1 666 667 NOK (revidert iht. endringsanmodning 25.06.2026)  
 **Utbetaling:** Etterskuddsvis mot rapport med beskrivelse, foto og betalt faktura (Vedlegg 2-skjema)
 
-Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom hele planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak – kravet ligger fast uavhengig av bruksformål etter rehabilitering. Endringsmelding om endret bruk er sendt 25.06.2026 og godkjent av Byantikvaren som innenfor tilskuddets formål. Byantikvaren skal i tillegg avgi uttalelse om solceller ved igangsettingssøknad.
+Byantikvaren er aktiv samarbeidspart og har veiledet arkitektene gjennom hele planprosessen. Tilskuddet forutsetter antikvarisk forsvarlig utførelse av bæretiltak – kravet ligger fast uavhengig av bruksformål etter rehabilitering. Endringsmelding om endret bruk er sendt 25.06.2026 og godkjent av Byantikvaren som innenfor tilskuddets formål.
 
 ---
 
@@ -122,27 +122,25 @@ Ombrukskartleggingen dokumenterer bygningsdeler og materialer som kan gjenbrukes
 
 ## 4. Juridisk grunnlag – tilskudd som egenkapitallignende finansiering
 
-Offentlige tilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjennes av norske banker som egenkapitallignende finansiering. Grunnlaget er:
+Offentlige tilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjennes av norske banker som egenkapitallignende finansiering.
 
 ### 4.1 Regnskapsrettslig behandling (NRS 4, regnskapsloven § 6-2)
 
-Etter Norsk RegnskapsStandard 4 (NRS 4 Offentlige tilskudd, 2008) behandles investeringstilskudd som **utsatt inntekt** i balansen (regnskapsloven § 6-2), ikke som gjeld med tilbakebetalingsplikt. For avskrivbare driftsmidler inntektsføres tilskuddet over byggets levetid i takt med avskrivningene. Tilskuddet er dermed ikke egenkapital på papiret, men reduserer netto gjeldsbyrde og styrker den reelle egenkapitalandelen.
+Investeringstilskudd klassifiseres som utsatt inntekt, ikke gjeld. Tilskuddet er dermed ikke egenkapital regnskapsmessig, men reduserer netto gjeldsbyrde og styrker den reelle egenkapitalandelen. Utdyping i vedlegg «Tilskudd som egenkapital», kap. 2.
 
 ### 4.2 Skattemessig behandling (skatteloven § 14-42 (3))
 
-Etter skatteloven § 14-42 (3) reduserer et investeringstilskudd avskrivningsgrunnlaget (saldoen) for det aktuelle driftsmidlet. Tilskuddet skattlegges dermed **ikke direkte som inntekt**, men binder seg til byggverkets skattemessige verdi og gir en utsatt, ikke umiddelbar, skatteffekt. For forretningsbygg (saldogruppe i, 2 % avskrivning) er denne effekten svært liten per år, slik at tilskuddet i praksis er tilnærmet skattenøytralt.
+Tilskuddet reduserer avskrivningsgrunnlaget for driftsmidlet fremfor å skattlegges direkte som inntekt. For forretningsbygg (2 % avskrivning) er den årlige skatteeffekten svært liten, slik at tilskuddet i praksis er tilnærmet skattenøytralt. Utdyping i vedlegg «Tilskudd som egenkapital», kap. 3.
 
 ### 4.3 Bankpraksis og EBA-retningslinjer (EBA/GL/2020/06)
 
-EBA-retningslinjer for utlånspraksis (EBA/GL/2020/06, gjeldende fra 30. juni 2021) regulerer norske bankers kredittvurdering. Avsnitt 5.2.7 (næringseiendom) og avsnitt 6.1 (LTV) åpner for at bankene tar hensyn til bevilgede og dokumenterte offentlige tilskudd ved beregning av effektiv LTV. Bekreftet tilskudd reduserer bankens nettoeksponering mot eiendommen og kan tas i betraktning som reduksjon i nettoeksponering i LTV-beregningen.
+EBA-retningslinjene regulerer norske bankers kredittvurdering. Avsnitt 5.2.7 (næringseiendom) og 6.1 (LTV) åpner for at bankene tar hensyn til bevilgede tilskudd i vurderingen av nettoeksponering. Utdyping i vedlegg «Tilskudd som egenkapital», kap. 1.3 og 4.
 
-### 4.4 Kulturminnefondets eget krav som kredibilitetsmarkør
+KMF krever minimum 30 % privat medfinansiering for kostnadene i sitt godkjente prosjektbudsjett. At FG30 har passert denne vurderingen er et signal til banken om at statlig fagmyndighet har gått god for finansieringsstrukturen for kulturminneelementet.
 
-Kulturminnefondet krever etter sine vedtekter (FOR-2003-06-27-801, kapittel 5) at minimum 30 % av prosjektkostnaden finansieres privat. At KMF har innvilget tilskudd til FG30, er et signal til banken om at statlig fagmyndighet har gjennomgått prosjektets finansieringsstruktur og funnet den solid nok til å støtte.
+### 4.4 Bindende vilkår i tilsagnene
 
-### 4.5 Tilbakebetalingsrisiko og betingelser
-
-Tilskuddene har tilbakebetalingsvilkår typisk knyttet til vesentlige endringer i bygget uten godkjenning eller opphør av tilskuddsformålet. Tilbakebetalingsrisikoen vurderes som lav gitt at prosjektet gjennomføres som planlagt. Betingelsene opplyses banken og kan vedlegges lånesøknaden.
+Tilsagnene er bindende og utbetales i henhold til utbetalingsmekanismene beskrevet i kap. 2. Vilkårene knytter tilskuddet til gjennomføring i tråd med vedtaket — dvs. vesentlige endringer uten godkjenning eller opphør av tilskuddsformålet kan utløse tilbakebetalingskrav. FG30 gjennomfører prosjektet i henhold til tilsagnsvedtakene, og vilkårene vurderes derfor som lav operasjonell risiko. Vilkårene er dokumentert i de fem tilsagnsbrevene og kan fremlegges.
 
 **Detaljert juridisk utredning:** Se separat vedlegg «Juridisk utredning – tilskudd som egenkapitallignende finansiering» med paragrafhenvisninger til NRS 4, regnskapsloven § 6-2, skatteloven §§ 5-30 og 14-42 (3), finansforetaksloven § 13-5 og EBA/GL/2020/06.
 
@@ -217,11 +215,17 @@ Tabellen under viser prosjektets finansieringsstruktur basert på bekreftede til
 
 ### 6.1 Kort om kumulering og statsstøtteregelverket
 
-Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak. For FG30 er **Kulturminnefondets vedtekter (FOR-2003-06-27-801) det styrende rammeverket med et tak på 70 % samlet støtteintensitet** – det er kravet om minimum 30 % privat medfinansiering som faller ut av KMF-vedtektene. EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne åpner for opptil 80 % intensitet for kulturarvprosjekter med driftselement, og Norge er bundet av rammeverket gjennom EØS-avtalens art. 61. KMF-vedtektenes 70 %-tak er imidlertid den lavere og dermed styrende grensen for FG30.
+Hver tilskuddsordning har sitt eget godkjente budsjett og støtteintensitet (oppgitt per ordning i kap. 3). Tilskudd fra flere ordninger kan kombineres på samme kostnad innenfor statsstøtteregelverkets tak. Hvilket tak som gjelder, avhenger av kostnadens art:
 
-Samlet bekreftet tilskuddsbeløp utgjør ~7,5 % av total byggekostnad (2,25 MNOK / 30 MNOK), og maksimalt potensial inkludert alle pågående søknader utgjør ~33–43 % – godt innenfor 70 %-taket på prosjektnivå.
+- **Kostnader innenfor Kulturminnefondets godkjente prosjektbudsjett** (bæretiltak i kjeller og 1. etasje, jf. 3.1): Kulturminnefondets vedtekter (FOR-2003-06-27-801) setter tak på 70 % samlet støtteintensitet – tilsvarende kravet om minimum 30 % privat medfinansiering.
+- **Øvrige kulturarv-relaterte kostnader utenfor KMF-budsjettet:** EØS/GBER (Commission Regulation (EU) 651/2014) art. 53 om støtte til kulturminne åpner for inntil 80 % intensitet for kulturarvprosjekter med driftselement.
+- **Andre kostnadstyper** (energitiltak, brannsikring mv.) reguleres av tilhørende artikler i GBER (bl.a. art. 38 om energieffektivisering) med egne intensitetstak.
 
-Operativ kumulering håndteres per bilag/timekostnad ved utbetalingsanmodning, via prosjektets etablerte støttekoordineringssystem (`stotte/project_cards.json` med automatisk kombinert-intensitet-beregning). En statisk forhåndskalkulasjon av allokering per ordning er ikke meningsfull før prosjektet har faktiske fakturaer å fordele.
+Norge er bundet av rammeverket gjennom EØS-avtalens art. 61.
+
+Samlet bekreftet tilskuddsbeløp utgjør ~7,5 % av total byggekostnad (2,25 MNOK / 30 MNOK), og maksimalt potensial inkludert alle pågående søknader utgjør ~33–43 % — godt innenfor alle relevante intensitetstak, uansett hvilken kostnadskategori de faller under.
+
+Operativ kumulering håndteres per bilag/timekostnad ved utbetalingsanmodning, via prosjektets etablerte støttekoordineringssystem med automatisk kombinert-intensitet-beregning. En statisk forhåndskalkulasjon av allokering per ordning er ikke meningsfull før prosjektet har faktiske fakturaer å fordele.
 
 ---
 
