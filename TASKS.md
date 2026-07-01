@@ -282,3 +282,59 @@ Konkret gjennomføring:
 
 - SAAHA og HRP holdes **separat** i egne CSV-filer (`saaha_*` og `hrp_*`) for å bevare leverandørskille. En eventuell samlet leverandøraggregering kan bygges oppå CSV-ene senere.
 - CSV-skjema over kan gjenbrukes for nye SAAHA-timelister (bare re-kjør scriptet med ny PDF).
+
+---
+
+### T139 `[ ]` BFU (bindende forhåndsuttalelse) til Skatteetaten – MVA-klassifisering av Alternativ D
+
+**Mottaker:** Skatteetaten (bindende forhåndsuttalelse, jf. skatteforvaltningsloven kap. 6)
+**Ansvarlig:** Eirik + engasjert MVA-spesialist (advokat/rådgiver)
+**Planlagt sendt:** Q3 2026 (per fremdriftsplan i forretningsplan 10)
+
+**Bakgrunn:** Hele MVA-strategien (dok. 03) hviler på at Alternativ D — hybridmodellen hvor full-service-delen (valet storage, ~70 % av enhetene) klassifiseres som avgiftspliktig aktiv lagringstjeneste etter mval. § 3-1 — blir godkjent av Skatteetaten. Klassifiseringen kan ikke fastslås endelig gjennom tekstuell drøfting alene; den må bekreftes gjennom en bindende forhåndsuttalelse.
+
+**Konsekvens av utfall:**
+
+- **Positivt utfall (Alternativ D bekreftet):** 80 % basis MVA-dekning / 6,0 MNOK refusjon (opptil 6,75–7,125 MNOK ved full hybriddekning). Bankens LTV-beregning basert på scenariomatrise i finansieringsplan 4.2 og 7.2 gjelder som beskrevet.
+- **Negativt utfall (full-service-delen omklassifiseres til passiv utleie):** Prosjektet faller tilbake til Alternativ A/B med kun frivillig registrering for B2B-lagerdelen (~30 %) og kontor. Konsekvens: ~2,25 MNOK MVA-refusjon (30 % av 7,5 MNOK) i stedet for 6,0. Tap: ~3,75 MNOK. Fallback-scenarioet er dokumentert i finansieringsplan 7.2 (BFU-utfall-sensitivitet) og MVA-strategi 7.
+- **Delvis positivt utfall:** BFU aksepterer aktiv-tjeneste-klassifisering for full-service, men med tilleggsvilkår om drift, dokumentasjon eller arealallokering. Kan kreve tilpasning av forretningsmodellen.
+
+**Hva som må gjøres:**
+
+1. **Engasjér MVA-spesialist.** Advokat eller skatterådgiver med dokumentert erfaring med BFU-prosesser innen eiendom/lager. Kandidatliste utarbeides.
+
+2. **Forbered BFU-anmodning** som må inneholde:
+   - Detaljert beskrivelse av faktisk driftskonsept (Alternativ D hybridmodell): full-service-tjenesten, henting/levering, digital katalogisering, kundens ikke-eksklusive råderett over spesifikk bod
+   - Kontrakts- og forretningsstruktur (tjenestemodell, ikke leiemodell)
+   - Areal- og omsetningsallokering (30 % B2B selvbetjent, 70 % full-service)
+   - Rettskildeanvendelse: mval. §§ 2-3, 3-1, 3-11 (særlig skillet mellom § 3-11 første ledd og § 3-11 (2) e om oppbevaringsbokser)
+   - Presedenser: Skattedirektoratets prinsipputtalelse 18.11.2014 om utleie av lagerrom/minilager; Skatteklagenemnda SKNS1-2020-134 (datasenter) som sammenlignbart prinsipielt eksempel
+   - Markedsreferanse: Vinden opererer identisk modell i Norge som avgiftspliktig lagringstjeneste (markedsobservasjon, ikke rettskilde)
+
+3. **Send BFU til Skatteetaten.** BFU-anmodning innebærer gebyr og saksbehandlingstid (typisk 3–6 måneder, kan være lenger).
+
+4. **Håndtér tilleggsspørsmål.** Skatteetaten stiller ofte oppfølgingsspørsmål om driftsstruktur, allokeringsdokumentasjon eller regnskapsmessig behandling. Rask og fyldig respons reduserer saksbehandlingstiden.
+
+5. **Etter vedtak:** Dokumentér klassifiseringen som vedlegg til (a) bankens kredittsøknad, (b) IG-søknad, (c) MVA-registrering før byggestart. Oppdatér MVA-strategi (dok. 03) med vedtaks-referanse.
+
+**Timing og avhengigheter:**
+
+- **Avhenger av T32 (fisjon):** BFU bør ideelt sendes fra Fjordgata 30 AS, ettersom det er dette selskapet som vil drive minilagervirksomheten. Alternativer: (a) vente på fisjon før BFU sendes — kan forsinke prosessen; (b) sende fra KodeWorks Eiendom AS med presisering om planlagt fisjon — bindende for KEAS, må videreføres/verifiseres for Fjordgata 30 AS etter fisjon (jf. mval. § 9-2 om overgang av justeringsforpliktelse). Rådfør MVA-spesialist på timing.
+- **Bør sendes før tilbakegående avgiftsoppgjør etter § 8-6** (6-månedersfrist etter ibruktakelse). Ønsket rekkefølge: BFU → registrering før byggestart → tilbakegående avgiftsoppgjør etter ferdigstillelse.
+- **Sluttdato for saksbehandling** avhenger av Skatteetaten. Realistisk klarhet Q4 2026 – Q1 2027.
+
+**Fallback ved negativt utfall:** MVA-strategi 03 dokumenterer at prosjektet ikke er avhengig av full-service-klassifisering for å være levedyktig — passiv minilager-utleie (Alternativ A/B) er det dominerende driftskonseptet i norsk minilagerbransje, og finansieringsplan 7.2 viser LTV-konsekvens ved negativ BFU (~70 % LTV i basis i stedet for ~59 % forventet). Fallback-modellen er kommunisert til banken som del av prinsippforespørselen.
+
+**Berørte filer:**
+
+- Ny BFU-anmodning: `bakgrunn/YYYY-MM-DD_bfu_anmodning_mva.md`
+- Vedtak (når mottatt): `bakgrunn/YYYY-MM-DD_bfu_vedtak_skatteetaten.md`
+- Oppdatering av `forretningsplan/mva_strategi.md` med vedtaks-referanse etter mottak
+
+**Estimat:**
+
+- Utarbeidelse med MVA-spesialist: 2–4 uker
+- Saksbehandlingstid Skatteetaten: 3–6+ måneder
+- Post-vedtak oppfølging: 1–2 uker
+
+**Merknad:** Hele bankpakkas MVA-argumentasjon (dok. 03, 02 og bankhenvendelsen) forutsetter at BFU-prosessen er igangsatt Q3 2026 og har vedtak i Q4 2026 / Q1 2027. Forsinkelse her forsinker låneutbetaling og byggestart tilsvarende.
