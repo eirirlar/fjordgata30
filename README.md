@@ -342,11 +342,119 @@ Parametere (Gaussisk bredde, volum-korreksjonsfaktorer) justeres i `data/comp_we
 
 ---
 
+## Dokumentkonvertering (Pandoc)
+
+Pandoc er valgt konverteringsverktøy for docx/pptx/pdf. Alle PDF-konverteringer i prosjektet må støtte mermaid-diagrammer inline i Markdown-kilden; DOCX bør. Det løses med `mermaid-filter` – en pandoc-filter som fanger opp ```` ```mermaid ```` -blokker, rendrer dem til PNG under konvertering og bygger bildene inn i output. Filteret må være systeminstallert (ikke `node_modules/` per prosjekt).
+
+### Installasjon – forutsetninger
+
+Prosjektet trenger tre systempakker: `pandoc` (konvertering), **Node styrt av nvm** + `mermaid-filter` (mermaid-rendring), og TeX Live med xelatex (bare for PDF). Node installeres via `nvm` (Node Version Manager) slik at Node-versjonen er eksplisitt versjonsstyrt og user-lokal – ikke bundet til systemets pakkebehandler.
+
+**Windows (Chocolatey, PowerShell som administrator):**
+
+```powershell
+choco install pandoc
+choco install nvm
+# Åpne ny PowerShell/CMD for at nvm skal være på PATH:
+nvm install lts
+nvm use lts
+npm install -g mermaid-filter
+# For PDF: TeX Live 2026 (last ned installer fra https://tug.org/texlive/)
+```
+
+**Linux (Ubuntu/Debian):**
+
+Installer pandoc og TeX Live via apt:
+
+```bash
+sudo apt install pandoc
+sudo apt install texlive-xetex texlive-fonts-extra   # for PDF
+```
+
+Installer nvm ved å følge kommandoen fra README-en på <https://github.com/nvm-sh/nvm> (installskript-URL-en har versjonsnummer som endres – bruk den offisielle). Deretter:
+
+```bash
+# Etter nvm-install, start nytt shell eller: source ~/.bashrc
+nvm install --lts
+nvm use --lts
+npm install -g mermaid-filter    # NB: ingen sudo – nvm er user-lokal
+```
+
+**Manuell Chromium-nedlasting (kritisk på Node 24+):** `mermaid-filter` drar inn puppeteer 19 (utdatert), og install-hooken som skulle lastet ned Chromium hopper stille over på moderne Node (24+). Uten Chromium feiler filteret med `spawn … chrome.exe ENOENT`. Kjør nedlastingen manuelt etter `npm install -g mermaid-filter`:
+
+```bash
+# Windows (Git Bash) – juster Node-versjonen i pathen om nødvendig:
+cd /c/ProgramData/nvm/v<versjon>/node_modules/mermaid-filter/node_modules/puppeteer
+node install.js
+
+# Linux (nvm):
+cd ~/.nvm/versions/node/v<versjon>/lib/node_modules/mermaid-filter/node_modules/puppeteer
+node install.js
+```
+
+Sluttresultat: Chromium (~150 MB) lastet ned til `~/.cache/puppeteer/chrome/win64-<revisjon>/` (Windows) eller `~/.cache/puppeteer/chrome/linux-<revisjon>/` (Linux). Kun én gang per maskin.
+
+**Fallback – pek til allerede installert Chrome/Edge:** Hvis manuell nedlasting feiler, kan du peke puppeteer til en systeminstallert Chromium-basert browser:
+
+```bash
+# Windows – Chrome:
+export PUPPETEER_EXECUTABLE_PATH="/c/Program Files/Google/Chrome/Application/chrome.exe"
+# Windows – Edge (også Chromium):
+export PUPPETEER_EXECUTABLE_PATH="/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"
+# Linux:
+export PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome
+```
+
+Legg i `~/.bashrc` for permanent effekt.
+
+**NB nvm og npm -g:** Med nvm installeres alt user-lokalt under `~/.nvm/versions/node/<versjon>/`. Bruk aldri `sudo npm install -g` – det bryter PATH og lager skrive-tilgang-rot. `nvm use <versjon>` skifter aktiv Node globalt for terminalen.
+
+**NB Ubuntu <22.04 / minimalinstallasjoner:** Puppeteer-Chromium trenger et sett shared libraries som normalt følger med desktop-installasjoner. Hvis mermaid-filter feiler med «missing library», kjør: `sudo apt install libnss3 libatk-bridge2.0-0 libxkbcommon0 libgbm1 libasound2`.
+
+### Bruk – standard kommandoer
+
+Kjøremiljø: **Git Bash på Windows** (MINGW64) er standard i dette prosjektet. På Linux/macOS erstatt `mermaid-filter.cmd` med `mermaid-filter` – se plattform-noten under tabellen.
+
+**DOCX:**
+
+```bash
+pandoc input.md -o output.docx -F mermaid-filter.cmd
+```
+
+**PDF (brukes for bankpakka og andre eksterne leveranser):**
+
+```bash
+pandoc input.md -o output.pdf \
+  -F mermaid-filter.cmd \
+  --pdf-engine=xelatex \
+  -V documentclass=scrartcl \
+  -V geometry:margin=1in \
+  -V mainfont="Times New Roman" \
+  -V monofont="Consolas" \
+  --number-sections=false
+```
+
+Forklaring av flaggene:
+
+| Flagg | Effekt |
+|---|---|
+| `-F mermaid-filter.cmd` | Pandoc-filter som pre-prosesserer AST og erstatter mermaid-blokker med rendrede PNG-bilder. Fungerer både på inline mermaid i .md-en og på blokker som er importert via `include`. Ingen effekt hvis .md-en ikke har mermaid – trygt å ha som standardflagg. |
+| `--pdf-engine=xelatex` | Bruker xelatex fra TeX Live (nødvendig for unicode-tegn – «≥», «–», «€» – og for TrueType-fonter). |
+| `-V documentclass=scrartcl` | KOMA-Script artikkel-klasse – renere typografi og bedre marg-håndtering enn standard `article`. |
+| `-V geometry:margin=1in` | 1 tomme marg på alle sider. |
+| `-V mainfont="Times New Roman"` | Hovedfont for brødtekst (systemfont på Windows; installert via TeX Live-fonts-extra på Linux). |
+| `-V monofont="Consolas"` | Mono-font for kodeblokker. Standard-fonten (Latin Modern Mono) mangler Unicode box-drawing-tegn (├, ─, └, │) og gir «Missing character»-warnings på ASCII-tre-strukturer i README. Consolas er Windows-standard og støtter hele box-drawing-området. Linux-alternativ: `DejaVuSansMono` (kommer med `texlive-fonts-extra`). |
+| `--number-sections=false` | Ikke autonummerér overskrifter – vi bruker eksisterende nummerering i kildene (f.eks. «01.01», «Post 03»). |
+
+**Plattform-note – filternavnet:** På Windows lager npm tre filer per bin (`mermaid-filter`, `mermaid-filter.cmd`, `mermaid-filter.ps1`). Pandoc slår opp *eksakt filnavn* og respekterer ikke Windows' `PATHEXT`-mekanisme, så fra **Git Bash / MINGW64** må endelsen `.cmd` med. Fra **PowerShell/CMD** virker `-F mermaid-filter` også. Fra **Linux/macOS** finnes bare `mermaid-filter` (ingen `.cmd`) – bruk det. Praksis i dette prosjektet: alle eksempler viser `.cmd` fordi vi jobber fra Git Bash på Windows; erstatt ved kjøring på Linux.
+
+**Note – lange kodelinjer i PDF:** Standard pandoc-oppsett bryter *ikke* lange linjer i kodeblokker automatisk – linjer som er bredere enn sidebredden kuttes visuelt (teksten er fortsatt intakt i output-en, men vises ikke). Dette er akseptert for dette prosjektet. Automatisk linjebryting via `fvextra`-pakken (`-V header-includes='\usepackage{fvextra}' -V header-includes='\fvset{breaklines=true,breakanywhere=true}'`) er testet, men ga uheldige brudd midt i identifikatorer (f.eks. filstier og kommandonavn). Ved behov: hold kodelinjer korte i kilden, eller aktivér fvextra ad hoc for det aktuelle dokumentet.
+
 ## Generere forretningsplan som docx
 
 ```bash
 cd forretningsplan
-pandoc forretningsplan.md -o fg30_forretningsplan.docx
+pandoc forretningsplan.md -o fg30_forretningsplan.docx -F mermaid-filter.cmd
 uv run --with python-docx python ../scripts/format_docx.py fg30_forretningsplan.docx
 ```
 
@@ -354,7 +462,7 @@ uv run --with python-docx python ../scripts/format_docx.py fg30_forretningsplan.
 
 ## Bankpakke
 
-Bankpakka (9 dokumenter) ligger i `bank/`. Markdown → docx-mappingen og regenereringskommandoer er dokumentert i [`bank/MANIFEST.md`](bank/MANIFEST.md). Pandoc er valgt konverteringsverktøy for docx/pptx/pdf. PDF konverteres fra docx i Word/Office (ingen PDF-engine konfigurert på prosjektnivå).
+Bankpakka (9 dokumenter) ligger i `bank/`. Markdown → docx-mappingen og regenereringskommandoer er dokumentert i [`bank/MANIFEST.md`](bank/MANIFEST.md). Standard-flaggene for DOCX og PDF er de samme som i [Dokumentkonvertering (Pandoc)](#dokumentkonvertering-pandoc) ovenfor – både `-F mermaid-filter` og xelatex-flaggene brukes i bankpakke-regenereringen.
 
 ---
 

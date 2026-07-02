@@ -28,18 +28,21 @@ Fra prosjektrot:
 
 **Nr. 08 (energikartleggingsrapport) genereres ikke** — HRPs original PDF legges inn i pakka manuelt. Alle andre 8 dokumenter genereres slik:
 
+Forutsetninger og forklaring av flaggene er dokumentert i [README.md → Dokumentkonvertering (Pandoc)](../README.md#dokumentkonvertering-pandoc). Kommandoene under kjøres fra **Git Bash på Windows** og bruker `-F mermaid-filter.cmd` (Windows-varianten av npm-bin). På Linux/macOS: erstatt med `-F mermaid-filter` (ingen `.cmd`).
+
 ### DOCX
 
 ```bash
 cd bank
-pandoc ../leveranser/2026-06-28_bankhenvendelse.md       -o 00_bankhenvendelse.docx
-pandoc ../forretningsplan/forretningsplan.md             -o 01_forretningsplan.docx
-pandoc ../leveranser/2026-06-28_finansieringsplan.md     -o 02_finansieringsplan.docx
-pandoc ../forretningsplan/mva_strategi.md             -o 03_mva_strategi.docx
-pandoc ../forretningsplan/konkurrentanalyse_og_markedsdata.md                -o 04_konkurrentanalyse_og_markedsdata.docx
-pandoc ../leveranser/2026-06-26_stoetteoversikt.md  -o 05_stoetteoversikt.docx
-pandoc ../leveranser/2026-06-26_tilskudd_som_egenkapital.md   -o 06_tilskudd_som_egenkapital.docx
-pandoc ../leveranser/2026-06-26_groent_laan.md     -o 07_groent_laan.docx
+DOCXOPT="-F mermaid-filter.cmd"
+pandoc ../leveranser/2026-06-28_bankhenvendelse.md                 -o 00_bankhenvendelse.docx                 $DOCXOPT
+pandoc ../forretningsplan/forretningsplan.md                       -o 01_forretningsplan.docx                 $DOCXOPT
+pandoc ../leveranser/2026-06-28_finansieringsplan.md               -o 02_finansieringsplan.docx               $DOCXOPT
+pandoc ../forretningsplan/mva_strategi.md                          -o 03_mva_strategi.docx                    $DOCXOPT
+pandoc ../forretningsplan/konkurrentanalyse_og_markedsdata.md      -o 04_konkurrentanalyse_og_markedsdata.docx $DOCXOPT
+pandoc ../leveranser/2026-06-26_stoetteoversikt.md                 -o 05_stoetteoversikt.docx                 $DOCXOPT
+pandoc ../leveranser/2026-06-26_tilskudd_som_egenkapital.md        -o 06_tilskudd_som_egenkapital.docx        $DOCXOPT
+pandoc ../leveranser/2026-06-26_groent_laan.md                     -o 07_groent_laan.docx                     $DOCXOPT
 cd ..
 uv run --with python-docx python scripts/format_docx.py bank/01_forretningsplan.docx
 ```
@@ -48,19 +51,19 @@ uv run --with python-docx python scripts/format_docx.py bank/01_forretningsplan.
 
 ### PDF
 
-Krever xelatex (TeX Live). Gjenta samme løkke, med disse flaggene:
+Krever xelatex (TeX Live). Samme løkke med PDF-flagg:
 
 ```bash
 cd bank
-PDFOPT="--pdf-engine=xelatex -V documentclass=scrartcl -V geometry:margin=1in -V mainfont=\"Times New Roman\" --number-sections=false"
-pandoc ../leveranser/2026-06-28_bankhenvendelse.md       -o 00_bankhenvendelse.pdf $PDFOPT
-pandoc ../forretningsplan/forretningsplan.md             -o 01_forretningsplan.pdf $PDFOPT
-pandoc ../leveranser/2026-06-28_finansieringsplan.md     -o 02_finansieringsplan.pdf $PDFOPT
-pandoc ../forretningsplan/mva_strategi.md             -o 03_mva_strategi.pdf $PDFOPT
-pandoc ../forretningsplan/konkurrentanalyse_og_markedsdata.md                -o 04_konkurrentanalyse_og_markedsdata.pdf $PDFOPT
-pandoc ../leveranser/2026-06-26_stoetteoversikt.md  -o 05_stoetteoversikt.pdf $PDFOPT
-pandoc ../leveranser/2026-06-26_tilskudd_som_egenkapital.md   -o 06_tilskudd_som_egenkapital.pdf $PDFOPT
-pandoc ../leveranser/2026-06-26_groent_laan.md     -o 07_groent_laan.pdf $PDFOPT
+PDFOPT="-F mermaid-filter.cmd --pdf-engine=xelatex -V documentclass=scrartcl -V geometry:margin=1in -V mainfont=\"Times New Roman\" -V monofont=\"Consolas\" --number-sections=false"
+pandoc ../leveranser/2026-06-28_bankhenvendelse.md                 -o 00_bankhenvendelse.pdf                 $PDFOPT
+pandoc ../forretningsplan/forretningsplan.md                       -o 01_forretningsplan.pdf                 $PDFOPT
+pandoc ../leveranser/2026-06-28_finansieringsplan.md               -o 02_finansieringsplan.pdf               $PDFOPT
+pandoc ../forretningsplan/mva_strategi.md                          -o 03_mva_strategi.pdf                    $PDFOPT
+pandoc ../forretningsplan/konkurrentanalyse_og_markedsdata.md      -o 04_konkurrentanalyse_og_markedsdata.pdf $PDFOPT
+pandoc ../leveranser/2026-06-26_stoetteoversikt.md                 -o 05_stoetteoversikt.pdf                 $PDFOPT
+pandoc ../leveranser/2026-06-26_tilskudd_som_egenkapital.md        -o 06_tilskudd_som_egenkapital.pdf        $PDFOPT
+pandoc ../leveranser/2026-06-26_groent_laan.md                     -o 07_groent_laan.pdf                     $PDFOPT
 ```
 
 ## Siste regenerering
