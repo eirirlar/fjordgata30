@@ -1,0 +1,45 @@
+Vi ønsker Skatteetatens veiledning om MVA-klassifiseringen av en planlagt lagringsvirksomhet, før vi vurderer å sende inn bindende forhåndsuttalelse.
+
+1. Om virksomheten
+
+KodeWorks Eiendom AS rehabiliterer eiendommen Fjordgata 30 i Trondheim (verneverdig bryggebygning fra 1857, verneklasse C) til lagringsvirksomhet. Driftsstart forventes september–november 2027. Driften skal skje i planlagt datterselskap Fjordgata 30 AS, som etableres ved skattenøytral fisjon Q3/Q4 2026 (skatteloven §§ 11-4, 11-7). Byggeinvestering ca. 30 MNOK ekskl. mva. Utleibart areal etter rehabilitering: ca. 1 353 kvm totalt – 478 lagringsenheter (ca. 1 008 kvm), krypkjeller for spesialutstyr (ca. 152 kvm) og kontor i 1. etg. (ca. 193 kvm).
+
+2. Driftsmodellen
+
+Lagringsdriften har to segmenter med vesentlig ulik driftskarakter:
+
+- Aktiv lagringstjeneste – «valet storage» (ca. 70 % av lagringsenhetene, ca. 335 enheter): Vi henter gjenstander hos kunden (radius 10–15 km), fotograferer og barcode-merker hvert objekt digitalt, og lagrer i lokaler kunden ikke har egen adgang til. Kunden har ikke eksklusiv råderett over en spesifikk bod – gjenstander plasseres etter driftsmessig hensiktsmessighet og kan flyttes internt etter driftsbehov. Kunden bestiller uthenting via kundeportal og får levert innen 24–48 timer. Forsikring inkludert. Kontraktsform: tjenestekontrakt om oppbevaring, ikke leieavtale om areal. Målgruppe: privatpersoner og små bedrifter uten egen transport eller lagerplass. Modellen tilsvarer «valet storage» internasjonalt (Clutter, MakeSpace, Stashbee).
+
+- Selvbetjent bodutleie B2B (ca. 30 % av lagringsenhetene, ca. 143 boder): Kunden leier en spesifikk bod med eksklusiv råderett, har egen tilgang via kode/nøkkelkort og henter/leverer selv. Målgruppe: bedrifter med behov for arkiv, varelager, sesongvarer, verktøy.
+
+I tillegg utleies kontor (ca. 193 kvm) og krypkjeller for båtutstyr (ca. 152 kvm, direkte tilgang fra Nidelven) – ikke omfattet av hovedspørsmålet her, men beskrevet i vedlagt driftsbeskrivelse.
+
+3. Spørsmål vi ønsker veiledning på
+
+a) Er den aktive lagringstjenesten (segment A) egnet som avgiftspliktig tjeneste etter mval. § 3-1, eller vil den anses som utleie av fast eiendom etter mval. § 3-11 (1)?
+
+b) Hvor går grensen mellom aktiv lagringstjeneste og utleie av oppbevaringsbokser etter mval. § 3-11 (2) e? Vil vår modell falle innenfor bokstav e, eller er den så tjenestepreget at den faller utenfor § 3-11 helt?
+
+c) Hvilke faktiske forhold ved driftskonseptet vil Skatteetaten typisk vektlegge i klassifiseringen (f.eks. kundens fravær av eksklusiv råderett, den operasjonelle håndteringen, digitalisering, henting/levering)?
+
+d) Egner saken seg for BFU, eller ligger den så klart innenfor eller utenfor eksisterende praksis at BFU ikke er nødvendig?
+
+4. Rettskilder vi har vurdert
+
+- Merverdiavgiftsloven §§ 2-3, 3-1, 3-11 (særlig 3-11 (2) e)
+- Skattedirektoratets prinsipputtalelse 18.11.2014 om «Utleie av lagerrom (minilager)»
+- Skatteklagenemnda SKNS1-2020-134 (datasenter) – prinsipiell parallell om skille mellom passiv utleie og aktiv tjeneste
+- Markedsreferanse: Vinden AS driver en tilsvarende aktiv lagringstjeneste i Norge og fakturerer med utgående MVA (markedsobservasjon, ikke rettskilde)
+
+5. Vedlegg
+
+Driftsbeskrivelse (ca. 4 sider) med nøytral fremstilling av eiendommen, driftsmodellen for de to segmentene og faktiske forhold ved lagringen. Vi har ikke tatt endelig stilling til klassifiseringen – vedlegget beskriver drift, ikke konklusjon.
+
+6. Bakgrunn for henvendelsen
+
+Virksomheten er i planleggingsfasen. Vi ønsker Skatteetatens veiledning slik at vi kan innrette drift, kontrakter og regnskapsføring riktig fra oppstart. Vi vurderer om saken er egnet for BFU, og ønsker først en generell tilbakemelding.
+
+Vennlig hilsen
+Eirik Larsen
+Daglig leder, KodeWorks Eiendom AS
++47 416 70 269 · eirik.larsen@kodeworks.no

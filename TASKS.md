@@ -288,7 +288,7 @@ Konkret gjennomføring:
 ### T139 `[ ]` BFU (bindende forhåndsuttalelse) til Skatteetaten – MVA-klassifisering av Alternativ D
 
 **Mottaker:** Skatteetaten (bindende forhåndsuttalelse, jf. skatteforvaltningsloven kap. 6)
-**Ansvarlig:** Eirik + engasjert MVA-spesialist (advokat/rådgiver)
+**Ansvarlig:** Eirik (uten ekstern MVA-spesialist — se Risikonotat under)
 **Planlagt sendt:** Q3 2026 (per fremdriftsplan i forretningsplan 10)
 
 **Bakgrunn:** Hele MVA-strategien (dok. 03) hviler på at Alternativ D — hybridmodellen hvor full-service-delen (valet storage, ~70 % av enhetene) klassifiseres som avgiftspliktig aktiv lagringstjeneste etter mval. § 3-1 — blir godkjent av Skatteetaten. Klassifiseringen kan ikke fastslås endelig gjennom tekstuell drøfting alene; den må bekreftes gjennom en bindende forhåndsuttalelse.
@@ -299,27 +299,43 @@ Konkret gjennomføring:
 - **Negativt utfall (full-service-delen omklassifiseres til passiv utleie):** Prosjektet faller tilbake til Alternativ A/B med kun frivillig registrering for B2B-lagerdelen (~30 %) og kontor. Konsekvens: ~2,25 MNOK MVA-refusjon (30 % av 7,5 MNOK) i stedet for 6,0. Tap: ~3,75 MNOK. Fallback-scenarioet er dokumentert i finansieringsplan 7.2 (BFU-utfall-sensitivitet) og MVA-strategi 7.
 - **Delvis positivt utfall:** BFU aksepterer aktiv-tjeneste-klassifisering for full-service, men med tilleggsvilkår om drift, dokumentasjon eller arealallokering. Kan kreve tilpasning av forretningsmodellen.
 
+**Historikk – kontakt med Skatteetaten:**
+
+- **05.08.2026:** Eirik ringte Skatteetaten (800 80 000) og ba om veiledningsmøte, primært Trondheim 11.–13.08 alternativt Oslo. Skatteetaten avviste møteformatet og anbefalte skriftlig veiledningshenvendelse via nett (skatteetaten.no/kontakt/skriv/) som steg 1, deretter vurdering av BFU basert på svar. På spørsmål om mulighet for å ettersende manglende dokumentasjon til en BFU kunne de ikke gi bekreftelse. Konsekvens: BFU-anmodningen må være komplett fra første innsending.
+
 **Hva som må gjøres:**
 
-1. **Engasjér MVA-spesialist.** Advokat eller skatterådgiver med dokumentert erfaring med BFU-prosesser innen eiendom/lager. Kandidatliste utarbeides.
+1. **Trinn A – Skriftlig veiledningshenvendelse via Altinn/ID-porten.** Send via **https://skatteetaten.no/kontakt/skriv/** (krever ID-porten-pålogging; e-post aksepteres ikke). Kort saksbeskrivelse (~1 A4-side) som beskriver planlagt driftskonsept (Alternativ D hybridmodell), spørsmålet (MVA-klassifisering av full-service-delen), rettskilder som er vurdert (mval. §§ 2-3, 3-1, 3-11; SKD-uttalelsen 18.11.2014; SKNS1-2020-134), og ber om Skatteetatens generelle vurdering. Ikke bindende, ingen gebyr. Bygger på MVA-strategi dok. 03 som ryggrad.
 
-2. **Forbered BFU-anmodning** som må inneholde:
+2. **Vurdér svar.** Basert på Skatteetatens veiledningssvar: (a) sterk indikasjon på positiv klassifisering → gå videre til BFU med større trygghet, (b) skepsis eller ønske om tilleggsopplysninger → styrk faktagrunnlaget og eventuelt rettskildesøket før BFU, (c) klart innenfor eksisterende praksis → BFU kan være overflødig, dokumentér veiledningssvaret istedenfor.
+
+3. **Trinn B – Utarbeid BFU-anmodning (hvis nødvendig).** Bygger på dok. 03 og veiledningssvaret. Må inneholde:
    - Detaljert beskrivelse av faktisk driftskonsept (Alternativ D hybridmodell): full-service-tjenesten, henting/levering, digital katalogisering, kundens ikke-eksklusive råderett over spesifikk bod
    - Kontrakts- og forretningsstruktur (tjenestemodell, ikke leiemodell)
    - Areal- og omsetningsallokering (30 % B2B selvbetjent, 70 % full-service)
    - Rettskildeanvendelse: mval. §§ 2-3, 3-1, 3-11 (særlig skillet mellom § 3-11 første ledd og § 3-11 (2) e om oppbevaringsbokser)
    - Presedenser: Skattedirektoratets prinsipputtalelse 18.11.2014 om utleie av lagerrom/minilager; Skatteklagenemnda SKNS1-2020-134 (datasenter) som sammenlignbart prinsipielt eksempel
    - Markedsreferanse: Vinden opererer identisk modell i Norge som avgiftspliktig lagringstjeneste (markedsobservasjon, ikke rettskilde)
+   - **Merk:** Skatteetaten kunne ikke bekrefte at supplering er mulig etter innsending. Beskrivelsen av faktum må derfor være fullstendig ved innsending – ellers kan senere endringer gjøre at BFUen ikke lenger er bindende for det faktiske forholdet.
 
-3. **Send BFU til Skatteetaten.** BFU-anmodning innebærer gebyr og saksbehandlingstid (typisk 3–6 måneder, kan være lenger).
+4. **Send BFU til Skatteetaten via Altinn** (skjema RF-1355). BFU-anmodning innebærer gebyr og saksbehandlingstid (typisk 3–6 måneder, kan være lenger).
 
-4. **Håndtér tilleggsspørsmål.** Skatteetaten stiller ofte oppfølgingsspørsmål om driftsstruktur, allokeringsdokumentasjon eller regnskapsmessig behandling. Rask og fyldig respons reduserer saksbehandlingstiden.
+5. **Håndtér tilleggsspørsmål.** Skatteetaten stiller ofte oppfølgingsspørsmål om driftsstruktur, allokeringsdokumentasjon eller regnskapsmessig behandling. Uten ekstern spesialist må Eirik prioritere rask og fyldig respons for å ikke forlenge saksbehandlingen unødig.
 
-5. **Etter vedtak:** Dokumentér klassifiseringen som vedlegg til (a) bankens kredittsøknad, (b) IG-søknad, (c) MVA-registrering før byggestart. Oppdatér MVA-strategi (dok. 03) med vedtaks-referanse.
+6. **Etter vedtak:** Dokumentér klassifiseringen som vedlegg til (a) bankens kredittsøknad, (b) IG-søknad, (c) MVA-registrering før byggestart. Oppdatér MVA-strategi (dok. 03) med vedtaks-referanse.
+
+**Risikonotat – ingen ekstern MVA-spesialist:**
+
+Prosessen kjøres uten ekstern MVA-spesialist (advokat/skatterådgiver), av tids- og kostnadshensyn. Dette er en dokumentert avveining, ikke en glemsel:
+
+- **Fordeler:** Sparer 50–150 kkr i honorar; raskere iterasjon; MVA-strategi dok. 03 er allerede grundig strukturert med rettskilder og resonnement som kan brukes nesten direkte.
+- **Risiko:** Formuleringer i BFU-anmodninger har juridisk betydning – et ord kan flytte klassifisering. Uten juridisk kvalitetssikring øker sannsynligheten for (a) negativt utfall pga. uheldige formuleringer, (b) unødvendige tilleggsspørsmålsrunder, (c) delvis positivt utfall med tilleggsvilkår som kunne vært unngått.
+- **Avbøtende tiltak:** Trinn A-veiledningshenvendelsen er lav-risiko sandbox – gir signal om Skatteetatens vurdering før man forplikter seg til formell BFU. Hvis veiledningssvaret indikerer at saken er mer kompleks eller usikker enn antatt, kan spesialist engasjeres for trinn B alene.
+- **Beredskap:** Fallback-modellen (Alternativ A/B, ~2,25 MNOK refusjon) er dokumentert og kommunisert til bank. Prosjektet er levedyktig ved negativt utfall, om enn med dårligere LTV.
 
 **Timing og avhengigheter:**
 
-- **Avhenger av T32 (fisjon):** BFU bør ideelt sendes fra Fjordgata 30 AS, ettersom det er dette selskapet som vil drive minilagervirksomheten. Alternativer: (a) vente på fisjon før BFU sendes — kan forsinke prosessen; (b) sende fra KodeWorks Eiendom AS med presisering om planlagt fisjon — bindende for KEAS, må videreføres/verifiseres for Fjordgata 30 AS etter fisjon (jf. mval. § 9-2 om overgang av justeringsforpliktelse). Rådfør MVA-spesialist på timing.
+- **Avhenger av T32 (fisjon):** BFU bør ideelt sendes fra Fjordgata 30 AS, ettersom det er dette selskapet som vil drive minilagervirksomheten. Alternativer: (a) vente på fisjon før BFU sendes — kan forsinke prosessen; (b) sende fra KodeWorks Eiendom AS med presisering om planlagt fisjon — bindende for KEAS, må videreføres/verifiseres for Fjordgata 30 AS etter fisjon (jf. mval. § 9-2 om overgang av justeringsforpliktelse).
 - **Bør sendes før tilbakegående avgiftsoppgjør etter § 8-6** (6-månedersfrist etter ibruktakelse). Ønsket rekkefølge: BFU → registrering før byggestart → tilbakegående avgiftsoppgjør etter ferdigstillelse.
 - **Sluttdato for saksbehandling** avhenger av Skatteetaten. Realistisk klarhet Q4 2026 – Q1 2027.
 
@@ -327,14 +343,21 @@ Konkret gjennomføring:
 
 **Berørte filer:**
 
-- Ny BFU-anmodning: `bakgrunn/YYYY-MM-DD_bfu_anmodning_mva.md`
-- Vedtak (når mottatt): `bakgrunn/YYYY-MM-DD_bfu_vedtak_skatteetaten.md`
+- Notat fra telefondialog: `bakgrunn/2026-08-05_skatteetaten_telefon.md`
+- Skriftlig veiledningshenvendelse (trinn A, leveranse): `leveranser/2026-08-05_skatteetaten_veiledningshenvendelse.md`
+- Driftsbeskrivelse (vedlegg til trinn A, leveranse): `leveranser/2026-08-05_driftsbeskrivelse_fjordgata30.md`
+- Altinn-kvittering: `bakgrunn/YYYY-MM-DD_altinn_kvittering.pdf`
+- Veiledningssvar fra Skatteetaten: `bakgrunn/YYYY-MM-DD_skatteetaten_veiledningssvar.md`
+- BFU-anmodning (trinn B, leveranse): `leveranser/YYYY-MM-DD_bfu_anmodning_mva.md`
+- Vedtak fra Skatteetaten (når mottatt): `bakgrunn/YYYY-MM-DD_bfu_vedtak_skatteetaten.md`
 - Oppdatering av `forretningsplan/mva_strategi.md` med vedtaks-referanse etter mottak
 
 **Estimat:**
 
-- Utarbeidelse med MVA-spesialist: 2–4 uker
-- Saksbehandlingstid Skatteetaten: 3–6+ måneder
+- Utarbeide + sende skriftlig veiledningshenvendelse (trinn A): 1–3 dager
+- Skatteetatens veiledningssvar: 2–6 uker
+- Utarbeide BFU-anmodning (Eirik selv, ingen spesialist): 1–2 uker
+- Saksbehandlingstid Skatteetaten (trinn B / formell BFU): 3–6+ måneder
 - Post-vedtak oppfølging: 1–2 uker
 
 **Merknad:** Hele bankpakkas MVA-argumentasjon (dok. 03, 02 og bankhenvendelsen) forutsetter at BFU-prosessen er igangsatt Q3 2026 og har vedtak i Q4 2026 / Q1 2027. Forsinkelse her forsinker låneutbetaling og byggestart tilsvarende.
