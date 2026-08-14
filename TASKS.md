@@ -361,3 +361,56 @@ Prosessen kjøres uten ekstern MVA-spesialist (advokat/skatterådgiver), av tids
 - Post-vedtak oppfølging: 1–2 uker
 
 **Merknad:** Hele bankpakkas MVA-argumentasjon (dok. 03, 02 og bankhenvendelsen) forutsetter at BFU-prosessen er igangsatt Q3 2026 og har vedtak i Q4 2026 / Q1 2027. Forsinkelse her forsinker låneutbetaling og byggestart tilsvarende.
+
+---
+
+### T140 `[x]` Fyll ut arbeidsavtale for Ain Hansumae – midlertidig ansettelse KodeWorks Eiendom AS
+
+**Bakgrunn:** Skjelett-avtale mottatt fra Ain (`bakgrunn/nye/Arbeidsavtale Ain Hansumae.txt`) med flere `[fyll inn]`-felt. Formalisering av eksisterende arbeidsforhold: Ain har jobbet på prosjektet siden 14.07.2026 (rydding, riving, forberedende arbeid) til 300 kr/t + parkeringsdekning. Avtalen skal være midlertidig med sluttdato 01.10.2026.
+
+**Løst 14.08.2026.**
+
+Utfylt utkast lagret som `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md`. Utfylte felt:
+
+- **§ 4 Ansatt som:** "Bygg- og anleggsarbeider … rydding, sortering, riving, forberedende arbeid, forskaling og enklere byggearbeid under prosjektleders instruksjon."
+- **§ 5 Verneombud:** Presisert hjemmel for at verneombud ikke er valgt (færre enn 5 ansatte, § 6-1 andre ledd).
+- **§ 6 Varighet:** 14.07.2026 → 01.10.2026, med eksplisitt hjemmel i **aml. § 14-9 andre ledd bokstav a** (arbeid av midlertidig karakter — avgrenset rehabiliteringsfase forut for totalentreprenør). Eksplisitt henvisning til § 14-9 syvende ledd (rett til fast ansettelse etter 3 år sammenhengende).
+- **§ 6 Ukentlig/daglig arbeidstid:** Variabel inntil 40 t/uke, normalt 07:00–15:30.
+- **§ 6 Pauser:** 30 min ubetalt matpause etter § 10-9.
+- **§ 7 Prøvetid:** Ingen (uhensiktsmessig ved 2,5 mnd varighet).
+- **§ 8 Overtid:** Klargjort at ikke aktuelt, men med referanse til minst 40 % tillegg iht. § 10-6 (11) hvis unntaksvis nødvendig.
+- **§ 8 Feriepenger:** 10,2 % iht. ferieloven § 10.
+- **§ 9 Andre opplysninger:** Egne verktøy, parkering dekkes til trygg lagring er ordnet, yrkesskadeforsikring (yrkesskadeforsikringsloven § 3), HMS-kort-plikt, OTP-vurdering, sykepenger.
+
+Åpne placeholders arbeidsgiver må fylle før undertegning:
+
+- KodeWorks Eiendom AS orgnr
+- Ains hjemmeadresse
+- Dato ved undertegning
+
+**Kommentar til bruker – arbeidsmiljølovsjekk (utenfor selve avtaleteksten):**
+
+Ting som er inntatt i utkastet ut over kilde-skjelettet, for å tilfredsstille aml. minimumskrav (§ 14-6 om obligatorisk innhold):
+
+1. **Grunnlag for midlertidig ansettelse (§ 14-9)** – kildeskjelettet manglet dette. Uten hjemmel presumeres fast ansettelse (§ 14-9 første ledd). Bokstav a passer best fordi arbeidet er avgrenset til rehabiliteringsfasen — men skal Ain fortsette utover 01.10.2026, må enten ny midlertidig avtale inngås (med nytt grunnlag som holder rettslig), eller ansettelsen konverteres til fast.
+2. **Rett til fast ansettelse etter 3 år (§ 14-9 (7))** – lovpålagt å opplyse om. Ikke relevant nå, men skal stå i avtalen.
+3. **HMS-kort-plikt** – lovpålagt på byggeplass; bør stå eksplisitt.
+4. **Yrkesskadeforsikring** – arbeidsgivers lovpålagte plikt; bør bekreftes tegnet før første arbeidsdag.
+5. **Overtidsbestemmelse** – kildeskjelettets "Ingen overtid" er ikke gyldig som fravikelse av § 10-6. Endret til klargjøring om at overtid ikke er planlagt, med henvisning til lovens minimumstillegg dersom det likevel oppstår.
+6. **Matpause § 10-9** – kildeskjelettet var uklart; nå eksplisitt.
+
+Ting som ikke er inkludert, men som Eirik bør vurdere:
+
+- **OTP-plikt** – for kortvarige engasjementer under 12 mnd og lav samlet stillingsandel i foretaket kan OTP-plikten falle bort, men det avhenger av samlet ansattstruktur i KodeWorks Eiendom AS. Bør bekreftes med regnskapsfører. Ved plikt: ordningen skal etableres innen 6 måneder fra første ansettelse.
+- **Skriftlig risikovurdering / HMS-plan** – lovpålagt uansett antall ansatte (arbeidsmiljøloven § 3-1), men vedlegges ikke arbeidsavtalen. Egen dokumentasjon.
+- **Personopplysningserklæring / lagringspraksis for personalmapper** – GDPR/personopplysningsloven; ikke normalt i selve avtalen, men bør finnes som separat rutine.
+- **Konfidensialitetsklausul** – ikke lovpålagt, ikke inntatt. Neppe relevant for denne rollen.
+- **Tvisteløsning / lovvalg** – ikke lovpålagt, ikke inntatt. Norsk lov gjelder uansett; tvister kan bringes inn for Arbeidsretten.
+- **Skattetrekk / A-melding** – Ain må ha skattekort registrert i Altinn på KodeWorks Eiendom AS før første lønnsutbetaling. A-melding rapporteres månedlig av arbeidsgiver (frist 5. hver måned).
+
+**Merknad om sluttdato 01.10.2026:** Bare 6–7 uker igjen på avtalt periode. Hvis realiteten er at arbeidet fortsetter, bør oppfølgeravtale forberedes nå — med et gyldig **nytt** § 14-9-grunnlag som ikke er en gjentakelse av samme fasedefinisjon. Gjentatte midlertidige avtaler for samme rolle risikerer omklassifisering til fast ansettelse (aml. § 14-9 (7) — «fireårsregelen» før 2022, nå tre år etter lovendring).
+
+**Berørte filer:**
+
+- `bakgrunn/nye/Arbeidsavtale Ain Hansumae.txt` (kilde — bør flyttes/omdøpes med dato-prefiks etter undertegning)
+- `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md` (nytt — utfylt utkast)
