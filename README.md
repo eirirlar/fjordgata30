@@ -430,8 +430,7 @@ pandoc input.md -o output.pdf \
   -V documentclass=scrartcl \
   -V geometry:margin=1in \
   -V mainfont="Times New Roman" \
-  -V monofont="Consolas" \
-  --number-sections=false
+  -V monofont="Consolas"
 ```
 
 Forklaring av flaggene:
@@ -442,9 +441,24 @@ Forklaring av flaggene:
 | `--pdf-engine=xelatex` | Bruker xelatex fra TeX Live (nødvendig for unicode-tegn – «≥», «–», «€» – og for TrueType-fonter). |
 | `-V documentclass=scrartcl` | KOMA-Script artikkel-klasse – renere typografi og bedre marg-håndtering enn standard `article`. |
 | `-V geometry:margin=1in` | 1 tomme marg på alle sider. |
-| `-V mainfont="Times New Roman"` | Hovedfont for brødtekst (systemfont på Windows; installert via TeX Live-fonts-extra på Linux). |
-| `-V monofont="Consolas"` | Mono-font for kodeblokker. Standard-fonten (Latin Modern Mono) mangler Unicode box-drawing-tegn (├, ─, └, │) og gir «Missing character»-warnings på ASCII-tre-strukturer i README. Consolas er Windows-standard og støtter hele box-drawing-området. Linux-alternativ: `DejaVuSansMono` (kommer med `texlive-fonts-extra`). |
-| `--number-sections=false` | Ikke autonummerér overskrifter – vi bruker eksisterende nummerering i kildene (f.eks. «01.01», «Post 03»). |
+| `-V mainfont="Times New Roman"` | Hovedfont for brødtekst. Systemfont på Windows. På Linux: enten installer Microsoft core fonts (`sudo apt install ttf-mscorefonts-installer` — krever EULA-godkjenning), eller bytt til metric-kompatibel `Liberation Serif` (samme tegnbredder, identisk sideoppsett; kommer med `fonts-liberation` og er standard på Ubuntu/Debian). |
+| `-V monofont="Consolas"` | Mono-font for kodeblokker. Standard-fonten (Latin Modern Mono) mangler Unicode box-drawing-tegn (├, ─, └, │) og gir «Missing character»-warnings på ASCII-tre-strukturer i README. Consolas er Windows-standard og støtter hele box-drawing-området. Consolas følger *ikke* med `ttf-mscorefonts-installer` på Linux — bruk `DejaVu Sans Mono` som Linux-alternativ (kommer med `fonts-dejavu` og er standard på Ubuntu/Debian). |
+
+**Autonummerering av overskrifter:** Pandoc autonummererer *ikke* overskrifter som standard, så vi trenger ingen flagg for å slå det av. Kildene i dette prosjektet har egen nummerering («01.01», «Post 03» osv.) som beholdes uendret. Hvis autonummerering skulle ønskes for et enkeltdokument, legg til `--number-sections` (eller `-N`) — merk at dette er en boolean bryter uten `=verdi`.
+
+**Plattform-note – fonter på Linux:** Kommandoen over er skrevet for Windows/Git Bash der Times New Roman og Consolas er systemfonter. På Linux må enten Microsoft core fonts installeres (bare Times New Roman — Consolas er ikke inkludert), eller fontene byttes til Linux-native metric-/funksjonsalternativer. Sistnevnte er anbefalt praksis for dette prosjektet på Linux:
+
+```bash
+pandoc input.md -o output.pdf \
+  -F mermaid-filter \
+  --pdf-engine=xelatex \
+  -V documentclass=scrartcl \
+  -V geometry:margin=1in \
+  -V mainfont="Liberation Serif" \
+  -V monofont="DejaVu Sans Mono"
+```
+
+`Liberation Serif` er metric-kompatibel med Times New Roman, så sideoppsett og linjebrudd blir identiske. `DejaVu Sans Mono` er en annen font enn Consolas, men støtter samme Unicode-omfang (inkludert box-drawing) og gir samme visuelle formål.
 
 **Plattform-note – filternavnet:** På Windows lager npm tre filer per bin (`mermaid-filter`, `mermaid-filter.cmd`, `mermaid-filter.ps1`). Pandoc slår opp *eksakt filnavn* og respekterer ikke Windows' `PATHEXT`-mekanisme, så fra **Git Bash / MINGW64** må endelsen `.cmd` med. Fra **PowerShell/CMD** virker `-F mermaid-filter` også. Fra **Linux/macOS** finnes bare `mermaid-filter` (ingen `.cmd`) – bruk det. Praksis i dette prosjektet: alle eksempler viser `.cmd` fordi vi jobber fra Git Bash på Windows; erstatt ved kjøring på Linux.
 

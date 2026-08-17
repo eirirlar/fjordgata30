@@ -384,9 +384,11 @@ Utfylt utkast lagret som `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md`. 
 
 Åpne placeholders arbeidsgiver må fylle før undertegning:
 
-- KodeWorks Eiendom AS orgnr
-- Ains hjemmeadresse
 - Dato ved undertegning
+
+Orgnr for KodeWorks Eiendom AS (920 478 506) verifisert mot Brønnøysundregisteret 14.08.2026 og fylt inn direkte i avtaleutkastet. Proff.no ga ikke innhold via WebFetch (JavaScript-rendring / anti-bot); Brreg brukt som fallback i tråd med CLAUDE.md-regel.
+
+Ains persondata oppdatert 14.08.2026: fullt navn korrigert til **Ain Hansumäe** (med ä), fødselsnummer **030260 22931** lagt til, adresse **Kvitsteinvegen 42, 7027 Trondheim** fylt inn. Postnummer 7027 verifisert mot Geonorge (Kartverket adressesok).
 
 **Kommentar til bruker – arbeidsmiljølovsjekk (utenfor selve avtaleteksten):**
 

@@ -7,7 +7,7 @@
 | Felt | Verdi |
 |---|---|
 | Firmanavn | KodeWorks Eiendom AS |
-| Organisasjonsnummer | [org.nr fylles inn ved undertegning] |
+| Organisasjonsnummer | 920 478 506 |
 | Daglig leder | Eirik Rosvold Larsen |
 | Adresse | Fjordgata 30, 7010 Trondheim |
 
@@ -15,9 +15,9 @@
 
 | Felt | Verdi |
 |---|---|
-| Navn | Ain Hansumae |
-| Fødselsdato | 03.02.1960 |
-| Adresse | [arbeidstakers hjemmeadresse fylles inn] |
+| Navn | Ain Hansumäe |
+| Fødselsnummer | 030260 22931 |
+| Adresse | Kvitsteinvegen 42, 7027 Trondheim |
 
 ## 3. Arbeidsplass
 
@@ -82,15 +82,30 @@ Sykepenger utbetales i henhold til folketrygdlovens regler, med arbeidsgiverperi
 
 ## 10. Underskrifter
 
-Sted og dato:
+Sted og dato: Trondheim, 14.07.2026
 
-Trondheim, ____________________
+&nbsp;
 
-_______________________________________
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+______________________________________________________________
+
 Eirik Larsen — for KodeWorks Eiendom AS (arbeidsgiver)
 
+&nbsp;
 
-Trondheim, ____________________
+&nbsp;
 
-_______________________________________
-Ain Hansumae (arbeidstaker)
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+______________________________________________________________
+
+Ain Hansumäe (arbeidstaker)
