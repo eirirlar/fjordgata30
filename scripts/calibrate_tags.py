@@ -5,9 +5,9 @@ Ridge-regresjon pga mange features (tags) og begrenset antall manuelle ratings.
 Kjør build_scores.py etterpå for å regenerere scores_total.csv.
 
 Bruk:
-    .venv/Scripts/python scripts/calibrate_tags.py --dry-run
-    .venv/Scripts/python scripts/calibrate_tags.py
-    .venv/Scripts/python scripts/calibrate_tags.py --alpha 0.5
+    python scripts/calibrate_tags.py --dry-run
+    python scripts/calibrate_tags.py
+    python scripts/calibrate_tags.py --alpha 0.5
 """
 
 from __future__ import annotations
@@ -104,7 +104,7 @@ def main() -> None:
             json.dumps(weights, indent=2, ensure_ascii=False), encoding="utf-8"
         )
         print(f"Tag-vekter lagret: {TAG_WEIGHTS_JSON}")
-        print(f"Kjør nå: .venv/Scripts/python scripts/build_scores.py")
+        print(f"Kjør nå: python scripts/build_scores.py")
     else:
         print("Dry-run – ingen filer skrevet.")
 

@@ -5,8 +5,8 @@ Les scores_manual.csv og scores_total.csv, join på filnavn, kjør LinearRegress
 og lagre koeffisienter i weights_auto.json.
 
 Bruk:
-    .venv/Scripts/python scripts/calibrate_auto.py           # skriv weights_auto.json
-    .venv/Scripts/python scripts/calibrate_auto.py --dry-run # skriv ingenting
+    python scripts/calibrate_auto.py           # skriv weights_auto.json
+    python scripts/calibrate_auto.py --dry-run # skriv ingenting
 """
 
 from __future__ import annotations
@@ -91,7 +91,7 @@ def main() -> None:
     if not args.dry_run:
         WEIGHTS_JSON.write_text(json.dumps(weights, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"Vekter lagret: {WEIGHTS_JSON}")
-        print(f"Kjør nå: .venv/Scripts/python scripts/build_scores.py")
+        print(f"Kjør nå: python scripts/build_scores.py")
     else:
         print("Dry-run – ingen filer skrevet.")
 

@@ -5,9 +5,9 @@ Reads scores_total.csv and picks the top N images by effective score.
 Manual rating always takes priority over model score.
 
 Usage:
-    .venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30
-    .venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --count 20
-    .venv/bin/python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --output /tmp/selected
+    python scripts/select_images.py --from 2026-01-01 --to 2026-06-30
+    python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --count 20
+    python scripts/select_images.py --from 2026-01-01 --to 2026-06-30 --output /tmp/selected
 """
 
 from __future__ import annotations

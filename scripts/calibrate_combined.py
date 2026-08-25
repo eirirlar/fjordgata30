@@ -6,9 +6,9 @@ Alle 723 features skaleres deretter med StandardScaler før Ridge, siden
 auto-metrikker (1–10) og CLIP-scores (~0.1–0.4) er på ulike skalaer.
 
 Bruk:
-    .venv/Scripts/python scripts/calibrate_combined.py --dry-run
-    .venv/Scripts/python scripts/calibrate_combined.py
-    .venv/Scripts/python scripts/calibrate_combined.py --alpha 0.5
+    python scripts/calibrate_combined.py --dry-run
+    python scripts/calibrate_combined.py
+    python scripts/calibrate_combined.py --alpha 0.5
 """
 
 from __future__ import annotations
@@ -173,7 +173,7 @@ def main() -> None:
             json.dumps(weights, indent=2, ensure_ascii=False), encoding="utf-8"
         )
         print(f"Kombinerte vekter lagret: {WEIGHTS_COMBINED}")
-        print(f"Kjør nå: .venv/Scripts/python scripts/build_scores.py")
+        print(f"Kjør nå: python scripts/build_scores.py")
     else:
         print("Dry-run – ingen filer skrevet.")
 

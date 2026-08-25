@@ -2,6 +2,8 @@ __pycache__/
 *.pyc
 *.pyo
 .venv/
+.venv-win/
+.venv-linux/
 whisper-env/
 bank/*.docx
 bank/*.pdf

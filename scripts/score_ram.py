@@ -5,11 +5,14 @@ Long format, append-only – én rad per bilde per tag.
 Idempotent – bilder som allerede har rader hoppes over.
 
 Bruk:
-    .venv/Scripts/python scripts/score_ram.py
-    .venv/Scripts/python scripts/score_ram.py --limit 10
+    python scripts/score_ram.py
+    python scripts/score_ram.py --limit 10
 """
 
 from __future__ import annotations
+
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning, module="transformers")
 
 import argparse
 import csv

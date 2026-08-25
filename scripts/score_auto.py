@@ -5,11 +5,14 @@ Append-only – én rad per bilde, aldri overskrevet.
 Normalisering og total beregnes av build_scores.py (T48).
 
 Bruk:
-    .venv/Scripts/python scripts/score_images.py             # score nye bilder
-    .venv/Scripts/python scripts/score_images.py --limit 10  # test med 10 bilder
+    python scripts/score_images.py             # score nye bilder
+    python scripts/score_images.py --limit 10  # test med 10 bilder
 """
 
 from __future__ import annotations
+
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning, module="transformers")
 
 import argparse
 import csv

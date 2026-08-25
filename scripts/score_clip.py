@@ -1,20 +1,27 @@
 """
 T46 – Score tags per bilde med CLIP og skriv data/scores_clip.csv.
 
-Leser alle unike tags fra scores_ram.csv, scorer hvert bilde mot alle tags.
 Long format, append-only – én rad per bilde per tag.
-Idempotent – bilder som allerede har rader hoppes over.
+Inkrementell: håndterer både nye bilder og nye tags automatisk.
 
-Hvis nye tags har dukket opp i scores_ram.csv siden sist, avbrytes kjøringen med
-en klar feilmelding. Bruk --force for å slette scores_clip.csv og re-score alt.
+Ved kjøring:
+  1. Nye bilder scores mot HELE vokabularet (alle tags).
+  2. Eksisterende bilder scores mot BARE tags de mangler (backfill).
+
+Ingen manuell inngripen kreves når nye bilder introduserer nye tags via
+score_ram.py. Bruk --force kun hvis du vil re-score alt fra scratch
+(f.eks. hvis CLIP-modellen endres).
 
 Bruk:
-    .venv/Scripts/python scripts/score_clip.py
-    .venv/Scripts/python scripts/score_clip.py --limit 10
-    .venv/Scripts/python scripts/score_clip.py --force   # re-score ved ny vokabular
+    python scripts/score_clip.py
+    python scripts/score_clip.py --limit 10   # begrens til 10 nye + 10 backfill
+    python scripts/score_clip.py --force      # slett og re-score alt
 """
 
 from __future__ import annotations
+
+import warnings
+warnings.filterwarnings("ignore", category=FutureWarning, module="transformers")
 
 import argparse
 import csv
@@ -38,17 +45,15 @@ def _read_all_tags() -> list[str]:
     return sorted(tags)
 
 
-def _read_existing() -> tuple[set[str], set[str]]:
-    """Les scores_clip.csv én gang; returner (scorede filnavn, scoret vokabular)."""
+def _read_existing() -> dict[str, set[str]]:
+    """Returner filnavn → sett av tags som allerede er scoret for det bildet."""
     if not SCORES_CLIP.exists():
-        return set(), set()
-    filenames: set[str] = set()
-    vocab: set[str] = set()
+        return {}
+    per_image: dict[str, set[str]] = {}
     with SCORES_CLIP.open(newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            filenames.add(row["filnavn"])
-            vocab.add(row["tag"])
-    return filenames, vocab
+            per_image.setdefault(row["filnavn"], set()).add(row["tag"])
+    return per_image
 
 
 def _append_scores(filnavn: str, tag_scores: dict[str, float]) -> None:
@@ -76,37 +81,51 @@ def main() -> None:
         sys.exit(1)
 
     parser = argparse.ArgumentParser(description="CLIP-score tags per bilde (T46)")
-    parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--limit", type=int, default=None,
+                        help="Begrens antall nye bilder og antall backfill-bilder til N hver")
     parser.add_argument("--force", action="store_true",
-                        help="Slett scores_clip.csv og re-score alt (bruk ved ny vokabular)")
+                        help="Slett scores_clip.csv og re-score alt fra scratch")
     args = parser.parse_args()
+
+    if args.force and SCORES_CLIP.exists():
+        print("--force: Sletter scores_clip.csv og re-scorer alt.")
+        SCORES_CLIP.unlink()
 
     all_tags = _read_all_tags()
     print(f"Vokabular (scores_ram.csv): {len(all_tags)} unike tags")
 
-    existing_images, existing_vocab = _read_existing()
+    existing = _read_existing()
+    existing_vocab = set().union(*existing.values()) if existing else set()
 
-    # Vocabulary-sjekk – rask, gjøres før modellen lastes
-    new_tags = set(all_tags) - existing_vocab
-    if new_tags and existing_images:
-        print(f"\nADVARSEL: {len(new_tags)} nye tags siden sist scoret vokabular "
-              f"({len(existing_vocab)} → {len(all_tags)}).")
-        print(f"  Eksempel: {sorted(new_tags)[:8]}")
-        print(f"  {len(existing_images)} bilder i scores_clip.csv mangler disse taggene.")
-        if not args.force:
-            print("\n  Kjør med --force for å slette scores_clip.csv og re-score alle bilder.")
-            sys.exit(1)
-        print("  --force: Sletter scores_clip.csv og re-scorer alle bilder.")
-        SCORES_CLIP.unlink()
-        existing_images = set()
+    new_tags = [t for t in all_tags if t not in existing_vocab]
+    if new_tags and existing:
+        preview = new_tags[:8]
+        more = "…" if len(new_tags) > 8 else ""
+        print(f"Detektert {len(new_tags)} nye tags "
+              f"({len(existing_vocab)} → {len(all_tags)}): {preview}{more}")
+        print(f"  {len(existing)} eksisterende bilder må backfilles mot disse.")
 
     images = sorted(PROCESSED_DIR.glob("*.jpg"), reverse=True)
-    if args.limit:
-        images = images[:args.limit]
-    new_images = [img for img in images if img.name not in existing_images]
-    print(f"{len(images)} bilder, {len(existing_images)} allerede scoret, {len(new_images)} nye.")
+    new_images = [img for img in images if img.name not in existing]
 
-    if not new_images:
+    # Backfill: bilder som allerede er scoret, men mangler nye tags.
+    # Bruk per-bilde tag-sett så vi tåler crash midt i backfill (idempotent).
+    backfill: list[tuple[Path, list[str]]] = []
+    if new_tags:
+        for img in images:
+            if img.name in existing:
+                missing = [t for t in new_tags if t not in existing[img.name]]
+                if missing:
+                    backfill.append((img, missing))
+
+    if args.limit:
+        new_images = new_images[:args.limit]
+        backfill = backfill[:args.limit]
+
+    print(f"{len(images)} bilder totalt: {len(existing)} allerede scoret, "
+          f"{len(new_images)} nye å score, {len(backfill)} å backfille mot nye tags.")
+
+    if not new_images and not backfill:
         print("Ingenting å gjøre.")
         return
 
@@ -117,20 +136,38 @@ def main() -> None:
     model = model.to(device)
     tokenizer = open_clip.get_tokenizer("ViT-B-32")
 
-    text_tokens = tokenizer(all_tags).to(device)
     with torch.no_grad():
-        text_features = model.encode_text(text_tokens)
-        text_features /= text_features.norm(dim=-1, keepdim=True)
+        text_features_all = model.encode_text(tokenizer(all_tags).to(device))
+        text_features_all /= text_features_all.norm(dim=-1, keepdim=True)
 
+    # Pre-encode nye tags én gang for backfill; indekser inn i den per bilde
+    if backfill:
+        with torch.no_grad():
+            text_features_new = model.encode_text(tokenizer(new_tags).to(device))
+            text_features_new /= text_features_new.norm(dim=-1, keepdim=True)
+        new_tag_index = {tag: i for i, tag in enumerate(new_tags)}
+
+    # 1. Score nye bilder mot HELE vokabularet
     for i, img_path in enumerate(new_images, 1):
         image = preprocess(Image.open(img_path).convert("RGB")).unsqueeze(0).to(device)
         with torch.no_grad():
             img_features = model.encode_image(image)
             img_features /= img_features.norm(dim=-1, keepdim=True)
-            scores = (img_features @ text_features.T).squeeze(0).cpu().tolist()
-
+            scores = (img_features @ text_features_all.T).squeeze(0).cpu().tolist()
         _append_scores(img_path.name, dict(zip(all_tags, scores)))
-        print(f"  [{i}/{len(new_images)}] {img_path.name}")
+        print(f"  [ny {i}/{len(new_images)}] {img_path.name}")
+
+    # 2. Backfill: score eksisterende bilder mot BARE de nye taggene de mangler
+    for i, (img_path, missing_tags) in enumerate(backfill, 1):
+        indices = torch.tensor([new_tag_index[t] for t in missing_tags], device=device)
+        text_features_missing = text_features_new[indices]
+        image = preprocess(Image.open(img_path).convert("RGB")).unsqueeze(0).to(device)
+        with torch.no_grad():
+            img_features = model.encode_image(image)
+            img_features /= img_features.norm(dim=-1, keepdim=True)
+            scores = (img_features @ text_features_missing.T).squeeze(0).cpu().tolist()
+        _append_scores(img_path.name, dict(zip(missing_tags, scores)))
+        print(f"  [backfill {i}/{len(backfill)}] {img_path.name} (+{len(missing_tags)} tags)")
 
     print(f"\nFerdig. Kjør calibrate_tags.py og build_scores.py for oppdatert total.")
 

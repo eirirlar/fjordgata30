@@ -5,7 +5,7 @@ Stegene kjøres med samme Python-executable som dette scriptet selv,
 slik at riktig venv alltid brukes.
 
 Bruk:
-    .venv/bin/python scripts/score_all.py
+    python scripts/score_all.py
 """
 
 import subprocess

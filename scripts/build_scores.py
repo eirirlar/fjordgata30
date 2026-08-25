@@ -11,7 +11,7 @@ Valgfrie kildefiler (brukes automatisk hvis de finnes):
   weights_tags.json     – regresjonskoeffisienter per tag (T47)
 
 Bruk:
-    .venv/Scripts/python scripts/build_scores.py
+    python scripts/build_scores.py
 """
 
 from __future__ import annotations
