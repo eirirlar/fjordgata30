@@ -532,4 +532,8 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^78]: `stotte/2026-06-27_stotte_sammendrag.md` – Internt sammendrag av `../stotte`-prosjektet: datamodell (project_cards.json-format), støttekoordineringens filosofi, kumuleringsprinsippet (70 %-tak), overlappshåndtering og FG30s aktive ordninger (KMF 750k/30%, BYA 500k/30%, UNI 100k/5,6%, Enova KL 400k/50%, Enova OM 500k/50%). Brukes som internt referansedokument og grunnlag for vedlegg til støttesøknader.
 
-*Sist oppdatert: 27. juni 2026*
+[^79]: `bakgrunn/2026-08-25_skatteetaten_korrespondanse_2023_2026.md` – Konsolidert korrespondanse fra Skatteetaten, seks brev januar 2025–august 2026. Skattemelding 2023 (uforklart differanse kr 367 917 på driftsmidler) endres endelig ved varsel 07.05.2026 (Roy Øverli, ref. SKFIN/2023/166449089); skattemelding 2024 endres tilsvarende (fremført underskudd 2 830 173 → 2 462 256) ved varsel 13.07.2026 (Bjørg E. Røed, ref. SKFIN/2025/4070322). Inkluderer MVA-betalingsinformasjon mai–juni 2026 (kr 29 615, frist 31.08.2026). **Skatteetaten indikerte per telefon 25.08.2026 at svar på MVA-veiledningshenvendelsen fra 05.08.2026 forventes ca. 15.10.2026**; utfallet vil kunne påvirke MVA-fordelingen tilbake i tid, og indirekte de skattemessige endringene i skattemelding 2023/2024.
+
+[^80]: `bakgrunn/2026-07-01_bya_bekreftelse_konseptendring.md` – Byantikvarens bekreftelse (Silje Taftø Petersen og Roy Åge Håpnes, e-post 01.07.2026, sak 2025/5928) på at konseptendringen fra kontor til minilager ikke berører grunnlaget for tilskuddet, og at 30 % støtteintensitet av totalsum aksepteres. Parallelt med Kulturminnefondets omdisponeringsvedtak 02.07.2026. Kilde for § 1.2 i utbetalingsanmodning-vedlegget (`leveranser/2026-08-25_fg30_utbetalingsanmodning_vedlegg.md`).
+
+*Sist oppdatert: 25. august 2026*

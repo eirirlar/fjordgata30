@@ -416,3 +416,53 @@ Ting som ikke er inkludert, men som Eirik bør vurdere:
 
 - `bakgrunn/nye/Arbeidsavtale Ain Hansumae.txt` (kilde — bør flyttes/omdøpes med dato-prefiks etter undertegning)
 - `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md` (nytt — utfylt utkast)
+
+---
+
+### T141 `[x]` Utbetalingsanmodning — vedleggsrapport til KMF og BYA
+
+**Mottakere:** Kulturminnefondet (T02) og Byantikvaren (T04)
+
+Ny felles vedleggsrapport til utbetalingsanmodningene. Skal dokumentere arbeid utført **siden framdriftsrapportene av 24. og 25. juni 2026** (`stotte/2026-06-24_kmf_framdriftsrapport.md` og `stotte/2026-06-25_bya_framdriftsrapport.md`) og gi et samlet bilde av all fysisk fremdrift siden tilsagn. Stiftelsen UNI får egen utbetalingsanmodning senere.
+
+**Kilder som må brukes (ingen ny påstand utenom disse):**
+- `leveranser/2026-04-20_fg30_arbeidsrapport.md`
+- `stotte/2026-06-24_kmf_framdriftsrapport.md`
+- `stotte/2026-06-25_bya_framdriftsrapport.md`
+- Statusmøtereferater 06–10 (juni–august 2026)
+- Befaringsreferat 12.08.2026 (BA + KMF)
+- Notat bæresystem kjellergulv 15.08.2026 (Ole Morten, HRP)
+- E-postlogg juli–august 2026 (`bakgrunn/2026-07_rapporter_riving`)
+- Byggesak: foreløpig tilbakemelding 16.07.2026
+
+**Nøkkelinnhold:**
+- Rivearbeid sommer 2026 (Thora, Ain, Marco, Kristian; containere; lettvegger; stål avdekket)
+- Avvikling av leieforhold — milepæl 04.08.2026 (alle ute)
+- Infrastruktur (byggstrøm, elektriker, rørlegger, Autronica, rådgivende brann Gunhild)
+- Befaring 12.08 med Byantikvaren og KMF — funn av bolverk + kavlegulv intakt bak natursteinsmuren
+- Byggesaksdialog med Trondheim kommune (SAAHA)
+- Bilder fra perioden med høy rating
+
+**Berørte filer:**
+- `leveranser/2026-08-25_fg30_utbetalingsanmodning_vedlegg.md` (ny)
+- `bilder/*.jpg` (nye bilder fra sommer 2026 kopieres inn)
+- Task T02 (KMF-anmodning) og T04 (BYA-anmodning) — vedlegget må inkluderes ved endelig utsendelse
+
+---
+
+### T142 `[x]` Rydd og strukturer UNI-søknad (soeknad2.md)
+
+**Kontekst:** UNI-mappen hadde tidligere kun én søknadsfil (`soeknad.md`) — den vi først fikk avslag på. Etter revidering og supplering (bl.a. med tilsagnsbrev fra KMF og BYA) ble en ny søknad sendt og innvilget (kr 100 000, ref. UNI-38702, vedtak 03.09.2024). Filstruktur endret:
+
+- `soeknad.md` → omdøpt til `soeknad1.md` (den avslåtte)
+- `soeknad2.md` → nyopprettet, med råtekst kopiert fra UNI sitt webskjema
+
+Råteksten i `soeknad2.md` har skjema-artefakter (UI-tekst som «arrow_drop_down», flate feltnavn uten struktur). Ryddes til ren, strukturert Markdown — **uten omskriving av innhold**.
+
+**Oppdater referanser:**
+- `stotte/project_cards.json`, kilde-linje for UNI (linje 214): «uni/soeknad.md» → «uni/soeknad1.md, uni/soeknad2.md»
+- Sjekk om andre filer refererer til den gamle `uni/soeknad.md`
+
+**Berørte filer:**
+- `bakgrunn/stotte/uni/soeknad2.md` (ryddes)
+- `stotte/project_cards.json` (kildereferanse oppdateres)

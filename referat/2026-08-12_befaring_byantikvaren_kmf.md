@@ -8,8 +8,8 @@
 
 | Navn | Firma / Etat | Rolle | Tilstede |
 |---|---|---|---|
-| Silje Rugtveit | Byantikvaren, Trondheim kommune | Arkitekt | Ja (dominerende taler fra BA-siden) |
-| Roy-Åge Fossaas | Byantikvaren, Trondheim kommune | Byggingeniør | Ja |
+| Silje Taftø Petersen | Byantikvaren, Trondheim kommune | Arkitekt | Ja (dominerende taler fra BA-siden) |
+| Roy Åge Håpnes | Byantikvaren, Trondheim kommune | Byggingeniør | Ja |
 | Tor-Einar Siebke | Kulturminnefondet | Saksbehandler | Ja |
 | Eirik Larsen | KodeWorks Eiendom AS | Byggherre | Ja |
 | Ole Morten Lagmannssveen | HRP AS | PGL / RIB | Ja |
@@ -48,8 +48,8 @@ Byantikvaren viser til «Neste Stopp»-brygga på Kjøpmannsgata mot Almenningen
 **02.01 Bolverket lå der hele tiden**\
 Både FG30-sidens og Byantikvarens tidligere antakelser var at 1983-ombyggingen hadde ryddet ut det meste av opprinnelig bæring — betong «bare heldt» rundt gamle stokker som deretter var fjernet. Faktisk er kavlegulvet bare kappet der de nye fundamentene ligger, og resten ligger igjen. Byantikvaren (Silje): «Det hadde ikke skjedd for meg at det bare hadde heldt det mellom. Vi tolka det som var at her har det vært omkalfatra på.»
 
-**02.02 Roy-Åges advarsel om graving**\
-Roy-Åge understreker: FG30 skal grave seg 0,5–1 m ned innerst. Byantikvaren skjønte ikke nødvendigvis at gravedybden ville nå der. Anbefaling: **kontakt Riksantikvaren så fort som mulig**, før det graves i grunn.
+**02.02 Roy Åges advarsel om graving**\
+Roy Åge understreker: FG30 skal grave seg 0,5–1 m ned innerst. Byantikvaren skjønte ikke nødvendigvis at gravedybden ville nå der. Anbefaling: **kontakt Riksantikvaren så fort som mulig**, før det graves i grunn.
 
 **02.03 Byantikvaren har ikke myndighet over graving i grunn**\
 Silje presiserer: «Vi har ikke noe med graving i grunn.» Det er Riksantikvarens område. Byantikvaren kan ikke gi tillatelse her — de gir bare uttalelse på bæresystemet og de antikvariske bygningsdelene.
@@ -78,10 +78,10 @@ Eirik dokumenterer ukentlig; sender akkumulerte rapporter til KMF fortløpende. 
 ## Post 04 – Riksantikvaren: krevende neste skritt
 
 **04.01 Behov for kontakt**\
-Roy-Åge og Silje anbefaler unisont at FG30 tar kontakt med Riksantikvaren *før* det graves videre. Bakgrunn: den innerste delen av kjelleren har opprinnelige konstruksjoner intakt, jordmassene bak muren er sannsynligvis kulturhistorisk lag, og graving under 0,5–1 m vil utløse behov for arkeologisk vurdering.
+Roy Åge og Silje anbefaler unisont at FG30 tar kontakt med Riksantikvaren *før* det graves videre. Bakgrunn: den innerste delen av kjelleren har opprinnelige konstruksjoner intakt, jordmassene bak muren er sannsynligvis kulturhistorisk lag, og graving under 0,5–1 m vil utløse behov for arkeologisk vurdering.
 
 **04.02 Ingen støttemidler**\
-Eirik: «Har de også noen støttemidler til sånne utprøvinger?» Roy-Åge: «Nei, det er jo heller motsatt.» — arkeologiske krav påfører kostnader, ikke støtte.
+Eirik: «Har de også noen støttemidler til sånne utprøvinger?» Roy Åge: «Nei, det er jo heller motsatt.» — arkeologiske krav påfører kostnader, ikke støtte.
 
 **04.03 Foreløpig plan**\
 Nå: **ikke** grave. Fortsette å ta bort tømmer/kavlegulv som er råttent/brannskadet — Silje presiserer at dette er greit. Byantikvaren kommer tilbake mandag/tirsdag med tilbakemelding på videre plan.\
@@ -103,14 +103,14 @@ Notatet er tilgjengelig i etterkant som [`bakgrunn/2026-08-15_notat_baeresystem_
 *Ansvar: Ole Morten (tekst) → Eirik (bilder + oversendelse)*
 
 **05.03 Fokus i dokumentasjonen**\
-Silje/Roy-Åge minner: «Fokusér på skader og skadeomfang» (Kristian, senere i Fg306). Vise brannskade, råte, komprimering. Måle avstand fra nederste bjelker opp til taket for å vise nedfukting-eksponering.
+Silje/Roy Åge minner: «Fokusér på skader og skadeomfang» (Kristian, senere i Fg306). Vise brannskade, råte, komprimering. Måle avstand fra nederste bjelker opp til taket for å vise nedfukting-eksponering.
 
 ---
 
 ## Post 06 – Møtekadens fremover
 
 **06.01 Foreslått kadens**\
-Eirik ba innledningsvis om annen hver uke. Byantikvaren (Roy-Åge): «Jeg får ikke være med hvert møte.» Enighet om **hver 4. uke eller månedlig**. Møter kan kanselleres om det ikke er nok fremdrift.\
+Eirik ba innledningsvis om annen hver uke. Byantikvaren (Roy Åge): «Jeg får ikke være med hvert møte.» Enighet om **hver 4. uke eller månedlig**. Møter kan kanselleres om det ikke er nok fremdrift.\
 *Ansvar: Eirik (sende kalenderoppfølging)*
 
 **06.02 Byantikvarens tilbakemelding neste uke**\
@@ -124,7 +124,7 @@ Byantikvaren har diskusjonsmøte førstkommende mandag/tirsdag der de tar opp sa
 Andre eier har revet klubblokalet og kontoret, plukket ned lettvegger. Alt annet urørt. Diskusjon om takovertak og nedplukking av rot tas i senere møte.
 
 **07.02 Naboer og «sølv-funn»**\
-Under befaringen ble det spekulert (i humor) om sølv-funn kunne løst finansieringen. Roy-Åge merket seg detaljer i konstruksjonstypene — potensielt interessant for FG30 sin dokumentasjon.
+Under befaringen ble det spekulert (i humor) om sølv-funn kunne løst finansieringen. Roy Åge merket seg detaljer i konstruksjonstypene — potensielt interessant for FG30 sin dokumentasjon.
 
 **07.03 Nabo-brygger**\
 Silje har gjort tilstandsanalyse på nabo-brygger tidligere; kablergurler og bæringer stikker ofte ut mellom bryggene med tilhørende råteskader. Relevant referansepunkt for hva Byantikvaren ser etter.
@@ -138,4 +138,4 @@ Silje har gjort tilstandsanalyse på nabo-brygger tidligere; kablergurler og bæ
 | 04.03 | Kontakt Riksantikvaren om arkeologisk vurdering (vent på BA først) | Eirik | Etter BA-tilbakemelding neste uke |
 | 05.01 | Kort tilstandsrapport til Byantikvaren (tekst + bilder) | Ole Morten (tekst), Eirik (bilder + oversendelse) | Uke 33 |
 | 06.01 | Etablere månedlig møtekadens med Byantikvaren + KMF | Eirik | – |
-| — | Byantikvarens tilbakemelding etter internt møte | Silje / Roy-Åge | Uke 33 |
+| — | Byantikvarens tilbakemelding etter internt møte | Silje / Roy Åge | Uke 33 |
