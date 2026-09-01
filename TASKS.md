@@ -466,3 +466,450 @@ Råteksten i `soeknad2.md` har skjema-artefakter (UI-tekst som «arrow_drop_down
 **Berørte filer:**
 - `bakgrunn/stotte/uni/soeknad2.md` (ryddes)
 - `stotte/project_cards.json` (kildereferanse oppdateres)
+
+---
+
+### T143 `[~]` Kjeller — arbeidsavgrensning mot Riksantikvaren, arbeidsinstruks og e-postutkast
+
+**Kontekst:** Etter befaringen 12.08.2026 (`referat/2026-08-12_befaring_byantikvaren_kmf.md`) ventet vi på skriftlig tilbakemelding fra Byantikvaren (BYA) på kjelleren. Den kom ikke. SMS-utveksling 01.09.2026:
+
+- **EL → Silje:** «hei silje, savner tilbakemelding på kjeller. arbeidet har stått i ro en stund nå og vi håper å få fortsatt snarlig.»
+- **Silje → EL:** «hei. jeg er dessverre blitt syk. vi vil gi en tilbakemelding fra oss i løpet av uka. uavhengig av vår tilbakemelding må dere ta kontakt med riksantikvaren, ved sissel ramstad skoglund som holder til i trondheim, før videre arbeid.»
+
+**Beslutning (EL, 01.09.2026):** Vi kontakter **ikke** Riksantikvaren (RA) før vi må. Vi fortsetter å fjerne råttent treverk over natursteinsmuren for å komme ned og se hvor dypt en eventuell graving må gå. Vi har ikke tatt stilling til om vi skal grave i det hele tatt — alternativet er å heve kjellergulvet i den delen som ligger nærmest Fjordgata.
+
+#### Juridisk grunnlag for avgrensningen
+
+| Myndighet | Ansvarsområde her |
+|---|---|
+| **Byantikvaren** | Bygningen: bolverk, kavlegulv, natursteinsmur, antikvariske bygningsdeler over grunn |
+| **Riksantikvaren** | Grunnen: automatisk fredete kulturlag i middelalderbyen Trondheim (kulturminneloven § 4 og § 3). RA har beholdt myndigheten selv i middelalderbyene — den ligger ikke hos fylkeskommunen |
+
+- Silje bekreftet selv på befaringen: *«Vi har ikke noe med graving i grunn.»* (referat post 02.03). SMS-en er en **henvisning**, ikke et enkeltvedtak eller pålegg.
+- BYA ga på befaringen uttrykkelig OK til å fjerne råttent og brannskadet treverk over muren (referat post 02.04 og 04.03). Det er dokumentert og er vårt grunnlag for å fortsette.
+- **Utløseren i loven er ikke ordet «grave».** Kulturminneloven § 3 forbyr ethvert *tiltak* som kan skade, ødelegge, grave ut, flytte, endre, tildekke eller skjule et automatisk fredet kulturminne — eller *skape fare for* at det skjer. Terskelen er «fare for skade i grunn», ikke spadetak.
+- Gråsonen: referatet (post 01.01) sier at den innerste delen av kavlegulvet **«ligger nedpakket i jord/grus uten annen fundamentering»**. Der går grensen mellom bygning og grunn i praksis. Se arbeidsinstruksen under.
+- RA er allerede orientert om saken fra 2023 (`bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`). Skoglund skrev da: *«Vi har ikke mulighet til å behandle en dispensasjonssøknad før saken er godt nok opplyst til at vi kan overskue alle potensielle konsekvenser for kulturminner.»* Det er vårt argument: undersøkelsen vi gjør nå er nettopp det som opplyser saken.
+- Dispensasjon etter § 8 må foreligge **før igangsettingstillatelse** (RA 2023). Kobling til **T12 (IG-søknad)**.
+- § 14 skipsfunn er flagget av RA i 2023 sammen med Trøndelag fylkeskommune og NTNU Vitenskapsmuseet. Tråden lever.
+- Kostnadsrisiko: kulturminneloven § 10 — tiltakshaver dekker arkeologisk gransking. Roy Åge på befaringen: *«Nei, det er jo heller motsatt.»* Statlig dekning gjelder i praksis små private boligtiltak, ikke næring.
+
+---
+
+#### Delleveranse 1 `[x]` — Arbeidsinstruks til utførende (Kristian, Ole Morten)
+
+**Løst 01.09.2026:** Skrevet til `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`. Utformet for utskrift og opphenging på arbeidsstedet: grønt/gult/rødt-soner, funnprosedyre, daglige dokumentasjonskrav og loggmal. Ole Morten er kontaktperson (tlf. 990 94 851, ola@hrpas.no). Dagslogg sendes på e-post til ham — ingen henvisning til interne filstier.
+
+Skal formidles til alle som arbeider i kjelleren. Kort, konkret, henges opp på stedet.
+
+**Kontaktperson: Ole Morten Lagmannssveen (HRP, PGL/RIB), tlf. 990 94 851, ola@hrpas.no.** All tvil i kjelleren går til ham — ikke til Eirik. Eirik håndterer korrespondansen mot Byantikvaren og Riksantikvaren (delleveranse 2 og 3).
+
+**GRØNT — dette kan gjøres nå**
+
+- Fjerne tømmer og kavlestokker som er **råtne, brannskadde eller komprimerte**, og som ligger **over** natursteinsmurens overkant.
+- Kappe og bære ut materiale som allerede er løst eller uten bæreevne.
+- Midlertidig oppstøtting og sikring av bæring der det trengs for at arbeidet skal være trygt.
+- Legge til side intakt materiale som kan gjenbrukes.
+
+**GULT — stopp og spør Ole Morten før dere fortsetter**
+
+- Stokker som ligger delvis nede i jord eller grus. Å løfte dem rører massene.
+- Alt arbeid i den innerste delen av kjelleren (bort fra Fjordgata), der kavlegulvet ligger nedpakket i jord/grus.
+- Materiale som ser intakt ut, men er i veien.
+
+**RØDT — ikke gjør dette**
+
+- Grave, spa, skrape eller fjerne jord og grus. Uansett dybde.
+- Kjøre maskin i eller over de gamle massene. Komprimering regnes som skade.
+- Flytte eller fjerne stein i natursteinsmuren.
+- Fjerne bolverk eller kavlestokker som er **intakte** (ikke råtne).
+
+**HVIS DERE FINNER NOE** — lær, skinn, keramikk, never, trekar, båtdeler, ben, bearbeidet tre som ikke hører til bygget:
+
+1. Stans arbeidet på det stedet med en gang.
+2. Ikke plukk opp, ikke flytt, ikke vask.
+3. Ta bilde og ring Ole Morten.
+
+Meldeplikt følger av kulturminneloven § 8 andre ledd. Dette er ikke valgfritt, og det er bedre for oss å melde selv enn å bli tatt i etterkant.
+
+**DOKUMENTASJON — hver dag, uten unntak**
+
+Hvorfor: dokumentasjonen skal vise to ting. (1) Det vi fjernet var dårlig materiale. (2) Vi rørte ikke grunnen. Begge deler er forsvaret vårt hvis noen spør i ettertid.
+
+- Bilde **før, under og etter** for hvert element som fjernes.
+- Bildet skal vise **skaden**: råte, brannskade, komprimering, nedfukting.
+- Legg tommestokk eller meterstokk i bildet som målestokk.
+- Ta et bilde av gulvflaten/massene ved start og slutt hver dag. Det viser at grunnen står urørt.
+- Ikke kast materiale før det er fotografert.
+- Kort dagslogg: dato, hvem var der, hva ble fjernet, hvilken skadetype, omtrent hvor mye.
+- Loggen sendes på e-post til Ole Morten (ola@hrpas.no) ved slutten av hver arbeidsdag. **Ikke** vis til interne filstier i instruksen.
+- Bilder lastes opp til Drive (arbeidsbilder-mappen) med dato i filnavn.
+
+*Ansvar: Ole Morten (kontaktperson, formidler instruksen) → Kristian og øvrige utførende (utføre og dokumentere)*
+
+---
+
+#### Delleveranse 2 `[x]` — E-post til Byantikvaren (skrevet, ikke sendt)
+
+**Løst 01.09.2026:** Utkast skrevet til `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md`. Dekker alle seks innholdspunktene under. Ingen vedleggsreferanser og ingen personlige formuleringer. Sendes ikke før e-postadresse og skrivemåte av etternavn er bekreftet (se over).
+
+**Mottaker:** Silje Taftø Pedersen, Byantikvaren, Trondheim kommune. Kopi: Roy Åge Håpnes.\
+**E-postadresse:** *ikke bekreftet — må hentes før utsending.*\
+**Merk:** navnet er skrevet «Petersen» i befaringsreferatet og «Pedersen» i SMS-en. Sjekk riktig skrivemåte før utsending.
+
+**Formål:** Skape skriftlig spor. Bekrefte hva vi gjør og ikke gjør, og at vi holder oss innenfor det BYA selv ga OK til 12.08. Ikke krangle på RA-henvisningen.
+
+**Innhold som skal med:**
+
+1. Vis til SMS-utvekslingen 01.09.2026 og at tilbakemelding er varslet i løpet av uken. Saklig og upersonlig — ingen kommentarer om sykdom eller personlige forhold.
+2. Bekreft avgrensningen: vi fortsetter kun med **fjerning av råttent og brannskadet treverk over natursteinsmuren**, i tråd med det BYA ga uttrykkelig OK til på befaringen 12.08.2026.
+3. Bekreft at vi **ikke** gjør inngrep i grunn, og at vi tar kontakt med Riksantikvaren før eventuell graving.
+4. Presiser at vi ennå ikke har bestemt oss for om vi skal grave. Vi undersøker for å finne ut hvor dypt det eventuelt må gå.
+5. Nevn alternativet: **heve kjellergulvet** i delen nærmest Fjordgata i stedet for å grave. Bevaring på stedet.
+6. Nevn at vi dokumenterer løpende med bilder. **Ikke** henvis til vedlegg eller vedlagte dokumenter.
+
+---
+
+#### Delleveranse 3 — E-post til Riksantikvaren (klargjøres, sendes IKKE nå)
+
+**Mottaker:** Sissel Ramstad Skoglund, seniorrådgiver / arkeolog, Riksantikvaren, seksjon for arkeologiske kulturminner\
+**E-post:** sissel.ramstad.skoglund@ra.no\
+**Telefon:** +47 982 02 856\
+**Kilde:** `bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`
+
+**Status: utkast holdes klart, men sendes ikke før EL bestemmer.** Utløsere for å sende:
+
+- Vi bestemmer oss for å grave, eller
+- vi treffer masser vi ikke kan komme videre uten å røre, eller
+- BYA gjentar kravet skriftlig i sin formelle tilbakemelding, eller
+- det gjøres funn i kjelleren.
+
+**Praktisk:** svar i den eksisterende 2023-tråden, eller referer til den. Da slipper hun å lete opp saken på nytt.
+
+**Spørsmål som skal stilles:**
+
+1. Ligger Fjordgata 30 innenfor grensen for middelalderbyen Trondheim?
+2. Utløser fjerning av råttent og brannskadet tømmer **over** natursteinsmuren, uten inngrep i grunn, krav om dispensasjon etter § 8?
+3. Hvor går grensen der innerste kavlegulv ligger nedpakket i jord/grus?
+4. Kan vi få en forhåndsuttalelse eller befaring, slik at vi kan vurdere gravedybde **før** vi bestemmer om vi skal grave i det hele tatt?
+5. Hvis vi hever gulvet i stedet for å grave — er det akseptabelt, og krever det fortsatt dispensasjon?
+
+Be alltid om **skriftlig** svar. Ikke telefon alene.
+
+---
+
+**Berørte filer:**
+
+- `TASKS.md` (denne tasken)
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` (ny — delleveranse 1)
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.pdf` (ny — PDF av delleveranse 1, 3 sider)
+- `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` (ny — delleveranse 2)
+- `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.pdf` (ny — PDF av delleveranse 2)
+- `leveranser/` — e-postutkast RA (opprettes ved behov, delleveranse 3)
+- Daglig logg sendes på e-post til Ole Morten (ikke filbasert)
+- Kobling: **T12** (IG-søknad — dispensasjon må foreligge før igangsettingstillatelse), **T04** (utbetalingsanmodning BYA)
+
+**Kilder:**
+
+- `referat/2026-08-12_befaring_byantikvaren_kmf.md` (post 01.01, 02.03, 02.04, 04.01–04.03)
+- `bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`
+- `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md`
+- `bakgrunn/lovverk/kulturminneloven.md`
+
+---
+
+### T144 `[~]` SkatteFUNN-søknad — «Konstruktivt ombruk av historisk rundtømmer»
+
+**Ansvarlig:** Eirik / regnskapsfører
+**Status:** Søknadstekst ferdig 01.09.2026, tilpasset skjemastrukturen i Mitt SkatteFUNN. Budsjett 9,7 MNOK. Ikke sendt inn.
+**Søker:** KodeWorks Eiendom AS, org.nr. 920 478 506
+
+#### Kontekst
+
+Brainstorm 01.09.2026 om FoU-temaer som kan støttes av Forskningsrådet gjennom SkatteFUNN. Gjennomgangen så på byggforskning, gammelt/nytt bygg, energi og brann. Tre forslag ble skissert; dette er det som ble valgt først.
+
+**Forholdet til eksisterende vurdering.** `stotte/fg30_skattefunn_vurdering.md` (23.06.2026) anbefaler **Spor A** (digital lagringsplattform) og gir **Spor B** (restaureringsmetodikk) «lav–middels» sannsynlighet. Den vurderingen er fortsatt riktig *slik Spor B var formulert der* — som generell restaureringsmetodikk. Forskningsrådet avviser slikt.
+
+T144 er ikke det samme. Den er smal, har ett konkret uløst spørsmål med målbart svar, og et pass/fail-utfall. Spor A er fortsatt gyldig og bør tas som egen søknad når T68 (teknisk konsept for lagringsplattform) faktisk starter.
+
+**Utvelgelseskriterier brukt (i denne rekkefølgen):**
+
+1. Går det gjennom hos Forskningsrådet? Finnes det en standard som eksplisitt *ikke* dekker vårt tilfelle?
+2. Har det riktig kostnadsform? Timer, lånte/leide fasiliteter og ødeleggende prøving av materiale vi kaster uansett — **ikke** utstyr vi kjøper og sitter igjen med.
+3. Kan det stables med eksisterende støtte?
+
+Punkt 3 er en optimalisering til slutt, ikke et utvelgelseskriterium.
+
+---
+
+#### FoU-problemet
+
+For å bruke gammelt tømmer som bærende konstruksjon etter TEK17 kreves en dokumentert fasthetsklasse. **NS-EN 14081 sorterer ferskt skurlast.** Den dekker ikke:
+
+- Rundtømmer, ikke skurlast
+- 170 år gammelt, med ukjent lasthistorikk
+- **Allerede gjenbrukt én gang** — Ole Mortens notat dokumenterer `lafteknuter, meddrag og tappehull fra andre konstruksjoner` i bolverket
+- Delvis brannskadd etter bryggebrannen på 1980-tallet
+- Delvis råteskadd, med varierende skadegrad etter posisjon
+
+**Forskningsspørsmålet:** Hvordan kommer man fra «gammel, gjenbrukt stokk» til «dokumentert, sikker fasthetsklasse» uten å bryte den i stykker først?
+
+**Koblingen til KMF er ordrett.** KMFs egne støtteberettigede punkter (`stotte/project_cards.json`, KMF-FG30) er blant annet:
+
+> *«Undersøke og kartlegge tilstanden til bærekonstruksjonen»*
+> *«Skifte nødvendige søyler og innkassing der skadeomfang gjør gjenbruk umulig»*
+
+Prosjektets forskningsspørsmål er nøyaktig: **når er gjenbruk umulig?** I dag er svaret et skjønn. Målet er å gjøre det til en dokumenterbar metode.
+
+---
+
+#### Hvorfor dette bør gå gjennom
+
+Et eiendomsselskap som gjør byggearbeid er en klassisk avslagsprofil hos Forskningsrådet. Standardmistanken er «dette er bygging i forskningsdrakt». Forsvaret må være at man peker på en standard som ikke dekker tilfellet, og leverer en metode andre kan bruke.
+
+| Styrke | Begrunnelse |
+|---|---|
+| Klart normhull | NS-EN 14081 gjelder ferskt skurlast. Ingen godkjent vei for gjenbrukt rundtømmer |
+| Gratis prøvemateriale | Hundrevis av stokker i egen kjeller. Skal ut uansett. Kan brytes i stykker |
+| Nasjonal relevans | Ombruk er høyt prioritert. Gjelder all bryggebebyggelse og alt eldre lafteverk |
+| Kommersiell kobling | Kan vi ikke dokumentere fasthet, må vi kjøpe nytt. Metoden sparer penger og verneverdi direkte |
+| Avgrenset | Klart start- og sluttpunkt. Målbart resultat |
+
+**Svakeste punkt:** AP2/AP3/AP5 ligger på 74,4 % samlet støtteintensitet og **må** klassifiseres som industriell forskning (tak 80 %). Blir de omklassifisert til eksperimentell utvikling (tak 60 %), må SkatteFUNN barbere seg fra 19 % til 7,8 % kontant — ca. 130 000 kr tapt. Arbeidspakkene må derfor formuleres slik at det er tydelig at de skaper **generell, overførbar kunnskap**, ikke ett bestemt produkt.
+
+---
+
+#### Arbeidspakker
+
+| AP | Innhold | Kostnadsform | Kategori |
+|---|---|---|---|
+| **AP1** | Bygg testsett fra egen kjeller. Demontering, prøvetaking, registrering av historikk, posisjon, skadebilde og synlige eldre bearbeidingsspor per stokk | Håndverkertimer | IND-FORSK |
+| **AP2** | Ikke-ødeleggende måling: lydhastighet, borkraftmotstand, kartlegging av knuter og eldre tappehull | Leid utstyr + rådgiver | IND-FORSK |
+| **AP3** | Prøving til brudd for å etablere referanseverdier mot AP2-målingene | Se «Laboratoriespørsmålet» | IND-FORSK |
+| **AP3b** | Restfasthet i brannskadd historisk tømmer fra 1980-tallsbrannen | Som AP3 | IND-FORSK |
+| **AP4** | Modell: ikke-ødeleggende måling → sikker fasthetsklasse | Egne timer | IND-FORSK |
+| **AP5** | Sorteringsprotokoll, verifisert ved faktisk innbygging i FG30 | Håndverkertimer | EKSP-UTV |
+
+**AP3b er tilnærmet gratis.** Brannskadd rundtømmer ligger allerede i kjelleren og skal kastes. Ingen kjent metode finnes for å vurdere restfasthet i forkullet historisk tømmer.
+
+---
+
+#### Laboratoriespørsmålet — hvordan søknaden skal formuleres
+
+**Beslutning (EL, 01.09.2026):** Vi forplikter oss ikke til å kjøpe labtjenester. Vi har god kontakt med NTNU Bygg og kan ende opp med å låne fasiliteter. Søknaden må skrives slik at prosjektet står uansett utfall.
+
+**Prinsipp: beskriv aktiviteten, ikke innkjøpet.**
+
+- ✅ Skriv: *«Prøvestykker føres til brudd etter NS-EN 408 for å etablere referanseverdier mot de ikke-ødeleggende målingene i AP2.»*
+- ❌ Ikke skriv: *«Innleid lab»*, *«vi kjøper labtjenester for X kr»*, eller navn på leverandør.
+
+**Tre gjennomføringsveier beskrives som likeverdige i søknadsteksten:**
+
+1. **Lånt fasilitet** (f.eks. gjennom NTNU-samarbeid) — ingen kostnad på linjen
+2. **Innkjøpt prøvingstjeneste** — kostnad føres når den påløper
+3. **Egenbygget prøverigg** + håndverkertimer — lavere presisjon, men gjennomførbart. Beskrives som fallback slik at prosjektet ikke faller om labtilgang uteblir
+
+**Hvorfor dette er trygt å gjøre:**
+
+- Budsjettet i Mitt SkatteFUNN er et **estimat**, ikke en forpliktelse. Faktiske kostnader rapporteres årlig, og fradraget beregnes av faktiske godkjente kostnader. Bruker vi mindre enn budsjettert, skjer ingenting.
+- Forskningsrådet vurderer **FoU-innholdet**, ikke innkjøpsplanen.
+
+**To ting å utnytte hvis NTNU blir med:**
+
+- **Innkjøpt FoU fra godkjent FoU-institusjon** har eget og høyere fradragsgrunnlag enn egenutført FoU. NTNU er godkjent institusjon. *Hvis* vi ender med å betale, er NTNU-veien den gunstigste.
+- **Samarbeidsbonusen på 15 pp** (GBER art. 25(6)) forutsetter dokumentert effektivt samarbeid **eller** bred spredning av resultatene. Et NTNU-samarbeid dekker det første. Publisering dekker det andre og er enklest. Bonusen er en forutsetning for 80 %-taket — den må dokumenteres, ikke antas.
+
+---
+
+#### Budsjett og stabling
+
+SkatteFUNN teller **24,4 %** mot statsstøttetaket (GGE, oppjustert for 22 % selskapsskatt), men gir **19 %** i kontant skattefradrag.
+
+| AP | Stabel | Sum intensitet | Tak | Budsjett |
+|---|---|---|---|---|
+| AP1 | KMF + SF | 54,4 % | 80 % ✅ | 350 000 |
+| AP2 | Enova-OM + SF | 74,4 % | 80 % ✅ | 300 000 |
+| AP3 | Enova-OM + SF | 74,4 % | 80 % ✅ | **0 – 350 000** |
+| AP3b | Enova-OM + SF | 74,4 % | 80 % ✅ | **0 – 100 000** |
+| AP4 | SF alene | 24,4 % | — | 250 000 |
+| AP5 | KMF + SF | 54,4 % | 60 % ✅ | 150 000 |
+| | | | | **1 050 000 – 1 500 000** |
+
+**SkatteFUNN kontant (19 %): 199 500 – 285 000 kr.**
+
+**Øvrig støtte på samme kostnader:** KMF 150 000 (30 % av AP1+AP5), Enova-OM inntil 375 000 (50 % av AP2+AP3+AP3b).
+
+##### Stableregler som må holdes
+
+- **KMF og Enova-OM må aldri treffe samme kostnad.** 30 % + 50 % = 80 % — da er det null plass igjen til SkatteFUNN.
+- **KMF + BYA sammen er 60 %.** Legges SkatteFUNN oppå sprenges 80 %-taket. Den doble kulturminnestablingen skal brukes på **rene håndverkskostnader** som uansett ikke er FoU — ikke på FoU-kostnadene i dette prosjektet.
+- Skillet må være **fysisk, ikke bare regnskapsteknisk**: håndverker fakturerer AP1-arbeid på egen ordre, prøving faktureres separat. Da er skillet dokumentert, ikke etterkonstruert.
+- `../stotte`-motoren har `OverCeiling`-sperre per bilag. Skal brukes fra dag én, ikke i ettertid.
+
+---
+
+#### Forutsetninger og risiko
+
+| Punkt | Status | Håndtering |
+|---|---|---|
+| **Hvilket selskap søker?** | Uavklart — fisjonen (T32) er ikke gjennomført | Må avklares før søknad. SkatteFUNN-prosjekter er tunge å flytte mellom selskaper underveis. Merk: SkatteFUNN utbetales kontant også ved underskudd |
+| **Enova-OM må leve** | Ikke bekreftet startet (T22), frist 25.12.2026 | Halve stablingen avhenger av den. Avklar med HRP før budsjettet låses |
+| **Håndverkertimer som SkatteFUNN-kostnad** | Uavklart | «Innkjøpt FoU» krever normalt godkjent FoU-institusjon. Håndverkertimer må trolig føres som andre driftskostnader knyttet til prosjektet. **Sjekk med regnskapsfører før budsjettering** |
+| **Egne ansatte** | OK | Ain Hansumäe har arbeidsavtale (T140). Egne timer er ren SkatteFUNN-gevinst — KMF avviser `dugnad og egne maskiner` |
+| **Frist** | Åpen hele året | 1. september garanterer kun svar innen skatteåret. Sender vi nå, kan fradrag for hele 2026 fortsatt gis ved godkjenning (2–8 ukers behandling), men det er ikke garantert. Skatteår 2027 er tryggest |
+| **Samarbeidsbonus 15 pp** | Ikke dokumentert | Kreves for 80 %-taket. Enklest vei er forpliktelse til publisering av resultatene |
+
+---
+
+#### Reserverte temaer (bevisst holdt utenfor)
+
+Fra samme brainstorm. Skal ikke inn i T144.
+
+| Tema | Hvorfor ikke nå |
+|---|---|
+| Brannsikring: gasstetthet i laft + den ~1 m brede spalten mot nr. 28/32 | Egen søknad. Størst i kroner (ca. 475 000), men flest bevegelige deler. Stables mot UNI (kun 5,6 % brukt av 1 785 000 grunnlag) og BYA |
+| Dokumentert bæreevne i historiske trebjelkelag — målt, ikke beregnet | Egen søknad, ca. 171 000. Stables mot KMF AP3. Må formuleres som metodeutvikling, ellers leses den som ordinær tilstandsvurdering |
+| Ulmebranndeteksjon i hulrom | Krever hardware vi sitter igjen med |
+| Råteprediksjon i bolverk | Krever sensornettverk. Billig variant finnes: obduser tømmeret ved utgraving i stedet for å overvåke. Kan evt. legges inn i T144 senere |
+| Fuktstyrt lavenergidrift | Krever anlegg. Tas med *Enova Energitiltak i yrkesbygg* |
+| Digital lagringsplattform (Spor A) | Avventer T68 |
+
+---
+
+#### Løsningsnotat — søknadstekst skrevet 01.09.2026
+
+Full søknadstekst skrevet til **`stotte/2026-09-01_skattefunn_soknad_ombruk_tommer.md`**. Strukturert felt for felt etter Mitt SkatteFUNN, klar til innliming. 13 seksjoner:
+
+| Seksjon | Innhold |
+|---|---|
+| 1–3 | Tittel, periode (01.10.2026–31.12.2028), klassifisering |
+| 4 | Prosjektsammendrag |
+| 5 | Hovedmål og seks delmål (D1–D6) |
+| 6 | Ny kunnskap — fire konkrete kunnskapsbidrag |
+| 7 | **Kunnskapsstatus og normhull** — det tyngste feltet |
+| 8 | Gjennomføring: AP1, AP2, AP3, AP3b, AP4, AP5 + fem milepæler |
+| 9 | Fem risikofaktorer med håndtering |
+| 10 | Resultat og nytteverdi |
+| 11 | Budsjett per kostnadskategori og per år |
+| 12 | Prosjektorganisering |
+| 13 | Avgrensning mot ordinær virksomhet |
+
+**Slik er labkostnaden håndtert (jf. beslutning EL 01.09.2026).** AP3 beskriver *aktiviteten* — «prøving til brudd etter prinsippene i NS-EN 408» — og angir tre likeverdige gjennomføringsveier: lånt institusjonell fasilitet, innkjøpt prøvingstjeneste, eller egenbygget prøverigg. Ingen leverandør er navngitt, og ordet «innleid lab» er ikke brukt. Kostnadene ligger som **variable poster på til sammen 0–1 600 000 kr**, adskilt fra de faste. Budsjettet er uttrykkelig beskrevet som en **øvre ramme**: lavere forbruk har ingen konsekvens.
+
+**Revisjon 01.09.2026 — budsjett og omfang skalert opp (EL).** Budsjett økt til ca. 12 MNOK over 3 år, startdato flyttet til 01.01.2026, søker fastsatt til **KodeWorks Eiendom AS (org.nr. 920 478 506)**.
+
+Omfanget måtte utvides tilsvarende. Et misforhold mellom aktivitetsplan og budsjett er i seg selv en avslagsgrunn. Endringer:
+
+| | Før | Etter |
+|---|---|---|
+| Periode | 01.10.2026 – 31.12.2028 | **01.01.2026 – 31.12.2028** |
+| Arbeidspakker | 6 (AP1–AP5 + AP3b) | **8 (AP1–AP8)** |
+| Delmål | 6 | **8** |
+| Prøvesett | 120 stokker | **450 stokker** |
+| Bemanning | 2 personer, 800 t | **4 personer, 10 500 t** |
+| Totalbudsjett | 1,05 – 1,5 MNOK | **11,2 – 12,8 MNOK** |
+| Skattefradrag | 199 500 – 285 000 | **2 128 000 – 2 432 000** |
+
+**Tre nye arbeidspakker** som bærer det økte omfanget, alle faglig nødvendige for at metoden skal være brukbar:
+
+- **AP5 Sporbar dokumentasjon** — ombrukte byggevarer krever dokumentert egnethet per enhet. Ingen etablert praksis finnes når hver enhet er unik. Har selvstendig produktverdi.
+- **AP6 Forbindelser i gjenbrukt rundtømmer** — en fasthetsklasse er verdiløs uten en måte å koble stokken til konstruksjonen. Rundt tverrsnitt med eksisterende hull er ikke dekket av Eurokode 5.
+- **AP8 Fullskala verifisering** — fasthet i én stokk beviser ikke at gulvet bærer. Broen fra enkeltelement til systemkapasitet. Dette absorberer det som tidligere var «forslag 3» (bæreevne målt, ikke beregnet) i reservelisten.
+
+AP4 er utvidet fra kun brannskade til brann **og** råte, med posisjonsbasert prediksjon. Det henter inn råtetemaet fra reservelisten i en sensorfri variant: obduksjon ved utgraving i stedet for overvåking.
+
+**Konsekvens for stabling.** Med 12 MNOK grunnlag er stabling ikke lenger en begrensning. KMFs grunnlag er 2,5 MNOK og Enova-OMs 1 MNOK — til sammen under en tredel av prosjektet. Storparten av kostnadene bærer kun SkatteFUNN på 24,4 % GGE, langt under alle tak. Stablereglene under gjelder fortsatt for de kostnadene som faktisk overlapper.
+
+**Retroaktiv start.** 01.01.2026 er bevisst. Kostnader kan henføres fra prosjektstart innenfor det inntektsåret godkjenning foreligger. Registrerings- og avdekkingsarbeidet i kjelleren første halvår 2026 er reelt utført og inngår i AP1.
+
+**Grep for å komme gjennom nåløyet.** Seksjon 7 setter normhullet eksplisitt: NS-EN 14081 gjelder ferskt skurlast med rektangulært tverrsnitt; NS-EN 17121 vurderer konstruksjoner *der de står*, ikke enkeltstokk for ny innbygging; ombrukte byggevarer faller utenfor CE-merking og krever dokumentert egnethet uten at regelverket sier hvordan. Seksjon 13 er lagt til for å skille FoU fra ordinær rehabilitering — det er den vanligste avslagsgrunnen for byggrelaterte søknader.
+
+**Søker er fastsatt:** KodeWorks Eiendom AS, org.nr. 920 478 506. Fisjonen (T32) håndteres separat; en eventuell overføring av prosjektet til Fjordgata 30 AS tas som egen sak dersom det blir aktuelt.
+
+**Ikke avklart, og bevisst ikke til hinder for søknadsteksten:** status Enova-OM, håndverkertimer som FoU-kostnad. Ingen av delene påvirker teksten.
+
+**Referanser må kontrolleres** mot gjeldende utgave av standardene før innsending.
+
+---
+
+**Revisjon 2 — tilpasset det faktiske skjemaet (01.09.2026).** Råutklipp av skjemaet fra Forskningsrådets nettside lagt i `bakgrunn/2026-09-01_sf_mal.md`, renskrevet til `bakgrunn/2026-09-01_sf_mal_renskrevet.md`. Søknaden er deretter skrevet om felt for felt.
+
+Skjemaet avvek vesentlig fra antakelsene i første utkast:
+
+| Funn | Konsekvens |
+|---|---|
+| **Budsjett føres per arbeidspakke per år**, ikke etter kostnadskategori. Totalen summeres automatisk | Budsjettet bygget om. AP-fordeling 2026/2027/2028 lagt inn per pakke |
+| **Maks 8 arbeidspakker** | Alle åtte plasser er brukt. Ingen ledig plass |
+| **2–8 aktiviteter per arbeidspakke**, med eget navn og beskrivelse | 24 aktivitetsblokker skrevet (3 per pakke) |
+| **Tegngrenser langt strammere enn antatt.** FoU-utfordring per AP: 500 tegn. Hovedmål og sammendrag: 1 000 | All tekst kortet ned. Alle 65 felt maskinelt kontrollert mot grensen |
+| **Aktivitetskategori settes per arbeidspakke**, forhåndsmerket «eksperimentell utvikling» | Industriell forskning valgt på AP1–AP7, begrunnet i fritekstfeltet for FoU-innhold slik skjemaet krever |
+| **Sammendraget publiseres offentlig** i prosjektbanken | Skrevet uten sensitiv informasjon |
+| Startdato må ligge i perioden 01.01.2026–31.12.2026 | 01.01.2026 er gyldig. Uendret |
+| **Ingen felt for risiko, prosjektorganisering eller avgrensning mot ordinær drift** | Risiko flyttet inn i FoU-utfordring/metode per AP. Kompetanse inn i seksjon 5.1 og rollelisten. Avgrensning inn i aktivitetsbeskrivelser og kostnadsspesifikasjoner |
+
+**Budsjett (kontrollert maskinelt):** 1 600 000 / 3 550 000 / 4 550 000 = **9 700 000 kr**. Personal 5 650 000 (ca. 8 100 timer), andre driftskostnader 4 050 000. **Skattefradrag 19 % = 1 843 000 kr.** Budsjettert som øvre ramme; lavere forbruk har ingen konsekvens.
+
+**Revisjon 3 (01.09.2026) — budsjett ned til 9,7 MNOK, AP5 og AP6 skjerpet.**
+
+Websøk mot Forskningsrådet avklarte to ting som styrte revisjonen:
+
+- **SkatteFUNN er en rettighetsordning.** Alle prosjekter som oppfyller kriteriene godkjennes. 79 % av 2 644 søknader ble godkjent i 2024. Det er ikke en konkurranse mot andre søknader.
+- **En søknad kan bli «godkjent med begrensninger»** — saksbehandler kan stryke *enkelte arbeidspakker*. Hver pakke må derfor forsvare seg selvstendig. Forskningsrådet skriver at man ikke skal ta med arbeidspakker som ikke er nødvendige for å nå hovedmålet.
+
+Snittbudsjett i porteføljen er ca. 5,6 MNOK per prosjekt (4 829 løpende prosjekter, ca. 27 mrd. kr, 2023). 9,7 MNOK er dermed under det dobbelte av snittet. Antall arbeidspakker per godkjent søknad er **ikke publisert** — det finnes ingen statistikk på det.
+
+**AP5 og AP6 var de to pakkene som lå lengst fra hovedmålet og lettest kunne blitt strøket.** Koblingen er skjerpet:
+
+- **AP5:** Argumentet er nå at klassifisering og dokumentasjon er *samme problem*. For nytt virke bærer sortimentsstempelet fasthetsklassen. For unikt ombrukt materiale finnes ingen slik bærer, og modellen fra AP7 er ikke anvendbar før dette er løst. Hovedmålet sier «kan brukes i bærende konstruksjon etter TEK17» — uten dokumentert egnethet per enhet er det målet ikke nåbart.
+- **AP6:** Argumentet er nå at pakken leverer *to inngangsdata til AP7*, ikke et sidespor. (1) Forbindelseskapasiteten setter den reelle øvre grensen for hva en fasthetsklasse kan utnyttes til. (2) Reduksjonsfaktoren for tappehull i AP7-modellen avhenger av om hullet brukes som innfesting eller unngås — det avgjøres i AP6.
+
+Budsjettreduksjonen er tatt som lavere timeantall og lavere prøvingsomfang, ikke ved å fjerne arbeidspakker. Prøvesettet på 450 stokker står. Alle 65 tekstfelt er på nytt kontrollert mot tegngrensene — ingen over.
+
+**Gjenstår før innsending:** personopplysninger for prosjektdeltakere (fødselsdato, nasjonalitet, kjønn, e-post, mobil — må matche personens egen innlogging), valg av fagkoder og søknadskategori i nedtrekk, og kontroll av standardreferanser mot gjeldende utgave.
+
+**Revisjon 4 (01.09.2026) — prosjektdeltakere lagt inn (EL).** Ole Morten Lagmannssveen (HRP AS), Kristian Brandsegg (KMTE) og Lasse Holanger (KodeWorks Eiendom AS) lagt inn som prosjektdeltakere i seksjon 3. Kontaktdata hentet fra `data/team.json`.
+
+Kompetansebeskrivelsen i seksjon 5.1 er utvidet tilsvarende. Det er ikke kosmetikk: skjemaet sier at kompetansen til prosjektgruppen vurderes i søknadsbehandlingen. Ole Morten er PGL med antikvarisk istandsetting som spesialfelt og forfatter av `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md` — altså den som selv avdekket og dokumenterte konstruksjonen søknaden handler om. Det er det sterkeste kompetansebeviset søknaden har.
+
+⚠️ **Skille innført i søknaden:** Ole Morten (HRP AS) og Kristian (KMTE) er ikke ansatt i KodeWorks Eiendom AS. Timene deres er innkjøpte tjenester og skal føres under **andre driftskostnader**, ikke under personal- og indirekte kostnader. Personalbudsjettet på 5 650 000 kr gjelder kun Eirik, Lasse, Ain og de to som skal rekrutteres. Merknaden står i seksjon 3 for å hindre feilføring senere.
+
+**Åpent:** e-postadressen til Ole Morten står som `ola@hrprosjekt.no` i `data/team.json` og som `ola@hrpas.no` i `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`. Må kontrolleres — skjemaet krever at adressen matcher personens egen innlogging. Mobilnummer for Lasse Holanger mangler helt. Fødselsdato, nasjonalitet og kjønn mangler for alle fire navngitte deltakere.
+
+---
+
+#### Neste steg
+
+1. ~~Avklar søkende selskap~~ — avklart: KodeWorks Eiendom AS
+2. Avklar status Enova-OM (**T22**)
+3. Avklar håndverkertimer som FoU-kostnad med regnskapsfører
+4. Sondér NTNU Bygg om labtilgang — uforpliktende
+5. Skriv full prosjektbeskrivelse for Mitt SkatteFUNN
+
+**Berørte filer:**
+
+- `TASKS.md` (denne tasken)
+- `stotte/fg30_skattefunn_vurdering.md` — bør merkes som delvis utdatert når T144-søknaden skrives
+- `stotte/2026-09-01_skattefunn_soknad_ombruk_tommer.md` (ny — full søknadstekst, felt for felt etter skjemaet)
+- `stotte/2026-09-01_skattefunn_soknad_ombruk_tommer.pdf` (ny — PDF av søknaden, 16 sider A4, pandoc + xelatex 01.09.2026)
+
+**PDF-bygg — to ting som må gjøres i byggekopien, ikke i kilden:**
+
+1. **Emoji bryter LaTeX.** Erstattes med rentekst (`📏` til «maks N tegn», `🔲` til `[FYLL UT]`, `☑` til `[X]`, `⚠️` til «Merk:»).
+2. **Feltteksten ligger i kodeblokker (```` ```text ````), og LaTeX bryter aldri linjer i kodeblokker.** Første PDF-forsøk mistet derfor ca. 22 000 tegn ut i margen uten feilmelding — 29 485 tegn i PDF mot 51 768 etter fiksen. Kodeblokkene må konverteres til blokksitat før pandoc kjøres. Blokksitat er stylet med en farget venstrekant via `-H header.tex` (framed + xcolor), slik at feltinnhold fortsatt skiller seg visuelt fra kommentarene.
+
+Markdown-kilden beholder kodeblokkene — de er der for å kunne kopieres rett inn i skjemafeltene. Byggeskriptene ligger i sesjonens scratchpad; regenerer ved behov.
+- `bakgrunn/2026-09-01_sf_mal.md` (ny — råutklipp av skjemaet fra Forskningsrådet)
+- `bakgrunn/2026-09-01_sf_mal_renskrevet.md` (ny — renskrevet skjemamal med tegn- og antallsgrenser)
+- `stotte/fg30_skattefunn_prosjektforslag.md` (opprettes ved behov — de tre forslagene side om side)
+- Kobling: **T22** (Enova ombruk), **T32** (fisjon), **T68** (lagringsplattform / Spor A), **T140** (arbeidsavtale Ain)
+
+**Kilder:**
+
+- `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md` (gjenbrukstømmer, lafteknuter, råte- og brannskader)
+- `bakgrunn/2026-06-27_1980tall_rehabilitering.md` (bryggebrannen, brannskadd rundtømmer i kjeller)
+- `bakgrunn/2026-04-16_arbeid_kristian.txt` (sortering av rundtømmer, brannskadd materiale)
+- `bakgrunn/2026-06-26_enova_status.md` (Enova ombrukskartlegging, saksnr. 26/2555)
+- `bakgrunn/2026-06-23_kartlegging_max_stotteintensitet.md`
+- `stotte/project_cards.json` (KMF-FG30 og ENOVA-OM-FG30: budsjett, intensitet, arbeidspakker, vilkår)
+- `stotte/fg30_skattefunn_vurdering.md` (23.06.2026)
+- `../stotte/README.md` (GGE-oppjustering 19 % → 24,4 %; statsstøttetak 80 % / 60 %; `OverCeiling`-sperre)
