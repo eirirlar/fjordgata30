@@ -355,6 +355,11 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **27.06.2026** – **Støttekoordinering dokumentert.** Internt sammendrag av `../stotte`-prosjektet (Google Sheets-arbeidsbok og Python-referansemotor for sporing av tilskuddskostnader og timer på tvers av Sunlit Sea AS, EnerSky AS og KodeWorks Eiendom AS) utarbeidet som referansedokument for FG30. Dekker kumuleringsprinsippet (70 %-tak for samlet støtteintensitet), overlappshåndtering mellom ordninger og koordinering av de fem aktive ordningene (KMF, BYA, UNI, Enova KL, Enova OM).[^78]
 
+
+### Juli–september: Nabovarsel og grunneiersvar
+
+**02.09.2026** – **Trondheim kommune (Eierskapsenheten) avslår rampe på offentlig grunn.** Svar på nabovarsel for tiltak/byggeplaner i Fjordgata 30, sak 2026/28897, saksbehandler Håkon Midtsand Andersen. Kommunen forvalter grunneierrollen for gnr. 401 bnr. 380 (gategrunn kvadrant 2A Midtbyen). Søknaden gjaldt dispensasjon fra reguleringsplanens formål for å etablere rampe på offentlig grunn. Kommunen viser til hovedregelen om at nivåforskjeller mellom gategrunn og bygningens inngangsflate skal løses innendørs, vurderer innvendig løsning som mulig for universell utforming, og viser til flere eksempler i samme gateløp. Konklusjon: rampe tillates ikke på 401/380 utenfor Fjordgata 30. **Konsekvens:** innvendig rampeløsning vil kunne berøre bjelkelag under 1. etasje som i utgangspunktet ikke skulle kuttes – antikvarisk problemstilling som må avklares med Byantikvaren.[^81]
+
 ---
 
 ## Udokumenterte hendelser – mangler tilstrekkelig underlag
@@ -536,4 +541,6 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^80]: `bakgrunn/2026-07-01_bya_bekreftelse_konseptendring.md` – Byantikvarens bekreftelse (Silje Taftø Petersen og Roy Åge Håpnes, e-post 01.07.2026, sak 2025/5928) på at konseptendringen fra kontor til minilager ikke berører grunnlaget for tilskuddet, og at 30 % støtteintensitet av totalsum aksepteres. Parallelt med Kulturminnefondets omdisponeringsvedtak 02.07.2026. Kilde for § 1.2 i utbetalingsanmodning-vedlegget (`leveranser/2026-08-25_fg30_utbetalingsanmodning_vedlegg.md`).
 
-*Sist oppdatert: 25. august 2026*
+[^81]: `bakgrunn/2026-09-02_svar_nabovarsel_rampe_trondheim_kommune.md` – Trondheim kommune, Eierskapsenheten, svar på nabovarsel, 02.09.2026. Vår ref. 2026/28897, dok.nr. 120069/2026. Fra Frank Grønås (avdelingsleder) og Håkon Midtsand Andersen (rådgiver). Adressert til Saaha AS. Avslår etablering av rampe på kommunal gategrunn gnr. 401 bnr. 380. Kilde-PDF: `bakgrunn/nye/Gnr. 401 bnr. 380 - gategrunn kvadrant 2A Midtbyen. Vedrørende mottatt nabovarsel for tiltak_byggeplaner i Fjordgata 30.pdf`.
+
+*Sist oppdatert: 3. september 2026*

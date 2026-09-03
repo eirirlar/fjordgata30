@@ -4,7 +4,7 @@ author: "Eirik Larsen, KodeWorks Eiendom AS"
 date: "1. september 2026"
 ---
 
-**Til:** Silje Taftø Pedersen, Byantikvaren, Trondheim kommune\
+**Til:** Silje Taftø Petersen, Byantikvaren, Trondheim kommune\
 **Kopi:** Roy Åge Håpnes, Byantikvaren · Ole Morten Lagmannssveen, HRP AS\
 **Emne:** Fjordgata 30 – arbeid i kjelleren, avgrensning mot grunnarbeid
 

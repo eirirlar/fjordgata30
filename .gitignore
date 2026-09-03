@@ -7,3 +7,4 @@ __pycache__/
 whisper-env/
 bank/*.docx
 bank/*.pdf
+leveranser/*.pdf

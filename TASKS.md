@@ -553,9 +553,8 @@ Hvorfor: dokumentasjonen skal vise to ting. (1) Det vi fjernet var dårlig mater
 
 **Løst 01.09.2026:** Utkast skrevet til `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md`. Dekker alle seks innholdspunktene under. Ingen vedleggsreferanser og ingen personlige formuleringer. Sendes ikke før e-postadresse og skrivemåte av etternavn er bekreftet (se over).
 
-**Mottaker:** Silje Taftø Pedersen, Byantikvaren, Trondheim kommune. Kopi: Roy Åge Håpnes.\
-**E-postadresse:** *ikke bekreftet — må hentes før utsending.*\
-**Merk:** navnet er skrevet «Petersen» i befaringsreferatet og «Pedersen» i SMS-en. Sjekk riktig skrivemåte før utsending.
+**Mottaker:** Silje Taftø Petersen, Byantikvaren, Trondheim kommune. Kopi: Roy Åge Håpnes.\
+**E-postadresse:** silje-tafto.petersen@trondheim.kommune.no
 
 **Formål:** Skape skriftlig spor. Bekrefte hva vi gjør og ikke gjør, og at vi holder oss innenfor det BYA selv ga OK til 12.08. Ikke krangle på RA-henvisningen.
 
