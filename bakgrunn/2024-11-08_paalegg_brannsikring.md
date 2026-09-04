@@ -89,6 +89,14 @@ pålegg datert 18.03.2024, hvor vi bl.a. aksepterte forpliktende handlingsplan d
 
 I samme brev skriver vi bl.a. følgende:
 
+> **3) Vedrørende punkt 5 – midlertidig permanent periode og fremtidig bruk**
+>
+> Dere skiller mellom sikkerhetsnivået for en *«midlertidig periode»*, frem til ombygging av brygga evt. vil starte ca. 01.01.2025, og perioden etter. Vi bemerker at kravene iht. brannvernlovgivningen må etterleves til enhver tid.
+>
+> I forbindelse med et planlagt restaureringsprosjekt og fremtidig bruk av brygga er det utarbeidet fremdriftsplan, med oppstart 01.04.2024 og en estimert dato for innflytting som er satt til 01.07.2026. Vi ber om statusoppdatering og dokumentasjon underveis i prosessen, med følgende frister:
+
+*(Sitatet over lå som bilde på side 2 i original-PDF-en. Teksten er lest ut av bildet og skrevet av.)*
+
 
 
 
@@ -97,6 +105,16 @@ ikke klarer å holde fristene. Dere har sendt inn ny revidert fremdriftsplan 02.
 
 Vi har kommentert fremdriftsplanen i brev datert 06.08.2024. Ytterligere forsinkelse av brannsikring
 ble ikke akseptert. Vi skriver blant annet følgende:
+
+> Vi viser til revidert fremdriftsplan sendt oss 02.07.2024. Dere informerer blant annet om at planlagt oppstart med restaurering er forskjøvet med 12 mnd. Oppstart restaurering vil etter dette først skje tidligst andre kvartal 2025. Slik vi forstår det vil arbeidet med oppgradering av brannsikkerheten da også forskyves tilsvarende.
+>
+> Dere skriver videre at *«det er stor usikkerhet i planen»*.
+>
+> Vi har forståelse for at planlagte prosjekt krever finansiering, men bemerker samtidig at eiendommen må være i samsvar med kravene i brannvernlovgivning til enhver tid – uavhengig av økonomi. Konsekvensene av manglende brannsikring på eiendommen kan bli meget store om brann skulle oppstå. Det haster med å oppgradere brannsikringen i bygget og få på plass brannsikkerheten.
+>
+> Når dere nå gir uttrykk for at det er usikkert om og når prosjektet kan realiseres (og oppgradering av brannsikkerheten vil skje), så er vi av den oppfatning at oppgradering av brannsikkerheten ikke kan avventes så lenge som forespeilet i deres siste tilbakemelding. Brannsikring må prioriteres uavhengig av planlagte/tenkte prosjekter fremover i tid.
+
+*(Sitatet over lå som bilde på side 3 i original-PDF-en. Teksten er lest ut av bildet og skrevet av.)*
 
 
 

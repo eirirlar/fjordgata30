@@ -23,14 +23,14 @@
 
 ## Sammendrag
 
-Første fysiske befaring med både Byantikvaren og Kulturminnefondet i denne fasen. Åpnet opp deler av kjellergulvet i det siste døgnet, og avdekket at det opprinnelige bolverket + kavlegulvet fortsatt ligger *bak* natursteinsmuren — ikke fjernet i 1983-ombyggingen slik man har antatt. Overraskende funn både for FG30-sidens fagfolk og for Byantikvaren. Byantikvaren tar saken med hjem til diskusjon mandag/tirsdag, og gir tilbakemelding neste uke om videre marsjordre. Kulturminnefondet bekrefter at framgangen ser bra ut og at slutt-rapporteringsfrist (mars 2027) er komfortabel. FG30 tar RIB-vinklet dokumentasjon videre og sender kort tilstandsrapport til Byantikvaren.
+Første fysiske befaring med både Byantikvaren og Kulturminnefondet i denne fasen. Åpnet opp deler av kjellergulvet i det siste døgnet, og avdekket at det opprinnelige bolverket + kavlegulvet fortsatt ligger *bak* natursteinsmuren — ikke fjernet i 1983-ombyggingen slik det er lagt til grunn i tidligere saksbehandling. Funnet var overraskende for Byantikvaren. Byantikvaren tar saken med hjem til diskusjon mandag/tirsdag, og gir tilbakemelding neste uke om videre marsjordre. Kulturminnefondet bekrefter at framgangen ser bra ut og at slutt-rapporteringsfrist (mars 2027) er komfortabel. FG30 tar RIB-vinklet dokumentasjon videre og sender kort tilstandsrapport til Byantikvaren.
 
 ---
 
 ## Post 01 – Kartlegging av opprinnelig bæresystem
 
 **01.01 Funn under gulvet**\
-Bak natursteinsmuren (ca. 2/3 av kjelleren, målt fra Fjordgata) ligger det fortsatt et intakt bolverk med kavlegulv over — begge deler i original stand. Vi trodde tidligere at 1983-ombyggingen hadde fjernet dette for å gi plass til nye fundamenter. Den innerste delen ligger nedpakket i jord/grus uten annen fundamentering.
+Bak natursteinsmuren (ca. 2/3 av kjelleren, målt fra Fjordgata) ligger det fortsatt et intakt bolverk med kavlegulv over — begge deler i original stand. Tidligere saksbehandling har lagt til grunn at 1983-ombyggingen fjernet dette for å gi plass til nye fundamenter. Den innerste delen ligger nedpakket i jord/grus uten annen fundamentering.
 
 **01.02 Ole Mortens vurdering (RIB-vinkel)**\
 Alle fundamentene er kartlagt og beregnet. Planen fremover: steg-for-steg midlertidig oppsletting → nye fundamenter under nytt betonggulv → gamle bolverk-elementer forsvinner. Kavlegulvet skal repareres der det er dårlig, og suppleres med bæringer på flere steder.
@@ -43,10 +43,10 @@ Byantikvaren viser til «Neste Stopp»-brygga på Kjøpmannsgata mot Almenningen
 
 ---
 
-## Post 02 – Overraskelser og revurdering av tidligere antakelser
+## Post 02 – Byantikvarens revurdering av tidligere antakelser
 
 **02.01 Bolverket lå der hele tiden**\
-Både FG30-sidens og Byantikvarens tidligere antakelser var at 1983-ombyggingen hadde ryddet ut det meste av opprinnelig bæring — betong «bare heldt» rundt gamle stokker som deretter var fjernet. Faktisk er kavlegulvet bare kappet der de nye fundamentene ligger, og resten ligger igjen. Byantikvaren (Silje): «Det hadde ikke skjedd for meg at det bare hadde heldt det mellom. Vi tolka det som var at her har det vært omkalfatra på.»
+Byantikvarens tidligere antakelse var at 1983-ombyggingen hadde ryddet ut det meste av opprinnelig bæring — betong «bare heldt» rundt gamle stokker som deretter var fjernet. Faktisk er kavlegulvet bare kappet der de nye fundamentene ligger, og resten ligger igjen. Byantikvaren (Silje): «Det hadde ikke skjedd for meg at det bare hadde heldt det mellom. Vi tolka det som var at her har det vært omkalfatra på.»
 
 **02.02 Roy Åges advarsel om graving**\
 Roy Åge understreker: FG30 skal grave seg 0,5–1 m ned innerst. Byantikvaren skjønte ikke nødvendigvis at gravedybden ville nå der. Anbefaling: **kontakt Riksantikvaren så fort som mulig**, før det graves i grunn.

@@ -569,7 +569,11 @@ Hvorfor: dokumentasjonen skal vise to ting. (1) Det vi fjernet var dårlig mater
 
 ---
 
-#### Delleveranse 3 — E-post til Riksantikvaren (klargjøres, sendes IKKE nå)
+#### Delleveranse 3 `[x]` — E-post til Riksantikvaren (erstattet av T145)
+
+**Erstattet 04.09.2026.** Premissen under — «vi kontakter ikke RA før vi må», fordi vi ikke hadde tatt stilling til om vi skulle grave — falt bort med Byantikvarens uttalelse 04.09.2026. Graving kreves uansett bærekonsept. Se **T145** for gjeldende beslutning og utsendt utkast (`leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md`). Teksten under beholdes som spor.
+
+#### Delleveranse 3 (opprinnelig) — E-post til Riksantikvaren (klargjøres, sendes IKKE nå)
 
 **Mottaker:** Sissel Ramstad Skoglund, seniorrådgiver / arkeolog, Riksantikvaren, seksjon for arkeologiske kulturminner\
 **E-post:** sissel.ramstad.skoglund@ra.no\
@@ -912,3 +916,436 @@ Markdown-kilden beholder kodeblokkene — de er der for å kunne kopieres rett i
 - `stotte/project_cards.json` (KMF-FG30 og ENOVA-OM-FG30: budsjett, intensitet, arbeidspakker, vilkår)
 - `stotte/fg30_skattefunn_vurdering.md` (23.06.2026)
 - `../stotte/README.md` (GGE-oppjustering 19 % → 24,4 %; statsstøttetak 80 % / 60 %; `OverCeiling`-sperre)
+
+---
+
+### T145 `[x]` Riksantikvaren — start dialog om graving i grunn
+
+**Kontekst:** Byantikvaren (BYA) leverte sin skriftlige uttalelse om underetasje og kjeller 04.09.2026 (`bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje.md`, konvertert fra PDF). BYA satte Sissel Ramstad Skoglund hos Riksantikvaren (RA) på kopi.
+
+Uttalelsen endrer premissen som T143 delleveranse 3 hvilte på. Der var beslutningen «kontakt RA først når vi må», fordi vi ikke hadde tatt stilling til om vi skulle grave. BYA skriver nå:
+
+> «Dersom man lander på å ikke grave ut kjelleren, vil også reparasjoner av eksisterende betongfundamenter kreve graving og godkjenning av Riksantikvaren.»
+
+**Beslutning (EL, 04.09.2026):**
+
+- Vi må uansett grave for nye søylefundamenter. RA er derfor i kritisk linje, ikke betinget. Dialogen startes nå.
+- **Vi forplikter oss ikke til å søke dispensasjon.** Det er ikke avgjort at tiltaket utløser krav etter kulturminneloven § 8. Brevet spør om det — det forutsetter det ikke.
+- **Vi svarer ikke BYA nå.** Vi venter til dialogen med Sissel er i gang.
+- **Vi ber ikke BYA bekrefte sonegrensen på tegning.** Det låser oss. Minilager-tegningene forutsetter at en liten del mot FG28 har full etasjehøyde, for aksess fra trappehuset (inngang fra Nidelva-siden) og inn i sonen innenfor natursteinsmuren/landkaret. Fleksibiliteten der er verdt mer enn en skriftlig grense.
+- **Vi venter ikke på at Ole Morten priser primær mot sekundær anbefaling.** Det går for tregt, og RA trengs uansett hvilket konsept som velges.
+- **Befaring utsettes bevisst.** Mer råttent tømmer må ut før kjelleren er lesbar. Vi ber om befaring når forholdene tillater det.
+
+#### Faktagrunnlag som korrigerer BYA-uttalelsen
+
+BYA omtaler hovedkonstruksjonen mot kanalen som «bevart». Det er misvisende, og bør ikke ukritisk legges til grunn videre:
+
+- Tilnærmet alt tømmer i sonen utenfor landkaret er råttent og må byttes.
+- Dagens bæring der ligger i **betongsøyler** på stripefundamenter fra 1983. Tømmerstolpene bærer ingenting og står i praksis for syns skyld.
+- Sonen må bevares i den etasjehøyden den står i. Mulig marginal senking ved utskifting av råttent tømmer — ikke vesentlig for diskusjonen med BYA.
+- BYA ønsker at det ikke etableres betongfundament i denne sonen, og at det settes søyler i tillegg til betongfundamenter.
+
+#### Rammesøknad-situasjonen
+
+- Rammetillatelse for ombygging til **kontor** (2023) løper ut ca. **01.12.2026** — tre år uten igangsettingstillatelse (IG).
+- I den tillatelsen var **betonggulv i innerste del av bryggen allerede godkjent**, med vilkår om at graving i grunn måtte avklares med RA før IG.
+- Ny rammesøknad for **minilager** ble levert 12.05.2026.
+- Kobling: **T12** (IG-søknad — dispensasjon etter kulturminneloven § 8 må foreligge før IG).
+
+#### Løsning
+
+**Løst 04.09.2026.** Skrevet e-postutkast til RA: `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md`.
+
+**Mottaker:** Sissel Ramstad Skoglund, sissel.ramstad.skoglund@ra.no, tlf. +47 982 02 856.\
+**Kopi:** Ingen. EL videresender selv til Ole Morten. Kopimottakere skal ikke stå i dokumentet.\
+**Tråd:** svar i den eksisterende 2023-tråden «Fjordgata 30, søknad om dispensasjon – Graving i grunn», så hun slipper å lete opp saken.
+
+Utkastet dekker:
+
+1. Hvem vi er, og kobling til 2023-tråden og BYAs kopi 04.09.2026.
+2. Endringen kontor → minilager, rammesøknad-status og utløpsdatoen 01.12.2026.
+3. Funnet i kjelleren: bolverk og kavlegulv bak natursteinsmuren, nedpakket i jord og grus, med omfattende råte- og brannskader.
+4. Faktisk tilstand, inkludert at bæringen i ytre sone ligger i betongsøyler og at tømmerstolpene ikke bærer.
+5. Hva vi gjør nå: kun fjerning av råttent treverk over muren, ingen inngrep i grunn, skriftlig instruks på stedet med stans- og meldeplikt.
+6. Hvorfor vi tar kontakt: nye søylefundamenter krever graving uansett bærekonsept. Om det utløser krav etter § 8 er stilt som spørsmål, ikke slått fast.
+7. Bevisst utsatt befaring, med begrunnelse (lesbarhet i kjelleren).
+8. Seks spørsmål: middelalderby-grense og myndighet, utfallet av § 14-møtet med fylkeskommunen og NTNU Vitenskapsmuseet, hvilket underlag som trengs for at saken er «godt nok opplyst», forhåndsuttalelse til rammesøknaden, om § 8 i det hele tatt utløses og saksbehandlingstid i så fall, og forventet omfang etter § 10 dersom det blir aktuelt.
+9. Krav om skriftlig svar.
+
+**Bevisste utelatelser i utkastet — for å bevare handlingsrom:**
+
+- Ingen gravedybde oppgitt. Formulert som «omfang og dybde er ikke fastsatt», som noe vi vil avklare sammen med RA.
+- Ingen sonegrense eller bærekonsept låst. Formulert som «vi utreder flere bærekonsepter».
+- Ingen forpliktelse til å søke dispensasjon. Formulert som «vi vet ennå ikke om, eller i hvilken grad, dette utløser krav om dispensasjon etter § 8».
+- Ingen kopimottakere i dokumentet. EL videresender selv til Ole Morten.
+- **Aktiviteten beskrives ett sted, ikke flere.** «Vi fjerner råttent og brannskadet treverk over natursteinsmuren» står kun i avsnittet «Hva vi gjør akkurat nå», der det er omgitt av beskyttelsen: BYAs aksept, ingen inngrep i grunn, skriftlig instruks på stedet og meldeplikt. Gjentakelsene i funn-avsnittet og i befaringsavsnittet er fjernet — der sto handlingen naken, uten den rammen, og kunne trigge krav om stans før befaring. Erstattet med «etter hvert som kjelleren ryddes» og «før forholdene er lesbare».
+- **Ingen åpne dokumentasjonstilbud.** «Vi sender gjerne det samme til dere» og «tilgjengelig for dere på forespørsel» er tatt ut. Grunn: et åpent tilbud til en arkeologisk myndighet trigger krav om mer dokumentasjon, og alt vi sender inn blir en permanent del av deres saksmappe. Vi styrer flyten via spørsmål 3 i stedet — der ber **vi** dem si hva de trenger, og så bestemmer vi hva som sendes. At dokumentasjonen finnes er nevnt, slik at vi ikke kan beskyldes for å ha holdt noe tilbake dersom BYA videresender HRP-notatet.
+- **Ingen eksakte datoer på eget arbeid.** «I august 2026 åpnet vi deler av kjellergulvet» er endret til «Under opprydding i kjelleren…», og befaringsdatoen 12.08.2026 er tatt ut. Grunn: datoer på eget arbeid må ikke komme i utakt med det som står i rapporter og utbetalingsanmodninger til Byantikvaren. Datoer på **andres** dokumenter er beholdt (Skoglunds e-post 14.06.2023, BYAs uttalelse 04.09.2026, rammesøknad levert 12.05.2026, rammetillatelsens utløp ca. 01.12.2026).
+- Arbeidet er i stedet forankret i dokumentasjonssporet: notat og bilder er oversendt BYA som del av løpende rapportering, og dokumentasjonen inngår i rapportering og utbetalingsanmodninger til BYA og KMF.
+- **Ingen påstand om massenes nivå.** Setningen «Jord- og grusnivået går helt opp til undersiden av kavlegulvet» (hentet fra HRP-notatet) er tatt ut. Den er for løs: både massene og kavlegulvet er tredimensjonale, og forholdet mellom dem varierer. Massene når ikke opp til kavlegulvet overalt, og der de eventuelt gjør det, gjelder det delen nærmest Fjordgata. Erstattet med en beskrivelse av at forholdet **ikke er kartlagt**, og at kartleggingen er en del av det vi gjør nå. Dette støtter samtidig begrunnelsen for å utsette befaringen.
+- Ingen kritikk av BYA. Tilstanden beskrives faktabasert i stedet.
+- **Byantikvaren er ikke satt på kopi.** Bevisst valg, i tråd med at vi ikke skriver til BYA nå. EL avgjør før utsendelse om BYA likevel skal på kopi — det vil vise BYA at vi følger deres råd, men åpner samtidig en kanal vi har valgt å holde lukket en stund.
+
+#### Beslutning: «overraskelse» tilskrives Byantikvaren, ikke oss
+
+**Beslutning (EL, 04.09.2026):** Vi ble ikke overrasket over funnet i kjelleren. Det var Byantikvaren som ble overrasket. Konstruksjonen kunne ses ved å flytte noen planker, og BYA har hatt flere befaringer og full anledning til å inspisere.
+
+Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklaring på hvorfor deres behandling av rammesøknaden bygget på feil premiss. Den er deres, ikke vår, og skal ikke gjentas i noe vi selv skriver.
+
+**Hvorfor det betyr noe:** overfor Riksantikvaren og andre myndigheter leses «vi ble overrasket» som at tiltakshaver ikke kjenner eget bygg. Det svekker oss i den vurderingen RA skal gjøre — om vi klarer å opplyse saken — og inviterer til krav om mer undersøkelse før noe avgjøres.
+
+**Standardformulering videre:** beskriv funnet og tilstanden. Der premisset må omtales, skriv «slik det er lagt til grunn i tidligere saksbehandling» eller tilskriv BYA eksplisitt.
+
+**Rettet i våre egne dokumenter:**
+
+- `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` — «Dette var overraskende for oss. Vi trodde konstruksjonen var fjernet…» fjernet.
+- `referat/2026-08-12_befaring_byantikvaren_kmf.md` — fire steder: sammendraget, post 01.01, overskriften på post 02 og post 02.01. Siljes sitater står uendret.
+- `bakgrunn/2026-08-25_sammenstilling_fremdrift_sommer_2026.md` — «motsatt av tidligere antakelser» tilskrevet BYA.
+
+**Bevisst ikke rettet — andres dokumenter:**
+
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje.md` — BYAs eget brev. Skal aldri endres.
+- `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md` — HRPs signerte notat. Formuleringen «trodde man» er passiv og tilskriver ikke oss noe direkte. **Beslutning (EL, 04.09.2026): notatet står urørt, uten redaktørkommentar.** Notatet er allerede oversendt Byantikvaren. En endring nå ville skapt to versjoner ute, og gevinsten er liten når formuleringen uansett er passiv. Å redigere et signert fagnotat i etterkant ødelegger dessuten bevisverdien.
+
+**Ikke gjort:**
+
+- Ingen PDF eller DOCX generert. Bestilles separat ved behov.
+- `historikk.md` er ikke oppdatert med BYA-uttalelsen 04.09.2026.
+- BYA-uttalelsen ligger fortsatt i `bakgrunn/nye/` og er ikke klassifisert inn i `bakgrunn/`.
+
+**Berørte filer:**
+
+- `TASKS.md` (denne tasken; T143 delleveranse 3 markert som erstattet)
+- `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` (ny)
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje.md` (ny — konvertert fra PDF)
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/bilder/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje-fig-000.png` (ny — illustrasjon, primær anbefaling)
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/bilder/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje-fig-001.png` (ny — illustrasjon, sekundær anbefaling)
+
+**Kilder:**
+
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje.md`
+- `bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`
+- `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md`
+- `referat/2026-08-12_befaring_byantikvaren_kmf.md`
+- `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md`
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`
+- `bakgrunn/2013-10-30_eiendomsinformasjon_matrikkelen.md` (gnr. 401 bnr. 149)
+- `bakgrunn/lovverk/kulturminneloven.md`
+
+---
+
+### T146 `[ ]` Send henvendelsen til Riksantikvaren
+
+**Kontekst:** Utkastet er ferdig og godkjent i innhold, jf. **T145**. Det er ikke sendt. Dette er den eneste gjenstående handlingen i RA-sporet, og RA er i kritisk linje for igangsettingstillatelse (IG).
+
+**Leveranse klar:**
+
+- `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` (kilde)
+- `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.pdf` (3 sider A4, pandoc + xelatex 04.09.2026)
+
+**Mottaker:** Sissel Ramstad Skoglund, seniorrådgiver / arkeolog, Riksantikvaren, seksjon for arkeologiske kulturminner\
+**E-post:** sissel.ramstad.skoglund@ra.no · **Telefon:** +47 982 02 856\
+**Tråd:** svar i den eksisterende 2023-tråden «Fjordgata 30, søknad om dispensasjon – Graving i grunn», så hun slipper å lete opp saken.
+
+#### To avgjørelser EL må ta før utsendelse
+
+1. **Skal Byantikvaren settes på kopi?** Utkastet har ingen kopimottakere. Beslutningen i T145 var å holde BYA-kanalen lukket til RA-dialogen er i gang. Kopi vil vise BYA at vi følger deres råd, men åpner samtidig en kanal vi bevisst har holdt lukket. Kopi kan sendes senere — det motsatte går ikke.
+2. **Skal emnefeltet beholdes?** Tråd-tittelen fra 2023 inneholder ordene «søknad om dispensasjon». Det er Skoglunds egen formulering, ikke vår, og brødteksten sier tydelig at spørsmålet er åpent. Anbefaling: behold, fordi gjenkjennelse er verdt mer enn ett ord i emnefeltet.
+
+**Ole Morten:** ikke satt på kopi i dokumentet. EL videresender selv.
+
+#### Etter utsendelse
+
+- Noter utsendelsesdato i denne tasken og i `historikk.md`.
+- Forvent treg saksbehandling. Purr etter ~3 uker hvis det er stille.
+- Ved svar: opprett oppfølgingstask på det RA faktisk ber om (underlag, befaring, eventuell § 8-søknad).
+- Befaring skal først skje når kjelleren er ryddet nok til å være lesbar. Vi gir beskjed når den er klar.
+
+**Berørte filer:**
+
+- `TASKS.md` (denne tasken)
+- `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` og `.pdf`
+- Kobling: **T145** (utarbeidelse og beslutninger), **T12** (IG-søknad), **T143** (kjeller — arbeidsavgrensning)
+
+**Kilder:**
+
+- `bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`
+- `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje.md`
+
+---
+
+### T147 `[ ]` TBRT-sporet videre — DSB, Sivilombudet og statusoppdatering
+
+**Formål:** Fire leveranser som henger sammen. (1) Søknad til DSB om å frafalle påløpt tvangsmulkt på kr 184 000. (2) Klage til Sivilombudet på TBRTs saksbehandling. (3) Statusoppdatering til TBRT som holder bero-beslutningen i live. (4) Anmodning om betalingsutsettelse som gir tid til de to første.
+
+Denne tasken er skrevet slik at den kan plukkes opp på en annen maskin uten forkunnskap. Alt av saksnummer, datoer, kontaktpunkter og kildefiler står her.
+
+---
+
+#### A. Sakens fakta — alt du trenger
+
+**Eiendom:** Fjordgata 30, 7010 Trondheim. Gnr. 401, bnr. 149. Bygningsnr. 182133272.\
+**Tiltakshaver:** KodeWorks Eiendom AS, org.nr. 920 478 506.\
+**Verneklasse:** B i Trondheim kommunes arealplan. Bygget er fra 1857, del av bryggerekka.
+
+**Motpart:** Trøndelag brann- og redningstjeneste IKS (TBRT), Sluppenvegen 18, 7037 Trondheim. Org.nr. 992 047 364. postmottak@tbrt.no, tlf. +47 725 47 600.\
+**Saksansvarlig hos TBRT:** Morten Knutsen, gruppeleder, tlf. +47 920 89 414.\
+**Øvrige navn hos TBRT:** Anna-Karin Hermansen (leder forebyggende / fung. brannsjef), Torbjørn Mæhlumsveen (brann- og redningssjef), Geir Jacobsen og Tove-Kristin Reitan (juridiske rådgivere).\
+**TBRTs saksnummerserie:** 24/1007-xx.
+
+**Byggesak:** BYGG-26/81377 hos Trondheim kommune, byggesakskontoret. Saksbehandler Matilde Lader. byggesak.postmottak@trondheim.kommune.no, tlf. +47 725 42 500. Ansvarlig søker er SAAHA AS v/ Adnan Harambasic.
+
+**Tidslinje:**
+
+| Dato | Hendelse | TBRT-saksnr. |
+|---|---|---|
+| 11.01.2024 | Tilsyn. Avvik mot forskrift om brannforebygging §§ 4, 5, 8 og 9 | |
+| 24.01.2024 | Tilsynsrapport | |
+| 18.03.2024 | Gjentatt varsel om pålegg. Handlingsplan av 05.03.2024 akseptert | |
+| 02.07.2024 | Revidert fremdriftsplan sendt TBRT | |
+| 06.08.2024 | TBRT aksepterer ikke ytterligere forsinkelse | |
+| 04.11.2024 | Statusmøte | |
+| 08.11.2024 | **Pålegg om brannsikring.** Frist 01.05.2025 | 24/1007-27 |
+| 07.05.2025 | **Vedtak om løpende tvangsmulkt**, kr 2 000/dag | |
+| 30.09.2025 | Klageorganet: klage på *vedtaket* ikke tatt til følge | |
+| 16.09.2025 | TBRTs eget saksfremlegg bekrefter at **alle avvik unntatt sprinkler er lukket** | |
+| 19.03.2026 | 1. innkreving, periode 01.03–18.03.2026, **kr 36 000** | |
+| 17.04.2026 | 2. innkreving, periode 19.03–14.04.2026, **kr 54 000** | 24/1007-46 |
+| 11.05.2026 | Uformelt varsel til TBRT om at rammesøknad var klar | |
+| 12.05.2026 | **Rammesøknad levert** Trondheim kommune | BYGG-26/81377 |
+| 19.05.2026 | Supplering til rammesøknaden | |
+| 03.06.2026 | 3. innkreving, periode 15.04–26.05.2026, **kr 94 000** | 24/1007-52 |
+| 11.06.2026 | Statusmøte med TBRT | |
+| 17.06.2026 | Vårt møtereferat sendt TBRT | |
+| 18.06.2026 | **Klage på alle tre innkrevinger.** Kopi av rammesøknad sendt TBRT | |
+| **25.06.2026** | **TBRT setter løpende innkreving i bero fram til 01.01.2027** | 24/1007-63 |
+| 26.06.2026 | Oppreisning av klagefrist + utsatt iverksetting innvilget | 24/1007-62 |
+| 26.06.2026 | Saksfremlegg til klageorganet | 24/1007-61 |
+| 16.07.2026 | Byggesakskontoret: foreløpig tilbakemelding, søknaden mangelfull | BYGG-26/81377-5 |
+| 12.08.2026 | Befaring med Byantikvaren og Kulturminnefondet | |
+| 25.08.2026 | **Klageorganet: klagen ikke tatt til følge.** Sak 3/26 | |
+| 02.09.2026 | Orientering om vedtaket | 24/1007-65 |
+| 04.09.2026 | Byantikvarens uttalelse om hovedkonstruksjoner | |
+
+**Økonomi:**
+
+| Post | Beløp | Status |
+|---|---|---|
+| Innkrevd tvangsmulkt, tre ganger | **184 000** | Forfalt. Klageveien brukt opp |
+| Løpende mulkt etter 26.05.2026 | 2 000/dag | **I bero til 01.01.2027** |
+| Påløpt i bero-perioden | ikke fakturert | TBRT kan kreve **tilbake i tid** hvis forutsetningene brytes |
+
+**Bero-beslutningens tre forutsetninger** (TBRTs egne ord, brev 25.06.2026):
+
+1. Nødvendige søknader til plan- og bygningsmyndighetene inngis «så snart som mulig» etter at rammesøknaden godkjennes — herunder søknad om igangsetting og *«evt. særskilte søknader knyttet til branntekniske installasjoner»*
+2. Utførelse av brannsikring følger «umiddelbart» etter at tillatelsene foreligger
+3. Brannsikringen prioriteres
+
+**Kjernen i saken:** ett gjenstående avvik — sprinkleranlegg. Fastlåsningen er at sprinkler krever inngrep i bygningskroppen, som krever igangsettingstillatelse, som krever rammetillatelse, som ikke foreligger.
+
+---
+
+#### B. Saksbehandlingsfeilene — og hvordan de brukes
+
+Fire punkter fra klagen 18.06.2026 som TBRT ikke gikk inn i. Alle er dokumentert i `bakgrunn/tvangsmulkt/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md`, der klagers anførsler er skrevet av fra skjermbilder.
+
+| Nr. | Anførsel | TBRTs svar | Hjemmel for innvending |
+|---|---|---|---|
+| 4.2 | Faktafeil: TBRT skrev 11.05.**2025** der det skulle stått 11.05.**2026**. Feilen framstiller selskapet som om det ga tomme løfter i over ett år | «Feilen har ikke virket inn på resultatet» | Fvl. § 41. TBRT bestrider ikke feilen, men analyserer ikke virkningen |
+| 4.3 | Sprinkler er rettslig umulig uten rammetillatelse og IG, jf. pbl §§ 29-4 og 31-2, samt Byantikvarens rolle som obligatorisk høringsinstans for verneklasse B | Svarer om tidsbruk i stedet | **Fvl. § 17** (utredningsplikt) og **§ 25** (begrunnelsesplikt). Sentralt rettslig anførsel ikke behandlet |
+| 4.4 | Forskrift om brannforebygging § 6 åpner for kompenserende tiltak i eldre byggverk. Ikke drøftet i noe vedtak | «TBRT har fortløpende vurdert all dokumentasjon» | Fvl. §§ 17 og 25. Påstand uten spor i noe dokument |
+| 4.5 | Forholdsmessighet: kr 730 000/år mot et prosjekt med offentlige tilskudd og levert rammesøknad | «Størrelsen er allerede vurdert» | Forholdsmessighet ved *fortsatt innkreving* under endrede forhold er et nytt spørsmål |
+
+**Slik brukes de to steder — de er ikke like tunge begge steder:**
+
+**Mot DSB.** DSB avgjør etter skjønn om påløpt mulkt skal frafalles. Dette er en rimelighetsvurdering, ikke en lovlighetskontroll. Saksbehandlingsfeilene er derfor **støtteargumenter**, ikke hovedargumentet. Hovedargumentene er praktiske: rettslig umulighet, at alt annet er lukket, at prosjektet er reelt og offentlig finansiert, at TBRT selv satte mulkten i bero, at bygget er tomt, og at mulkten skader den brannsikringen den skal framtvinge. Feilene brukes som et tillegg: de innkrevde periodene ble aldri vurdert mot § 6 eller mot den rettslige umuligheten.
+
+**Mot Sivilombudet.** Her er saksbehandlingsfeilene **hovedsaken**. Sivilombudets mandat er nettopp saksbehandling og rettsanvendelse i forvaltningen. Punkt 4.3 og 4.4 er de sterkeste: en sentral anførsel som besvares med noe annet er en mangel ved både utredningen og begrunnelsen.
+
+**Viktig begrensning:** Sivilombudet kan ikke oppheve vedtak og kan ikke frafalle penger. Uttalelsen er ikke bindende. Verdien er at en kritisk uttalelse gir DSB — eller TBRT selv — en grunn til å snu.
+
+**Rekkefølge — revidert 04.09.2026 etter innspill fra EL.**
+
+Anbefaling: **Sivilombudet først, DSB etterpå.**
+
+Begrunnelse:
+
+- DSBs avgjørelse er skjønnsmessig og i praksis et engangsforsøk. Man vil inn med det sterkeste grunnlaget man kan få.
+- Uten en uttalelse fra Sivilombudet er påstanden om saksbehandlingsfeil **vår egen**. Med en uttalelse er den et **uavhengig organs** vurdering. DSB er et forvaltningsorgan og legger vekt på Sivilombudets syn.
+- **Det finnes ingen frist for en søknad til DSB om frafall.** Dette er ikke en klage, men en anmodning om ettergivelse etter brann- og eksplosjonsvernloven § 39. Å vente koster derfor ingen rettighet.
+- Saken er moden for Sivilombudet nå. Klagemulighetene er uttømt — klageorganet avgjorde saken endelig 25.08.2026.
+
+**Det eneste som taler mot å vente:** de kr 184 000 er forfalt, og Sivilombudet bruker typisk 3–12 måneder. Innkreving kan eskalere i mellomtiden.
+
+**Løsningen på det er ikke å sende DSB tidlig, men å be TBRT om betalingsutsettelse.** TBRT har allerede vist vilje: de ga utsatt iverksetting 26.06.2026 og satte løpende mulkt i bero 25.06.2026. Se delleveranse 4.
+
+**Unntak — send DSB straks hvis:** TBRT avslår betalingsutsettelse, saken sendes til inkasso eller namsmann, eller det går mer enn ca. 9 måneder uten svar fra Sivilombudet. Opplys da DSB om at Sivilombud-saken pågår, og be dem avvente uttalelsen før de avgjør.
+
+**Frist Sivilombudet:** normalt ett år fra vedtaket, altså rundt **25.08.2027**.
+
+**Mandat — verifisert 04.09.2026. Sivilombudet kan behandle klager på TBRT.**
+
+Tre grunnlag:
+
+1. **Sivilombudsloven § 4** (lov 18.06.2021 nr. 121): arbeidsområdet omfatter «den offentlige forvaltningen og alle i dens tjeneste». Unntakene i annet ledd bokstav a–e gjelder Stortinget, statsråd, domstoler og visse kommunestyrevedtak. Interkommunale selskaper er ikke unntatt.
+2. **TBRT utøver offentlig myndighet.** De er tilsynsmyndighet etter brann- og eksplosjonsvernloven, treffer enkeltvedtak (pålegg, tvangsmulkt, innkreving) og anvender forvaltningsloven gjennomgående i egne brev — klagefrist etter § 29, oppreisning etter § 31, utsatt iverksetting etter § 42.
+3. **Direkte presedens mot samme motpart.** Sivilombudet har behandlet en klage mot **Trøndelag brann- og redningstjeneste IKS**, sak 2009/848, uttalelse 29.09.2010: «Sakskostnader – opphevelse av avvisningsvedtak i sak knyttet til vedtak om løpende tvangsmulkt». Saken gjaldt tvangsmulkt etter brann- og eksplosjonsvernloven § 39. Klageorganet het den gang Representantskapet.\
+   <https://www.sivilombudet.no/uttalelser/sakskostnader-opphevelse-av-avvisningsvedtak-i-sak-knyttet-til-vedtak-om-lopende-tvangsmulkt/>
+
+**Forbehold:** 2010-saken ble avgjort under den gamle sivilombudsmannsloven av 1962. Ordlyden om arbeidsområdet er videreført i 2021-loven, og det er ikke holdepunkter for at IKS har falt utenfor. Risikoen for avvisning på mandatgrunnlag vurderes som lav.
+
+**Klagevilkår, sivilombudsloven:**
+
+| Vilkår | Hjemmel | Vår situasjon |
+|---|---|---|
+| Klagemulighetene må være uttømt | § 8 | Oppfylt. Klageorganet avgjorde saken endelig 25.08.2026 |
+| Klagefrist ett år | § 9 | Løper til ca. 25.08.2027 |
+
+---
+
+#### B2. To funn fra 2010-uttalelsen som styrker saken vår
+
+**Funn 1 — TBRT har plikt til å vurdere om pålegget er oppfylt.**
+
+Sivilombudet slo fast at bare sentral tilsynsmyndighet kan ettergi rettmessig påløpt tvangsmulkt, **men at vedtaksorganet har plikt til å vurdere om pålegget er oppfylt**.
+
+Dette treffer anførsel 4.4 direkte. Forskrift om brannforebygging § 6 åpner for at pålegg om brannsikring i eldre byggverk kan oppfylles gjennom kompenserende tiltak. Har TBRT aldri vurdert § 6, har de heller ikke oppfylt plikten til å vurdere om pålegget er etterkommet. Det er noe annet og sterkere enn en ren begrunnelsesmangel.
+
+**Funn 2 — mulkt for perioden etter oppfyllelse er uhjemlet.**
+
+Ordrett fra uttalelsen:
+
+> «Når det aktuelle pålegget er oppfylt etter sitt innhold, påløper derfor ikke lenger tvangsmulkt. Et krav om innbetaling av mulkt for perioden etter dette vil være uhjemlet.»
+
+Nøkkelordene er **«etter sitt innhold»**. Pålegget av 08.11.2024 krever at avvikene i tilsynsrapporten lukkes, ikke at det installeres sprinkleranlegg som sådan. Dersom et forsvarlig sikkerhetsnivå kan dokumenteres på annen måte, er spørsmålet om pålegget da er oppfylt etter sitt innhold. Dette må utredes før det brukes — men det er den mest lovende innfallsvinkelen i hele saken.
+
+**Konsekvens for begge leveransene:** funn 1 er et hovedargument til Sivilombudet. Funn 2 er et hovedargument til DSB, og bør også vurderes framsatt overfor TBRT direkte som en anmodning om å vurdere om pålegget er oppfylt etter sitt innhold.
+
+---
+
+#### C. Forsinkelser vi ikke er ansvarlige for
+
+Skal brukes både mot DSB og i statusbrevet til TBRT. Alle punkter er dokumentert.
+
+| Forsinkelse | Fakta | Kilde |
+|---|---|---|
+| Byggesakskontoret brukte 9 uker | Rammesøknad levert 12.05.2026, supplert 19.05. Foreløpig tilbakemelding først 16.07.2026. Kommunen skriver selv: *«Vi beklager sen tilbakemelding.»* | `bakgrunn/2026-07-16_byggesak_forelopig_tilbakemelding_hovedombygging.md` |
+| Nye krav etter innlevering | Byggesakskontoret krever dispensasjon for to ramper, tillatelse fra Eierskapsenheten for rampe på kommunal grunn, og **omprosjektering** for å oppfylle TEK17 § 12-7 om romhøyde | samme |
+| Eierskapsenheten | Henvendelse om ramper sendt 25.08.2026. Svar avventes | `leveranser/2026-08-25_eierskapsenheten_henvendelse_ramper.md` |
+| Byantikvaren brukte 3,5 uker | Befaring 12.08.2026. BYA lovet tilbakemelding «i løpet av uken». Den kom 04.09.2026. Arbeidet i kjelleren sto i ro hele perioden | `referat/2026-08-12_befaring_byantikvaren_kmf.md`, `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` |
+| Byantikvaren endret premiss | I uttalelsen 04.09.2026 erkjenner BYA at deres behandling av rammesøknaden bygget på feil antakelse om bæresystemet. Det utløser omprosjektering av bærekonseptet i underetasje og kjeller | `bakgrunn/2026-09-04_fjordgata_30_håndtering_av_hovedkonstruksjoner_i_underetasje/` |
+| Ny myndighet i kritisk linje | BYA påla oss 01.09 og 04.09.2026 å kontakte Riksantikvaren. RA skrev allerede i 2023 at dispensasjon må foreligge **før** igangsettingstillatelse | `bakgrunn/2023-06-28_uttalelse_riksantikvaren_graving.txt`, T145/T146 |
+
+**Tone:** faktabasert, ikke klagende. Én linje per forsinkelse, med dato og kilde. Poenget skal framgå av tallene, ikke av adjektivene. **Ikke** nevn personlige forhold hos saksbehandlere (sykdom o.l.) — det er irrelevant og svekker oss.
+
+---
+
+#### D. Delleveranse 1 — Søknad til DSB om frafall av påløpt tvangsmulkt
+
+**Hjemmel:** brann- og eksplosjonsvernloven § 39. TBRT opplyser selv i brev 25.06.2026: *«det er bare sentral tilsynsmyndighet – DSB – som kan frafalle påløpt tvangsmulkt.»*
+
+**Mottaker:** Direktoratet for samfunnssikkerhet og beredskap (DSB), Postboks 2014, 3103 Tønsberg. postmottak@dsb.no. **Orgnr. og korrekt postadresse må verifiseres før utsendelse.**
+
+**Beløp det søkes frafalt:** kr 184 000 (kr 36 000 + kr 54 000 + kr 94 000).
+
+**Argumenter, i denne rekkefølgen:**
+
+1. **Rettslig umulighet.** Sprinkler i et verneklasse B-bygg krever rammetillatelse og IG, jf. pbl §§ 29-4 og 31-2, samt Byantikvarens medvirkning. Selskapet kunne ikke etterkomme pålegget uten å bryte plan- og bygningsloven.
+2. **Alt annet er lukket.** TBRT bekreftet i eget saksfremlegg 16.09.2025 at alle avvik unntatt sprinkler er lukket. Saken gjelder ett punkt.
+3. **Prosjektet er reelt og offentlig finansiert.** Kulturminnefondet 750 000 kr, Byantikvaren 500 000 kr, i tillegg Enova og Stiftelsen UNI.
+4. **TBRT har selv erkjent realismen.** Bero-beslutningen 25.06.2026 bygger uttrykkelig på at «det er realisme i omsøkt byggeprosjekt». Den erkjennelsen gjaldt like fullt i de innkrevde periodene.
+5. **Risikobildet er endret.** Driften er avviklet. Siste leietakere ute 01.07–01.08.2026. Bygget står tomt.
+6. **Forsinkelsene er i hovedsak forårsaket av andre offentlige organer.** Se tabellen i punkt C.
+7. **Mulkten motvirker sitt eget formål.** Kr 730 000 per år tapper prosjektøkonomien i et prosjekt hvis eneste formål er å gjennomføre nettopp den brannsikringen TBRT krever.
+8. **Saksbehandlingen.** De innkrevde periodene ble aldri vurdert mot forskrift om brannforebygging § 6 eller mot den rettslige umuligheten. Se punkt B.
+
+**Vedlegg som bør følge:** pålegget 08.11.2024, vedtak om tvangsmulkt 07.05.2025, de tre innkrevingene, klagen 18.06.2026, saksfremlegget 26.06.2026, bero-beslutningen 25.06.2026, klageorganets protokoll 25.08.2026, orienteringen 02.09.2026, tilsagnsbrev fra KMF og BYA. Alle finnes som .md i `bakgrunn/tvangsmulkt/`.
+
+---
+
+#### E. Delleveranse 2 — Klage til Sivilombudet
+
+**Mottaker:** Sivilombudet, Postboks 3 Sentrum, 0101 Oslo. postmottak@sivilombudet.no. Klageskjema finnes på sivilombudet.no. **Verifiser adresse og skjemaform før utsendelse.**
+
+**Sendes etter DSBs svar.** Se begrunnelsen i punkt B.
+
+**Hva klagen skal gjelde:** TBRTs og klageorganets behandling av klagen av 18.06.2026, avgjort 25.08.2026.
+
+**Anførsler:**
+
+1. Brudd på utredningsplikten, fvl. § 17 — anførsel 4.3 om rettslig umulighet er ikke utredet
+2. Brudd på begrunnelsesplikten, fvl. §§ 24 og 25 — anførsel 4.3 besvares med et annet tema, anførsel 4.4 med en udokumentert påstand
+3. Manglende vurdering av forskrift om brannforebygging § 6 i samtlige vedtak
+4. Faktafeil i grunnlaget for 3. gangs innkreving, avvist uten analyse av virkningen, jf. fvl. § 41
+5. Manglende ny forholdsmessighetsvurdering ved fortsatt innkreving under vesentlig endrede forhold
+
+**Vær tydelig på hva vi ber om:** en uttalelse om hvorvidt saksbehandlingen har vært forsvarlig. Ikke opphevelse — Sivilombudet kan ikke det.
+
+---
+
+#### F. Delleveranse 3 — Statusoppdatering til TBRT
+
+**Formål:** holde bero-beslutningen i live. Den hviler på tillit og på tre forutsetninger. Et kort, faktabasert statusbrev koster lite og beskytter kr 200 000+.
+
+**Mottaker:** postmottak@tbrt.no. Referer sak 24/1007. Kopi: Morten Knutsen.
+
+**Innhold:**
+
+1. Vis til bero-beslutningen av 25.06.2026 og bekreft at vi står ved de tre forutsetningene
+2. **Status byggesak:** BYGG-26/81377. Foreløpig tilbakemelding mottatt 16.07.2026. Mangler under retting. Nevn konkret hva som gjenstår
+3. **Status drift:** bekreft at leietakerne er ute som varslet
+4. **Status brannsikring i byggefasen:** bekreft at brannsikringsplanen følges
+5. **Forsinkelser utenfor vår kontroll** — tabellen i punkt C, kort og saklig
+6. **Riksantikvaren:** informer om at et nytt forhold har oppstått. Byantikvaren har pålagt oss å avklare graving i grunn med Riksantikvaren før igangsettingstillatelse. Dette kan påvirke framdriften, og vi varsler det nå framfor senere
+7. **Fisjon:** TBRT ber uttrykkelig om å bli holdt orientert om endringer på eiersiden. Gi status
+8. **Ikke** be om noe i dette brevet. Det er en orientering, ikke en søknad. Å blande inn krav svekker tilliten bero-en hviler på
+
+**Timing:** send i god tid før 01.01.2027. Anbefalt: oktober 2026, gjerne koblet til at entreprenøroppstart var estimert 01.10.2026. Hvis den datoen ryker, er det nettopp da brevet må sendes.
+
+---
+
+#### G. Rekkefølge og avhengigheter
+
+1. **Statusbrev til TBRT** (delleveranse 3) — først. Billigst, raskest, beskytter bero-en fram til 01.01.2027.
+2. **Anmodning om betalingsutsettelse** (delleveranse 4) — samme uke, eget brev. Stopper klokka på de kr 184 000 mens de to neste går sin gang.
+3. **Klage til Sivilombudet** (delleveranse 2) — så snart betalingsutsettelsen er avklart.
+4. **Søknad til DSB** (delleveranse 1) — når Sivilombudets uttalelse foreligger. Uttalelsen er det sterkeste vedlegget søknaden kan ha.
+
+Se unntaksregelen i punkt B: DSB sendes straks hvis innkrevingen eskalerer.
+
+---
+
+#### H. Delleveranse 4 — Anmodning til TBRT om betalingsutsettelse
+
+**Eget brev, ikke en del av statusbrevet.** Statusbrevet skal være en ren orientering; å blande inn krav svekker det.
+
+**Mottaker:** postmottak@tbrt.no, sak 24/1007. Kopi Morten Knutsen.
+
+**Det vi ber om:** utsatt betaling av de kr 184 000 inntil Sivilombudet har uttalt seg og DSB har behandlet søknad om frafall etter brann- og eksplosjonsvernloven § 39.
+
+**Argumenter:**
+
+1. TBRT opplyser selv at bare DSB kan frafalle påløpt mulkt. Vi følger den anvisningen. Da bør beløpet ikke inndrives før DSB har svart.
+2. TBRT ga utsatt iverksetting 26.06.2026 og satte løpende mulkt i bero 25.06.2026. Grunnlaget for begge — realisme i prosjektet — står ved lag.
+3. Inndriving nå vil ramme prosjektøkonomien i det prosjektet som skal gjennomføre brannsikringen.
+4. Ingen risiko for TBRT: kravet foreldes ikke, og selskapet bestrider ikke at beløpet er registrert påløpt.
+
+**Hvis avslag:** send DSB-søknaden umiddelbart, med opplysning om at Sivilombud-saken pågår.
+
+Parallelt, utenfor denne tasken: press byggesakskontoret på rammetillatelse, og forbered søknad om **trinnvis igangsettingstillatelse for brannsikring alene**. TBRT peker selv på muligheten i bero-brevet. Dette er det eneste som faktisk lukker avviket.
+
+**Berørte filer:**
+
+- `TASKS.md` (denne tasken)
+- `leveranser/` — tre nye dokumenter opprettes ved utførelse
+- Kobling: **T146** (RA-henvendelse), **T12** (IG-søknad), **T32** (fisjon)
+
+**Kilder:**
+
+- `bakgrunn/tvangsmulkt/` — alle TBRT-dokumenter som .md, se `OVERSIKT.md` der
+- `bakgrunn/tvangsmulkt/2026-06-25_svar_på_brev_datert_17062026_fjordgata_30_5001401149.md` (bero-beslutningen)
+- `bakgrunn/tvangsmulkt/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md` (klagers anførsler, avskrevet fra skjermbilder)
+- `bakgrunn/2026-07-16_byggesak_forelopig_tilbakemelding_hovedombygging.md`
+- `referat/2026-06-11_referat_statusmote_tbrt.md`
+- `leveranser/2026-06-17_tbrt_klage_innkrevinger_2026.md`
+- `bakgrunn/lovverk/forvaltningsloven.md`

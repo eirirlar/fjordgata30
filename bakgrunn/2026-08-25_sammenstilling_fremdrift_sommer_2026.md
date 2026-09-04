@@ -98,7 +98,7 @@ Kommune tilbyr 15-min. digitalt møte torsdag 13.08 – SAAHA takker nei (tilstr
 Byggstudentene kan organisere dugnader **fra uke 35** (siste uke i august).
 
 **12.08** – **Befaring med Byantikvaren + KMF** (`referat/2026-08-12_befaring_byantikvaren_kmf.md`). Silje Taftø Petersen + Roy Åge Håpnes (BA), Tor-Einar Siebke (KMF), Eirik + Ole Morten (Kristian ved starten). \
-Nøkkelfunn: **opprinnelig bolverk + kavlegulv fortsatt intakt** bak natursteinsmuren – motsatt av tidligere antakelser. Byantikvaren tar saken hjem til intern diskusjon mandag/tirsdag. \
+Nøkkelfunn: **opprinnelig bolverk + kavlegulv fortsatt intakt** bak natursteinsmuren – motsatt av det Byantikvaren hadde lagt til grunn. Byantikvaren tar saken hjem til intern diskusjon mandag/tirsdag. \
 Roy Åge: kontakt Riksantikvaren før dypere graving. Byantikvaren har ikke myndighet på graving i grunn. \
 KMF: 70 % av tilskudd allerede brukt, komfortabel med sluttrapport-frist mars 2027. \
 Enighet: månedlig møtekadens.
