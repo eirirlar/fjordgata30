@@ -76,7 +76,7 @@ RiB Harboe & Leganger bekreftet etter befaring 14.04.2026 at disse elementene er
 - `bakgrunn/2023-11-01_tilstandsanalyse_nivaa1.txt` – tilstandsanalyse nivå 1, 2022–2023
 - `bakgrunn/2026-02-10_notat_rib.txt` – RiB-notat om bærekonstruksjon, 10.02.2026
 - `bakgrunn/2023-07-06_rammesoknad_kontor_beskrivelse.txt` – seksjon 216–222, tilstandsbeskrivelse
-- `bakgrunn/2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md` og `_rev_d.md`
+- `bakgrunn/brann/2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md` og `_rev_d.md`
 - `bakgrunn/2026-04-16_arbeid_kristian.txt` og `bakgrunn/2026-04-16_arbeid_ole_morten.txt`
 - `bakgrunn/2026-04-16_ai_feedback.txt` – Eiriks prosjektledernotat
 - `bakgrunn/2023-06-23_forhandskonferanse_presentasjon.md` – periode «mellom år 1980–1994»

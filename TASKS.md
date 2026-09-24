@@ -1034,9 +1034,23 @@ Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklar
 
 ---
 
-### T146 `[ ]` Send henvendelsen til Riksantikvaren
+### T146 `[x]` Send henvendelsen til Riksantikvaren
 
-**Kontekst:** Utkastet er ferdig og godkjent i innhold, jf. **T145**. Det er ikke sendt. Dette er den eneste gjenstående handlingen i RA-sporet, og RA er i kritisk linje for igangsettingstillatelse (IG).
+**Løst 24.09.2026.** Henvendelsen er sendt (eksakt utsendelsesdato ikke dokumentert i arkivet — bør etterregistreres), og Riksantikvaren har svart. Svaret er strukturert og arkivert i `bakgrunn/2026-09-24_svar_riksantikvaren_dispensasjon_befaring.md`; råfilen ligger i `bakgrunn/nye/mail_riks.txt`.
+
+**Hovedpunkter i svaret:**
+
+- Fjordgata 30 ligger innenfor middelalderbyen Trondheim. Riksantikvaren er rett myndighet, og ethvert inngrep i grunnen er søknadspliktig.
+- Dispensasjon etter kulturminneloven § 8 kreves. Normal saksbehandlingstid er fire uker **fra saken er tilstrekkelig opplyst**, ikke fra innsending. Trøndelag fylkeskommune (§ 14 skipsfunn) og NIKU kobles inn og kan forlenge.
+- Søknaden må inneholde målsatte tegninger av graveomfanget (plan og snitt), tekstlig beskrivelse av gravearbeidet og framgangsmåten, gjerne foto.
+- Riksantikvaren deltar gjerne på befaring når løst materiale er ryddet. Tidspunkt må foreslås i god tid.
+- Direkte instruks for pågående arbeid: ikke grav ned i faste masser. Sammenfaller med rødt-sonen i gjeldende arbeidsinstruks — ingen endring nødvendig.
+- Omfang og kostnad ved arkeologisk gransking etter § 10 kan ikke anslås før graveomfanget er kjent.
+- Møtet om skipsfunn ble aldri holdt i 2023. Fylkeskommunen kontaktes på nytt nå.
+
+**Oppfølging skilt ut i egne oppgaver:** dispensasjonssøknaden med tegningsunderlag (T153) og befaringen (T154).
+
+**Kontekst:** Utkastet var ferdig og godkjent i innhold, jf. **T145**. RA er i kritisk linje for igangsettingstillatelse (IG).
 
 **Leveranse klar:**
 
@@ -1641,7 +1655,7 @@ Kjellerarbeidet står i ro til disse er avklart. Arbeidsinstruksen som allerede 
 
 **Handling:**
 
-1. **Kartlegg eksisterende materiale.** Sjekk `brann/`-mappa og `bakgrunn/` for eksisterende brannkonsept for byggefasen. Relevante kandidater: notat om brannsikring i gjennomføringsfasen (26.02.2026, `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt`), brannprosjektering for minilager (17.02.2026), brannkonsept-vedlegg A (16.02.2026), rammesøknadens brannkonsept (2023-07-06). Vurder om ett av disse dekker byggefasen, eller om det trengs et nytt dokument.
+1. **Kartlegg eksisterende materiale.** Sjekk `brann/`-mappa og `bakgrunn/` for eksisterende brannkonsept for byggefasen. Relevante kandidater: notat om brannsikring i gjennomføringsfasen (26.02.2026, `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt`), brannprosjektering for minilager (17.02.2026), brannkonsept-vedlegg A (16.02.2026), rammesøknadens brannkonsept (2023-07-06). Vurder om ett av disse dekker byggefasen, eller om det trengs et nytt dokument.
 2. **Følg opp brannrådgiver (Gunnhild Henriksen Leere).** Ole Morten venter fortsatt på svar (per 28.08.2026) om trådløst brannvarslingsanlegg og flytting av brannslanger. Purre.
 3. **Utarbeid kort byggeplass-instruks for brannvarsling.** Etter mønster av kjeller-arbeidsinstruksen: hva må stå på, hvilke sensorer må ikke tildekkes uten forvarsel til brannsentralen, hvor er brannslangene, kontaktinfo ved falsk alarm.
 4. **Del med Kristian, Ole Morten og Ain.** Dokumentet skal henge på stedet og distribueres til alle som arbeider i bygget.
@@ -1649,12 +1663,304 @@ Kjellerarbeidet står i ro til disse er avklart. Arbeidsinstruksen som allerede 
 **Berørte filer:**
 
 - `brann/` (kartlegg innhold)
-- `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` (kandidat)
-- `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` (kandidat)
-- `bakgrunn/2026-02-16_brannkonsept_vedlegg_a.txt` (kandidat)
+- `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` (kandidat)
+- `bakgrunn/brann/2026-02-17_brannprosjektering_minilager.txt` (kandidat)
+- `bakgrunn/brann/2026-02-16_brannkonsept_vedlegg_a.txt` (kandidat)
 - `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` (kilde-e-post)
 - Ny: byggeplass-instruks for brannvarsling under oppussing (leveranse)
 
 **Kobling:** TBRT-dialog og pågående tvangsmulkt-klagesak (brannvarsling/sprinkler-krav), T143 (kjellerarbeid).
 
 **Frist:** Kristians spørsmål bør besvares snarest — hvis eksisterende dokument finnes, minimalt arbeid. Hvis nytt dokument må lages, koordineres det med Gunnhild (brannrådgiver).
+
+---
+
+### T153 `[ ]` Dispensasjonssøknad etter kulturminneloven § 8 — graving i kjeller
+
+**Bakgrunn:** Riksantikvaren bekreftet 24.09.2026 at Fjordgata 30 ligger innenfor middelalderbyen Trondheim, at de er rett myndighet, og at dispensasjon etter kulturminneloven § 8 kreves før inngrep i grunnen. Dispensasjonen må foreligge før igangsettingstillatelse. Se `bakgrunn/2026-09-24_svar_riksantikvaren_dispensasjon_befaring.md`.
+
+**Dette Riksantikvaren krever i søknaden:**
+
+- Målsatte tegninger av nødvendig graveomfang — **plan og snitt**.
+- Tekstlig beskrivelse av gravearbeidet som skal gjennomføres, og framgangsmåte ved graving.
+- Foto (ønskelig).
+
+**Saksbehandlingstid:** fire uker regnet fra det tidspunktet saken er *tilstrekkelig opplyst* — ikke fra innsending. Riksantikvaren innhenter tilrådning fra NIKU (Norsk institutt for kulturminneforskning) og kobler inn Trøndelag fylkeskommune, som er myndighet for skipsfunn etter § 14 også innenfor middelalderbyen. Ved behov for arkeologiske undersøkelser innhentes også prosjektplan og budsjett fra NIKU. Riksantikvaren varsler at saken kan ta lengre tid enn fire uker.
+
+**Blokkering:** Tegningsunderlaget forutsetter at graveomfanget er besluttet. Valget mellom graving og heving av kjellergulvet i den delen som ligger nærmest Fjordgata er ikke tatt. Befaringen med Riksantikvaren (T154) bør gjennomføres før omfanget låses, slik at tegningene treffer det de faktisk vil vurdere.
+
+**Handling:**
+
+1. Beslutt bærekonsept og graveomfang sammen med RIB (Ole Morten, HRP) og arkitekt (SAAHA).
+2. Bestill målsatte plan- og snitt-tegninger av graveomfanget.
+3. Skriv beskrivelse av gravearbeid og framgangsmåte, inkludert hvordan masser håndteres og hvordan funn varsles.
+4. Sett sammen fotodokumentasjon fra ryddearbeidet i kjelleren.
+5. Send søknaden i den eksisterende tråden hos Riksantikvaren.
+
+**Kostnadsrisiko:** Arkeologisk gransking etter § 10 dekkes av tiltakshaver. Omfang kan ikke anslås før graveomfanget er kjent. Risikoen bør framgå av bankpakka og av framdriftsrapportering til tilskuddsgiverne.
+
+**Berørte filer:**
+
+- `bakgrunn/2026-09-24_svar_riksantikvaren_dispensasjon_befaring.md` — kravgrunnlag
+- `bakgrunn/2026-08-15_notat_baeresystem_kjellergulv.md` — bærekonsept
+- `bakgrunn/lovverk/kulturminneloven.md`
+- Nye: tegninger (plan og snitt) og selve søknaden (leveranse)
+
+**Kobling:** T146 (Riksantikvarens svar), T154 (befaring), T12 (IG-søknad), T143 (kjeller — arbeidsavgrensning).
+
+---
+
+### T154 `[ ]` Befaring med Riksantikvaren i kjelleren
+
+**Bakgrunn:** Riksantikvaren tilbød 24.09.2026 å delta på befaring: «Vi deltar gjerne på en befaring når løst materiale er ryddet. […] Gi beskjed om mulige tidspunkt for befaring i litt god tid slik at vi kan koble på relevante deltakere.»
+
+**Forutsetninger som må være på plass først:**
+
+1. RIB-vurdering av hvilke tømmerstokker som kan demonteres (T151). Kjellerarbeidet står i ro til denne foreligger.
+2. Løst materiale ryddet ut av kjelleren, slik at konstruksjonen er lesbar.
+3. Belysning på plass (2 × 25 m lyslenker er bestilt for kjellertaket).
+
+**Handling:**
+
+- Når rydding er i havn: foreslå to–tre alternative tidspunkt med minst to ukers varsel.
+- Regn med at Trøndelag fylkeskommune kobles på (skipsfunn, § 14). Riksantikvaren tar den kontakten selv.
+- Ole Morten (HRP) bør delta som RIB. Vurder om Byantikvaren skal inviteres — se avveiningen om kopimottakere i T145.
+- Skriv referat etter mønster av `referat/2026-08-12_befaring_byantikvaren_kmf.md`. Referatet er dokumentasjon mot tilskuddsgiverne.
+
+**Merk:** Riksantikvaren ga samtidig en direkte instruks for arbeidet som pågår nå — det skal ikke graves ned i faste masser. Dette er allerede dekket av rødt-sonen i `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`, og instruksen trenger ingen endring.
+
+**Beslutning 24.09.2026:** Det sendes ikke noe kvitteringssvar til Riksantikvaren nå. Et utkast ble skrevet og forkastet. Vi svarer først når vi har noe konkret å vise til — dvs. når ryddingen er kommet langt nok til at befaringstidspunkt kan foreslås, og graveomfanget er nærmere avklart. Da samles bekreftelse, befaringsforslag og statusoppdatering i ett brev.
+
+**Berørte filer:**
+
+- `bakgrunn/2026-09-24_svar_riksantikvaren_dispensasjon_befaring.md`
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`
+- Nytt: befaringsreferat (`referat/`)
+
+**Kobling:** T146 (Riksantikvarens svar), T151 (RIB-avklaring — blokkerer rydding), T153 (dispensasjonssøknad).
+
+---
+
+### T155 `[ ]` Brannsikring i gjennomføringsfasen — etterlevelse, dokumentasjon og byggeplassinstruks
+
+**Formål:** Lukke avstanden mellom det HRPs notat om brannsikring i gjennomføringsfasen krever, og det som faktisk er etablert og dokumentert på byggeplassen i dag. Tre leveranser: (1) spørsmålsliste som avklarer faktagrunnlaget, (2) tiltaksplan, (3) byggeplassinstruks for brann som henges opp og etterleves.
+
+---
+
+#### Utgangspunkt
+
+**Styrende dokument:** `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` — «FG30-BRANNSIKRING I GJENNOMFØRINGSFASEN», HRP AS, utarbeidet av Gunnhild H. Leere, kontrollert av Ole Morten Lagmannssveen, datert 26.02.2026.
+
+**Forbehold om dokumentets status.** Notatet står som versjon 0.0, revisjonstabellen er tom, og topptekstens «sist oppdatert» sier 2. januar 2024 mens dokumentet er datert 26.02.2026. Det er uklart om notatet er formelt utstedt. Det behandles inntil videre som gjeldende krav, fordi det er det beste brannfaglige underlaget som finnes for byggefasen.
+
+**Brannrådgiverkanalen er stengt.** Prosjektleder har besluttet at brannrådgiver ikke skal involveres videre. Konsekvensen er at spørsmålene om brannslanger og trådløst varslingsanlegg — som har ligget ubesvart siden 28.08.2026 — må løses uten henne. RIBr-rollen (rådgivende ingeniør brann) er dermed reelt vakant i gjennomføringsfasen. Se åpen beslutning under.
+
+**Utløsende behov:** Kristian etterspurte 20.09.2026 sti til dokumentet, samt avklaring av hvilke brannslanger og sensorer som må være på plass under oppussingen, og om det skal settes i gang et trådløst varslingssystem. Bakgrunn: bergstudentene tildekket brannsensorer under riving 06.09.2026 og utløste varsel på brannsentralen som måtte kvitteres ut.
+
+---
+
+#### Hva som faktisk er på plass (prosjektleders opplysninger 24.09.2026)
+
+Disse opplysningene er oppgitt muntlig og er ikke verifisert mot dokumentasjon. Verifisering inngår i spørsmålslista.
+
+- **Sprinkleranlegg:** finnes, men dekker kun 1. og 2. etasje. Kjeller og øvrige plan er ikke dekket.
+- **Sprinklerdekningen er reelt bedre nå enn før:** mesteparten av brannfarlig inventar og innervegger er fjernet, slik at vann når fram der det tidligere var skjermet.
+- **Brannvarsling er aktiv.** Brannsentralen fungerer. Nylig kontrollert av Autronica.
+- **Byggestrøm er lagt opp.**
+- **Elkontroll er bestått uten anmerkninger.** Tensio TS AS (Det lokale eltilsyn) gjennomførte tilsyn 18.09.2026, rapport 20.09.2026, saksnr. 347885. Ingen feil eller mangler. Se `bakgrunn/2026-09-20_tensio_dle_tilsynsrapport_elanlegg.md`.
+- **Alarmen går videre til 110-sentralen.** Brannvesenet varsles automatisk ved deteksjon, også utenom arbeidstid.
+- **Brannansvarlig:** Kristian B. Brandsegg, tlf. 917 83 003. Stedfortreder for fraværsperioden 20.09–13.10.2026 må avklares.
+- **Brannplakat for bygget** henger ved brannsentralen, ved utgangen nærmest Fjordgata 28. Den inneholder plassering av håndslokkere og trolig brannslanger. Må fotograferes og leses av.
+- **Det finnes allerede et ark til arbeiderne om brannsikkerhet.** Innholdet er ikke kjent i arkivet. Må framskaffes før ny instruks skrives, slik at den nye erstatter og forbedrer, og ikke motsier, det som allerede henger oppe.
+
+**Vurdering:** det branntekniske nivået er vesentlig bedre enn dokumentasjonen gir inntrykk av. Hovedproblemet er ikke manglende tiltak, men at tiltakene ikke er skrevet ned, ikke er satt i system, og ikke kan framvises. Det er en dokumentasjonsjobb før det er en installasjonsjobb.
+
+---
+
+#### Identifiserte avvik mot notatets krav
+
+| Krav i notatet | Status per 24.09.2026 |
+|---|---|
+| Egen brannansvarlig utpekt for gjennomføringsfasen | Ikke dokumentert |
+| Brann-ROS gjennomført før oppstart | Ikke funnet i arkivet |
+| Prosjektspesifikk branninstruks for byggeperioden | Finnes ikke |
+| Kontrollrunde ved arbeidsdagens slutt | Ikke dokumentert som rutine |
+| Rutine for varsling ved utkoblet/tildekket deteksjon | Finnes ikke — utløste hendelsen 06.09 |
+| Midlertidig deteksjon i aktive arbeidsområder og åpnede hulrom | Delvis; flyttbare sensorer mangler |
+| Ekstra håndslokkere, plassering og jevnlig kontroll | Ikke dokumentert |
+| System for registrering og lukking av avvik | Finnes ikke |
+| Rømningsveier kontrollert daglig, midlertidig skilting oppdatert | Ikke dokumentert |
+
+**Uttalt behov fra prosjektleder:** flyttbare brannsensorer, slik at det kan arbeides effektivt med lokal deteksjon der arbeidet til enhver tid foregår. Dette er også notatets egen løsning — det åpner uttrykkelig for midlertidig brannalarmanlegg eller seriekoblede røykdetektorer i aktive arbeidsområder og i hulrom som åpnes under arbeid.
+
+---
+
+#### Delleveranse 1 `[x]` — Spørsmål som må besvares før instruksen kan skrives
+
+**E-postversjon skrevet 24.09.2026:** `leveranser/brann/2026-09-24_epost_kristian_brannkartlegging.md`. Stilet til Kristian med kopi til Ole Morten. Gir sti til HRP-notatet, forklarer hvorfor kartleggingen gjøres (dokumentasjonsbehov mot brannvesen, forsikring, bank og tilskuddsgivere), og skiller de tre blokkerende punktene fra resten. Ikke sendt.
+
+Lista under er internversjonen. Markér gjerne svarene direkte her.
+
+**A. Sprinkleranlegget**
+
+1. Hvilke plan dekkes nøyaktig? Er kjeller og loft/øvrige plan helt udekket?
+2. Er anlegget vått eller tørt, og står det under trykk nå?
+3. Er noen sprinklerhoder demontert, tildekket eller plugget under rivingen?
+4. Når ble anlegget sist kontrollert, og finnes rapport?
+
+**B. Brannvarslingsanlegget**
+
+5. Hvilke områder dekker deteksjonen i dag? Er kjelleren dekket?
+6. Hvilke detektorer er fjernet eller tildekket akkurat nå?
+7. Når var Autronica-kontrollen, og har vi rapporten? Hvis ikke — kan den etterspørres?
+8. ~~Går alarmen videre til 110-sentralen/brannvesenet, eller kun lokal klokke?~~ **Besvart 24.09.2026: alarmen går videre til 110-sentralen.** Dette er en vesentlig styrke. Det betyr at brannvesenet rykker ut ved deteksjon også utenom arbeidstid, og det endrer risikobildet i byggefasen markant i positiv retning. Skal framheves både i instruksen og i dokumentasjonen mot brannvesenet.
+9. Varsles en navngitt person på telefon utenom arbeidstid i tillegg til 110? Hvem?
+
+**C. Slokkeutstyr**
+
+10. ~~Hvor mange håndslokkere, hvilken type, hvor?~~ **Delvis besvart 24.09.2026: opplysningene er annotert på brannplakaten for bygget, som henger ved brannsentralen ved utgangen nærmest Fjordgata 28.** Prosjektleder har ikke tallene i hodet. **Handling:** noen må fotografere brannplakaten og sende bildet, så leses tallene av derfra.
+11. Når ble håndslokkerne sist kontrollert?
+12. ~~Hvor mange brannslanger, hvor, tilkoblet?~~ **Antatt besvart samme sted — brannplakaten.** Bekreftes når plakaten er fotografert.
+13. Hvilke brannslanger er fysisk i veien for arbeidet, og hva var tanken bak «flytting av brannslanger»?
+
+**D. Organisasjon og folk**
+
+14. ~~Hvem er brannansvarlig for byggeperioden?~~ **Besvart 24.09.2026: Kristian B. Brandsegg, tlf. 917 83 003.**
+
+    **Problem som må løses:** Kristian er bortreist 20.09–13.10.2026 (Edinburgh, deretter Hawaii). Brannansvarlig må være tilgjengelig mens det arbeides. Instruksen kan ikke oppgi ett nummer som ikke besvares på tre uker. Det trengs enten en navngitt stedfortreder for perioden, eller en avklaring på at Kristian faktisk er nåbar. Dette blokkerer instruksen.
+14b. Hvem er stedfortreder som brannansvarlig mens Kristian er bortreist til 13.10.2026?
+15. Hvem låser bygget, og er det faktisk låst utenom arbeidstid?
+16. Hvem er på plassen en vanlig dag nå, og hvem leder arbeidet mens Kristian er bortreist til 13.10.2026?
+17. Får innleide studenter noen brannbrief før de starter? Er innskrivingslista ved brannsentralen en fast rutine?
+
+**E. Arbeidsoperasjoner**
+
+18. Foregår det, eller planlegges det, varme arbeider? Notatet har totalforbud. Elektrisk motorsag er greit; vinkelsliper, gassbrenner og sveis er det ikke.
+19. Brukes byggtørkere eller varmeovner nå som høsten kommer?
+20. Hvor står avfallscontainerne i forhold til veggen?
+21. Røykes det på plassen, og i så fall hvor?
+
+**F. Byggestrøm**
+
+22. Dekker Tensio-kontrollen også det midlertidige byggestrømsanlegget, eller kun den faste installasjonen?
+23. Finnes det en rutine for jevnlig ettersyn av det midlertidige anlegget?
+
+**G. Flyttbare sensorer**
+
+24. Ønskes frittstående, seriekoblede røykvarslere med egen sirene og telefonvarsling, eller et trådløst anlegg som kan kobles mot den eksisterende Autronica-sentralen?
+25. Hvem kjøper inn, og hva er rammen?
+
+**H. Forsikring og øvrig risiko**
+
+26. Er forsikringsselskapet varslet om at bygget er under rehabilitering, og stiller polisen vilkår om spesifikke brannverntiltak i byggefasen?
+27. Er nabobryggene orientert om arbeidet, slik notatet forutsetter om samordning?
+
+**I. Det som allerede henger oppe**
+
+28. Kan vi få et bilde av **brannplakaten** ved brannsentralen? Den svarer trolig ut spørsmål 10 og 12.
+29. Kan vi få et bilde eller en kopi av **arket til arbeiderne** om brannsikkerhet som allerede finnes? Ny instruks skal bygge videre på det, ikke motsi det.
+30. Finnes det en innskrivingsliste ved brannsentralen som brukes fast, og hvem følger den opp?
+
+---
+
+#### Delleveranse 2 `[ ]` — Tiltaksplan
+
+Rekkefølgen er valgt slik at det som koster minst og virker raskest kommer først.
+
+**Trinn 0 — framskaffe grunnlag, ingen kostnad**
+
+- Fotografér **brannplakaten** ved brannsentralen. Den gir plassering og antall håndslokkere, og trolig brannslanger.
+- Framskaff **arket til arbeiderne** som allerede henger oppe.
+- Avklar **stedfortreder som brannansvarlig** mens Kristian er bortreist.
+
+Dette er forutsetningen for at instruksen kan skrives ferdig og bli riktig første gang.
+
+**Trinn 1 — når grunnlaget foreligger**
+
+- Skriv og heng opp byggeplassinstruks for brann (delleveranse 3).
+- Utpek brannansvarlig skriftlig. Navn, telefonnummer og stedfortreder, formidlet til alle.
+- Innfør tildekkingsprosedyre: ingen detektor tildekkes uten at brannansvarlig varsles først, og tildekkingen føres i logg ved brannsentralen.
+- Innfør enkel sluttkontroll-sjekkliste som henges ved utgangen og krysses av hver dag.
+
+**Trinn 2 — deretter**
+
+- Fotodokumenter dagens branntekniske status: sentralen, sprinklerdekning, håndslokkere med plassering, brannslanger, rømningsveier, containerplassering. Dette er beviset på at tiltakene finnes.
+- Etterspør Autronica-rapporten og arkivér den.
+- Kontrollér og registrer håndslokkere. Suppler opp til notatets nivå der det mangler.
+- Skriv en enkel brann-ROS for byggefasen. Den trenger ikke være omfattende, men den må finnes og dateres.
+
+**Trinn 3 — neste to uker**
+
+- Anskaff flyttbare sensorer for lokal deteksjon i aktive arbeidsområder og i hulrom som åpnes.
+- Avklar brannslangespørsmålet praktisk: hvilke er i veien, og hvordan opprettholdes dekningen hvis de flyttes.
+- Etabler avvikslogg.
+- Oppdater rømningsskilting etter hvert som innervegger forsvinner.
+
+**Trinn 4 — løpende**
+
+- Månedlig gjennomgang av brann-ROS ved endringer i rigg, åpninger eller arbeidsmetode.
+- Samle alt i én brannmappe som kan framvises for brannvesen, forsikringsselskap, bank og tilskuddsgivere.
+
+---
+
+#### Delleveranse 3 `[ ]` — Byggeplassinstruks for brann
+
+**Format:** ett ark, A4, henges opp ved inngang og ved brannsentralen. Samme stil som kjeller-arbeidsinstruksen: korte setninger, ingen interne filstier, ett navn og ett telefonnummer som kontaktpunkt.
+
+**Innhold som skal med:**
+
+1. Forbudt uten unntak: varme arbeider, røyking inne, skjøteledninger i kveil eller seriekoblet, annet arbeidslys enn LED.
+2. Sensorer: ingen tildekking uten at brannansvarlig varsles først. Tildekking føres i logg. Tildekking fjernes ved arbeidsdagens slutt.
+3. Slokkeutstyr: hvor håndslokkerne står, hvor brannslangene er. Skal aldri blokkeres.
+4. Sprinkler: dekker 1. og 2. etasje. Kjeller er ikke dekket — arbeid der krever ekstra årvåkenhet og lokal deteksjon.
+5. Avfall: ut av bygget samme dag. Filler og papir med olje i brannsikker beholder. Containere med avstand fra vegg.
+6. Ved arbeidsdagens slutt: sjekkliste, tildekking fjernet, strøm av, bygget låst.
+7. Ved alarm: hva gjør man, hvor møtes man, hvem ringes.
+8. Ved falsk alarm: hvem kvitterer ut på sentralen, og hvem varsles.
+9. Rømningsveier: holdes frie. Endres de, gis det beskjed.
+
+**Avhengighet:** instruksen skrives ikke før trinn 0 er gjennomført. Prosjektleder har bedt om at den gjøres skikkelig framfor raskt — det henger allerede et ark til arbeiderne, så det er ingen akutt tomhet som må fylles. Punktene om slokkeutstyr og kontaktpunkt kan ikke skrives riktig uten brannplakaten og stedfortrederavklaringen.
+
+**Styrke som skal framgå tydelig:** alarmen går videre til 110-sentralen. Arbeiderne skal vite at brannvesenet varsles automatisk, og hva det betyr ved falsk alarm.
+
+**Leveransemappe:** `leveranser/brann/`
+
+---
+
+#### Åpen beslutning — brannfaglig ansvar videre
+
+Med brannrådgiverkanalen stengt står prosjektet uten RIBr i gjennomføringsfasen. Tre veier:
+
+1. **Ole Morten bærer det brannfaglige.** Han kontrollerte notatet og kjenner bygget. Billigst og raskest, men han er allerede tynt strukket og er ikke brannteknisk rådgiver.
+2. **Ny brannrådgiver engasjeres.** Gir formell dekning, men koster tid og penger, og en ny rådgiver må sette seg inn i saken fra bunnen.
+3. **Prosjektet kjører byggefasen på eksisterende notat uten aktiv RIBr,** og henter inn brannrådgiver først når prosjekteringen av ferdig bygg krever det.
+
+Valget påvirker tvangsmulkt-saken mot brannvesenet, fordi de kompenserende tiltakene i byggefasen er en del av argumentasjonen der. Beslutningen tas av prosjektleder.
+
+---
+
+#### Kobling til tvangsmulkt-saken
+
+Notatet slår fast skriftlig at permanente installasjoner — sprinkler, brannalarmanlegg og inertgass — først etableres i ferdig bygg, og at byggefasen i stedet sikres med kompenserende tiltak. Det er et brannfaglig argument som kan brukes mot brannvesenet. Argumentet holder bare hvis de kompenserende tiltakene faktisk er gjennomført og kan dokumenteres. Dokumentasjonen som produseres i denne oppgaven har derfor dobbel verdi: den sikrer byggeplassen, og den styrker klagesaken.
+
+Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne og for bankpakka.
+
+---
+
+**Berørte filer:**
+
+- `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` — styrende krav
+- `bakgrunn/brann/2026-02-16_brannkonsept_bkl3_tek17.txt` og `bakgrunn/brann/2026-02-16_brannkonsept_vedlegg_a.txt` — brannkonsept ferdig bygg
+- `bakgrunn/2026-09-20_tensio_dle_tilsynsrapport_elanlegg.md` — bestått elkontroll
+- `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` — Kristians spørsmål og hendelsen 06.09
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` — mønster for instruksformat
+- `leveranser/brann/2026-09-24_epost_kristian_brannkartlegging.md` (ny — spørsmålene i e-postform, ikke sendt)
+- Nye: byggeplassinstruks for brann, sluttkontroll-sjekkliste, brann-ROS, fotodokumentasjon av branntekniske tiltak — legges i `leveranser/brann/`
+
+**Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/tvangsmulkt/OVERSIKT.md`.
+
+**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/tvangsmulkt/` finnes. `bakgrunn/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
+
+**Kobling:** T147 (tvangsmulkt-saken mot TBRT), T152 (Kristians opprinnelige spørsmål om brannkonsept under oppussing — dekkes i sin helhet av denne oppgaven og kan lukkes når den er løst), T151 (kjellerarbeid — kjeller er ikke sprinklerdekket).
+
+**Frist:** Ingen hard frist. Prosjektleder har besluttet at arbeidet skal gjøres skikkelig framfor raskt — det henger allerede et ark til arbeiderne, så byggeplassen står ikke uten instruks i mellomtiden. Trinn 0 bør likevel gjøres straks, siden det bare krever et par bilder og én avklaring.

@@ -364,6 +364,8 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **Uke 35–38 (28.08–20.09.2026)** – **E-postkorrespondanse mellom Eirik Larsen, Kristian B. Brandsegg og Ole Morten Lagmannssveen om fremdrift på riving.** Kronologisk sammenstilling av 10 e-poster over perioden. Nøkkelpunkter: (a) Bergstudenter river Kortklubben (06.09), Ain og Marco arbeider med Eyasys-kontoret; (b) elektriker koblet ut sikringsskap i 2. etg. 27.08, ingen strøm på minilager lengre; ny kabel til toalett og minikjøkken etablert; (c) container-logistikk optimalisert (2 samtidig), 6 containere pr. dag mulig; (d) 6 studenter flyttet materialer fra 2. etg. til 1. etg. 20.09, bod tømt (mange prøvedukker som Thora sorterer); (e) 2×25 m lyslenker bestilt for kjellertak. Åpne avklaringer per 20.09: RIB-vurdering av demontering av store tømmerstokker (Ole Morten) og sti til dokument om brannkonsept under oppussing (brannslanger, sensorer, trådløst system). Kristian bortreist 20.09–13.10.2026 (Edinburgh + Hawaii).[^83]
 
+**24.09.2026** – **Riksantikvaren svarer på henvendelsen om graving i grunn. Dispensasjon etter kulturminneloven § 8 kreves, og befaring tilbys.** Svaret besvarer alle seks spørsmålene i henvendelsen av 04.09.2026 og bekrefter at Fjordgata 30 ligger innenfor grensen til middelalderbyen Trondheim, at ethvert inngrep i grunnen er søknadspliktig, og at Riksantikvaren er myndighet. Søknaden må inneholde målsatte tegninger av graveomfanget (plan og snitt), tekstlig beskrivelse av gravearbeid og framgangsmåte, gjerne foto. Normal saksbehandlingstid er fire uker regnet fra det tidspunktet saken er tilstrekkelig opplyst – ikke fra innsending; Riksantikvaren innhenter tilrådning fra NIKU og kobler inn Trøndelag fylkeskommune, som er myndighet for skipsfunn etter § 14 også innenfor middelalderbyen. Møtet om skipsfunn som ble varslet i 2023 ble aldri holdt fordi saken var satt på vent. Omfang og kostnad ved en eventuell arkeologisk gransking etter § 10 kan ikke anslås før graveomfanget er kjent. Riksantikvaren deltar gjerne på befaring når løst materiale er ryddet, forutsatt at tidspunkt foreslås i god tid. Direkte instruks for pågående arbeid: det skal ikke graves ned i faste masser – sammenfallende med rødt-sonen i gjeldende arbeidsinstruks for kjelleren. **Konsekvens:** dispensasjonen ligger i kritisk linje mot igangsettingstillatelse, og tegningsunderlaget forutsetter at valget mellom graving og heving av kjellergulvet er tatt. Ubudsjettert kostnadsrisiko etter § 10 består inntil søknaden er behandlet. Eksakt utsendelsesdato for prosjektlederens henvendelse er ikke dokumentert i arkivet.[^84]
+
 ---
 
 ## Udokumenterte hendelser – mangler tilstrekkelig underlag
@@ -413,13 +415,13 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^16]: TBRT-korrespondanse 2018–2022 (samlet serie), `bakgrunn/`: `2018-10-05_tbrt_vedroerende_tilbakemelding.md`, `2018-12-11_tbrt_purring_tilsyn_varsel_paalegg.md`, `2019-03-06_tbrt_aksept_tiltaksplan.md`, `2019-06-28_tbrt_purring_tilsyn_varsel_paalegg.md`, `2019-08-12_tbrt_aksept_tiltaksplan.md`, `2019-11-11_tbrt_purring_tilbakemelding_varsel_paalegg.md`, `2019-12-17_tbrt_aksept_tiltaksplan.md`, `2020-10-01_tbrt_purring_tilbakemelding_varsel_paalegg.md`, `2020-11-04_tbrt_aksept_tiltaksplan.md`, `2021-04-23_tbrt_purring_tilbakemelding_varsel_paalegg.md`, `2021-06-02_tbrt_mangelfull_tilbakemelding.md`, `2021-08-03_tbrt_purring_tilsyn_varsel_paalegg.md`, `2021-09-23_tbrt_aksept_tiltaksplan.md`, `2021-11-25_tbrt_purring_tilsyn_varsel_paalegg.md`.
 
-[^17]: `bakgrunn/2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md` – TekØk AS, brannteknisk statusvurdering Rev. C (BKL3), oppdragsnr. 2006-0057, 14.09.2018. Dokument 500ra001.
+[^17]: `bakgrunn/brann/2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md` – TekØk AS, brannteknisk statusvurdering Rev. C (BKL3), oppdragsnr. 2006-0057, 14.09.2018. Dokument 500ra001.
 
-[^18]: `bakgrunn/2018-09-22_tekøk_brannteknisk_vurdering_rev_d.md` – TekØk AS, brannteknisk statusvurdering Rev. D (BKL2), 22.09.2018. Justerer krav basert på at 3.–5. etg er tomme og avstengt.
+[^18]: `bakgrunn/brann/2018-09-22_tekøk_brannteknisk_vurdering_rev_d.md` – TekØk AS, brannteknisk statusvurdering Rev. D (BKL2), 22.09.2018. Justerer krav basert på at 3.–5. etg er tomme og avstengt.
 
 [^19]: `bakgrunn/2018-09_tekøk_tiltaksplan_skjema.md` – TekØk AS, tiltaksplanskjema, september 2018.
 
-[^68]: `bakgrunn/2018-10-01_tekøk_faktura_brannteknisk_vurdering.md` – TekØk AS, faktura for brannteknisk vurdering (oppdragsnr. 2006-0057), 01.10.2018. Dokumenterer fakturert arbeid for Rev. C og Rev. D-rapportene.
+[^68]: `bakgrunn/brann/2018-10-01_tekøk_faktura_brannteknisk_vurdering.md` – TekØk AS, faktura for brannteknisk vurdering (oppdragsnr. 2006-0057), 01.10.2018. Dokumenterer fakturert arbeid for Rev. C og Rev. D-rapportene.
 
 [^20]: `bakgrunn/2020_tiltaksplan_status_a.md` og `bakgrunn/2020_tiltaksplan_status_b.md` – Tiltaksplan brannteknisk oppgradering Fjordgata 30, statusversjon A og B. Organisatoriske tiltak gjennomført; passive tiltak (sprinkler, etasjeskiller, ledesystem) gjenstår.
 
@@ -435,7 +437,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^26]: `bakgrunn/2023-07-05_notat_skred_flomfare.txt` – Notat om skred- og flomfare for eiendommen, 05.07.2023.
 
-[^27]: `bakgrunn/2023-07-06_rammesoknad_kontor_beskrivelse.txt` (nabovarsel + søknadsbeskrivelse), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_F.txt` (F-02, F-04–F-09: flom, VA, el, ventilasjon), `bakgrunn/2023-07-06_rammesoknad_kontor_brannkonsept.txt` (brannkonsept), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_I.txt` (I-01–I-05: Riksantikvaren, slokkevann, Byantikvaren m.fl.) – Rammesøknad kontorbygg BYGG-23/82364, SAHAA AS / KodeWorks Eiendom AS, innsendt 06.07.2023, komplettert 13.10.2023.
+[^27]: `bakgrunn/2023-07-06_rammesoknad_kontor_beskrivelse.txt` (nabovarsel + søknadsbeskrivelse), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_F.txt` (F-02, F-04–F-09: flom, VA, el, ventilasjon), `bakgrunn/brann/2023-07-06_rammesoknad_kontor_brannkonsept.txt` (brannkonsept), `bakgrunn/2023-07-06_rammesoknad_kontor_vedlegg_I.txt` (I-01–I-05: Riksantikvaren, slokkevann, Byantikvaren m.fl.) – Rammesøknad kontorbygg BYGG-23/82364, SAHAA AS / KodeWorks Eiendom AS, innsendt 06.07.2023, komplettert 13.10.2023.
 
 [^28]: `bakgrunn/stotte/bya/tilsagnsbrev.md` – Byantikvarens tilsagnsbrev 02.05.2025 (saksref. 2025/5928). Innvilget 500 000 kr til sikring og istandsetting av konstruksjon. Vilkår: antikvarisk spesialkompetanse, løpende dialog med BYA, rapport med foto. Opprinnelig kildefil (byantikvaren_tilbakemelding_rammesoknad.txt) var tom; erstattet av primærkilden.
 
@@ -447,7 +449,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^32]: `bakgrunn/stotte/uni/tildeling.md` – Stiftelsen UNIs tildelingsbrev 03.09.2024 (styrevedtak 28.08.2024, ref. UNI-38702). Innvilget NOK 100 000 til brannsikring. Støtteintensitet 5,6 % (100 000 / 1 785 000 kr).
 
-[^33]: `bakgrunn/2024-11-08_paalegg_brannsikring.md` – TBRT pålegg om brannsikring, 08.11.2024. Krav om fullsprinklet anlegg i hele bygget; frist 01.05.2025.
+[^33]: `bakgrunn/brann/2024-11-08_paalegg_brannsikring.md` – TBRT pålegg om brannsikring, 08.11.2024. Krav om fullsprinklet anlegg i hele bygget; frist 01.05.2025.
 
 [^34]: `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md` – TBRT vedtak om tvangsmulkt, 07.05.2025. NOK 2 000/dag fra 01.01.2026 til sprinkleranlegg er på plass og godkjent.
 
@@ -479,17 +481,17 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^48]: `bakgrunn/2026-02-10_notat_rib.txt` – RiB (konstruksjon), notat, 10.02.2026.
 
-[^49]: `bakgrunn/2026-02-16_brannkonsept_bkl3_tek17.txt` – RiBr, brannkonsept BKL3 TEK17 for minilager, 16.02.2026.
+[^49]: `bakgrunn/brann/2026-02-16_brannkonsept_bkl3_tek17.txt` – RiBr, brannkonsept BKL3 TEK17 for minilager, 16.02.2026.
 
-[^50]: `bakgrunn/2026-02-16_brannkonsept_vedlegg_a.txt` – RiBr, vedlegg A til brannkonsept, 16.02.2026.
+[^50]: `bakgrunn/brann/2026-02-16_brannkonsept_vedlegg_a.txt` – RiBr, vedlegg A til brannkonsept, 16.02.2026.
 
-[^51]: `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` – HRP, brannprosjektering for minilager Fjordgata 30, 17.02.2026.
+[^51]: `bakgrunn/brann/2026-02-17_brannprosjektering_minilager.txt` – HRP, brannprosjektering for minilager Fjordgata 30, 17.02.2026.
 
 [^52]: `bakgrunn/2026-04-16_arbeid_kristian.txt` og `bakgrunn/2026-04-16_arbeid_ole_morten.txt` – Arbeidslogger, Kristian Brandsegg og Ole Morten Lagmannssveen. Dokumenterer arbeidsøkter, anvendt metodikk (Fein-sag, hulltaking, sortering), konstruksjonsfunn (bæresystem bevart fra 1.–2. etg. og oppover; langsgående betongmur og sentrale bæringspunkter fra 1980-tallets gjenoppbygging) og grunnundersøkelser (eldre elveavsetninger).
 
 [^53]: `bakgrunn/2026-02-26_redegjoerelse_tbrt.txt` – KodeWorks redegjørelse til TBRT om status og fremdrift, 26.02.2026.
 
-[^54]: `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` – Notat om brannsikring i gjennomføringsfasen, 26.02.2026.
+[^54]: `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` – Notat om brannsikring i gjennomføringsfasen, 26.02.2026.
 
 [^55]: `bakgrunn/2026-02-27_status_fjordgata30.md` – KodeWorks statusbrev til TBRT om minilager-planer og fremdrift på rammesøknad, 27.02.2026.
 
@@ -531,7 +533,7 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^73]: `bakgrunn/stotte/bya/anbefaling.md` – Byantikvarens anbefaling av støttesøknad for Fjordgata 30, 06.03.2024. Fra Silje Taftø Petersen. Fastslår at skadene i tømmerkonstruksjonene er «særdeles omfattende» og anbefaler tilskudd til istandsetting.
 
-[^74]: `bakgrunn/2024-04-29_tbrt_behov_brannsikring.md` – TBRTs støttebrev til søknad om tilskudd, 29.04.2024. Fra Morten Knutsen. Anbefaler tilskudd; fastslår at bygget ikke oppfyller brannforebyggingsforskriften §8 og at en brann kan spre seg til nabobrygger.
+[^74]: `bakgrunn/brann/2024-04-29_tbrt_behov_brannsikring.md` – TBRTs støttebrev til søknad om tilskudd, 29.04.2024. Fra Morten Knutsen. Anbefaler tilskudd; fastslår at bygget ikke oppfyller brannforebyggingsforskriften §8 og at en brann kan spre seg til nabobrygger.
 
 [^75]: `bakgrunn/2026-01-23_byantikvaren_tilbakemelding_endring_rammesoeknad.md` – Byantikvarens formelle tilbakemelding til foreslått konseptendring, 23.01.2026. Fra Roy Åge Håpnes og Silje Taftø Petersen. Kopi til Byplankontoret og Byggesakskontoret. BYA fraråder minilager i 1. etasje (byliv, ny områdeplan §§ 5.1.2 og 4.2.2), ingen avgjørende innvendinger mot øvrige etasjer.
 
@@ -551,4 +553,6 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^83]: `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` – E-postkorrespondanse mellom Eirik Larsen, Kristian B. Brandsegg og Ole Morten Lagmannssveen, periode 28.08–20.09.2026. Kronologisk sammenstilling av 10 meldinger om fremdrift på riving 2. etg., innleie av bergstudenter og byggstudenter, Ain og Marcos arbeid, container-logistikk, brannvarsling under oppussing og oppstart av kjellerarbeid. Åpne avklaringer per 20.09: RIB-vurdering av demontering av tømmerstokker (Ole Morten), sti til brannkonsept-dokument for oppussingsfasen (Eirik). Kristian bortreist 20.09–13.10.2026.
 
-*Sist oppdatert: 3. september 2026*
+[^84]: `bakgrunn/2026-09-24_svar_riksantikvaren_dispensasjon_befaring.md` – Riksantikvarens svar på henvendelsen om graving i grunn, mottatt 24.09.2026. Fra seksjon for arkeologiske kulturminner (Sissel Ramstad Skoglund). Besvarer alle seks spørsmål i `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md`. Fastslår at eiendommen ligger innenfor middelalderbyen Trondheim, at Riksantikvaren er myndighet, og at dispensasjon etter kulturminneloven § 8 kreves. Angir dokumentasjonskrav (målsatte tegninger av graveomfang i plan og snitt, beskrivelse av gravearbeid og framgangsmåte), saksbehandlingstid (fire uker fra tilstrekkelig opplyst sak) og involvering av NIKU og Trøndelag fylkeskommune. Tilbyr befaring når løst materiale er ryddet. Råfil: `bakgrunn/nye/mail_riks.txt`.
+
+*Sist oppdatert: 24. september 2026*

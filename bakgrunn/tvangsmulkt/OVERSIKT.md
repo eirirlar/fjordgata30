@@ -42,7 +42,7 @@ Brevet avslutter med: *«Pålegget anses etter dette som ikke etterkommet, og fo
 
 **Skjermbildene er hentet ut.** TBRT gjengav alle klagers anførsler som skjermbilder i saksfremlegget, ikke som tekst. Seks skjermbilder, punkt 4.1 til 4.6. All tekst er lest ut av bildene og skrevet av. Avskriften er kontrollert mot originalklagen: null fremmede ord.
 
-**Pålegget hadde også bildetekst.** `Pålegg om brannsikring` har to bilder på side 2 og 3 med TBRTs *egen* tekst — sitater fra deres tidligere brev. Teksten manglet i `bakgrunn/2024-11-08_paalegg_brannsikring.md` og er nå fylt inn der som blokksitat.
+**Pålegget hadde også bildetekst.** `Pålegg om brannsikring` har to bilder på side 2 og 3 med TBRTs *egen* tekst — sitater fra deres tidligere brev. Teksten manglet i `bakgrunn/brann/2024-11-08_paalegg_brannsikring.md` og er nå fylt inn der som blokksitat.
 
 **De uthentede tekstbildene er slettet.** Original-PDF-ene er beviset, ikke våre PNG-er av dem. Når teksten er skrevet av og kontrollert, har bildefilene ingen egen verdi. Bildene i `bilder/` er derfor kun tegninger.
 
@@ -86,10 +86,10 @@ Disse ble **ikke** konvertert. Tekstlikhet 90–100 %.
 
 | Kilde-PDF | Finnes allerede som |
 |---|---|
-| `26122001 Fjordgata 30_Brannkonsept bkl3 TEK17_160226.pdf` | `bakgrunn/2026-02-16_brannkonsept_bkl3_tek17.txt` |
-| `26122001 Vedlegg A.pdf` | `bakgrunn/2026-02-16_brannkonsept_vedlegg_a.txt` |
-| `2612200_BRFjordgata 30 - minilager_FIN.pdf` | `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` |
-| `2612200 FG30 Notat brannsikring i gjennomføringsfasen.pdf` | `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` |
+| `26122001 Fjordgata 30_Brannkonsept bkl3 TEK17_160226.pdf` | `bakgrunn/brann/2026-02-16_brannkonsept_bkl3_tek17.txt` |
+| `26122001 Vedlegg A.pdf` | `bakgrunn/brann/2026-02-16_brannkonsept_vedlegg_a.txt` |
+| `2612200_BRFjordgata 30 - minilager_FIN.pdf` | `bakgrunn/brann/2026-02-17_brannprosjektering_minilager.txt` |
+| `2612200 FG30 Notat brannsikring i gjennomføringsfasen.pdf` | `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` |
 | `2612200 Sjekkliste Fjordgata 30_RIBr_Sign.pdf` | `bakgrunn/2026-02-02_sjekkliste_ribr.txt` |
 | `B-01 Dispensasjonssøknad.pdf` | `bakgrunn/2026-01-26_dispensasjonssoknad.txt` |
 | `F-01 Følgebrev_Nabovarsel.pdf` | `bakgrunn/2026-01-26_folgebrev_nabovarsel.txt` |
@@ -106,7 +106,7 @@ Disse ble **ikke** konvertert. Tekstlikhet 90–100 %.
 | `2 gangs innkreving ... 19032026 - 14042026 ....pdf` | `bakgrunn/2026-04-17_2gangs_innkreving_tvangsmulkt.md` |
 | `3 gangs innkreving ... 15042026 - 26052026 ....pdf` | `bakgrunn/2026-06-03_3gangs_innkreving_tvangsmulkt.md` |
 | `Vedtak om tvangsmulkt - Fjordgata 30 - 5001401149.pdf` | `bakgrunn/2025-05-07_vedtak_tvangsmulkt.md` |
-| `Pålegg om brannsikring - Fjordgata 30 - 5001401149.pdf` | `bakgrunn/2024-11-08_paalegg_brannsikring.md` **(komplettert, se 4.5)** |
+| `Pålegg om brannsikring - Fjordgata 30 - 5001401149.pdf` | `bakgrunn/brann/2024-11-08_paalegg_brannsikring.md` **(komplettert, se 4.5)** |
 | `Tilsynsrapport - Fjordgata 30 - 5001401149.pdf` | `bakgrunn/2024-01-24_tilsynsrapport_tbrt.md` |
 | `Redegjørelse til TBRT.pdf` | `bakgrunn/2026-02-26_redegjoerelse_tbrt.txt` |
 | `2026-06-11_referat_statusmote_tbrt.pdf` | `referat/2026-06-11_referat_statusmote_tbrt.md` |
@@ -141,7 +141,7 @@ Dette er før konseptendringen til minilager. Ansvarsrettene fra februar samme �
 
 ### 4.5 Pålegg-fila er komplettert
 
-`bakgrunn/2024-11-08_paalegg_brannsikring.md` manglet teksten fra de to bildene på side 2 og 3. Den er nå fylt inn som blokksitat, med merknad om at den lå som bilde i originalen.
+`bakgrunn/brann/2024-11-08_paalegg_brannsikring.md` manglet teksten fra de to bildene på side 2 og 3. Den er nå fylt inn som blokksitat, med merknad om at den lå som bilde i originalen.
 
 ---
 
