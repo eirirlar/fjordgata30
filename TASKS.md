@@ -1349,3 +1349,312 @@ Parallelt, utenfor denne tasken: press byggesakskontoret på rammetillatelse, og
 - `referat/2026-06-11_referat_statusmote_tbrt.md`
 - `leveranser/2026-06-17_tbrt_klage_innkrevinger_2026.md`
 - `bakgrunn/lovverk/forvaltningsloven.md`
+
+---
+
+### T148 `[x]` Arbeidsavtale for Marko Kiivet — midlertidig ansettelse KodeWorks Eiendom AS
+
+**Bakgrunn:** Marko har jobbet «bak Ains kontrakt» siden 07.07.2026 (jf. `bakgrunn/2026-08-25_sammenstilling_fremdrift_sommer_2026.md`). Ain hadde arbeidsavtale (T140), men Marko manglet D-nummer og var derfor ikke formalisert — flagget som kritisk risiko i statusmøte 09 og 10. Denne tasken formaliserer Markos arbeidsforhold på samme mal som Ains avtale.
+
+**Løst 17.09.2026.**
+
+Utfylt utkast lagret som `leveranser/2026-09-17_arbeidsavtale_marko_kiivet.md`. Malen er Ains avtale (`leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md`) — identisk struktur og lovhjemler. Persondata for Marko:
+
+- **Navn:** Marko Kiivet
+- **Fødselsdato:** 06.06.1973
+- **Norsk D-nummer:** 460673 20700 (verifisert: 06+40=46, mnd 06, år 73, personnr 207, kontrollsiffer 00 — gyldig D-nummer-format)
+- **Adresse:** Kvitsteinvegen 42, 7027 Trondheim (samme som Ain — deler bolig)
+- **E-post:** mkiivet44@gmail.com
+- **Telefon:** +372 5399 9465
+- **Pårørende / nødkontakt:** Moonika Johans, +372 5553 2246
+- **Bankkonto:** ettersendes av arbeidstaker før første lønnsutbetaling
+
+**Kopiert direkte fra Ains avtale (samme vilkår):**
+
+- § 4 Bygg- og anleggsarbeider — rydding, sortering, riving, forberedende arbeid, forskaling og enklere byggearbeid under prosjektleders instruksjon
+- § 5 Ingen tariffavtale; verneombud ikke valgt (aml. § 6-1 andre ledd)
+- § 6 Midlertidig ansettelse med hjemmel i aml. § 14-9 andre ledd bokstav a — avgrenset rehabiliteringsfase forut for totalentreprenør. Rett til fast ansettelse etter 3 år (§ 14-9 sjuende ledd)
+- § 6 Variabel arbeidstid inntil 40 t/uke, normalt 07:00–15:30
+- § 6 30 min ubetalt matpause (§ 10-9), 7 dagers oppsigelse begge veier
+- § 7 Ingen prøvetid (kort varighet)
+- § 8 300 kr/t, utbetaling 22. hver måned, 10,2 % feriepenger (ferieloven § 10), overtid ikke aktuelt men 40 %-tillegg iht. § 10-6 (11) hvis nødvendig
+- § 9 Egne verktøy, parkering dekkes, yrkesskadeforsikring, HMS-kort, OTP-vurdering, sykepenger
+
+**Tilpasninger for Marko (avvik fra Ains avtale):**
+
+- **§ 2 Ansatt:** Bruker D-nummer (Ain har fødselsnummer). D-nummer er verifisert som gyldig format.
+- **§ 6 Ansatt fra:** 01.08.2026 (formell ansettelsesdato). Sluttdato 01.10.2026 er lik Ains.
+- **§ 9 Andre opplysninger:** Lagt til pårørende/nødkontakt (Moonika Johans, +372 5553 2246). Ains avtale hadde ikke dette feltet, men det er praktisk å ha på personalkortet.
+- **§ 8 Bankkonto:** Utbetalingsmåte «bankoverføring» beholdt, men med merknad om at kontonummer ettersendes av arbeidstaker før første utbetaling.
+
+**Åpne placeholders arbeidsgiver må fylle før undertegning:**
+
+- Kontonummer (fra arbeidstaker)
+- Dato ved undertegning
+
+**Merknad om D-nummer:** D-nummer-problemet fra statusmøte 09/10 (aksjonspunkt 02.02) er nå løst — Marko har fått D-nummer 460673 20700 tildelt av Skatteetaten. Dette gjør formell ansettelse og A-melding mulig.
+
+**Merknad om sluttdato 01.10.2026:** Kun 2 uker igjen. Hvis arbeidet fortsetter, må ny midlertidig avtale inngås med et gyldig **nytt** § 14-9-grunnlag (ikke samme fasedefinisjon som denne), jf. samme advarsel som ble gitt for Ain i T140.
+
+**Berørte filer:**
+
+- `leveranser/2026-09-17_arbeidsavtale_marko_kiivet.md` (ny — utfylt utkast)
+- `leveranser/2026-09-17_arbeidsavtale_marko_kiivet.pdf` (ny — 3 sider A4, pandoc + xelatex 17.09.2026)
+- Kobling: **T140** (Ains arbeidsavtale, malgrunnlag)
+
+**Kilder:**
+
+- `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md` (mal)
+- `bakgrunn/2026-08-25_sammenstilling_fremdrift_sommer_2026.md` (start-dato, D-nummer-kontekst)
+- `referat/2026-08-14_statusmote_10.md` (post 02.02 — D-nummer)
+
+---
+
+### T149 `[ ]` Enova-søknad — Forbedring av energitilstand i yrkesbygg (Fjordgata 30)
+**Mottaker:** Enova SF
+**Støtteordning:** «Forbedring av energitilstand i yrkesbygg» (konkurransebasert, faste søknadsfrister)
+
+Utkast — utfylles før arbeidet starter.
+
+**Formål**
+
+Søke Enova om investeringsstøtte til energitiltakene som inngår i rehabiliteringen av Fjordgata 30, under den konkurransebaserte ordningen for yrkesbygg. Denne ordningen er en annen enn Ombrukskartleggingen (jf. den øvrige Enova-saken i porteføljen).
+
+**Driver: bankdialogen**
+
+Et tilsagn på denne ordningen er viktig for finansieringsdialogen med banken — kombinasjonen av allerede innvilget tilskudd fra KMF, Byantikvaren, UNI og Enovas kartleggingsordninger + en tung investeringsstøtte fra Enova yrkesbygg vil styrke pakken vesentlig. Derfor er strategien å søke i den førstkommende runden og ikke vente på en senere frist, selv om vi må gjøre en tolkning av vilkåret om pågående støtteordninger (se egen seksjon under).
+
+**Status på webportalen**
+
+En søknad er allerede opprettet i Enovas søknadsportal (`https://soknad.enova.no/...id=e4f27822-8ff1-41d9-832f-f9ef6892312a`), men **kun for å hente ut søknadens struktur/mal**. Søknaden er ikke sendt inn og fungerer nå som arbeidskopi. Alle skjema-.md-filene i `bakgrunn/enova/` er direkte utskrifter av sidene i denne kopien. Se `oppsummering.md` for statuslinjen «Mangler må rettes før søknaden kan sendes inn».
+
+**Ordningens hovedkrav (fra `bakgrunn/enova/`)**
+
+- **Absolutt minstekrav:** minst **20 % redusert levert energi** i lokalt klima. Hele støtten trekkes tilbake om dette ikke oppnås etter ferdigstillelse.
+- **Netto energibehov** må også reduseres til under et definert nivå per byggkategori (kap. 4.4 i vilkårene) — støtte trekkes tilbake for enkeltbygg som ikke oppnår dette.
+- **Ingen påløpte kostnader eller forpliktelser før søknadstidspunktet.** Dette er et incentivkrav i statsstøtteregelverket og er ufravikelig. **Kritisk avklaring:** deler av rehabiliteringen kan allerede være i gang eller kontrahert; må vurderes hvilke tiltak som fremdeles kan omsøkes uten å bryte dette vilkåret.
+- **Konkurranse om midler:** søknader rangeres etter kWh spart per kr støtte. Skjermbildet i `bakgrunn/enova/skjermbilde_tabell_soknadsrunder.md` viser 16 historiske runder — akseptrangeringen (laveste godkjente) varierer fra 6,76 til 29,42, dvs. søknader må levere høy energibesparelse per støttekrone for å komme gjennom.
+- **Energiattest** vedlagt søknaden må representere byggets tilstand på søknadstidspunktet.
+- **Foretak i vanskeligheter:** søkerforetaket kan ikke være et «foretak i vanskeligheter» iht. GBER — må sjekkes for KodeWorks Eiendom AS (org.nr. 920 478 506).
+- **Søker må være eier eller leietaker.** KodeWorks Eiendom AS er eier — OK. Ved planlagt fisjon bør det avklares om driftsselskapet (Fjordgata 30 AS) skal overta tilsagnet, og hvordan det håndteres.
+- **Anti-kumulering mot pågående Enova-prosjekter:** vilkårene pkt. 7 og 8, samt egenerklæringen, sier at bygninger som har mottatt *investeringsstøtte* fra en annen Enova-ordning og hvor prosjektet ikke er avsluttet, ikke kan omsøkes. Dette vilkåret krever en spesifikk vurdering — se egen seksjon nedenfor.
+
+**Vår tolkning og plan for vilkåret om pågående Enova-prosjekter**
+
+*Situasjonen.* KodeWorks Eiendom AS har to åpne Enova-saker på Fjordgata 30 der arbeidet er utført og fakturert, men utbetalingsanmodning/sluttrapport ennå ikke er sendt:
+
+- **Energikartlegging** (`bakgrunn/stotte/enova_kl/`) — energikartleggingsrapport ferdig.
+- **Mulighetsstudie ombruk og fleksibilitet / Ombrukskartlegging** (`bakgrunn/stotte/enova_om/`) — kartlegging utført av tverrfaglig team, sluttrapport gjenstår.
+
+Ingen andre Enova-tilsagn foreligger.
+
+*Rettslig vurdering.* Vilkårene og egenerklæringen bruker konsekvent ordet **«investeringsstøtte»** — ikke «støtte» generelt. Dette er et definert begrep i EØS-statsstøtteregelverket (GBER). Anti-kumuleringsvilkåret i pkt. 7–8 er en klassisk investering-mot-investering-regel og gjelder etter sin ordlyd ikke kartleggings-/studiestøtte:
+
+- Energikartleggingen er hjemlet i **GBER art. 49 (miljøstudier)**, eksplisitt bekreftet i `bakgrunn/stotte/enova_kl/vilkaar.md` linje 3 og 26. Miljøstudier er ikke investeringsstøtte.
+- Ombrukskartleggingen er innvilget under Enovas program «Mulighetsstudie ombruk og fleksibilitet», jf. `bakgrunn/stotte/enova_om/tilskuddsbrev.md`. Utrednings-/mulighetsstudieordning — ikke investering.
+- Yrkesbygg-ordningen er selv en investeringsstøtte (typisk GBER art. 38/38a for energiforbedring). Anti-kumuleringsregelen er skrevet for å forhindre at samme areal får investeringsstøtte to ganger — den er ikke ment å ramme kombinasjon med utredning/kartlegging.
+
+*Konklusjon vi legger til grunn i søknaden.* Vi svarer **«Nei»** på egenerklæringens to spørsmål om investeringsstøtte, med henvisning til at ingen av de mottatte Enova-tilsagnene er investeringsstøtte i vilkårenes forstand.
+
+*Transparens i søknaden.* For å unngå at Enova mener spørsmålet skulle vært besvart annerledes, må vi eksplisitt omtale de to kartleggingsordningene i **prosjektsammendraget**:
+
+- Nevne begge tilsagn med saksnummer og beløp.
+- Klargjøre at det gjelder kartleggings-/utredningsstøtte (GBER art. 49 og mulighetsstudie), ikke investeringsstøtte.
+- Opplyse at kartleggingene er faktisk gjennomført, at rapportene foreligger eller er under ferdigstilling, og at utbetalingsanmodninger sendes i løpet av kort tid — planlagt før prosjektstart for yrkesbygg-ordningen uansett.
+
+*Handlingsplan parallelt med søknadsarbeidet.*
+
+- Ferdigstille sluttrapport for ombrukskartleggingen og sende utbetalingsanmodning for begge kartleggingene, senest i god tid før prosjektstart under yrkesbygg-ordningen. Følges opp som separate oppgaver / oppdatering av T22.
+- Beholde dokumentasjon (denne task, søknaden, kartleggingenes vilkårsdokumenter) klar hvis Enova ber om utdyping av «Nei»-svaret.
+
+*Restrisiko.* Om Enova administrativt tolker «investeringsstøtte» bredere enn ordlyden, kan tilsagn i verste fall trekkes tilbake ved kontroll. Vi vurderer risikoen som lav gitt at ordlyden er entydig og at vi opptrer transparent i prosjektsammendraget. Bekreftelse fra Enova på tolkningen er ikke innhentet før søknad — vurdert som ikke mulig innen fristen.
+
+**Åpne spørsmål (utfylles av prosjektleder før arbeidet starter)**
+
+- Målfrist er den førstkommende søknadsrunden — bekreft dato mot Enovas nettside (siste frist i tabellen var 29.05.2026; høstens runde kommer trolig innen kort tid).
+- Er noen av rehabiliteringstiltakene allerede kontrahert eller igangsatt — hvilke, og hva er da fortsatt omsøkbart?
+- Hvilke energitiltak inngår i rehabiliteringen? Foreløpig liste å bekrefte:
+  - Etterisolering av yttervegger / tak
+  - Vindusutskifting
+  - Ventilasjonsanlegg med varmegjenvinning
+  - Varmepumpe (luft–vann / bergvarme)
+  - Belysning / styringssystem
+  - Andre tiltak
+- Foreligger det energiattest for bygget i dagens tilstand? Hvis ikke — hvem bestiller/utfører, og når?
+- Trenger vi ekstern energirådgiver / rådgivende ingeniør (RIE) for å utarbeide beregning av levert energi før/etter og netto energibehov? HRP kan være aktuell.
+- Kumulering med andre offentlige tilskudd (Kulturminnefondet 750 000 kr, Byantikvaren 500 000 kr, Enova Energikartlegging, Enova Ombrukskartlegging, evt. UNI): hvordan påvirker det maksimal støtteintensitet under GBER, og hvordan skal grunnlaget rapporteres til Enova?
+- Prosjektbudsjett for de omsøkte energitiltakene (skjelnes fra øvrige rehab-kostnader): hva er anslått totalkostnad, og hva ønsker vi å søke om?
+- Fisjonsstatus (jf. planlagt utskillelse av Fjordgata 30 AS) — hvem skal stå som søker?
+
+**Skjemastrukturen (fra Enovas søknadsportal)**
+
+Følgende sider inngår i søknaden — hver har en tilhørende .md-fil i `bakgrunn/enova/` med kravene:
+
+1. Virksomhetens størrelse
+2. Foretak i vanskeligheter (`foretak_i_vanskeligheter.md`)
+3. Egenerklæring (`egenerklaering.md`)
+4. Morselskap / tilganger
+5. Leverandører (`leverandoerer.md`)
+6. Prosjektsammendrag (`prosjektsammendrag.md`)
+7. Energiattester (`energiattester.md`)
+8. Energitiltak (`energitiltak.md`)
+9. Økonomi (`oekonomi.md`)
+10. Finansiering (`finansiering.md`)
+11. Vedlegg (`vedlegg.md`)
+12. Oppsummering (`oppsummering.md`)
+
+**Vedleggskrav — status på maler**
+
+Enova har **ingen obligatorisk vedleggsmal** for denne ordningen (verifisert mot søknadsveilederen på enova.no 18.09.2026). Portalens vedleggsside er åpen («Last opp andre vedlegg»), og søknadsveilederen lister kun to nedlastbare PDF-er som er lesestoff, ikke utfyllingsskjema:
+
+- *Vilkår for støtte* (09.02.2026) — samme som `bakgrunn/enova/vilkaar_stoette_yrkesbygg.md`
+- *Avkortningsregler* (30.01.2026)
+
+Malen «Obligatorisk: Mal for prosjektbeskrivelse.docx» som finnes i Enovas generelle mal-katalog er for andre ordninger («Industri 2050» / «Introduksjon av ny teknologi») — ikke yrkesbygg. Prosjektsammendraget for yrkesbygg fylles inn direkte i portalens fritekstfelt.
+
+*Obligatoriske vedlegg (uten Enova-mal, følger andre standarder):*
+
+- **Offisiell energiattest** for hvert omfattet bygg, iht. NS3031:2025 — bestilles fra energirådgiver. Absolutt krav, jf. vilkårenes pkt. 90–91.
+- **Fjernvarme-bekreftelse** hvis bygget ligger i område med fjernvarmekonsesjon (vilkårene pkt. 188). Fjordgata 30 må sjekkes mot Statkraft Varmes konsesjonsområde i Trondheim.
+- **Godkjent regnskap** hvis «foretak i vanskeligheter»-vurderingen viser vesentlige endringer siden siste årsregnskap (`foretak_i_vanskeligheter.md` linje 60–62).
+
+*Anbefalte tilleggsvedlegg (frivillige, styrker søknaden):*
+
+- Energiberegning før/etter tiltak, samme metodikk som energiattest.
+- Kostnadsestimater/tilbud fra entreprenører som underbygger budsjettall.
+- Tegninger som viser hvilke arealer/klimaskjerm som berøres.
+
+*Mal for sluttrapport (senere fase, ikke nå):*
+
+- **Mal for prosjektregnskap.xlsx** er obligatorisk ved sluttrapport / utbetalingsanmodning. Ikke aktuell nå, men noteres for senere.
+
+**Kilder / bakgrunnsmateriale**
+
+- `bakgrunn/enova/vilkaar_stoette_yrkesbygg.md` — vilkårsdokumentet (versjon 09.02.2026)
+- `bakgrunn/enova/stoette_forbedring_energitilstand_yrkesbygg.md` — ordningens nettside
+- `bakgrunn/enova/utbetaling_avkortning_yrkesbygg.md` — utbetalings- og avkortningsregler
+- `bakgrunn/enova/skjermbilde_tabell_soknadsrunder.md` — historisk rangering / akseptterskler
+- Øvrige skjema-.md-filer i `bakgrunn/enova/`
+
+**Kobling til øvrige oppgaver**
+
+- Ombrukskartleggingen (annen Enova-ordning) — pågår via HRP, egen sak.
+- Fisjonsvurderingen — kan påvirke hvem som står som søker.
+- Bankpakken og øvrige tilskuddssøknader — samme grunnlagsdata (budsjett, framdriftsplan) bør gjenbrukes.
+- **T150** — parallell søknad under Enova Varmesentraler-ordningen for fjernvarme-tilknytning (kundesentral + konvertering til vannbårne løsninger). Sendes separat, ikke tidskritisk mot dagens frist.
+
+---
+
+### T150 `[ ]` Enova-søknad — Varmesentraler (fjernvarme-tilknytning Fjordgata 30)
+**Mottaker:** Enova SF
+**Støtteordning:** «Varmesentraler» (løpende søknad, ikke konkurransebasert)
+**Skal ikke løses nå** — sendes etter at yrkesbygg-søknaden er inne og bygningsprosjektet er konkretisert.
+
+**Formål**
+
+Søke støtte for konvertering fra el-oppvarming til fjernvarme (Lunera Energi) — kundesentral i bygget + rør og tilkobling. Denne søknaden går parallelt med yrkesbygg-søknaden og komplementerer den: yrkesbygg dekker bygningskropp/ventilasjon/belysning/solceller + selve fjernvarme-tiltaket (tiltak 9 i HRP-rapporten), Varmesentraler dekker de fysiske konverteringskostnadene.
+
+**Støttesatser (fra 21.01.2026, avvikles sommeren 2027)**
+
+- Rør og tilkobling: 3 000 kr/kW
+- Kundesentral i bygget: 1 500 kr/kW
+- Samlet: **4 500 kr/kW** for konvertering el → fjernvarme
+- Tak: 3 MW installert effekt, maks 10 MNOK
+
+**Estimert beløp for Fjordgata 30**
+
+- Effektbehov etter energioppgradering (fra HRP): 50 kW
+- Estimert støtte: 50 × 4 500 = **225 000 kr**
+- Matcher HRPs beregning i energikartleggingsrapport kap. 5.3.2 (T3)
+
+**Frister og timing**
+
+- Ingen fast søknadsfrist — søknader behandles løpende, vedtak fattes månedlig
+- Programmet avvikles sommeren 2027
+- Enova reduserer støttesatsene to ganger per år — jo tidligere innsending, jo høyere sats
+
+**Kvalifikasjonskriterier (bekreftet oppfylt)**
+
+- Eksisterende bygg (ikke nybygg) ✓
+- Ikke vannbåren varme i dag (el-panelovner) ✓
+- Juridisk eier står som søker (KodeWorks Eiendom AS) ✓
+- Etablert varmenett innen prosjektperioden (Lunera Energi har fjernvarme i Trondheim sentrum) ✓
+- Prosjektet ikke påstartet ✓
+- Kundesentral kan søkes uavhengig av om bygget ligger i fjernvarmekonsesjonsområde (eksplisitt bekreftet i endringene fra 21.01.2026)
+
+**Åpne punkter som må avklares før innsending**
+
+- Skriftlig tilkoblingsavtale med Lunera Energi (uformell muntlig bekreftelse foreligger — må formaliseres)
+- Effektberegning bekreftet av HRP (50 kW etter bygningskroppstiltakene, jf. energikartleggingsrapport kap. 3 og 4.16)
+- Leverandør av kundesentral valgt eller vurdert (f.eks. Cetetherm AS, Alfa Laval Norge AS)
+- Rørtrase og tilkoblingspunkt avklart mot Lunera
+- Konsern-vurderinger av foretakstørrelse og «foretak i vanskeligheter» (samme underlag som yrkesbygg-søknaden)
+
+**Kilder / bakgrunnsmateriale**
+
+- `bakgrunn/stotte/enova_kl/energikartleggingsrapport.md` kap. 4.10, 5.3.2 — HRPs vurdering av fjernvarme og estimert støtte
+- NemiTek 21.01.2026 — omtale av Enovas endring i varmesentraler-ordningen (`https://www.nemitek.no/energi-energi-og-miljo-energieffektivisering/enova-apner-for-mer-konvertering-til-vannbaren-varme/422897`)
+- Enova programside for Varmesentraler (`https://enova.no/nb/bedrift/energisystem/stottetilbud-innen-energisystem/varmesentraler`)
+
+**Kobling**
+
+- **T149** — hovedsøknad under yrkesbygg-ordningen (bygningskropp + fjernvarme + belysning + solceller). Denne dekker de bygg- og systemtekniske investeringene, Varmesentraler-søknaden dekker konverteringen fra el til vannbårent + kundesentral.
+
+---
+
+### T151 `[ ]` Kjeller — RIB-avklaring av demontering av tømmerstokker + bekreftelse på arbeidsomfang mot steintørrmuren
+
+**Bakgrunn:** Kristian etterspurte 20.09.2026 (e-postkorrespondanse rivearbeid) to avklaringer knyttet til kjellerarbeidet før Ain kan settes i gang:
+
+1. **Til Ole Morten (RIB-vurdering):** «Hvor mye/mange av de store tømmerstokkene kan vi demontere uten at det går på bekostning av stabiliteten i bygget?»
+2. **Til Eirik (bekreftelse på omfang):** «Bare for å være på den sikre siden. Vi fjerner alt tømmer fram til steintørrmuren mot kanalen ja?»
+
+Kjellerarbeidet står i ro til disse er avklart. Arbeidsinstruksen som allerede henger på stedet (`leveranser/2026-09-01_arbeidsinstruks_kjeller.md`) skiller mellom grønt (fjerne råttent/brannskadet materiale over natursteinsmurens overkant) og gult (stokker delvis nede i jord/grus — spør Ole Morten). Tømmer «fram til steintørrmuren mot kanalen» er innenfor grønt-sonen så lenge det ligger over murens overkant og er råttent/brannskadd, men bæringsvurderingen for de *store* stokkene er ny og krever RIB-input.
+
+**Handling:**
+
+- Ole Morten (HRP, RIB) gir en konkret vurdering av hvilke tømmerstokker som kan demonteres uten å svekke byggets stabilitet. Kan gjøres på befaring eller basert på foto/mål fra Kristian.
+- Eirik bekrefter overfor Kristian at arbeidsomfanget er å fjerne alt tømmer fram til steintørrmuren mot kanalen, med henvisning til gjeldende arbeidsinstruks og RIBs vurdering av bæring.
+
+**Berørte filer:**
+
+- `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` — gjeldende arbeidsinstruks (grønt/gult/rødt-soner)
+- `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` — kilde-e-post
+- Ny e-post/notat fra Ole Morten med RIB-vurdering (opprettes)
+
+**Kobling:** T143 (kjellerarbeidets rammebetingelser mot Byantikvaren og Riksantikvaren).
+
+**Frist:** Ønskelig svar før Ain kan settes i gang med kjellerarbeid — dvs. innen få dager. Merk at Kristian er bortreist 20.09–13.10.2026, så oppfølging må gå via Ole Morten i denne perioden.
+
+---
+
+### T152 `[ ]` Brannkonsept under oppussing — skaffe dokument, avklare brannslanger, sensorer og trådløst system
+
+**Bakgrunn:** Kristian etterspurte 20.09.2026 (e-postkorrespondanse rivearbeid) sti til dokumentet som beskriver brannkonseptet under oppussingsfasen. Behovet er reelt: (a) 06.09.2026 tildekket bergstudentene brannsensorer under riving og utløste varsel på brannsentralen; (b) brannvarsling er dokumentert som usikkerhetsmoment i tidligere e-poster (30.08 — Kristian: «Usikkerhetsmomentet ang. riving framover er fortsatt brannsensorer»); (c) Ole Morten venter på svar fra brannrådgiver om nytt trådløst brannvarslingsanlegg og flytting av brannslanger (nevnt 28.08).
+
+**Utestående spørsmål (fra Kristian, 20.09.2026):**
+
+- Hvor ligger dokumentet som beskriver brannkonsept under oppussing?
+- Hvilke brannslanger må være tilgjengelige under oppussingsfasen?
+- Hvilke sensorer må være aktive under oppussingsfasen?
+- Skal det settes i gang trådløst brannvarslingssystem som kan følge bygget under oppussingen?
+
+**Handling:**
+
+1. **Kartlegg eksisterende materiale.** Sjekk `brann/`-mappa og `bakgrunn/` for eksisterende brannkonsept for byggefasen. Relevante kandidater: notat om brannsikring i gjennomføringsfasen (26.02.2026, `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt`), brannprosjektering for minilager (17.02.2026), brannkonsept-vedlegg A (16.02.2026), rammesøknadens brannkonsept (2023-07-06). Vurder om ett av disse dekker byggefasen, eller om det trengs et nytt dokument.
+2. **Følg opp brannrådgiver (Gunnhild Henriksen Leere).** Ole Morten venter fortsatt på svar (per 28.08.2026) om trådløst brannvarslingsanlegg og flytting av brannslanger. Purre.
+3. **Utarbeid kort byggeplass-instruks for brannvarsling.** Etter mønster av kjeller-arbeidsinstruksen: hva må stå på, hvilke sensorer må ikke tildekkes uten forvarsel til brannsentralen, hvor er brannslangene, kontaktinfo ved falsk alarm.
+4. **Del med Kristian, Ole Morten og Ain.** Dokumentet skal henge på stedet og distribueres til alle som arbeider i bygget.
+
+**Berørte filer:**
+
+- `brann/` (kartlegg innhold)
+- `bakgrunn/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` (kandidat)
+- `bakgrunn/2026-02-17_brannprosjektering_minilager.txt` (kandidat)
+- `bakgrunn/2026-02-16_brannkonsept_vedlegg_a.txt` (kandidat)
+- `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` (kilde-e-post)
+- Ny: byggeplass-instruks for brannvarsling under oppussing (leveranse)
+
+**Kobling:** TBRT-dialog og pågående tvangsmulkt-klagesak (brannvarsling/sprinkler-krav), T143 (kjellerarbeid).
+
+**Frist:** Kristians spørsmål bør besvares snarest — hvis eksisterende dokument finnes, minimalt arbeid. Hvis nytt dokument må lages, koordineres det med Gunnhild (brannrådgiver).
