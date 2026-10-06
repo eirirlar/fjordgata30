@@ -1363,6 +1363,38 @@ Parallelt, utenfor denne tasken: press byggesakskontoret på rammetillatelse, og
 - `referat/2026-06-11_referat_statusmote_tbrt.md`
 - `leveranser/2026-06-17_tbrt_klage_innkrevinger_2026.md`
 - `bakgrunn/lovverk/forvaltningsloven.md`
+- `bakgrunn/lovverk/sivilombudsloven_4_arbeidsomrade.md`, `_8_vilkar_klage.md`, `_9_klagefrist.md`
+
+---
+
+#### I. Utsendelsesmappe — mønster for brev + vedlegg som PDF
+
+Når et brev med flere vedlegg skal sendes til en ekstern mottaker (Sivilombudet, DSB, Namsfogden, bank m.fl.), samles sluttpakka i en **midlertidig utsendelsesmappe** under `tmp/utsendelser/`. Hele `tmp/` er gitignored — innholdet skal ikke committes til repo.
+
+**Mappenavn:** `tmp/utsendelser/<kortnavn>_<YYYY-MM-DD>/` (f.eks. `tmp/utsendelser/sivilombudet_klage_2026-10-06/`).
+
+**Innhold:**
+
+- `00_brev_<kortnavn>.pdf` — hovedbrevet
+- `01_<beskrivelse>.pdf`, `02_<beskrivelse>.pdf`, … — vedlegg nummerert i rekkefølge brevet lister dem
+- `README.md` — kort oversikt: avsender, mottaker, dato, liste over vedlegg med kilde-filsti i repoet (for sporbarhet)
+
+**Generering:**
+
+PDF-ene genereres med pandoc + xelatex etter standardoppsettet dokumentert i `README.md` seksjon 3.3. Kilde-dokumenter som .md eller .txt konverteres direkte:
+
+```bash
+pandoc <kilde>.md -o tmp/utsendelser/<mappe>/<nn>_<beskrivelse>.pdf \
+  --pdf-engine=xelatex \
+  -V documentclass=scrartcl \
+  -V geometry:margin=1in \
+  -V mainfont="Times New Roman" \
+  -V monofont="Consolas"
+```
+
+Dokumenter som ikke finnes som .md/.txt i repoet (f.eks. originale brev mottatt som PDF fra motpart, uttalelser fra Lovdata/Sivilombudet) brukes i original-form istedenfor regenerert PDF. Grunn: motpartens original er beviset — en regenerert pandoc-PDF har ikke samme bevisverdi. Hvis originalen ikke er tilgjengelig lokalt, flagg det i chat før utsending slik at brukeren selv henter kopien.
+
+**Rydding:** Mappen slettes etter at utsendelsen er sendt — alt varig innhold ligger allerede i repoet som .md-kilder. `tmp/` er gitignored for å hindre at mellomfiler eller sensitive brev følger med en commit ved uhell.
 
 ---
 

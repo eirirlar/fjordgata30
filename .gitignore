@@ -8,3 +8,4 @@ whisper-env/
 bank/*.docx
 bank/*.pdf
 leveranser/*.pdf
+tmp/
