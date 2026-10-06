@@ -1741,7 +1741,7 @@ Kjellerarbeidet står i ro til disse er avklart. Arbeidsinstruksen som allerede 
 
 ---
 
-### T155 `[ ]` Brannsikring i gjennomføringsfasen — etterlevelse, dokumentasjon og byggeplassinstruks
+### T155 `[x]` Brannsikring i gjennomføringsfasen — etterlevelse, dokumentasjon og byggeplassinstruks
 
 **Formål:** Lukke avstanden mellom det HRPs notat om brannsikring i gjennomføringsfasen krever, og det som faktisk er etablert og dokumentert på byggeplassen i dag. Tre leveranser: (1) spørsmålsliste som avklarer faktagrunnlaget, (2) tiltaksplan, (3) byggeplassinstruks for brann som henges opp og etterleves.
 
@@ -1768,8 +1768,9 @@ Disse opplysningene er oppgitt muntlig og er ikke verifisert mot dokumentasjon. 
 - **Brannvarsling er aktiv.** Brannsentralen fungerer. Nylig kontrollert av Autronica.
 - **Byggestrøm er lagt opp.**
 - **Elkontroll er bestått uten anmerkninger.** Tensio TS AS (Det lokale eltilsyn) gjennomførte tilsyn 18.09.2026, rapport 20.09.2026, saksnr. 347885. Ingen feil eller mangler. Se `bakgrunn/2026-09-20_tensio_dle_tilsynsrapport_elanlegg.md`.
+- **Autronica-årskontroll av brannalarmanlegget bestått uten avvik.** Kontroll utført 12.05.2026 av Anders Nergård (Autronica Fire and Security), anleggsnr. 3280658, sentral BS-420 AutroSafe 4. Ingen avvik, ingen anbefalinger. Overføring til brannvesenet (110) er testet OK. Se `bakgrunn/brann/2026-05-12_autronica_aarskontroll_brannalarmanlegg.md`.
 - **Alarmen går videre til 110-sentralen.** Brannvesenet varsles automatisk ved deteksjon, også utenom arbeidstid.
-- **Brannansvarlig:** Kristian B. Brandsegg, tlf. 917 83 003. Stedfortreder for fraværsperioden 20.09–13.10.2026 må avklares.
+- **Brannansvarlig:** Ole Morten Lagmannssveen (HRP), tlf. 990 94 851 (bekreftet i hans Q3-svar 25.09.2026 og av varslingsplan som henger på veggen). Stedfortreder 1: Kristian B. Brandsegg (KMTE), tlf. 917 83 003. Stedfortreder 2: Eirik Larsen (byggherre), tlf. 416 70 269.
 - **Brannplakat for bygget** henger ved brannsentralen, ved utgangen nærmest Fjordgata 28. Den inneholder plassering av håndslokkere og trolig brannslanger. Må fotograferes og leses av.
 - **Det finnes allerede et ark til arbeiderne om brannsikkerhet.** Innholdet er ikke kjent i arkivet. Må framskaffes før ny instruks skrives, slik at den nye erstatter og forbedrer, og ikke motsier, det som allerede henger oppe.
 
@@ -1863,7 +1864,13 @@ Lista under er internversjonen. Markér gjerne svarene direkte her.
 
 ---
 
-#### Delleveranse 2 `[ ]` — Tiltaksplan
+#### Delleveranse 2 `[x]` — Tiltaksplan
+
+**Løst 28.09.2026.** Skrevet til `leveranser/brann/2026-09-28_tiltaksplan_brannsikring_gjennomforingsfasen.md`. Baserer seg på Kristians (24.09) og Ole Mortens (25.09) uavhengige svar på brannkartleggingen, samt divergensanalysen i `bakgrunn/2026-09-25_ole_morten_svar_brannsporsmaal.md`. Struktureres i Trinn 0 (gjort — grunnlag framskaffet), Trinn 1 (uke 40 — dokumentere ordninger som allerede finnes), Trinn 2 (uke 40–41 — sprinkler-/håndslokker-kontroll, Autronica-rapport, brann-ROS), Trinn 3 (uke 42–43 — trådløse sensorer, brannslange-håndtering, avvikslogg), Trinn 4 (løpende).
+
+Fire divergenser identifisert i brannsvarene er integrert som Trinn 1/3-tiltak (Q9 tildekkingsrutine, Q11 verifikasjon mot Autronica, Q13 brannslanger — Ole Mortens vurdering går foran, Q23 formalisering av el-rutine).
+
+**Opprinnelig planinnhold (bevart under, for referanse):**
 
 Rekkefølgen er valgt slik at det som koster minst og virker raskest kommer først.
 
@@ -1903,7 +1910,11 @@ Dette er forutsetningen for at instruksen kan skrives ferdig og bli riktig førs
 
 ---
 
-#### Delleveranse 3 `[ ]` — Byggeplassinstruks for brann
+#### Delleveranse 3 `[x]` — Byggeplassinstruks for brann
+
+**Løst 28.09.2026.** Skrevet til `leveranser/brann/2026-09-28_byggeplassinstruks_brann.md`. Ett A4-ark, samme format som kjeller-arbeidsinstruksen. Struktur: Ved brann/alarm → varslingsrekkefølge → RØDT (forbudt) / GULT (krever varsling) / GRØNT (rutine) → sluttkontroll-sjekkliste → falsk alarm-håndtering. Bruker eksisterende brannplakat som referanse for plassering av håndslokkere og brannslanger — instruksen selv navngir ikke antall/plassering. Framhever at alarm går videre til 110 automatisk. Klart til opphenging ved brannsentralen og hovedinngang.
+
+**Opprinnelig planinnhold (bevart under, for referanse):**
 
 **Format:** ett ark, A4, henges opp ved inngang og ved brannsentralen. Samme stil som kjeller-arbeidsinstruksen: korte setninger, ingen interne filstier, ett navn og ett telefonnummer som kontaktpunkt.
 
@@ -1954,8 +1965,17 @@ Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne 
 - `bakgrunn/2026-09-20_tensio_dle_tilsynsrapport_elanlegg.md` — bestått elkontroll
 - `bakgrunn/2026-09-20_epostkorrespondanse_rivearbeid_status.md` — Kristians spørsmål og hendelsen 06.09
 - `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` — mønster for instruksformat
-- `leveranser/brann/2026-09-24_epost_kristian_brannkartlegging.md` (ny — spørsmålene i e-postform, ikke sendt)
-- Nye: byggeplassinstruks for brann, sluttkontroll-sjekkliste, brann-ROS, fotodokumentasjon av branntekniske tiltak — legges i `leveranser/brann/`
+- `leveranser/brann/2026-09-24_epost_kristian_brannkartlegging.md` — spørsmålene i e-postform (ikke sendt; erstattet av direkte utveksling som endte i to individuelle svar)
+- `bakgrunn/2026-09-24_kristian_svar_brannsporsmaal.md` — Kristians svar
+- `bakgrunn/2026-09-25_ole_morten_svar_brannsporsmaal.md` — Ole Mortens svar (inkl. divergensanalyse)
+- `leveranser/brann/2026-09-28_tiltaksplan_brannsikring_gjennomforingsfasen.md` — Delleveranse 2 (tiltaksplan Trinn 0–4)
+- `leveranser/brann/2026-09-28_byggeplassinstruks_brann.md` — Delleveranse 3 (byggeplassinstruks, A4 til opphenging)
+- `leveranser/brann/2026-09-28_brann_rutiner_byggefasen.md` — tildekkingsprosedyre, el-anleggs-rutine og avvikslogg med maler
+- `leveranser/brann/2026-09-28_sluttkontroll_sjekkliste.md` — sjekkliste til opphenging ved utgangen
+- `leveranser/brann/2026-09-28_brann_ros_byggefasen.md` — brann-ROS med 12 scenarier og restrisiko
+- `leveranser/brann/2026-09-28_plan_midlertidig_oppvarming_vinter.md` — plan for vintersesong
+- `leveranser/brann/2026-09-28_forespoersel_autronica_dokumentasjon.md` — utkast til Autronica-forespørsel
+- `bakgrunn/2026-09-28_gjensidige_forsikringsvilkaar_naeringsbygg.md` — strukturert sammendrag av gjeldende forsikringsvilkår
 
 **Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/tvangsmulkt/OVERSIKT.md`.
 
@@ -1964,3 +1984,72 @@ Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne 
 **Kobling:** T147 (tvangsmulkt-saken mot TBRT), T152 (Kristians opprinnelige spørsmål om brannkonsept under oppussing — dekkes i sin helhet av denne oppgaven og kan lukkes når den er løst), T151 (kjellerarbeid — kjeller er ikke sprinklerdekket).
 
 **Frist:** Ingen hard frist. Prosjektleder har besluttet at arbeidet skal gjøres skikkelig framfor raskt — det henger allerede et ark til arbeiderne, så byggeplassen står ikke uten instruks i mellomtiden. Trinn 0 bør likevel gjøres straks, siden det bare krever et par bilder og én avklaring.
+
+**Løst 28.09.2026.** Alle skrivelige leveranser er produsert. Syv dokumenter under `leveranser/brann/` dekker byggeplassinstruks, rutiner (tildekking + el-anlegg + avvikslogg), sluttkontroll-sjekkliste, brann-ROS, vinter-oppvarmingsplan og Autronica-forespørsel. Autronica årskontroll-rapport (12.05.2026, ingen avvik) og Gjensidige-vilkårene er portet inn til `bakgrunn/`.
+
+Rolleavklaring — Ole Morten brannansvarlig, Kristian backup, Lasse Holanger HMS-ansvarlig — er etablert i praksis via varslingsplan som henger på veggen og bekreftet av Ole Morten i brannsvar 25.09.2026; ingen egen formell utpeking utover det.
+
+**Forsikringsvarsling — evaluert, avvist.** Vurdert om Gjensidige bør varsles om rehabiliteringen nå. Konklusjon: ikke nødvendig, ikke lovpålagt, ikke pålagt av vilkår.
+
+- Gjensidige-vilkårene (pkt. 4 i sammendraget) krever varsling ved (a) verdiendring etter ombygging eller (b) bruksendring til annet formål enn avtalt (registrert anvendelse: «Kontor»). Ingen av betingelsene er inntruffet: verdiendring skjer først ved ferdigstillelse, bruksendring til minilager skjer først når bygget faktisk tas i bruk som minilager. Selve rehabiliteringen utløser ikke varslingsplikt i seg selv.
+- FAL § 4-6 gjenspeiler samme prinsipp. Ingen selvstendig lovpålagt varslingsplikt utover det vilkårene setter.
+- Formell endringsmelding må uansett gå ut senest når bygget tas i bruk som minilager. Håndteres da, sammen med eventuell reprising, ny anvendelse og oppdatert forsikringssum. Utkast til varsel er derfor slettet.
+
+**Forsikringen beholdes.** Årlig premie 78 kkr står mot en samlet risiko-eksponering (huseieransvar/byggherreansvar mot nabobrygger, brannspredning, naturskade fra Nidelva, tyveri/hærverk) som er vesentlig større. Byggherreansvar ved rehabilitering av eksisterende bygningskropp er eksplisitt dekket. Byggefasen har unntak for «ting på bygge- og anleggsplass» og «rivings-/spuntings-arbeid», men bygningsdekningen og huseieransvaret utenfor disse unntakene består. Oppsigelse ville krevd erstatnings­dekning som ikke er utredet.
+
+**Gap mot vilkårene identifisert (må lukkes uansett forsikringsstrategi):**
+
+1. **Månedlig egen-ettersyn av brannalarm** med kontrolljournal er lovpålagt av vilkår pkt. 5.3; ikke etablert som formell rutine. Skal legges inn i `brann_rutiner_byggefasen.md`.
+2. **Månedlig egen-ettersyn av sprinkler** (eller kontinuerlig digital overvåkning) er samme krav pkt. 5.4; ikke etablert. Samme sted.
+3. **Avfallscontainere skal stå minst 5 m fra yttervegg** (eller være lukket/låst). Nåværende praksis 1,5–2 m — konkret regelbrudd som må rettes umiddelbart eller endres til lukkede containere.
+4. **NEK 405-3 forsikringsgodkjent el-kontroll hvert 5. år** for kontorbygg. DLE-tilsyn er ikke det samme. Må avklares med Gjensidige om kravet gjelder.
+
+Punkt 1–3 følges opp som separat oppdatering av `brann_rutiner_byggefasen.md`; punkt 4 er en Ole Morten-avklaring mot Gjensidige.
+
+**Andre gjenstående:** fysiske handlinger (opphenging, foto), eksterne bestillinger (trådløse sensorer, håndslokker-kontroll) — ikke skriveoppgaver.
+
+---
+
+### T156 `[ ]` Trådløse midlertidige røykdetektorer — produktresearch og forslag
+
+**Bakgrunn:** Autronica-forespørselen (`leveranser/brann/2026-09-28_forespoersel_autronica_dokumentasjon.md`) ber om pristilbud på trådløse midlertidige detektorer kompatible med den eksisterende BS-420-sentralen (AutroSafe 4, SW 4.12.0). Autronica vil svare med sitt eget forslag — men vi bør ha uavhengig oversikt over hva som faktisk finnes på markedet, både for å vurdere Autronicas tilbud og for å kunne stille informerte spørsmål om alternativer.
+
+**Formål:** Skaffe oversikt over hvilke trådløse røykdetektor-løsninger som fins i markedet og som kan brukes midlertidig i aktive arbeidsområder og åpnede hulrom under rehabiliteringsfasen, med krav om integrasjon mot eksisterende Autronica BS-420 (AutroSafe 4).
+
+**Krav som løsningen må dekke:**
+
+- Trådløs, batteridrevet (byggeplassmiljø uten fast strøm der de settes ut)
+- Integreres med **Autronica BS-420** eller kan varsles til samme sentral via mellomlag
+- Batterilevetid tilstrekkelig for byggefasen (12–18 mnd) uten hyppig bytte
+- Enkel å flytte når arbeidet flytter seg
+- Kan overleve byggeplassmiljø (støv, temperatur, mekanisk)
+- Signaloverføring dekker hele bygget (5 etasjer + kjeller, tett trekonstruksjon)
+- Kan bli **permanent del av anlegget** etter ferdigstillelse (jf. Ole Mortens svar Q24 og krav i Autronica-forespørselen)
+
+**Kandidater å utrede (utgangspunkt for research):**
+
+1. **Autronicas eget sortiment** — BSD-serien har ulike detektorvarianter; sjekk om det finnes trådløs variant kompatibel med AutroSafe 4. Autronicas svar på forespørselen forventes å dekke dette.
+2. **Detectomat / Hekatron / Bosch** — europeiske leverandører med trådløse anlegg som kan integreres via BACnet, Modbus eller I/O-modul.
+3. **Ei Electronics / FireAngel / Kidde** — mer forbrukerorienterte trådløse løsninger; typisk «radio-linked» oppsett med egen sirene, ikke direkte kobling til brannsentral. Passer bedre som frittstående supplement enn integrasjon.
+4. **Nettbaserte / IoT-løsninger** (f.eks. Ajax Systems) — kan integreres via generisk potensialfri kontakt inn i Autronica-sentralen.
+
+**Handling:**
+
+- Kartlegg minst 3 aktuelle produkter/leverandører med spesifikasjoner, cirka-pris, leveringstid, kompatibilitet.
+- Vurder om Autronicas foreslåtte løsning har konkurransedyktig pris og funksjonalitet.
+- Vurder «hybrid»: Autronica-integrert deteksjon i faste hulrom + billigere frittstående i midlertidige arbeidsområder.
+- Konkluder med anbefaling til byggherre.
+
+**Estimert antall detektorer:** Antydningsvis 6–12 stk. under byggeperioden — kjeller (2–3), aktive rivingsområder (2–4), hulrom som åpnes (2–5 avhengig av arbeid).
+
+**Berørte filer:**
+
+- `leveranser/brann/2026-09-28_forespoersel_autronica_dokumentasjon.md` — henvender seg til Autronica; denne oppgaven supplerer med uavhengig research
+- `leveranser/brann/2026-09-28_tiltaksplan_brannsikring_gjennomforingsfasen.md` — Trinn 3.1 (anskaffelse av trådløse sensorer)
+- Ny: `leveranser/brann/YYYY-MM-DD_traadloese_detektorer_markedsoversikt.md` (produseres under denne tasken)
+
+**Kobling:** T155 (brannsikring i gjennomføringsfasen — trådløse detektorer inngår som Trinn 3 der).
+
+**Estimat:** 2–3 timer research + skriving.
+
+**Frist:** Før bestilling i uke 43 (jf. Autronica-forespørselen).

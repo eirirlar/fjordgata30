@@ -1,2 +1,5 @@
-> Dette var overraskende for oss. Vi trodde konstruksjonen var fjernet under ombyggingen i 1983.
-Dette var ikke spesielt overraskende. Byantikvaren kanskje synes det var overraskende, men de har hatt all mulighet til å inspisere, og har vært på flere befaringer. Det er bare å flytte noen planker og se under, så ser man hvordan det ser ut. Jeg ser ikke hvordan setningen tjener oss. Ikke endre noe, forklar hvorfor du skrver dette.
+angående rutine 2 i brann_rutiner_byggefasen
+
+>Tensio DLE-tilsyn 18.09.2026 bekreftet at det faste anlegget er uten anmerkninger, men dekket ikke det midlertidige anlegget (skjøteledninger, arbeidslys, byggtørker).
+
+Hvor har du det fra at Tensio sin rapport ikke angår det midlertidige anlegget? Står det i rapporten? Gjetter du?
