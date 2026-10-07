@@ -1,6 +1,12 @@
 # Regnskapsloven (LOV-1998-07-17-56) – relevante paragrafer
 
-*Kilde: lovdata.no/dokument/NL/lov/1998-07-17-56 – verifiser mot gjeldende tekst*
+---
+
+> **ADVARSEL — STRUKTUR AVVIKER FRA LOVDATA, IKKE FULLT VERIFISERT**
+>
+> Audit 06.10.2026 (T157): § 6-2 er for lang til at WebFetch returnerer verbatim. Delvis sjekk indikerer at filas top-level struktur avviker fra Lovdata: fila har «Eiendeler»/«Egenkapital og gjeld» og deretter A/B/C/D som samme-nivå kategorier, mens Lovdatas § 6-2 ser ut til å ha A=EIENDELER (med I. Anleggsmidler, II. Omløpsmidler), B=EGENKAPITAL OG GJELD, C=GARANTIFORPLIKTELSER, D=EVENTUALFORPLIKTELSER som toppnivå.
+>
+> **Krav før bruk som sitatkilde:** Verifiser § 6-2 manuelt mot <https://lovdata.no/lov/1998-07-17-56/§6-2> (lang paragraf, bruk nettleser) og opprett verbatim paragraf-fil (`regnskapsloven_6-2_balanse.md`). Berører bankpakka og forretningsplanens tilskuddsregnskap.
 
 ---
 

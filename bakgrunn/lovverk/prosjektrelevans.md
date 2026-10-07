@@ -1,6 +1,8 @@
 # Rettslig rammeverk for Fjordgata 30 – prosjektrelevans
 *Oversikt over relevant lovverk og hvorfor det gjelder for dette prosjektet*
 
+> **MERK:** Dette dokumentet er en navigasjons- og innføringstekst, ikke en verbatim lov-kilde. Alle paragrafhenvisninger her må uansett verifiseres mot verbatim paragraf-filer eller Lovdata før de siteres i leveranser (jf. CLAUDE.md-regelen om «Lovparagrafer siteres mot verbatim ned-lastet kilde»). Audit 06.10.2026 (T157) påviste at flere henvisninger her inneholder paraphrase og at paragrafnummerering i enkelte tilfeller er feil — særlig for forskrift om brannforebygging § 6 (riktig hjemmel for kompenserende tiltak er § 8, ikke § 6).
+
 Dette dokumentet er ment som en rask innføring for banker, støttegivere, advokater og nye prosjektdeltakere. Det beskriver hvilke rettslige rammer prosjektet opererer innenfor gjennom hele livsløpet – fra planlegging og byggesøknad til ferdig minilager i drift.
 
 Detaljerte paragraftekster og klage-spesifikke vurderinger finnes i de separate lovverkfilene i denne mappen.

@@ -1,6 +1,25 @@
 # Skatteloven (LOV-1999-03-26-14) – relevante paragrafer
 
-*Kilde: lovdata.no/dokument/NL/lov/1999-03-26-14 – verifiser mot gjeldende tekst*
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG HAR FEIL I FLERE PARAGRAFER**
+>
+> Audit 06.10.2026 (T157) påviste tre separate feil:
+>
+> - **§ 14-42:** Filas tilskudds-bestemmelse er attribuert til ledd (3), men ligger faktisk i **(2) a**. Lovdatas (2) a sier «Bidrag til erverv av driftsmiddel fra staten, en kommune eller et selskap med offentlig støtte, skal trekkes fra i kostprisen» — med viktig unntak for distriktsrettet investeringsstøtte. Fjordgata 30 er trolig ikke i distriktsrettet-sonen, så fradragsregelen gjelder — men lovreferansen må korrigeres
+> - **§ 5-30:** Filas ledd (2) sier «Som inntekt regnes også tilskudd til næringsvirksomhet» — denne setningen **finnes ikke i Lovdatas § 5-30**. Lovdatas (2) er om realisasjon og kap. 9. Dette er hallusinert innhold
+> - **§ 14-43:** Filas tabell har **feil bokstav-mapping** (strømanlegg kalt «j», skulle vært «g») og **mangler** bokstavene b, e, f, og særlig **j (fast teknisk installasjon i bygninger – 10 %)** som er direkte relevant for ventilasjon, sprinkleranlegg, VA m.m. i Fjordgata 30
+>
+> **Krav før bruk:** Bruk verbatim paragraf-filene opprettet 06.10.2026 (`skatteloven_14-42_grunnlag_avskrivning.md`, `skatteloven_5-30_virksomhetsinntekt.md`, `skatteloven_14-43_avskrivningssatser.md`).
+>
+> **Affiserte leveranser:**
+> - `forretningsplan/forretningsplan.md` (skattemessig behandling av tilskudd og avskrivningssatser)
+> - Bankpakka 07 Grønt lån og 09 Finansieringsplan (avskrivningssatser og skatteeffekt)
+> - Vurder å verifisere EBITDA/skatteberegninger — § 14-43 j (10 % på fast teknisk installasjon) kan ikke være lagt til grunn hvis fila ble brukt som kilde
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

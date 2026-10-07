@@ -1,6 +1,25 @@
 # Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)
-**LOV-2008-06-27-71**  
-*Relevante paragrafer for Fjordgata 30*
+**LOV-2008-06-27-71**
+
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragraftekstene i denne filen avviker fra verbatim Lovdata-tekst:
+>
+> - Filas «§ 29-4» har tittelen «Krav til byggverk og installasjoner», men teksten («Ethvert tiltak skal prosjekteres og utføres slik at det ferdige tiltaket oppfyller krav til sikkerhet, helse, miljø, energi og tilgjengelighet…») tilhører faktisk **§ 29-5 (Tekniske krav)**. Lovdatas § 29-4 er «Byggverkets plassering, høyde og avstand fra nabogrense»
+> - Filas «§ 31-2» er en parafrase, ikke verbatim
+> - §§ 31-3 og 31-4 er ikke verifisert
+>
+> **Krav før bruk:** Bruk de verbatim paragraf-filene (`pbl_29-4_byggverkets_plassering.md`, `pbl_31-2_tiltak_eksisterende_byggverk.md`) opprettet 06.10.2026. For andre paragrafer, last ned verbatim fra <https://lovdata.no/lov/2008-06-27-71>.
+>
+> **Affiserte leveranser:** Alle leveranser som refererer «pbl § 29-4» med innholdet «Ethvert tiltak…» har feil citation — det er faktisk § 29-5. Særlig:
+> - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt)
+> - `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast)
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

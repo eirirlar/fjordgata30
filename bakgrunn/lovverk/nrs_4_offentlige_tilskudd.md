@@ -1,6 +1,12 @@
 # NRS 4 Offentlige tilskudd (2008) – relevante punkter
 
-*Kilde: Norsk RegnskapsStandard 4, fastsatt av Norsk RegnskapsStiftelse, sist oppdatert 2008 – verifiser mot gjeldende tekst på regnskapsstiftelsen.no*
+---
+
+> **ADVARSEL — IKKE VERIFISERT MOT OFFISIELL KILDE**
+>
+> Audit 06.10.2026 (T157) rakk ikke å verifisere innholdet mot NRS 4 originalt. Innholdet fremstår som oppsummering, ikke verbatim. NRS 4 er ikke en lov, men en norsk regnskapsstandard. Teksten her må uansett ikke siteres som verbatim fra standarden uten verifikasjon.
+>
+> **Krav før bruk som sitatkilde:** Hent gjeldende NRS 4 fra <https://www.regnskapsstiftelsen.no/>.
 
 ---
 

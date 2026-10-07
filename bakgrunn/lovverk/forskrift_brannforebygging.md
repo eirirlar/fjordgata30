@@ -1,6 +1,27 @@
 # Forskrift om brannforebygging
-**FOR-2015-12-17-1710**  
-*Relevante paragrafer for Fjordgata 30*
+**FOR-2015-12-17-1710**
+
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragrafnumrene og lovtekstene i denne filen er feil. Innholdet er en parafrase/omskriving, ikke verbatim fra Lovdata. Flere paragrafer har feil overskrift og tekst som faktisk tilhører andre paragrafer. Konkret:
+>
+> - Filas «§ 4» er ikke Lovdatas § 4
+> - Filas «§ 5» er ikke Lovdatas § 5
+> - Filas «§ 6» (om kompenserende tiltak) tilhører faktisk Lovdatas **§ 8 (Oppgradering av byggverk)**. Lovdatas § 6 er «Kontroll og vedlikehold av fyringsanlegg»
+> - Filas «§ 8» og «§ 9» er også feilaktig attribuert
+>
+> **Krav før bruk:** Bruk de verbatim paragraf-filene (`forskrift_brannforebygging_<nr>_<beskrivelse>.md`) som ble opprettet 06.10.2026. Hvis en paragraf mangler, last den ned verbatim fra <https://lovdata.no/forskrift/2015-12-17-1710>.
+>
+> **Affiserte leveranser (må korrigeres eller flagges):**
+> - `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` (sendt)
+> - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt 06.10.2026)
+> - `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast, ikke sendt)
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

@@ -1,8 +1,15 @@
 # Forskrift om tilskudd til fredete kulturminner i privat eie (FOR-2021-08-13-2508)
 
-*Kilde: lovdata.no/dokument/SF/forskrift/2021-08-13-2508 – verifiser mot gjeldende tekst*  
-*Fastsatt av Klima- og miljødepartementet 13. august 2021*  
+*Fastsatt av Klima- og miljødepartementet 13. august 2021*
 *Hjemmel: LOV-2002-03-22-12 (Lov om Norsk kulturminnefond)*
+
+---
+
+> **ADVARSEL — IKKE VERIFISERT MOT LOVDATA**
+>
+> Audit 06.10.2026 (T157) rakk ikke å verifisere innholdet mot Lovdata. Innholdet fremstår som oppsummering, ikke verbatim. Flere andre hele-loven-filer i samme mappe er bekreftet parafrasert — anta parafrase inntil annet er påvist.
+>
+> **Krav før bruk som sitatkilde:** Verifiser mot <https://lovdata.no/forskrift/2021-08-13-2508> og opprett verbatim paragraf-filer per referansepunkt.
 
 ---
 

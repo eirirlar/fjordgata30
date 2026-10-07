@@ -1,6 +1,24 @@
 # Kulturminneloven (LOV-1978-06-09-50) – relevante paragrafer
 
-*Kilde: lovdata.no/dokument/NL/lov/1978-06-09-50 – verifiser mot gjeldende tekst*
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragraftekstene i denne filen har feil innhold:
+>
+> - Filas «§ 15» (Automatisk fredete kulturminner, med tekst om kulturminner fra før 1537) tilhører faktisk **§ 4** i Lovdata. Lovdatas § 15 er «Fredning av bygninger, anlegg m.v. fra nyere tid»
+> - § 19 og § 20 er ikke verifisert, men mistenkelig i samme mønster
+>
+> **Krav før bruk:** Last ned verbatim paragraf-filer per referansepunkt fra <https://lovdata.no/lov/1978-06-09-50>.
+>
+> **Affiserte leveranser:** Alle leveranser som refererer kulturminneloven i kjeller-saken (T143, T145, T146, T153). Særlig:
+> - `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`
+> - `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md`
+> - `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md`
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

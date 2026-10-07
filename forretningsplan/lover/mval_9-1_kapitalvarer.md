@@ -1,47 +1,45 @@
-# Merverdiavgiftsloven § 9-1 – Kapitalvarer (Justering)
+# Merverdiavgiftsloven § 9-1 – Justering eller tilbakeføring av inngående merverdiavgift
 
-**Lov:** Lov om merverdiavgift (merverdiavgiftsloven) av 19. juni 2009 nr. 58
-**Kilde:** lovdata.no/lov/2009-06-19-58/§9-1 + Merverdiavgiftshåndboken
-**Hentet:** 23. juni 2026
+**Lov:** Lov om merverdiavgift (merverdiavgiftsloven) av 19. juni 2009 nr. 58\
+**Kilde:** <https://lovdata.no/lov/2009-06-19-58/%C2%A79-1>\
+**Hentet:** 6. oktober 2026 (via curl + pup + html2text, T160)
 
 ---
 
-## Lovtekst (verbatim – fra Merverdiavgiftshåndboken og Lovdata)
+## Lovtekst (verbatim)
 
 **§ 9-1. Justering eller tilbakeføring av inngående merverdiavgift**
 
-**(1)** Inngående merverdiavgift på anskaffelse og drift av kapitalvarer skal justeres når det skjer en endring i fradragsretten for slike kapitalvarer.
+(1) Inngående merverdiavgift på kapitalvarer som er anskaffet, framstilt eller fullført etter 31. desember 2007, skal ved endret bruk mv. justeres etter §§ 9-2 til 9-5 eller tilbakeføres etter § 9-7.
 
-**(2)** Som kapitalvarer anses:
+(2) Med kapitalvarer menes
 
-a. maskiner, inventar og andre driftsmidler der inngående merverdiavgift på anskaffelsen utgjør minst 50 000 kroner, og
+a. maskiner, inventar og andre driftsmidler der inngående merverdiavgift av kostpris utgjør minst 50 000 kroner, likevel ikke kjøretøyer som er fritatt for merverdiavgift etter § 6-7 første ledd
 
-b. **fast eiendom som har vært gjenstand for ny-, på- eller ombygging der inngående merverdiavgift på kostnadene ved dette utgjør minst 100 000 kroner.**
+b. fast eiendom som har vært gjenstand for ny-, på- eller ombygging der inngående merverdiavgift på kostnadene ved dette utgjør minst 100.000 kroner
 
-**(3)** *(Opphevet)*
+(3) – – –.
 
-**(4)** *(Opphevet)*
-
-**(5)** Departementet kan gi forskrift om utfylling og gjennomføring av denne paragrafen.
+(4) Departementet kan gi forskrift om hva som skal regnes som inngående merverdiavgift påløpt i forbindelse med byggetiltak som nevnt i annet ledd bokstav b.
 
 ---
 
-## Tilhørende justeringsregler
+## Tilhørende justeringsregler (ikke § 9-1 selv — se egne filer for verbatim-tekst)
 
 **§ 9-2 – Når inngående merverdiavgift skal justeres:**
-Justering av inngående merverdiavgift skal skje når kapitalvaren brukes til formål som gir rett til fradrag for inngående merverdiavgift i mindre eller større grad enn det som ble lagt til grunn ved anskaffelsen.
+Justering av inngående merverdiavgift skal skje når kapitalvaren brukes til formål som gir rett til fradrag for inngående merverdiavgift i mindre eller større grad enn det som ble lagt til grunn ved anskaffelsen. (Se `bakgrunn/lovverk/mval_9-2_overgang_justeringsforpliktelse.md` for verbatim § 9-2.)
 
 **§ 9-4 – Justeringsperioden:**
-For kapitalvarer nevnt i § 9-1 annet ledd bokstav b (fast eiendom / byggetiltak), er justeringsperioden **ti år** etter fullføringen. Slik kapitalvare anses fullført når det er utstedt ferdigattest eller midlertidig brukstillatelse, eller når den er tatt i bruk dersom slik attest eller tillatelse ikke er nødvendig. I justeringsperioden medregnes det regnskapsåret kapitalvaren ble fullført.
+For kapitalvarer nevnt i § 9-1 annet ledd bokstav b (fast eiendom / byggetiltak), er justeringsperioden **ti år** etter fullføringen. (Se `mval_9-4_justeringsperiode.md` i denne mappen for verbatim § 9-4.)
 
 **§ 9-5 – Beregning av justeringsbeløpet:**
-For kapitalvarer nevnt i § 9-1 annet ledd bokstav b, skal **en tidel** av den inngående merverdiavgift som påløp i forbindelse med ny-, på- eller ombyggingen, justeres i det enkelte regnskapsår.
+For kapitalvarer nevnt i § 9-1 annet ledd bokstav b, skal **en tidel** av den inngående merverdiavgift som påløp i forbindelse med ny-, på- eller ombyggingen, justeres i det enkelte regnskapsår. (Verbatim § 9-5 er ikke lastet ned — hvis bestemmelsen siteres ordrett i leveranser, må den hentes fra Lovdata.)
 
 ---
 
 ## Relevans for FG30
 
-FG30 er utvilsomt en kapitalvare etter § 9-1 annet ledd bokstav b: Det er tale om **ombygging av fast eiendom** der inngående MVA på kostnadene anslås til **5–6 MNOK** (langt over 100 000 kr grensen).
+FG30 er utvilsomt en kapitalvare etter § 9-1 annet ledd bokstav b: Det er tale om **ombygging av fast eiendom** der inngående MVA på kostnadene anslås til **5–6 MNOK** (langt over 100 000 kr-grensen).
 
 **Betydning:**
 - MVA på byggetiltaket er gjenstand for 10-årig justeringsplikt

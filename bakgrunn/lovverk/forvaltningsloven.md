@@ -1,6 +1,26 @@
 # Lov om behandlingsmåten i forvaltningssaker (forvaltningsloven)
-**LOV-1967-02-10**  
-*Relevante paragrafer for Fjordgata 30*
+**LOV-1967-02-10**
+
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragraftekstene i denne filen er parafrasert/kraftig forkortet:
+>
+> - Filas «§§ 24–25» er en mashup av to paragrafer, ikke verbatim. Faktisk § 24 heter «Når enkeltvedtak skal grunngis» og § 25 heter «Begrunnelsens innhold»
+> - Filas § 11, § 17 og flere andre paragrafer gjengir bare første setning — resten av paragrafen mangler
+> - **§ 41 mangler fra fila**, selv om den brukes i leveranser
+>
+> **Krav før bruk:** Last ned verbatim paragraf-fil per referansepunkt fra <https://lovdata.no/lov/1967-02-10>.
+>
+> **Affiserte leveranser:**
+> - `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` (sendt)
+> - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt) — særlig §§ 17, 24, 25, 41
+> - `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast)
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

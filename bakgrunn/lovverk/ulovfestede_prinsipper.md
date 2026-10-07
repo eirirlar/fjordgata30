@@ -1,6 +1,8 @@
 # Ulovfestede forvaltningsrettslige prinsipper
 *Relevante prinsipper for Fjordgata 30*
 
+> **MERK:** Dette dokumentet er en tolkende innføring til ulovfestet forvaltningsrett, ikke en verbatim kildetekst. Prinsippene er ikke kodifisert i enkeltparagraf. Henvisninger til prinsippene bør støttes med spesifikk rettspraksis (Rt./HR) eller juridisk teori ved sitering i leveranser. Audit 06.10.2026 (T157).
+
 Disse prinsippene er ikke kodifisert i én enkelt lov, men er anerkjent gjennom rettspraksis, juridisk teori og Høyesteretts avgjørelser som bindende skranker for offentlig myndighetsutøvelse. Brudd på dem kan medføre at vedtak er ugyldig.
 
 ---

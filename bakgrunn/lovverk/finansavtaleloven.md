@@ -1,7 +1,19 @@
 # Finansavtaleloven (LOV-2020-12-18-146) – relevante paragrafer
 
-*Kilde: lovdata.no/dokument/NL/lov/2020-12-18-146 – verifiser mot gjeldende tekst*
-*Loven trådte i kraft 1. januar 2023 og erstattet finansavtaleloven av 1999*
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragrafen i denne filen er feil attribuert:
+>
+> - Filas «§ 1-5» har tittelen «Virkeområde for loven», men Lovdatas § 1-5 heter «Definisjoner som gjelder kontoavtaler og betalingstjenester» og er en definisjonsparagraf for betalingstjenester. Innholdet i filas § 1-5 tilhører sannsynligvis § 1-1 eller § 1-2 (standard virkeområde-plassering)
+> - Filas «§ 3-1 Plikt til å gi opplysninger og kredittvurdering» — Lovdatas § 3-1 heter «Tjenesteyterens alminnelige plikter» og handler om interessekonflikter, kommunikasjon, kundetilpasset rådgivning m.m. Innholdet i filen om kredittvurdering tilhører andre paragrafer
+>
+> **Krav før bruk:** Last ned verbatim paragraf-filer per referansepunkt fra <https://lovdata.no/lov/2020-12-18-146>. Filas innhold kan ikke brukes direkte.
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

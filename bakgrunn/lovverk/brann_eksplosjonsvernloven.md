@@ -1,6 +1,17 @@
 # Lov om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven)
-**LOV-2002-06-14-20**  
-*Relevante paragrafer for Fjordgata 30*
+**LOV-2002-06-14-20**
+
+---
+
+> **ADVARSEL — DELVIS FEIL, BRUK VERBATIM-FILER**
+>
+> Audit 06.10.2026 (T157):
+> - § 39 verifisert mot Lovdata — matcher verbatim
+> - § 37 verifisert mot Lovdata — matcher verbatim
+> - **§ 6 har hallusinert innhold** — filas tekst om «Ansvaret er ikke begrenset i forhold til hvem som er eier, eiers økonomi…» finnes ikke i Lovdatas § 6. Faktisk § 6 heter «Forebyggende sikringstiltak og vedlikehold» og har fire ledd
+> - §§ 1, 40, 41, 42 ikke verifisert
+>
+> **Krav før bruk som sitatkilde:** Bruk verbatim paragraf-filene `brann_eksplosjonsvernloven_<nr>_<beskrivelse>.md`. For § 1, § 40, § 41, § 42, last ned verbatim fra <https://lovdata.no/lov/2002-06-14-20> før de siteres.
 
 ---
 

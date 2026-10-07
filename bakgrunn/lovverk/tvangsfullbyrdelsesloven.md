@@ -1,6 +1,20 @@
 # Lov om tvangsfullbyrdelse (tvangsfullbyrdelsesloven)
-**LOV-1992-06-26-86**  
-*Relevante paragrafer for Fjordgata 30*
+**LOV-1992-06-26-86**
+
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM OG SKAL IKKE BRUKES SOM KILDEGRUNNLAG**
+>
+> Audit 06.10.2026 (T157) påviste at paragraftekstene i denne filen er parafrasert og at paragrafoverskriftene er feil:
+>
+> - Filas «§ 7-2» har tittelen «Alminnelige tvangsgrunnlag», men Lovdatas § 7-2 heter «Tvangsgrunnlag» og lister sju konkrete bokstaver (a–g). Filas tekst er en forkortet omskriving med andre ord og uten korrekt opplisting
+> - § 13-14 er ikke verifisert
+>
+> **Krav før bruk:** Last ned verbatim paragraf-filer per referansepunkt fra <https://lovdata.no/lov/1992-06-26-86>.
+
+---
+
+**Historisk innhold under (ikke verbatim — ikke bruk som sitat):**
 
 ---
 

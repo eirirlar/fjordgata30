@@ -1,6 +1,10 @@
 # Finansforetaksloven (LOV-2015-04-10-17) – relevante paragrafer
 
-*Kilde: lovdata.no/dokument/NL/lov/2015-04-10-17 – verifiser mot gjeldende tekst*
+---
+
+> **ADVARSEL — FILEN ER IKKE VERBATIM**
+>
+> Audit 06.10.2026 (T157) verifiserte § 13-5 mot Lovdata — filas gjengivelse er parafrasert og ufullstendig. Filas tekst om «God forretningsskikk og forsvarlig virksomhet» har bare 2 setninger; faktisk § 13-5 har 6 ledd om organisasjonsstruktur, kontrollfunksjoner, retningslinjer, god forretningsskikk, varsling m.m. Bruk `finansforetaksloven_13-5_forsvarlig_virksomhet.md` for verbatim.
 
 ---
 

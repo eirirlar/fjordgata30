@@ -1,6 +1,13 @@
 # Den europeiske menneskerettighetskonvensjonen (EMK)
-**Inkorporert i norsk rett gjennom menneskerettsloven LOV-1999-05-21-30**  
-*Relevante bestemmelser for Fjordgata 30*
+**Inkorporert i norsk rett gjennom menneskerettsloven LOV-1999-05-21-30**
+
+---
+
+> **ADVARSEL — IKKE VERIFISERT MOT OFFISIELL KILDE**
+>
+> Audit 06.10.2026 (T157) rakk ikke å verifisere artiklene mot offisiell EMK-tekst (via Europarådet eller Lovdata). Artikkel 6 og Tilleggsprotokoll 1 artikkel 1 er lange, komplekse artikler og teksten i filen virker avkortet med «(…)». Flere andre hele-loven-filer i samme mappe er bekreftet parafrasert.
+>
+> **Krav før bruk som sitatkilde:** Verifiser artiklene mot offisiell norsk oversettelse — <https://lovdata.no/dokument/NL/lov/1999-05-21-30/KAPITTEL_2>.
 
 ---
 

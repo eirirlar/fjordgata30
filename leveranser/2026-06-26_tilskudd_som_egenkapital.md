@@ -10,7 +10,7 @@
 Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjennes av norske banker som egenkapitallignende finansiering ved prosjektvurdering av næringseiendom. Grunnlaget er:
 
 1. **Regnskapsrettslig (NRS 4, regnskapsloven § 6-2):** Investeringstilskudd klassifiseres som utsatt inntekt, ikke gjeld, og reduserer netto finansieringsbehov – den reelle egenkapitalandelen styrkes.
-2. **Skattemessig (skatteloven § 14-42 (3)):** Tilskuddet reduserer avskrivningsgrunnlaget fremfor å skattlegges direkte som inntekt. Skatteeffekten er dermed utsatt og over lang tid ubetydelig for bygg med lav avskrivningssats.
+2. **Skattemessig (skatteloven § 14-42 (2) a):** Tilskuddet reduserer avskrivningsgrunnlaget fremfor å skattlegges direkte som inntekt. Skatteeffekten er dermed utsatt og over lang tid ubetydelig for bygg med lav avskrivningssats.
 3. **Bankpraksis og EBA/GL/2020/06:** Vi forstår det slik at banker etter EBA-GL § 5.2 skal kartlegge alle finansieringskilder, inkludert offentlige tilskudd, og at det er bankens kredittpolicy som styrer hvordan slike kilder vektes i kredittvurderingen.
 4. **Tilskuddsgivers egne krav:** Ordninger som krever privat medfinansiering bekrefter at prosjektet har gjennomgått ekstern prosjektvurdering, noe som styrker bankens tillitt til finansieringsplanen.
 
@@ -22,8 +22,8 @@ Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, 
 
 Finansavtaleloven trådte i kraft 1. januar 2023. Den gjennomfører EUs boliglåndirektiv (2014/17/EU) og forbrukerkredittdirektiv, og regulerer primært forbrukerlån. For næringslån gjelder loven i begrenset utstrekning:
 
-- **§ 1-5 (virkeområde):** Loven gjelder i utgangspunktet for kredittavtaler med forbrukere. Næringsdrivende parter kan avtale fravik (§ 1-5 (3)).
-- **§ 3-1 (kredittvurdering):** Forbrukernes kredittvurderingsregler gjelder ikke direkte for næringslån, men finansforetaksloven og EBA-retningslinjene pålegger bankene tilsvarende krav til forsvarlig kredittvurdering for næringsengasjementer.
+- **§ 1-1 (virkeområde):** Loven gjelder finansavtaler, jf. § 1-3, med mindre noe annet er fastsatt i eller i medhold av lov. For kredittavtaler med næringsdrivende parter er det adgang til å fravike loven i større utstrekning enn for forbrukere.
+- **§ 5-2 (kredittvurdering):** Før kredittavtale inngås skal kredittyteren foreta en grundig vurdering av kundens kredittevne. Forbrukernes kredittvurderingsregler gjelder ikke direkte for næringslån, men finansforetaksloven og EBA-retningslinjene pålegger bankene tilsvarende krav til forsvarlig kredittvurdering for næringsengasjementer.
 
 For prosjektfinansiering av næringseiendom er det altså bankenes egne retningslinjer og EBA/GL/2020/06 som er de styrende kildene, ikke finansavtaleloven.
 
@@ -78,11 +78,11 @@ Norsk god regnskapsskikk (NRS 4) tillater kun bruttoføring. IFRS (IAS 20) tilla
 
 ## 3. Skattemessig behandling av investeringstilskudd
 
-### 3.1 Skatteloven § 14-42 (3) – reduksjon av avskrivningsgrunnlag
+### 3.1 Skatteloven § 14-42 (2) a – reduksjon av avskrivningsgrunnlag
 
-Det sentrale skatterettslige regelverket for investeringstilskudd er skatteloven § 14-42 (3) (LOV-1999-03-26-14):
+Det sentrale skatterettslige regelverket for investeringstilskudd er skatteloven § 14-42 annet ledd bokstav a (LOV-1999-03-26-14):
 
-> Mottatte tilskudd til erverv av driftsmiddel reduserer avskrivningsgrunnlaget (saldoen) for det aktuelle driftsmidlet med det mottatte beløpet.
+> «Saldoen består av saldo etter foregående års avskrivninger eller inntektsføring av negativ saldo, med a. tillegg av summen av kostpris for driftsmidler m.v. som er ervervet i løpet av inntektsåret. Bidrag til erverv av driftsmiddel fra staten, en kommune eller et selskap med offentlig støtte, skal trekkes fra i kostprisen.»
 
 Praktisk virkning:
 
@@ -95,15 +95,15 @@ For forretningsbygg (saldogruppe i, 2 % avskrivning per år) er den årlige skat
 
 **Anvendelse for FG30s tilskuddspott:** Alle FG30s innvilgede tilskudd – Kulturminnefondet (sikringstiltak), Byantikvaren (verneverdig bebyggelse), Stiftelsen UNI (brannsikring) og Enovas energi- og ombrukskartleggingstilskudd – refunderer kostnader som er en del av byggeprosjektets kostnadsbase og som aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4.
 
-For KMF, BYA og UNI gjelder skatteloven § 14-42 (3) direkte: tilskuddene er gitt til tiltak som er en del av selve ervervet av driftsmidlet (rehabilitering av bærekonstruksjon, antikvariske bæretiltak, brannsikring).
+For KMF, BYA og UNI gjelder skatteloven § 14-42 (2) a direkte: tilskuddene er gitt til tiltak som er en del av selve ervervet av driftsmidlet (rehabilitering av bærekonstruksjon, antikvariske bæretiltak, brannsikring).
 
-For Enovas energi- og ombrukskartleggingstilskudd anvendes § 14-42 (3) analogisk. Den underliggende kostnaden er en konsulenttjeneste (HRPs energikartleggingsrapport og ombrukskartleggingsrapport), ikke et driftsmiddel i lovens ordlyd. Begge kartleggingsprosjektene løper imidlertid i sin helhet i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027) og aktiveres på driftsmidlet som prosjekteringskostnad. Tilskuddet reduserer dermed aktivert kostpris med samme virkning som om § 14-42 (3) gjaldt direkte. Endelig klassifisering forelegges regnskapsfører ved sluttoppgjør.
+For Enovas energi- og ombrukskartleggingstilskudd anvendes § 14-42 (2) a analogisk. Den underliggende kostnaden er en konsulenttjeneste (HRPs energikartleggingsrapport og ombrukskartleggingsrapport), ikke et driftsmiddel i lovens ordlyd. Begge kartleggingsprosjektene løper imidlertid i sin helhet i prosjekteringsfasen (avsluttes 25.10.2026 og 25.12.2026, før byggets ferdigstillelse Q3 2027) og aktiveres på driftsmidlet som prosjekteringskostnad. Tilskuddet reduserer dermed aktivert kostpris med samme virkning som om § 14-42 (2) a gjaldt direkte. Endelig klassifisering forelegges regnskapsfører ved sluttoppgjør.
 
-Skatteloven § 14-42 (3) gir dermed konsistent virkning for hele tilskuddspotten på 2,25 MNOK, direkte for de tre rehab-tilskuddene og analogisk for de to Enova-kartleggingstilskuddene.
+Skatteloven § 14-42 (2) a gir dermed konsistent virkning for hele tilskuddspotten på 2,25 MNOK, direkte for de tre rehab-tilskuddene og analogisk for de to Enova-kartleggingstilskuddene.
 
 ### 3.2 Skatteloven § 5-30 – tilskudd og næringsinntekt
 
-Tilskudd til næringsvirksomhet er i utgangspunktet skattepliktig inntekt etter skatteloven § 5-30. For investeringstilskudd er imidlertid § 14-42 (3) det spesielle regelverket som styrer behandlingen – tilskuddet beskattes ikke som løpende inntekt, men gjennom redusert saldo (se pkt. 3.1).
+Tilskudd til næringsvirksomhet er i utgangspunktet skattepliktig inntekt etter skatteloven § 5-30. For investeringstilskudd er imidlertid § 14-42 (2) a det spesielle regelverket som styrer behandlingen – tilskuddet beskattes ikke som løpende inntekt, men gjennom redusert saldo (se pkt. 3.1).
 
 **Driftstilskudd** (tilskudd av driftskarakter) skattlegges derimot som vanlig næringsinntekt i mottaksåret.
 
@@ -181,7 +181,7 @@ Banker skiller mellom:
 Offentlige investeringstilskudd til næringseiendom er ikke egenkapital i regnskapsmessig forstand (NRS 4, regnskapsloven § 6-2), men anerkjennes av norske banker som egenkapitallignende finansiering på grunnlag av:
 
 1. **EBA/GL/2020/06 (avsnitt 5.2.7, 6.1):** Banken skal kartlegge alle finansieringskilder, inkludert bekreftede tilskudd. Hvordan den enkelte finansieringskilde vektes i kredittvurderingen, styres av bankens interne kredittpolicy.
-2. **Skatteloven § 14-42 (3):** Tilskuddet binder seg til byggets skattemessige verdi gjennom redusert avskrivningsgrunnlag, og skaper ikke umiddelbar skattebyrde – det styrker byggverdien.
+2. **Skatteloven § 14-42 (2) a:** Tilskuddet binder seg til byggets skattemessige verdi gjennom redusert avskrivningsgrunnlag, og skaper ikke umiddelbar skattebyrde – det styrker byggverdien.
 3. **Finansforetaksloven § 13-5 og bankpraksis:** Forsvarlig utlånspraksis for næringseiendom kan ta hensyn til bekreftet offentlig tilskudd som reduksjon i bankens nettoeksponering mot prosjektet, innenfor rammen av bankens egen kredittpolicy.
 4. **Tilskuddsgivers prosjektvurdering:** Innvilget tilskudd fra fagmyndigheter bekrefter at prosjektet har bestått en ekstern vurdering av gjennomførbarhet og finansieringsstruktur.
 
@@ -194,7 +194,7 @@ Offentlige investeringstilskudd til næringseiendom er ikke egenkapital i regnsk
 | Regnskapsloven (LOV-1998-07-17-56) | § 6-2 | Oppstillingsplan for balansen |
 | NRS 4 Offentlige tilskudd (2008) | Pkt. 4–5 | Bruttoføring og inntektsføring |
 | Skatteloven (LOV-1999-03-26-14) | § 5-30 | Næringsinntekt som skattegrunnlag |
-| Skatteloven (LOV-1999-03-26-14) | § 14-42 (3) | Investeringstilskudd og avskrivningsgrunnlag |
+| Skatteloven (LOV-1999-03-26-14) | § 14-42 (2) a | Investeringstilskudd og avskrivningsgrunnlag |
 | Finansavtaleloven (LOV-2020-12-18-146) | § 1-5, § 3-1 | Virkeområde og næringslån |
 | Finansforetaksloven (LOV-2015-04-10-17) | § 13-5 | Forsvarlig utlånspraksis |
 | EBA/GL/2020/06 | Avsnitt 5.2, 5.2.7, 6.1 | Kredittvurdering og LTV, næringseiendom |

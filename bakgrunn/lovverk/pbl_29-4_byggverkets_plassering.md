@@ -1,0 +1,23 @@
+# Plan- og bygningsloven § 29-4 – Byggverkets plassering, høyde og avstand fra nabogrense
+
+**Lov:** Lov om planlegging og byggesaksbehandling (plan- og bygningsloven) av 27. juni 2008 nr. 71\
+**Kilde:** <https://lovdata.no/lov/2008-06-27-71/%C2%A729-4>\
+**Hentet:** 6. oktober 2026 (via curl + Python-parsing, T158)
+
+---
+
+## Lovtekst (verbatim)
+
+**§ 29-4. Byggverkets plassering, høyde og avstand fra nabogrense**
+
+Byggverkets plassering, herunder høydeplassering, og byggverkets høyde skal godkjennes av kommunen. Kommunen skal påse at veglovas bestemmelser om byggegrense og frisikt blir fulgt. Bygning med gesimshøyde over 8 meter og mønehøyde over 9 meter kan bare føres opp hvor det har hjemmel i plan etter kapittel 11 eller 12.
+
+Hvis ikke annet er bestemt i plan etter kapittel 11 eller 12, skal byggverk ha en avstand fra nabogrense som angitt i forskrift eller som minst svarer til byggverkets halve høyde og ikke under 4 meter.
+
+Kommunen kan godkjenne at byggverk plasseres nærmere nabogrense enn nevnt i andre ledd eller i nabogrense:
+
+a. når eier (fester) av naboeiendommen har gitt skriftlig samtykke eller
+
+b. ved oppføring av frittliggende garasje, uthus og lignende mindre tiltak
+
+Departementet kan gi forskrift med nærmere bestemmelser om plassering av byggverk, som regler om avstand mellom byggverk, avstand til nabogrense, og beregningsmåten for høyde og avstand, samt for areal på byggverk som nevnt i tredje ledd bokstav b.

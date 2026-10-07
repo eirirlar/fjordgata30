@@ -136,7 +136,7 @@ Offentlige investeringstilskudd er ikke egenkapital i regnskapsmessig forstand, 
 | EBA/GL/2020/06 (utlånsinitiering) | Avsnitt 5.2.7 (næringseiendom) og 6.1 (LTV) | Bevilgede og dokumenterte tilskudd inngår i bankens LTV-beregning som reduksjon i nettoeksponering |
 | Finansforetaksloven (LOV-2015-04-10-17) | § 13-5 | Forsvarlig utlånspraksis for næringseiendom kan ta hensyn til bekreftede tilskudd som reduksjon i nettoeksponering |
 | Regnskapsloven (LOV-1998-07-17-56) og NRS 4 | § 6-2 og NRS 4 pkt. 4–5 | Investeringstilskudd klassifiseres som utsatt inntekt under langsiktig gjeld, ikke som rentebærende gjeld – reduserer netto finansieringsbehov |
-| Skatteloven (LOV-1999-03-26-14) | § 14-42 (3) | Tilskuddet reduserer avskrivningsgrunnlaget, ikke beskattes direkte – tilnærmet skattenøytralt for forretningsbygg (2 % avskrivning) |
+| Skatteloven (LOV-1999-03-26-14) | § 14-42 (2) a | Tilskuddet reduserer avskrivningsgrunnlaget, ikke beskattes direkte – tilnærmet skattenøytralt for forretningsbygg (2 % avskrivning) |
 | Kulturminnefondets vedtekter (FOR-2003-06-27-801) | Kapittel 5 | 30 %-kravet om privat medfinansiering bekrefter at finansieringsplanen er vurdert solid av fagmyndighet |
 
 I praksis vekter banken tilskuddene etter status:

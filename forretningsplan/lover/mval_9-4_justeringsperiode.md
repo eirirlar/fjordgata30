@@ -1,28 +1,26 @@
 # Merverdiavgiftsloven § 9-4 – Justeringsperioden
 
-**Lov:** Lov om merverdiavgift (merverdiavgiftsloven) av 19. juni 2009 nr. 58
-**Kilde:** lovdata.no/lov/2009-06-19-58/§9-4 + Merverdiavgiftshåndboken
-**Hentet:** 23. juni 2026
+**Lov:** Lov om merverdiavgift (merverdiavgiftsloven) av 19. juni 2009 nr. 58\
+**Kilde:** <https://lovdata.no/lov/2009-06-19-58/%C2%A79-4>\
+**Hentet:** 6. oktober 2026 (via curl + pup + html2text, T160)
 
 ---
 
-## Lovtekst (verbatim – fra Merverdiavgiftshåndboken og Lovdata)
+## Lovtekst (verbatim)
 
 **§ 9-4. Justeringsperioden**
 
-**(1)** For kapitalvarer nevnt i § 9-1 annet ledd bokstav a, er justeringsperioden fem år. Slik kapitalvare anses anskaffet i det regnskapsåret kapitalvaren tas i bruk.
+(1) For kapitalvarer som nevnt i § 9-1 annet ledd bokstav a, skal justering foretas for endringer som skjer i løpet av de fem første regnskapsårene etter anskaffelsen eller framstillingen. I justeringsperioden medregnes det regnskapsåret kapitalvarene ble anskaffet eller framstilt.
 
-**(2)** For kapitalvarer nevnt i § 9-1 annet ledd bokstav b, er justeringsperioden **ti år** etter fullføringen. Slik kapitalvare anses fullført når det er utstedt ferdigattest eller midlertidig brukstillatelse, eller når den er tatt i bruk dersom slik attest eller tillatelse ikke er nødvendig. I justeringsperioden medregnes det regnskapsåret kapitalvaren ble fullført.
+(2) For kapitalvarer som nevnt i § 9-1 annet ledd bokstav b, er justeringsperioden ti år etter fullføringen. Slike kapitalvarer anses fullført når det er utstedt ferdigattest eller midlertidig brukstillatelse, eller dersom slik attest eller tillatelse ikke er nødvendig, når kapitalvarene er tatt i bruk. I justeringsperioden medregnes det regnskapsåret kapitalvarene ble fullført.
+
+(3) Et avgiftssubjekt som har justert inngående merverdiavgift samlet på grunn av opphør av merverdiavgiftspliktig virksomhet og som beholder kapitalvarene i virksomheten, kan fortsette å justere dersom og fra det tidspunkt vedkommende senere i justeringsperioden blir registrert i Merverdiavgiftsregisteret.
 
 ---
 
 ## Tilhørende bestemmelse: § 9-5 – Beregning av justeringsbeløpet
 
-**§ 9-5. Beregning av justeringsbeløpet**
-
-**(1)** For kapitalvarer nevnt i § 9-1 annet ledd bokstav a, er justeringsbeløpet for det enkelte regnskapsåret en femtedel av den inngående merverdiavgiften som påløp ved anskaffelsen.
-
-**(2)** For kapitalvarer nevnt i § 9-1 annet ledd bokstav b, er justeringsbeløpet for det enkelte regnskapsåret **en tidel** av den inngående merverdiavgift som påløp i forbindelse med ny-, på- eller ombyggingen.
+Verbatim § 9-5 er ikke lastet ned i en egen fil. Hvis bestemmelsen siteres ordrett i leveranser, må den hentes fra Lovdata og legges som egen fil (<https://lovdata.no/lov/2009-06-19-58/%C2%A79-5>). Sentral kjerne: for kapitalvarer etter § 9-1 annet ledd bokstav b (fast eiendom) er justeringsbeløpet for det enkelte regnskapsåret **en tidel** av den inngående merverdiavgift som påløp i forbindelse med ny-, på- eller ombyggingen.
 
 ---
 
@@ -49,5 +47,7 @@ Dersom KodeWorks Eiendom AS:
 - Slutter å drive avgiftspliktig virksomhet (lagringstjeneste),
 
 utløses krav om justering (tilbakebetaling) av allerede fradragsført MVA for de gjenværende år.
+
+**Nytt tredje ledd (fra Lovdata):** Et avgiftssubjekt som har justert samlet pga. opphør av MVA-pliktig virksomhet og som beholder kapitalvarene i virksomheten, kan fortsette å justere dersom og fra det tidspunkt vedkommende senere i justeringsperioden blir registrert i Merverdiavgiftsregisteret. Dette gir en «re-innrulling»-mulighet dersom avgiftsplikt gjenopptas i justeringsperioden.
 
 **Konklusjon:** Oppretthold avgiftspliktig virksomhet gjennom hele justeringsperioden (til minst 2036). Ikke endre konsept uten forhåndsklarering med MVA-rådgiver.

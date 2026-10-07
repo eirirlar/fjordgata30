@@ -1,6 +1,13 @@
 # Kongeriket Norges Grunnlov
-**LOV-1814-05-17**  
-*Relevante paragrafer for Fjordgata 30*
+**LOV-1814-05-17**
+
+---
+
+> **MERK — DELVIS VERIFISERT**
+>
+> Audit 06.10.2026 (T157) verifiserte §§ 97 og 98 mot Lovdata — ordlyden matcher verbatim. **Men paragrafoverskriftene («Likhet for loven», «Forbud mot tilbakevirkende lover») er egne tilføyelser — Grunnlovens paragrafer har ikke titler i Lovdata.** Hvis filen brukes som sitatkilde, må overskriftene ikke siteres som del av lovteksten.
+>
+> Kilde: <https://lovdata.no/lov/1814-05-17>
 
 ---
 

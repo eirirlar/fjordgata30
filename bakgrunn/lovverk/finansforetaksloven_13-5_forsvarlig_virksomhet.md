@@ -1,0 +1,23 @@
+# Finansforetaksloven § 13-5 – Forsvarlig virksomhet. God forretningsskikk
+
+**Lov:** Lov om finansforetak og finanskonsern (finansforetaksloven) av 10. april 2015 nr. 17\
+**Kilde:** <https://lovdata.no/lov/2015-04-10-17/%C2%A713-5>\
+**Hentet:** 6. oktober 2026 (via curl + Python-parsing, T158)
+
+---
+
+## Lovtekst (verbatim)
+
+**§ 13-5. Forsvarlig virksomhet. God forretningsskikk**
+
+(1) Et finansforetak skal organiseres og drives på en forsvarlig måte. Foretaket skal ha en klar organisasjonsstruktur og ansvarsfordeling samt klare og hensiktsmessige styrings- og kontrollordninger. Foretaket skal ha hensiktsmessige retningslinjer og rutiner for å identifisere, styre, overvåke og rapportere risiko foretaket er, eller kan bli, eksponert for. Foretaket skal ha nettverks- og informasjonssystemer i samsvar med forordning (EU) 2022/2554, jf. lov om digital operasjonell motstandsdyktighet i finanssektoren § 1. Foretaket skal også ha hensiktsmessige retningslinjer og rutiner for gjennomføring, overvåkning og regelmessig vurdering av godtgjørelsesordninger.
+
+(2) Et finansforetak skal ha uavhengige kontrollfunksjoner med ansvar for internrevisjon, risikostyring og etterlevelse av krav fastsatt i eller i medhold av lov eller forskrift. Forsikringsforetak og pensjonskasser skal i tillegg ha uavhengige kontrollfunksjoner med ansvar for aktuarfaglige oppgaver. Departementet kan i forskrift gjøre unntak fra kravet til uavhengige kontrollfunksjoner for pensjonsforetak og foretak som omfattes av § 14-15.
+
+(3) Finansforetakets styrings- og kontrollordninger samt retningslinjer og rutiner skal være tilpasset risikoen ved og omfanget av virksomheten i foretaket.
+
+(4) Et finansforetak skal utøve sin virksomhet i samsvar med redelighet og god forretningsskikk.
+
+(5) Finansforetaket skal legge til rette for at ansatte i foretaket kan varsle internt eller til myndighetene om overtredelser av bestemmelser gitt i eller i medhold av lov.
+
+(6) Departementet kan gi forskrift som utfyller reglene i første til tredje ledd og gi nærmere regler om varsling.

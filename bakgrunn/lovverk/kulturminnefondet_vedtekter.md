@@ -1,7 +1,14 @@
 # Kulturminnefondets vedtekter (FOR-2003-06-27-801) – kapittel 5
 
-*Kilde: lovdata.no/dokument/SF/forskrift/2003-06-27-801 – verifiser mot gjeldende tekst*  
 *Kulturminnefondet er etablert ved lov og er et statlig fond under Klima- og miljødepartementet*
+
+---
+
+> **ADVARSEL — IKKE VERIFISERT MOT LOVDATA**
+>
+> Audit 06.10.2026 (T157) rakk ikke å verifisere innholdet mot Lovdata. Innholdet fremstår som oppsummering, ikke verbatim. Flere andre hele-loven-filer i samme mappe er bekreftet parafrasert — anta parafrase inntil annet er påvist.
+>
+> **Krav før bruk som sitatkilde:** Verifiser mot <https://lovdata.no/forskrift/2003-06-27-801>.
 
 ---
 

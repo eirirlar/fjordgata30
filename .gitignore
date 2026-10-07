@@ -9,3 +9,4 @@ bank/*.docx
 bank/*.pdf
 leveranser/*.pdf
 tmp/
+tmp_lovdata/

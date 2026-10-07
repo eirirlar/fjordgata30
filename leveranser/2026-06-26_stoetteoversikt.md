@@ -103,7 +103,7 @@ Stiftelsen UNI støtter brannsikringstiltakene. Utbetaling krever revisorbekreft
 
 Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 2612200) er ferdigstilt etter NS 3031:2025. Sluttrapport er klar for innlevering til Enova.
 
-*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.10.2026 løper i sin helhet i prosjekteringsfasen, godt før byggets ferdigstillelse (Q3 2027). Kostnaden til energikartleggingen inngår i byggets prosjekteringskostnad og aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (3) gjelder tilskudd til «erverv av driftsmiddel» direkte for KMF, BYA og UNI, og anvendes analogisk for Enova-kartleggingstilskuddet siden den underliggende konsulentkostnaden aktiveres på driftsmidlet – tilskuddet reduserer dermed aktivert kostpris på samme måte. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør (se også pkt. 4.2).
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.10.2026 løper i sin helhet i prosjekteringsfasen, godt før byggets ferdigstillelse (Q3 2027). Kostnaden til energikartleggingen inngår i byggets prosjekteringskostnad og aktiveres på driftsmidlet (bygget) per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (2) a gjelder tilskudd til «erverv av driftsmiddel» direkte for KMF, BYA og UNI, og anvendes analogisk for Enova-kartleggingstilskuddet siden den underliggende konsulentkostnaden aktiveres på driftsmidlet – tilskuddet reduserer dermed aktivert kostpris på samme måte. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør (se også pkt. 4.2).
 
 ---
 
@@ -116,7 +116,7 @@ Energikartlegging er gjennomført av HRP AS. Rapporten (05.05.2026, prosjektnr. 
 
 Ombrukskartleggingen dokumenterer bygningsdeler og materialer som kan gjenbrukes i rehabiliteringen – originalt laftet treverk, bærende tømmer og historiske konstruksjonselementer. Rapport under utarbeidelse.
 
-*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.12.2026 løper i sin helhet i prosjekteringsfasen, før byggets ferdigstillelse (Q3 2027). Kostnaden aktiveres på driftsmidlet per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (3) anvendes analogisk på samme grunnlag som for energikartleggingstilskuddet (se 3.4); tilskuddet reduserer aktivert kostpris på driftsmidlet. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør.
+*Regnskaps- og skattemessig behandling:* Prosjektperioden 25.02.2026 – 25.12.2026 løper i sin helhet i prosjekteringsfasen, før byggets ferdigstillelse (Q3 2027). Kostnaden aktiveres på driftsmidlet per regnskapsloven § 5-4 / NRS 4. Skatteloven § 14-42 (2) a anvendes analogisk på samme grunnlag som for energikartleggingstilskuddet (se 3.4); tilskuddet reduserer aktivert kostpris på driftsmidlet. Endelig klassifisering avklares med regnskapsfører ved sluttoppgjør.
 
 ---
 
@@ -128,7 +128,7 @@ Offentlige tilskudd er ikke egenkapital i regnskapsmessig forstand, men anerkjen
 
 Investeringstilskudd klassifiseres som utsatt inntekt, ikke gjeld. Tilskuddet er dermed ikke egenkapital regnskapsmessig, men reduserer netto gjeldsbyrde og styrker den reelle egenkapitalandelen. Utdyping i vedlegg «Tilskudd som egenkapital», kap. 2.
 
-### 4.2 Skattemessig behandling (skatteloven § 14-42 (3))
+### 4.2 Skattemessig behandling (skatteloven § 14-42 (2) a)
 
 Tilskuddet reduserer avskrivningsgrunnlaget for driftsmidlet fremfor å skattlegges direkte som inntekt. For forretningsbygg (2 % avskrivning) er den årlige skatteeffekten svært liten, slik at tilskuddet i praksis er tilnærmet skattenøytralt. Utdyping i vedlegg «Tilskudd som egenkapital», kap. 3.
 

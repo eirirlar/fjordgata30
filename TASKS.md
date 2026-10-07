@@ -1088,7 +1088,54 @@ Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklar
 
 ---
 
-### T147 `[ ]` TBRT-sporet videre — DSB, Sivilombudet og statusoppdatering
+### T147 `[~]` TBRT-sporet videre — DSB, Sivilombudet og statusoppdatering
+
+#### Status 06.10.2026
+
+**Rekkefølge revidert etter Namsfogden-varsel 06.10.2026.** TBRT har overlatt kr 184 000 til Namsfogden i Trøndelag (sak S2026-026646). Brukeren mottok SMS-varsel om forkynnelse 06.10.2026 (frist for henting på Heimdal politistasjon: 12.10.2026). Dette flyttet DSB-vurderingen og tvang Sivilombudet-klagen fram i prioritet. Betalingsutsettelse (opprinnelig delleveranse 4) ble vurdert og forkastet som usannsynlig å få gjennomslag etter at Namsfogden allerede er involvert.
+
+**Delleveranse 2 (Sivilombudet) — sendt 06.10.2026 via sivilombudet.no (ID-porten).** Kvittering: «Klagen din er sendt inn. Innen tre uker vil du få et svar med nærmere opplysninger om behandlingen av klagen.» Status følges på Min side hos Sivilombudet.
+
+- Brev: `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`
+- Vedleggsmappe: `leveranser/brann/2026-10-06_sivilombudet_klage/` (00 brev + 16 vedlegg, inkludert firmaattest og Sivilombudets 2010-uttalelse)
+- Webskjema-tekst brukt: `leveranser/brann/2026-10-06_sivilombudet_klage/webskjema_del2_klagen.md`
+- Vedtak-feltet i webskjemaet: `11_moteprotokoll_klageorgan_2026-08-25.pdf`. Alle andre vedlegg under «Andre vedlegg».
+- Sivilombudets eget sendemåte-krav om fullmakt dekkes av firmaattesten: Eirik Larsen har signatur som «Styrets leder alene» per Brreg. Ingen separat fullmakt kreves.
+
+**Delleveranse 1 (DSB) — utkast klart 06.10.2026, holdes for utsending.** Beslutning 06.10.2026: skrive og sende DSB-søknad nå i stedet for å vente på Sivilombudets uttalelse, fordi Namsfogden-overleveringen eskalerer saken og unntaksregelen i punkt B («DSB sendes straks hvis innkrevingen eskalerer») slår inn. Brev: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`. Argumentasjonen er bygget praktisk/skjønnsmessig (rettslig umulighet, alt annet lukket, prosjekt reelt og offentlig finansiert, bero-beslutningens egen realitetsvurdering, bygg tomt, forsinkelser forårsaket av andre offentlige organer, mulkten motvirker sitt formål) med særlig punkt 5 om pålegget oppfylt etter sitt innhold (Sivilombudets 2010-uttalelse + forskrift om brannforebygging § 6). Opplyser DSB om pågående Sivilombud-sak og ber dem avvente uttalelsen hvis de ser den som relevant.
+
+Åpne punkter før DSB-utsending:
+
+- Vedleggsmappe etter samme mal som Sivilombudet-pakka (`leveranser/dsb/<kortnavn>_<dato>/`): konvertere brevet til PDF, samle de 21 vedleggene. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) er ikke tidligere pakket som nummererte PDF-er og må enten regenereres eller hentes fra originalkilder før utsending.
+- Verifisere nøyaktig navn/postadresse/orgnr for DSB mot DSB.no umiddelbart før utsending (hentet 06.10.2026: Postboks 2014, 3103 Tønsberg, org.nr. 974 760 983, postmottak@dsb.no).
+
+**Delleveranse 3 (statusbrev TBRT) — ikke levert.** Skal sendes oktober/november 2026 for å beskytte bero-beslutningen fram til 01.01.2027.
+
+**Delleveranse 4 (betalingsutsettelse) — strøket per 06.10.2026** (lav sannsynlighet etter Namsfogden-eskalering).
+
+#### Neste steg i prioritert rekkefølge
+
+1. **Pakke DSB-søknaden for utsending** — konvertere brev til PDF, samle vedleggene i `leveranser/dsb/<kortnavn>_<dato>/` etter samme mønster som Sivilombudet-pakka. Verifisere DSB-adresse/orgnr umiddelbart før utsending. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) må regenereres eller hentes fra originalkilder.
+2. **Avklar Namsfogden-forkynnelsen** innen 12.10.2026. Ring 73 87 68 00 for forkynnelse på e-post (raskere enn fysisk henting på Heimdal), eller hent på Heimdal politistasjon. Dokumentet er sannsynligvis begjæring om utlegg.
+3. **Strategisk beslutning: betale eller la utlegg skje.** Betaling av kr 184 000 er ikke til hinder for Sivilombudet-saken eller DSB-søknaden om frafall.
+4. **Statusbrev til TBRT** (delleveranse 3) — sendes i oktober/november 2026 for å beskytte bero-beslutningen fram til 01.01.2027. Hvis bero brytes kan TBRT kreve mulkt tilbake i tid for perioden 26.05.2026 → 01.01.2027 (potensielt kr 400 000+).
+5. **Trinnvis igangsettingstillatelse for brannsikring alene** — langsiktig. Det eneste som faktisk lukker avviket og stopper mulkten varig. Krever rammetillatelse først (press byggesakskontoret parallelt).
+
+#### Vedleggene i Sivilombudet-pakken (status 06.10.2026)
+
+| Nr. | Fil | Status |
+|---|---|---|
+| 00 | `00_brev_sivilombudet_klage.pdf` | Regenerert fra .md (vår egen) |
+| 01–06, 08–12 | TBRTs originale PDF-er | Lagt inn av bruker |
+| 07 | `07_klage_innkrevinger_2026-06-18.pdf` | Regenerert fra `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` (vår egen) |
+| 13 | `13_brannsikring_byggefasen_2026-02-26.pdf` | HRPs original |
+| 14 | `14_brannkonsept_ferdig_bygg_2026-02-16.pdf` | TekØk/HRP original |
+| 15 | `15_firmaattest_keas.pdf` | Brreg (lastet ned av bruker) |
+| 16 | `16_sivilombudet_uttalelse_2009-848.pdf` | Pandoc-konvertering av sivilombudet.no-siden (lagret som .md i `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md`) |
+
+Opprinnelig planlagt vedlegg for Namsfogden-forkynnelsen ble droppet (vi har kun SMS, ikke selve brevet). Firmaattesten ble renummerert fra 17 til 15 for kompakt sekvens. Namsfogden-SMS-en omtales kun i brevets tekst og kan ettersendes hvis Sivilombudet ber om det.
+
+
 
 **Formål:** Fire leveranser som henger sammen. (1) Søknad til DSB om å frafalle påløpt tvangsmulkt på kr 184 000. (2) Klage til Sivilombudet på TBRTs saksbehandling. (3) Statusoppdatering til TBRT som holder bero-beslutningen i live. (4) Anmodning om betalingsutsettelse som gir tid til de to første.
 
@@ -1161,7 +1208,7 @@ Denne tasken er skrevet slik at den kan plukkes opp på en annen maskin uten for
 
 #### B. Saksbehandlingsfeilene — og hvordan de brukes
 
-Fire punkter fra klagen 18.06.2026 som TBRT ikke gikk inn i. Alle er dokumentert i `bakgrunn/tvangsmulkt/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md`, der klagers anførsler er skrevet av fra skjermbilder.
+Fire punkter fra klagen 18.06.2026 som TBRT ikke gikk inn i. Alle er dokumentert i `bakgrunn/brann/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md`, der klagers anførsler er skrevet av fra skjermbilder.
 
 | Nr. | Anførsel | TBRTs svar | Hjemmel for innvending |
 |---|---|---|---|
@@ -1273,7 +1320,7 @@ Skal brukes både mot DSB og i statusbrevet til TBRT. Alle punkter er dokumenter
 7. **Mulkten motvirker sitt eget formål.** Kr 730 000 per år tapper prosjektøkonomien i et prosjekt hvis eneste formål er å gjennomføre nettopp den brannsikringen TBRT krever.
 8. **Saksbehandlingen.** De innkrevde periodene ble aldri vurdert mot forskrift om brannforebygging § 6 eller mot den rettslige umuligheten. Se punkt B.
 
-**Vedlegg som bør følge:** pålegget 08.11.2024, vedtak om tvangsmulkt 07.05.2025, de tre innkrevingene, klagen 18.06.2026, saksfremlegget 26.06.2026, bero-beslutningen 25.06.2026, klageorganets protokoll 25.08.2026, orienteringen 02.09.2026, tilsagnsbrev fra KMF og BYA. Alle finnes som .md i `bakgrunn/tvangsmulkt/`.
+**Vedlegg som bør følge:** pålegget 08.11.2024, vedtak om tvangsmulkt 07.05.2025, de tre innkrevingene, klagen 18.06.2026, saksfremlegget 26.06.2026, bero-beslutningen 25.06.2026, klageorganets protokoll 25.08.2026, orienteringen 02.09.2026, tilsagnsbrev fra KMF og BYA. Alle finnes som .md i `bakgrunn/brann/`.
 
 ---
 
@@ -1356,12 +1403,12 @@ Parallelt, utenfor denne tasken: press byggesakskontoret på rammetillatelse, og
 
 **Kilder:**
 
-- `bakgrunn/tvangsmulkt/` — alle TBRT-dokumenter som .md, se `OVERSIKT.md` der
-- `bakgrunn/tvangsmulkt/2026-06-25_svar_på_brev_datert_17062026_fjordgata_30_5001401149.md` (bero-beslutningen)
-- `bakgrunn/tvangsmulkt/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md` (klagers anførsler, avskrevet fra skjermbilder)
+- `bakgrunn/brann/` — alle TBRT-dokumenter som .md, se `OVERSIKT.md` der
+- `bakgrunn/brann/2026-06-25_svar_på_brev_datert_17062026_fjordgata_30_5001401149.md` (bero-beslutningen)
+- `bakgrunn/brann/2026-06-26_saksfremlegg_til_klageorganet_i_tbrt_vedrørende_fjordgata_30_5001401149.md` (klagers anførsler, avskrevet fra skjermbilder)
 - `bakgrunn/2026-07-16_byggesak_forelopig_tilbakemelding_hovedombygging.md`
 - `referat/2026-06-11_referat_statusmote_tbrt.md`
-- `leveranser/2026-06-17_tbrt_klage_innkrevinger_2026.md`
+- `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md`
 - `bakgrunn/lovverk/forvaltningsloven.md`
 - `bakgrunn/lovverk/sivilombudsloven_4_arbeidsomrade.md`, `_8_vilkar_klage.md`, `_9_klagefrist.md`
 
@@ -2009,9 +2056,9 @@ Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne 
 - `leveranser/brann/2026-09-28_forespoersel_autronica_dokumentasjon.md` — utkast til Autronica-forespørsel
 - `bakgrunn/2026-09-28_gjensidige_forsikringsvilkaar_naeringsbygg.md` — strukturert sammendrag av gjeldende forsikringsvilkår
 
-**Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/tvangsmulkt/OVERSIKT.md`.
+**Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/brann/OVERSIKT.md`.
 
-**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/tvangsmulkt/` finnes. `bakgrunn/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
+**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/brann/` finnes. `bakgrunn/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
 
 **Kobling:** T147 (tvangsmulkt-saken mot TBRT), T152 (Kristians opprinnelige spørsmål om brannkonsept under oppussing — dekkes i sin helhet av denne oppgaven og kan lukkes når den er løst), T151 (kjellerarbeid — kjeller er ikke sprinklerdekket).
 
@@ -2085,3 +2132,903 @@ Punkt 1–3 følges opp som separat oppdatering av `brann_rutiner_byggefasen.md`
 **Estimat:** 2–3 timer research + skriving.
 
 **Frist:** Før bestilling i uke 43 (jf. Autronica-forespørselen).
+
+---
+
+### T157 `[~]` Audit `bakgrunn/lovverk/` — verifiser verbatim vs. parafrase mot Lovdata
+
+**Bakgrunn:** Oppdaget 06.10.2026 at `bakgrunn/lovverk/forskrift_brannforebygging.md` inneholdt parafrasert / feilplassert innhold — det som sto som § 6 var faktisk en omskriving av innhold i § 8, og paragrafoverskriftene matchet ikke Lovdatas verbatim-tekst. Fila var brukt som kildegrunnlag i klagen av 18.06.2026, Sivilombudet-brevet av 06.10.2026 og DSB-utkastet av 06.10.2026 — altså i tre separate leveranser til forvaltningsorganer. En parafrasert lovsitat i et juridisk dokument kan ødelegge sakens hjemmelsgrunnlag.
+
+**Risiko dette dekker:** Lignende feil kan ligge i andre lovverk-filer. CLAUDE.md-regelen om «verbatim ned-lastet kilde» eksisterer nettopp for å fange dette, men regelen har tilsynelatende blitt brutt tidligere uten at det ble oppdaget. Alle hele-loven-filer og paragraf-filer i `bakgrunn/lovverk/` må verifiseres mot Lovdata før de brukes som kildegrunnlag i nye leveranser.
+
+**Hva som skal gjøres:**
+
+1. **List alle filer i `bakgrunn/lovverk/`** og klassifiser dem som:
+   - *Hele-loven-filer* (f.eks. `forvaltningsloven.md`, `plan_bygningsloven.md`, `brann_eksplosjonsvernloven.md`) — høy risiko fordi de er omfattende og lett å parafrasere
+   - *Paragraf-filer* (f.eks. `sivilombudsloven_8_vilkar_klage.md`, `brann_eksplosjonsvernloven_39_tvangsmulkt.md`) — lavere risiko hvis riktig produsert med Lovdata-URL og hentedato
+   - *Uttalelser / avgjørelser* (f.eks. `sivilombudet_2010_tvangsmulkt_tbrt.md`) — verifiseres mot original kilde (Sivilombudet.no, Lovdata, Rettsdata)
+
+2. **For hver fil, verifiser mot Lovdata.** Sammenlign paragrafoverskrifter og ordlyd verbatim mot `https://lovdata.no/.../§N`. Fil er OK hvis: (a) overskrifter matcher, (b) ordlyd matcher ord for ord, (c) ingen tilføyd «relevans»-kommentar presentert som lovtekst. Fil er ikke OK hvis noe av dette avviker.
+
+3. **For hele-loven-filer som er OK:** behold som referansegrunnlag, men påse at paragraf-filer opprettes ved første referanse i leveranser (per CLAUDE.md).
+
+4. **For hele-loven-filer som ikke er OK:** enten (a) slett og la paragraf-filer være eneste kilde, eller (b) erstatt med verbatim lovtekst fra Lovdata (hele loven, ingen kommentarer).
+
+5. **For paragraf-filer som ikke er OK:** oppdater med verbatim Lovdata-tekst, oppdater `kilde:` og `hentet:` i metadata.
+
+6. **Dokumentér funnene** i løsningsnotatet under denne tasken — hvilke filer var OK, hvilke ble korrigert, hvilke ble slettet. Dette gir sporbarhet dersom en gammel leveranse bygget på feil kilde må revurderes.
+
+7. **Vurder hvilke eksisterende leveranser som har brukt feilaktige filer som kilde,** og flagg dem for brukeren. Særlig: alle leveranser som siterer «forskrift om brannforebygging § 6» må vurderes — hvis sitatet er fra den gamle filas parafrase, må leveransen enten korrigeres (hvis ikke sendt) eller flagges (hvis sendt).
+
+**Akutte filer å sjekke først** (brukt i aktuelle leveranser):
+
+- `forskrift_brannforebygging.md` (hele-loven, bekreftet parafrasert 06.10.2026)
+- `brann_eksplosjonsvernloven.md` (hele-loven, risikonivå ikke verifisert)
+- `plan_bygningsloven.md` (hele-loven, risikonivå ikke verifisert)
+- `forvaltningsloven.md` (hele-loven, hyppig brukt — særlig §§ 17, 24, 25, 41)
+- `kulturminneloven.md` (hele-loven, brukt i kjeller-saken)
+
+**Berørte filer:**
+
+- Alle 22 filer i `bakgrunn/lovverk/` per 06.10.2026
+- Oppfølging av leveranser som har sitert feil paragraftekst (ikke uttømmende liste før audit er gjennomført)
+
+**Kobling:** CLAUDE.md-regelen om «Lovparagrafer siteres mot verbatim ned-lastet kilde». Tidligere lignende arbeid: T75 (verifisere paragrafhenvisninger mot nedlastede lovfiler, men begrenset til forretningsplan) og T34 (dokumentere relevant lovverk). Denne tasken er bredere og retter mot kvaliteten av selve kilde-filene, ikke mot bruken i et spesifikt dokument.
+
+**Estimat:** 2–4 timer avhengig av hvor mange hele-loven-filer som må erstattes.
+
+#### Audit-funn 06.10.2026 (status: hovedarbeidet ferdig)
+
+Gjennomgang av 22 filer i `bakgrunn/lovverk/` sekvensielt mot Lovdata. Første forsøk brukte URL-formatet `/lov/XXXX-XX-XX-XX/§Y` som noen ganger ga 503 Service Unavailable — jeg tolket dette feilaktig som rate limiting og brukte unødvendig fibonacci-backoff opp til 21s før jeg oppdaget at URL-formatet var problemet. Chapter-anchor-URLer (`/dokument/NL/lov/XXXX-XX-XX-XX/KAPITTEL_N#%C2%A7M`) fungerte pålitelig. Bruk denne URL-formen (eller Lovdatas søk) framover.
+
+**Bekreftet problematiske (verifisert mot Lovdata — paragrafnumre eller tekst er feil):**
+
+| Fil | Konkret funn |
+|---|---|
+| `forskrift_brannforebygging.md` | Filas § 6 er faktisk Lovdatas § 8; §§ 4, 5, 9 har feil overskrifter/tekst |
+| `plan_bygningsloven.md` | Filas § 29-4 har § 29-5-tekst; §§ 31-2, 31-3, 31-4 alle har feil innhold |
+| `forvaltningsloven.md` | §§ 24-25 mashup; de fleste paragrafene kraftig forkortet; § 41 mangler; § 51 har «fjerde ledd» om særskilt klagerett (faktisk er dette femte ledd) |
+| `kulturminneloven.md` | Filas § 15 har § 4-innhold; § 19 har feil tema; § 20 OK men ufullstendig |
+| `tvangsfullbyrdelsesloven.md` | Filas § 7-2 har feil overskrift og parafrasert tekst; § 13-14 har hallusinert tekst om «overhengende fare» (det er faktisk brann-eksplosjonsvernloven § 40 femte ledd) |
+| `skatteloven.md` | § 14-42 (3) om tilskudd — faktisk i (2) a; § 5-30 (2) om «tilskudd til næringsvirksomhet» hallusinert; § 14-43 feil bokstav-mapping og mangler «j = fast teknisk installasjon 10 %» |
+| `finansavtaleloven.md` | Filas § 1-5 og § 3-1 begge feil attribuerte paragrafer |
+| `finansforetaksloven.md` | § 13-5 parafrasert — bare 2 av 6 ledd gjengitt |
+| `brann_eksplosjonsvernloven.md` | § 6 har hallusinert tekst («Ansvaret er ikke begrenset…» finnes ikke); § 1 har liten parafrase («Loven skal» vs «Loven har som formål») |
+
+**Verifisert OK (innhold matcher Lovdata eller trofast sammendrag):**
+
+| Fil | Status |
+|---|---|
+| `brann_eksplosjonsvernloven.md` §§ 37, 39, 40, 41, 42 | Verifisert verbatim OK |
+| `grunnloven.md` | §§ 97, 98 verifisert OK — **MERK**: filas overskrifter («Likhet for loven», «Forbud mot tilbakevirkende lover») er egne tilføyelser, ikke del av lovteksten |
+| `sivilombudsloven_4_arbeidsomrade.md` | Verifisert verbatim OK |
+| `sivilombudsloven_8_vilkar_klage.md` | Verifisert verbatim OK |
+| `sivilombudsloven_9_klagefrist.md` | Verifisert verbatim OK |
+| `sivilombudet_2010_tvangsmulkt_tbrt.md` | Fila er sammendrag, ikke verbatim. Nøkkelsitatet («Når det aktuelle pålegget er oppfylt etter sitt innhold…») er verifisert verbatim mot sivilombudet.no og brukes korrekt i leveranser, men mangler fra denne lokale sammendragsfila |
+
+**Uverifisert (gjenstående arbeid, lavere prioritet):**
+
+| Fil | Grunn |
+|---|---|
+| `regnskapsloven.md` § 6-2 | For lang til WebFetch verbatim; strukturavvik indikerer sannsynlige feil |
+| `forskrift_fredete_kulturminner.md` | Ikke prioritert; ikke-urgent for aktuelle leveranser |
+| `kulturminnefondet_vedtekter.md` | Ikke prioritert |
+| `emk.md` | Art. 6 og P1-1 er lange artikler; WebFetch returnerer ikke verbatim pga tekstlengde |
+| `nrs_4_offentlige_tilskudd.md` | Ikke en lov; krever verifikasjon mot regnskapsstiftelsen.no |
+| `eba_gl_2020_06.md` | EU-retningslinjer; krever verifikasjon mot eba.europa.eu |
+
+**Opprettet verbatim i dag (36 filer):**
+
+Brann-eksplosjon: `_1_formaal.md`, `_6_sikringstiltak.md`, `_37_paalegg_bruksforbud.md`, `_39_tvangsmulkt.md`, `_40_tvangsgjennomforing.md`, `_41_klage.md`, `_42_straff.md`
+
+Forskrift brannforebygging: `_4_kunnskap_brannsikkerhet.md`, `_5_kontroll_bygningsdeler.md`, `_6_fyringsanlegg.md`, `_8_oppgradering.md`, `_9_systematisk_sikkerhetsarbeid.md`
+
+Plan- og bygningsloven: `pbl_29-4_byggverkets_plassering.md`, `pbl_31-2_tiltak_eksisterende_byggverk.md`, `pbl_31-3_tiltak_strid_med_plan.md`, `pbl_31-4_unntak_tekniske_krav.md`
+
+Forvaltningsloven: `fvl_11_veiledningsplikt.md`, `fvl_17_utredningsplikt.md`, `fvl_24_naar_begrunnes.md`, `fvl_25_begrunnelsens_innhold.md`, `fvl_29_klagefrist.md`, `fvl_41_virkning_feil.md`, `fvl_42_utsatt_iverksetting.md`, `fvl_51_tvangsmulkt.md`
+
+Kulturminneloven: `_3_forbud_inngrep.md`, `_4_automatisk_fredete.md`, `_15_fredning_nyere_tid.md`, `_19_fredning_omrade.md`, `_20_fredning_kulturmiljo.md`
+
+Tvangsfullbyrdelsesloven: `_7-2_tvangsgrunnlag_utlegg.md`, `_13-14_fullbyrdelsesmaate.md`
+
+Skatteloven: `_5-30_virksomhetsinntekt.md`, `_14-42_grunnlag_avskrivning.md`, `_14-43_avskrivningssatser.md`
+
+Andre: `tek17_12-7_rom_oppholdsareal.md`, `finansforetaksloven_13-5_forsvarlig_virksomhet.md`
+
+**Ikke-lov-dokumenter (notice tilføyd, ingen verbatim-krav gjelder):**
+
+- `prosjektrelevans.md` — navigasjons-/innføringstekst
+- `ulovfestede_prinsipper.md` — ulovfestet forvaltningsrett, ingen enkeltparagraf
+
+**Tiltak gjennomført i audit:**
+
+- Prominent WARNING-header lagt til på 9 bekreftet-problematiske hele-loven-filer med konkrete funn per paragraf
+- Mindre WARNING-header på 5 uverifiserte filer med instruksjon om verifikasjon før bruk
+- MERK-header på 3 ikke-verbatim navigasjons-/sammendragsfiler
+- Verifikasjonsnote oppdatert på 3 pre-eksisterende sivilombudsloven paragraf-filer (nå verifisert verbatim)
+- 36 verbatim paragraf-filer opprettet som sikre erstatningskilder
+
+**Nye funn i leveranse-relevansen:**
+
+- **Fvl § 51 (3) ny bestemmelse:** «Forvaltningsorganet kan i særlige tilfeller redusere eller frafalle påløpt mulkt.» Dette er en generell hjemmel; brann- og eksplosjonsvernloven § 39 tredje punktum (sentral tilsynsmyndighet = DSB) er lex specialis — men forholdet bør vurderes
+- **Pbl § 31-4** om kommunens adgang til å gi unntak fra tekniske krav styrker rettslig umulighet-argumentet i DSB-utkast
+- **Skatteloven § 14-43 j** (fast teknisk installasjon 10 %) er ikke lagt til grunn i bankpakka — kan bedre skatteeffekten i forretningsplanen
+
+**Affiserte leveranser som må korrigeres eller flagges:**
+
+| Leveranse | Status | Berørt referanse |
+|---|---|---|
+| `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` | Sendt, avvist | forskrift brannforebygging § 6 (korrekt er § 8) |
+| `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt | forskrift brannforebygging § 6 (korrekt § 8); mulig fvl §§ 24–25-sitat ikke verbatim; pbl § 29-4 (ikke sitert verbatim men referert) |
+| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | Samme feil som Sivilombudet-brevet — må fikses før utsending |
+| `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
+| `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
+| `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
+| Bankpakka (07, 09) og `forretningsplan/forretningsplan.md` | Produsert | skatteloven § 14-42: bestemmelsen om tilskudd-fradrag kan være feil referert |
+
+**Gjenstår (lavere prioritet, kan tas senere):**
+
+1. Verifisere `regnskapsloven.md` § 6-2 (lang paragraf, krever manuell gjennomgang)
+2. Verifisere `emk.md` art. 6 og Tilleggsprotokoll 1 art. 1 (menneskerettsloven kap. 2 / vedlegg 2)
+3. Verifisere `forskrift_fredete_kulturminner.md` og `kulturminnefondet_vedtekter.md`
+4. Verifisere `nrs_4_offentlige_tilskudd.md` mot regnskapsstiftelsen.no
+5. Verifisere `eba_gl_2020_06.md` mot eba.europa.eu
+
+**Konkrete korreksjoner på affiserte leveranser (må tas som egne tasks eller del av T147):**
+
+- DSB-utkast: § 6 → § 8, § 29-4 → § 29-5, verbatim-sitater fra nye paragraf-filer
+- Ettersending til Sivilombudet via Min side: korrigeringsnotat om § 6 → § 8
+- Vurdering av kulturminneloven-sitater i kjeller-leveranser (T143, T145, T146)
+- Vurdering av skattemessig behandling i bankpakka og forretningsplanen (§ 14-42 (2) a vs (3), § 14-43 j = 10 %)
+
+**Vurdering av gjenværende risiko:** Hele-loven-filer brukt i kritiske leveranser er nå enten korrigert eller markert med WARNING. CLAUDE.md-regelen om verbatim nedlasting av paragraf-filer per referansepunkt må følges strengt framover — hele-loven-filene skal kun brukes som navigasjonshjelp. **URL-format:** bruk `/dokument/NL/lov/XXXX-XX-XX-XX/KAPITTEL_N#%C2%A7M` eller Lovdatas søk; `/lov/XXXX-XX-XX-XX/§Y` kan feile med 503 for enkelte paragrafer.
+
+#### Stikkprøve-audit 06.10.2026 (4 agenter × 15 random filer = 60 sjekker)
+
+4 uavhengige agenter verifiserte random utvalg av de 39 verbatim paragraf-filene mot Lovdata. Resultat:
+
+- **MATCH: 54/60**
+- **MISMATCH: 4/60**
+- **CANNOT VERIFY: 2/60**
+
+**Tre filer med reelle avvik (nå rettet):**
+
+| Fil | Avvik | Fiks |
+|---|---|---|
+| `pbl_31-4_unntak_tekniske_krav.md` | Feil paragraftittel (sa «ingen tittel i Lovdata»; faktisk «Kommunens adgang til å gi helt eller delvis unntak fra krav»); bokstavpunkter brukte «a)» i stedet for «a.» | Tittel korrigert, bokstavpunkter endret til «a.» |
+| `skatteloven_14-43_avskrivningssatser.md` | Ledd (2) og (3) var parafrasert — manglet vilkårskonstruksjon om brukstid, 50 %-regelens arealvilkår, forskriftshjemmel, og «frukt- og bærfelt»-overskrift | Gjenhentet verbatim fra Lovdata og erstattet begge ledd |
+| `finansforetaksloven_13-5_forsvarlig_virksomhet.md` | Manglet ledd-nummerering «(1)», «(2)»… «(6)» foran hvert ledd | Nummerering lagt til |
+
+**Agentene krasjet på klassifisering av pbl_31-4** (Agent 1 og 4 flagget MISMATCH, Agent 3 ga MATCH med note) — fordi feilen var i tittelkommentaren, ikke selve lovteksten. Alle tre er enige om fix-behovet.
+
+**Konklusjon:** Av 36 verbatim paragraf-filer opprettet i dag var 33 bekreftet verbatim-OK via stikkprøver, 3 hadde reelle avvik som nå er korrigert. Audit-prosessen fungerte som intendert — stikkprøver fanget feil som jeg hadde oversett.
+
+#### Metodisk lærdom etter stikkprøve-audit
+
+Da jeg re-verifiserte `skatteloven_14-43` via **curl + Python-parsing** (ikke WebFetch), oppdaget jeg at **ledd (5) og (6) OGSÅ var parafrasert** — selv om stikkprøve-agentene (som alle brukte WebFetch) ga MATCH eller CANNOT VERIFY. Også (4) var feilaktig utelatt (Lovdata markerer det med «– – –» for opphevet).
+
+**Rot-årsak:** WebFetch returnerer AI-prosessert innhold, ikke rå HTML. For lange paragrafer tar modellen snarveier — den oppsummerer eller omskriver i stedet for å gi verbatim. Dette er en strukturell svakhet som ikke kan fikses med bedre prompter.
+
+**Konsekvens:** Alle verbatim paragraf-filer opprettet via WebFetch i dag kan ha samme svakhet for lange ledd — særlig fvl §§ 11, 17, 24, 25, 51; kulturminneloven §§ 4, 15; TEK17 § 12-7; pbl §§ 29-4, 31-2. Agentenes MATCH-verdikt for disse er ikke pålitelig fordi agentene også brukte WebFetch.
+
+**Framover:** Bruk `curl -sL -A "Mozilla/5.0" "https://lovdata.no/lov/..."` + egen HTML-parsing (regex eller BeautifulSoup) for all verbatim lovtekst. WebFetch skal ikke brukes til paragraf-sitater.
+
+Dette tilsier at T157 ikke er fullt løst — alle lange paragrafer bør re-verifiseres via curl. Oppfølgingstask vurderes.
+
+#### Oppfølging 06.10.2026 — forsøk på reparasjon via custom parser avbrutt
+
+Et forsøk på å løse T158 via custom Python regex-parser ble gjennomført og avbrutt samme dag. 51 paragraf-filer ble produsert, men valg av fremgangsmåte (regex istedenfor pandoc/pup/lynx) førte til flere timer med parser-vs-verifier-false-positives og lav tillit til verbatim-korrekthet. Scripts fjernet. Filene i `bakgrunn/lovverk/` som ble produsert av disse scriptene må antas uverifiserte inntil T158 er løst via standard HTML-ekstraksjonsverktøy. Se T158 for krav til neste forsøk.
+
+---
+
+### T158 `[x]` Re-opprett alle verbatim paragraf-filer med curl (uten WebFetch)
+
+**Bakgrunn:** T157 avdekket at WebFetch-verktøyet returnerer AI-prosessert innhold — modellen oppsummerer eller parafraserer lange paragrafer selv når prompten eksplisitt ber om verbatim. Dette ble bekreftet da `skatteloven_14-43` ble re-verifisert via `curl + Python`: ledd (5) og (6) var parafrasert, og (4) [Opphevet]-markøren manglet. Stikkprøve-agentene som også brukte WebFetch kunne ikke fange dette.
+
+Konsekvens: Alle verbatim paragraf-filer opprettet via WebFetch (36 filer opprettet 06.10.2026 + 3 pre-eksisterende sivilombudsloven-filer) må antas å ha samme svakhet, særlig for ledd lenger enn ~500 tegn. WebFetch er nå blokkert både i CLAUDE.md-regel og via `permissions.deny` i globale settings.
+
+**Mål:** Opprett alle verbatim paragraf-filer på nytt fra bunnen, utelukkende via `curl` + egen HTML-parsing. Erstatt alle eksisterende filer. Verifiser hver fil med stikkprøver mot original HTML — ikke mot WebFetch-utdata.
+
+**Metode (per paragraf):**
+
+1. Fetch HTML: `curl -sL -A "Mozilla/5.0" "<URL>" -o /tmp/paragraf.html`
+2. Parse HTML med `uv run python` + regex eller BeautifulSoup. Finn det riktige område basert på `<a name="PARAGRAF_X-Y">` eller tilsvarende anker. Lovdata-strukturen bruker `<span class="avsnittNummer numeral">(1)</span>` for ledd-nummerering og `<span class=" bokstav ">a.</span>` for bokstavpunkter.
+3. Produsér ren verbatim Markdown — hver ledd på egen linje med `(N)` prefix og bokstavpunkter som `a. ...`
+4. Verifiser output mot HTML-kilden ved å søke etter minst 3 særkategoriske fraser fra midten og slutten av paragrafen
+5. Skriv til `bakgrunn/lovverk/<lov_kortnavn>_<paragraf>_<beskrivelse>.md` med metadata-header (Lov, Kilde-URL, Hentedato)
+6. Rydd `/tmp/paragraf.html`
+
+**Paragrafer å hente (full liste med curl-URLer):**
+
+**Brann- og eksplosjonsvernloven** (lovid `2002-06-14-20`):
+
+| Paragraf | URL |
+|---|---|
+| § 1 (Formål) | https://lovdata.no/lov/2002-06-14-20/%C2%A71 |
+| § 6 (Forebyggende sikringstiltak og vedlikehold) | https://lovdata.no/lov/2002-06-14-20/%C2%A76 |
+| § 37 (Pålegg og forbud mot bruk) | https://lovdata.no/lov/2002-06-14-20/%C2%A737 |
+| § 39 (Tvangsmulkt) | https://lovdata.no/lov/2002-06-14-20/%C2%A739 |
+| § 40 (Tvangsgjennomføring) | https://lovdata.no/lov/2002-06-14-20/%C2%A740 |
+| § 41 (Klage) | https://lovdata.no/lov/2002-06-14-20/%C2%A741 |
+| § 42 (Straff) | https://lovdata.no/lov/2002-06-14-20/%C2%A742 |
+
+**Forskrift om brannforebygging** (lovid `2015-12-17-1710`):
+
+| Paragraf | URL |
+|---|---|
+| § 4 (Kunnskap og informasjon om brannsikkerhet i byggverk) | https://lovdata.no/forskrift/2015-12-17-1710/%C2%A74 |
+| § 5 (Kontroll og vedlikehold av bygningsdeler og sikkerhetsinnretninger) | https://lovdata.no/forskrift/2015-12-17-1710/%C2%A75 |
+| § 6 (Kontroll og vedlikehold av fyringsanlegg) | https://lovdata.no/forskrift/2015-12-17-1710/%C2%A76 |
+| § 8 (Oppgradering av byggverk) | https://lovdata.no/forskrift/2015-12-17-1710/%C2%A78 |
+| § 9 (Eierens systematiske sikkerhetsarbeid) | https://lovdata.no/forskrift/2015-12-17-1710/%C2%A79 |
+
+**Plan- og bygningsloven** (lovid `2008-06-27-71`):
+
+| Paragraf | URL |
+|---|---|
+| § 29-4 (Byggverkets plassering, høyde og avstand fra nabogrense) | https://lovdata.no/lov/2008-06-27-71/%C2%A729-4 |
+| § 31-2 (Krav som skal være oppfylt ved tiltak på eksisterende byggverk) | https://lovdata.no/lov/2008-06-27-71/%C2%A731-2 |
+| § 31-3 (Tiltak på eksisterende byggverk som er eller brukes i strid med en senere vedtatt plan) | https://lovdata.no/lov/2008-06-27-71/%C2%A731-3 |
+| § 31-4 (Kommunens adgang til å gi helt eller delvis unntak fra krav) | https://lovdata.no/lov/2008-06-27-71/%C2%A731-4 |
+
+**Forvaltningsloven** (lovid `1967-02-10`):
+
+| Paragraf | URL |
+|---|---|
+| § 11 (Veiledningsplikt) | https://lovdata.no/lov/1967-02-10/%C2%A711 |
+| § 17 (Forvaltningsorganets utrednings- og informasjonsplikt) | https://lovdata.no/lov/1967-02-10/%C2%A717 |
+| § 24 (Når enkeltvedtak skal grunngis) | https://lovdata.no/lov/1967-02-10/%C2%A724 |
+| § 25 (Begrunnelsens innhold) | https://lovdata.no/lov/1967-02-10/%C2%A725 |
+| § 29 (Klagefrist) | https://lovdata.no/lov/1967-02-10/%C2%A729 |
+| § 41 (Virkningen av feil ved behandlingsmåten) | https://lovdata.no/lov/1967-02-10/%C2%A741 |
+| § 42 (Utsatt iverksetting av vedtak) | https://lovdata.no/lov/1967-02-10/%C2%A742 |
+| § 51 (Tvangsmulkt) | https://lovdata.no/lov/1967-02-10/%C2%A751 |
+
+**Kulturminneloven** (lovid `1978-06-09-50`):
+
+| Paragraf | URL |
+|---|---|
+| § 3 (Forbud mot inngrep i automatisk fredete kulturminner) | https://lovdata.no/lov/1978-06-09-50/%C2%A73 |
+| § 4 (Automatisk fredete kulturminner) | https://lovdata.no/lov/1978-06-09-50/%C2%A74 |
+| § 8 (Særlig tillatelse til inngrep i automatisk fredete kulturminner) | https://lovdata.no/lov/1978-06-09-50/%C2%A78 |
+| § 15 (Fredning av bygninger, anlegg m.v. fra nyere tid) | https://lovdata.no/lov/1978-06-09-50/%C2%A715 |
+| § 19 (Fredning av område rundt et fredet kulturminne) | https://lovdata.no/lov/1978-06-09-50/%C2%A719 |
+| § 20 (Fredning av kulturmiljø) | https://lovdata.no/lov/1978-06-09-50/%C2%A720 |
+
+**Tvangsfullbyrdelsesloven** (lovid `1992-06-26-86`):
+
+| Paragraf | URL |
+|---|---|
+| § 7-2 (Tvangsgrunnlag for utlegg) | https://lovdata.no/lov/1992-06-26-86/%C2%A77-2 |
+| § 13-14 (Fullbyrdelsesmåte) | https://lovdata.no/lov/1992-06-26-86/%C2%A713-14 |
+
+**Skatteloven** (lovid `1999-03-26-14`):
+
+| Paragraf | URL |
+|---|---|
+| § 5-30 (Fordel vunnet ved virksomhet) | https://lovdata.no/lov/1999-03-26-14/%C2%A75-30 |
+| § 14-42 (Grunnlag for avskrivning og inntektsføring av negativ saldo) | https://lovdata.no/lov/1999-03-26-14/%C2%A714-42 |
+| § 14-43 (Avskrivningssatser) | https://lovdata.no/lov/1999-03-26-14/%C2%A714-43 |
+
+**Finansavtaleloven** (lovid `2020-12-18-146`):
+
+| Paragraf | URL |
+|---|---|
+| § 1-5 (Definisjoner som gjelder kontoavtaler og betalingstjenester) | https://lovdata.no/lov/2020-12-18-146/%C2%A71-5 |
+| § 3-1 (Tjenesteyterens alminnelige plikter) | https://lovdata.no/lov/2020-12-18-146/%C2%A73-1 |
+
+NB: Hele-loven-fila `finansavtaleloven.md` sier § 1-5 er «Virkeområde» og § 3-1 er «Kredittvurdering». Begge er feil attribuert. Finn riktige paragrafer for virkeområde-innhold (sannsynligvis § 1-1 eller § 1-2) og kredittvurderings-innhold (muligens kap. 5) hvis de er referert i leveranser.
+
+**Finansforetaksloven** (lovid `2015-04-10-17`):
+
+| Paragraf | URL |
+|---|---|
+| § 13-5 (Forsvarlig virksomhet. God forretningsskikk) | https://lovdata.no/lov/2015-04-10-17/%C2%A713-5 |
+
+**Grunnloven** (lovid `1814-05-17`):
+
+| Paragraf | URL |
+|---|---|
+| § 97 | https://lovdata.no/lov/1814-05-17/%C2%A797 |
+| § 98 | https://lovdata.no/lov/1814-05-17/%C2%A798 |
+
+NB: Grunnlovens paragrafer har ingen tittel i Lovdata. Ikke dikt opp overskrifter som del av verbatim-blokken.
+
+**Regnskapsloven** (lovid `1998-07-17-56`):
+
+| Paragraf | URL |
+|---|---|
+| § 6-2 (Balanse) | https://lovdata.no/lov/1998-07-17-56/%C2%A76-2 |
+
+**Sivilombudsloven** (lovid `2021-06-18-121`):
+
+| Paragraf | URL |
+|---|---|
+| § 4 (Arbeidsområde) | https://lovdata.no/lov/2021-06-18-121/%C2%A74 |
+| § 8 (Vilkår for behandling av klage) | https://lovdata.no/lov/2021-06-18-121/%C2%A78 |
+| § 9 (Fristen for å klage) | https://lovdata.no/lov/2021-06-18-121/%C2%A79 |
+
+**Byggteknisk forskrift (TEK17)** (lovid `2017-06-19-840`):
+
+| Paragraf | URL |
+|---|---|
+| § 12-7 (Krav til utforming av rom og annet oppholdsareal) | https://lovdata.no/forskrift/2017-06-19-840/%C2%A712-7 |
+
+**Merverdiavgiftsloven** (lovid `2009-06-19-58`) — brukes i MVA-strategien, bør også hentes verbatim:
+
+| Paragraf | URL |
+|---|---|
+| § 2-3 (Frivillig registrering) | https://lovdata.no/lov/2009-06-19-58/%C2%A72-3 |
+| § 3-1 (Avgiftsplikt på omsetning) | https://lovdata.no/lov/2009-06-19-58/%C2%A73-1 |
+| § 3-11 (Fast eiendom) | https://lovdata.no/lov/2009-06-19-58/%C2%A73-11 |
+| § 8-6 (Tilbakegående avgiftsoppgjør) | https://lovdata.no/lov/2009-06-19-58/%C2%A78-6 |
+| § 9-2 (Overgang av justeringsforpliktelse) | https://lovdata.no/lov/2009-06-19-58/%C2%A79-2 |
+
+**Andre kilder (ikke Lovdata, egen hentemetode via curl):**
+
+| Kilde | URL |
+|---|---|
+| Sivilombudets uttalelse 2009/848 | https://www.sivilombudet.no/uttalelser/sakskostnader-opphevelse-av-avvisningsvedtak-i-sak-knyttet-til-vedtak-om-lopende-tvangsmulkt/ |
+| EMK art. 6 (norsk vedlegg til menneskerettsloven) | https://lovdata.no/dokument/NL/lov/1999-05-21-30/VEDLEGG_2 |
+| TEK17 § 12-7 veiledning (DiBK, hvis separat kilde ønskes) | https://www.dibk.no/regelverk/byggteknisk-forskrift-tek17/12/ii/12-7 |
+
+**Totalt antall paragrafer som skal hentes:** ~45 fra Lovdata + 2 andre kilder.
+
+**Metodenotater (lærdom fra T157):**
+
+- Alle `/lov/<lovid>/%C2%A7<paragraf>`-URLer fungerer via `curl`. WebFetch feilet sporadisk med 503 på samme URLer, men curl var pålitelig.
+- Lovdata bruker UTF-8 encoding. `curl -sL` følger redirects.
+- HTML-strukturen i Lovdata er stabil: søk etter `<a name="PARAGRAF_<nr>">`-ankere for presise paragrafgrenser.
+- Ledd-markører: `<span class="avsnittNummer numeral">(N)</span>` — ekstraksjon via regex gir ren `(N) `-prefix.
+- Bokstavpunkter: `a.`, `b.`, osv. (punktum, ikke parentes).
+- Opphevede ledd markeres som `– – –`, ikke `[Opphevet]`.
+- Grunnlovens paragrafer har ingen tittel; ikke dikt opp.
+- Enkelte paragrafer har metadata-sporing (endringshistorikk) på slutten — kutt dette før skriving til fil.
+
+**Berørte filer (alle må erstattes):**
+
+- Alle 36 verbatim paragraf-filer opprettet 06.10.2026 (lista ligger i T157 audit-notatet)
+- 3 pre-eksisterende sivilombudsloven paragraf-filer
+
+**Etter re-opprettelse:**
+
+- Fjern WARNING-headere som refererer til WebFetch-feil (de blir irrelevante)
+- Oppdater T157 audit-note med at WebFetch-baserte filer er erstattet
+- Oppdater affiserte leveranser (DSB-utkast, Sivilombudet-ettersending) med nye verbatim-sitater der det er avvik
+
+**Kobling:** T147 (TBRT/Sivilombudet/DSB-sporet som er affisert av paragraf-sitater), T157 (opprinnelig audit).
+
+**Estimat:** Avhenger av verktøyvalg. Med standard HTML-ekstraksjon (pandoc, pup, lynx, bs4): 30–60 min for alle 50+ paragrafer.
+
+**KRAV TIL FREMGANGSMÅTE (06.10.2026 — flere tidligere forsøk har mislyktes):**
+
+- **Bruk velprøvde, standard verktøy.** Ikke skriv regex- eller BeautifulSoup-basert custom parser for Lovdatas HTML. Dette er allerede forsøkt tre ganger med sammenlagt flere timers tap — hver iterasjon introduserte nye false-positives/negatives (margin-paragrafer droppet, superscripts munged, zero-width spaces, whitespace rundt lenker).
+- **Aksepterte verktøy** (i prioritert rekkefølge):
+  1. **`pandoc`** — `curl ... | pandoc -f html -t markdown` eller `-t plain`. Allerede i prosjektet. Håndterer tabeller, lister, superscripts, lenker uten custom kode.
+  2. **`pup`** eller **`htmlq`** — CSS-selektor for å isolere paragrafblokken før pandoc.
+  3. **`lynx -dump`** eller **`w3m -dump`** — ferdig renderet plain text slik en bruker ville sett den.
+  4. **BeautifulSoup4** — hvis Python-objektrepresentasjon trengs for ettersjekk, men IKKE som primær parser.
+- **Verifiseringsstrategi:** Last ned en gang med curl, konverter med pandoc til markdown. Sammenlign med `diff` eller `cmp` mot eksisterende fil. Hvis diff: regenerer fra pandoc-outputen. Ingen custom tegn-for-tegn-sammenligningslogikk.
+- **FORBUDT:**
+  - WebFetch (allerede banned i CLAUDE.md og settings.deny — gjentas her: parafraserer lange paragrafer).
+  - Regex-basert HTML-parsing som eneste strategi. Enkel regex for å isolere en div-blokk før man pipeløser til et standard verktøy er greit; full tag-stripping og ledd-ekstraksjon via regex er ikke greit.
+  - Å "bygge en parser" fordi Lovdatas struktur virker spesialisert. Standard verktøy håndterer AVSNITT_N, listeItem-tabeller, superscripts osv. korrekt uten custom kode.
+- **Ved tvil om verktøyvalg: stopp og spør brukeren.** Ikke gå videre på "custom er sikrere"-reflex.
+
+**Historikk (hva som er forsøkt tidligere og hvorfor det ikke teller som løst):**
+
+- **Forsøk 1 (06.10.2026):** WebFetch-basert. Avdekket parafrasering av lange ledd (skatteloven § 14-43 (5) og (6), fvl §§ 11/17/24/25/51, m.fl.). Dokumentert i T157.
+- **Forsøk 2 (06.10.2026):** Custom regex-parser i `scripts/fetch_lovdata_paragraph.py` m.fl. Produserte 51 filer, men parserens edge-case-feilsamsvar mot verifiseringsverktøyet gjorde at det tok flere timer å overbevise om verbatim-korrekthet. Scripts fjernet 06.10.2026 (sent kveld) etter brukerklage på reinventing-of-the-wheel. Filene i `bakgrunn/lovverk/` som ble produsert av disse scriptene kan være korrekte eller ikke — må antas uverifiserte og re-verifiseres med standard verktøy før tasken regnes som løst.
+- **Pre-eksisterende filer:** Alle paragraf-filer i `bakgrunn/lovverk/` per oppstart av neste sesjon må behandles som uverifiserte. Enten (a) regenerer alle fra Lovdata via pandoc/pup/lynx, eller (b) verifiser hver fil ved å laste ned paragrafen på nytt og sammenligne med `diff`/`cmp`. Hvis diff: regenerer.
+
+**Sjekkpunkter (gjenstår uansett verktøyvalg):**
+
+| Leveranse | Status | Sjekk |
+|---|---|---|
+| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | § 6 → § 8 (brannforebygging); § 29-4 → § 29-5 (pbl); verbatim-sitater fra verifiserte paragraf-filer |
+| `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt | Ettersending via Min side med korrigeringsnotat om § 6 → § 8 (brannforebygging) |
+| `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`, `2026-09-04_ra_henvendelse_oppstart_dialog.md`, `2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` | Sendt | Kulturminneloven § 4 vs § 15 sitater må sammenlignes mot verifiserte paragraf-filer |
+| Bankpakka 07/09, `forretningsplan/forretningsplan.md` | Produsert | Skatteloven § 14-42 (3) om tilskudd — korrekt henvisning er § 14-42 (2) a; § 14-43 j = 10 % (fast teknisk installasjon) ikke lagt til grunn |
+
+#### Løst 06.10.2026 (forsøk 3 — curl + pup + html2text + diff)
+
+Verifisert alle 51 eksisterende paragraf-filer i `bakgrunn/lovverk/` mot ferskt-hentet Lovdata-tekst. **Resultat: 51/51 MATCH, 0 DIFF.** Ingen regenerering nødvendig; paragraf-filene fra T158 forsøk 2 (custom regex-parser) er faktisk verbatim-korrekte selv om prosessen for å produsere dem ble avbrutt midtveis.
+
+**Pipeline per paragraf** (lineær, uten custom HTML-parsing):
+
+```
+curl -sL -A "Mozilla/5.0" <lovdata-URL> -o tmp_lovdata/<lov>.html
+pup --charset utf-8 'div#PARAGRAF_<nr>' -f tmp_lovdata/<lov>.html
+  | PYTHONIOENCODING=utf-8 uv tool run html2text
+  > tmp_lovdata/<lov>_<nr>.md
+diff <normalisert_eksisterende> <normalisert_lovdata>
+```
+
+**Python-koden** (`scripts/t158_verify_lovverk.py`) gjør kun shell-orchestrering (`subprocess` for curl/pup/html2text) og tekst-normalisering på allerede-konvertert markdown. Ingen HTML-parsing i Python. Normalisering strippet bort: markdown-header, trailing «Del paragraf», endringshistorikk-rader, markdown-emphasis, pipe-separatorer fra html2text sin DL→tabell-rendering, zero-width spaces rundt `<sup>`-splittede superscripts, non-breaking spaces, space-før-punktum (artefakt fra link-stripping), numbered-list-escapes `1\.`→`1.`. Paragraf-interne linjebryt kollapses til space; blank linje = paragrafbrudd.
+
+**Verktøy-oppsett:**
+- `pup 0.4.0` fra chocolatey (installert tidligere i dagen)
+- `html2text 2025.4.15` installert med `uv tool install html2text`
+- `curl 8.18.0` (Git for Windows innebygd)
+
+**Edge cases håndtert:**
+
+- **Encoding:** `pup --charset utf-8` kreves — uten den double-encoder pup UTF-8 til Latin-1 på Windows (`Â§` istedenfor `§`). `html2text` krever `PYTHONIOENCODING=utf-8` for å ikke krasje på emojien 🔗 i Lovdatas trailing «Del paragraf»-lenke.
+- **Store lover (pbl, forvaltningsloven):** rot-URL `/lov/<id>` returnerer bare TOC uten paragrafer. Per-paragraf-URL (`/lov/<id>/§<nr>`) redirecter via curl til riktig kapittelside som inneholder paragrafen. Fetched per paragraf (~51 requests totalt).
+- **EMK art. 6:** T158-spec oppgav `https://lovdata.no/dokument/NL/lov/1999-05-21-30/VEDLEGG_2`, men den URL-en traff feilaktig menneskerettsloven selv (ikke vedlegget). Korrekt URL er `https://lovdata.no/dokument/NL/lov/1999-05-21-30/emkn/ARTIKKEL_6`. Egen pup-selektor krevdes (`div[id="emkn/ARTIKKEL_6"]`) fordi vedleggs-ankeret bruker `/`-skilletegn som er CSS-selektor-reservert. Eksisterende fil hadde allerede korrekt URL i metadata-header — kun selve verifiseringen trengte korreksjon.
+- **TEK17 § 12-7 «m² BRA»:** Lovdata bruker `<sup>2</sup>` som html2text rendrer som `m` + U+200B (zero-width space) + ` 2` + ` BRA`. Normalisering: strip U+200B med surrounding whitespace, konverter unicode superscripts til ASCII (`²`→`2`). Eksisterende filer bruker `m²` som også → `m2`.
+- **Skatteloven § 14-43:** komplett bokstavliste (a.–j.) + ledd (1)–(6) inkl. `(4) – – –` for opphevet ledd + endringshistorikk-fotnote nederst. html2text rendrer bokstavlisten som Markdown-tabell med `a. | tekst | ---|---`-separator — normaliseringen stripper tabellsyntaks ned til flat `a. tekst`-format som matcher eksisterende fil-format.
+
+**Negativ test av normaliseringen:** én kontrollert tampering (brann-eksplosjonsvernloven § 39: endret "kommunen" → "SKATTEETATEN" i en setning) ble korrekt detektert som DIFF. Normaliseringen masker format-forskjeller, ikke verbatim-innhold.
+
+**Leveranser:**
+
+- `bakgrunn/lovverk/T158_diff_rapport.md` — hovedleveransen; metodikk, oversikt (51/51 MATCH), per-fil-resultat med Lovdata-URL per fil.
+- `scripts/t158_verify_lovverk.py` — idempotent script. Kan kjøres på nytt (`uv run python scripts/t158_verify_lovverk.py`) før nye leveranser som siterer lovparagrafer — det tar ~1 min å verifisere alle 51 filer.
+
+**Konsekvens for T147-sporet (korreksjon av affiserte leveranser):**
+
+Siden ingen paragraf-fil hadde reelt verbatim-avvik, trenger ingen av de affiserte leveransene korreksjon basert på T158-funn. De tidligere identifiserte avvikene (feil § 6 vs. § 8 i forskrift-brannforebygging-sitater, § 29-4 vs. § 29-5 i pbl, kulturminneloven § 4 vs. § 15) var feil i selve leveransene — ikke i paragraf-filene. T157/T147-sporet (korreksjon av leveranser) kjører videre uavhengig; T158 ga paragraf-filene autoritativ status som kildegrunnlag framover.
+
+**Berørte filer (opprettet / endret):**
+
+- `bakgrunn/lovverk/T158_diff_rapport.md` (ny)
+- `scripts/t158_verify_lovverk.py` (ny)
+- `tmp_lovdata/` (midlertidig arbeidskatalog — slettes ved ferdigstilling)
+
+**Opprydding:** `tmp_lovdata/`-mappen er slettet etter at verifikasjonen er ferdig. Scriptet gjenoppretter mappen og caching ved neste kjøring.
+
+---
+
+### T159 `[x]` Gjennomgå lovsitater i leveranse-mapper mot verifiserte paragraf-filer
+
+**Bakgrunn:** T158 ga `bakgrunn/lovverk/`-paragraf-filene autoritativ status (51/51 verbatim-match mot Lovdata). Men ingen bred gjennomgang av *leveransene* som siterer disse paragrafene er gjort — T157s «affiserte leveranser»-tabell dekker bare TBRT-sporet. Denne tasken sikrer at alle leveranser med §-sitater er sjekket mot de verifiserte paragraf-filene før de brukes videre eller sendes ut.
+
+**Scope:** 19 filer i `leveranser/` + 4 filer i `forretningsplan/` har §-sitater. `leveranser/brann/`, `stotte/` og `referat/` har ingen §-sitater og trenger ikke verifisering. Bank-pakka (`bank/*.docx`, `bank/*.pdf`) genereres fra kildene i `leveranser/` og `forretningsplan/` via pandoc — kildene er leveransen, dokx/pdf er derivater og regenereres hvis kildene endres.
+
+**Metodikk per leveranse:**
+
+1. Finn alle `§`-forekomster i fila.
+2. For hvert sitat: identifiser lov + paragrafnummer + eventuelle ordrette sitater.
+3. Slå opp korresponderende paragraf-fil i `bakgrunn/lovverk/` (eller `forretningsplan/lover/` for mval-paragrafer som ikke er i `bakgrunn/lovverk/`).
+4. Sammenlign:
+   - Paragrafreferansen stemmer (riktig § og lov)
+   - Ordrette sitater matcher verbatim-teksten
+   - Tolkning og bruk av paragrafen er forsvarlig (semantisk sjekk, ikke bare verbatim)
+5. Logg funn: OK | DIFF (sitat ikke verbatim) | FEIL REF (feil §-nummer) | TOLKNING (sitatet er korrekt men brukt feil). Dokumenter konkret hva som må korrigeres.
+6. Fiks utkast og produsert materiale direkte. For sendt materiale: lag korrigeringsnotat / ettersending.
+
+**Delleveranse 1 `[ ]` — Juridisk/forvaltnings-sporet (høyest prioritet)**
+
+Mottakere: forvaltningsorganer der feil hjemmel kan ødelegge hjemmelsgrunnlaget.
+
+| Leveranse | Status | Hastegrad |
+|---|---|---|
+| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast — holdes før utsending | HØY — fiksen må inn før utsending |
+| `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt 06.10.2026 | HØY — ettersending via Min side ved funn |
+| `leveranser/brann/2026-10-06_sivilombudet_klage/webskjema_del2_klagen.md` | Sendt (del av Sivilombudet-klagen) | HØY — del av samme pakke |
+| `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` | Sendt, avvist 25.08.2026 | LAV — arkiv-dokument, kun arkivfiks |
+| `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` | Sendt 04.09.2026 | MIDDELS — kulml. §§ 3, 4, 8, 15 |
+| `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` | Sendt | MIDDELS — kulml. §§ |
+| `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` | Sendt (opphengt) | MIDDELS — kulml. § 8 andre ledd meldeplikt |
+| `leveranser/2026-10-02_svar_om_bya_befaring.md` | Sendt | LAV |
+| `leveranser/brann/2026-09-04_teamoppdatering_tbrt_status.md` | Sendt | LAV |
+
+Særlig fokus: forskrift om brannforebygging § 6 vs. § 8 (dokumentert feil i T157), pbl § 29-4 vs. § 29-5, kulturminneloven § 4 vs. § 15, fvl §§ 17/24/25-sitater, sivilombudet 2010-uttalelsen (nøkkelsitat verbatim mot sivilombudet.no).
+
+**Delleveranse 2 `[ ]` — Bank-/forretningsplan-sporet**
+
+Mottaker: DNB m.fl. (bankpakke under ferdigstilling). Lavere risiko fordi dokumentasjonen ikke bygger juridisk hjemmelsgrunnlag — men feil skatterefererer kan undergrave troverdigheten.
+
+| Leveranse | Status | Særlig fokus |
+|---|---|---|
+| `forretningsplan/forretningsplan.md` | Produsert | skatteloven § 14-42, § 14-43 j |
+| `forretningsplan/mva_strategi.md` | Produsert | mval §§ 2-3, 3-1, 3-11, 8-6, 9-2 |
+| `forretningsplan/fg30_selskapsstruktur_mva.md` | Produsert | mval-paragrafer, selskapsrett |
+| `forretningsplan/kilde_mva_regelverk.md` | Produsert | 43 §-sitater — høyest tetthet |
+| `leveranser/2026-06-26_tilskudd_som_egenkapital.md` | Produsert (bankpakke 06) | 28 §-sitater — tilskudd/EK-regelverk |
+| `leveranser/2026-06-26_groent_laan.md` | Produsert (bankpakke 07) | — |
+| `leveranser/2026-06-26_stoetteoversikt.md` | Produsert (bankpakke 05) | — |
+| `leveranser/2026-06-28_bankhenvendelse.md` | Produsert (bankpakke 00) | — |
+| `leveranser/2026-06-28_finansieringsplan.md` | Produsert (bankpakke 02) | — |
+
+Særlig: skatteloven § 14-42 (3) om tilskudd ↔ korrekt henvisning er § 14-42 (2) a; § 14-43 j (fast teknisk installasjon = 10 %) er ikke lagt til grunn. Bank-docx/pdf regenereres med pandoc etter at kildene er oppdatert.
+
+**Delleveranse 3 `[ ]` — Arbeidsavtaler og diverse**
+
+Lavest hastegrad. aml.-sitater er ikke verifisert av T158 (arbeidsmiljøloven var ikke i scope). Må verifiseres mot Lovdata ved samme metodikk.
+
+| Leveranse | Status | Særlig fokus |
+|---|---|---|
+| `leveranser/2026-08-14_arbeidsavtale_ain_hansumae.md` | Signert | aml. §§ 10-6, 10-9, 14-6, 14-9, ferieloven § 10 |
+| `leveranser/2026-09-17_arbeidsavtale_marko_kiivet.md` | Signert | samme |
+| `leveranser/2026-09-02_bestridelse_intrum_hrp.md` | Sendt | finansavtaleloven, inkassoloven |
+| `leveranser/2026-08-05_driftsbeskrivelse_fjordgata30.md` | Sendt Skatteetaten | mval-paragrafer (sjekkes mot `forretningsplan/lover/`) |
+| `leveranser/2026-08-25_fg30_utbetalingsanmodning_vedlegg.md` | Sendt KMF/BYA | — |
+| `leveranser/2026-06-29_fg30_tilbakemelding_hrp_energirapport.md` | Sendt HRP | — |
+
+Hvis aml.-paragrafer siteres ordrett i avtalene, må de hentes verbatim fra Lovdata og legges i `bakgrunn/lovverk/` som egne paragraf-filer — jf. CLAUDE.md-regel «Lovparagrafer siteres mot verbatim ned-lastet kilde».
+
+**Avhengighet:** T160 må være løst først — bank-/forretningsplan-sporet bruker mval-paragrafer fra `forretningsplan/lover/` som ikke er dekket av T158.
+
+**Berørte filer:**
+
+- Alle leveransene listet over
+- Egen rapport-fil pr. delleveranse (f.eks. `leveranser/T159_delleveranse_1_juridisk_sporet.md`) eller én samlerapport
+- Korrigeringsnotater / ettersendinger for sendt materiale
+- Kobling: T147 (TBRT-sporet, overlapper med delleveranse 1), T157 (opprinnelig audit), T158 (verifiserte paragraf-filer), T160 (mval-paragrafer i forretningsplan/lover/)
+
+**Estimat:** Hver delleveranse 2–4 timer avhengig av antall funn og om sendt materiale må korrigeres.
+
+#### Løst 07.10.2026
+
+Gjennomgang av alle 23 leveranser med §-sitater. 7 reelle feil i §-attribusjoner avdekket, totalt ~30 forekomster. **Hovedleveranse:** `leveranser/T159_lovsitater_rapport.md` med funn, aksjoner og peker til alle oppdaterte filer.
+
+**Hovedfunn:**
+
+| Feil | Omfang | Status |
+|---|---|---|
+| Skatteloven § 14-42 (3) → **§ 14-42 (2) a** (tilskuddsbestemmelsen ligger i annet ledd bokstav a, ikke tredje ledd som gjelder kombinerte bygg) | 14 forekomster i 3 bankpakke-leveranser | Alle rettet direkte |
+| Forskrift om brannforebygging **§ 6 → § 8** (§ 6 handler om fyringsanlegg, § 8 om oppgradering og kompenserende tiltak) | ~15 forekomster i 5 leveranser | 1 utkast rettet direkte, 3 sendte flagget med MERK + korrigeringsnotat sendt via Sivilombudets Min side, 1 avvist klage flagget |
+| Forskrift om brannforebygging §§ 4/5/9-mapping forvekslet (§ 4 = kunnskap, § 5 = kontroll/vedlikehold, § 9 = systematisk sikkerhetsarbeid) | 3 forekomster i DSB-utkast | Rettet |
+| Finansavtaleloven **§ 1-5 → § 1-1** (§ 1-5 er definisjoner, § 1-1 er virkeområde) | 2 forekomster | Rettet |
+| Finansavtaleloven **§ 3-1 → § 5-2** (§ 3-1 er tjenesteyterens alminnelige plikter, § 5-2 er kredittvurdering) | 1 forekomst | Rettet |
+| Fvl. § 51 **«fjerde ledd» → femte ledd** om særskilt klagerett | 2 forekomster i avvist klage | Flagget i MERK, dokumentert i korrigeringsnotat til Sivilombudet |
+
+**Delleveranse 1 (juridisk/forvaltnings-sporet) — 9 filer:**
+
+- DSB-utkast `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` rettet før utsending. Verbatim § 8-tekst satt inn.
+- Sivilombudet-brev `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt) og webskjema del 2: MERK-header lagt til i kildefilene, selve brev-/skjema-teksten uendret («bevart som sendt»).
+- **Nytt korrigeringsnotat:** `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md` — forklarer feilen og at innholdet er materielt uendret. Må lastes opp via Sivilombudets Min side.
+- TBRT-klage 06.17 (sendt, avvist): MERK-header som arkivdokument-flagg.
+- Teamoppdatering TBRT (sendt): MERK-header.
+- RA-henvendelse, BYA-epost kjeller, arbeidsinstruks kjeller, svar om BYA-befaring: paragrafhenvisninger (kulturminneloven §§ 3, 4, 8, 10, 14, 15) alle **korrekt attribuert**, ingen fiks nødvendig.
+
+**Delleveranse 2 (bank-/forretningsplan-sporet) — 9 filer:**
+
+- 3 bankpakke-kilder (`tilskudd_som_egenkapital`, `stoetteoversikt`, `finansieringsplan`) rettet direkte for § 14-42-feilen. Verbatim § 14-42 (2) a-sitat satt inn der sitatet var parafrasert.
+- Tilskudd-som-egenkapital også rettet for finansavtaleloven-feilene (§ 1-5 → § 1-1 og § 3-1 → § 5-2).
+- Forretningsplan-filene (`forretningsplan.md`, `mva_strategi.md`, `fg30_selskapsstruktur_mva.md`, `kilde_mva_regelverk.md`) bruker paragrafhenvisninger som er **materielt korrekte** etter T160-regenereringen av `forretningsplan/lover/`-filene. Ingen verbatim-sitater i blockquote.
+- **Bank-docx-filene** (`bank/00_bankhenvendelse.docx` m.fl.) må regenereres via pandoc før neste utsending — bestilles av bruker ved behov (jf. CLAUDE.md-regel).
+
+**Delleveranse 3 (arbeidsavtaler + diverse) — 6 filer:**
+
+- Arbeidsmiljøloven og ferielov-paragrafer stikkprøvet mot Lovdata — alle korrekt attribuert: aml. § 6-1 (verneombud), § 10-6 (overtid), § 10-9 (pauser), § 14-6 (minimumskrav til arbeidsavtale), § 14-9 (fast og midlertidig ansettelse), ferieloven § 10 (beregning av feriepenger).
+- Ingen fiks nødvendig i arbeidsavtalene, bestridelse-brevet eller Skatteetaten-driftsbeskrivelsen.
+- Utbetalingsanmodnings-vedlegget bruker interne «§»-referanser (dokument-seksjoner), ikke lovsitater.
+
+**Ikke uttømmende verifisert (lav risiko, flagget for senere runder):**
+
+- Skatteloven §§ 11-4, 11-7, 13-1, 13-2 (fisjon og armlengdes) — stikkprøve bekrefter paragraftitler
+- Energimerkeforskriften §§ 5, 10, 10b (forskrift, ikke på T158-listen)
+- Inkassoloven §§ 8, 9, 10, 17 og forsinkelsesrenteloven § 2
+- Aksjeloven § 14-7 (kreditorvarsel ved fisjon)
+- Mval. § 6-14 (virksomhetsoverdragelse)
+- SKD-prinsipputtalelse 2014 og SKNS1-2020-134 — flagget i T160-rapporten som ikke-lov-dokumenter
+
+Dette er ikke identifiserte feil, men manglende uttømmende verifikasjon. Lav risiko fordi de brukes uten verbatim-sitering. Kan tas opp separat ved neste bruk eller behov for verbatim-sitering.
+
+**Berørte filer:**
+
+- `leveranser/T159_lovsitater_rapport.md` (ny — hovedrapport)
+- `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md` (ny)
+- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (rettet, ikke sendt)
+- `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (rettet)
+- `leveranser/2026-06-26_stoetteoversikt.md` (rettet)
+- `leveranser/2026-06-28_finansieringsplan.md` (rettet)
+- `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (MERK-header)
+- `leveranser/brann/2026-10-06_sivilombudet_klage/webskjema_del2_klagen.md` (MERK-header)
+- `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` (MERK-header)
+- `leveranser/brann/2026-09-04_teamoppdatering_tbrt_status.md` (MERK-header)
+
+**Neste skritt (utenfor T159):**
+
+- Bruker laster opp korrigeringsnotatet til Sivilombudet via Min side
+- Bruker vurderer om DSB-utkastet skal sendes (nå materielt korrekt)
+- Ved bank-utsending: regenerer docx med pandoc fra oppdaterte kilder
+
+---
+
+### T160 `[x]` Verifiser lovfiler i `forretningsplan/lover/` mot Lovdata
+
+**Bakgrunn:** T158 verifiserte 51 paragraf-filer i `bakgrunn/lovverk/` mot Lovdata (51/51 MATCH). Men det finnes en parallell samling i `forretningsplan/lover/` med 8 mval-paragraf-filer + 2 ikke-lov-dokumenter som ikke ble verifisert i T158. Disse brukes som kildegrunnlag for MVA-strategien (`forretningsplan/mva_strategi.md`, `fg30_selskapsstruktur_mva.md`, `kilde_mva_regelverk.md`) og dermed bankpakka. Må antas uverifiserte inntil denne tasken er løst.
+
+**Innhold i `forretningsplan/lover/`:**
+
+Paragraf-filer å verifisere mot Lovdata (lov 2009-06-19-58, merverdiavgiftsloven):
+
+| Fil | Paragraf | Overlapp med `bakgrunn/lovverk/`? |
+|---|---|---|
+| `mval_2-1_registreringsplikt.md` | § 2-1 | Nei — ny |
+| `mval_2-3_frivillig_registrering.md` | § 2-3 | Ja — men forretningsplan-versjon har annet format (bold ledd-markers) og eldre hentedato (23.06.2026) |
+| `mval_3-11_fast_eiendom.md` | § 3-11 | Ja (samme som over) |
+| `mval_8-1_fradragsrett.md` | § 8-1 | Nei — ny |
+| `mval_8-2_forholdsvis_fradrag.md` | § 8-2 | Nei — ny |
+| `mval_8-6_tilbakegaende_avgiftsoppgjor.md` | § 8-6 | Ja (samme som over) |
+| `mval_9-1_kapitalvarer.md` | § 9-1 | Nei — ny |
+| `mval_9-4_justeringsperiode.md` | § 9-4 | Nei — ny |
+
+Ikke-lov-dokumenter (verifiseres mot primærkilde ved tvil, ikke mot Lovdata):
+
+- `prinsipputtalelse_2014_minilager.md` — SKD-prinsipputtalelse 18.11.2014 (må verifiseres mot skatteetaten.no eller original PDF)
+- `prinsipputtalelse_2014_minilager_tekst.txt` — råtekst, antakelig kilde for forrige
+- `skatteklagenemnda_datasenter_2020.md` — SKNS1-2020-134 (verifiseres mot skatteetaten.no eller Rettsdata)
+
+**Metodikk (samme som T158):**
+
+Utvid `scripts/t158_verify_lovverk.py` med en `--target-dir`-parameter (eller lag en ny SPEC-oppføring som peker på `forretningsplan/lover/`-filene) og kjør samme pipeline:
+
+```
+curl -sL -A "Mozilla/5.0" <lovdata-URL> | pup --charset utf-8 'div#PARAGRAF_<nr>' | html2text
+```
+
+Normaliser begge sider, diff. For hver fil: MATCH eller DIFF. Ved DIFF: regenerer fila eller korriger metadata.
+
+**Edge case:** forretningsplan-versjonene har eldre format med `**(1)**` bold ledd-markers og `a)` med lukkende parentes. Normaliseringen i T158-scriptet strippet markdown-emphasis og bør håndtere dette, men bokstavpunkter `a)` vs. `a.` kan trenge egen regel. Hvis match-raten blir lavere enn T158: analyser én DIFF i detalj før alle regenereres.
+
+**Beslutning å ta:** overlappende mval-filer (2-3, 3-11, 8-6) finnes i to kataloger. Alternativer:
+- (a) Behold begge, forretningsplan-versjonen med sitt format for pandoc-rendering, bakgrunn-versjonen som arkivert kilde.
+- (b) Konsolidér — slett forretningsplan/lover/-dubletter og pek til `../bakgrunn/lovverk/`.
+- (c) Konsolidér andre vei — hvis forretningsplan-formatet er bedre for pandoc, slett bakgrunn-dublettene (men da bryter vi T158s autoritet).
+
+Default: (a) — ingen risiko hvis begge er verifisert verbatim mot samme kilde. Flagg i løsningsnotatet.
+
+**Leveranse:** `forretningsplan/lover/T160_diff_rapport.md` med samme struktur som T158-rapporten (Metode, Oversikt, Per-fil-resultat). Regenererte filer ved reelt avvik.
+
+**Berørte filer:**
+
+- Alle 8 mval-paragraf-filer i `forretningsplan/lover/`
+- `scripts/t158_verify_lovverk.py` utvides eller gjenbrukes
+- Ny rapport-fil `forretningsplan/lover/T160_diff_rapport.md`
+- Ikke-lov-dokumenter (`prinsipputtalelse_2014_minilager.md`, `skatteklagenemnda_datasenter_2020.md`) flagges for manuell verifikasjon mot primærkilde — ikke løst i denne tasken.
+
+**Kobling:** T158 (metodikk + verifiseringsscript), T159 (bank-/forretningsplan-sporet bruker disse paragrafene).
+
+**Estimat:** 30–45 min (scriptet er allerede skrevet, bare utvide SPEC og kjøre).
+
+#### Løst 06.10.2026
+
+Pipeline gjenbrukt fra T158 (curl + pup + html2text + diff) via nytt script `scripts/t160_verify_forretningsplan_lover.py` som importerer shared normalize/pup_extract/html2md fra `scripts/t158_verify_lovverk.py` og legger til en regel for `a)` → `a.`.
+
+**Resultat ved første gjennomkjøring:** 3 MATCH / 5 DIFF. **Etter regenerering: 8/8 MATCH.**
+
+**Alvorlighet av funnene:** 4 av 5 DIFF-filer var substansielt feil, ikke bare format-forskjell:
+
+| Fil | Avvikstype | Hovedfunn |
+|---|---|---|
+| `mval_8-1_fradragsrett.md` | **Oppdiktet** | 3 fiktive ledd. Lovdata § 8-1 er én ett-setnings-paragraf uten ledd. |
+| `mval_8-2_forholdsvis_fradrag.md` | **Forkortet** | 1 setning istedenfor 5 ledd. 5-%-reglene manglet. |
+| `mval_8-6_tilbakegaende_avgiftsoppgjor.md` | Formatfeil | Ledd (1) splittet i 5 paragrafer; verbatim-innhold korrekt. |
+| `mval_9-1_kapitalvarer.md` | **Parafrasert** | Ledd (1) forenklet, 31.12.2007-grense manglet, bokstav a manglet § 6-7-unntak. |
+| `mval_9-4_justeringsperiode.md` | **Parafrasert + mangler ledd** | Ledd (1) feil formulert, ledd (3) om re-innrulling manglet helt. |
+
+Samme problem som T157 fant i hele-loven-filene — forretningsplan/lover/-samlingen fra 23.06.2026 var ikke lastet ned verbatim fra Lovdata, men parafrasert/gjengitt fra hukommelsen/Merverdiavgiftshåndboken. 5 filer regenerert verbatim fra Lovdata via pipeline; «Relevans for FG30»-seksjonene i hver fil bevart.
+
+**Normaliseringen fra T158 ble patchet** underveis — gjelder også T158 (re-verifisert MATCH 51/51 etter patch):
+
+1. `RE_ENDRINGSHIST` er nå case-insensitive og tolererer innhold mellom pipe-skille og endringshistorikk-verbet (`0 | Tredje ledd er opphevet...`-fotnote fra Lovdata).
+2. `RE_SPACE_BEFORE_PUNCT` endret `[ \t]+` → `\s+` (fanger `§ 3-26\n.` når html2text wrapper rett før en setningsslutt).
+
+**Konsekvens for T159 delleveranse 2 (bank-/forretningsplan-sporet):** Alle sitater av §§ 8-1, 8-2, 8-6, 9-1, 9-4 i MVA-strategien og forretningsplanen må sjekkes mot de regenererte filene. Dokumentasjon av berørte sitater legges i T160-rapporten.
+
+**Beslutning om overlappende filer** (mval 2-3, 3-11, 8-6 finnes i både `bakgrunn/lovverk/` og `forretningsplan/lover/`): behold begge. Forretningsplan-versjonen inneholder prosjektspesifikk «Relevans for FG30»-drøfting og brukes direkte i pandoc-renderingen av bankpakka. Bakgrunn-versjonen er ren paragraf-samling for sitering i andre leveranser.
+
+**Ikke-lov-dokumenter** (`prinsipputtalelse_2014_minilager.md`, `skatteklagenemnda_datasenter_2020.md`) er ikke paragraf-filer og ikke verifisert i T160 — flagges for manuell verifisering mot primærkilde ved neste bruk.
+
+**Berørte filer (opprettet / endret):**
+
+- `forretningsplan/lover/T160_diff_rapport.md` (ny leveranse — hovedrapport)
+- `scripts/t160_verify_forretningsplan_lover.py` (nytt script)
+- `scripts/t158_verify_lovverk.py` (to patch-er i normaliseringen)
+- `forretningsplan/lover/mval_8-1_fradragsrett.md` (regenerert)
+- `forretningsplan/lover/mval_8-2_forholdsvis_fradrag.md` (regenerert)
+- `forretningsplan/lover/mval_8-6_tilbakegaende_avgiftsoppgjor.md` (regenerert — strukturfiks)
+- `forretningsplan/lover/mval_9-1_kapitalvarer.md` (regenerert)
+- `forretningsplan/lover/mval_9-4_justeringsperiode.md` (regenerert)
+
+**Opprydding:** `tmp_lovdata/`-mappen slettes etter at T159 er løst (gjenbrukes der).
+
+---
+
+### T161 `[ ]` Konkursvarsel fra Intrum/TBRT — håndtering før 14-dagersfrist
+
+**Status 06.10.2026:** Postkassen i Fjordgata 30 ble sjekket i dag og brev lest. Nye funn gjør T147 delleveranse 4 (betalingsutsettelse) aktuell igjen, og endrer forståelsen av Namsfogden-SMS-en.
+
+#### Faktagrunnlag
+
+Følgende dokumenter kom i posten og er transkribert til `bakgrunn/brann/`:
+
+- **TBRTs purring 29.09.2026** (`bakgrunn/brann/2026-09-29_tbrt_purring.md`): kundenr 304462, faktura 1000270 (bilagsdato 03.06.2026 — altså 3. innkreving), beløp 94 000 kr + 35 kr purregebyr = 94 035 kr, ny forfallsdato 13.10.2026.
+- **Intrum konkursvarsel 30.09.2026** (`bakgrunn/brann/2026-09-30_intrum_konkursvarsel_tbrt.md`): saksnr 45221136, kred.ref 304462 (TBRT). Saldo 103 452,03 kr inkl. renter og inkassosalær og sakskostnad 672 kr. Konkursvarsel sendt for forkynnelse til Hovedstevnevitnet i Trondheim.
+- **Namsfogden-SMS 06.10.2026** (sak S2026-026646, kjent fra T147): sannsynligvis varsel om forkynnelse av Intrums konkursvarsel, ikke utlegg som T147 opprinnelig antok. Tidslinjen (sendt 30.09 til Hovedstevnevitnet → SMS 06.10) passer.
+
+#### Oppklaring av beløpsforhold
+
+Fra T147 fremgikk at «hele 184 000 kr er overlatt namsmannen» — dette ser nå ut til å være feil. Status per 06.10.2026 bekreftet av brukeren:
+
+- **Ingenting av 184 000 kr er betalt.**
+- Intrums konkursvarsel gjelder **bare 3. innkreving** (94 000 kr opprinnelig, 103 452 kr med påslag).
+- 1. og 2. innkreving (36 000 + 54 000 = 90 000 kr) løper trolig parallelt — enten hos TBRT direkte eller i andre inkassosaker. Må avklares ved å ringe Intrum 23 21 10 00 og TBRT.
+
+#### Juridisk oppklaring (fra samtalen 06.10.2026)
+
+- **Å motta forkynnelse av konkursvarsel er ikke erkjennelse av kravet.** Vanlig juridisk misforståelse. Forkynnelse er en teknisk-formell handling; materiell bestridelse står åpen uansett.
+- **Konkursvarsel vs. utlegg:** konkursvarsel starter konkursbegjæringsprosessen (konkursloven § 63). 14-dagers frist fra forkynnelse. Hvis ikke betalt kan Intrum begjære konkurs. Utlegg er beslag i konkrete eiendeler for å dekke kravet — mindre dramatisk.
+- **Betaling under protest:** etablert konstruksjon. Betal for å unngå akutt skade (konkursbegjæring), erklær skriftlig at betalingen skjer under protest og at retten til tilbakebetalingskrav forbeholdes (grunnlag: DSBs eventuelle frafall + Sivilombudets uttalelse).
+
+#### Fire veier framover
+
+1. **Betaling under protest** — 103 452 kr til Intrum med skriftlig forbehold. Krever likviditet. Brukerens status: begrenset betalingsevne.
+2. **Anmodning om betalingsutsettelse** — jf. T147 delleveranse 4 (gjenåpnes). Sendes til Intrum og/eller TBRT. Realistisk utsettelse 1-3 måneder, kan være lengre med TBRT-instruks.
+3. **Bestridelse av konkursvarselet** — krever advokat med konkursrettskompetanse. Argumentasjon: hovedkravet er under administrativ overprøving (Sivilombudet + kommende DSB), selskapet er solvent (eiendomsverdi + bekreftede tilskudd 2,25 MNOK), kravet kan derfor ikke danne grunnlag for konkursåpning.
+4. **Forsvar mot eventuell konkursbegjæring** — hvis Intrum fremmer begjæringen. Rettens vurdering baseres på solvens (ikke bare kravets realitet). Fjordgata 30 som pantsatt eiendom + støttepakke + bank-pakke under etablering = selskapet er illikvid men ikke insolvent.
+
+#### Konkret rekkefølge (foreslått)
+
+**I dag/i morgen (før 12.10):**
+
+1. **Ring Namsfogden 73 87 68 00.** Spør om innhold i sak S2026-026646, be om e-post-forkynnelse. Dette er informasjonssøking — ingen erkjennelse. Avgjør fristen for konkursvarselet.
+2. **Ring Intrum 23 21 10 00** oppgi saksnr 45221136. Få full oversikt over inkassosaker — er 1. og 2. innkreving separate saker, og hva er status på dem?
+
+**Innen 2-3 dager:**
+
+3. **Beslutning om strategisk vei** (1-4 over). Beslutningen er juridisk — rask advokat-oppslag anbefales (T147 noterte at saken drives uten ekstern spesialist av kostnadshensyn, men konkursvarsel er terskel der advokat vanligvis betaler seg).
+4. **Sende anmodning om betalingsutsettelse** (uansett strategi — gir tid). Eget brev, ikke i statusbrev.
+5. **Sende TBRT-statusbrev** (T147 delleveranse 3) med saklig notis om konkursvarsel-situasjon. Statusbrev og anmodning om betalingsutsettelse er separate dokumenter, men kan sendes samme dag.
+
+**Parallelt:**
+
+6. **Oppdatere DSB-utkast** med konkret informasjon fra konkursvarselet (styrker akuttargumentet markant). Punkt 7 «Tvangsinndriving pågår» utvides.
+7. **Verifisere beløpsinkonsistens** mot selskapets bokføring (er 1. og 2. innkreving betalt eller løper de parallelt?).
+
+#### Spørsmål brukeren må besvare
+
+- Har selskapet overhodet likviditet til betaling under protest (103 452 kr)?
+- Er advokat med konkursrettskompetanse engasjert eller skal engasjeres?
+- Hvis Intrum-samtalen bekrefter at 1. og 2. innkreving løper separat: hvor mye vil Intrum totalt kreve inn på TBRT-fordringene (184 000 kr opprinnelig + salær + renter kan være ~200-230 000 kr)?
+
+#### Berørte filer
+
+- `bakgrunn/brann/2026-09-29_tbrt_purring.md` (ny)
+- `bakgrunn/brann/2026-09-30_intrum_konkursvarsel_tbrt.md` (ny)
+- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (må oppdateres med konkret konkursvarsel-info)
+- Nye leveranser som skal lages:
+  - `leveranser/YYYY-MM-DD_tbrt_statusbrev_oktober.md` (T147 delleveranse 3)
+  - `leveranser/YYYY-MM-DD_intrum_betalingsutsettelse.md` eller `leveranser/YYYY-MM-DD_tbrt_betalingsutsettelse.md` (T147 delleveranse 4 — gjenåpnet)
+  - Eventuelt: `leveranser/YYYY-MM-DD_intrum_bestridelse_konkursvarsel.md` hvis Vei 3
+
+#### Kobling
+
+- T147 (TBRT-sporet, delleveranse 3 og 4)
+- DSB-utkast (ikke-sendt) som må oppdateres
+- Avventer DSB-innsyn på 2016/566, 2017/1525, 2013/8073, 2020/9148, 2024/8295 (bestilt 06.10.2026, 1-3 virkedagers behandlingstid)
+
+#### Estimat
+
+Avhenger av strategisk valg. Vei 1 (betaling under protest): 2-3 timer brev + overføring. Vei 2 (betalingsutsettelse): 2-4 timer brev. Vei 3 (bestridelse): krever advokat, 10-30 timer juridisk arbeid. Vei 4 (forsvar mot konkursbegjæring): omfattende rettsarbeid, hvis det kommer til det.
+
+#### Særlig å flagge
+
+T147 strøk delleveranse 4 (betalingsutsettelse) 06.10.2026 med begrunnelsen «lav sannsynlighet etter Namsfogden-eskalering». Denne vurderingen gjelder ikke lenger når det nå er klart at (a) Namsfogden-saken ikke er utlegg men konkursvarsel, (b) TBRT og Intrum har flere parallelle saker, (c) selskapet har begrenset betalingsevne. Betalingsutsettelse må revurderes som aktiv anmodning.
+
+---
+
+### T162 `[ ]` Anmodning om betalingsutsettelse til TBRT (direkte, ikke Intrum)
+
+**Prioritet:** Høy. Brukeren har valgt å sende anmodning direkte til TBRT som fordringshaver, ikke til Intrum som inkassomottaker. Begrunnelse: TBRT er den som satte bero på løpende mulkt 25.06.2026 og har myndighet som fordringshaver til å instruere Intrum om å stanse inndriving. Direkte henvendelse til fordringshaver er også vanligere forvaltningspraksis når det er en offentlig instans involvert.
+
+**Mottaker:** postmottak@tbrt.no, referer sak 24/1007. Kopi: Morten Knutsen (saksansvarlig).
+
+**Formål:** Få TBRT til å instruere Intrum om å stanse inndriving av 103 452,03 kr (3. innkreving + salær + renter), eventuelt også eventuelle parallelle inkassosaker på 1. og 2. innkreving, inntil Sivilombudet og DSB har uttalt seg.
+
+**Innhold** (basert på T147 avsnitt H, tilpasset direkte TBRT-henvendelse):
+
+1. **Det vi ber om:** at TBRT som fordringshaver instruerer Intrum om å stanse inndrivingstiltakene i sak 45221136 inntil (a) Sivilombudet har gitt sin uttalelse i sak sendt 06.10.2026, og (b) DSB har behandlet søknad om frafall etter brann- og eksplosjonsvernloven § 39. Alternativt: utsatt inndriving i 90-120 dager.
+2. **Argumenter:**
+   - TBRT har selv i brev av 25.06.2026 (sak 24/1007-63) satt løpende tvangsmulkt i bero med henvisning til «realisme i omsøkt byggeprosjekt». Grunnlaget står ved lag.
+   - TBRT ga utsatt iverksetting av vedtaket om tvangsmulkt 26.06.2026 (sak 24/1007-62). Konsistent med dette bør også inndriving av påløpt mulkt avventes.
+   - TBRT opplyser selv at bare DSB kan frafalle påløpt mulkt. Vi følger denne anvisningen — søknad er under utarbeidelse, basert på innhentede innsyn i tilsvarende saker.
+   - Inndriving nå vil ramme prosjektøkonomien i det prosjektet som skal gjennomføre brannsikringen pålegget tar sikte på — motvirker TBRTs eget formål.
+   - Konkursbegjæring (Intrums neste skritt) vil destruere realismen bero-beslutningen hviler på — strider mot TBRTs egen vurdering.
+   - Ingen risiko for TBRT: kravet foreldes ikke, selskapet bestrider ikke at beløpet er registrert påløpt, pågående rettslig overprøving er dokumentert.
+3. **Konkret ønske om instruks til Intrum:** be TBRT om å bekrefte skriftlig til Intrum at inndriving stanses, med kopi til Kodeworks Eiendom AS.
+4. **Omfang:** be om bekreftelse på at utsettelsen også gjelder eventuelle parallelle inkassosaker hos Intrum eller andre på 1. og 2. innkreving (36 000 + 54 000 kr) — se T161 om beløpsinkonsistens som må avklares.
+5. **Fallback:** hvis TBRT avviser, forberedt å betale under protest med skriftlig forbehold om tilbakebetalingskrav basert på DSBs eventuelle frafall.
+
+**Timing:** Sendes innen 10.10.2026 (fredag). Må være sendt i god tid før 14-dagersfristen i Intrums konkursvarsel går ut (nøyaktig frist avklares via Namsfogden/Intrum, jf. T161).
+
+**Format:** Markdown, 2-3 sider A4, pandoc-konvertering til PDF ved sending. E-post + brev.
+
+**Berørte filer:**
+- Ny leveranse: `leveranser/YYYY-MM-DD_tbrt_anmodning_betalingsutsettelse.md`
+- PDF-versjon via pandoc + xelatex
+
+**Kobling:**
+- T147 delleveranse 4 (opprinnelig plan — strøket, nå gjenåpnet via T161)
+- T161 (konkursvarsel-vurdering og veier framover)
+- T163 (statusbrev til TBRT som sendes separat samme dag)
+- T164 (vurdere parallell anmodning til Intrum)
+
+**Estimat:** 2-3 timer utkast + review + PDF-konvertering.
+
+---
+
+### T163 `[ ]` Statusbrev til TBRT (orientering, ikke anmodning)
+
+**Prioritet:** Høy. Dette er det neste konkrete arbeidet som skal gjøres. Statusbrevet, anmodningen om betalingsutsettelse til TBRT, og eventuell anmodning om betalingsutsettelse til Intrum er tre separate brev — kan sendes samme dag.
+
+**Mottaker:** postmottak@tbrt.no, referer sak 24/1007. Kopi: Morten Knutsen.
+
+**Formål:** Holde bero-beslutningen av 25.06.2026 i live. Beroen hviler på tre forutsetninger som TBRT satte; brevet bekrefter at vi står ved dem og orienterer åpent om prosjektets status.
+
+**Prinsipp:** Dette brevet er en ren orientering (jf. mal i TBRT-sporet-tasken, avsnitt F). Blandes anmodninger inn, svekker det tilliten bero-beslutningen hviler på. Anmodningen om betalingsutsettelse sendes som eget brev samme dag — kan nevnes som saklig notis i statusbrevet, men ikke som anmodning her.
+
+**Innhold** (strukturert etter T147 avsnitt F):
+
+1. Vis til bero-beslutningen av 25.06.2026 (sak 24/1007-63) og bekreft at vi står ved de tre forutsetningene
+2. **Status byggesak BYGG-26/81377:** foreløpig tilbakemelding mottatt 16.07.2026 fra Trondheim kommune byggesakskontor, saken behandles. Omprosjektering av bærekonseptet pågår etter Byantikvarens uttalelse av 04.09.2026
+3. **Status drift:** siste leietakere ute 01.07–01.08.2026, bygget står tomt
+4. **Status brannsikring i byggefasen:** brannsikringsplanen fra HRP (februar 2026) følges. Vise til dokumentasjon
+5. **Forsinkelser utenfor vår kontroll:** kort og saklig oppsummering fra C-tabellen i T147 (byggesakskontoret 9 uker, byggesakskontorets nye krav, Eierskapsenheten avventes, Byantikvaren 3,5 uker, Byantikvaren endret premiss, Riksantikvaren påkalt som ny myndighet)
+6. **Riksantikvaren-sporet:** Byantikvaren påla oss å kontakte Riksantikvaren om graving i grunn. RA-dialogen er igangsatt (henvendelse 04.09.2026). Dette kan påvirke framdriften og varsles proaktivt
+7. **Fisjon:** gi status (TBRT ba om å bli orientert om endringer på eiersiden i bero-beslutningen)
+8. **Saklig notis om konkursvarsel og Sivilombudet-sak:** én kort passasje som orienterer om at (a) Intrum har sendt konkursvarsel 30.09.2026 for 3. innkreving, (b) separat anmodning om betalingsutsettelse sendes i dag, (c) klage til Sivilombudet er sendt 06.10.2026, (d) søknad til DSB om frafall etter brann- og eksplosjonsvernloven § 39 er under utarbeidelse. Dette er ikke anmodning; det er orientering
+9. **Ikke be om noe konkret.** Hele brevet er orientering
+
+**Timing:** Sendes samme dag som anmodningen om betalingsutsettelse (innen 10.10.2026). Rekkefølge mellom statusbrevet og anmodningen er likegyldig.
+
+**Format:** Markdown, 2-3 sider A4, pandoc-konvertering til PDF ved sending. Sendes primært som e-post med PDF-vedlegg, eventuelt også fysisk brev.
+
+**Berørte filer:**
+- Ny leveranse: `leveranser/YYYY-MM-DD_tbrt_statusbrev_oktober.md`
+- PDF-versjon via pandoc + xelatex
+
+**Kobling:**
+- T147 delleveranse 3 (opprinnelig plan)
+- T162 (anmodning om betalingsutsettelse — sendes samme dag)
+- T143 (Riksantikvaren-sporet som nevnes i punkt 6)
+- Sivilombudet-klagen (sendt 06.10.2026, nevnes i punkt 8)
+- DSB-utkastet (nevnes i punkt 8)
+
+**Estimat:** 2-3 timer utkast + review + PDF-konvertering.
+
+---
+
+### T164 `[ ]` Vurdere anmodning om betalingsutsettelse direkte til Intrum
+
+**Prioritet:** Middels. Vurderes etter at anmodningen direkte til TBRT er sendt. Avhenger av hvordan TBRT reagerer og hvor rask responsen er.
+
+**Formål:** Backup-strategi hvis TBRT er sen eller tvetydig i responsen på TBRT-anmodningen. Intrum som inkassomottaker har egen myndighet til å gi utsettelse — særlig hvis de får en indikasjon fra fordringshaver (TBRT) om å avvente.
+
+**Beslutning å ta:** Skal denne anmodningen sendes samtidig med TBRT-anmodningen og statusbrevet (belt and suspenders), eller skal den avventes til vi ser TBRT-respons?
+
+**Argumenter for samtidig utsendelse:**
+- Belt-and-suspenders — garanterer at anmodningen når rett instans uansett
+- Konkursvarsel-fristen er kort (14 dager), ingen tid å miste
+
+**Argumenter for å avvente:**
+- Intrum har mer rigid system — kan avvise uten TBRT-godkjenning
+- Hvis TBRT instruerer Intrum, blir en separat anmodning overflødig
+- Separate anmodninger kan virke uprofesjonelt / som å «dekke seg»
+
+**Mottaker (hvis sendes):** Intrum via saksnr 45221136. E-post kundesenter@intrum.com (sett saksnummer i emnefeltet, jf. instruks fra konkursvarsel-brevet).
+
+**Innhold (hvis sendes):** Mye av samme argumentasjon som TBRT-anmodningen, men henvendt til Intrum som inkassomottaker. Kjernepunkt:
+1. Pågående Sivilombudet-sak (sendt 06.10.2026)
+2. Kommende DSB-søknad om frafall etter brann- og eksplosjonsvernloven § 39
+3. Parallell anmodning til TBRT som fordringshaver er sendt samme dag
+4. Anmoder om at inndrivingstiltak stanses inntil TBRT har gitt sitt svar og Sivilombudet/DSB har uttalt seg
+5. Alternativt: utsatt betaling i 90-120 dager
+
+**Timing:** Hvis sendes samtidig med TBRT-anmodningen og statusbrevet: innen 10.10.2026. Hvis avventes: vurderes dag-til-dag.
+
+**Berørte filer:**
+- Potensiell leveranse: `leveranser/YYYY-MM-DD_intrum_anmodning_betalingsutsettelse.md`
+
+**Kobling:**
+- T147 delleveranse 4
+- T161 (overordnet strategi)
+- T162 (parallell anmodning til TBRT)
+- T163 (statusbrev)
+
+**Estimat:** 1-2 timer utkast + review hvis det besluttes å sende.
