@@ -1,0 +1,226 @@
+Original PDF: Avgjørelse av søknad om frafall av tvangsmulkt - Fossegrenda 1 i Trondheim.PDF
+
+Sammenslått versjon (_merged): bygger på _reader.txt (transkribert fra bilde av hver side), kontrollert og supplert mot _pdftotext.txt. Ingen setninger er omskrevet eller fjernet. Støy fra tekstgjenkjenning er utelatt. Tekst inne i plantegninger er utelatt. Bilder, logoer og signaturer er ikke beskrevet, bare markert. Usikre tall/ord er markert med [?].
+
+--- Side 1 ---
+
+dsb Direktoratet for samfunnssikkerhet og beredskap   1 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295-21
+Vår saksbehandler: Anita Rasmussen Kronlund   Deres dato:   Deres referanse:
+
+FOSSEGRENDA 1 AS
+
+Postboks 950 Sentrum
+7410 TRONDHEIM
+
+v/ H.Grue
+
+Avgjørelse av søknad om frafall av tvangsmulkt - Fossegrenda 1 i Trondheim
+
+Direktoratet for samfunnssikkerhet og beredskap (DSB) viser til søknad om nedsettelse av tvangsmulkt datert 30. juni 2024 fra Henning Grue,¹ styreleder og eier, av Fossegrenda 1.
+
+Vi viser videre til mottatt saksdokumenter fra Trøndelag brann- og redningstjeneste (TBRT) 20. august 2025.
+
+I brev fra DSB 16. juli 2024 ble eier orientert om at søknaden skal fremmes gjennom TBRT for å sikre fullstendig dokumentasjon og redegjørelse av saken. Grue ble i samme brev orientert om at søknaden først kunne behandles etter at alle avvik var rettet og tilsynssaken avsluttet, dvs. når tvangsmulktvedtaket er endelig og klageadgangen uttømt.
+
+I oversendelsen av saksdokumentene fra TBRT 20. august 2025 har DSB mottatt informasjon om at alle avvik er lukket, og tilsynssaken avsluttet. TBRT opplyser at deres vedtak ikke er påklaget, og at tvangsmulktvedtaket derfor er å anse som endelig.
+
+I tillegg til saksdokumentene fulgte en tidslinje. DSB mottok imidlertid ikke redegjørelse for saken, og etterspurte denne. I e-post fra TBRT 6. oktober 2025 mottok vi en kort saksfremstilling med hovedpunktene. Vi har lagt til grunn den innsendte dokumentasjonen som grunnlag for vår vurdering av søknaden. Det er foretatt avklaringer med TBRT knyttet til sakens fakta underveis i saksbehandlingen.
+
+Tvangsmulkten er fastsatt av TBRT i vedtak av 5. april 2024 [kursiv], jf. lov av 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 39. Begrunnelsen for tvangsmulkten er manglende oppfyllelse av avvikene, jf. tilsynsrapport 28. april 2023 og pålegg 22. november 2023 – fra TBRT.
+
+Jf. brev fra TBRT til Fossegrenda 1 AS 5. juni 2025 løp tvangsmulkten med kr 2.000, - per dag i perioden f.o.m., 26. september 2024 t.o.m. 28. februar 2025 (156 dager) og utgjør totalt kr 312.000, -.
+
+Vi anser saken godt nok opplyst, og søknaden om helt eller delvis frafall av tvangsmulkten, tas til behandling.
+
+Begrunnelsen for vedtaket er gitt nedenfor.
+
+¹ Grue er både styreleder og eier, og omtales i dette vedtaket som eier – se note 2
+
+Postadresse: Direktoratet for samfunnssikkerhet og beredskap, Postboks 2014, 3103 TØNSBERG
+Kontoradresse: Rambergveien 9, 3115 Tønsberg   E-post: Postmottak@dsb.no
+Telefon: 33 41 25 00   Internett: www.dsb.no   Organisasjonsnummer: 974 760 983
+
+--- Side 2 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   2 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+Konklusjon - vedtak
+
+Tvangsmulkt ilagt Fossegrenda 1 AS i Trondheim pålydende kr 312.000, -, jf. vedtak 5. april 2024, frafalles ikke. Utestående tvangsmulkt må innbetales TBRT snarest. [kursiv]
+
+Dette vedtaket kan påklages til Justis- og beredskapsdepartementet etter reglene i forvaltningsloven kapittel VI. En eventuell klage må fremsettes for DSB innen tre uker fra dags dato. [kursiv]
+
+Sakens bakgrunn
+
+Ifølge tilsynsrapport fra TBRT 28. april 2023 ble det funnet avvik ved brannsikkerheten i Fossegrenda 1 i Trondheim. Henning Grue, styreleder i Fossegrenda 1 AS, var til stede under tilsynet. Gjennom søk i offentlige registre kommer det frem at Henning Grue, gjennom flere selskaper,² også er (med) eier av Fossegrenda 1 AS. Grue benevnes derfor som eier i dette vedtaket.
+
+Ifølge tilsynsrapporten er eiendommen oppført i 1972 og renovert i perioden 2020-2022. Det opplyses at eiendommen ble overført til nåværende eier i juni 2022. I tilsynsrapporten kommer det videre frem at eier – ca.10 måneder etter overtakelsen – ikke har kommet ordentlig i gang med det systematiske sikkerhetsarbeidet. [kursiv]
+
+Eiendommens areal opplyses å være 2170 kvm fordelt over 3 etasjer. Ifølge tilsynsrapporten er eiendommen leid ut til næringsaktører som: 3D- Radar, Alva Industries, Wulff &co, BikerShop og Trondheim Bilformidling.
+
+Avvikene er ifølge tilsynsrapporten:
+1. Manglende dokumentasjon av brannsikkerhetsnivået i bygget jf. forskrift om brannforebygging § 10. Eksempelvis ble det ikke fremlagt tilfredsstillende branntekniske tegninger over bygget. Eier kunne ikke redegjøre for branncellene. Det ble videre stilt spørsmål knyttet til brannsikkerheten ved BikerShops lager.
+2. Manglende kontroll av brannalarmanlegget jf. forskrift om brannforebygging § 5. Blant annet viste brannalarmanlegget feilmelding som ikke var håndtert. Eier kunne videre ikke fremlegge dokumentasjon på kontroll og vedlikehold av anlegget. Det ble også funnet hull og utettheter i flere branncellebegrensende vegger og tak i bygget.
+3. Manglende HMS-rutiner innen sikkerhet jf. forskrift om brannforebygging § 9. Eier hadde ikke utarbeidet rutiner som skal sikre at det systematiske sikkerhetsarbeidet i bygget er ivaretatt. Det forelå heller ikke ruiner for egenkontroll.
+4. Manglende dokumentasjon på brannsikker bruk av eiendommen sett i forhold til brannsikkerhet for eiendommen som sådan jf. forskrift om brannforebygging § 11. Eksempelvis fant tilsynsfører hindringer i rømningsveier, ladning av el-biler med skjøteledninger i vanlig stikk-kontakt og lagring av paller som kunne innebære en brannrisiko
+5. Manglende dokumentasjon knyttet til sikker bruk av eiendommen jf. forskrift om brannforebygging § 11. Eksempelvis hadde ikke leietakerne/virksomhetene vurdert risikoen for brann i egne lokaler, og heller ikke gjennomført brannøvelser.
+
+Avvikene knyttet til eksempelvis brannalarmanlegget og utetthetene i bygget er dokumentert med bilder. Videre er eier varslet om mulige sanksjoner, blant annet pålegg og mulig tvangsmulkt, i tilsynsrapporten.
+
+Fristen for skriftlig tilbakemelding fra eier ble satt til 23. mai 2023 i tilsynsrapporten.
+
+² Ifølge firma- og regnskapsinformasjon i Proff Forvaltning er Grue også (med)eier av Fossegrenda 1. Eierandelen er fordelt på flere selskaper der Grue er aksjonær - enten direkte - eller gjennom andre selskaper (blant annet selskapene HGR Invest AS, Strinda eiendom AS og Strinda næring AS)
+
+--- Side 3 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   3 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+TBRT mottok ikke tilbakemelding fra eier innen fristen, og pålegg/vedtak om retting av avvik ble sendt eier 22. november 2023. I pålegget er det krav om at alle avvik må lukkes innen 15. desember 2023.
+
+Grunnet manglende oppfyllelse av avvikene ble eier ilagt tvangsmulkt i vedtak 5. april 2024. Her ble fristen for utbedring av avvikene (ut)satt til 2. mai 2025. Tvangsmulkt er ilagt for blant annet manglende:
+• branntekniske tegninger, jf. avvik 1
+• og kontrollrapporter for brannalarmanlegget, nødlys og brannporter, jf. avvik 2. I avvik 2 inngår også manglende branntetting.
+
+I tvangsmulktvedtaket kommer det videre frem: All den tid pålegg om lukking av avvik ikke er dokumentert utført, vil tvangsmulkt løpe og bli innkrevd. Vi viser i denne sammenheng bl.a. til e-post datert 11.04.2024, og presiserer at pålegg datert 22.11.2023 må etterkommes i sin helhet. [kursiv; siste del i fet skrift]
+
+Fordi avvikene i pålegget ikke ble rettet innen fristen i tvangsmulktvedtaket løp tvangsmulkten med kr.2.000,- per dag:
+• f.o.m. 2.mai 2024 t.o.m. 16. mai 2024 (kr.30.000,-) jf. brev 21. mai 2024 fra TBRT
+• f.o.m. 26.september 2024 t.o.m. 26. oktober 2024 (kr. 62.000, -) jf. brev 20. november 2024 fra TBRT
+• f.o.m. 27.oktober 2024 t.o.m. 30. november 2024 (kr. 70.000, -) jf. brev 17. desember 2024 fra TBRT
+• f.o.m. 01.desember 2024 t.o.m. 10. januar 2025 (kr. 82.000, -) jf. brev 20. januar 2025 fra TBRT
+• f.o.m. 11. januar 2025 t.o.m. 28. februar 2025 (kr. 98.000, -) jf. brev 11. april 2025 fra TBRT
+
+Totalt utgjør tvangsmulkten kr 312.000, - jf. brev fra TBRT 5. juni 2025. I tillegg kommer kr 30.0000, - jf. brev fra TBRT 21. mai 2025 slik DSB forstår saken. I tvangsmulktvedtaket er eier videre orientert om at mulkten er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven.
+
+Fordi eier rapporterte til TBRT at påleggene var utbedret ble tvangsmulkten stoppet i juni, jf. brev fra TBRT 7. juni 2024.
+
+Ved etterkontroll fra TBRT i september 2024 ble det avdekket at flere avvik likevel ikke var utbedret. Eier var til stede ved etterkontrollen, slik han også var under tilsynet.
+
+Om status ved etterkontrollen skriver TBRT i brev 26. september 2024 at; brannalarmanlegget likevel ikke fungerte som forutsatt, de branntekniske tegningene var ikke oppdatert, orienteringsplanene og rømningsplaner var ikke oppdatert, og at det ikke var foretatt nødvendig branntetting i flere rom. Når det gjelder avvik 2 i pålegget ble det ikke fremlagt dokumentasjon på gjennomført egenkontroll knyttet til brannsikringstiltakene (eksempelvis brannalarmanlegget, ledesystemet og slokkeutstyret). Det ble videre avdekket hull og utettheter i flere branncellebegrensende vegger og tak i bygget. Tilsvarende ble det avdekket fortsatt manglede oppfyllelse knyttet til avvikene 3 (manglende dokumentasjon for det systematiske sikkerhetsarbeidet i bygget), 4 og 5 (blant annet manglende risikovurderinger knyttet til leietakernes bruk av bygget).
+
+Med bakgrunn i funnene fra etterkontrollen, hvor det kom frem at avvikene likevel ikke var lukket, løp tvangsmulkten på nytt f.o.m. dato fra underretning 26 september 2024 (t.o.m. 28. februar 2025 totalt kr 312.000, -). Oppklaringen knyttet til den løpende tvangsmulkten er gitt eier i eget brev fra TBRT 18. november 2024.
+
+Deretter er tvangsmulkten fulgt opp i fire brev fra TBRT til eier, med utfyllende informasjon.
+
+Så vidt vi kan se ble tvangsmulkten stoppet 28. februar 2025.
+
+--- Side 4 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   4 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+I brev fra TBRT til eier 30. april 2025 gjenstod det imidlertid fortsatt to avvik:
+• utettheter i branncellebegrensede vegger og tak, samt
+• HMS-rutiner som sikrer det systematiske brannsikkerhetsarbeidet i bygget
+
+I e-post fra eier 21. mai 2025 er TBRT orientert om at den nødvendige branntettingen er utført, og fra dette tidspunktet er tilsynssaken avsluttet, jf. brev fra TBRT 5. juni 2025.
+
+Tvangsmulkten ble - slik DSB forstår - stoppet tre måneder før alle avvik var rettet.
+
+Fra tilsynet ble gjennomført (april 2023) til oppfyllelse av avvikene (mai 2025) gikk det to år, hvorav tvangsmulkt er ilagt for perioden september 2024 til februar 2025.
+
+Søkers anførsler og DSBs vurdering av søknaden
+
+Etter brann- og eksplosjonsvernloven § 39 kan kommunen ilegge en løpende tvangsmulkt eller en engangsmulkt dersom et pålegg ikke er oppfylt innen fastsatt frist. Formålet med tvangsmulkten er å motivere adressaten til å innrette seg lovlig og sikre etterlevelse av regelverket.
+
+Samme bestemmelse åpner for at sentral tilsynsmyndighet (DSB) kan frafalle påløpt tvangsmulkt. DSB kan imidlertid som nevnt ikke prøve gyldigheten av tvangsmulktvedtaket.
+
+Det er ikke knyttet vilkår til når tvangsmulkten kan frafalles. Det blir dermed en skjønnsmessig vurdering. Momenter som er aktuelle i en slik vurdering er avvikenes omfang og alvorlighetsgrad, grad av skyld hos den ansvarlige, årsaken til at påleggene ikke er oppfylt og hva den ansvarlige har gjort for å redusere størrelsen på tvangsmulkten. I tillegg kan den ansvarliges økonomiske situasjon vektlegges, og hvor hardt mulkten rammer.
+
+Av hensyn til den preventive effekten vil frafall av tvangsmulkt likevel kun skje unntaksvis. Formålet med tvangsmulkten er å sikre etterlevelse av lover og regler, og en liberal praksis kan lett svekke det incentivet som tvangsmulkt er ment å være.
+
+For å ikke uthule formålet bak tvangsmulkten må det i den konkrete saken foreligge særlige forhold [kursiv] som begrunner en ettergivelse av ilagt tvangsmulkt
+
+Som grunnlag for rimelighetsvurderingen har DSB gjennomgått innsendt dokumentasjon fra TBRT.
+
+Innledningsvis vil DSB bemerke at Grue, som eier av andre eiendommer og eiendomsselskap, også tidligere er ilagt tvangsmulkt etter brann- og eksplosjonsvernloven for andre eiendommer i Trondheim - Prinsens gate 46, Munkegata 11 og Kjøpmannsgaten 23. Også i disse sakene har DSB behandlet søknader om frafall av tvangsmulkt.
+
+Generelt må det stilles strengere krav til næringsdrivende og profesjonelle eiendomsforvaltere enn til privatpersoner når det gjelder å sette seg inn i hva slags regelverk som gjelder. Grue har i tillegg konkret erfaring og kunnskap om kravene til dokumentasjon og brannsikkerhet samt til sanksjonsreglene i brann -og eksplosjonsvernloven. Det kan derfor i utgangspunktet være vanskelig å finne rimelighetsgrunner for frafall av tvangsmulkt i denne saken.
+
+DSB har gjort en vurdering basert på søkers anførsler – se under.
+
+--- Side 5 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   5 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+Søkers anførsel om for høy tvangsmulkt sett i forhold til avvikenes alvorlighetsgrad
+
+I brev til DSB 30. juni 2024 anfører Grue at vedtatt tvangsmulkt er for høy sett i forhold til art og omfang av de branntekniske avvik [kursiv] som har vært på eiendommen.
+
+Eier viser til at eiendommen har gjennomgått en totalrehabilitering og ombygging i perioden 2020 til 2022. Ombyggingen var foretatt av tidligere eier og foregikk trinnvis. Grue viser til at han overtok eiendommen i 2022 og at det tok tid å få utarbeidet komplette branntekniske tegninger. Han anfører at han pga, feilinformasjon forholdt seg til feil leverandør (Voll Arkitekter AS), men senere forstod at tegningene lå hos COWI. Fordi COWI ikke kunne ta oppdraget med utarbeidelse av nye tegninger gikk oppdraget til AFRY Norway.
+
+DSB anser det som alvorlig når de branntekniske tegningene ikke er oppdatert. I henhold til forskrift om brannforebygging § 4 skal eier av byggverket kjenne kravene til brannsikkerhet som gjelder for byggverket. Målet med plikten til dokumentasjon, jf. forskrift om brannforebygging § 10, er å rette oppmerksomheten mot brannsikkerhet i virksomheten. Dokumentasjon er derfor en sentral del av virksomhetens systematiske sikkerhetsarbeid. Alle faktiske fravik i sikkerhetstiltakene fra den opprinnelige prosjekteringen, utførelsen og tillatelsen skal dokumenteres. Det er et grunnleggende krav at eier kjenner byggverket sitt, og kan redegjøre for brannskiller mv.
+
+Tilsynsmyndighetens rett til å kreve dokumentasjonen fremlagt fra eier er lovhjemlet – se brann- og eksplosjonsvernloven § 33.
+
+Grues anførsel om at de branntekniske tegningene lå hos en annen leverandør og at disse uansett har foreligget og vært tilgjengelig for TBRT i de aktuelle byggesakene - kan ikke tillegges vekt. Det er eiers ansvar å fremskaffe den nødvendige dokumentasjonen. Vi viser i denne forbindelse til veiledning til forebyggendeforskriften § 10³ hvor det kommer frem at: Dokumentasjonsplikten innebærer at virksomheten må ha informasjon tilgjengelig som viser at kravene til byggverket og virksomheten er oppfylt. [kursiv]
+
+Det er også alvorlig når branncellebegrensende vegger og tak i bygget har huller og utettheter. En brannvegg er et svært viktig tiltak for å hindre at en brann sprer seg. Huller og utettheter innebærer at bygningen ikke lenger ivaretar brannsikkerhetskravene etter bygningsteknisk forskrift og heller ikke kravet om vedlikehold av bygningsdeler jf. forskrift om brannforebygging § 5 jf. § 4.
+
+Likeså er det alvorlig dersom brannalarmanlegget ikke fungerer som forutsatt. I henhold til forskrift om brannforebygging § 5 er ansvaret for kontroll og vedlikehold av sikkerhetsinnretningene pålagt eier. Kontroll og vedlikehold utgjør et grunnleggende krav til brannsikring av alle byggverk. Det hjelper lite med et brannalarm-anlegg i bygget hvis dette ikke virker som forutsatt.
+
+DSB er etter dette ikke enig i at tvangsmulkten på 2.000, - per dag – totalt kr 312.000, - - er satt for høyt sett i forhold til alvorlighetsgraden av avvikene.
+
+Søkers anførsel om at avvikene var lukket før tvangsmulkten startet å løpe
+
+Videre anfører eier at det ikke er grunnlag for å ilegge tvangsmulkt da avvikene var lukket før tvangsmulkten startet å løpe.
+
+³ https://www.dsb.no/brannsikkerhet/veiledning-til-forskrift-om-brannforebygging/
+
+--- Side 6 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   6 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+Så vidt DSB kan se stemmer dette for avvikene knyttet til manglende oppdaterte brann-tegninger og brann-alarmanlegget. Disse var innsendt TBRT hhv. 17. og 18 september 2024 – som er etter [kursiv] den første tvangsmulktperioden i mai - men ni [kursiv] dager før [kursiv] tvangsmulkten løp igjen i september 2024. Når det gjelder avvik knyttet til nødlys og manglende tetting av branncelle-vegger var disse avvikene ikke oppfylt før hhv. 6.- og 21. mai 2025. Vesentlige deler av pålegget gjenstod fortsatt i september 2024, og ble ikke rettet før mai 2025.
+
+Videre stoppet TBRT tvangsmulkten 28. februar 2025 til tross for at tilsynssaken ikke ble avsluttet før 21 mai 2025. Konsekvensen er at tvangsmulkten er langt lavere enn om mulkten hadde løpt hele perioden. I tillegg har TBRT valgt å se bort fra den første tvangsmulktperioden 2.mai 2024 t.o.m. 16. mai 2024 (kr.30.000,-).
+
+Slik DSB forstår saken har TBRT hatt hjemmel til innkreving av tvangsmulkt i vesentlig større grad enn det som er gjort.
+
+Er det forhold ved saksbehandlingen som skulle tilsi nedsettelse
+
+TBRT har ved tilsynet avdekket flere mangler ved brannsikkerheten i Fossegrenda 1. Det er gitt en utfyllende redegjørelse for alle avvikene i tilsynsrapporten.
+
+Fra tilsynsrapporten forelå i april 2023 til oppfyllelsen av alle avvikene gikk det to år (siste avvik var tettingen av brannveggene i mai 2025). Eier er innvilget flere utsettelser gjennom det første året, og TBRT har gitt utfyllende informasjon om hva som skal til for å oppfylle avvikene hele veien – både gjennom konkret brev og e-poster knyttet til selve avvikene - samt gjennom purring på tvangsmulkten.
+
+Eier var til stede under tilsynet og på etterkontrollen i september 2024, og har i perioden før tvangsmulkten løp (sep. 2024) hatt førstehåndskunnskap om avvikene og alle muligheter til å utbedre disse. DSB mener at eier har hatt god nok tid til å fremskaffe nødvendig dokumentasjon (1 ½-år – fra april 2023 til september 2024). Vi mener også at eier har hatt god nok tid til utbedringene.
+
+Etter DSBs vurdering er det ikke forhold ved TBRTs fremgangsmåte - eller andre forhold utenfor eiernes kontroll - som har hatt betydning for iverksettelse av tvangsmulkten. Eier har fra april 2023 (tidspunktet for tilsynet) vært kjent med hva han skulle gjøre for å unngå tvangsmulkt, og han har hatt all mulighet til å unngå samt redusere størrelsen på tvangsmulkten underveis i saksforløpet.
+
+Avslutning
+
+Årsaken til ileggelse av tvangsmulkten har vært å legge press på eier for å etterkomme pålegget. Slik DSB ser det har tvangsmulkten fungert etter sin hensikt i denne saken.
+
+DSB har videre forstått saksforløpet slik at TBRT (juridisk sett) har hatt hjemmel til ilegging av tvangsmulkt i hele perioden fra 2. mai 2024 til 25 mai 2025. I så fall ville tvangsmulkten utgjort et vesentlig høyere beløp - mellom 700-800.000,-.
+
+Fordi tvangsmulkten ble stoppet 28. februar 2025, til tross for at de siste avvikene ikke var rettet før mai 2025, faller dette svært godt ut for eier.
+
+DSB anser ikke tvangsmulktens størrelse på kr. 312.000, - som urimelig i forhold til ulovligheten som pålegget retter seg mot.
+
+--- Side 7 ---
+
+Direktoratet for samfunnssikkerhet og beredskap   7 av 7
+Dokumentdato: 09.10.2025   Vår referanse: 2024/8295
+
+Eier har videre ikke fremlagt noen dokumentasjon på manglende betalingsevne. DSB kan dermed heller ikke se at det foreligger økonomiske grunner til å slippe tvangsmulkten.
+
+TBRT kan i samsvar med brann- og eksplosjonsvernloven gjennomføre nye tilsyn av eiendommen for å sikre at brannsikkerheten er ivaretatt. Eventuelle nye pålegg innebærer at tvangsmulkt på nytt kan løpe, forutsatt at den nødvendige brannsikring ikke er gjennomført.
+
+Trøndelag brann- og redningstjeneste IKS orienteres ved kopi av vedtaket.
+
+Med hilsen
+Direktoratet for samfunnssikkerhet og beredskap
+Beredskap og nødmelding
+
+Ann Christin Rognmo Olsen, seksjonssjef
+Anita Rasmussen Kronlund, juridisk utredningsleder
+
+Dokumentet er godkjent elektronisk og sendes derfor uten underskrift.
+
+Kopi til:
+TRØNDELAG BRANN- OG REDNINGSTJENESTE IKS   Sluppenvegen 18   7037 TRONDHEIM

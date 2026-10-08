@@ -3032,3 +3032,184 @@ T147 strøk delleveranse 4 (betalingsutsettelse) 06.10.2026 med begrunnelsen «l
 - T163 (statusbrev)
 
 **Estimat:** 1-2 timer utkast + review hvis det besluttes å sende.
+
+---
+
+### T165 `[x]` Screening av DSBs frafallsaker — relevans for vår tvangsmulkt-sak
+
+**Prioritet:** Høy. Bør gjøres før søknaden til DSB om frafall av påløpt tvangsmulkt sendes.
+
+**Formål:** Screening. Gå gjennom hver sak vi har fått innsyn i hos DSB og beskrive hva som er relevant for vår sak mot TBRT (sak 24/1007, kr 184 000 påløpt mulkt): hva DSB la vekt på, hvilke argumenter som ble vurdert og hvordan, hvilke formuleringer DSB bruker, og hva som ligner på eller skiller seg fra vår sak. Tasken skal **ikke** gi forslag til endringer i DSB-søknaden og skal ikke konkludere med en strategi. Den skal gi et oversiktlig grunnlag som brukeren selv tar stilling til.
+
+**Kildemateriale:** `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/` (se `OVERSIKT.md` der). Bruk `_merged.txt`-filene som tekstgrunnlag; sjekk mot PDF ved tvil om tall eller sitater. Til sammenligning med vår sak leses også `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` og `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md` — kun som referanse for hva vår sak gjelder, ikke for å foreslå endringer i dem.
+
+Sakene som screenes:
+
+| Kort-ID | DSB saksnr. | Eiendom | Utfall |
+|---|---|---|---|
+| `2016-566_dronningens_gate` | 2016/566 | Dronningens gate 20/24 og Vaterlandsveita 3 | Ikke frafalt (kr 491 000). Klage til Justis- og beredskapsdepartementet avvist som for sent fremsatt |
+| `2017-1525_kjøpmannsgata_23` | 2017/1525 | Kjøpmannsgata 23 | Ikke frafalt (kr 103 000) |
+| `2019-9486_munkegata_11` | 2019/9486 | Munkegata 11 | Ikke frafalt (kr 32 000) |
+| `2019-10121_prinsens_gate_46` | 2019/10121 | Prinsens gate 46 | Ikke frafalt (kr 32 000) |
+| `2024-8295_fossegrenda_1` | 2024/8295 | Fossegrenda 1 | Ikke frafalt (kr 312 000) |
+
+Dokumenter etterspurt men ikke mottatt: Oppdal Skiheiser AS (2013/8073, doknr. 3–5) og DSBs interne rutine for frafallsaker (2020/9148, doknr. 418). Hvis de kommer inn før tasken starter, legges de til som egne saker med samme oppsett.
+
+**Metode — agenter med ulike roller.** Fem agenter screener hver sak fra sitt ståsted. Hver agent skriver én rapport per sak (5 agenter × 5 saker = 25 rapporter). Rollene:
+
+1. **`dsb-saksbehandler` — den erfarne forvaltningsjuristen i direktoratet.**
+   Leser saken slik DSB selv gjør. Kartlegger hvilke vurderingstemaer DSB brukte (avvikenes alvor, skyld, årsak til at pålegg ikke er oppfylt, hva eier gjorde for å begrense mulkten, økonomisk evne, preventiv effekt) og hvilke standardformuleringer som går igjen. Tone: nøktern, regelorientert, ikke velvillig.
+
+2. **`partsrepresentant` — søkerens advokat.**
+   Ser på hvilke argumenter søker brukte, hvordan DSB svarte på dem, og hva som ligner på eller skiller seg fra vår sak (rettslig umulighet før byggetillatelse, alt unntatt sprinkler lukket, bygget tomt, TBRT satte selv mulkten i bero, offentlig finansiert prosjekt, forsinkelser hos andre offentlige organer). Tone: søkervennlig, men ærlig.
+
+3. **`djevelens-advokat` — TBRTs jurist.**
+   Finner det i saken som kan brukes mot oss, med ordrette sitater. Eksempler på typiske formuleringer: «tvangsmulkten har fungert etter sin hensikt», «strengere krav til næringsdrivende», «mulkten kunne løpt lenger», «eier har risikoen for mulktens størrelse». Tone: kritisk og konkret.
+
+4. **`forvaltningsrett` — prosess og frister.**
+   Ser på saksgangen: klagefrister og avvisninger, skillet mellom klage på vedtaket (kommunal klagenemnd) og søknad om frafall (DSB), krav om endelig vedtak før DSB behandler, saksbehandlingstid, og om DSB har avventet andre organer. Tone: presis, med henvisning til hvor i materialet noe står.
+
+5. **`revisor` — økonomi og dokumentasjon.**
+   Ser på hvilken økonomisk dokumentasjon DSB ba om og fikk, og hvordan den ble brukt (regnskap, selvangivelser, verdien av eiendommen, likviditet). Tone: tallorientert, praktisk.
+
+**Fast oppsett for hver rapport:**
+1. Kort om saken (eiendom, eier, mulkt, utfall, datoer)
+2. Funn fra agentens ståsted, med ordrette sitater og kilde (fil og side)
+3. Likheter med vår sak
+4. Forskjeller fra vår sak
+5. Usikkerheter og begrensninger (manglende dokumenter, `[?]`-tall i kildene)
+
+Ingen anbefalinger og ingen forslag til endringer i våre leveranser.
+
+**Leveranse — rapportmappe:**
+
+`bakgrunn/brann/YYYY-MM-DD_dsb_frafall_screening/` med:
+- `OVERSIKT.md` — formål, kilder, rollebeskrivelsene over, og en tabell som peker til de 25 rapportene (sak × agent). Ingen sammenfatning av funn.
+- 25 rapportfiler, navngitt `YYYY-MM-DD_<kort-id>_<agent>.md`, for eksempel:
+  - `YYYY-MM-DD_2016-566_dronningens_gate_dsb-saksbehandler.md`
+  - `YYYY-MM-DD_2024-8295_fossegrenda_1_djevelens-advokat.md`
+
+Datoen er datoen rapporten skrives. Alle sitater fra DSB-avgjørelsene gjengis ordrett fra `_merged.txt` og kontrolleres mot PDF. Lovparagrafer som siteres, følger regelen om verbatim kilde i `bakgrunn/lovverk/`.
+
+**Praktisk om agentene:** Agentene startes **uten** `isolation: "worktree"`. De skal kun lese og levere rapportteksten tilbake; filene skrives i hovedsesjonen. Git og gh brukes ikke. Etter kjøringen sjekkes det med `ls` at `.claude/worktrees/` ikke har `agent-*`-mapper. Finnes det rester, stoppes det og brukeren spørres. Resultatet av sjekken noteres i løsningsnotatet.
+
+**Berørte filer:**
+- Leses: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`, `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md`
+- Ny mappe: `bakgrunn/brann/YYYY-MM-DD_dsb_frafall_screening/` (OVERSIKT.md + 25 rapporter)
+
+**Kobling:**
+- T147 (delleveranse 1, DSB-søknaden)
+- T161 (konkursvarsel og strategi)
+- T162 (anmodning om betalingsutsettelse til TBRT)
+
+**Estimat:** 30–60 minutter kjøretid for fem agenter parallelt, pluss 20–30 minutter for å skrive filene og kontrollere sitater. Høyt tokenforbruk. Krever eksplisitt konfirmasjon før start.
+
+**Løsning (08.10.2026):**
+
+Screeningen er gjennomført etter spesifikasjonen over. Fem agenter (én per rolle) ble startet parallelt uten `isolation: "worktree"`. Hver agent screenet alle fem sakene og leverte fem rapporttekster tilbake. Filene ble skrevet i hovedsesjonen. Git og gh ble ikke brukt. WebFetch ble ikke brukt.
+
+- **Opprettet:** `bakgrunn/brann/2026-10-08_dsb_frafall_screening/` med `OVERSIKT.md` (formål, kilder, roller, tabell sak × rolle, ingen sammenfatning av funn) og 25 rapporter navngitt `2026-10-08_<kort-id>_<rolle>.md`. Alle rapportene har de fem faste delene. Ingen rapport inneholder anbefalinger eller forslag til endringer i egne leveranser.
+- **Tidsbruk:** agentene brukte ca. 7–11 minutter hver (parallelt). Samlet kjøretid inkludert lesing, sitatkontroll og filskriving var ca. 25 minutter. Tokenforbruk i agentene: ca. 1,25 millioner til sammen.
+- **Sitatkontroll:** alle 320 blokksitater i de 25 rapportene er kontrollert maskinelt mot oppgitt kildefil og funnet ordrette (linjeskift og gjentatte mellomrom regnet som ett mellomrom). 318 er fra `_merged.txt`-filene. To er lovsitater og er kontrollert mot `bakgrunn/lovverk/brann_eksplosjonsvernloven_39_tvangsmulkt.md` og `bakgrunn/lovverk/fvl_29_klagefrist.md`. Sidetallene er kontrollert mot `--- Side N ---`-markørene. Kontrollen er gjort mot `_merged.txt`, ikke mot PDF side for side; agentene sammenlignet med `_pdftotext.txt` og `_reader.txt` der tall var i tvil.
+- **Rettet i hovedsesjonen før skriving:** fire kildelinjer med feil sti (tre i Dronningens gate-rapporten fra `dsb-saksbehandler`, én i Fossegrenda-rapporten fra `partsrepresentant`), og tre korte vendinger i løpende tekst som sto i «» uten å være ordrette (anførselstegn fjernet eller ordlyden rettet til kildens).
+- **Kjente begrensninger:**
+  - `2017-1525_kjøpmannsgata_23/dok09_.../2017-06-13_kopi_av_brev_fra_strinda_eiendom_til_dsb_av_13.06.2017_merged.txt` har ingen sidemarkører. Sitater derfra er oppgitt som side 1.
+  - I Dronningens gate-saken er de to store brevene fra Wahl-Larsen (11.01.2016 og 09.03.2016 i vedlegg 1-9 til doknr. 8) og COWI-rapporten lest i utdrag og med søk, ikke i sin helhet. Flere småbilag (møte-e-poster 2015, tingrettens utskrift) er bare lest av noen roller.
+  - Korte ordrette vendinger i løpende tekst (utenfor blokksitat) er kontrollert mot sakens filer samlet, ikke mot side.
+  - Dokumentene som er etterspurt men ikke mottatt (Oppdal Skiheiser AS, DSBs interne rutine) er ikke screenet.
+- **Observasjoner fra agentene som gjelder egne dokumenter (ikke fulgt opp, ingen endringer gjort):**
+  - Tredje innkreving i vår sak: perioden 15.04–26.05.2026 er 42 dager og gir kr 84 000 med kr 2 000 per dag, mens innkrevd beløp er kr 94 000 (tilsvarer 47 dager, til og med 31.05.2026). Periode og beløp står slik både i DSB-søknaden og i TBRTs saksfremlegg av 26.06.2026. Innkrevingsbrevet av 03.06.2026 ble ikke lest av agenten.
+  - DSB viser i 2017 til frafallshjemmelen som § 39 «første ledd annet punktum». I prosjektets lovfil står setningen som tredje punktum i første ledd. Det er ikke undersøkt om loven er endret.
+  - TBRT oppgir kr 251 000 og kr 241 000 i Dronningens gate-saken (sum kr 492 000), mens DSB oppgir kr 491 000. Avviket står likt i alle tekstversjonene.
+  - Protokollen fra TBRTs representantskap 02.09.2016 nevner en klagesak om tvangsmulkt for Fjordgata 36 (sak 7/16). Den er ikke blant de fem sakene.
+- **Worktree-sjekk:** `ls .claude/worktrees/` etter kjøringen ga «No such file or directory». Mappen finnes ikke, og det ligger ingen `agent-*`-rester.
+- **Avvik fra «kun lese»:** agenten med rollen `revisor` lagret en arbeidskopi av sin egen tekst i sesjonens midlertidige scratchpad-mappe utenfor repoet. Ingen agent skrev i repoet.
+- **README.md:** vurdert, ikke endret. Ingen nye scripts, avhengigheter eller endret dataflyt; README lister ikke undermapper i `bakgrunn/brann/`.
+- **Docx:** ikke generert.
+
+---
+
+### T166 `[x]` Gapanalyse — DSB-søknaden om frafall mot DSBs praksis
+
+**Prioritet:** Høy. Grunnlag for videre arbeid med søknaden til DSB om frafall av påløpt tvangsmulkt.
+
+**Formål:** Sammenligne søknaden til DSB med det DSB faktisk har krevd, spurt om og lagt vekt på i de fem frafallsakene som er screenet. Liste hvert gap med DSB-sitat, hva søknaden sier, og hvor alvorlig gapet er. Liste mulige grep uten å beslutte dem. Søknaden skal ikke endres i denne oppgaven.
+
+**Berørte filer:**
+- Leses: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `bakgrunn/brann/2026-10-08_dsb_frafall_screening/`, `historikk.md`
+- Ny: `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`
+
+**Kobling:**
+- T165 (screeningen som analysen bygger på)
+- T147 (delleveranse 1, DSB-søknaden)
+
+**Løsning (08.10.2026):**
+
+Opprettet `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`. Notatet er et internt arbeidsnotat, ikke en leveranse. Søknaden er ikke endret.
+
+- **Innhold:** ti gap (G1–G10) med alvorsgrad, hvert med DSBs praksis (ordrett sitat og kilde), hva søknaden sier, og hva gapet består i. Deretter en tabell med mulige grep (ikke besluttet), en liste over det som ikke er et gap, og usikkerheter.
+- **De fire tyngste gapene:** (1) DSB opplyste i Fossegrenda-saken at søknad skal fremmes gjennom TBRT og først behandles når alle avvik er rettet og tilsynssaken avsluttet, mens sprinkleravviket hos oss er åpent; (2) to hovedargumenter i søknaden er gyldighetsargumenter, og DSB prøver ikke gyldighet; (3) søknaden har ingen økonomisk dokumentasjon; (4) tomt bygg og forsinkelser hos andre organer er datert etter de innkrevde periodene.
+- **Sitatkontroll:** alle elleve blokksitater og fire korte vendinger er kontrollert maskinelt og funnet ordrette mot `_merged.txt`, med riktig side.
+- **Begrensninger:** analysen bygger på screeningrapportene og på egen lesing av søknaden og Fossegrenda-avgjørelsen. De øvrige avgjørelsene er bare kontrollert på de siterte stedene. DSBs interne rutine for frafallsaker er ikke mottatt.
+- **Agenter:** ingen brukt. Git og gh ikke brukt.
+- **README.md:** vurdert, ikke endret. **Docx:** ikke generert.
+
+---
+
+### T167 `[x]` Omskriving av DSB-søknaden om frafall etter gapanalysen
+
+**Prioritet:** Høy. DSB-sporet håndteres før Namsfogden.
+
+**Formål:** Skrive ny versjon av søknaden til DSB om frafall av påløpt tvangsmulkt (kr 184 000, TBRT sak 24/1007), slik at den lukker gapene i gapanalysen så langt grunnlaget i repoet rekker. DSB spørres ikke på forhånd.
+
+**Føringer:**
+- Søknaden bygges opp etter DSBs egne vurderingsmomenter (avvikenes omfang og alvor, skyld, årsak til at pålegget ikke er oppfylt, hva eier har gjort for å redusere mulkten, økonomi), i DSBs rekkefølge.
+- Rettslig umulighet skrives som årsak utenfor eiers kontroll, ikke som ugyldighet.
+- Det skilles tydelig mellom forhold i mulktperiodene (01.03–26.05.2026) og forhold etter.
+- Inngangsvilkåret fra Fossegrenda-saken (alle avvik lukket, søknad via TBRT) møtes direkte i teksten.
+- Kort og ærlig historikk 2018–2024 tas inn.
+- Ny fil med ny dato. Versjonen av 06.10.2026 beholdes urørt.
+- Lovsitater kontrolleres mot filene i `bakgrunn/lovverk/`. Ingen docx.
+
+**Berørte filer:**
+- Leses: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`, `historikk.md`, saksdokumenter i `bakgrunn/` og `bakgrunn/brann/`, `bakgrunn/lovverk/`
+- Ny: `leveranser/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`
+- Nye: `bakgrunn/lovverk/pbl_20-1_tiltak_byggesaksbestemmelsene.md`, `bakgrunn/lovverk/pbl_20-2_soknadsplikt.md`
+- Lest: `bakgrunn/okonomi/*.csv`
+
+**Kobling:**
+- T166 (gapanalysen)
+- T165 (screeningen)
+- T147 (delleveranse 1, DSB-søknaden)
+
+**Estimat:** 6–10 minutter. Krever eksplisitt konfirmasjon før start.
+
+**Løsning (08.10.2026):**
+
+Ny versjon av søknaden er skrevet: `leveranser/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`. Versjonen av 06.10.2026 er ikke rørt. Søknaden er ikke sendt.
+
+- **Oppbygging:** følger DSBs vurderingsmomenter: avvikenes omfang og alvor (punkt 5), årsak (6), skyld og hva eier har gjort for å begrense mulkten (7), TBRTs egen vurdering (8), økonomi (9), preventiv virkning (10). Eget punkt 2 møter inngangsvilkåret fra Fossegrenda-saken direkte. TBRT er satt som kopimottaker.
+- **Endret argumentasjon:** rettslig umulighet er skrevet som årsak utenfor eiers kontroll, ikke som ugyldighet. Punktet om at pålegget er oppfylt etter sitt innhold, med sitatet fra Sivilombudets uttalelse fra 2010, er tatt ut. DSB bes ikke lenger vente på Sivilombudet. Forhold etter mulktperioden (tomt bygg, forsinkelser hos andre organer) er skilt ut i eget underpunkt. Historikken 2018–2024 er tatt inn.
+- **Ny hjemmel:** søknadsplikten er forankret i plan- og bygningsloven § 20-2, jf. § 20-1 første ledd bokstav d, f og n. Versjonen av 06.10.2026 viste til §§ 29-4 og 31-2, som gjelder byggverkets plassering og krav ved tiltak på eksisterende byggverk, ikke søknadsplikten. §§ 20-1 og 20-2 er hentet verbatim fra lovdata.no med curl og lagret i `bakgrunn/lovverk/`.
+- **Rettet faktafeil:** tredje innkreving gjelder 15.04–31.05.2026 (47 dager, kr 94 000), ikke til 26.05.2026 som i forrige versjon. Kontrollert mot innkrevingsbrevet av 03.06.2026. Mulktperioden er dermed 01.03–31.05.2026, 92 dager, kr 184 000.
+- **Tatt inn fordi motparten vil bruke det:** vedtaket av 07.05.2025 gjengir at det fra selskapets side ble sagt i møtet 28.04.2025 at sprinkling var praktisk mulig innen 01.01.2026. Søknaden omtaler dette åpent i punkt 6.2.
+- **Sitatkontroll:** alle sitater i «» er kontrollert maskinelt mot kildefil (TBRTs brev 25.06.2026, lovfilene for brann- og eksplosjonsvernloven § 39, plan- og bygningsloven § 20-2 og forskrift om brannforebygging § 8, og Byantikvarens anbefaling).
+- **Åpne punkter som må avklares før sending:**
+  - Regnskapsfilene i `bakgrunn/okonomi/` gjelder morselskapet (kontoene viser aksjer i Kodeworks Eiendom AS, lån til datterselskapet og konsulentinntekter), ikke søkeren. Eneste tall som er brukt derfra, er lånet til datterselskapet (ca. kr 10,4 millioner per 08.10.2026). Vedlegg 24 (årsregnskap 2025 og saldobalanse for Kodeworks Eiendom AS) finnes ikke i repoet.
+  - Tre påstander i punkt 9 er ikke dokumentert i repoet og må bekreftes: at selskapet ikke har løpende driftsinntekter, at finansieringen av ombyggingen ikke er på plass, og at tilskuddene ikke kan brukes til mulkt.
+  - Forklaringen i punkt 6.2 på hvorfor anslaget fra april 2025 ikke holdt, bygger på prosjektets dokumenterte tidslinje. Den må bekreftes av prosjektleder.
+  - Vedleggsmappe er ikke satt sammen. Vedleggslisten har 27 punkter, flere nye.
+- **Agenter:** ingen brukt. Git og gh ikke brukt. WebFetch ikke brukt.
+- **README.md:** vurdert, ikke endret. **Docx:** ikke generert.
+
+**Revisjon samme dag (08.10.2026), etter tilbakemelding fra prosjektleder:**
+
+- **Regnskap:** filene i `bakgrunn/okonomi/` er byttet til rett selskap. Punkt 9 i søknaden er skrevet om med tall derfra per 08.10.2026: bokført egenkapital kr 100 000, bankinnskudd kr 705 655, lån i DNB kr 15 233 691, gjeld til morselskapet kr 10 603 122, renter på DNB-lånet hittil i år kr 831 546, leieinntekter ca. kr 1,7 millioner hittil i 2026 og ca. kr 2,6 millioner i 2025. Regnskapet viser at selskapet eier to eiendommer (Fjordgata 30 og Grønnegata 10). Punkt 3 og 9 er rettet etter det. Vedlegg 24 er endret til resultat- og balanserapporter.
+- **Tidslinje:** kontorprosjektet ble oppgitt høsten 2025, ikke i 2024. Kontrollert mot TBRTs brev av 06.01.2026 (viser til statusbrev datert 30.12.2025) og HRPs oppdragsbekreftelse for minilager datert 01.12.2025. Punkt 4.1, 4.2, 6.2 og 7 er rettet. Punkt 6.2 sier nå at anslaget fra april 2025 ble gitt med forbehold, gjaldt kontorombyggingen, og falt da de endelige entreprenørprisene kom.
+- **Avdekket feil i `historikk.md` (ikke rettet):** oppføringene «Høst 2024 (oktober)», «Medio desember 2024», «30.12.2024», «06.01.2025», «26.01.2025» og «Januar–februar 2025» om tilbud, forkastet kontorprosjekt, statusbrev, ny frist og forprosjekt minilager har feil årstall. Hendelsene skjedde ett år senere og står delvis dobbelt (06.01.2026 og 26.01.2026).
+- **Fortsatt åpent før sending:** tre setninger i punkt 9 bygger på antakelser og må bekreftes (at gjenværende leieinntekter kommer fra Grønnegata 10, at underskuddet i 2025 ble dekket med kr 1 167 173 fra morselskapet, at bankinnskuddet skal dekke drift fram til byggefinansiering). Vedleggsmappen er ikke satt sammen.
+- **Oppfølging (08.10.2026):** prosjektleder har bekreftet de tre setningene i punkt 9. Nytt kulepunkt om byggelån er lagt til i punkt 9. Årstallene i `historikk.md` er rettet: tre oppføringer flyttet fra 2024 til 2025, forprosjektet flyttet til 2026, og to dobbeltoppføringer (06.01.2025 og 26.01.2025) fjernet fordi de samme hendelsene står under 2026.
+- **Presisering (08.10.2026):** tidspunktene for entreprenørprisene er presisert i søknaden (punkt 4.2, 6.2 og 7) og i `historikk.md`: muntlige prisantydninger oktober–november 2025, skriftlig tilbud fra Astra Bygg & Entreprenør AS 16.12.2025. Kilde for datoen er e-post limt inn av prosjektleder i samtalen. E-posten og tilbudet er ikke lagret i repoet.
+- **Vedleggsmappe (08.10.2026):** opprettet `leveranser/dsb/2026-10-08_dsb_soknad_frafall/` med `README.md` og 15 av 27 vedlegg. De 15 PDF-ene er kopiert uendret fra `leveranser/brann/2026-10-06_sivilombudet_klage/` og gitt nye numre etter vedleggslisten i søknaden. 12 vedlegg mangler som original og er listet i README med filnavn og henvisning til avskrift i repoet (01, 05, 06, 15, 16, 17, 18, 21, 22, 23, 24, 25). Statusbrevet til TBRT av 30.12.2025 finnes ikke i repoet. Hovedbrevet er ikke konvertert til PDF.
+- **Justeringer etter gjennomlesing (08.10.2026):** fet skrift fjernet fra brødteksten i søknaden (punkt 1–12). Setningen i punkt 2 om saker der DSB har ventet er presisert til å gjelde DSB sak 2024/8295. Punkt 6.2 har fått fire setninger om at fristen 28.02.2026 var åtte uker og at selskapet i telefonsamtalen 06.01.2026 sa den var for kort; det TBRT sa muntlig, er gjengitt som selskapets oppfatning.
+- **Nytt punkt 6.3 (08.10.2026):** «Hvorfor sprinkling uten ombygging ikke er en løsning» lagt inn i søknaden; tidligere 6.3 og 6.4 er nå 6.4 og 6.5. Tre grunner: bæringen i kjeller må forsterkes først, skjevheter (150–200 mm, tilstandsanalysen 2023) skal rettes opp, og 3.–5. etasje skal trolig plukkes ned. Nedplukkingen er etter prosjektleders opplysning ikke endelig bestemt, og teksten sier det. At fagfolk anbefaler nedplukking og at fundamenteringen forsterkes, bygger på prosjektleders opplysning. Prosjektleder har varslet flere argumenter til samme punkt.

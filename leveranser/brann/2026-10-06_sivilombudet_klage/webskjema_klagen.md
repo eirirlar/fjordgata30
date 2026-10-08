@@ -1,10 +1,4 @@
-# Sivilombudet webskjema — del 2 «Klagen»
-
-> **MERK (lagt til 7. oktober 2026):** Teksten under refererer «Forskrift om brannforebygging § 6» i punkt 2. Korrekt paragrafnummer er § 8. Feilen er korrigert i etterinnsendelse via Min side 7. oktober 2026 (se `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md`). Teksten her er bevart i den form den ble sendt.
-
-Felt for felt. Brødteksten i «Beskrivelse» er ren tekst (ingen fed, kursiv eller markdown-tegn) så den kan kopieres rett inn i skjemaet. Beskrivelsen er 3990/4000 tegn.
-
----
+# Sivilombudet webskjema
 
 ## Navn på forvaltningsorgan
 

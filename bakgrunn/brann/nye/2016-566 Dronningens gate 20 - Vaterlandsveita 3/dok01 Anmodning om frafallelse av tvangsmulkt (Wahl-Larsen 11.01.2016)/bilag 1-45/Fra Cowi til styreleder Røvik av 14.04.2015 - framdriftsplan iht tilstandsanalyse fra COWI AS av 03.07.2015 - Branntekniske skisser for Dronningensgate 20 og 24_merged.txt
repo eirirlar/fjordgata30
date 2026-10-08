@@ -1,0 +1,581 @@
+Original PDF: Fra Cowi til styreleder Røvik av 14.04.2015 - framdriftsplan iht tilstandsanalyse fra COWI AS av 03.07.2015 - Branntekniske skisser for Dronningensgate 20 og 24.PDF
+
+Sammenslått versjon (_merged): bygger på _reader.txt (transkribert fra bilde av hver side), kontrollert og supplert mot _pdftotext.txt. Ingen setninger er omskrevet eller fjernet. Støy fra tekstgjenkjenning er utelatt. Tekst inne i plantegninger er utelatt. Bilder, logoer og signaturer er ikke beskrevet, bare markert. Usikre tall/ord er markert med [?].
+
+--- Side 1 ---
+
+[Håndskrevet bilagsnr.: 12] [Håndskrevne initialer]
+
+Jostein Grosås
+
+Fra: O.Warren Fyhn-Roevik <olaroevik@icloud.com>
+Sendt: 14. april 2015 20:57
+Til: grosås jostein
+Emne: Fwd: Brannteknisk oppgradering - Dronningens gate 20 -22
+
+Videresendt melding:
+
+Fra: Vegard Johnsen <vejo@cowi.no>
+Dato: 14. april 2015 kl. 19.57.03 CEST [håndskrevet overstrykning]
+Til: "tk.postmottak@trondheim.kommune.no" <tk.postmottak@trondheim.kommune.no>
+Kopi: "olaroevik@icloud.com" <olaroevik@icloud.com>
+Emne: Brannteknisk oppgradering - Dronningens gate 20 -22
+
+Hei hei
+
+Jeg ønsker å informere om at COWI AS skal bistå eier av Dronningensgate 20 – 22 i å lukke av avvik fra tilsyn som omhandler brannteknisk bygningsdokumentasjon. COWI skal bistå med utarbeidelse av brannteknisk bygningsdokumentasjon, gjennom en brannteknisk oppgradering iht. FOBTOT. Befaring og oppstart vil foregå fortløpende, og avsluttes med rapport, tegninger, og tiltaksliste dersom aktuelt. Vi vil også bistå bygningseier i å prioritere rekkefølgen på eventuelle tiltak, slik at feil/mangler som omhandler personsikkerhet blir først utbedret.
+
+Ved spørsmål eller ønske om kontakt er det bare å ta kontakt med meg eller bygningseier.
+
+Med vennlig hilsen / Best regards
+
+Vegard Johnsen
+Branningeniør
+Buildings Central/North Norway
+
+COWI
+COWI AS
+Company Reg. no.: 979 364 857
+Besøksadresse: Stakkevollveien 41, 9010 Tromsø
+Postadresse: Postboks 3636, Guleng, 9278 Tromsø
+Norway
+
+Telefon/Phone: +47 02 69 4
+Mobil/Mobile: +47 920 86 444
+Email: vejo@cowi.no
+www.cowi.no / www.cowi.com
+
+Print only if necessary
+
+1
+
+--- Side 2 ---
+
+[Håndskrevet: 13 - 30]
+
+COWI
+
+PROPERTY- INVEST 1 AS
+DRONNINGENS GATE 20 - 22
+FRAMDRIFTSPLAN IHT. TILSTANDSANALYSE
+
+ADRESSE COWI AS, Stakkevollveien 41, 9010 Tromsø, Postboks 3636, 9278 Tromsø
+TLF +47 02694
+www cowi.no
+
+OPPDRAGSNAVN: DRONNINGENS GATE 20-22
+OPPDRAGSNR.: A069759
+IT - ARKIV: http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+OPPDRAGSGIVER: Property-Invest 1 AS og Property-Investors AS
+OPPDRAGSGIVERS REFERANSE: Ola Røvik
+DOKUMENTTITTEL: TILSTANDSANALYSE
+DOKUMENTNR.: 1
+VERSJON: -
+STATUS:
+UTGIVELSESDATO: 03.07.2015
+UTARBEIDET: Vegard Johnsen
+KONTROLLERT: Tommy Lundervold
+GODKJENT: Vegard Johnsen
+
+[Revisjonstabell: REV. / DATO / TEKST / SAKSB. / KONTR. / GODKJ. — tom]
+
+--- Side 3 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   2/10
+
+1 Oppsummering med forslag til videre fremdrift
+
+Her følger en liste over tiltak for at bygget skal kunne anses som bygget, utstyrt og vedlikeholdt iht. gjeldende regelverk.
+
+Det sendes oppdatering/status på utførelse til Trondheim brann og redning på følgende datoer:
+› 30.november 2015
+› 31.januar 2016
+› 31.mars 2016
+
+Felles tiltak:
+
+› Det skal være brannalarmanlegg kategori 2 i hele bygningsmassen. Se kapittel Error! Reference source not found. for ytelseskrav.
+  Utføres av: Godkjent foretak | Utføres innen: Mars 2016
+
+› Det skal være markeringslys over utganger, og nødlys i rømningsvei/trapperom. Alle utganger må gjennomgås da tilnærmet samtlige var uten merking. Se kapittel Error! Reference source not found. for ytelseskrav. Rømningsveier er merket med heldekkende grønn skravur på skissene.
+  Utføres av: Godkjent foretak | Utføres innen: Desember 2015
+
+› Det skal plasseres ut håndslukkere iht. brannskissene.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+Plan Kjeller:
+
+1 Dør skiftes til dør med brannmotstand minst EI 30-Sa [B 30].
+  Utføres av: [tomt] | Utføres innen: [tomt]
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 4 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   3/10
+
+2 Dør skiftes til dør med brannmotstand minst EI 30-CSa [B 30 S].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+3 Vinduer (3 stk.) skiftes med vinduer med klasse minst E 30 [F 30].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+4 EL-skap i rømningsvei må stå i godkjente skap. Dette må verifiseres av elektrorådgiver. Samme gjelder sikringsskap i trapperom lengst øst.
+  Utføres av: Gjøres av samme foretak som brannalarm/ledelys | Utføres innen: Mars 2016
+
+5 Dørblad som slår inn imot rømningsretningen tas bort. Det er tilfredsstillende med kun én branndør EI 30-CSa [B 30 S] mot korridor.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+6 Det må etableres en korridor fram til utgangsdøren. Dette medfører at vegg mot Lager må bygge opp iht. krav om EI 60 [B 60]. Dør til lager må ha klasse minst EI 30-Sa [B 30]. Trapp opp til skobutikk er en kommunikasjonstrapp, og kan være åpen i Plan Kjeller (dør med brannklasse i Plan 1). Merk også at trapper må være kledd fra undersiden med f. eks. gips iht. krav om EI 60.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+Plan 1:
+
+7 Ryddes i trapperom.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 5 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   4/10
+
+8 Dør skiftes til dør med brannmotstand minst EI 30-Sa [B 30].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+9 Dør var låst, må kontrolleres av eier iht. krav EI 30-Sa [B 30]. Dersom mangelfull merking må dør skiftes.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+10 Innkledde vinduer skal være sikret med EI 30 konstruksjon, dette må kontrolleres og evt. utbedres dersom mangelfullt. Herunder også tilslutning av plate mot vegg.
+  Utføres av: Foretak som skifter dører/vinduer kontrollerer dette. | Utføres innen: Oktober 2015
+
+11 Dør skiftes til dør med brannmotstand minst EI 30-CSa [B 30 S].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+12 Veggfelt må bygges opp som EI 60 [B 60] konstruksjon. Dør må ha klasse minst EI 30-Sa [B 30] mot trapp, og EI 30-CSa [B 30 S] mot Kafé (og overbygd rømningstrasé dersom det er ønskelig med dør) her.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+13 Brannslange monteres når leietaker er på plass.
+  Utføres av: Avventes til leietaker er satt | Utføres innen: -
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 6 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   5/10
+
+14 Vindu kles igjen med EI 60 [B 60] konstruksjon.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+15 Dør merkes og tilrettelegges for rømning.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Oktober 2015
+
+16 Vinduer (totalt 6 stk.) skiftes til brannvinduer med klasse EI 30 [B 30].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+17 Kledning på vegg og tak i overbygd areal brannmales eller skiftes/kles inn med kledning minst klasse B-s2,d0 [In 1 / Ut 1]. (Gips/sementbundne plater som tåler klima anbefales.)
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Oktober 2015
+
+Plan 2:
+
+18 Vegger mellom annen branncelle og tomt lokale var skadet. Denne må repareres slik at brannmotstand EI 60 er ivaretatt (uavhengig av om lokalet er tomt eller utleid).
+  Utføres av: Vaktmester utfører iht. godkjent løsning (Rockwool/Glava). | Utføres innen: November 2015
+
+19 Vindu kles igjen med EI 60 [B 60] konstruksjon.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 7 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   6/10
+
+20 Dør tas bort da den slår feil vei/er til hinder i rømningsvei.
+  Utføres av: Eier | Utføres innen: November 2015
+
+21 Dør skiftes til dør EI 30-CSa [B 30 S], med slagretning ut i rømningsretningen.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+22 Branntetting rundt dørkarm utbedres.
+  Utføres av: Vaktmester utfører iht. montasjeanvisning til godkjent produkt. | Utføres innen: November 2015
+
+23 Vindu skiftes med brannvindu, eller kles igjen, iht. EI 60 [B 60]. Bakgrunnen er innvendig hjørne og fare for brannsmitte mellom to branceller.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+24 Vindu skiftes med brannvindu EI 30 [B 30].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+25 Dør merkes med rømning på begge sider, og det tilrettelegges for rømning fra begge sider. Dersom dør skal være låst til daglig, må dør har åpningsmekanisme som overstyrer låsen ved alarm. Det må også være mulighet for å åpne døren manuelt.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Oktober 2015
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 8 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   7/10
+
+26 Dør skiftes til dør med brannmotstand EI 30-CSa [B 30 S].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+27 Dører (totalt 4 stk.) var låste ved befaring. Disse må kontrolleres opp mot brannkrav EI 30-Sa [B 30], og skiftes dersom mangelfull merking.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+Plan 3 (Loft):
+
+28 Dør skiftes til dør med brannmotstand EI 30-CSa [B 30 S].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+29 Dør skiftes til dør med brannmotstand EI 60-Sa [B 60].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+30 Ryddes i rømningstrasé.
+  Utføres av: Eier | Utføres innen: November 2015
+
+31 Vindu skiftes til åpningsbart brannvindu EI 30 [B 30]. Dette mht. brannsmitte i innvendig hjørne mot rømningsvei, samt mulighet for utlufting av røyk for brannvesenet.
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 9 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   8/10
+
+32 Vindu skiftes til brannvindu EI 30 [B 30].
+  Utføres av: Godkjent foretak gir pris og navngis her. | Utføres innen: Januar 2016
+
+33 Dører (totalt 4 stk.) var låste. Disse må kontrollers opp mot brannkrav EI 30-Sa [B 30], og skiftes dersom brannklasse mangler.
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+34 Dør kontrolleres opp mot brannkrav EI 30-Sa [B 30].
+  Utføres av: Eier | Utføres innen: Oktober 2015
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 10 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   9/10
+
+2 Vedlegg
+
+2.1 Branntegninger
+Branntekniske skisser, Plan 1 – 4. Datert 02.07.2015.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 11 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   10/10
+
+3 Referanser
+[1] NS 3424 Tilstandsanalyse av byggverk
+[2] NBI 720.306 Brannteknisk tilstandsanalyse
+[3] Veiledning til Forskrift om brannforebyggende tiltak og tilsyn tilhørende Forskrift om brannforebyggende tiltak og tilsyn til Lov av 14. juni 2002 nr 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (Brann og eksplosjonsvernloven).
+[4] Forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff) av 08.06.2009.
+[5] Plan- og bygningslov av 27. juni 2008 nr. 71 (PBL)
+[6] Byggeforskrift 1985, Kommunal- og arbeidsdepartementet
+[7] Byggeforskrift 1987, utgitt av Norsk brannvernforening, Ansvarlig myndighet: Statens bygningstekniske etat
+[8] Rett og slett en veiledning til Byggeforskrift 1987, utgitt av Norsk brannvernforening, Ansvarlig myndighet: Statens bygningstekniske etat
+[9] Tekniske forskrifter til plan- og bygningsloven 1997, Kommunal- og arbeidsdepartementet, Bolig- og bygningsavdelingen, Norge.
+[10] Veiledning til teknisk forskrift til plan- og bygningsloven 1997, 4. Utgave mars 2007, Statens Bygningstekniske Etat, Norge.
+[11] NBI.720.306 Brannteknisk tilstandsanalyse. Nivå 1. Byggforsk kunnskapssystemer, 2014.
+[12] NBI 520.380 Røykkontroll
+[13] NS 3960 – Brannalarmanlegg
+[14] NS 54-serien
+[15] NS-EN 3-7 Brannmateriell - Håndslukkere Del 7: Egenskaper, ytelseskrav og prøvingsmetoder.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Framdriftsplan - Dronningens gate 20 og 22.docx
+
+--- Side 12 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   11/18
+[Merk: nytt dokument (tilstandsanalysen), sidenummerering x/18]
+
+5.6 Branntekniske installasjoner
+
+Beskrivelse av forholdet | Vurdering | Tilstandsgrad
+
+Brannalarmanlegg | Det skal være brannalarmanlegg kategori 2 i hele bygningsmassen. Anlegget kan prosjekteres etter NS 3960:2013 Brannalarmanlegg - Prosjektering, installasjon, drift og vedlikehold og NS-EN 54-serien.
+
+Detektorer i leiligheter i boligbygninger må dekke områdene kjøkken, stue og sone utenfor soverom. Dessuten må følgende være oppfylt:
+
+1. Akustiske signalgivere må plasseres slik at alarmstyrken er minst 60 dB i oppholdsrom og soverom når mellomdører er lukket.
+2. Detektorer må installeres i trapperom, kjeller og loft. Akustiske signalgivere skal monteres i disse områdene.
+3. Alarm utløst i leilighet trenger kun varsler i leiligheten først. Dersom alarm ikke avstilles (innen f. eks. 1 min), bør alle innenfor samme sone varsles. Etter 2 minutter bør hele bygningsmassen varsles.
+4. Mulighet for avstilling ved falsk alarm bør vært strategisk plassert.
+5. Alarm utløst i fellesarealer varsler alle.
+6. Soneinndeling er mulig. Dette må ses opp mot andre brannceller som påvirkes. Herunder de med felles trapp + de som ligger i innvendig hjørner i bakgården.
+
+Ansvarlig PRO som velges for anlegget vil kunne bistå på praktisk fornuftige løsninger. | 3
+
+Nødlys/ledesystem | Det var generelt få markeringslys, og ingen nødlys i rømningsveier.
+
+Det skal være markeringslys over utganger i og fra kontor- og salgslokaler, og rømningsveier/trapperom skal utstyres med nødlys for sikre belyste rømningsveier ved strømbrudd/alarm.
+
+Unntak for krav om ledesystem er salgslokalene med ett plan på bakkenivå, og med utgang direkte til det fri (eksempelvis skobutikk). Her trengs kun markeringslys over dør. | 2
+
+Røykventilasjon | Trapperom fra Plan 1 - 3 i Dronningens gate 24 har vindu i hver etasje + takvindu. Iht. NBI 520.380 Røykkontroll i bygninger. | 0
+
+Trapperom mellom Plan 1 og 3 lengst øst i Dronningens gate 20, har ikke mulighet for røykventilering av trapperom. Plan 3 er tilrettelagt med 3 trapper opp, hvor to av disse er rømningstrapper som kan benyttes av brannvesenet. I tillegg er det en kommunikasjonstrapp i midten av bygget. Bygningsdelen som utgjør Dronningens gate 20, er ca. 20 meter bred, og med rømningstrappene i hver ende. Slangeutlegg for brannvesenet vil ikke overstige 50 meter målt fra bakkeplan, uansett hvor brannen i Plan 3 er. En av bakgrunnene for røykutlufting i trapperom er for å ha muligheten til å ventilere ut røyk, for så å kunne starte røykdykkerinnsatsen fra inngangsdøren til etasjen. Derfra skal det da være maks 50 meter slangeutlegg for å dekke etasjen/branncellen. Ut | 1
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 13 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   12/18
+
+(forts. Røykventilasjon) | i fra antall trapper, størrelsen på bygget, og avstander, anses eksisterende forhold uten røykluke i disse trapperommene som tilfredsstillende. |
+
+5.7 Tilrettelegging for manuell slokking
+
+Beskrivelse av forholdet | Vurdering | Tilstandsgrad
+
+Brannslanger | Lokaler definer som risikoklasse 5 skal ha brannslange. Dette gjelder per nå kun Kafé. Dersom en større butikk leier "tomt lokale", er det sannsynlig at krav til brannslange også slår inn der.
+
+Brannslange skal være maks 30 meter. | 0
+
+Håndslokkere | Det skal være minst 1 håndslukker tilgjengelig innenfor maks 30 meter i bygget. Pga. flere leietakere (låste dører/skallsikring) er det behov for flere. Branntekniske skisser viser tilfredsstillende plassering og dekning.
+
+Håndslokkeapparater kan være pulverapparater på minimum 6 kg med ABC-pulver, eller skum- og vannapparater på minimum 9 liter eller på minimum 6 liter og med effektivitetsklasse minst 21A etter NS-EN 3-7 Brannmateriell - Håndslukkere Del 7: Egenskaper, ytelseskrav og prøvingsmetoder. | 1
+
+Merking | Håndslokkere skal henge på vegg, være lett tilgjengelig, og merket over med etterlysende skilt. I korridor skal det benyttes "plogskilt" over håndslokkeren. | 1
+
+5.8 Tekniske installasjoner
+
+Beskrivelse av forholdet | Vurdering | Tilstandsgrad
+
+Ventilasjonsanlegg | Ventilasjonsanlegget som betjener Kafé står i samme branncelle som Kafeen, dette er tilfredsstillende da anlegget kun betjener Kafeen. | 0
+
+Elektriske installasjoner | Nytt brannalarmanlegg og nød-/ledelys skal ha sikker driftstid i minst 60 minutter. | [tomt]
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 14 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   13/18
+
+5.9 Tilrettelegging for rednings- og slokkemannskap
+
+Beskrivelse av forholdet | Vurdering | Tilstandsgrad
+
+Adkomst og tilrettelegging | Det er kjørbaradkomst til byggets fasader. Noe trangt mot Vaterlandsveita 3, men pga. "lavt byggverk" vil brannvesenet enkelt kunne sette opp manuelle stiger for tilkomst til samtlige vinduer i fasaden.
+
+Bygningsmassen ligger i Trondheim sentrum, og det forventes tilfredsstillende tilgang til slukkevann da dette er eksisterende bygningsmasse. | 0
+
+Lengde på innsatsvei | Det er ca. 400 meter til brannstasjonen. Bygningsmassen ligger i sentrum av Trondheim.
+
+Innsatsvei i branncelle vil normalt ikke overstige 50 meter. | 0
+
+Øvrige forhold | Det skal være orienteringsplaner og nøkkelboks ved hovedangrepsvei. Brannalarmsentral skal plasseres strategisk mht. innsats. Det foreslås en plassering i korridoren mellom Kafé og sko utsalg. Her vil brannvesenet enkelt komme til, samt ha tilkomst til den største bakgården. Undersentraler strategisk plassert anbefales. | 0
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 15 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   14/18
+
+6 Branndokumentasjon
+
+Eier: Som eier av byggverk skal man besitte den tekniske dokumentasjonen for bygget og dets tekniske anlegg som har funksjon ved brann. Denne rapporten, med vedlagt brannskisser, vil utgjøre en del av denne dokumentasjonen når tiltakene er lukket. Det er også viktig at eier sørger for å innhente/får oversendt FDV dokumentasjon for tekniske anlegg når disse monteres.
+
+Bruker/leietaker og eier: Det skal foreligge en kontrakt/avtale mellom eier og bruker/leietaker, hvor det framkommer at (eksempelvis) bruker/leietaker skal sørge for å ivareta krav til opplæring av ansatte, brannøvelser, instrukser, etc.
+
+Bruker/Leietaker: Ansvarlig for drift iht. de forutsetninger som foreligger for bygget, samt ivaretakelse av krav/føringer hva angår opplæring, brannøvelse, etc.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 16 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   15/18
+
+7 Oppsummering med forslag til videre fremdrift
+
+Her følger en liste over tiltak for at bygget skal kunne anses som bygget, utstyrt og vedlikeholdt iht. gjeldende regelverk. Alle tre "Felles tiltak", samt utskiftning av dører og vinduer i de forskjellige etasjen med brannklassifiserte produkter, anses som mest kritisk:
+
+Felles tiltak:
+› Det skal være brannalarmanlegg kategori 2 i hele bygningsmassen. Se kapittel 5.6 for ytelseskrav.
+› Det skal være markeringslys over utganger, og nødlys i rømningsvei/trapperom. Alle utganger må gjennomgås da tilnærmet samtlige var uten merking. Se kapittel 5.6 for ytelseskrav. Rømningsveier er merket med heldekkende grønn skravur på skissene.
+› Det skal plasseres ut håndslukkere iht. brannskissene.
+
+Plan Kjeller:
+1 Dør skiftes til dør med brannmotstand minst EI 30-Sa [B 30].
+2 Dør skiftes til dør med brannmotstand minst EI 30-CSa [B 30 S].
+3 Vinduer (3 stk.) skiftes med vinduer med klasse minst E 30 [F 30].
+4 EL-skap i rømningsvei må stå i godkjente skap. Dette må verifiseres av elektrorådgiver. Samme gjelder sikringsskap i trapperom lengst øst.
+5 Dørblad som slår inn imot rømningsretningen tas bort. Det er tilfredsstillende med kun én branndør EI 30-CSa [B 30 S] mot korridor.
+6 Det må etableres en korridor fram til utgangsdøren. Dette medfører at vegg mot Lager må bygge opp iht. krav om EI 60 [B 60]. Dør til lager må ha klasse minst EI 30-Sa [B 30]. Trapp opp til skobutikk er en kommunikasjonstrapp, og kan være åpen i Plan Kjeller (dør med brannklasse i Plan 1). Merk også at trapper må være kledd fra undersiden med f. eks. gips iht. krav om EI 60.
+
+Plan 1:
+7 Ryddes i trapperom.
+8 Dør skiftes til dør med brannmotstand minst EI 30-Sa [B 30].
+9 Dør var låst, må kontrolleres av eier iht. krav EI 30-Sa [B 30]. Dersom mangelfull merking må dør skiftes.
+10 Innkledde vinduer skal være sikret med EI 30 konstruksjon, dette må kontrolleres og evt. utbedres dersom mangelfullt. Herunder også tilslutning av plate mot vegg.
+11 Dør skiftes til dør med brannmotstand minst EI 30-CSa [B 30 S].
+12 Veggfelt må bygges opp som EI 60 [B 60] konstruksjon. Dør må ha klasse minst EI 30-Sa [B 30] mot trapp, og EI 30-CSa [B 30 S] mot Kafé (og overbygd rømningstrasé dersom det er ønskelig med dør) her.
+13 Brannslange monteres når leietaker er på plass.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 17 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   16/18
+
+14 Vindu kles igjen med EI 60 [B 60] konstruksjon.
+15 Dør merkes og tilrettelegges for rømning.
+16 Vinduer (totalt 6 stk.) skiftes til brannvinduer med klasse EI 30 [B 30].
+17 Kledning på vegg og tak i overbygd areal brannmales eller skiftes/kles inn med kledning minst klasse B-s2,d0 [In 1 / Ut 1]. (Gips/sementbundne plater som tåler klima anbefales.)
+
+Plan 2:
+18 Vegger mellom annen branncelle og tomt lokale var skadet. Denne må repareres slik at brannmotstand EI 60 er ivaretatt (uavhengig av om lokalet er tomt eller utleid).
+19 Vindu kles igjen med EI 60 [B 60 konstruksjon.
+20 Dør tas bort da den slår feil vei/er til hinder i rømningsvei.
+21 Dør skiftes til dør EI 30-CSa [B 30 S], med slagretning ut i rømningsretningen.
+22 Branntetting rundt dørkarm utbedres.
+23 Vindu skiftes med brannvindu, eller kles igjen, iht. EI 60 [B 60]. Bakgrunnen er innvendig hjørne og fare for brannsmitte mellom to brannceller.
+24 Vindu skiftes med brannvindu EI 30 [B 30].
+25 Dør merkes med rømning på begge sider, og det tilrettelegges for rømning fra begge sider. Dersom dør skal være låst til daglig, må dør har åpningsmekanisme som overstyrer låsen ved alarm. Det må også være mulighet for å åpne døren manuelt.
+26 Dør skiftes til dør med brannmotstand EI 30-CSa [B 30 S].
+27 Dører (totalt 4 stk.) var låste ved befaring. Disse må kontrolleres opp mot brannkrav EI 30-Sa [B 30], og skiftes dersom mangelfull merking.
+
+Plan 3 (Loft):
+28 Dør skiftes til dør med brannmotstand EI 30-CSa [B 30 S].
+29 Dør skiftes til dør med brannmotstand EI 60-Sa [B 60].
+30 Ryddes i rømningstrasé.
+31 Vindu skiftes til åpningsbart brannvindu EI 30 [B 30]. Dette mht. brannsmitte i innvendig hjørne mot rømningsvei, samt mulighet for utlufting av røyk for brannvesenet.
+32 Vindu skiftes til brannvindu EI 30 [B 30].
+33 Dører (totalt 4 stk.) var låste. Disse må kontrollers opp mot brannkrav EI 30-Sa [B 30], og skiftes dersom brannklasse mangler.
+34 Dør kontrolleres opp mot brannkrav EI 30-Sa [B 30].
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 18 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   17/18
+
+8 Vedlegg
+
+8.1 Branntegninger
+Branntekniske skisser, Plan 1 – 4. Datert 02.07.2015.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 19 ---
+
+MAL-RIBR-400 VERSJON 1.0 AV 01.10.2014   COWI
+DRONNINGENS GATE 20 - 24   18/18
+
+9 Referanser
+[1] NS 3424 Tilstandsanalyse av byggverk
+[2] NBI 720.306 Brannteknisk tilstandsanalyse
+[3] Veiledning til Forskrift om brannforebyggende tiltak og tilsyn tilhørende Forskrift om brannforebyggende tiltak og tilsyn til Lov av 14. juni 2002 nr 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (Brann og eksplosjonsvernloven).
+[4] Forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen (forskrift om håndtering av farlig stoff) av 08.06.2009.
+[5] Plan- og bygningslov av 27. juni 2008 nr. 71 (PBL)
+[6] Byggeforskrift 1985, Kommunal- og arbeidsdepartementet
+[7] Byggeforskrift 1987, utgitt av Norsk brannvernforening, Ansvarlig myndighet: Statens bygningstekniske etat
+[8] Rett og slett en veiledning til Byggeforskrift 1987, utgitt av Norsk brannvernforening, Ansvarlig myndighet: Statens bygningstekniske etat
+[9] Tekniske forskrifter til plan- og bygningsloven 1997, Kommunal- og arbeidsdepartementet, Bolig- og bygningsavdelingen, Norge.
+[10] Veiledning til teknisk forskrift til plan- og bygningsloven 1997, 4. Utgave mars 2007, Statens Bygningstekniske Etat, Norge.
+[11] NBI.720.306 Brannteknisk tilstandsanalyse. Nivå 1. Byggforsk kunnskapssystemer, 2014.
+[12] NBI 520.380 Røykkontroll
+[13] NS 3960 – Brannalarmanlegg
+[14] NS 54-serien
+[15] NS-EN 3-7 Brannmateriell - Håndslukkere Del 7: Egenskaper, ytelseskrav og prøvingsmetoder.
+
+http://projects.cowiportal.com/ps/A069759/Documents/03 Prosjektdokumenter/Tilstandsanalyse - Dronningens gate 20 og 24.docx
+
+--- Side 20 ---
+
+[Håndskrevet bilagsnr.: 31-35]
+
+Branntekniske skisser for Dronningens gate 20 og 24.
+Vedlegg til tilstandsanalyse.
+
+Symbolforklaring:
+EI 60 [B 60]
+Håndslokker
+Brannslange
+Utgang
+Rømningsvei
+Rømningstrasé
+Tiltak
+Hovedangrepsvei
+Kommentar
+
+Forutsetninger:
+- Skisser må ses i sammenheng med tilstandsanalyse fra COWI datert 02.07.2015.
+- Brannalarmanlegg kategori 2.
+- Nødlys i trapperom/rømningsvei.
+
+[Stempel: BRANNSKISSE COWI vejo 02.07.2015]
+Side 1 av 5
+Pronr.: A069759
+
+--- Side 21 ---
+
+[Plantegning. Bare tittelfelt er transkribert; romnavn og tiltaksnummer i tegningen tilsvarer tiltakslisten over.]
+
+Gatenavn på tegningen: VATERLANDSVEITA 3 (nord), DRONNINGENS G 24 og DRONNINGENS G 20 (sør)
+[Stempel: BRANNSKISSE COWI vejo 02.07.2015]
+DRONNINGENS G 20-24
+VATERLANDSVEITA 3
+EKSISTERENDE SITUASJON
+FEBRUAR 2005
+STUDIO 4 ARKITEKTER AS
+KJELLER - 10
+
+--- Side 22 ---
+
+[Plantegning. Bare tittelfelt er transkribert; romnavn og tiltaksnummer i tegningen tilsvarer tiltakslisten over.]
+
+Gatenavn på tegningen: VATERLANDSVEITA 3 (nord), DRONNINGENS G 24 og DRONNINGENS G 20 (sør)
+[Stempel: BRANNSKISSE COWI vejo 02.07.2015]
+DRONNINGENS G 20-24
+VATERLANDSVEITA 3
+EKSISTERENDE SITUASJON
+FEBRUAR 2005
+STUDIO 4 ARKITEKTER AS
+1. ETASJE - 11
+
+--- Side 23 ---
+
+[Plantegning. Bare tittelfelt er transkribert; romnavn og tiltaksnummer i tegningen tilsvarer tiltakslisten over.]
+[Håndskrevet øverst til høyre: V1-s3] [Håndskrevet i tegningen: Bakgård]
+
+Gatenavn på tegningen: VATERLANDSVEITA 3 (nord)
+[Stempel: BRANNSKISSE COWI vejo 02.07.2015]
+DRONNINGENS G 20-24
+VATERLANDSVEITA 3
+EKSISTERENDE SITUASJON
+FEBRUAR 2005
+STUDIO 4 ARKITEKTER AS
+2. ETASJE - 12
+
+--- Side 24 ---
+
+[Plantegning. Bare tittelfelt er transkribert; romnavn og tiltaksnummer i tegningen tilsvarer tiltakslisten over.]
+[Håndskrevet øverst til høyre: V1-s4]
+
+Gatenavn på tegningen: VATERLANDSVEITA 3 (nord)
+[Stempel: BRANNSKISSE COWI vejo 02.07.2015]
+DRONNINGENS G 20-24
+VATERLANDSVEITA 3 [håndskrevet tillegg: etage]
+EKSISTERENDE SITUASJON
+FEBRUAR 2005
+STUDIO 4 ARKITEKTER AS
+LOFT - 13
+

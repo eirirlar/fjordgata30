@@ -157,21 +157,9 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **08.11.2024** – **TBRT ilegger pålegg om brannsikring** med frist **01.05.2025**. Kravet innebærer fullsprinklet anlegg i hele bygget.[^33]
 
-**Høst 2024 (oktober)** – Tilbud mottatt fra første entreprenør på fase 1 (kontor). Tilbudet er en samspillskontrakt der risikoen i stor grad er veltet over på byggherre. Fase 2 er ikke estimert.
-
-**Medio desember 2024** – Tilbud mottatt fra andre entreprenør (fase 1 kontor). Bedre oppgaveforståelse og gjennomføringsevne; pris tilsvarende første tilbud. Fase 2 grovestimert. Konklusjon: kontor-prosjektet lar seg ikke regne hjem; nettonåverdi over 30 år anslås til minus 30–50 millioner kroner.
-
-**30.12.2024** – KodeWorks sender statusbrev. **Kontorbygg-prosjektet forkastes.** Pivot til alternativt bruksformål (minilager). Forprosjekt for minilager planlegges januar–februar 2025.
-
 ---
 
 ## 2025
-
-**06.01.2025** – TBRT svarer på statusbrev; gir ny frist til **28.02.2025** for å dokumentere fremdrift.
-
-**26.01.2025** – Nabovarsel og dispensasjonssøknad sendes i forbindelse med det nye minilager-prosjektet.
-
-**Januar–februar 2025** – Forprosjekt for minilager pågår. Vurdering av lønnsomhet og tekniske krav. Konklusjon: minilager er lønnsomt og gjennomførbart.
 
 **02.05.2025** – **Byantikvaren innvilger tilskudd på 500 000 kr** (saksref. 2025/5928, saksbehandler Elisabeth Kahrs). Type 1-tiltak: sikring og istandsetting av konstruksjon. Søkt beløp var 750 000 kr. Planlagt oppstart 01.06.2025, ferdigstillelse 31.12.2025.[^28]
 
@@ -235,6 +223,12 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 **13. des 2025 (E)** – **Arbeidsøkt:** KB + OML – rydding og opprydding. Ca. 4 timer.[^71]
 
+**Oktober–november 2025** – Prisantydning mottatt (muntlig, ifølge prosjektleder) fra første entreprenør på fase 1 (kontor). Tilbudet er en samspillskontrakt der risikoen i stor grad er veltet over på byggherre. Fase 2 er ikke estimert.
+
+**16.12.2025** – Skriftlig tilbud mottatt på e-post fra Astra Bygg & Entreprenør AS v/ Roar Lillefjell, etter møte fredag 12.12.2025 – andre og siste entreprenør (fase 1 kontor). Tilbudet gjaldt kontorombyggingen, bekreftet av prosjektleder 08.10.2026. Kilde: e-post 16.12.2025 kl. 14:04 fra roar@astrabygg.no; e-posten og tilbudet er ikke lagret i arkivet. Bedre oppgaveforståelse og gjennomføringsevne; pris tilsvarende første tilbud. Fase 2 grovestimert. Konklusjon: kontor-prosjektet lar seg ikke regne hjem; nettonåverdi over 30 år anslås til minus 30–50 millioner kroner.
+
+**30.12.2025** – KodeWorks sender statusbrev. **Kontorbygg-prosjektet forkastes.** Pivot til alternativt bruksformål (minilager). Forprosjekt for minilager planlegges januar–februar 2026. Prosjektering av minilager var bestilt hos HRP AS 01.12.2025 (`bakgrunn/2025-12-01_oppdragsbekreftelse_hrp.md`). *(Årstall rettet 08.10.2026: oppføringene om entreprenørtilbud, forkastet kontorprosjekt og statusbrev sto tidligere under 2024. TBRTs svar av 06.01.2026 viser til statusbrev datert 30.12.2025.)*
+
 **Dato ukjent (høst 2025) – mangler dokumentasjon** – Nabobrygga Fjordgata 32 legges ut for salg. KodeWorks undersøker muligheten for et fellesprosjekt med eier av FG32; dette leder ikke til noe. To potensielle kjøpere av Fjordgata 30 vurderer fellesprosjekt, men konkluderer med for høy risiko.
 
 **21.01.2026 (søknadsdato) / høst/vinter 2025 (vedtak)** – Tilskudd fra Enova innvilget: energikartlegging **400 000 kr** (sak 26/2548)[^38] og ombrukskartlegging **500 000 kr** (sak 26/2555).[^39] Begge bekreftet mottatt ved start av statusmøterunden i mars 2026. Prosjektstart 25.02.2026.
@@ -245,7 +239,9 @@ Fra 2019 til 2021 pågår en løpende dialog mellom TBRT og KodeWorks i form av 
 
 ### Januar–februar: Forprosjekt og søknadsunderlag
 
-**06.01.2026** – TBRT svarer med ny frist til **28.02.2026** for å dokumentere fremdrift mot brannsikring.[^40]
+**06.01.2026** – TBRT svarer på statusbrevet av 30.12.2025 og gir ny frist til **28.02.2026** for å dokumentere fremdrift mot brannsikring. Dagmulkten løper fra 01.03.2026.[^40]
+
+**Januar–februar 2026** – Forprosjekt for minilager pågår. Vurdering av lønnsomhet og tekniske krav. Konklusjon: minilager er lønnsomt og gjennomførbart.
 
 **17. jan 2026 (E)** – **Arbeidsøkt:** KB (Berg 1) + Spinell – rydding og konstruksjonskartlegging, kjeller. Ca. 4 timer.[^71]
 
@@ -565,4 +561,4 @@ Følgende hendelser er omtalt i bakgrunnsmaterialet uten tilstrekkelig dato elle
 
 [^85]: `bakgrunn/brann/2026-05-12_autronica_aarskontroll_brannalarmanlegg.md` – Autronica Fire and Security, årlig kontroll brannalarmanlegg utført 12.05.2026. Kontrollør Anders Nergård. Anleggsnr. 3280658, sentral BS-420 (AutroSafe 4, SW 4.12.0), NS3960:2019, risikoklasse 5, brannalarmkategori 2. **Ingen avvik, ingen anbefalinger.** Testet: funksjonskontroll, sløyfeenheter, spesialdetektorer, sprinklerkontroll (feilovervåkning og alarm), overføring til brannvesenet (110). 88 spesialdetektorer (BHH-200), 4 sprinklerkontroller (BH-220), batteri byttet 2024. Kontaktperson i rapport: Lasse Holanger. Anlegget står registrert på morselskapet «Kodeworks AS»; ryddes samlet ved planlagt fisjon. Neste årskontroll mai 2027. Kilde-PDF: `bakgrunn/brann/2026-05-12_autronica_aarskontroll_brannalarmanlegg.pdf`.
 
-*Sist oppdatert: 6. oktober 2026*
+*Sist oppdatert: 8. oktober 2026*
