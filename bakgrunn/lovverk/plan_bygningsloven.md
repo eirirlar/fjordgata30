@@ -15,7 +15,7 @@
 >
 > **Affiserte leveranser:** Alle leveranser som refererer «pbl § 29-4» med innholdet «Ethvert tiltak…» har feil citation — det er faktisk § 29-5. Særlig:
 > - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt)
-> - `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast)
+> - `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast)
 
 ---
 

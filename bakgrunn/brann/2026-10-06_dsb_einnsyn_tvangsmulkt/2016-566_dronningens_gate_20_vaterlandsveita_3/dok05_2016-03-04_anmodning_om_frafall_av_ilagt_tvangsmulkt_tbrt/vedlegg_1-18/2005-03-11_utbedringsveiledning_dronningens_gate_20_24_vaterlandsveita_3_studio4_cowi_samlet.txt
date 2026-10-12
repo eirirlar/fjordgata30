@@ -1,0 +1,2270 @@
+Original PDF: Vedlegg 1.PDF
+
+=== READER (multimodal ekstrakt â€” strukturert, med bildebeskrivelser) ===
+
+=== SIDE 1 (FORSIDE) ===
+
+[HÃ¥ndskrevet Ã¸verst til venstre: Vedlegg 1.]
+
+UTBEDRINGSVEILEDNING FOR DRONNINGENS GATE 20-24 OG VATERLANDSVEITA 3
+Dato: 11.03.2005
+
+[Trondheim kommunes vÃ¥penskjold]
+
+Trondheim kommune
+
+UTBEDRINGSVEILEDNING
+Dronningens gate 20, 24 og Vaterlandsveita 3
+
+[Fotografi av bygningskomplekset â€” hjÃ¸rnebygning i mur/tre med butikker i 1. etasje]
+
+Enkel tilstandsrapport med forslag til prioriterte utbedringstiltak og kostnadsoverslag
+
+ADRESSE: DRONNINGENS GT 24      GNR/BNR: 40/52
+EIER: FRANCHISE HOLDING AS
+ADRESSE: DRONNINGENS GT 20      GNR/BNR: 40/50
+EIER: INGER SIGRUN RÃ˜VIK
+ADRESSE: VATERLANDSVEITA 3     GNR/BNR: 40/375
+EIER: INGER SIGRUN RÃ˜VIK
+POSTNUMMER: 7011    POSTSTED: TRONDHEIM
+
+UtfÃ¸rende rÃ¥dgiver: Studio 4 Arkitekter AS og Cowi AS
+Befaring utfÃ¸rt av: Jo SÃ¸rvig og Helge Ã˜strem
+Befaringsdato: 2-18.02.2005
+Rapportdato: 11.03.2005
+Underskrift rÃ¥dgiver: [signatur Jo SÃ¸rvig]
+
+TRONDHEIM KOMMUNE                                                    Side 1 av 19
+
+=== SIDE 2 (INNHOLDSFORTEGNELSE) ===
+
+INNHOLDSFORTEGNELSE
+
+1    BAKGRUNN
+1.1  FormÃ¥l                                                              3
+1.2  Oppdragsgiver                                                       3
+1.3  Registreringsomfang                                                 3
+1.4  Referansegrunnlag                                                   3
+1.5  Ansvar                                                              3
+
+2    KONKLUSJONER
+2.1  Antall bruksenheter                                                 4
+2.2  Hovedkonstruksjon                                                   4
+2.3  Tilstand og foreslÃ¥tte tiltak                                       4
+2.4  Kostnadsoverslag                                                    7
+2.5  Anbefaling om ytterligere utredninger                               7
+
+3    HOVEDRAPPORT
+3.1  Tilstandsregistreringer Dronningens gate 20-24                      8
+3.2  Tilstandsregistreringer Vaterlandsveita 3                           9
+3.3  Tiltak Dronningens gate 20-24                                       9
+3.4  Tiltak Vaterlandsveia 3                                            11
+3.5  Bilder med beskrivelse                                             12
+
+4    VEDLEGG
+V1   Tegninger
+V2   Registreringsskjema Dronningensg 20-24
+V3   Registreringsskjema Vaterlandsveia 3
+V4   Trondheim kommunes utbedringsstandard
+
+=== SIDE 3 (BAKGRUNN) ===
+
+1. BAKGRUNN
+
+1.1 FormÃ¥l
+Denne utbedringsveiledningen er et dokument som skal gi eier kunnskap, oversikt over kostnader og grunnlag for beslutning knyttet til eventuelle tiltak for egen eiendom. En viktig hensikt er Ã¥ bevisstgjÃ¸re hver enkelt eier om ansvar for sin eiendom. MÃ¥let er Ã¥ stimulere eier til Ã¥ oppgradere og Ã¥ sikre bygninger og utearealer som i utgangspunktet har lav standard. Dette tilbudet er rettet mot boligeiendommer bygd fÃ¸r 1940, med 4 eller flere boenheter som ligger innenfor de 9 byfornyelsesomrÃ¥dene i Trondheim. Utbedringsveiledningen inkluderer gÃ¥rdsromstilstand og bygningsteknisk standard inklusive antikvariske forhold, brannsikkerhet og tilstand for sanitÃ¦ranlegg. Vurderingen av bygningenes standard er utfÃ¸rt i henhold til Trondheim kommunes utbedringsstandard ("30-Ã¥rs-standarden", bystyrevedtak A302/84). I tillegg er plan- og bygningslovens tekniske forskrifter (TEK) og deres veiledning (REN) lagt til grunn.
+
+1.2 Oppdragsgiver
+Trondheim kommune
+Bolig- og byfornyelseskontoret
+
+7004 TRONDHEIM
+
+Telefon 72 54 60 00
+Telefaks 72 54 66 14
+E-post bolig.byfornyingpostmottak@trondheim.kommune.no
+
+1.3 Registreringsomfang
+Befaring Dronningensg 20:
+- Kjeller, 1. og 2. etasje og loft. Ikke kryperom over loft.
+Befaring Dronningensg 24:
+- Kjeller, 1. etasje, kontorer eller leilighet 21 og dels leilighet 22 i 2. etasje, samt loft med unntak av enkelte boder.
+Befaring Vaterlandsveita 3:
+- Kjeller, 3 hybler og fellesrom i 1. etasje, leilighet nr 24 i 2. etasje. Leilighet nr 25 og loft er ikke befart.
+
+1.4 Referansegrunnlag
+- Trondheim kommunes utbedringsstandard ("30-Ã¥rs-standarden", bystyrevedtak A302/84)
+- Plan- og bygningslovens tekniske forskrifter (TEK) og veiledning (REN)
+- NS 3451 Bygningsdelstabell
+- NS 3453 Spesifikasjon av kostnader i byggeprosjekt
+
+1.5 Ansvar
+Eier har etter lovverket ansvar for at egen eiendom tilfredsstiller lover og offentlige forskrifter. Dersom det i forbindelse med utarbeidelse av utbedringsveiledningen oppdages forhold som er i strid med forskriftene (kfr pkt 2.3 nedenfor), vil Trondheim kommune bli varslet om dette.
+
+TRONDHEIM KOMMUNE                                                    Side 3 av 18
+
+=== SIDE 4 (KONKLUSJONER) ===
+
+2. KONKLUSJONER
+
+2.1 Antall boenheter
+
+Antall eksisterende boenheter i Dronningensg 20:
+[Tabell med kolonner: 4 rom + kjÃ¸kken eller stÃ¸rre, 3 rom + kjÃ¸kken, 2 rom + kjÃ¸kken, 1 rom + kjÃ¸kken, Hybel, NÃ¦ring â€” hver med underkolonner med bad/WC og uten bad/WC]
+Kjeller: NÃ¦ring JA
+1. etasje: NÃ¦ring JA
+2. etasje: NÃ¦ring JA
+3. etasje: 1 (4+ rom), 4 Hybler, NÃ¦ring NEI
+
+Antall eksisterende boenheter i Dronningensg 24:
+Kjeller: NÃ¦ring JA
+1. etasje: NÃ¦ring JA
+2. etasje: 3 (2 rom + kjÃ¸kken), NÃ¦ring JA
+3. etasje: NÃ¦ring NEI
+
+Antall eksisterende boenheter i Vaterlandsveita 3:
+Kjeller: NÃ¦ring NEI
+1. etasje: 1 (4+ rom), 4 Hybler, NÃ¦ring NEI
+2. etasje: 2 (2 rom + kjÃ¸kken), NÃ¦ring NEI
+3. etasje: NÃ¦ring NEI
+
+Antall boenheter totalt:
+5 toroms leiligheter og 2 bofellesskap Ã¡ 4 hybler med felles kjÃ¸kken og bad/wc
+
+2.2 Hovedkonstruksjon
+Bebyggelsen er fra ca 1850 â€“ 90 med en rekke ombygginger samt mindre tilbygg i gÃ¥rdsrommene. Grunnmurer er av sprengstein og tegl, pusset. Deler av Dronningsg 24 har hvelvkjellere, og deler av Vaterlandsveita 3 og bakgÃ¥rdene har ikke kjeller.
+Hovedbyggene er tÃ¸mmerkonstruksjoner. BakgÃ¥rdene er dels reisverk, utfylt med tegl/mur mot nabobebyggelse. Dronningsgate 20 er pusset utenpÃ¥ tÃ¸mmeret i fasaden, forÃ¸vrig har bebyggelsen panel utvendig.
+Etasjeskillere av trebjelkelag, de fleste med stubbloftsfyll.
+Takkonstruksjonen er sperrebind med Ã¥stak og tro med tekking av takstein.
+Alle bygningene har antikvarisk verdi.
+
+2.3 Tilstand og foreslÃ¥tte tiltak
+Hovedtrekkene ved den opprinnelige bebyggelsen er tatt vare pÃ¥ og vedlikeholdt utvendig. Fasadene i 1. etasje i Dronningsg 20-24 er vesentlig endret til nye butikkfasader. Innvendig er byggene preget av ulike utbedringer og ombygginger slik at forretningslokalene og boligene har ulike utfÃ¸relser og standarder.
+
+Tilstand pÃ¥ eksisterende bygningsmasse er omtalt nÃ¦rmere i pkt 3.1 nedenfor og i detalj angitt i tabellene i registreringsskjemaene.
+
+De foreslÃ¥tte tiltak er som fÃ¸lger i prioritert rekkefÃ¸lge. De er utdypet i pkt 3.2 nedenfor. Utbedringsarbeidet og de utfÃ¸relse skal i samsvar med dokumenter, teknisk anerkjente prinsipper. Nye produkter som skal brukes til utbedringsarbeider skal tilfredsstille krav i gjeldende byggeforskrifter.
+
+TRONDHEIM KOMMUNE                                                    Side 4 av 18
+
+=== SIDE 5 (TILTAKSTABELL â€” HOVEDOVERSIKT) ===
+
+I forbindelse med forslagene er det angitt om tiltaket mÃ¥ gjennomfÃ¸res (P = PÃ¥krevet) av hensyn til personsikkerheten og kommunens utbedringsstandard eller om tiltaket ut fra en faglig vurdering (A = Anbefalt) bÃ¸r gjennomfÃ¸res.
+
+Tiltakene er vurdert for de tre eiendommene samlet. Branntiltak er vurdert i forhold til alternative hovedlÃ¸sninger: Sprinkling og brannalarmanlegg.
+
+PRIORITET | EKSISTERENDE TILSTAND | ALTERNATIV A (brannalarmanlegg) FORSLAG TIL TILTAK (P=pÃ¥krevet, A=anbefalt) | ALTERNATIV B (sprinkling) FORSLAG TIL TILTAK (P=pÃ¥krevet, A=anbefalt)
+
+1  | Mangelfulle rÃ¸ykvarslere og brannalarmanlegg gammelt og ute av drift (Dr. gt 22-24). | Adresserbart brannalarmanlegg med rÃ¸ykdetektorer som dekker hele bygget monteres (P). Pris kr 150.000. | Seriekoblede rÃ¸ykvarslere med nettilkobling i hybelenheter + nye rÃ¸ykvarslere (Optiske) i leiligheter (P). Pris kr. 15.000.
+
+2  | Manglende branncelleinndeling ved innvendige hjÃ¸rner i bakgÃ¥rder. | Flere vinduer igjenkles med f.eks. steinullplater m/brannmaling (P) (EI 60) + brannalarmanlegg (pkt.1). Pris kr. 50.000. | Montere heldekkende sprinkleranlegg, prisen forutsetter tilgang til tilstrekkelig vann (P). Pris kr. 600.000.
+
+3  | Mangler brannskille mellom kjeller og 1. etasje og videre oppover i etasjen, samt mellom branneeller som ikke er av mur. Stubbloft av tre i himling. Mange utette gjennomfÃ¸ringer. Flere dÃ¸rer som er galt innsatt + generelt manglende branntetting. | GjennomfÃ¸ringer branntettes og de dÃ¥rligste veggene og etasjeskillerene oppgraderes opp mot EI 60 med for eksempel 2 lag gips (P). Pris kr. 350.000. | GjennomfÃ¸ringer branntettes (P) + sprinkleranlegg (pkt.1). Pris kr. 150.000.
+
+4  | Det ble observert noen gamle hÃ¥ndslokkere. Det anbefales brannslange i butikker. | Nye ABC hÃ¥ndslokkere (P). Pris kr 5.000. Brannslanger (A), pris kr 30.000. | Det samme
+
+5  | Manglende merking av rÃ¸mningsvei ut fra bakgÃ¥rder. | Montere markeringslys (P). Pris kr 5.000. | Det samme
+
+6  | Hovedinngang til Kafe m.m. i Dr. gate har ukl. vindu + dÃ¸rer. | DÃ¸rer skiftes til B 30 + A 30 glass (P). Pris kr. 50.000. | DÃ¸rer skiftes til B 30/F 30 + E 30 glass (P). Pris kr. 30.000.
+
+7  | DÃ¥rlige og ukl. dÃ¸rer til boenheter og trapperom. Noen tr. dÃ¸rer til butikker mangler selvlukker. | Skiftes til B30 + noen pumper (P). Pris kr. 40.000. | Skiftes til B30 + noen pumper (P). Pris kr. 40.000.
+
+8  | Brennbare konstruksjoner i trappelÃ¸p + vegger/tilak pÃ¥ flere trapperom. | Kles med gips eller brannmales til In1 (P). Pris kr. 120.000. | Kompenseres med fullsprinkling av bygget (P).
+
+9  | Manglende brannskiller pÃ¥ loft + mot trapperom pÃ¥ loft + uklassifisert luke i korridor Dr. gate 20. | Oppgraderes med 2 lag gips + branntetting (P) + B 30 luke. Kr 30.000. | Oppgraderes med 1 lag gips + branntetting (P). Kr 15.000.
+
+10 | SÃ¸ppelcontainere i rÃ¸mningsveier ut fra bakgÃ¥rder inntil trepanelet. | Etablere egne sÃ¸ppelrom (A). Pris kr 25.000 | Det samme
+
+11 | Brannskille (brannvegg) mot Dronningens gate 18 ved Vaterlandsveita 3 er mangelfullt (kun en trekonstruksjon her, murvegg ellers). | Mulige utbedringsalternativ mÃ¥ vurderes nÃ¦rmere (P). | Det samme
+
+12 | Lekasje tak Dronningensg 24 | Utbedre beslag og takstein (P). Pris kr 10.000 | Det samme
+
+13 | Utette overflater dusjrom leilighet nr 21 | VÃ¥tromsvinyl gulv og vegger (P). Pris kr 8.000 | Det samme
+
+14 | Vinduer med enkelt glass i leiligheter Vaterlandsveita 3. | Installere innervinduer eller skifte vinduer (P) Pris kr 35.000 | Det samme [HÃ¥ndskrevet margnotat: Byggn.tekn.]
+
+15 | Fuktighet kjeller Vaterlandsveita 3, skader pÃ¥ grunnmur | Etablere ventilasjon, pÃ¥stÃ¸p gulv, utbedring grunn-mur (P) Pris 20.000 | Det samme
+
+16 | Skader pÃ¥ piper | Piper ikke i bruk rives/avsluttes. Det samme
+
+=== SIDE 6 (TILTAKSTABELL FORTSATT) ===
+
+[Fortsettelse av tabellen]
+
+[Rad uten prioritet:] Piper over tak utbedres og pusses (P) kr 30.000
+
+17 | Ikke plass til vaskemaskin i vÃ¥trom i Dronningensg 24 | Etablere felles vaskerom i kjeller (P) Pris kr 15.000 | Det samme
+
+18 | Tilfeldig bodplass | Opprensking og tildeling av lett tilgjengelige boder pÃ¥ loft og/eller kjeller (P) Pris 5.000 | Det samme
+
+19 | Tilfeldig ventilering av oppholdsrom | Ventilasjonsanlegg for boligene vurderes. Anbefalt, ikke prissatt | Det samme
+
+20 | Gjenkledde vinduer, uoriginale vinduer og enkelt glass i vinduer i trapperom | Utbedring av vinduer og Ã¥pninger i samsvar med antikvarisk hensyn. Anbefalt, ikke prissatt. Det vises til punkt over om gjenkledning for brannvern. | Ikke gjenkledning for brannvern.
+
+Tabell 2.2 Tilstand og foreslÃ¥tte tiltak
+
+TRONDHEIM KOMMUNE                                                    Side 6 av 18
+
+=== SIDE 7 (KOSTNADSOVERSLAG) ===
+
+2.4 Kostnadsoverslag
+
+I registreringsskjemaene er det angitt entreprisekostnader som sÃ¥ er samlet i samleskjemaet, kostnadene er summert og bearbeidet videre slik at samlet total kostnad fremkommer. Totalkostnaden er et budsjett-tall som kan brukes ved budsjettering og som grunnlag for beslutning om videre tiltak, den er beheftet med en usikkerhet pÃ¥ om lag Â± 20 %. Virkelige kostnader vil fÃ¸rst kunne kalkuleres nÃ¥r forholdene er nÃ¦rmere avklart.
+
+SAMLESKJEMA KOSTNADER                              Alternativ A    Alternativ B
+                                                   Brannalarm      Sprinkling
+
+1  Felleskostnader, rigg og drift                  50 000 kr       50 000 kr
+2  Bygning
+   Gjenkledning av vinduer, brannvern              50 000 kr
+   Branntetting og brannskiller                    350 000 kr      150 000 kr
+   Brannkl. dÃ¸r og vindu til kafe mm               50 000 kr       30 000 kr
+   Utbedring branndÃ¸rer trapperom, bolig           40 000 kr       40 000 kr
+   Gips eller brannmaling i trapperom              120 000 kr
+   Brannskiller pÃ¥ loft, utbedring luke nr 20      30 000 kr       15 000 kr
+   Egne sÃ¸ppelrom i gÃ¥rden                         25 000 kr       25 000 kr
+   Utbedring takbeslag og tekking nr 24            10 000 kr       10 000 kr
+   Utbedring dusjrom                               8 000 kr        8 000 kr
+   Utbedring vinduer med enkelt glass              35 000 kr       35 000 kr
+   Utbedring kjeller Vaterlandsveita 3             20 000 kr       20 000 kr
+   Utbedring piper                                 30 000 kr       30 000 kr
+   Vaskerom kjeller nr 24                          15 000 kr       15 000 kr
+   Boder                                           5 000 kr        5 000 kr
+3  VVS-installasjoner
+   Heldekkende sprinkleranlegg                                     600 000 kr
+4  Elkraftinstallasjoner
+   Markeringslys rÃ¸mningsvei                       5 000 kr        5 000 kr
+5  Tele- og automatiseringsinstallasjoner
+   Adresserbart brannalarmanlegg hele bygget       150 000 kr
+   Seriekoblet rÃ¸ykvarslere                                        15 000 kr
+6  Andre installasjoner
+   HÃ¥ndslukkere og brannslanger                    30 000 kr       30 000 kr
+                                                   â”€â”€â”€â”€â”€â”€â”€â”€â”€       â”€â”€â”€â”€â”€â”€â”€â”€â”€
+   Huskostnad                                      1 023 000       1 083 000
+7  UtendÃ¸rs arbeid
+   Entreprisekostnad                               1 023 000 kr    1 083 000 kr
+8  Generelle kostnader, 20% av entreprisekostnad   204 600 kr      216 600 kr
+   Byggekostnad                                    1 227 600 kr    1 299 600 kr
+9  Spesielle kostnader: mva etc. 30% av byggekostnad 368 280 kr     389 880 kr
+   Prosjektkostnad                                 1 595 880 kr    1 689 480 kr
+10 Marginer og reserver, 20 % av prosjektkostnad   319 176 kr      337 896 kr
+                                                   â”€â”€â”€â”€â”€â”€â”€â”€â”€       â”€â”€â”€â”€â”€â”€â”€â”€â”€
+   Total kostnad                                   1 915 056 kr    2 027 376 kr
+
+2.5 Anbefaling om ytterligere utredning
+Det anbefales en mer detaljert brannteknisk analyse samt gjennomgang av status i forhold til godkjenninger av bygge-meldinger.
+
+TRONDHEIM KOMMUNE                                                    Side 7 av 18
+
+=== SIDE 8 (HOVEDRAPPORT 3.1 TILSTANDSREGISTRERINGER) ===
+
+3. HOVEDRAPPORT
+
+3.1 Tilstandsregistreringer, Dronningens gate 20-24
+
+A KJELLER
+Kjellerene er vesentlig utnyttet til lager og verksteder for nÃ¦ringslokalene i 1. etasje. Det er ikke tegn til fukt eller vesentlige skader pÃ¥ kjellermurer med unntak av spor etter lekasje i nr 24. Lekasjen skyldes skade med soil til taknedlÃ¸p, men er utbedret. Bruksarealet har nye overflater med malte platekledninger og vinyl eller teppe til golv. Dette gjelder ogsÃ¥ hvelvkjellerene i nr 24. Deler av kjellerene er mindre utnyttet og har originale overflater med panel og pussede vegger med stÃ¸pt golv og teglgolv i del v nr 24. Tidligere vinduer mot lysgraver mot gata er gjenkledd eller utnyttet til ventilasjonsuttak. Vinduer i lysgrav mot gÃ¥rden nr 20 ha vinduer med enkelt glass To av bruksenhetene har separate mekaniske ventilasjonsanlegg. Dels utette gjennomfÃ¸ringer av installasjoner.
+
+B TRAPPEROM
+Trapperommene er lite endret med vesentlig originalt, malt trepanel i himling og vegger og trapper av tre samt originale vinduer med enkelt glass. Ã…pne trapper i nÃ¦ringslokaler har nyere platekledning. Begrensende vegger er i hovedsak trekonstruksjoner. Dels originale dÃ¸rer med manglende brannmotstand.
+
+C BOENHETER OG BUTIKKER
+1. etasje har vÃ¦rt gjenstand for en rekke endringer og ombygginger av fasader og planer. Lokalene brukes i dag til butikker og en kafe. Overflater er malt platekledning og med vinyl, parkett eller teppe pÃ¥ gulv. Mot gata er det store felter med isolerglass med aluminiumsdÃ¸rer. Mange av vinduene mot garden i nr 24 er gjenkledd.
+2. etasje i nr 20 er nyinnredede kontorer med gipsplatekledning og parkett pÃ¥ gulv. Deler av 2. etaje i nr 24 er ogsÃ¥ benyttet til kontor, dels med originalt panel, dels nyere overflater.
+
+3 toromsleiligheter i 2. etasje i nr 24 er enkelt innredet med varierende, malte overflater. Dusjrom i leilighet nr 21 (se etasjeplan for leilighetsnr.) har skadede overflater, i leilighet 22 er det nye keramiske fliser. Dusjrommene har ikke plass til vaskemaskin. Leilighet 23 er ikke befart.
+
+3. etasje i nr 20 er utnyttet til 4 hybler med felles kjÃ¸kken og 2 felles bad samt toalettrom og bod.
+Etasjen er nylig oppusset med dels original panel, dels platekledning. Badene er flislagt.
+
+Boenheter og butikker har ulike vinduer: med isolerglass, koblete med 1+1 og med 2+1 glass.
+VÃ¥trom har naturlig avtrekk over tak. KjÃ¸kkenventilator er basert pÃ¥ omluft. Ventilering av oppholdsrom/soverom synes tilfeldig.
+
+Fasaden pÃ¥ nr 20 er pusset utenpÃ¥ tÃ¸mmer, nr 24 bakgÃ¥rdene er panelt. Fasadene er bra vedlikeholdt.
+Mot Vaterlandsveita og mot gÃ¥rden har nr 24 en rekke gjenkledde/endrete vinduer og Ã¥pninger som ikke er i samsvar med bygningenes antikvariske verdi.
+
+D LOFT OG TAK
+Dronningensg 24 har et stort Ã¥pent rÃ¥loft med dels kompliserte sperrekonstruksjoner. Det er tydelig deformering av Ã¥ser, men ikke synlige skader i konstruksjonene. Boder pÃ¥ rÃ¥loftet og i trappeoppgang er lite utnyttet. BakgÃ¥rden har loftsbod som er gjentukket over 3. etasje i nr 20 er ikke befart.
+En pipe er revet ned til loft, de Ã¸vrige har utslag, men ikke skader pÃ¥ loftet. Over tak er pipene pÃ¥ nr 24 utbedret, pipene pÃ¥ nr 20 har skader og bÃ¸r utbedres.
+Takene har tekking av takstein og med papp pÃ¥ tilbygg til nr 20. PÃ¥ nr 24 var det lekasje ved pipebeslag og en del dÃ¥rlige stein og takbeslag.
+
+E UTEAREALER
+BakgÃ¥rdene er smÃ¥ og gir begrenset plass. Begge gÃ¥rdene har fast dekke med avrenning mot sluk. I nr 24 er det etabler lett terrasse av tre for uteopphold, ellers uten spesiell utnytelse eller innredning. SÃ¸ppelkonteinere er plassert Ã¥pent i portrom.
+
+TRONDHEIM KOMMUNE                                                    Side 8 av 18
+
+=== SIDE 9 (TILSTANDSREGISTRERINGER VATERLANDSVEITA 3 OG TILTAK) ===
+
+3.2 Tilstandsregistreringer, Vaterlandsveita 3
+
+A KJELLER
+Bare del av hovedbygget har kjeller. Atkomst er fra nedgang i gÃ¥rdsrommet. Grunnmuren er tÃ¸rrmur med puss innvendig og utvendig, vinduene er provisorisk gjenkledd. Det er tegn til utslag sÃ¦rlig pÃ¥ pipefundament, men ogsÃ¥ fuktig gulv. Dreneringen bÃ¸r undersÃ¸kes, men med fast dekke i gÃ¥rdsrom, brostein i veita og tÃ¸rrmur i veggen har dette sannsynlig mindre betydning. ForsÃ¸ksvis bÃ¸r fuktighet fra delvis revet pipe forhindres, etablere bedre ventilasjon og utbedre vegger samt pÃ¥stÃ¸p pÃ¥ gulv utfÃ¸res. Boder i kjeller er mangelfullt innredet. Nyere avlÃ¸p er av plast. Installasjoner har utette gjennomfÃ¸ringer i stubbloft over.
+
+B TRAPPEROM
+Trapperommet mot Dronningens g 24 er lite endret med vesentlig originalt, malt trepanel i himling og vegger og trapper av tre samt originale vinduer dels med enkelt glass. Trapperommet ved portrommet er ikke befart.
+
+C BOENHETER
+Boenheten med 4 hybler og toroms leilighet nr 24 i 2. etasje er nylig ombygd og utbedret. Overflater er malt platekledning pÃ¥ vegger og himling og med vinyl eller parkett pÃ¥ gulv. Badene er nye og flislagt og med plass til vaskemaskin. Toroms leilighet nr 25 er ikke befart, men huseier opplyser at standarden her er dÃ¥rligere.
+Nye installasjoner. VÃ¥trom har naturlig avtrekk over tak. KjÃ¸kkenventilator gÃ¥r via ventil i yttervegg.
+
+Boligene har ulike vinduer: med enkelt glass, med isolerglass, koblete med 1+1 og med 2+1 glass. To vinduer er delvis gjenkledde. Flere av vinduene er endret i forhold til opprinnelige Ã¥pninger og type.
+Fasadene er bra vedlikeholdt.
+
+D LOFT OG TAK
+Loftet er ikke befart, men er etter opplysninger fra huseier Ã¥pent rÃ¥loft. Konstruksjon trolig med sperrebind, Ã¥ser og tro som i Dronningensg 24. Taktekking av nyere takstein. Pipene har skader, en er delvis revet. Renner og nedlÃ¸p ok.
+
+E UTEAREALER
+Beskrevet for Dronningensg 20.
+
+3.3 Tiltak, Dronningens gate 20-24
+Branntekniske tiltak er prioritert
+
+KJELLER INKL. TRAPPEROM:
+
+Registrerte branntekniske avvik under befaring 02.02.05 er her listet opp:
+
+â€¢ Alle kjellere har mangelfullt etasjeskiller (stubbloft). Etasjeskiller anbefales oppgradert med 2 lag 13mm gips + brannalarmanlegg, alternativt heldekkende sprinkleranlegg. GjennomfÃ¸ringer mÃ¥ branntettes.
+
+â€¢ [Gulmerket:] Det er mange utettede gjennomfÃ¸ringer i etasjeskiller, samt plastrÃ¸r som gÃ¥r gjennom. GjennomfÃ¸ringer mÃ¥ branntettes med godkjent branntettingsmasse, plastrÃ¸r over 32 mm kan oppgraderes med brannmansjett o.l.
+
+â€¢ [Gulmerket:] Uklassifiserte dÃ¸rer til kjeller mÃ¥ skiftes til nye B 30 dÃ¸rer (3 stk). Eksisterende B 30 dÃ¸rer gÃ¥es over og utbedres mht. brannfuging/dytting.
+
+â€¢ [Gulmerket:] Manglende branncelleskille v/trappelÃ¸p (Dr. gate 20 og 22) oppgraderes til EI 60 med for eksempel 2 lag 13 mm gips + steinull.
+
+â€¢ Teknisk rom i kjeller (Dr. gate 24) mÃ¥ oppgraderes mht. feil innsatt dÃ¸r og svÃ¦rt mangelfullt utfÃ¸rte vegger (oppgraderes til EI 60).
+
+â€¢ [Gulmerket:] Noen stÃ¥lbjelker i kjeller mangler brannisolering. Kan f.eks. brannisoleres med Conlit.
+
+Del av kjelleren mot Vaterlandsveita bÃ¸r ryddes og innredes til boder samt felles vaskerom for leilighetene som ikke har plass til vaskemaskin i vÃ¥trom, inne i leiligheten.
+
+TRONDHEIM KOMMUNE                                                    Side 9 av 18
+
+=== SIDE 10 (TILTAK FORTSATT â€” BOENHETER OG LOFT) ===
+
+BOENHETER I 1. â€“ 3. ETASJE INKL. BUTIKKER OG TRAPPEROM:
+
+Alle boenheter har adgang til to uavhengige rÃ¸mningsveier (Tr1 trapperom). Registrerte branntekniske avvik under befaring 02.02.05 er her listet opp:
+
+â€¢ [Gulmerket:] RÃ¸ykvarslere sÃ¥ ut til Ã¥ vÃ¦re gamle ioniske og var Ã¸delagt/manglet noen steder. Det anbefales montert brann-alarmanlegg som i tillegg til fellesrommet ogsÃ¥ dekker hyblene. Alternativt sprinkleranlegg eller seriekoblede optiske rÃ¸ykvarslere med nettilkobling.
+
+â€¢ Det var ikke etablert branncelleskiller ved innvendige hjÃ¸rner (8 m med brannmotstand iht. REN, kan da ikke ha uklassifiserte vinduer) ved begge bakgÃ¥rder i 1., 2. og loft. etg. Her er ogsÃ¥ utvendig trekledning som kan bidra til rask brannspredning mellom ulike brannceller (boenheter og butikker) bÃ¥de horisontalt og vertikalt. Flere av brann-celleveggene (de som er av mur) mangler ogsÃ¥ isolasjon og ser ikke ut til Ã¥ ha nÃ¸dvendig brannmotstand (EI 60), det samme gjelder etasjeskillerene) Den enkleste mÃ¥ten Ã¥ utbedre dette avviket pÃ¥ er Ã¥ fullsprinkle byggene. Alternativt kan en kombinasjon av igjenkledning av vinduer (EI 60) og brannalarmanlegg vurderes (mer problematisk rent arkitektonisk).
+
+â€¢ [Gulmerket:] De fleste trappelÃ¸p er i trekonstruksjoner og flere av veggene i trapperommene har kledning av brennbart trepanel (er ikke K1-A og In1). Mangelen kan utbedres med Ã¥ kle trappelÃ¸pene og veggene med gips eller brannmaling (In1). Alternativt kan trapperommene sprinkles (som en del av fullsprinkling av byggene).
+
+â€¢ [Gulmerket:] Hovedinngang til Kafe i Dr. gate har ukl. glass + dÃ¸r, det samme gjelder til Ledig butikklokale og korridor m/trapperom. DÃ¸rer mÃ¥ skiftes til B 30S og glass igjenkles/skiftes til EI 60. Ved sprinkling kan glass + dÃ¸rer vÃ¦re E 30.
+
+â€¢ [Gulmerket:] Det ble observert flere uklassifiserte og dÃ¥rlige dÃ¸rer mellom trapperom og boenheter/lager (minst 5 stk). Skiftes til nye B 30 dÃ¸rer.
+
+â€¢ [Gulmerket:] Det ble observert noen gamle hÃ¥ndslokkere som ikke hadde hatt service siste 5 Ã¥r, mÃ¥ skiftes til nye 6 kg ABC hÃ¥ndslokkere. Det anbefales i tillegg brannslanger i butikker (forutsatt tilstrekkelig trykkvann).
+
+â€¢ [Gulmerket:] To av trapperommene fra loft i Dronningens gate 20 er ikke utfÃ¸rt som egen branncelle. Det lengst mot vest skilles ut som egen branncelle med ny dÃ¸r B30 + vegg EI 60. Det midtre er planlagt utbedret i egen byggesak mht. ombygging av 2. etasje til hybler (har i dag Ã¥pen forbindelse til kontor i 2. etasje).
+
+â€¢ Flere utettede gjennomfÃ¸ringer i branncelleskiller + galt innsatte B 30 dÃ¸rer ble observert. Utbedres med brannettet-emasse + brannfuging/dytting.
+
+VÃ¥trom mÃ¥ sikres mot lekasjer. Overflater i dusjrom i leilighet nr 21 mÃ¥ utbedres. Dersom underlaget ikke er skadet kan det enklest gjÃ¸res med ny vÃ¥tromsvinyl pÃ¥ vegg og gulv.
+
+Avhengig av brannteknisk lÃ¸sning bÃ¸r vinduer mot gÃ¥rdene utbedres. Dersom det velges brannalarmanlegg i stedet for sprinkling bÃ¸r enkelte vinduer gjenkles. Eksisterende og eventuelt nye gjenkledde vinduer bÃ¸r utformes i trÃ¥d med vinduenes opprinnelige utforming og byggets antikvariske verdi. Vinduer med enkelt glass i trapperom og boder anbefales Ã¥ utbedre med innervinduer eller nye koblete vinduer.
+
+LOFT
+Branntekniske avvik:
+
+â€¢ [Gulmerket:] Brannskillene pÃ¥ loft mellom byggene ser ut til Ã¥ vÃ¦re tÃ¸mmervegger som kan ha flere uttettheter. Brannskillene kan enten oppgraderes til EI 60 med 2 lag 13mm gips pÃ¥ hver side + brannalarmanlegg eller sprinkles + rÃ¸yktettes (med for eksempel 1 lag gips).
+
+â€¢ [Gulmerket:] I Dr. gate 20 er det en ukl. luke i korridortak mot kaldloft + mangelfullt branncelleskille mot kaldloft. Utbedres med brannalarmanlegg + B 30 luke eller sprinkling.
+
+â€¢ Flere utettede gjennomfÃ¸ringer i branncelleskiller + galt innsatte B 30 dÃ¸rer ble observert. Utbedres med branntet-temasse + brannfuging/dytting.
+
+TRONDHEIM KOMMUNE                                                    Side 10 av 18
+
+=== SIDE 11 (TILTAK LOFT FORTSATT, UTEAREALER OG TILTAK VATERLANDSVEITA) ===
+
+Lekasje ved pipe i nr 24 mÃ¥ utbedres. Samtidig er det observert en del lÃ¸se takstein som bÃ¸r rettes. Takbeslag pÃ¥ nr 24 bÃ¸r gjennomgÃ¥s. En pipe i nr 24 er revet ned til loftet. Pipa bÃ¸r gjenmures og Ã¥pninger i etasjene sikres mot bruk. Piper over tak pÃ¥ nr 20 har skader og mÃ¥ utbedres.
+
+Loftsrom renskes og ryddes slik at leilighetene fÃ¥r anvist egne boder med lÃ¥s.
+
+UTEAREALER
+â€¢ [Gulmerket:] RÃ¸mningsveier ut fra begge bakgÃ¥rdene har mange brennbare sÃ¸ppelkonteinere og trekonstruksjoner rundt. Eget sÃ¸ppelrom EI 60 bÃ¸r etableres.
+â€¢ RÃ¸mningsveier ut fra begge bakgÃ¥rdene mangler merking, anbefales merket med markeringslys.
+
+3.4 Tiltak, Vaterlandsveita 3
+
+KJELLER INKL. TRAPPEROM:
+
+Registrerte branntekniske avvik under befaring 02.02.05 er her listet opp:
+â€¢ Kjeller har mangelfull etasjeskiller (stubbloft). Etasjeskiller anbefales oppgradert med 2 lag 13mm gips + brannalarmanlegg, alternativt heldekkende sprinkleranlegg. GjennomfÃ¸ringer mÃ¥ branntettes.
+â€¢ Det er mange utettede gjennomfÃ¸ringer i etasjeskiller, samt plastrÃ¸r som gÃ¥r gjennom. GjennomfÃ¸ringer mÃ¥ branntettes med godkjent branntettingsmasse, plastrÃ¸r over 32 mm kan oppgraderes med brannmansjett o.l.
+
+Dreneringen bÃ¸r undersÃ¸kes, men med fast dekke i gÃ¥rdsrom, brostein i veita og tÃ¸rrmur i veggen har dette mindre betydning. ForsÃ¸ksvis bÃ¸r fuktighet fra delvis revet pipe forhindres, etablere bedre ventilasjon og utbedre vegger samt pÃ¥stÃ¸p pÃ¥ gulv utfÃ¸res. Boder utbedres.
+
+BOENHETER I 1. â€“ 2. ETASJE INKL. TRAPPEROM:
+
+Alle boenheter har adgang til to uavhengige rÃ¸mningsveier (Tr1 trapperom). Registrerte branntekniske avvik under befaring 02.02.05 er her listet opp:
+â€¢ [Gulmerket:] RÃ¸ykvarslere sÃ¥ ut til Ã¥ vÃ¦re gamle ioniske og var Ã¸delagt/manglet noen steder. Det anbefales montert brann-alarmanlegg som i tillegg til fellesrommet ogsÃ¥ dekker hyblene. Alternativt sprinkleranlegg og seriekoblede optiske rÃ¸ykvarslere med nettilkobling.
+â€¢ [Gulmerket:] Det var ikke etablert branncelleskiller ved innvendige hjÃ¸rner (8 m med brannmotstand int. REN, kan da ikke ha uklassifiserte vinduer) ved begge bakgÃ¥rder i 1., 2. og loft. etg. Her er ogsÃ¥ utvendig trekledning som kan bidra til rask brannspredning mellom ulike brannceller (boenheter og butikker) bÃ¥de horisontalt og vertikalt. Det samme gjelder ogsÃ¥ over til nabobygg pÃ¥ andre siden av Vaterlandsveita. Flere av branncelleveggene mangler ogsÃ¥ isolasjon og ser ikke ut til Ã¥ ha nÃ¸dvendig brannmotstand (EI 30), det samme gjelder etasjeskillerene) Den enkleste mÃ¥ten Ã¥ utbedre dette avviket pÃ¥ er Ã¥ fullsprinkle byggene. Alternativt kan en kombinasjon av igjenkledning av vinduer (EI 30) og brannalarmanlegg vurderes (mer problematisk rent arkitektonisk).
+â€¢ [Gulmerket:] De fleste trappelÃ¸p er i trekonstruksjoner og flere av veggene i trapperommene har kledning av brennbart trepanel (er ikke K1-A og In1). Mangelen kan utbedres med Ã¥ kle trappelÃ¸pene og veggene med gips eller brannmaling (In1). Alternativt kan trapperommene sprinkles (som en del av fullsprinkling av byggene).
+
+Vinduer bÃ¸r utbedres og utormes i samsvar med opprinnelig utforming avhengig av eventuell gjenkledning som brann-verntiltak. Vinduer med enkelt glass i boenheter og helst ogsÃ¥ boder og trapperom utbedres med innervinduer eller skif-tes til koblete vinduer.
+
+Piper over tak mÃ¥ utbedres og pusses.
+
+UTEAREALER:
+Branntekniske avvik:
+
+TRONDHEIM KOMMUNE                                                    Side 11 av 18
+
+=== SIDE 12 (UTEAREALER VATERLANDSVEITA 3) ===
+
+â€¢ [Gulmerket:] RÃ¸mningsvei ut fra bakgÃ¥rden har mange brennbare sÃ¸ppelkonteinere og trekonstruksjoner rundt. Eget sÃ¸ppelrom EI 60 bÃ¸r etableres.
+
+TRONDHEIM KOMMUNE                                                    Side 12 av 18
+
+=== SIDE 13 (BILDER MED BESKRIVELSE 1) ===
+
+[Fotografi av gÃ¥rdsrom med utvendig panel, trapper og vinduer, sÃ¸ppelkonteinere i portrom]
+GÃ¥rderom mellom Dronningensg 20 og Vaterlandsveita 3. SÃ¸ppelkonteinere i portrommet. Ulike vindustyper, dels med enkelt glass.
+
+[Fotografi av gÃ¥rdsrom i Dronningensg 24 med trappeplass og panel]
+GÃ¥rdsrom i Dronningensg 24. Gjenkledde vinduer mot kafe og butikker og gjenkledd port for vareinntak pÃ¥ loft. Ulike vinduer. Uteplassen dÃ¥rlig utnyttet.
+
+=== SIDE 14 (BILDER MED BESKRIVELSE 2) ===
+
+[Fotografi av tak sett ovenfra â€” taktekke med stein og flere piper]
+Takene er tekket med stein. Flere av pipene har skader.
+
+[Fotografi av lite baderom med vask og speil]
+Nytt felles bad for hybler i 1. etasje i Vaterlandsveita 3
+
+[Fotografi av dusjrom med sluk i gulvet]
+Mangelfulle overflater i dusjrom i leilighet 21 i Dronningensg 24.
+
+=== SIDE 15 (BILDER MED BESKRIVELSE 3) ===
+
+[Fotografi av gÃ¥rdsfasade med vinduer og hjÃ¸rne]
+Bildet viser eksempel pÃ¥ problemet med manglende branncelleinndeling ved innvendige hjÃ¸rner. En brann vil relativt rask kunne spre seg fra en branncelle til en annen her. Det beste tiltaket rent brannteknisk er sprinkling av byggene.
+
+[Fotografi av butikkinngang med glass og dÃ¸r â€” Q-logo synlig]
+Ved inngangspartiet er ikke kravet til branncelleinndeling ivaretatt. Det er ukl. glass bÃ¥de i vegger og dÃ¸rer til kafe, ledig kontorlokale og rÃ¸mningskorridoren rett frem.
+
+[Fotografi av loftstÃ¸mmervegger â€” rÃ¥loft med sperrekonstruksjon]
+Branncelleskiller pÃ¥ loft er massive tÃ¸mmervegger. TÃ¸mmervegger har ikke nÃ¸dvendigvis sÃ¥ dÃ¥rlige brannegenskaper, men er sÃ¥rbare mht. utettheter og dÃ¥rlige tilslutninger.
+
+=== SIDE 16 (BILDER MED BESKRIVELSE 4) ===
+
+[Fotografi av teknisk rom i kjeller med dÃ¸r, kabler og installasjoner]
+Teknisk rom i kjeller pÃ¥ Dr. gate 24 har svÃ¦rt utette vegger og en dÃ¸r som er hengt utenpÃ¥ veggen.
+
+[Fotografi av lager med dÃ¸r]
+Fra dette lageret med den dÃ¥rlige dÃ¸ren er det Ã¥pen trapp til hybler i 3. etasje i Dr. gate 20.
+
+[Fotografi av gjennomfÃ¸ring med rÃ¸r og kabler mellom kjeller og 1. etasje]
+Nok en detalj. mht. manglende branntetting mellom kjeller og 1. etasje i Dronningens gate 20 -22.
+
+=== SIDE 17 (BILDER MED BESKRIVELSE 5) ===
+
+[Fotografi av yttervegg mot nabobygg â€” mÃ¸rk]
+Brannskille mot nabobygg Dronningens gate 18 er hovedsakelig en murvegg (brannvegg). Mellom Vaterlandsveita 3 og Dronningens gate 18 er murveggen avsluttet mot ett tretak.
+
+=== SIDE 18 (SKJEMA A â€” DRONNINGENS GATE 20-24, KJELLER) ===
+
+[Vedlegg V2 Side A1 av 7]
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA A
+
+EIENDOMMENS ADRESSE: Dronningens gate 20 - 24  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                             TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4 og 5  BRANNKLASSE: 3 og 2  DOKUMENTASJON: ANALYSE/REN
+KOMMENTARER: Risikoklasse 4 (bolig) og 5 (butikk). Brannklasse 3 (kjeller + 1. etg) og brannklasse 2 (2. etg og loft)
+
+KJELLER
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§ 7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§ 8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Tabellen inneholder punkter 2.1-2.6 (Bygning), 3.1-3.4 (VVS), 4.1 (El-kraft), etc. med kolonner for Kontrollpunkt, Eksisterende tilstand, Utbedr., Forslag til tiltak, og Kostnad. Hovedregistreringer:]
+
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trebjelkelag isolert med leire mellom kjeller og 1. etasje. Noen uisolerte stÃ¥l-dragere observert i kjeller. Ja. Etasjeskillere mellom kjeller og 1. etasje anbefales kledd med gips eller sprinkling av kjeller. StÃ¥ldragere brannisoleres med for eksempel Conlit. Se samleskjema.
+- Sikkerhet ved brann, overflater: Mur og trekledning. Nei.
+- Sikkerhet ved brann, skiller: Trebjelkelag isolert med leire mellom kjeller og 1. etasje, mange utettede gj.f. Ja. GjennomfÃ¸ringer mÃ¥ branntettes i branncelle-skiller og etg. skillere. Se samleskjema.
+- 2.2 Grunnmur, bÃ¦reevne, fundamenter: ok
+- 2.3 Varmeisolasjon: ok. Overflatebehandling (dampÃ¥pen): ok, vesentlig nyere overflater. Fukt og soppskader: ok, tidligere lekasje ved portrom, nr 24. Fuktsikring gulv: ok. Felles vaskerom: nei. Vinduer og dÃ¸rer: De fleste vinduene er gjenkledd. Koblete vinduer i nr 20 mot lysgrav i gÃ¥rden.
+- 2.5 Antikvariske verdier: Hvelvkjellere i deler av nr 24
+- 2.6 Boder til boenheter, areal, tilstand: Nei
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Utette gjennomfÃ¸ringer, bl.a er det benyttet plastrÃ¸r i kjelleren. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert masse, plastrÃ¸r sikres med brannmansjetter o.l. Se samleskjema.
+- Sikkerhet ved brann, isolasjon: Ikke observert ventilasjonskanaler som mÃ¥ brannisoleres. Nei.
+- 3.3 Drenering: ok
+- 3.4 Inntaks- og avlÃ¸psledninger: ok
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Mange kabler i branncelleskiller mot 1. [side avbrytes]
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 19 (SKJEMA FORTSATT, SKJEMA B TRAPPEROM) ===
+
+[Vedlegg V2 Side A2 av 7]
+
+[Fortsettelse av tabellen fra side 18:]
+- etasje og branncelleskiller var ikke tettet. Jsert masse. skjema
+- 4.3 Drenering
+- 4.4 Inntaks- og stigeledninger, tavle: Nytt anlegg
+- Fordelingsanlegg: Nytt
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: De er ingen brannvarsling i kjeller. Ja. Det anbefales et automatisk brannalarmanlegg eller sprinkleranlegg i kjeller. Se samleskjema.
+- Annen tilstand
+- Sum kjeller
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA B
+
+EIENDOMMENS ADRESSE: Dronningens gate 20 - 24  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                             TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4 og 5  BRANNKLASSE: 3 og 2  DOKUMENTASJON: <ANALYSE/REN>
+KOMMENTARER: Risikoklasse 4 (bolig) og 5 (butikk). Brannklasse 3 (kjeller + 1. etg) og brannklasse 2 (2. etg og loft)
+
+TRAPPEROM â€” Alle trapperom er befart
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§ 8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Punkter 2.1-2.3 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trapperom utfÃ¸rt i mur og lettkonstruksjoner. Nei.
+- Sikkerhet ved brann, overflater: Trapperom utfÃ¸rt i pusset mur og tre-konstruksjoner. Ja. Trepanel i trapperom anbefales brannmalt eller erstattet med K1-A kledning (f.eks. gips). Se samleskjema.
+- Sikkerhet ved brann, trapp: De fleste trappelÃ¸p er trekonstruksjon. Ja. Kles med gips eller brannmales. Der trappelÃ¸p ogsÃ¥ er brannceleskille mÃ¥ en EI 60 konstruksjon etableres. Se samleskjema.
+- Sikkerhet ved brann, dÃ¸rer kjeller: Mange B 30 dÃ¸rer, en A 60 dÃ¸r og to ukl. dÃ¸rer. Eksisterende B 30 dÃ¸rer var mangelfullt innsatt. Ja. Ca. 5 nye B 30S dÃ¸rer etableres + eksisterende dÃ¸rer gÃ¥es over og brannfuges/dyttes der dette mangler. Se samleskjema.
+- Sikkerhet ved brann, dÃ¸rer boenheter: B 30 dÃ¸rer, ca. 3 ukl. dÃ¸rer. Ja. DÃ¸rpumpe mÃ¥ monteres, og manuelle skÃ¥ter pÃ¥ ytterdÃ¸r erstattes med ettgreps vrider.
+- Sikkerhet ved brann, dÃ¸rer loft: B 30 dÃ¸rer. Ja. Ca. 3 nye B 30S dÃ¸rer etableres
+- 2.2 BÃ¦reevne, sikkerhet trapp, m/rekkv: Ok. Nei.
+- 2.3 Vinduer og hovedytterdÃ¸r: Dels vinduer med enkelt glass. Nei.
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 20 (SKJEMA FORTSATT, SKJEMA C BOENHET) ===
+
+[Vedlegg V2 Side A3 av 7]
+
+[Fortsettelse av tabellen fra side 19:]
+- Lydforhold: Ok. Nei.
+- 2.5 Antikvariske verdier: Vinduer og dÃ¸rer
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Mange utettede gjennomfÃ¸ringer observert. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert masse.
+- Sikkerhet ved brann, isolasjon: Nei
+- 3.3 Ventilasjonsforhold: Nei
+- 4 El-kraft
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Nei
+- 4.3 Lysforhold, nÃ¸dlys: Nei
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: Kun brannalarmanlegg i Dronningens gate 24 og deler av 22 hadde et eldre slÃ¸yfebasert Esmi anlegg som ikke var i drift. Ja. Anbefales dekket av nytt automatisk brann-alarmanlegg eller sprinkleranlegg. Se samleskjema.
+- Annen tilstand
+- Sum trapperom
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA C
+
+EIENDOMMENS ADRESSE: Dronningens gate 20 - 24  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                             TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4 og 5  BRANNKLASSE: 3 og 2  DOKUMENTASJON: <ANALYSE/REN>
+KOMMENTARER: Risikoklasse 4 (bolig) og 5 (butikk). Brannklasse 3 (kjeller + 1. etg) og brannklasse 2 (2. etg og loft)
+
+BOENHET â€” Leilighet 21 og dels 22 i 2. etasje nr 24 og alle hybler i 3. etasje er befart
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§ 8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trekonstruksjoner, delvis underkledd med gips. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- Sikkerhet ved brann, overflater: Nei
+- Sikkerhet ved brann, etasjeskiller: Tre etasjeskillere uten isolasjon (leire). Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- Sikkerhet ved brann, nabovegger: Branncellebegrensende vegg i mur (ok) og lettkonstruksjoner (mer tvilsom mht. brannmotstand). Avstand over bakgÃ¥rd under 8m. Innvendige hjÃ¸rner ikke ivaretatt. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 21 (SKJEMA C FORTSATT) ===
+
+[Vedlegg V2 Side A4 av 7]
+
+[Fortsettelse av tabellen:]
+- 2.2 BÃ¦reevne, sikkerhet, bÃ¦revegger: Mur og trekonstruksjoner. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- BÃ¦reevne, sikkerhet, etasjeskiller o/u: Trekonstruksjoner, delvis underkledd med gips. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- 2.3 Vinduer, typer og lysareal: Vinduer skiftet til koblet, 1+1 eller 1+2 glass. Nei.
+- Vinduer, innsetting og barnesikring: Dels barnesikring â€“ lite aktuelt
+- Vinduer, varme- og stÃ¸yisolering: ok
+- Yttervegger, isolasjon og tetthet: ok
+- Fasader, hele bygget: ok
+- Etasjeskillere, isolasjon og tetthet: BÃ¸r undersÃ¸kes nÃ¦rmere
+- Fuktsikre vÃ¥trom: Leil nr 21: Skader i golvvinyl og baderomspa-nel i dusjrom. Leil nr 22: Nye fliser pÃ¥ gulv og vegg dusjrom. Hybler: Nye fliser pÃ¥ gulv og vegg pÃ¥ bad. Ja. Overflater i dusjrom i leilighet nr 21 fornyes. Samleskjema.
+- Lydforhold: ok
+- Materialer, overflater, renhold: Malt panel og platekledning vegg og tak. Vinyl og parkett gulv.
+- Balkonger, utfÃ¸relse, barnesikring: Nei
+- 2.5 Antikvariske verdier: Fasader, enkelte dÃ¸rer, vinduer og detaljer
+- 2.6 StÃ¸rrelse, planlÃ¸sning: Tilfredsstillende
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer:
+- Sikkerhet ved brann, isolasjon:
+- 3.3 Ventilasjonsforhold, avtrekk: Tilfeldig med tilluftsventiler. Se samleskjema.
+- Avtrekk over tak, kjÃ¸kken og sanitÃ¦r: Naturlig ventilasjon. KjÃ¸kkenventilator med omluft.
+- SanitÃ¦rutstyr: ok
+- VV-bereder, tilstand, plassering: I bad eller kjÃ¸kken
+- 3.4 Brannslukningsutstyr: Det var utplassert hÃ¥ndslokkere i leiligheter og butikker. Noen av dem gamle uten service. Ja. Pulverapparatene mÃ¥ gjennomgÃ¥ service etter 5 Ã¥r (boenheter) og 1 Ã¥r i butikker. Gamle apparater bÃ¸r skiftes med nye. Se samleskjema.
+- 4 El-kraft
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Noen utettede gjennomfÃ¸ringer ble observert. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert masse.
+- Sikkerhet ved brann, rÃ¸kvarsler: Det var montert eldre ioniske rÃ¸ykvarslere i hybler + fellesrom, som delvis manglet batteri. Ja. Det anbefales heldekkende brannalarmanlegg, alternativt sprinkleranlegg + seriekoblede rÃ¸ykvarslere. Se samleskjema.
+- 4.3 Lysforhold, nÃ¸dlys: Markeringslys + nÃ¸dlys i butikker + rÃ¸mningsveier derfra. Nei.
+- 4.4 Fordelingsanlegg: ok
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: Se punkt 4.1. Se punkt 4.1
+- Annen tilstand
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 22 (SUM BOENHET, SKJEMA D LOFT OG TAK) ===
+
+[Vedlegg V2 Side A5 av 7]
+
+Sum boenhet
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA D
+
+EIENDOMMENS ADRESSE: Dronningens gate 20 - 24  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                             TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4 og 5  BRANNKLASSE: 3 og 2  DOKUMENTASJON: <ANALYSE/REN>
+KOMMENTARER: Risikoklasse 4 (bolig) og 5 (butikk). Brannklasse 3 (kjeller + 1. etg) og brannklasse 2 (2. etg og loft)
+
+LOFT OG TAK â€” Loftet i Dronningens g 20 er innredet til hybler, se skjema E
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§ 8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Tretak og kaldloft. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- Sikkerhet ved brann, overflater: Tretak. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg. 5.000,-
+- Sikkerhet ved brann, brannskiller: Interne brannskiller mellom byggene er utfÃ¸rt som brannceller med noen mangler mht. tetting og brannmotstand. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg + oppgraderes opp mot EI 60.
+- Sikkerhet ved brann, gavlvegger: Som over. Ja. Som over.
+- Sikkerhet ved brann, piper: Piper pÃ¥ nr 20 har skader over tak. Ja. Utbedring og ny puss. Samleskjema.
+- 2.2 BÃ¦reevne, sikkerhet, takkonstruksjon: Tretak. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- 2.3 Vinduer, typer og lysareal: Originale takvinduer av jern i Dronningens 24. Kobbhus pÃ¥ nr 20.
+- Vinduer, innsetting og barnesikring:
+- Vinduer, varme- og stÃ¸yisolering:
+- Tak, isolasjon, tetthet og tekking: Original taktro med papp(?) og teglstein pÃ¥ hovedbyggene, papp pÃ¥ tilbygg i gÃ¥rden. Lekasje ved pipe i manglende takstein i nr 24. Ja. Takstein suppleres og utbedring av beslag. Samleskjema.
+- Materialer, overflater, renhold: Svakt
+- Terrasser, utfÃ¸relse, barnesikring: Nei
+- Beslag, takrenner, nedlÃ¸p, snefanger: Tilfredsstillende
+- 2.5 Antikvariske verdier, takflate: Ja
+- 2.6 StÃ¸rrelse, planlÃ¸sning, tÃ¸rkeareal: Lite utnyttet
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Noen utettede gjennomfÃ¸ringer ble observert. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 23 (SKJEMA D FORTSATT, SKJEMA E UTEAREALER) ===
+
+[Vedlegg V2 Side A6 av 7]
+
+[Fortsettelse av tabellen:]
+- masse.
+- Sikkerhet ved brann, isolasjon:
+- 3.4 Brannslukningsutstyr:
+- 4 El-kraft
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer:
+- Sikkerhet ved brann, rÃ¸kvarsler:
+- 4.3 Lysforhold, nÃ¸dlys:
+- 4.4 Fordelingsanlegg:
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: Ikke etablert. Ja. Se skjema for boenheter.
+- Annen tilstand
+- Sum loft og tak                                                          5.000,-
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA E
+
+EIENDOMMENS ADRESSE: Dronningens gate 20 - 24  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                             TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4 og 5  BRANNKLASSE: 3 og 2  DOKUMENTASJON: <ANALYSE/REN>
+KOMMENTARER: Risikoklasse 4 (bolig) og 5 (butikk). Brannklasse 3 (kjeller + 1. etg) og brannklasse 2 (2. etg og loft)
+
+UTEAREALER â€” Begrenset bakgÃ¥rd
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§ 8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, adkomst brannv.: Brannvesenet har adkomst til de fleste fasader, men ikke bakgÃ¥rder. Nei.
+- 2.2 Bygningsdeler under bakkenivÃ¥: Bare kjeller. Nei.
+- 2.3 Terrasser, utfÃ¸relse, barnesikring: Tredekke pÃ¥ del av gÃ¥rden
+- 2.6 Boder, andre elementer i utearealer: Kjellernedganger, ventilasjonsaggregat
+- 3 VVS
+- 3.4 Avrenning overflatevann: Asfalt med fall til sluk. Lekasje fra nedlÃ¸p utbedret
+- 4 El-kraft
+- 4.3 Utvendig belysning: ok
+- 5 Tele og automatisering
+- 5.4 Porttelefonanlegg: nei
+- 7 Utomhusanlegg
+- 7.5 Antikvariske forhold: Fasader med enkelte vinduer og dÃ¸rer
+- 7.6 Leke- og oppholdsareal: Begrenset
+- Tilrettelagt plass for avfallshÃ¥ndtering: Nei. Ja. SÃ¸ppelrom etableres. Samleskjema.
+- Eventuell annen bruk, parkering, lager o.l.: Sykkelparkering, uteplass for kafe
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 24 (SKJEMA E AVSLUTNING) ===
+
+[Vedlegg V2 Side A7 av 7]
+
+- Annen tilstand
+- Sum utearealer
+
+=== SIDE 25 (SKJEMA A VATERLANDSVEITA 3 â€” KJELLER) ===
+
+[Vedlegg V3 Side A1 av 6]
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA A
+
+EIENDOMMENS ADRESSE: Vaterlandsveita 3  POSTNR:  GNR/BNR:  BYGGEÃ…R:
+REGULERINGSFORMÃ…L:                      TYPE BYGG:         OMBYGGET:
+SIKKERHET VED BRANN: RISIKOKLASSE: 4  BRANNKLASSE: 1  DOKUMENTASJON: ANALYSE/REN
+KOMMENTARER:
+
+KJELLER â€” Kjeller bare under del av hovedbygget
+Kontrollpunkter: 1. Sikkerhet ved brann, TEK Â§7-2  2. Plassering og bÃ¦reevne, TEK Â§ 7-3  3. Energibruk, InnemiljÃ¸, Lyd og vibrasjoner TEK Â§8-2, 8-3 og 8-4  4. Installasjoner, TEK Â§9  5. Antikvariske forhold  6. Andre forhold
+
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trebjelkelag isolert med leire mellom kjeller og 1. etasje. Ja. Etasjeskillere mellom kjeller og 1. etasje anbefales kledd med gips eller sprinkling av kjeller. Se samleskjema.
+- Sikkerhet ved brann, overflater: Mur og trekledning. Nei.
+- Sikkerhet ved brann, skiller: Trebjelkelag isolert med leire mellom kjeller og 1. etasje, mange utettede gj. f. Ja. GjennomfÃ¸ringer mÃ¥ branntettes i branncelle-skiller og etg. skillere. Se samleskjema.
+- 2.2 Grunnmur, bÃ¦reevne, fundamenter: Skader pÃ¥ grunnmur utvendig. Ja. Ã…pning gjenklees, flikk og puss utvendig. Samleskjema.
+- 2.3 Varmeisolasjon: Nei
+- Overflatebehandling (dampÃ¥pen):
+- Fukt og soppskader: Fuktskader pÃ¥ vegg og pipe. Ja. Drenering, puss pÃ¥ vegg. Samleskjema.
+- Fuktsikring gulv: Fukt i gulv, mange utettede gj. f. Ja. Drenering, pÃ¥stÃ¸p. Samleskjema.
+- Felles vaskerom: Nei
+- Vinduer og dÃ¸rer: Vinduer gjenkledd
+- 2.5 Antikvariske verdier: Nei
+- 2.6 Boder til boenheter, areal, tilstand: DÃ¥rlig standard. Ja. Se samleskjema.
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Utette gjennomfÃ¸ringer, bl.a er det benyttet plastrÃ¸r i kjelleren. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert masse, plastrÃ¸r sikres med brannmansjetter o.l. Se samleskjema.
+- Sikkerhet ved brann, isolasjon: Ikke observert ventilasjonskanaler som mÃ¥ brannisoleres. Nei.
+- 3.3 Drenering: Mangelfull. Ja. Ny drenering. Samleskjema.
+- 3.4 Inntaks- og avlÃ¸psledninger: Nytt
+- 4 El-kraft
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Mange kabler i branncelleskiller mot 1. etasje og branncelleskiller var ikke tettet. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifi-sert masse. Se samleskjema.
+- 4.2 Drenering
+- 4.3 Inntaks- og stigeledninger, tavle: Nytt anlegg
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 26 (SKJEMA A FORTSATT, SKJEMA B TRAPPEROM) ===
+
+[Vedlegg V3 Side A2 av 6]
+
+[Fortsettelse:]
+- Fordelingsanlegg: Nytt
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: De er ingen brannvarsling i kjeller. Ja. Det anbefales et automatisk brannalarmanlegg eller sprinkleranlegg i kjeller. Se samleskjema.
+- Annen tilstand
+- Sum kjeller
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA B
+
+EIENDOMMENS ADRESSE: Vaterlandsveita 3
+SIKKERHET VED BRANN: RISIKOKLASSE: 4  BRANNKLASSE: 1  DOKUMENTASJON: <ANALYSE/REN>
+KOMMENTARER: Gjelder trapperom mot Dronningensg 20-24. Trapperom ved portrom er ikke befart.
+
+TRAPPEROM
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trapperom i lettkonstruksjoner. Nei.
+- Sikkerhet ved brann, overflater: Trapperom utfÃ¸rt i trekonstruksjoner. Ja. Trepanel i trapperom anbefales brannmalt eller erstattet med K1-A kledning (f.eks. gips). Se samleskjema.
+- Sikkerhet ved brann, trapp: De fleste trappelÃ¸p er trekonstruksjon. Ja. Kles med gips eller brannmales. Se samleskjema.
+- Sikkerhet ved brann, dÃ¸rer kjeller: Ingen. Nei.
+- Sikkerhet ved brann, dÃ¸rer boenheter: B 30 dÃ¸rer, ca. 3 ukl. dÃ¸rer. Ja. Ca. 3 nye B 30S dÃ¸rer etableres.
+- Sikkerhet ved brann, dÃ¸rer loft: Kun kaldloft. Nei.
+- 2.2 BÃ¦reevne, sikkerhet trapp, m/rekkv.: Nei.
+- 2.3 Vinduer og hovedytterdÃ¸r: Dels vinduer med enkelt glass. Nei.
+- Lydforhold: Nei.
+- 2.5 Antikvariske verdier
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Mange utettede gjennomfÃ¸ringer observert. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifi-sert masse.
+- Sikkerhet ved brann, isolasjon: Nei
+- 3.3 Ventilasjonsforhold: Nei
+- 4 El-kraft
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 27 (SKJEMA B FORTSATT, SKJEMA C BOENHET) ===
+
+[Vedlegg V3 Side A3 av 6]
+
+[Fortsettelse:]
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Nei
+- 4.3 Lysforhold, nÃ¸dlys:
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: Kun brannalarmanlegg i Dronningens gate 24 og deler av 22 hadde et eldre slÃ¸yfebasert Esmi anlegg som ikke var i drift. Ja. Anbefales dekket av nytt automatisk brann-alarmanlegg eller sprinkleranlegg. Se samleskjema.
+- Annen tilstand
+- Sum trapperom
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG â€” SKJEMA C
+
+EIENDOMMENS ADRESSE: Vaterlandsveita 3
+SIKKERHET VED BRANN: RISIKOKLASSE: 4  BRANNKLASSE: 1  DOKUMENTASJON: <ANALYSE/REN>
+
+BOENHET â€” Gjelder hybler 1.etasje og leilighet 24 2.etasje, leilighet 25 ikke befart innvendig
+
+[Punkter 2.1 (Bygning):]
+- 2.1 Sikkerhet ved brann, bÃ¦resystem: Trekonstruksjoner, delvis underkledd med gips. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg. Se samleskjema.
+- Sikkerhet ved brann, overflater: Nei.
+- Sikkerhet ved brann, etasjeskiller: Tre etasjeskillere uten isolasjon (leire). Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- Sikkerhet ved brann, nabovegger: Branncellebegrensende lettkonstruksjoner (tvilsom mht. brannmotstand). Avstand over bakgÃ¥rd under 8m. Innvendige hjÃ¸rner ikke ivaretatt. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- 2.2 BÃ¦reevne, sikkerhet, bÃ¦revegger: Trekonstruksjoner. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- BÃ¦reevne, sikkerhet, etasjeskiller o/u: Trekonstruksjoner. Ja. Kompenseres med heldekkende brannalarmanlegg eller sprinkleranlegg.
+- 2.3 Vinduer, typer og lysareal: Vesentlig koblet, dels uoriginale, dels enkelt glass. Ja. Utbedring og supplering av enkle glass. Samleskjema.
+- Vinduer, innsetting og barnesikring: Ikke barnesikring
+- Vinduer, varme- og stÃ¸yisolering: Enkle vinduer mangelfulle. Se over.
+- Yttervegger, isolasjon og tetthet: Isolert innvendig, ny platekledning
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 28 (SKJEMA C FORTSATT, VV-BEREDER OG EL-KRAFT) ===
+
+[Vedlegg V3 Side A4 av 6]
+
+[Fortsettelse:]
+- Fasader, hele bygget: Panel, bra vedlikehold
+- Etasjeskiller, isolasjon og tetthet: Nye overflater
+- Fuktsikre vÃ¥trom: Nye vÃ¥trom med flis pÃ¥ vegger og gulv
+- Lydforhold: ok
+- Materialer, overflater, renhold: Vesentlig ny overflater
+- Balkonger, utfÃ¸relse, barnesikring:
+- 2.5 Antikvariske verdier: Fasader
+- 2.6 StÃ¸rrelse, planlÃ¸sning: ok
+- 3 VVS
+- 3.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Se punkt 2.1
+- Sikkerhet ved brann, isolasjon:
+- 3.3 Ventilasjonsforhold, avtrekk: Naturlig avtrekk. Se samleskjema.
+- Avtrekk over tak, kjÃ¸kken og sanitÃ¦r: Ja
+- SanitÃ¦rutstyr: ok
+- VV-bereder, tilstand, plassering: Ny bereder i kjeller
+- 3.4 Brannslukningsutstyr: Det var utplassert hÃ¥ndslokkere. Noen av dem gamle uten service. Ja. Pulverapparatene mÃ¥ gjennomgÃ¥ service etter 5 Ã¥r (boenheter). Se samleskjema.
+- 4 El-kraft
+- 4.1 Sikkerhet ved brann, gjennomfÃ¸ringer: Noen utettede gjennomfÃ¸ringer ble observert. Ja. GjennomfÃ¸ringene mÃ¥ tettes med brannklassifisert masse.
+- Sikkerhet ved brann, rÃ¸kvarsler: Det var montert eldre ioniske rÃ¸ykvarslere i hybeler, som delvis manglet batteri. Ja. Det anbefales heldekkende brannalarmanlegg, alternativt sprinkleranlegg + nye rÃ¸ykvarslere. Se samleskjema.
+- 4.3 Lysforhold, nÃ¸dlys: Ikke krav. Nei.
+- 4.4 Fordelingsanlegg: ok
+- 5 Tele og automatisering
+- 5.1 Sikkerhet ved brann, varslingsanlegg: Se punkt 4.1. Se punkt 4.1
+- Annen tilstand
+- Sum boenhet
+
+Studio 4 Arkitekter AS                                              REV 4 03.02.2004
+
+=== SIDE 29 (VEDLEGG V4 â€” TRONDHEIM KOMMUNES UTBEDRINGSSTANDARD) ===
+
+Bolig- og byfornyelseskontoret
+[Vedlegg V4 side 1 av ?]
+30-Ã¥rs standardens krav ved utbedring av bolighus
+
+30-Ã…RS STANDARDENS KRAV VED UTBEDRING AV BOLIGHUS.
+Bystyrevedtak A302/84
+
+NB! Eventuelle kommentarer i forhold til dagens praktisering av standarden er beskrevet i kursiv under hvert punkt.
+
+A. LEILIGHETSSTRUKTUR.
+- Det tas fortrinnsvis utgangspunkt i den lÃ¸sning for hver bygning som er best ut fra Ã¸konomi, brannvern osv. med optimal utnyttelse av eksisterende vegger og trapper. VÃ¥trom konsentreres og lokaliseres mest mulig over hverandre.
+
+- De rehabiliterte leiligheter tilpasses om mulig en framtidig variert befolkningsmessig sammensetning med vekt pÃ¥ unge familier med barn.
+
+- Det tilstrebes en variert leilighetssammensetning. 1-roms leiligheter bÃ¸r unngÃ¥s. *Ett-roms leiligheter aksepteres dersom de er av god planmessig kvalitet, og ikke dominerer i antall.*
+
+B. BYGNINGSTEKNISK STANDARD.
+1. Antikvariske og kulturhistoriske verdier skal bevares og vernes.
+   - Dersom bygningsdeler skiftes ut skal dette skje i samsvar med bygningens opprinnelige sÃ¦rpreg.
+
+2. Bygningen skal tilfredsstille funksjonskrav og vÃ¦re konstruktiv sikker.
+   - BÃ¦rende konstruksjoner skal vÃ¦re undersÃ¸kt og utbedret/forsterket dersom det er behov for det.
+   - Taket mÃ¥ vÃ¦re i meget god stand, det skal kunne vare i 30 Ã¥r. Pipene mÃ¥ vÃ¦re i god stand.
+   - Kjelleren skal vÃ¦re beskyttet mot fuktinntrengning. Grunnmuren mÃ¥ undersÃ¸kes og nÃ¸dvendige utbedringsarbeider foretas. Behov for utvendig drenering/behandling mÃ¥ vurderes og utfÃ¸res der dette er nÃ¸dvendig. Innvendig behandling av kjellervegger utfÃ¸res der dette er pÃ¥krevd.
+   - Kjellergulv skal vÃ¦re stÃ¸pt.
+   - Alle ytterdÃ¸rer mÃ¥ slutte tett til dÃ¸rkarmen. DÃ¸rer til kjellernedgangen skal beslÃ¥s nederst med en 30 cm hÃ¸y plate av galvanisert jern, blikk eller lignende, og skal vÃ¦re selvlukkende (gjelder kun i spesielle tilfeller)
+   - Vinduer skal vÃ¦re i god stand, og skal vÃ¦re:
+     a) Eksisterende vinduer med innvendige varevinduer, koblete vinduer eller vinduer med isolerglass.
+     b) Kjellervinduer skal til en hver tid ha ruter. Karmen pÃ¥ kjellervinduer som kan Ã¥pnes skal vÃ¦re forsynt med netting med en maskevidde ikke over en halv tomme. Nye vinduer tilpasses opprinnelige typer.
+   - Fasadene skal vÃ¦re satt i stand og eventuelt vÃ¦re malt.
+
+3. Beboernes sikkerhet ved brann skal vÃ¦re ivaretatt.
+   - Brannsikring av eiendommen mÃ¥ vÃ¦re i henhold til Branntekniske regler for rehabilitering i Trondheim, se vedlegg. (For nÃ¦rmere veiledning tas kontakt med Trondheim brannsjefkontor, branningeniÃ¸ren, tlf: 52 15 05).
+     *I dag fÃ¸lger vi gjeldende plan- og bygningslov/byggeforskrifter, men i forbindelse med seksjonering vil det ikke bli stilt krav til en fullstendig brannteknisk utbedring. Det prioriteres personsikkerhet ved rÃ¸mning og utbedring av rÃ¸mningsveier. Brannteknisk tilstand mÃ¥ avdekkes og nÃ¸dvendige tiltak mÃ¥ foreslÃ¥s i en egen brannteknisk rapport utarbeidet av et privat konsulentfirma med relevant ansvarsrett.*
+
+4. Felles teknisk anlegg.
+   - Elektriske anlegg skal vÃ¦re dimensjonert for kontinuerlig oppvarming, og sikringsskap skal vÃ¦re montert. Arbeidene skal utfÃ¸res av godkjent installatÃ¸r. FellesstrÃ¸m mÃ¥ skilles ut i egen mÃ¥ler som er tilgjengelig i et fellesareal.
+
+                                                                        Side 1 av 2
+
+
+=== PDFTOTEXT (verbatim tekstlag â€” rÃ¥ layout, OCR-feil kan forekomme) ===
+
+ecuL3cs                                                                                                      Dato: 11,03.2005
+
+                         UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERIANDSVEITA 3
+
+                           Trondheimkommune
+
+        UTBEDRINGSVELEDNING
+Dronningengsate20,24ogVateriandsvei3ta
+
+                                                                                                             _
+
+                                                                                  -·«``         -111Vfr-- -
+                                                                                                oi1
+""IP
+             r                                                                   ri
+
+              I
+
+                                                             ,
+5131E:.^
+
+               Enke0fistandsrapport medforsilagtiil
+                   pr0or0terituetbedrångstRakog
+                          kostnadsoversllag
+
+ADRESSE                                                         DRONNINGENGST24          GNR1BNR:40152
+EIER:
+ADRESSE                                                         FRANCHISHEOLDING--AS
+EIER:
+ADRESSE                                                         DRONNINGENGST20 GNR/BNR:40/50
+EIER:
+POSTNUMMER:                                                     INGERSIGRUNRØVIK
+
+                                                                VATERLANDSVEI3TA         GNR1BNR:401375
+
+                                                                INGERSIGRUNRØVIK
+
+                                                                7011 POSTSTED: TRONDHEIII/1
+
+Utførenderådgiver:                                              Studio4 ArkitekterAS og CowiAS
+Befaringutført av:                                              Jo SoMg ogHelgeøstrem
+Befaringsdatw                                                   2.18.02,2005
+Rapportdato:                                                    11.03.2005
+
+             rådiv-er:                                                       (--
+
+kONDHEIM KOMM                                                                                                   9
+ UTBEDRINGSVEILEDNINGFOR DRONNINGENS GATE 20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+INNHOLDSFORTEGNELSE                                                     3
+                                                                        3
+1    BAKGRUNN                                                           3
+                                                                        3
+1.1  Formål                                                             3
+
+1,2  Oppdragsgiver                                                      4
+                                                                        4
+1,3  Registreringsomfang                                                4
+                                                                        7
+1.4  Referansegrunnlag                                                  7
+
+1.5  Ansvar                                                             8
+                                                                        9
+2    KONKLUSJONER                                                       9
+                                                                        11
+2.1  Antalbl ruksenheter                                                12
+
+2.2  Hovedkonstruksjon
+
+2.3  Tilstandogforeslåttteiltak
+
+2.4  Kostnadsoverslag
+
+2.5  Anbefalinogmytterligeruetredninger
+
+3    HOVEDRAPPORT
+
+3.1  TilstandsregistrerinDgreornningengsate20-24
+
+3.2  TilstandsregistrerinVgaeter rlandsve3ia
+
+3.3  TiltakDronningegnaste20-24
+
+3.4  TiltakVaterlandsve3ia
+
+3.5  Bildemr edbeskrivelse
+
+4    VEDLEGG
+
+V1   Tegninger
+
+V2   RegistreringsskjeDmroanningen2s0g-24
+
+V3   RegistreringsskjeVmataerllandsve3ia
+
+V4   Trondheimkommuneustbedringsstandard
+
+           -·- ···1
+
+1·RONDHE KOMN,UpiF
+UTBEDRNGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3                 Dato: 11.03.2005
+
+1.BAKGRUNN
+
+1.1 Formål
+DenneuleedringsveIlednienrgeetndokumenstomskalgieierkunnskapo,versikot verkostnadeorggrunnlagfor beslut-
+ningknytte1t1e1ventueltleiltakforegeneiendornE.evIkttghensiket r å bevisstgjørheverenkelet ieromansvarforsin
+eiendomM.åleteråstimulereeiertil å oppgraderoegåsikrebygningeorgutearealesromi utgangspunkhteatrlavstan-
+dard.Deltettlbudeet rrettetmotboilgeiendommbeyrgdfør1940m, ed4 ellerflereboenhetesromliggerinnenfodr e9
+byfornyeisesområdieTnreondhermIf.tbedringsveIlednIningkelnuderegrårdsromstilstaongdbygningsteknisstkandard
+inklusiveantlkvariskfeorholdb, rannsIkkerhoegt tilstandforsanitæranlegVgu. rderingeanv bygningenesstandarder
+utførli lienholdtil Trondheikmommuneuslbedringsstand(a"3rd0-års-standardbeyns",tyrevedtAak302184I).tillegger
+plan·ogbygningslovetneskniskfeorskrifte(rTEKo) gderesveilednin(gRENl)agttilgrunn,
+
+1.2 Oppdragsgiver
+
+Trondheikmommune
+Bolig-ogbyfornyelseskontoret
+
+7004TRONDHEIM
+
+Telefon72546000
+
+Telefaks 72546614
+
+E-post  bok -JvfornoyostrnottakAtrondleirn.komnrflui;e.no
+
+1.3 Registreringsomfang
+
+BefarinDg ronningen2s0g:
+- Kjeller1, ,og2.etasjeogloft.Ikkekryperomoverloft.
+BefarinDg ronningen2s4g:
+- Kjeller1, .etasjek, ontoreorgleilighe2t1ogdelsleilighe2t2i 2.etasjes,amtloftmedunntakavenkelteboder
+BefarinVg aterlandsve3it:a
+- Kjeller3, hyblerogfellesrorin1.etasjel,eilighentr24i 2.etasjeL. eilighentr25oglofterikkebefart.
+
+1.4 Referansegrunnlag
+
+- Trondheimkommuneustbedringsstand(a"3rd0-års-standardbeyns"t,yrevedtAa3k02/84)
+- Plan-ogbygningslovetneskniskfeorskrifte(rTEKo) gveilednin(gREN)
+
+ NS3451Bygningsdelstabell
+- NS3453Spesifikasjoanvkostnadeirbyggeprosjekt
+
+1.5Ansvar
+
+Eierharetterlovverkeatnsvafrorat egeneiendomtilfredsstillleorverogoffentligeforskrifteDr.ersomdeti forbindelse
+medutarbeidelsaevutbedringsveiledninogpepndagefsorholdsomer i stridmedferskriften(ekfrpkt2.3nedenfor)v,il
+Trondheimkommunbelivarsleot mdette.
+
+        KUM MI ME
+ UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3                           Dato: 11.03.2005
+
+2. KONKLUSJONER
+
+2.1 Antalbl oenheter
+Antalleksisterenbdoeenhetei Dr ronninens 20:
+
+           med     uten    med     uten      med          uten  med   uten           med     uten
+                                   bad/WC                                            badANC  badANC
+           badANC badANC bad/WC              bad/VVC bad/WC     badNVC badANC
+
+Kjeller    1                                                                                          N I-
+1, etasje
+2. etasje                                                                                            -NEI
+3. etasje                                                                                            --NEI
+
+                                                                                                      NEI
+
+Antallboenhetetor talt:
+5 toromsleiligheteor g2bofellesskap4 hyblemr edfelleskjøkkenogbadlwe
+
+2.2 Hovedkonstruksjon
+
+Bebyggelseenrfraca1850 90medenrekkeombyggingsearmtmindretilbygggårdsrommene.
+
+Grunnmuraevr sprengsteoingtegl,pussetD. eleravDronnings2g4harhvelvkjelleroeg, deleravVaterlandsvei3taog
+
+bakgårdenhearikkekjeller.
+
+HovedbyggeenretømmerkonstruksjonBeer.te*deneer delsreisverku,tfyltmedteg,mumr otnabobebygge sDer.on-
+
+ningens2g0erpusseut tenpåtømmerei tfeadenEe                          irIvendlg.
+
+Etasjeskillearevtrebjelkeladge, flestemedstubbIoftsfyll.
+
+Takkonstruksjoneernsperrebinmd edåstakogtromedtekkingavtakstein.
+
+Allebygningenhearantikvarisvkerdi
+
+2.3Tilstandog foreslåttetiltak
+
+Hovedtrekkenveddenopprinneligbeebyggelsenrtattvarep ogvedlikeholduttvendigF.asadenie1. etasjei Dron-
+ningens2g0-24ervesentligendrettil nyehutikkfasadeInr.nvendigar byggenepregetav ulikeutbedringeorg ombyg-
+gingerslikatforretningsloka eongeholigeneharulikeutførelseorgstandarder.
+
+Tilstandpaeksisterendbeygniegsmaseseromtalnt ærmeriepkt3.1nedenfoorgi detalaj ngitti tabel!enei registrerings-
+skjemaene
+
+DeforeslåttHte'r, somfee:je:       rekketJ:geI,Jeer utdyml        nedenforI,ltbedringele     og utførelse
+                                                                                                     ska!
+skal sams\ramr ed                  anerkjentepnnsiprorNyeproduktesornskaloiLtkestil
+
+                .        nyggeforskrifter.
+
+TRONr/FIEN KOMMUNE
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE20-24 OG VATERLANDSVEITA3                       Dato: 11.03.2005
+
+I forbindelsmeedforslageneerdetangittomtiltakemt ågjennomføre(Ps = Påkreveta)vhensyntil personsikkerhetoegn
+kommunenustbedringsstandealrlderomtiltaketutfraenfagligvurdering(A Anbefaltb)ørgjennomføres:
+
+TiltakenervurderftordetreeiendommenseamletB. rannverntiltearkvurderitforholdtilalternativheovedløsninger:
+Sprinklinoggbrannalarmanlegg.
+
+PRIORITET EKSISTERENDTEILSTAND           ALTERNATIAV(brannalarmanlegg) ALTERNATBIV(sprinklIng)
+
+                                         FORSLATGILTILTAK(P=påkreveAt,= FORSLAGTIL TILTAK(P=påkreyel,A=
+
+                                         anbefalt                   anbefalt
+
+1   Mangelfulrleøykvarsleroegbrann- AdresserbabrrtannalarmanleggSeriekobledrøeykvarslermeed
+
+    alarmanlegggammeoltguteavdrift medrøykdetektorseormdekker nettilkoblinighybelenhete+rnye
+
+    (Dr.gt 22-24),                       helebyggemt ontere(sP).Priskr røykvarsler(eOptiskei)leiligheter
+
+                                         150.000.                   P . Priskr.15.000.
+
+    Manglendberannycelleinndelvinegd Flere',/inclueigrjenklesmed Montereheldekkendseprinkleran-
+
+    innvendighejørneirbakgårder, f.ekss. teinullplatemr/brannma- legg,prisenforutsettetrilgangtil
+
+                                         ling(P)(El60)+ brannalarman-tilstrekkelivgann(P).Priskr.
+
+                                         le kt.1)Priskr.50000. 600.000.
+
+3   Manglebrrannskillme ellomkjellerog Gjennomføringberar nntetteosg Gjennomføringberar rintette(sP)+
+
+    1.etasjeogvidereoppoveiretasjen, dedårligsteveggeneog           sprinkleranieg(pgkt.1).Priskr.
+
+    samtmellombrannoellesromikkeer elasjeskillereonpepqradeJsopp 150.000.
+
+    avmur.Stubbloaftvtrei                motEl 60medforeksempe2l
+
+    MangeutettegjennomforingeFr.lere laggips(P). Pnskr 350.000.
+
+    dørersomergaltinnsatt+ generelt
+
+    ' manglendberanntetting.
+
+4   Detbleobservenrtoengam;e.            NyeABChåndslokke(rPe).Pris Detsamme
+
+    håndslokkerDee. tanbefalesorann- kr5.000B, rannslang(eAr),pris
+
+    slangei butikker.                    kr 30.000                  _
+
+5   Manglendrenerkingavrømningsvei Monteremarkeringsly(sP). Pris Detsamme
+
+    ut fra bakgarder                     kr 5.000.
+
+6   HovedinngantilgKafe01.M.i Dr. Dørerskiftestil2 30+A 30          Dørerskiftestil B30/F30+ E30
+
+    ateharukl.vindu+ dører.              lass P).Priskr.50.000.        lass P . Priskr,30.000.
+
+7   Dårligeogukl.cløretril boenheteorg Skiftestil B30 noenpumper Skiftestil B30+ noenpumper(P).
+
+    trapperomN.oentr.dørertilbutikker (P).Priskr.40,000.            Priskr.40.000.
+
+    man lerselvlukker
+
+8   BrennbarkeonstruksjonietrappeløpKlesmed51p3ellerbrannmales Kompenseremsedfullsprinklinagv
+
+    +ve er/tak åfleretrapperom, tilInl (P).Priskr.120.000 byggetj.)kt1.
+
+9   Manglendberannskillepr0loft+ mot Oppgraderemsed2 lag            Oppgraderemsed1 laggips
+
+    trappemmpaloftTuklassitserlut kei branntettinjPg)+ B30lukeKr branntettin(gP).Kr15.000.
+
+    korridoDr r., ate20.                 30.000.
+
+    Søppelcontainei raemningsveeurt Etablereegle sepoerom(A). Detsamme
+
+    trabaklyardeInr ntiltrepaneleL       Priskr 25.000
+
+11  Brannskil(lebrannveggm)otDron- Muligeutbedririgsalternati`,J.7D- etsamme
+
+    ningensgatel8 eedVaterlandsveitavurderesnnnsnere ;
+
+    3 er mangelfujlkltunen trekonstruk-
+
+    esjonher,mervegegllefs)
+
+12  LekasjetakDranningens2g4             Uthedrebestagog         (F)' Detsamme
+
+                                         Priskr 10000
+
+13      b,,:.4ar.cakrustramtatighetnr Våtromsvingyul lvogvegge(rP) Detsamme
+
+    21                               Piisk.-8.000
+
+14  Vinduemr edenkelgt lass          lostaller;eene../ndueerile i-(.i'i DC-sLarn-m--e
+
+    Vaterlaa,ls'...3e.k:.,,          -vin_due.(ri ·j
+                                                       nu åst guiv, Detsamme
+                    Vaterland
+
+        wnur
+
+                                         Pns20 001
+
+        f_.2).1a1?._                                                   -amme
+Tabel2l .2TilvendogroresIalte
+
+RONC H KOMMUN)::               e
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+2.4Kostnadsoverslag
+
+I registreringsskjemaeerdnetangitet ntreprisekostnasdoemrsåersamleitsamleskjemakeot,stnadeneersummerot g
+bearbeidevitdereslikatsamlettotalkostnadfremkommeTro. talkostnadeernetbudsjett-taslol mkanbrukesvedbud-
+sjetterinoggsomgrunnlafgorbeslutninogmvideretiltak,denerbeheftemt edenusikkerheptåomlag± 20%.Virkellge
+kostnadevrilførstkunnekalkulerensårforholdeneernærmeraevklart.
+
+2.5 Anbefalingomytterligereutredning
+
+Detanbefaleesnmerdetaljerbtrannteknisaknalysesamtgjennomganagvstatusi forholdtilgodkjenningaevr bygge-
+meldinger.
+
+:.ROND1-11iM KOMIVa_WiE                                            77
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE20-24 OG VATERLANDSVEITA3                      Dato: 11.03.2005
+
+3.HOVEDRAPPORT
+
+3.1TilstandsregistrerinDgreorn, ningengsate20-24
+
+A KJELLER
+Kjellereneervesentliugtnyttettillagerogverkstedeforrnæringslokalein1e.etasjeD, eterikketegntil fuktellervesent-
+
+ligeskadepr åkjeltermurmeredunntakavsporetterlekasjei nr24.Lekasjesnkyldeskademedsoiltil taknedløpm, en
+er utbedreBt.ruksarealheat rnyeoverflatemr edmalteplatekledningoegrvinylellerteppepå golv.Dettegjelderogså
+hve1vkjellerei nner24.Deleravkjettereneer mindreutnytteot gharoriginaleoverflatemr edpanelog pussedevegger
+medstøpIgolvogtegtgolivdelv nr24.Tidligerveinduemr otlysgravemr otgataergjenklededllerutnyttettil ventilasjon-
+sutkastV. indueirlysgravmotgårdennr 20havinduemr edenkeltglassToavbruksenhetehnaerseparatemekaniske
+ventilasjonsanieDgegl.sutettegjennomføringaevrinstallasjoner.
+
+B TRAPPEROM
+Trapperommeenreliteendremt edvesentligoriginaltm, alttrepaneilhimlingogveggerogtrapperavtresamtoriginale
+vinduermedenkeltglass.Apnetrapperi næringslokalhear rnyereplatekledningB.egrensendveeggerer i hovedsak
+trekonstruksjonDere.lsoriginaldeørermedmanglendberannmotstand.
+
+C BOENHETEORGBUTIKKER
+1.etasjeharværtgjenstantdorenrekkeendringeorgombyggingaevrfasadeorgplanerL. okalenebrukesi dagtilbutik-
+kerogenkafe.Overflateerrmaltplatekiedninoggmedvinyi,parketet llerteppepågulv.Motgataerdetstorefeltermed
+isolerglasosgaluminiumsdarMear.ngeavvinduenme otgardeni nr24ergjenkledd.
+
+2.etasjei nr20er nyinnredekteonteremr edgipspiatekfednionggparketpt ågulv.Delerav2.etajei nr24erogsåbenyt-
+tet l konkerd,ds medoriginalptaneLdesnyereOVerfawr.
+
+3 tomromsleiligheteir2,etasjei nr 24erenkeltinnredemt edvarierendem, alteoverflaterD. usjromi leilighetnr 21(se
+etasjeplafnor leilighetsnrh.)arskadeteoverflateir,leilighe2t 2erdetnyekeramiskfeliser.Dusjrommenhearikkeplasstil
+vaskernaskiLne. ilighentr23erikkebefart.
+
+3,etasjei nr20er utnyttettil4hyblermedfelleskjøkkenog2 fellesbadsamttoalettromogbod.
+Etrasjeenrnyligoppussemt eddelsoriginalpt aneld, elsplatekledninBga. denerflislagt.
+
+Boenheteorgbutikkehrarulikevinduerm: edisolerglaskso, bletemed1+1ogmed2+1glass.
+Våtromharnaturligavtrekkovertak. Kjøkkenventilaetrobr asertpåomluftVentilerinagv oppholdsromfsoversoymnes
+tilfeldig.
+
+Fasadenpeånr20erpusseuttenpåtømmern,r24bakgardeneerpaneltF. asadeneerbravedlikholdt.
+MotVaterlandsveiotagmotgardenharnr24enrekkegjenkledde/endrveitnedueor gåpningesromikkeer i samsvar
+medbygningeneasntikvariskveerdi.
+
+D LOFTOGTAK
+
+Dronningen2sg4haretstortåpenrtåloftmeddelskomplisertseperrekonstruksjonDeert.ertydeligdeformerinagvåser,
+menikkesynligeskaderi konstruksjonenBeo.derpårålofteot gi trappeoppganegr liteutnyttetB. akgårdehnarloftsbod
+sornerglenluketutenatkomstK. ryperomover3.etasjepånr20erikkebefart.
+Enp:peerreve nedtil loft,deøvrigeharutslagm, enikkeskaderpåloftet.Overtakerpipenepanr24utbedretp, ipene
+på nr2eJharskaderogbørutbedres.
+Takenehartekkingavtaksteiongmedpapppåtilbyggtilnr20.Pånr24vardetlekasjevedpipebesiaoggendeldårlige
+steinogtakheslag.
+
+E UTEAREALPR
+
+Bakgaredeeeer småoggirbegrensefitan. Begee den ns  avrenninmg ot ; or 24er de et ·
+
+lert  av tre for uteopp'w1edi,kr;3utenspesielul tnyUnLelk,"kinredling.Søppelkonteineerreplassertåpent
+
+FRONDHEIM KOMMUNE
+·
+
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3             Dato: 11.03.2005
+
+3.2TilstancisregistreringVear,terlandsvei3ta
+A KJELLER
+Baredelavhovedbyggheat rkjellerA. tkomsetrfranedganiggårdsrommGelrunnmureenrtørrmumr edpussinnvendig
+og utvendigv,induener provisorisgkjenkleddD. eter tegntil utslagsærligpå pipefundamemnte, nogsåfuktiggulv.
+Dreneringebnørundersøkems,enmedfastdekkei gårdsromb,rosteini veitaogtørrmuirveggenhardettesannsynlig
+mindrebetydningF.orsøksvbisørfuktighefrtadelvisrevetpipeforhindrees,tablerebedreventilasjoongutbedrevegger
+samtpåstøppå gulvutføresB. oderi kjellerer mangelfulilntnredetN. yereavløper avplast.Installasjonhear rutette
+gjennomføringi setrubblooftver.
+
+B TRAPPEROM
+Trapperomrnmeot tDronningegns24erliteendremt edvesentliogriginaltm, altrepaneilhimlingogveggeor g trapper
+avtresamot riginalveinduedrelsmedenkelgt lassT. rapperommvetdportrommertikkebefart.
+
+C BOENHETER
+Boenhetemned4 hybleor gtoromsleilighentr24 2.etasjeernyligombygodgutbedreOt. verflateerrmaltplatekledning
+påveggeor ghimlingogmedvinyel llerparketpt ågulv.Badeneernyeogflislagot gmedplasstil vaskemaskiTno. roms
+leilighertu25erikkebefartm, enhuseieor pplyseartstandardehnererdarligere.
+NyeinstallasjoneVrå. tromharnaturligavtrekkovurak Kjøkkenventilagtoårrtilventili yttervegg..
+
+Htiliwneharulke vinduerifledenkeltglass,medisolerglassk,obletemed1+1ogmed2+1glass.Tovinduerer delvis
+gjenkleddF.lerear :induenerendreitforholdtil opprinneligåepningeorgtype.
+FasadeneerbravedlikeholA
+
+IDLOFTOGTAK
+Lofteter ikkebefart,meneretteropplysningferar huseieår pentråloft.Konstruksjotrnoligmedsperrebindå.serogtro
+somi Dronningens2g4 TaktekkinagvnyeretaksteinP. ipeneharskadere, nerdelvisrevet.Renneor gnedlepok,
+
+E UTEAREALER
+Beskrevefot rDronningens2g0.
+
+3,3Tiltak, Dronningertsgate20-24
+Brannteknisktieltakerprioritert
+
+KJELLERINKLT. RAPPEROM:
+
+Registrertberanntekniskaevvikunderbefaring02.02.05erherl stetopp:
+
+   Ahiekjellereharmangelfuelltasjeskille(srtubbloftE).tasjeskillaenr befaleosppgrademrt ed2 lag13mmgips brann-
+   alarmanlegagl,ternativhteldekkendseprinkleraniegGgj.ennomføringmeårbranntettes.
+
+   Liet, inangeutet:ed;)                          Sa.w. u Str SOM
+         n -.11ovJkjn brantiteWngsritassr-_,      32
+
+   1.11sKsIifisertedorer+1k1jeller11,1        30                      '30dør
+
+   mht,brannfugingidytting.
+
+   ,'..tanglefide    (1) jate24) --                                5          r.kte vegge(roppTa-
+        ·· steinut
+
+   Tekniskromi
+   derestil El 60).
+
+Lrl av               Vaterlandsvebitea n,ad.roginnredes bod samtLtlesvasL:ornforleiligneL- sorn
+
+   til vaskerm i VEtli innei
+
+        ':»  sr,L(.
+··
+
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3                              Dato: 11.03.2005
+
+BOENHETEIR --3.ETASJEINKLB. UTIKKEORGTRAPPEROM:
+
+Alleboenhetehraradgantgil touavhengigrøemningsve(ieTrri trapperomR).egistrerbterannteknisakvevikunderbefa-
+ring02.02.05erherlisteot pp:
+
+· Røykvarslesråeuttilåværegamleioniskeogvarødelagt/mangnloeet nsteder.Detanbefalemsonterbtrann-
+    alarmanlegsgomi tilleggtilfellesrornmoegtsådekkehrybleneA.lternatisvpt rinkleranleogggseriekobledoeptiske
+    røykvarslemreednettilkobling.
+
+· Detvarikkeetablerbtranncelleskivllerdinnvendighejørne(r8mmedbrannmotstanihdt.REN,kandaikkeha
+    uklassifiservteinduerv)edbeggebakgårdei r-I.,2. ogloft.etg.Herer ogsåutvendigtrekledninsgomkanbidratil
+    raskbrannsprednimngellomulikebranncelle(br oenheteorgbutikkerb)ådehorisontaoltgvertikaltF. lereavbrann-
+    celleveggen(deesomikkeerav mur)mangleor gsåisolasjonogserikkeut til å hanødvendibgrannmotstan(Ed l
+    60),detsammegieldeertasjeskillerenDee)nenklestematenå utbedrdeetteavvikept åerå fullsprinkbleyggeneA.l-
+    ternativktanenkombinasjoanvigjenkledninagvvinduer(EI60)ogbrannalarmanlevgugrderes(rnerproblematisk
+    rentarkitektonisk).
+
+O Deflestetrappeløepri trekonstruksjonoegrflereavveggenei trapperommehnaerkledningavbrennbartrepanei
+    (erikkeKl -AogIn1).Mangelenkanutbedresmedà kletrappelopenoegveggenemedgipselkr braniimaling
+    Alternativktantrapperommenseprinkles(somendelavfullsprinklinagvhyggene).
+
+o l-lovedinngantilgKafe Or.wateharukl glass+dør,detsammegjeklerbLeciiqbutikldokaloegkulde -
+
+    m/trapperomDorermaskiftr      ngglas ig;enkiesSkiftensiEt5b. Vedsprinki.inkganglass+dørerværeE
+
+    30.
+
+· Detbleobserverftlereuklassihsertoeg danigedørermellomtraoperomogboenneterilanemr inst3 stkt.Skiftestil
+     nyeB 30 dører.
+
+    Detbleobser.ve:nt.uenyani!enandslokkerseomikkehadde serviz.:seiste3 ar.n askittes               ARC
+    håndslokkerDe.etanbefaleistilleggbrarinslangeirbutikke:if.orutsattilstrekkelitgrykkvann).
+
+    Toav trapperomnientreaIort Dronningengsate20er ikkeuttørtsomegenbranneelleD. etlengstmotlest skffies
+    utsomegenbranneefimeednydørB30 veggEl60,Detmidtreerptanlanutthedreitegenbyggesamk ht.,xnbyg-
+    gingav2. etasjetilhyblerthari dayapen kirbindelsetilkontori 2. eiasje)
+
+· Flereutettedgejennomføringi beranncelleski+llegraltinnsatteB30dørerbleobserverUt. tbedrems edbranntet-
+    temass+e brannfuging/dytting.
+
+VåtrommåsikresmotlekasjerO. verllatei rdusjromi leilighent r21måutbedresD. ersomunderlageiktkeerskadetkan
+detenklesgt jøresmednyvatromsvinpyål veggoggulv.
+
+AvhengigavbrannteknisloksninghørvinduenemotgårdeneutbedresD. ersorndetvelgesbrannalarmanleigsgtedetfor
+sprinklingbørenkeltevinduegrjenklesE. ksisterendoegeventuenltyegjenkleddveinduebr ørutformeistrådmedvindu-
+enesopprinneliguetforminoggbyggetsantikvariskveerdiV. induemr edenkelgt lassi trapperomogboderanbefaleås
+utbedremedInnervinduelrlernyekobletevinduer.
+
+LOFT
+Branntekniskaevvile
+
+    BrannskiHenpeaVittmellomb,i(jgerieseruttli 2 are Lernmeivege.rSijkran ha
+
+    enten opgrochres E 3 . o3     3mT                                         eor pdnkies
+
+    foreksempeIl laggips)
+
+    I Dr gate23 r defennkr uke keHderakmot  mangebubPrAn
+    brannela:maHegp ihe
+
+    Flereutettedepenil     Ope i            galtinnsatte8 30dbrerbleoeservert                  med
+    temasse
+
+r<011Ci ElM of,ANT,JNE
+·
+
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3                         Dato: 11.03.2005
+
+Lekasjevedpipei nr24måutbedres,SamtiedrigdetobserveretndelløsetaksteinsombørrettesT. akbeslapgå nr24
+børgjennongåEs.npipei nr24errevetnedtilloftet.Pipabørgjenmureosgåpningeiretasjenesikresmotbruk.
+Piperovertakpånr20harskaderogmåutbedres.
+
+Loftsromrenskeosg ryddes likat leilighetenfeåranvistegnebodermedlås.
+
+UTEAREALER
+· Rømningsveuietrfrabeggebakgårdenhearmangebrennbarseøppelkontaineorgetrekonstruksjonreurndt,Eget
+
+     søppelromEl 60 børetableres.
+     Rømningsveuietrfrabeggebakgårdenmeanglemr erkinga,nbefalems erkemt edmarkeringslys,
+
+3.4TiltakV, aterlandsve3ita
+
+KJELLERINKLT, RAPPEROM:
+
+Registrertberanntekniskaevvikunderbefaring02.02.05erherlistetopp:
+· Kjellehr armangelfuelltasjeskille(srtubbloftE).tasjeskillearnbefaleosppgrademrt ed2 lag13mrngips+brann-
+
+     alarmanlegagl,ternativhteldekkendseprinkleranlegGgj.ennomføringmeår branntettes.
+· Determangeutettedegjennomføringieertasjeskillesra, mtplastrøsromgårgjennomG. jennomføringmeår brann-
+
+     tettesmedgodkjenbt ranntettingsmaspslea,strøor ver32mmkanopograderemsedbrannrnansjet.tI
+
+Dreneringebnørundersøkersn,eomedfastdekkei gardsromb,rosteini veitaogtørrmuirveggenhardettemindrebe-
+tydningF. orsøksvbisørfuktigheftradelvisrevetpipeforhindrese,tablerebedreventilasjoongutbedreveggesr amtpa-
+støppågulvutføresB. odeur ffiedres
+
+BOENHETEIR1 --2.ETASJEINKL.TRAPPEROM:
+
+Al{eboenhetehraradgangtil to uavhengigreømningsvei(eTrr1trapperomR).egistrertberanntekniskaevvikunderbefa-
+ring02.02.05erherlistetopp:
+
+   RøykvarsIesrea tilavæfegamle:onis;ie                                                   b!.:11111-
+   alarrnariegg som filleggulfellesromme:pgsaekkoi
+   røykvarslermeednewlkobling.                                        sprnkle-,;,w,iegq
+
+   Let iarikkeetablerttyanowileskillEy:          hj!,),.11:;;·1 sedbran(i:no.stan;i!1;,,
+
+   uklassifiservteinduerl vedbeggebakgårder 2, vq loft otg.Her;?:eso utyt-Adigtwkiednr ,sonk, anbjel(a
+
+   raskbrannsprednimngellomulikebranncelle(br oenheteorgbutkkt,:r;               oi;yoi Dets'emo·pg.i,el-
+
+   derogsaovertil nabobygpgåandresidenav \hltenildsvr:Jite  ay br:mneeI!evegge,bna, ng!errfgsaisaasjon
+
+   ogserikkeuttilå hanødvendibgranomptstantdfl 30),det5 e3jcVkr                           Denk-w,kIesntei ten å
+
+   utbedredetteavvikept ået å fullsprinHebyugen             kanenkombinasjonavigje*ednog ayvinduer(E!30)
+
+   og brannalarmanlevgugrderes(Intjrproblfmatsk,-,r.,larkitektonisk)
+
+   fiestezrapøeloepr trekonstruksoneorg                     tra e.romm:,,ne               av ro 112 t.epanei
+
+   (er K1-A og Mani:lelenkaciuffiel_frsineda kle                      vegg,=;neoedgipseIk.rhrannmaling
+
+   Alternativktantrapperommesnperinkles(somendelavf!.111s2rin;K-;IyHby,jwr ne).
+
+Vinduerborutbedresogutormesi samsvamr edoppunneliugtforminagvhengiagveventueglljenkedninsgombrann-
+verntiltakV. ind~ medenkelgt lassi boenheteorghdstogsaboderogtrapperomutbedrems edinnervinduerlIerskif-
+testil kobietevinuer.
+
+P4)eroveitar unees ogpusses
+
+   KOMIvIUNE                                                                              ':"..;id;I
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+Rømningsvuetifrabakgårdehnarmangebrennbarseøppelkontaineorgetrekonstruksjonruenr dt,Egetsøppelrom
+El 60børetableres.
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3  Dato: 1-1.03.2005
+
+               Gårderom mellom Dronningensg 20 og
+               Vaterlandsveita 3.
+               Søppelkonteinere i portrornrnet.
+               Ulike vindustyper, dels med enkelt glass.
+
+                      Gårdsrom i Dronningensg 24.
+
+               l' Gjenkledde vinduer mot kafe og butikker
+
+               1 og gjenktedd port tOr vareinntak på loft.
+
+                      Ulike vinduer. Uteplassen dårlig utnyttet.
+
+1-:;(:)NDHE»1
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE20-24 OG VATERLANDSVEITA3             Dato: 11.03.2005
+
+                                                Takene er tekket med stein.
+                                                Flere av pipene har skader.
+
+                                                Nytt felles bad for hybler i 1. etasje i
+                                                Vaterlandsveita 3
+
+                                                Mangelfulle overflater i dusjrorn i leilig-
+                                                het 21 i Dronningensg 24.
+
+                                            ,,
+
+TROW IEIM KOMMUNE
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+                                           it.111  Bildevt isereksempeplåproblememt edmanglende
+                                            1111   branncelleinndevliendginnvendighejørnerE. nbrann
+                                                   vil relatMraskkunnespresegfraenbranncellteil en
+                                   .111/1          annenher.Detbestetiltakertentbrannteknisekr
+                                   1411            sprinklinagvbyggene.
+
+                                                       Vedinngangsparteieritkkekravetil branncelleinnde-
+                                                       lingivaretatDt. eterukl.glassbådei veggeor gdørertil
+                                                       kafe,ledigkontorlokaolegrømningskorridoretnt
+                                                       frem.
+
+.*.
+
+                  )\ "' Branncelleskpillåeloftermassivteømmervegger.
+                                                       Tømmervegghearrikkenødvendigvsiåsdårlige
+                                                       brannegenskapmeer,nersårbaremht.utettheteorg
+                                                       dårligetilslutninger.
+
+               · ·· ..-·  -·-·-··
+TRONDHEIM KOMMI
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+                                        Teknisrkomi kjellepr åDr.gate24harsværtutette
+                                        veggeor gendørsomerhengut tenpåveggen.
+
+                                        Fradettelageremt eddendårligedørenerdetåpen
+                                        trapptilhybleir3.etasjei Dr.gate20.
+
+                                        Nokendetaljm. ht.manglendberanntettinmgellom
+                                        kjelleor g1.etasjei Dronningengsate20-22.
+
+                                     ·                             Sie  '1·":3
+FRONDHEIM KommuNE
+UTBEDRINGSVEILEDNINGFOR DRONNINGENSGATE 20-24 OG VATERLANDSVEITA3  Dato: 11.03.2005
+
+                            BrannskilmleotnabobygDgronningengsate18er
+                            hovedsakeelignmurveg(gbrannveggM).ellomVater-
+                            landsveit3aogDronningengsate18ermurveggen
+                            avsluttemt otetttretak,
+
+1-1              ··1 1····
+
+P.(2,NDHE)M KOI
+        °NDHEIM KOMMUNE. TILSTANDSREGISTRERINGER                                                                                                    V2 Side Al av 7
+
+TILSTANDSREGISTRETUNGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG                                                                       SKJEMA A
+
+ EIENDOMMENS ADRESSE4       Dronnin ens ate 20 - 24                    POSTNR:                       GN NR:                            BYGGEAR:
+ REGULERINGSFORMAL                                                                                                                     OMBYGGET:
+ SIKKERHET VED BRANN:                                                                                TYPE BYGG:                        ANALYSE/REN
+rkOMMENTARER:
+                            RISIKOKLASSE: 40 5                                    BRANNKLASSE: 3 o 2                   DOKUMENTASJON:
+
+                            1Risikoklass4e(bolig) o 5 (butikk). Brannklasse 3 (Weller + 1. et ) o brannklasse 2 (2. et o loft)
+
+; KiEll LER
+
+r-Ko n  p unkter:        1. Sikkerhet ved brann, TEK §7-2  2. Plasserin o bæreevne, TEK § 7-3        3. Ener ihruk,Innemirø, L d o vibras'onerTEK§ 8-2, 8-3 o 8-4 .
+
+                         4. Installas'oner, TEK §9         5. Antikvariske forhold                   6. Andre forhold
+
+ KONTROLLPUNKT                                      EKSISTERENDE TILSTAND                       UTBEDR. FORSLAG TIL TILTAK                               KOSTNAD
+.2 By2nir,:,,
+
+2.1 Sikkerhet ved brann, bæresystem                 Trebjelkelag isolert med leire mellom       Ja    Etasjeskiller mellom kjeller og 1. etasje anbefa-  Se samle-
+                                                                                                      les kledd med gips eller sprinkling av kjeller.    skjema
+                                                    kjeller og 1. etasje. Noen uisolerte stål-        ståldragere brannisoleres med for eksempel
+                                                                                                      Conlit.
+                                                    dragere observert i kjeller
+
+           _                                        Mur oa treklednin                           Nei
+        Sikkerhet ved brann, overflater
+                                                    Trebjelkelag isolert med leire mellom       Ja    Gjennomføringer må branntettes i branncelle-       Se samle-
+        Sikkerhet ved brann, skiller                                                                  skiller o et . skillere.                           skema
+
+                                                    keller o 1. eta e, man e utettede f.
+
+        Grunnmur, bæreevne, funda menter            ok
+
+3 ; Varmeisolas'on                                  ok
+
+        Overflatebehandlin  (dam å en)              ok, vesentli n ere overflater
+
+        Tukt o sop skader                           ok, tidli ere lekas'e ved ortrom, nr 24
+
+        Fuktsikrin ulv                              ok
+
+        Felles vaskerom                             nei
+
+        Vinduer og dører                            De fleste vinduene er gjenkIedd.
+
+                                                    Koblete vinduer i nr 20 mot lysgrav i
+
+                                                    ården
+
+' 2.5 ; Antikvariske verdier                        Hvelkellere i deler av nr 24
+, 2.6 I Boder til boenheter, areal, tilstand
+ 3 VVS                                              Nei
+
+' :25.1 Sikkerhet ved brann, gjennomføringer Utette gjennoraføringer, bl.a er det be- Ja              Gjermomføringene må tettes med brannklassifi-      Se samle-
+                                                                nyttet plastrør i kjellere.           sert masse, plastrør sikres med brannmansjetter    skjema
+                                                                                                      o.l.
+
+        Sikkerhet ved brann, isolasjon              Ikke observert yentilasjonskanaler som Nei
+                                                    må brannisoleres.
+ 3.3 Drenering                                      ok
+ 3.4 I Inntaks- o aviø slednin er                   ok
+4 El-kraft
+
+        Sikkerhet ved brann, 'ennornførin er Man e kabler i branncelleskiller mot 1. Ja               Cennomførin ene må tettes med brannklassifi- Se samle-
+
+Studio 4 Arkitkekter AS                                                                                                                                  REV 4 03.02.2004
+T:RONL- 1EM KOMMUNE. T;LSTANDSREGISTRERINGER                                                                                                               t/7 Side A2 av7
+
+                                               e ·e o branncelleskiller var ikke tettet.                   I sert masse.                                       sk.ema
+
+· Drenering                                    N tt anle                                                   Det anbefales et automatisk brannalarmanlegg    Se samle-
+                 og stiaelednin er, tavle      Nytt                                                        eller s rinlderanle i k^eller.                  skiema
+
+     Fordelin sanle                            De er ingen brannvarsling i kjeller.
+      .3g automatiserin
+   :Sikkerhet ved brann, varslingsanlegg
+
+A-e        siist-rmd
+
+'·:LS.f-ATNDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSINADSOVERSLAG                                                                               SKJEMA B
+
+EENI3OMMENS ADRESSE:                     Dronnin ens ' ate 20 - 24          POSTNR:                  GNR/BNR:                                      BYGGEAR:
+2:E-C'LJLERINGSFORMÅL:                                                                                                                             OMBYGGET:
+SIKKERHET VED BRANN:                     R1SIKOKLASSE: 40 5                                          TYPE BYGG:                                    <ANALYSE/REN>
+FOiMENTARER:                             Risikoklasse 4 boli ) o 5 (butikk
+                                                                               BRANNKLASSE:          3o 2                 DOKUMENTASJON:
+
+                                                                            , Brannklasse 3 "eller + I. eta) o brannklasse 2 2. et o loft
+
+TRAPPEROM                                Alle tra erom er befart
+
+Ki.nh oilpunkter:     Sikkerhet ved brann, TEK §7-2         2. Plasserin o bæreevne, TEK § 7-3       3. Ener ibruk, Innemirø, L d o vibras'oner TEK § 8-2, 8-3 o 8-4
+
+KONIROLLFUNKT         4. i7istallas'oner, TEK               5. Antikvariske forhold                  6. Andre forhold
+  P-vc,n;rz,
+                                               EKSIS ERENDE TILSTAND                            I UTBEDR. FORSLAG TIL TILTAK                               KOSTNAD
+
+           "'>ikkerhet ved brann, bæresystem   Trapperom utfert i mur og lettkonstruk- Nei
+
+                                               s-oner
+
+           Hkkernet ved brann, overflater      Trapperom utført i pusset mur og tre-            Ja         Trepanel i trapperom anbefales brannmalt eller Se samle-
+
+                                               konstruks'oner                                              erstattet med Kl-A klednin f.eks. i s).         s 'ema
+                                                                                                           Kles med gips eller brannmales. Der trappeløp   Se samle-
+           =,-ikkerhet ved brann, trapp        IDe fleste trappeløp er trekonstruksjon.         Ja         også er branncelIeskille må en EI 60 konstruk-  skjema
+
+           Sikkerhet ved brann, dører kjeller-- Mange B 30 dører, en A 60 dør og to ukl.                    'on etableres.                                 Se samle-
+                                                                                                           Ca. 5 nye B 30S dører etableres + eksisterende
+
+                                               dører. Eksisterende B 30 dører var                          dører gåes over og brannfuges/dyttes der dette skjema
+
+                                               manaelfullt innsatt.                                        man ler.
+
+           Sikkerhet ved brann, dører boenheter B 30 dører, ca. 3 ukl. dører.                   Ja         Dørpumpe må monteres, og manuelle skåter på
+
+                                                                                                           tterdør erstattes med ett re s vrider.
+
+           kerhe ved brann, dører loft         B 30 dører.                                      Ja         Ca. 3 nye B 30S dører etableres
+
+     BærePvne, sikkerhet tra , rn/rekkv. IOk                                                    Nei
+
+     _V nduer oo- hovedytterdør                Dels vinduer med enkelt lass                     Nei
+
+Stuc.»·c:  ker As                                                                                                                                            REv4 03.02.2004
+-RONt'?F!M: KOMMUNE. TILSTANDSREGISTRERINGER                                                                                                         V  SideA3 av 7
+
+   :                                                Ok                                           Nei
+
+   Antikvariske verdier                             Vinduer oa dorer
+
+   5
+
+   ; Sikkerhet ved brann, gjennomføringer Mange utettede gjennomføringer obser- Ja                    Gjennomføringene må tettes med brannklassifi-
+                                                                                                      sert masse.
+                                                    vert.
+
+   Sikkerhet ved brann, isolasbn                                                                 Nei
+
+      c'ntilasionsforhoid                                                                        Nei
+
+4 Ei-kl-aft
+
+   Sikkerhet ved brann, -ennomførin er                                                           Nei
+
+   ; .ysforhold, nedIvs
+
+5 fel: ;ig autoatiserina
+
+   Sikkerhet ved brann, varslingsanlegg             Kun brannalarmanlegg i Dronningens                Anbefales dekket av nytt automatisk brann-        Se samle-
+                                                                                                      alarmanlegg eller sprinkleranlegg.                skjema
+                                                    gate 24 og deler av 22 hadde et eldre
+
+                                                    sløyfebasert Esmi anlegg som ikke var
+
+                                                    drift.
+
+      tilstand
+
+; 5[Ji :rapperom
+
+STANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG                                                                              SKJEMA C
+
+EIENDOMMENS ADRESSE:r.              Dronnin ens ate 20 - 24           POSTNR:                         GNR/BNR:                             BYGGEAR:
+REGULERINGSFORMAL:                                                                                    TYPE BYGG:                           OMBYGGET:
+
+SIKKERHET VED BRANN:                RISIKOKLASSE: 40 5                1BRANNKLASSE: i 3 oa 2                            DOKUMENTASJON:     <ANALYSE/REN>
+KOMMENTARER:
+                                    Risikoklasse 4 (boli a) oa 5 (butikk). Brannklasse 3 (keller + 1. et a- o brannklasse 2 2. et o loft)
+
+3ENHET                              Leili het 21 ocr dels 22 i 2. etas'e nr 24 ocr alle h bler i 3. etas'e er befart
+
+                         I. Sikkerhet ved brann, TEK §7-2   2. Plasserin o bæreevne, TEK § 7-3        3. Ener ibruk, Innemire, L d o vibras'oner TEK § 8-2, 8-3 o 8-4
+
+                         4. Installas.oner, TEK §9          5. Antikvariske forhold                   6. Andre forhold
+
+K_ON'TT:OLLPUNKT                                    EKSISTERENDE TILSTAND                        UTBEDR. FORSLAG TIL TILTAK                             KOSTNAD
+
+   B'Vg:lire'-·
+
+   Sikkerhet ved brann, bæresystern                 Trekonstruksjoner, delvis underkledd med     Ja   Kompenseres med heldekkende bra.nnalarmanlegg
+                                                                                                      eller s rinkleranle .
+                                                    is
+                                                                                                      Kompenseres med heldekkende brannalarmanlegg
+   Sikkerhet ved brann, overflater                                                               Nei  eller s rinkleranle .
+                                                                                                      Kompenseres med heldekkende brannalarmanlegg
+.                 ved brann, etasjeskiller          Tre etasjeskillere uten isolasjon (leire)         eller sprinkleranlegg.
+
+   :kkerhel ved brann, nabovegger                   Branncellebegrensende vegg i mur (ok) og
+                                                    lettkonstruksjoner (mer tvilsom mht. brann-
+                                                    motstand). Avstand over bakgård under 8m.
+
+                                                    Innvendi e hørner ikke ivaretatt.
+
+atudo 4 Arkiticekter AS                                                                                                                                 REV 4 03.022004
+T(2NDHEIM KOMMUNE. TILSTANDSREGISTRERINGER                                                                                                           V2    Side A4 av 7
+
+                sikkerhet, bærevegger         Mur og trekonstruksjoner                         Ja     Kompenseres med heldekkende  brannalarmanlegg
+                                                                                                      eller s rinkleranle .        brannalarmanlegg
+TL3æreevne, sikkerhet, etasjeskiller 0/ u     Trekonstruksjoner, delvis underkledd med         Ja     Kompenseres med heldekkende
+                                                                                                      eller s rinkleranle
+    nduer, typ er o I sarea I                      is
+ Vinduer, innsettin o barnesikrin
+ v induer, varme- o støvisolerin                   induer skiftet til koblet, 1+1 eller 1+2 lass Nei
+ Ytterve oer, isolas'on oa tetthet
+ i-asader, hele bygget                        Dels barnesikrin - lite aktuelt
+ k-:.msjeskifier, isolasjon og tetthet
+ Fuktsil;re våtrorn                           ok
+
+                                              ok
+
+                                              ok                  ._
+
+                                              Bør undersøkes nærmere
+
+                                              Leil nr 21: Skader i golvvinyl og baderomspa- ja        Uverflater i dusjrom i leilighetnr 21 fornyes        Samleskjema
+
+                                              nel i dusjrom
+
+                                              Leil nr 22: Nye fliser på gulv og vegg dirsjrom
+
+                                              H bler:Nve fliser å olv o ve å bad
+
+1.vdforhoid                                   ok
+    terla ler, overflater, renhold
+                                              Malt panel og platekledning vegg og tak
+
+                                              Vinyl o parkett ulv
+
+ alknn er, utforelse, barnesikrin             Nei
+Anfikvariske verdier
+                                              Fasa der, enkelte dører, vinduer o detaFer
+             planløsnin
+                                              Tilfredsstillende
+
+.5kkerhet ved brann, nnomførin er             Tilfeldi med tilluftsventiler                                                                                Se samlesk'ema
+sikkerhet ved brann, isolas'on
+                                              Naturlig ventilasjon. Kjekkenventilator med
+  en:ilas'onsforhold, avtrekk
+Avirekk over tak, kjøkken og san t.-tær
+
+                                              omluft
+
+: Sanitærutstyr                               ok
+   \'-bereder, tilstand,
+   rannslukningsutstyr       lasserin         1bad eller kjøkken
+
+                                              Det var utplassert håndslokkere i leiligheter    Ja     Pulverapparatene må gjennomgå service etter 5 år     Se samleskjema
+                                                                                                      (boenheter) og 1 år i butikker. Gamle apparater bør
+                                              og butikker. Noen av dem gamle uten service.            skiftes med n e.
+
+     .-                                       Noen utettede gjennomføringer ble observert. Ja         Gjennomføringene må tettes med brannklassifisert
+                                                                                                      masse.
+-;1.kkerhet ved brann, gjennomføringer        Det var montert eldre ioniske røykvarslere i Ja                                                              Se samleskjema
+Stkkerhet ved brann, røkvarsler                                                                       Det anbefales heldekkende brannalarmanlegg, alter-
+                                                                                                      nativt sprinkleranlegg + seriekoblede røykvarslere.
+                                              hybeler + fellesrom, som delvis manglet batte-
+
+                                              ri.
+
+Lysforhoki, nødlys                            Markeringslys + nødlys i butikker + røm-         Nei
+
+                                              nin sveier derfra.
+
+ 4.4 ForcielinJsanle                          ok
+
+  Tele og automatiserin      varslin   anleg  ISe unkt                                                Se unkt 4.1
+        Sikkerhet ved h=in,
+
+Annen tilstand
+
+Ar'x;.tkekter AS                                                                                                                                           REV 4 03.02.2004
+        Yj NOHE!MKOMMUNE.TILSTANDSREGISTRERINGER                                                                                                                      V Z Skle A5 av 7
+              boenhet
+
+   TII .STANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG                                                                                        SKJEMA D
+
+   ::1:NDOMMENS ADRESSE:                       Dronnin ens ate 20 - 24          POSTNR:-                    GNR/BNR:                                       BYGGEAR:
+                                                                                                                                                           OMBYGGET:
+   REGULERINGSFORMAL:                                                                                       TYPE BYGG:                                     <ANALYSE/REN>
+
+   .-4+ikKERHET VED BRANN:                     RISIKOKLASSE: .40 5              BRANNKLASSE:                3o 2              DOKUMENTASJON:            TEK § 8-2, 8-3 o 8-4
+                                                                                                                                                                             KOSTNAD
+   KOMMENTARER:                                Risikoklasse 4 (bolic, o 5 (butikk). Brarmklasse 3 (Weller + I. et ) o brannklasse 2 (2. et o loft
+
+           OG TAK                              Loftet i Dronnin ens o-20 er innredet til h bler, se sk"ema E
+
+!                            ! 1. Sikkerhet ved brann, TEK §7-2     2. Plasserin o bæreevne, TEK § 7-3      3. Ener ibruk, hmnemile, L d o vibras'oner
+
+                             4. Installas'oner, TEK §9              5. Antikvariske forhold                 6. Andre forhold
+
+: KON-TROLLPUNKT                                        EKSISTERENDE TILSTAND                           UTBEDR. FORSLAG TIL TILTAK
+
+           Sikkerhet ved brann, bæresys tem             Tretak og kaldloft                              Ja        Kompenseres med heldekkende brannalarmanlegg
+              kkeihet ved brann, overflater                                                                       eller s kleranle
+                                                        Tretak                                          Ja        Kompenseres med heldekkende brannalarmanlegg        5.000,-
+           Sikkerhet ved brann, brannskiller                                                                      eller s rinkleranle                                 Samleskema
+                                                        Interne brannskiller mellom byggene er utført Ja          Kompenseres med heldekkende brannalarmanlegg
+                                                                                                                  eller sprinklerardegg + oppgraderes opp mot EI 60.
+                                                        som brannceller med noen mangler mht. tet-
+                                                                                                                  Som over.
+                                                        . tin o brannmotstand.                                    Utbedrin o n uss
+                                                                                                                  Kompenseres med heldekkende brannalarmanlegg
+           Sikkerhet ved brann, avlve er                I Som over                                      Ja        eller s rinkleranle .
+           Sikkerhet ved brann, i r
+           Bisereevne, sikkerhet, takkonstruksjon       Pi er å nr 20 har skader over tak               Ja
+
+             induer, typer og lysareal                  Tretak.                                         Ja
+
+                         nnsettin o barnesikrin         Originale takvinduer av jern i Dronningens 24
+                        varme- o støvisolerin           Kobbhus å nr 20
+                 Solasjon, tetthet og tekking
+                                                        Original taktro med papp(?) og teg/stein på Ja            Takstein suppleres og utbedring av beslag           Samleskjema
+                                                        hovedbyggene, papp på tilbygg i gården.
+        -  overflater, renhold                          Lekasie ved i i man lende takstein i nr 24
+                                                        Svakt
+           reri.asser, utførelse, barnesikrin           Nei
+                                                        Tilfredsstillende
+        _Besfa- ..akrenner, nedlø , snefan er
+                                                        Lite utnyttet
+   2 5 : Antikvariske verdier, takflate
+
+; 2±, Sterrelse, oianløsnin , tørkeareal
+
+           Sikkerhet ved brann, gjennomføringer         Noen utettede gjennomføringer ble observert. Ja           Gjennomføringene må tettes med brannklassifisert
+
+:jturi     Arkitkekt,F,r AS                                                                                                                                            REV 4 03.02 2004
+   TRONDHE1M KOMMUNE.TILSTANDSREGISTRERINGER                                                                                                                              V2. SideA6 av 7
+
+                                                                                                             masse.                                                          5.000,-
+
+       I SWkerhet ved brann, isolas'on
+
+:      Brannstuknin sutstvr
+
+14 E14.(raft-
+
+       LSikkerhet ved brann, nomforin er
+
+         ·Sikkerhet ved brann. røkvarsler
+   4.3 Lvsforhold, nødlys
+
+   g.4 ; Fordelin -sanIe
+
+       og automatiserin
+
+   5.: Sikkerhet ved brann, varslin sanle                Ikke etablert                                 IJa   Se sk' ma for boenheter
+
+. ,,Annen Wstand
+. nrn inftoo ak
+
+·TILSTANDSREGISTRERINGMEERDANBEFALTETILTAKOGKOSTNADSOVERSLAG                                                                                      SKJEMAE
+
+                                                                                                                                             ..   BYGGEAR:
+                                                                                                                                                  OMBYGGET:
+. EIENDOMMENASDRESSE:                   Dronnin ens ate 20 - 24             POSTNR:                          GNR/BNR:                             <ANALYSE1REN>
+
+, REGULERINGSFORMAL:                                                                                         TYPEBYGG:
+
+: SIKKERHETVEDBRANN:                    RISIKOKLASSE: r4 o 5                   BRANNKLASSE: 3 o 2                       DOKUMENTASJON'-::.-,:..,
+
+' KOMMENTARER:                          Risikoklasse 4 (boli ) o 5 (butikk). Brannklasse 3 k-eller + 1. et ) o brannklasse 2 (2. et o loft)
+
+U7EAREALER                              Be rensetbak ård
+
+Kor-n!ipunkter:          ! 1.Sikkerhevl edbrann,TEK 7-2               2. Plasserino bæreevneT, EK 7-3             3. Ener ibruk,InnerniFfL§, vibras'onTeEr K 8-2,8-3 8-4
+                         i 4. Installas'oneTr,EK 9                    5. Antikvariskfeorhold                       6. Andreforhold
+KO!- -;OLLPUNKT                                          EKSISTERENDTEILSTAND                           UTBEDR. FORSLAGTILTILTAK
+2 ?..5:iHno                                                                                                                                                               KOSTNAD
+
+   2 Sikkerhavtedbrann,adkomsbt rannv.                   Brannvesenehtaradkomstil deflestefasader, Nei
+
+                                                         menikkebak årder.
+
+ 2.2 Bygningsdeleurnderbakkenivå                         Barekjeller                                    Nei
+        Terrasseru,tførelseb, arnesikrin
+                                                         Tredekkeådelav ården
+ 2.3 Boder,andreelementeiruteareal
+3 Vsis                                                   Kjeflernedan er,ventilas'onsa at
+
+; 3.4          cverflatevann                   Asfalt         medfalltil sluk.lekas-efranealøputbedret
+
+4 Ei-kraft
+
+   3           berysnin^                                 ok
+
+   Teie og ai.lomatiserin
+
+   5.4 Porttelefonanteag                                 nei
+
+7
+
+, 7.5 An'Avaristcfeorhold                                Fasademr edenkeltevinduero dører
+r s Leke-o op holdsareal                                 Be renset
+
+       j TilretteiactIassforavfallshåndterina            Nei                                            Ja   Sø elrometableres                                            Samlesk'ema
+        Eventuelai nnenbruk,parkerin la er oI            Sykkelparkerin, uteplassforkafe
+
+Stu6ic, 4 Arkitkektr AS                                                                                                                                                   REV 4 03.02.2004
+   TRONDHEIM KOMMUNE. TILSTANDSREGISTRERINGER  V 2 Side A7 av 7
+       -
+
+rÅnnen tilstand
+ Sum uteareajer
+
+Studie 4 Arkitkekter AS                        REV 4 03.022004
+            KOMMUNE. TILSTANDSREGISTRERINGER                                                                                                             131 Side Al av 6
+
+-'F7ILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG                                                                       SKJEMA A
+
+ GINDOMMENS ADRESSE:    Vaterlandsveita 3                                POSTNR:                        GNR/BNR:          DOKUMENTASJON:  BYGGEAR:
+ REGCLERINGSFORMAL:     RISIKOKLASSE: 4                                       BRANNKLASSE:              TYPE BYGG:                        OMBYGGET:
+. SIkKERHET VED BRANN:                                                                                  1                                 ANALYSE/REN
+ KOMMENTARER:
+
+   KJELLER              Keiler bare under del av hovedb c et
+
+   Koni'reilp u nkter: ' 1. Sikkerhet ved brann, TEK §7-2       a_PLasserin o bæreevne, TEK § 7-3       3. Ener ibruk,Innemifia,Lvd.o vibras'oner TEK  8-3 o 8-4
+                                                                                                                                                              KOSTNAD
+                        !4, Installas'oner, TEK §9              5. Antikvariske forhold                 6. Andre forhold
+
+   KONTROLLPUNKT                                    EKSISTERENDE TILSTAND                          UTBEDR. FORSLAG TIL TILTAK
+
+:  Sikkerhet ved brann, bæresystem                  Trebjelkelag isolert med leire mellom          Ja   EtaeskilIer mellom kjeller og 1. etasje anbefa- Se samle-
+
+   Likkerhet ved brann, overflater                  keller og t etas.e.                                 les kledd med ips eller sprinklin av             skema
+
+   , Sikkerhet ved brann, skiller                   Mur o treklednin                               Nei
+
+                                                    Trebjelkelag isolert med leire mellom          Ja   Gjennomføringer må branntettes i branncelle-     Se samle-
+                                                                                                        skiller o et . skillere.                         s 'ema
+                                                    kjeller o I. eta 'e, manae utettede ".              A nin 'enkIees, flikk o uss utvendi              Samleskjema
+
+           31-urtnInur, bæreevne, fundamenter       Skader å runnmur utvendia                      Ja
+         i Varmeisolasbn
+          uverflatebehandIing (darn å en            I Nei
+         dFaki og s000skader
+          Yuktsikrina ulv                           Fuktskader å ve o i e                   _Ta         Drenerin , uss å ve                              Samles 'ema
+          Fefles vaskerom                                                                               Drenerin åstø                                    Samles 'ema
+          Vinduer o dører                           Fukti Iv                                Ja
+   2.5 Antikvariske verdier
+   2. Boder tiI boenheter, areal, tilstand          Nei
+
+                                                    Vinduer "enkledd
+
+                                                    Nei
+
+                                                    Dårlig standard                         Ja                                                           Se samle-
+                                                                                                                                                         skema
+
+           .ikkerhet ved brann, gjennomføringer     Utette gjennomføringer, bl.a er det be- Ja          Gjennomføringene må tettes med brannklassifi-    Se samle-
+                                                    nyttet plastrer i kjeI/ere.                         sert masse, plastrør sikres med brannmansjetter  skjema
+            1.k:erhet ved brann, isolasjon                                                              o.l.
+
+            renermg                                 Ikke observert ventilasjonskanaler som Nei
+; 3 inntaks- o avlo slednin er
+                                                    må brannisoleres.
+' 4 Fi-kr;.,fi.
+                                                    Man elfull                              Ja          N drenerein                                      Samleskjema
+         Sikkerhet ved brann,,. gjennomføringer
+                                                    N
+        Dreherm
+         Inntaks- o sti elednin er, tavIe           Mange kabler i brarmcelleskiller mot 1. Ja          Gjennomføringene må tettes med brannklarsifi- Se samle-
+                                                    etas'e o branncelleskiller var ikke tettet.
+                                                                                                        sert masse.                                      S 'ema
+
+                                                    N tt anle
+
+Stuno 4 Arkitkekter AS                                                                                                                                   REV 4 03.02.2004
+   TRONDHEW KOMMUNE. T1LSTANDSREGISTRERINGER                                                                                                                             v3 Side A2 av 6
+
+     I Ford elinasanle                               Nytt
+
+   Teie og automatiserin
+
+     Sikkerhet ved brann, varslingsardegg De er ingen brannvarsling i kjeller.                    Ja                       Det anbefales et automatisk brannalarmanlegg  Se samle-
+                                                                                                                           eller s rinkleranle i "eller.                 sk'ema
+
+'  Snn ·      :ilstand
+
+   TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG                                                                                          SKJEMA B
+
+EIENDOMMENS ADRESSE:              Vaterlandsveita 3                  POSTNR:                                           GNR/BNR:                              BYGGEAR:
+REGULERINGSFORMAL:                                                                                                                                           OMBYGGET:
+SIKKERHET VED BRANN:                                                      BRANNKLÆSSE:                                 TYPE BYGG:                            <ANALYSE/REN>
+-kOMMENTARER:                                                   ens 20-24. Tra erom ved
+                                  RISIKOKLASSE:            4                                                           j1                    DOKUMENTASJON:
+     APPEROM
+                                  Gjelder tra erom mot Dronnin                                                         ortrom er ikke befart.
+
+Kor                     1. Sikkerhet ved brann, TEK §7-2      2. Plasserin o bæreevne, TEK § 7-3                           3. Ener ibruk,Innemilrø,L d o vibras-oner TEK § 8-2, 8-3 o 8-4
+
+                        ' 4. lnstallas'oner, TEK §9           5. Antikvariske forhold                                      6. Andre forhold
+
+· ikC.NTROLLPUNKT                                    EKSISTERENDE TrLSTAND                        UTBEDR. FORSLAG TIL TILTAK                                             KOSTNAD
+
+--2 1-3v-r ·
+
+     Sikkerhet ved brann, bæres stern                Tra erom i Iettkonstruks-oner                Nei
+
+     Sikkerhet ved brann, overflater                 Trapperom utført i trekonstruksjoner         Ja                       Trepanel i trapperom anbefales brannmalt eller Se samle-
+
+     Sikkerhet ved brann, trapp                      De fleste trappeløp er trekonstruksjon.      Ja                       erstattet med K1-A klednin f.eks. · s .       s 'ema
+                                                                                                                           Kles med gips eller brannmales.               Se samle-
+
+                                                                                                                                                                         s "ema
+
+      Sikkerhet ved brann, dører Weller              In en                                    I Nei
+     I Sikkerhet ved brann, dører boenheter          B 30 dører, ca. 3 ukl. dører.
+                                                     Kun kaldloft.                                Ja                       Ca. 3 n e 8 305 dører etableres
+        ikkerhet ved brann, dører loft
+                                                                                                  Nei
+
+   ' Bæreevne, sikkerhet trapp, m/rekkv.                                                          Nei
+
+     IVinduer oa hoved 'tterdør_                     Dels vinduer med enkelt lass                 Nei
+
+          vLiforhold                                                                              Nei
+
+     Antikvariske verdier
+
+              kerhet ved brann, gjennomføringer      Mange utettede gjennomføringer obser- Ja                              Gjennomføringene må tettes med brannklassifi-
+                                                     vert.                                                                 sert masse.
+         , SikKerhet ved brann,  isolas-on
+        ! Ventilas'ensforhold                                                                                     Nei                                                                                                                               REV 4 03.02.2004
+    1:1-kraf-                                                                                                     Nei
+·-
+
+ Stedk) =='· rkitkekter AS
+   ENDHEM KOMMUNE.T1LSTANDSREGISTRERNGER                                                                                                             \113 Side A3 av 6
+    A ·-
+
+   Sikkernet ved brann, 'ennomførin er                                                            Nei
+
+   Lvsforhold, nødlys
+
+   ·'ie o autornatiserirrY
+
+   Sikkerhet ved brann, varslingsanlegg          Kun brannalarmanlegg i Dronningens               Ja   Anbefales dekket av nytt automatisk brann-    Se samle-
+                                                                                                       alarmanlegg eller sprinkleranlegg.            skjema
+                                                 gate 24 og deler av 22 hadde et eldre
+
+                                                 sløyfebasert Esmi anlegg som ikke var i
+
+                                                 drift.
+
+Annen tilstand
+
+TILSTANDSREGISTRERINGER MED ANBEFALTE TILTAK OG KOSTNADSOVERSLAG-                                                                              SKJEMA C
+
+ EIENDOMMENS ADRESSE: Vaterlandsveita 3                             POSTNR:                             GNR/I3NR:        DOKUMENTASJON:        BYGGEAR:
+, REGULER/NGSFORMAL:                                                     BRANNKLASSE:                   TYPE BYGG:                             OMBYGGET:
+ SIKKERHET VED BRANN: I RISIKOKLASSE: 4                                                                I                                       <ANALYSE/REN>
+
+KOftWI-NTARER:
+
+   iTTHiET                   G-elder h bler Letas-e o leili het 24 2.etas-e, leili het 25 ikke befart innvendio
+
+                    1. Sikkerhet ved brann, TEK §7-2          2. Plasserin o bæreevne, TEK § 7-3       3. Ener ibruk, Innemirø, L d o vibras'oner TEK § 8-2, 8-3 o 8-4
+
+                    ' 4. Installas-oner, TEK §9               5. Antikvariske forhold                  6. Andre forhoId
+
+KO:\TT:101,LPUNKT                                EKSISTERENDE TILSTAND                            UTBEDR. IFORSLAG TIL TILTAK                        KOSTNAD
+
+2  'ng
+
+   Sikkernet ved brann, bæresysterri             Trekonstruksjoner, delvis underkledd med         Ja   Kompenseres med heldekkende brannalarmanIegg  Se samleskjema
+                                                                                                       eller s rinkleranle .
+   Sikkerhet ved brann, overflater               i5
+   Sikkerhet ved brann, etasjeskiller                                                                  Kompenseres med heldekkende brannalarmanlegg
+                                                                                                  Nei
+
+                                                 Tre etasjeskillere uten isoIasjon (leire)        Ja
+
+   :-kKernet ved brann, na bovegger              Branncellebegrensende lettkonstruksjoner         Ja   eller s rinIderarde
+                                                                                                       Kompenseres med heldekkende brannalarmanlegg
+                                                 (tvilsom mht. brannmotstand). Avstand over            eller sprinkleranlegg.
+
+                                                 bakgård under 8m. Innvendige hjørner ikke
+
+                                                 ivareta tt.
+
+                sikkerhet, bærevegger            Trekonstruksjoner                                Ja   Kompenseres med heldekkende brannalarmanlegg
+
+                                                                                                       eller s rinkleranle .
+
+   re.vne, sikkerhet, etasjeskiller o/u          Trekonstruksjoner                                Ja   Kompenseres med heldekkende brannalarmanlegg
+
+   nduer; typer og Iyeareal                      Vesentlig koblet, deIs uorginale, dels enkelt Ja      eller s rinkleranle                           Samleskjema
+                                                                                                       Utbedring og supplering av enkle glass
+
+   s.!induer. innsettin o barnesikrin             iass                                                 Se over
+     induer, varme- o ste isolerin               Ikke barnesikrin
+                                                 Enkle vinduer man elfulle
+   Ytterve oer, isolasjon o tetthet              Isolert innvendi ,ri Iateldednin
+
+                AS                                                                                                                                       REV 4 03.02.2004
+   TRONE"HE!MKOMMUNE.TILSTANDSREGISTRERINGER                                                                                                          Vg Side A4 av 6
+
+          Fasader, hele b et                    Panel, bra vedlikehold
+          Etaseskiller, isolas-on o tetthet     Nve overflater
+                                                N e våtrom med flis å ve er o ly
+                     re vå>trorn                ok
+          Lveiforhold                           Vesentli ny overflater
+         3ie teria ler, overfla ter, renhold
+                                                Fasader
+         Ba Ikonger, utførelse, barnesikrin     ok
+          Antikvariske verdier
+                                                Se unkt 2.1
+         Sterrelse, olanløsnin
+   VS                                           Naturli avtrekk                                                                                       Se samlesk'ema
+                                                Ja
+         Sikkernet ved brann, jennomførin er    ok                               Noen av dern Ja  IPulverapparatene må gjennomgå service etter 5 år   Se samleskjema
+       . S.kkerhet ved brann, isolas'on         N bereder i kjeller                                   oenheter .
+                                                Det var utplasserthåndslokkere.
+          V_entilas onsforhold, avtrekk
+         :,`vb-ekk over tak, k'økken o sanitær   amle uten service.
+        :Sanitaeruts -r
+         V V-bereder, tilstand, lasserin
+        ! Se[mnsJukningsutstyr
+
+   nfcti%                                       Noen utettede gjennomføringer ble observert. ja   Gjennomføringene må tettes med brannklassifisert
+                                                                                                  masse.
+    .-.5-ikKerhet ved brann, gjennornføringer   Det var montert eldre ioniske røykvarslere i ja   Det anbefales heldekkende brannalarmanlegg, alter-  Se samleskjema
+                                                                                                  nativt s rinkleranle +n e rø kvarslere.
+     Sikkerbet ved brann, røkvarsler
+
+                                                h ,beler, som delvis man let batteri.
+
+   Lvsr'crhold, nødlvs                          Ikke krav.                             Nei
+   F-7delin sanle
+                                                ok
+
+5  autornatserin
+
+   Sikkerhet ved brann,   varslin  sanlecr      Se unkt                                           Se unkt 4.1
+
+   r-" -,en tiIstand
+
+Sur: -,t:;enhet
+
+StL_r»r 4 Arkitkekter AS                                                                                                                              REV 403.021004
+  -                                                                                                         '«f
+Bolig- og byfornyelseskontoret                             30-års staudardenskravved utbedringav bolighus
+
+30-ÅRS STANDARDENS KRAV VED UTBEDRING AV BOLIGHUS.
+
+Bystyrevedtak A302/84
+
+N131Eventuelle kommentarer i forhold til da ens raktiserin av standardener beskreveti kursiv
+underhvert unkt.
+
+   LEIUGHETSSTRUKTUR.
+- Det tas fortrinnsvis utgangspunkt i den løsning for hver bygning som er best ut fra
+
+    økonomi,brannvernosv, med optimal utnyttelse av eksisterende vegger og trapper. Vålrom konsentreres
+    og lokaliseres mest mulig over hverandre.
+
+- De rehabiliterte leiligheter tilpasses om mulig en framtidig variert befolkningsmessig sammensetning med
+    vekt på unge familier med barn.
+
+- Det tilstrebes en variert leilighetssammensetning. 1-roms leiligheter bør unngås. Ett-roms leiligheter
+    aksepteres dersom de er av god p1anmessigkvalitet, og ikke dominerer i antall.
+
+B. BYGNINGSTEKNISK STANDARD.
+
+1. Antikvariske og kulturhistoriske verdier skal bevares og vernes.
+
+    - Dersom bygningsdeler skfftes ut skal dette skje i samsvar med bygningens opprinnelige særpreg.
+
+2. BygnIngen skal tilfredstille funksjonskrav og være konstruktiv sikker.
+    - Bærende konstruksjoner skal være undersøkt og utbedret/forsterket dersom det er behov for det.
+
+Taket må være i meget god stand, det skal kunne vare i 30 år. Pipene må være i god stand.
+
+Kjelleren skal være beskyttet mot fuktinntrengning. Grunnrnuren må undersøkes og nødvendige
+utbedringsarbeider foretas. Behov for utvendig drenering/behandling må vurderes og utføres der dette
+er nødvendig. Innvendig !iArandling av kjellervegger utfores der dette er påkrevd.
+
+Kjellergulv skal være støpt.
+
+Alle ytterdører må slutte tett til dørkarmen. Dører til kjellemedgangen skal beslås nederst med en 30
+cm høy plate av galvanisert jern, blikk eller lignende, og skal være selvtukkende (gjelder kun i
+spesielle tilfeller).
+
+Vinduer skal være i god stand, og skal være:
+a) Eksisterende vinduer med innvendige varevinduer, koblete vinduer eller vinduer med isolerglass.
+b) Kjellervinduer skal til en hver tid ha hele ruter. Karmen på kjellervinduer som kan åpnes skal være
+
+    forsynt med netting med en maskevidde ikke over en halv tomme. Nye vinduer tilpasses
+    opprinnelige typer.
+
+- Fasadene skal være satt i stand og eventuelt være malt.
+
+3. Beboernes sikkerbet ved brann skal vsere ivaretatt.
+        Brannsikring av eiendommen må være i henhokl til Branntekniske regler for
+
+       rehabiIiteringi frondhehn, se vedlegg. (For næmlere veiledning tas kontakt med Trondheim
+
+        brannsjefkontor, brann4lueninren, tit: .52 15
+        1dag følger v gjeldende plan- og bygningslovibyggeforskrifter, men i forbindelse med seksionering
+       detildrp bli stilt krav til en fulMendig brainteknisk utbedring» prioriteÆs·personsikkrilet ved
+        rømninq og utbedring av rømningsveier. iir-Drr;ieknisk Ws,,uxi må avdekkes og nødvendige tll1aI rnå
+        foreslås i en egen brannteknisk rapport utarbeidet av et privat konsulenifirma med relevant
+        ansvarsrett.
+
+4,, Felles teknisk aniegg.
+
+Etektriske anlegg skai væl e &nenlonert kn koiltilarerli14oppomiing, og sikf ingsskap skal være
+
+montert M)eidene skal 1-itrrresav godkient installatør_Fellestrøm må  i eg;E:nmäk som
+
+tdgie,igefig et fellesareale.
+

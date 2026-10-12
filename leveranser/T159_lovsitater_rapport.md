@@ -18,7 +18,7 @@
 
 | # | Leveranse | Status | Funn | Aksjon |
 |---|---|---|---|---|
-| 1a | `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | Forskrift om brannforebygging § 6 referert der korrekt er § 8 (oppgradering av byggverk). Også flere steder «§ 4 systematisk sikkerhetsarbeid» og «§ 9 kontroll og vedlikehold» — mapping byttet (§ 4 er kunnskap, § 5 er kontroll/vedlikehold, § 9 er systematisk sikkerhetsarbeid). Parafrasert sitat av § 8-tekst. | **Rettet** direkte i utkast. Verbatim § 8-tekst satt inn. Alle paragrafmappings korrigert. Trygg å sende. |
+| 1a | `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | Forskrift om brannforebygging § 6 referert der korrekt er § 8 (oppgradering av byggverk). Også flere steder «§ 4 systematisk sikkerhetsarbeid» og «§ 9 kontroll og vedlikehold» — mapping byttet (§ 4 er kunnskap, § 5 er kontroll/vedlikehold, § 9 er systematisk sikkerhetsarbeid). Parafrasert sitat av § 8-tekst. | **Rettet** direkte i utkast. Verbatim § 8-tekst satt inn. Alle paragrafmappings korrigert. Trygg å sende. |
 | 1b | `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt 06.10 | Samme § 6 → § 8-feil på fem steder i brevet. | **MERK-header lagt til i kildefilen** (ikke endret selve brevteksten — bevart som sendt). **Korrigeringsnotat sendt via Sivilombudets Min side 07.10.2026** (`leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md`). |
 | 1c | `leveranser/brann/2026-10-06_sivilombudet_klage/webskjema_del2_klagen.md` | Sendt (del av Sivilombudet-klagen) | Samme § 6 → § 8-feil i webskjema-teksten. | **MERK-header lagt til** med peker til korrigeringsnotatet. |
 | 1d | `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` | Sendt, avvist 25.08 | § 6 → § 8-feil (samme). Også fvl. § 51 «fjerde ledd» → **femte ledd** (klageregelen om særskilt klagerett ligger i (5), ikke (4)). | **MERK-header lagt til** som arkivdokument-flagg. Rettingen følger med videre til Sivilombudet via korrigeringsnotatet. |
@@ -31,7 +31,7 @@
 ### Hovedleveransen fra delleveranse 1
 
 - `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md` (ny) — korrigeringsnotat til Sivilombudet. Må lastes opp via sivilombudet.no Min side.
-- DSB-utkastet (`leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`) kan nå sendes.
+- DSB-utkastet (`leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`) kan nå sendes.
 
 ## Delleveranse 2 — bank-/forretningsplan-sporet
 
@@ -96,7 +96,7 @@ Disse flaggene representerer ikke identifiserte feil, men manglende verifikasjon
 - `leveranser/T159_lovsitater_rapport.md` — denne rapporten
 
 **Endret (direkte retting før utsending):**
-- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`
+- `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`
 - `leveranser/2026-06-26_tilskudd_som_egenkapital.md`
 - `leveranser/2026-06-26_stoetteoversikt.md`
 - `leveranser/2026-06-28_finansieringsplan.md`

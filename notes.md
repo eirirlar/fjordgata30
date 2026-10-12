@@ -1,10 +1,11 @@
-Ref TBRT rapport.
-Ikke bruk bold i brødtekst.
-For mye detaljer på gjenvinningsgrad (ikke superrelevant for TBRT)
+> Prioritet 1
+Skriv mail eller svar på sms til dem
 
-> Rapportene ettersendes gjerne hvis TBRT ønsker å ha dem i saksmappen.
-Nei. De kan hente de selv fra autronica og tensio hvis de vil. Trenger ikke nevne noe om ettersending, det er bare potensielt merarbeid uten verdi for noe av partene.
+> Prioritet 2
+Vi gjør ikke noe før jeg har fått svar
 
-> erkjenner Byantikvaren at behandlingen av rammesøknaden bygget på en feil antakelse om bæresystemet
-Lurt å presisere at vi mener den forrige rammesøknaden.
+> Prioritet 3
+Gjør ikke noe før forkynnelsen er mottatt
 
+> Intrum
+Du har ikke laget noe formelt svar til dem a la det du gjorde mtp HRP saken. Det trenger jeg å sende til dem. Jeg vet ikke om jeg skal skrive at kravet bestrides etc og hvor mye detaljer vi skal ha med om DSB/Sivilombudet, men vi bør sende noe. Lag draft.

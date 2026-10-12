@@ -1102,11 +1102,11 @@ Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklar
 - Vedtak-feltet i webskjemaet: `11_moteprotokoll_klageorgan_2026-08-25.pdf`. Alle andre vedlegg under «Andre vedlegg».
 - Sivilombudets eget sendemåte-krav om fullmakt dekkes av firmaattesten: Eirik Larsen har signatur som «Styrets leder alene» per Brreg. Ingen separat fullmakt kreves.
 
-**Delleveranse 1 (DSB) — utkast klart 06.10.2026, holdes for utsending.** Beslutning 06.10.2026: skrive og sende DSB-søknad nå i stedet for å vente på Sivilombudets uttalelse, fordi Namsfogden-overleveringen eskalerer saken og unntaksregelen i punkt B («DSB sendes straks hvis innkrevingen eskalerer») slår inn. Brev: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`. Argumentasjonen er bygget praktisk/skjønnsmessig (rettslig umulighet, alt annet lukket, prosjekt reelt og offentlig finansiert, bero-beslutningens egen realitetsvurdering, bygg tomt, forsinkelser forårsaket av andre offentlige organer, mulkten motvirker sitt formål) med særlig punkt 5 om pålegget oppfylt etter sitt innhold (Sivilombudets 2010-uttalelse + forskrift om brannforebygging § 6). Opplyser DSB om pågående Sivilombud-sak og ber dem avvente uttalelsen hvis de ser den som relevant.
+**Delleveranse 1 (DSB) — utkast klart 06.10.2026, holdes for utsending.** Beslutning 06.10.2026: skrive og sende DSB-søknad nå i stedet for å vente på Sivilombudets uttalelse, fordi Namsfogden-overleveringen eskalerer saken og unntaksregelen i punkt B («DSB sendes straks hvis innkrevingen eskalerer») slår inn. Brev: `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`. Argumentasjonen er bygget praktisk/skjønnsmessig (rettslig umulighet, alt annet lukket, prosjekt reelt og offentlig finansiert, bero-beslutningens egen realitetsvurdering, bygg tomt, forsinkelser forårsaket av andre offentlige organer, mulkten motvirker sitt formål) med særlig punkt 5 om pålegget oppfylt etter sitt innhold (Sivilombudets 2010-uttalelse + forskrift om brannforebygging § 6). Opplyser DSB om pågående Sivilombud-sak og ber dem avvente uttalelsen hvis de ser den som relevant.
 
 Åpne punkter før DSB-utsending:
 
-- Vedleggsmappe etter samme mal som Sivilombudet-pakka (`leveranser/dsb/<kortnavn>_<dato>/`): konvertere brevet til PDF, samle de 21 vedleggene. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) er ikke tidligere pakket som nummererte PDF-er og må enten regenereres eller hentes fra originalkilder før utsending.
+- Vedleggsmappe etter samme mal som Sivilombudet-pakka (`leveranser/brann/dsb/<kortnavn>_<dato>/`): konvertere brevet til PDF, samle de 21 vedleggene. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) er ikke tidligere pakket som nummererte PDF-er og må enten regenereres eller hentes fra originalkilder før utsending.
 - Verifisere nøyaktig navn/postadresse/orgnr for DSB mot DSB.no umiddelbart før utsending (hentet 06.10.2026: Postboks 2014, 3103 Tønsberg, org.nr. 974 760 983, postmottak@dsb.no).
 
 **Delleveranse 3 (statusbrev TBRT) — ikke levert.** Skal sendes oktober/november 2026 for å beskytte bero-beslutningen fram til 01.01.2027.
@@ -1115,7 +1115,7 @@ Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklar
 
 #### Neste steg i prioritert rekkefølge
 
-1. **Pakke DSB-søknaden for utsending** — konvertere brev til PDF, samle vedleggene i `leveranser/dsb/<kortnavn>_<dato>/` etter samme mønster som Sivilombudet-pakka. Verifisere DSB-adresse/orgnr umiddelbart før utsending. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) må regenereres eller hentes fra originalkilder.
+1. **Pakke DSB-søknaden for utsending** — konvertere brev til PDF, samle vedleggene i `leveranser/brann/dsb/<kortnavn>_<dato>/` etter samme mønster som Sivilombudet-pakka. Verifisere DSB-adresse/orgnr umiddelbart før utsending. Flere vedlegg (1, 3, 5, 13, 14, 15, 21) må regenereres eller hentes fra originalkilder.
 2. **Avklar Namsfogden-forkynnelsen** innen 12.10.2026. Ring 73 87 68 00 for forkynnelse på e-post (raskere enn fysisk henting på Heimdal), eller hent på Heimdal politistasjon. Dokumentet er sannsynligvis begjæring om utlegg.
 3. **Strategisk beslutning: betale eller la utlegg skje.** Betaling av kr 184 000 er ikke til hinder for Sivilombudet-saken eller DSB-søknaden om frafall.
 4. **Statusbrev til TBRT** (delleveranse 3) — sendes i oktober/november 2026 for å beskytte bero-beslutningen fram til 01.01.2027. Hvis bero brytes kan TBRT kreve mulkt tilbake i tid for perioden 26.05.2026 → 01.01.2027 (potensielt kr 400 000+).
@@ -2260,7 +2260,7 @@ Andre: `tek17_12-7_rom_oppholdsareal.md`, `finansforetaksloven_13-5_forsvarlig_v
 |---|---|---|
 | `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` | Sendt, avvist | forskrift brannforebygging § 6 (korrekt er § 8) |
 | `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt | forskrift brannforebygging § 6 (korrekt § 8); mulig fvl §§ 24–25-sitat ikke verbatim; pbl § 29-4 (ikke sitert verbatim men referert) |
-| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | Samme feil som Sivilombudet-brevet — må fikses før utsending |
+| `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | Samme feil som Sivilombudet-brevet — må fikses før utsending |
 | `leveranser/2026-09-01_arbeidsinstruks_kjeller.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
 | `leveranser/2026-09-04_ra_henvendelse_oppstart_dialog.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
 | `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` | Sendt | kulturminneloven § 4 vs § 15 — må sjekkes |
@@ -2525,7 +2525,7 @@ NB: Grunnlovens paragrafer har ingen tittel i Lovdata. Ikke dikt opp overskrifte
 
 | Leveranse | Status | Sjekk |
 |---|---|---|
-| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | § 6 → § 8 (brannforebygging); § 29-4 → § 29-5 (pbl); verbatim-sitater fra verifiserte paragraf-filer |
+| `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast | § 6 → § 8 (brannforebygging); § 29-4 → § 29-5 (pbl); verbatim-sitater fra verifiserte paragraf-filer |
 | `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt | Ettersending via Min side med korrigeringsnotat om § 6 → § 8 (brannforebygging) |
 | `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`, `2026-09-04_ra_henvendelse_oppstart_dialog.md`, `2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md` | Sendt | Kulturminneloven § 4 vs § 15 sitater må sammenlignes mot verifiserte paragraf-filer |
 | Bankpakka 07/09, `forretningsplan/forretningsplan.md` | Produsert | Skatteloven § 14-42 (3) om tilskudd — korrekt henvisning er § 14-42 (2) a; § 14-43 j = 10 % (fast teknisk installasjon) ikke lagt til grunn |
@@ -2604,7 +2604,7 @@ Mottakere: forvaltningsorganer der feil hjemmel kan ødelegge hjemmelsgrunnlaget
 
 | Leveranse | Status | Hastegrad |
 |---|---|---|
-| `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast — holdes før utsending | HØY — fiksen må inn før utsending |
+| `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` | Utkast — holdes før utsending | HØY — fiksen må inn før utsending |
 | `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` | Sendt 06.10.2026 | HØY — ettersending via Min side ved funn |
 | `leveranser/brann/2026-10-06_sivilombudet_klage/webskjema_del2_klagen.md` | Sendt (del av Sivilombudet-klagen) | HØY — del av samme pakke |
 | `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` | Sendt, avvist 25.08.2026 | LAV — arkiv-dokument, kun arkivfiks |
@@ -2677,7 +2677,7 @@ Gjennomgang av alle 23 leveranser med §-sitater. 7 reelle feil i §-attribusjon
 
 **Delleveranse 1 (juridisk/forvaltnings-sporet) — 9 filer:**
 
-- DSB-utkast `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` rettet før utsending. Verbatim § 8-tekst satt inn.
+- DSB-utkast `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` rettet før utsending. Verbatim § 8-tekst satt inn.
 - Sivilombudet-brev `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt) og webskjema del 2: MERK-header lagt til i kildefilene, selve brev-/skjema-teksten uendret («bevart som sendt»).
 - **Nytt korrigeringsnotat:** `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md` — forklarer feilen og at innholdet er materielt uendret. Må lastes opp via Sivilombudets Min side.
 - TBRT-klage 06.17 (sendt, avvist): MERK-header som arkivdokument-flagg.
@@ -2712,7 +2712,7 @@ Dette er ikke identifiserte feil, men manglende uttømmende verifikasjon. Lav ri
 
 - `leveranser/T159_lovsitater_rapport.md` (ny — hovedrapport)
 - `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md` (ny)
-- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (rettet, ikke sendt)
+- `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (rettet, ikke sendt)
 - `leveranser/2026-06-26_tilskudd_som_egenkapital.md` (rettet)
 - `leveranser/2026-06-26_stoetteoversikt.md` (rettet)
 - `leveranser/2026-06-28_finansieringsplan.md` (rettet)
@@ -2891,7 +2891,7 @@ Fra T147 fremgikk at «hele 184 000 kr er overlatt namsmannen» — dette ser n�
 
 - `bakgrunn/brann/2026-09-29_tbrt_purring.md` (ny)
 - `bakgrunn/brann/2026-09-30_intrum_konkursvarsel_tbrt.md` (ny)
-- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (må oppdateres med konkret konkursvarsel-info)
+- `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (må oppdateres med konkret konkursvarsel-info)
 - Nye leveranser som skal lages:
   - `leveranser/YYYY-MM-DD_tbrt_statusbrev_oktober.md` (T147 delleveranse 3)
   - `leveranser/YYYY-MM-DD_intrum_betalingsutsettelse.md` eller `leveranser/YYYY-MM-DD_tbrt_betalingsutsettelse.md` (T147 delleveranse 4 — gjenåpnet)
@@ -3041,7 +3041,7 @@ T147 strøk delleveranse 4 (betalingsutsettelse) 06.10.2026 med begrunnelsen «l
 
 **Formål:** Screening. Gå gjennom hver sak vi har fått innsyn i hos DSB og beskrive hva som er relevant for vår sak mot TBRT (sak 24/1007, kr 184 000 påløpt mulkt): hva DSB la vekt på, hvilke argumenter som ble vurdert og hvordan, hvilke formuleringer DSB bruker, og hva som ligner på eller skiller seg fra vår sak. Tasken skal **ikke** gi forslag til endringer i DSB-søknaden og skal ikke konkludere med en strategi. Den skal gi et oversiktlig grunnlag som brukeren selv tar stilling til.
 
-**Kildemateriale:** `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/` (se `OVERSIKT.md` der). Bruk `_merged.txt`-filene som tekstgrunnlag; sjekk mot PDF ved tvil om tall eller sitater. Til sammenligning med vår sak leses også `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` og `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md` — kun som referanse for hva vår sak gjelder, ikke for å foreslå endringer i dem.
+**Kildemateriale:** `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/` (se `OVERSIKT.md` der). Bruk `_merged.txt`-filene som tekstgrunnlag; sjekk mot PDF ved tvil om tall eller sitater. Til sammenligning med vår sak leses også `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` og `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md` — kun som referanse for hva vår sak gjelder, ikke for å foreslå endringer i dem.
 
 Sakene som screenes:
 
@@ -3094,7 +3094,7 @@ Datoen er datoen rapporten skrives. Alle sitater fra DSB-avgjørelsene gjengis o
 **Praktisk om agentene:** Agentene startes **uten** `isolation: "worktree"`. De skal kun lese og levere rapportteksten tilbake; filene skrives i hovedsesjonen. Git og gh brukes ikke. Etter kjøringen sjekkes det med `ls` at `.claude/worktrees/` ikke har `agent-*`-mapper. Finnes det rester, stoppes det og brukeren spørres. Resultatet av sjekken noteres i løsningsnotatet.
 
 **Berørte filer:**
-- Leses: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`, `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md`
+- Leses: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`, `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md`
 - Ny mappe: `bakgrunn/brann/YYYY-MM-DD_dsb_frafall_screening/` (OVERSIKT.md + 25 rapporter)
 
 **Kobling:**
@@ -3136,7 +3136,7 @@ Screeningen er gjennomført etter spesifikasjonen over. Fem agenter (én per rol
 **Formål:** Sammenligne søknaden til DSB med det DSB faktisk har krevd, spurt om og lagt vekt på i de fem frafallsakene som er screenet. Liste hvert gap med DSB-sitat, hva søknaden sier, og hvor alvorlig gapet er. Liste mulige grep uten å beslutte dem. Søknaden skal ikke endres i denne oppgaven.
 
 **Berørte filer:**
-- Leses: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `bakgrunn/brann/2026-10-08_dsb_frafall_screening/`, `historikk.md`
+- Leses: `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/**/*_merged.txt`, `bakgrunn/brann/2026-10-08_dsb_frafall_screening/`, `historikk.md`
 - Ny: `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`
 
 **Kobling:**
@@ -3172,8 +3172,8 @@ Opprettet `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`. Notatet er et in
 - Lovsitater kontrolleres mot filene i `bakgrunn/lovverk/`. Ingen docx.
 
 **Berørte filer:**
-- Leses: `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`, `historikk.md`, saksdokumenter i `bakgrunn/` og `bakgrunn/brann/`, `bakgrunn/lovverk/`
-- Ny: `leveranser/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`
+- Leses: `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`, `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`, `historikk.md`, saksdokumenter i `bakgrunn/` og `bakgrunn/brann/`, `bakgrunn/lovverk/`
+- Ny: `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`
 - Nye: `bakgrunn/lovverk/pbl_20-1_tiltak_byggesaksbestemmelsene.md`, `bakgrunn/lovverk/pbl_20-2_soknadsplikt.md`
 - Lest: `bakgrunn/okonomi/*.csv`
 
@@ -3186,7 +3186,7 @@ Opprettet `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`. Notatet er et in
 
 **Løsning (08.10.2026):**
 
-Ny versjon av søknaden er skrevet: `leveranser/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`. Versjonen av 06.10.2026 er ikke rørt. Søknaden er ikke sendt.
+Ny versjon av søknaden er skrevet: `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md`. Versjonen av 06.10.2026 er ikke rørt. Søknaden er ikke sendt.
 
 - **Oppbygging:** følger DSBs vurderingsmomenter: avvikenes omfang og alvor (punkt 5), årsak (6), skyld og hva eier har gjort for å begrense mulkten (7), TBRTs egen vurdering (8), økonomi (9), preventiv virkning (10). Eget punkt 2 møter inngangsvilkåret fra Fossegrenda-saken direkte. TBRT er satt som kopimottaker.
 - **Endret argumentasjon:** rettslig umulighet er skrevet som årsak utenfor eiers kontroll, ikke som ugyldighet. Punktet om at pålegget er oppfylt etter sitt innhold, med sitatet fra Sivilombudets uttalelse fra 2010, er tatt ut. DSB bes ikke lenger vente på Sivilombudet. Forhold etter mulktperioden (tomt bygg, forsinkelser hos andre organer) er skilt ut i eget underpunkt. Historikken 2018–2024 er tatt inn.
@@ -3210,6 +3210,122 @@ Ny versjon av søknaden er skrevet: `leveranser/dsb/2026-10-08_dsb_soknad_frafal
 - **Fortsatt åpent før sending:** tre setninger i punkt 9 bygger på antakelser og må bekreftes (at gjenværende leieinntekter kommer fra Grønnegata 10, at underskuddet i 2025 ble dekket med kr 1 167 173 fra morselskapet, at bankinnskuddet skal dekke drift fram til byggefinansiering). Vedleggsmappen er ikke satt sammen.
 - **Oppfølging (08.10.2026):** prosjektleder har bekreftet de tre setningene i punkt 9. Nytt kulepunkt om byggelån er lagt til i punkt 9. Årstallene i `historikk.md` er rettet: tre oppføringer flyttet fra 2024 til 2025, forprosjektet flyttet til 2026, og to dobbeltoppføringer (06.01.2025 og 26.01.2025) fjernet fordi de samme hendelsene står under 2026.
 - **Presisering (08.10.2026):** tidspunktene for entreprenørprisene er presisert i søknaden (punkt 4.2, 6.2 og 7) og i `historikk.md`: muntlige prisantydninger oktober–november 2025, skriftlig tilbud fra Astra Bygg & Entreprenør AS 16.12.2025. Kilde for datoen er e-post limt inn av prosjektleder i samtalen. E-posten og tilbudet er ikke lagret i repoet.
-- **Vedleggsmappe (08.10.2026):** opprettet `leveranser/dsb/2026-10-08_dsb_soknad_frafall/` med `README.md` og 15 av 27 vedlegg. De 15 PDF-ene er kopiert uendret fra `leveranser/brann/2026-10-06_sivilombudet_klage/` og gitt nye numre etter vedleggslisten i søknaden. 12 vedlegg mangler som original og er listet i README med filnavn og henvisning til avskrift i repoet (01, 05, 06, 15, 16, 17, 18, 21, 22, 23, 24, 25). Statusbrevet til TBRT av 30.12.2025 finnes ikke i repoet. Hovedbrevet er ikke konvertert til PDF.
+- **Vedleggsmappe (08.10.2026):** opprettet `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall/` med `README.md` og 15 av 27 vedlegg. De 15 PDF-ene er kopiert uendret fra `leveranser/brann/2026-10-06_sivilombudet_klage/` og gitt nye numre etter vedleggslisten i søknaden. 12 vedlegg mangler som original og er listet i README med filnavn og henvisning til avskrift i repoet (01, 05, 06, 15, 16, 17, 18, 21, 22, 23, 24, 25). Statusbrevet til TBRT av 30.12.2025 finnes ikke i repoet. Hovedbrevet er ikke konvertert til PDF.
 - **Justeringer etter gjennomlesing (08.10.2026):** fet skrift fjernet fra brødteksten i søknaden (punkt 1–12). Setningen i punkt 2 om saker der DSB har ventet er presisert til å gjelde DSB sak 2024/8295. Punkt 6.2 har fått fire setninger om at fristen 28.02.2026 var åtte uker og at selskapet i telefonsamtalen 06.01.2026 sa den var for kort; det TBRT sa muntlig, er gjengitt som selskapets oppfatning.
 - **Nytt punkt 6.3 (08.10.2026):** «Hvorfor sprinkling uten ombygging ikke er en løsning» lagt inn i søknaden; tidligere 6.3 og 6.4 er nå 6.4 og 6.5. Tre grunner: bæringen i kjeller må forsterkes først, skjevheter (150–200 mm, tilstandsanalysen 2023) skal rettes opp, og 3.–5. etasje skal trolig plukkes ned. Nedplukkingen er etter prosjektleders opplysning ikke endelig bestemt, og teksten sier det. At fagfolk anbefaler nedplukking og at fundamenteringen forsterkes, bygger på prosjektleders opplysning. Prosjektleder har varslet flere argumenter til samme punkt.
+
+### T168 `[x]` Andre eInnsyn-bestilling — Oppdal-saken + dok05-vedlegg til 2016/566
+
+**Prioritet:** Middels. Supplerer screeningmaterialet for DSB-søknaden.
+
+**Formål:** Prosessere andre eInnsyn-bestilling fra DSB (bestilt 06.10.2026, mottatt 09.10.2026) som dekket to huller: DSB sak 2013/8073 Oppdal Skiheiser AS (helt ny sak) og 2016/566 doknr 5 (TBRTs brev 04.03.2016 med 18 vedlegg).
+
+**Berørte filer:**
+- Nye: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/2013-8073_oppdal_skiheiser_rockoss_stolen/` (3 dok + vedlegg, 5 samlet-filer)
+- Nye: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/2016-566_dronningens_gate_20_vaterlandsveita_3/dok05_2016-03-04_anmodning_om_frafall_av_ilagt_tvangsmulkt_tbrt/vedlegg_1-18/` (12 nye vedlegg + README)
+- Nye: 5 screeningrapporter i `bakgrunn/brann/2026-10-08_dsb_frafall_screening/2026-10-08_2013-8073_oppdal_rockoss_*.md` (en per rolle)
+- Oppdatert: `bakgrunn/brann/2026-10-06_dsb_einnsyn_tvangsmulkt/OVERSIKT.md` (ny seksjon «Andre bestilling»)
+- Oppdatert: `bakgrunn/brann/2026-10-08_dsb_frafall_screening/OVERSIKT.md` (Oppdal lagt til som 6. sak)
+
+**Kobling:**
+- T165 (screeningen)
+- T166 (gapanalysen)
+
+**Løsning (09.10.2026):**
+
+Alle 24 unike PDF-er fra andre bestilling konvertert med `pdftotext` + Read-verktøy, deretter sammenstilt som `_samlet.txt` (enklere format enn `_merged.txt` fra første bestilling — reader + pdftotext konkatenert, uten intelligent merging).
+
+- **Oppdal-saken:** Ny toppmappe `2013-8073_oppdal_skiheiser_rockoss_stolen/` med tre dok-undermapper (dok03 DSB-forespørsel 19.09.2013, dok04 TBRTs vurdering 23.10.2013, dok05 DSB-avgjørelse 13.01.2014). Vedlegg i undermapper for dok03 (Oppdal Bookings e-post 07.08.2013) og dok04 (39-siders saksdokumenter-TBRT-bulletin). Fem screeningrapporter skrevet for Oppdal (dsb-saksbehandler, partsrepresentant, djevelens-advokat, forvaltningsrett, revisor) etter samme mal som Trondheim-sakene; ikke sitatkontrollert maskinelt.
+- **Dronningens gate dok05:** Hoveddokumentet (TBRTs brev 04.03.2016, ref 13/200-46) var allerede lagret som vedlegg til dok08 i strukturen; ikke duplisert. Ny mappe `dok05_.../vedlegg_1-18/` med 12 av 18 vedlegg som samlet-filer (nr. 1, 2, 3, 4, 7, 9, 10, 11, 12, 13, 15, 16). Seks vedlegg (5, 6, 8, 14, 17, 18) er duplikater av eksisterende filer i dok01/bilag_1-45 eller dok08/vedlegg_1-9 og ligger kun der. README i dok05/ peker til kanonisk plassering.
+- **Nye funn fra Oppdal:** Oppdal-saken bekrefter at DSBs praksis er stabil siden 2014. Standardformuleringer «lovmessig, rimelig og nødvendig», «mulkten har fungert etter sin hensikt», «ervervelse av flere byggverk» har vært etablert praksis. To nye vinklinger som ga grunnlag for G11 og G12 i gapanalysen (se T169).
+- **Agenter:** ingen brukt (brukte Read-verktøyet direkte). **Git/gh:** ikke brukt. **WebFetch:** ikke brukt.
+
+### T169 `[x]` Revisjon av gapanalyse etter andre eInnsyn-bestilling + mindre tilleggsrevisjon av DSB-søknaden
+
+**Prioritet:** Middels. Følger av T168 og T167.
+
+**Formål:** Revidere gapanalysen (`bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`) mot (1) ny søknadsversjon av 08.10.2026 og (2) utvidet screening med Oppdal. Deretter vurdere om noen av de gjenstående gapene krever endringer i søknaden.
+
+**Berørte filer:**
+- Oppdatert: `bakgrunn/brann/2026-10-08_dsb_soknad_gapanalyse.md`
+- Oppdatert: `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall_tvangsmulkt.md` (tre endringer, se løsningsnotat)
+
+**Kobling:**
+- T166 (gapanalysen)
+- T167 (søknaden)
+- T168 (nye kilder)
+
+**Løsning (09.10.2026):**
+
+- **Gapanalysen revidert:** De 10 opprinnelige gapene vurdert på nytt mot søknaden av 08.10.2026. Lukket: G2 (gyldighet), G3 (momentliste), G4 (økonomi), G5 (tidsfeil), G6 (historikk), G8 (motvirker/fungert). Redusert men åpne: G1 (inngangsvilkår), G7 (bero-beslutningen), G9 (næringsdrivende), G10 (tempo). To nye gap fra Oppdal-saken: G11 (DSBs «mulkten har fungert etter sin hensikt»-logikk ved delvis lukking), G12 («internkontroll ved ervervelse av flere byggverk»).
+- **Tre endringer i søknaden:**
+  1. Kap. 3 (G9+G12): tilføyd setning om kontinuerlig brannteknisk rådgivning (TekØk, HRP, Autronica) og etablert internkontroll for begge eiendommer. Preempter DSBs standardformulering om profesjonelle eiendomsforvaltere.
+  2. Kap. 10 (G11): utvidet 72-dager-avstanden mellom mulktoppstart og rammesøknad med konkret oppsplitting (bæreundersøkelser, Byantikvarens avslag, omprosjektering).
+  3. Kap. 9: fjernet oppramsing av tilskuddsbeløpene (750K+500K+100K+900K) og matematiske sammenligning. Erstattet med «Eksterne vurderinger»-bullet som nevner tilsagn uten konkrete beløp, rammer det som vurderingsorganer anser prosjektet realistisk, og presiserer at midlene er øremerket og at selskapet må skrape sammen gjenstående finansiering. Vedlegg 23 (tilsagnsbrev) fjernet fra pakka av samme grunn (risikerer å brukes mot søker). Vedlegg 24–27 renummerert til 23–26.
+- **Åpne grep som ikke er utført:** G1 (bero-beredskap-brev hvis DSB utsetter), G7 (ytterligere omskriving av kap. 8 kan dempe risiko mot Fossegrenda-type angrep), G10 (dobbeltsignalet i kap. 12 beholdt bevisst). Disse er beskrevet i gapanalysen men ikke besluttet som tekstendringer.
+- **Agenter:** ingen brukt. **Git/gh:** ikke brukt. **WebFetch:** ikke brukt.
+
+### T170 `[x]` Sammenstilling av DSB-søknadspakka (vedleggsmappe + PDF)
+
+**Prioritet:** Høy. Søknaden kan ikke sendes før vedleggsmappa er komplett.
+
+**Formål:** Ferdigstille `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall/` med alle 26 vedlegg og hovedbrevet som PDF.
+
+**Berørte filer:**
+- Oppdatert: `leveranser/brann/dsb/2026-10-08_dsb_soknad_frafall/README.md`
+- Nye PDF-er i mappen: 00_brev (sammenstilt), 01 tilsynsrapport (original), 05 statusbrev-korrespondanse (avskrift + Rapport 2025 original), 06 redegjørelse/status (avskrift), 15 rammesøknad-sammendrag (fire PDF-er flettet), 16 byggesak foreløpig tilbakemelding (original), 17 Byantikvaren uttalelse (original), 18 Riksantikvaren svar (avskrift), 21 Autronica (original), 22 Tensio (original), 23 regnskap (produsert av prosjektleder manuelt), 24 Intrum konkursvarsel (original)
+- Ny: `bakgrunn/2025-12-30_fjordgata_30_rapport_2025.md` (transkribert fra PDF)
+- Fjernet fra pakka: Vedlegg 23 opprinnelig (tilsagnsbrev) — se T169
+
+**Kobling:**
+- T167 (søknaden)
+- T169 (gap-oppdaterte søknad)
+
+**Løsning (09.10.2026):**
+
+Fra 15 av 27 vedlegg ved dagens start til 26 av 26 ved dagens slutt. Hovedbrev PDF generert med pandoc + xelatex (9 sider) og plassert som `00_brev_dsb_soknad_frafall.pdf`.
+
+- **Originaler lagt til (7):** 01 TBRT tilsynsrapport, 15 rammesøknad-sammendrag (fire PDF-er flettet med pdfunite: F-02 Følgebrev + D-01 Situasjonskart + D-02 Situasjonsplan + B-01 Dispensasjonssøknad — kuratert for å ikke overvelde DSB; fagnotater, tegninger og admindokumenter droppet), 16 byggesak foreløpig tilbakemelding, 17 Byantikvaren uttalelse, 21 Autronica årskontroll, 22 Tensio DLE-tilsyn, 24 Intrum konkursvarsel.
+- **Avskrifter lagt til (3):** 05 statusbrev-korrespondanse (HRP-notat + Rapport 2025 original + TBRT svar — selve statusbrevet av 30.12.2025 mangler fortsatt), 06 redegjørelse/status 26.-27.02.2026 (begge våre e-poster/notater), 18 Riksantikvarens svar (e-post). Begrunnelse: e-post og intern korrespondanse der original ikke er kritisk som bevis.
+- **Manuelt levert av prosjektleder:** 23 Resultat- og balanserapport 2024–2026 — prosjektleder genererte PDF-en fra regnskapssystemet selv (mitt påbegynte Python-script `scripts/format_regnskap_pdf.py` slettet).
+- **Rapport 2025:** Original PDF først transkribert til `bakgrunn/2025-12-30_fjordgata_30_rapport_2025.md`, deretter brukt i vedlegg 05 som flettet PDF.
+- **Fjernet fra pakka:** Vedlegg 23 (tilsagnsbrev KMF/BYA/UNI/Enova) fjernet (se T169). Vedleggsnummer 24–27 renummerert til 23–26.
+- **Åpne punkter før sending:** Statusbrevet 30.12.2025 må finnes fra e-postklient og flettes inn i vedlegg 05. Tallene i kap. 9 er låst til 08.10.2026; må sjekkes mot nye regnskapsrapporter hvis sendedato skrives senere. E-poststørrelse må kontrolleres før sending (pakka er ~5-6 MB).
+- **Agenter:** ingen brukt. **Git/gh:** ikke brukt. **WebFetch:** ikke brukt. **Docx:** ikke generert.
+
+---
+
+### T171 `[x]` Kjøre iterativ dypdykksprompt for strategi mot tvangsmulkt
+
+**Prioritet:** Lav til middels — ikke en akutt leveranse, men et verktøy som skal brukes når det er rom for en lengre analyse-økt (2–4 timer).
+
+**Formål:** Produsere en grundig strategianalyse (2 000–4 000 linjer) som dekker alle lovlige måter å unngå, redusere eller forsinke TBRTs tvangsmulkt på — formelle rettsmidler, prosessuelle forsinkelser, selskapsrettslige grep, mediestrategi og kreative/ukonvensjonelle manøvre. Leveransen skal være operasjonell for en jurist eller strategirådgiver, ikke et sammendrag til styremøte.
+
+**Hvordan tasken kjøres:**
+1. Åpne `bakgrunn/2026-10-11_prompt_strategi_tvangsmulkt_dypdykk.md`.
+2. Kopiér innholdet av kodeblokken (hele oppdragsteksten mellom tre bakoverapostrofer).
+3. Lim inn i en ny Claude Code-chat (eller den chaten du vil bruke) og send.
+4. Prompten styrer resten: faktaark → iterasjoner → review → stopp når tid er ute. Du trenger ikke følge med underveis; kom tilbake etter ca. 180 minutter og les `rapport_final.md` i den opprettede iterasjonsmappen.
+
+**Konfigurerbart i prompten:**
+- Tidsbudsjett (default 180 minutter; kan overstyres ved å si «budsjett N minutter» ved start, minimum 90).
+- Faktaark-gating (default: ingen venting; kan legges til «vis faktaark og vent 2 minutter før første iterasjon» hvis manuell korrigering av fakta er ønsket før agentene starter).
+
+**Berørte filer:**
+- Ny: `bakgrunn/2026-10-11_prompt_strategi_tvangsmulkt_dypdykk.md` (selve prompten)
+- Ved kjøring opprettes: `bakgrunn/brann/strategi_tvangsmulkt_<ISO-dato>/` med faktaark, iterasjons- og review-filer, logg og rapport_final.md
+
+**Kobling:**
+- Underliggende sak: tvangsmulkt- og brannsaken i `bakgrunn/brann/` (T161–T170)
+- Bakgrunn for promptens utforming: første forsøk 11.10.2026 produserte en tynn og delvis feilaktig rapport; prompten er resultatet av iterativ feilsøking av hvorfor forsøket sviktet. Modellvalg (Sonnet for agenter, Opus for orkestrator), tidsramme-logikk og iterasjonsmekanikk er bygget inn i prompten.
+
+**Løsning (11.10.2026):** Kjørt med 180 min default-budsjett og ingen faktaark-gating. Tre iterasjoner gjennomført (full iter 01 + målrettede iter 02 og iter 03). Resultater:
+- `bakgrunn/brann/strategi_tvangsmulkt_2026-10-11/rapport_final.md` (3239 linjer)
+- Fem agent-rapporter per iterasjon bevart i sine fulle versjoner
+- Faktaark med 4 korreksjoner mot opprinnelig samlet strategianalyse (eierandel 85,79 %, skatteloven § 13-2, dekningsloven § 9-6, straffeloven kap. 31)
+- 16 nye lovkildefiler i `bakgrunn/lovverk/`
+- Review 01 og Review 02 bevart som arbeidsnotater
+- Logg og iterasjon-filer bevart
+- Sivilombudet 2023/2570 verifisert verbatim (var UKJENT i samlet strategianalyse)
+- Statsforvalter-sporet operasjonalisert med 500+ ord brevutkast (etter brukerflag mellom iter 01 og iter 02)
+- Åpen svakhet: Agent 1 iter 03 traff 32k-token-maks før rapporten var skrevet (lovfiler ble likevel verifisert); full begjæringsutkast for midlertidig forføyning er ikke levert og må enten utarbeides av advokat eller være gjenstand for ny agent-kjøring. Agent-oppdrag bør i framtiden deles i smalere kjøringer slik at én agent ikke får både omfattende verifikasjonsarbeid og store skriveoppgaver.

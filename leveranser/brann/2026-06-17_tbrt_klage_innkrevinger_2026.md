@@ -8,7 +8,7 @@ date: 17. juni 2026
 > 1. **«Forskrift om brannforebygging § 6»** (punkt 1.5 og flere steder) — korrekt paragrafnummer er **§ 8**. § 6 handler om fyringsanlegg; § 8 om oppgradering av byggverk gjennom bygningstekniske og risikoreduserende tiltak.
 > 2. **«Forvaltningsloven § 51, 4. ledd»** om særskilt klagerett (punkt 2.1 og flere steder) — korrekt er **femte ledd**. Fvl. § 51 har fem ledd, og klageregelen («Forhold knyttet til ileggelsen av tvangsmulkt kan påklages særskilt. Reglene i §§ 28 til 36 gjelder tilsvarende») er plassert i femte ledd, ikke fjerde.
 >
-> Innholdet i anførslene er materielt det samme — rettshjemmelen eksisterer, kun paragraf-/leddnummeret var feil. Siden klagen er endelig behandlet er feilene ikke korrigert i den sendte versjonen. Korreksjon er videreført til Sivilombudet (se `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md`) og til DSB-utkastet (se `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` — rettet før utsending).
+> Innholdet i anførslene er materielt det samme — rettshjemmelen eksisterer, kun paragraf-/leddnummeret var feil. Siden klagen er endelig behandlet er feilene ikke korrigert i den sendte versjonen. Korreksjon er videreført til Sivilombudet (se `leveranser/2026-10-07_sivilombudet_korrigering_paragrafreferanse.md`) og til DSB-utkastet (se `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` — rettet før utsending).
 
 **Til:**\
 Trøndelag brann- og redningstjeneste IKS\

@@ -8,7 +8,7 @@ kilde: "bakgrunn/brann/nye/ (originaler beholdt der, uendret)"
 
 Dokumenter mottatt fra Direktoratet for samfunnssikkerhet og beredskap (DSB) etter innsynskrav via eInnsyn bestilt 6. oktober 2026. Filene her er **kopier** av filene i `bakgrunn/brann/nye/`, omdøpt etter prosjektets navnekonvensjon. Originalene i `nye/` er ikke endret.
 
-Hver PDF har tre tekstversjoner: `_pdftotext.txt` (maskinell uttrekk), `_reader.txt` (transkribert fra sidebilder) og `_merged.txt` (sammenslått, mest komplett — bruk denne).
+Hvert dokument foreligger som én tekstfil, `_merged.txt` (sammenslått fra sidebilder og maskinell uttrekk — mest komplett). PDF-ene og mellomfilene `_pdftotext.txt`/`_reader.txt` ble produsert under konvertering og slettet etterpå for å spare plass. Originalene finnes fortsatt i `bakgrunn/brann/nye/`. Filnavnstabellen nedenfor viser hvilke originale PDF-navn `_merged.txt`-filene stammer fra (bytt `.pdf` i siste kolonne til `_merged.txt`).
 
 ## Navnekonvensjon
 
@@ -43,7 +43,7 @@ Som i `bakgrunn/brann/OVERSIKT.md`: dato-prefiks `YYYY-MM-DD_` (dokumentets dato
 
 ## Filnavn – original til ny
 
-Én rad per PDF. Tekstfilene følger samme navn med `_pdftotext.txt`, `_reader.txt` og `_merged.txt` i stedet for `.pdf`.
+Én rad per PDF. Faktisk fil i strukturen har samme basisnavn, men med `_merged.txt` i stedet for `.pdf` (PDF-ene og mellomfilene er slettet — se intro).
 
 | Mappe (ny) | Originalt filnavn | Nytt filnavn |
 |---|---|---|
@@ -91,9 +91,47 @@ Som i `bakgrunn/brann/OVERSIKT.md`: dato-prefiks `YYYY-MM-DD_` (dokumentets dato
 | `2019-9486_munkegata_11/dok02_2020-01-13_avgjørelse_dsb` | `Avgjørelse av søknad om frafall av tvangsmulkt - Munkegata 11 i Trondheim.PDF` | `2020-01-13_avgjørelse_av_søknad_om_frafall_av_tvangsmulkt_munkegata_11_i_trondheim.pdf` |
 | `2024-8295_fossegrenda_1/dok21_2025-10-09_avgjørelse_dsb` | `Avgjørelse av søknad om frafall av tvangsmulkt - Fossegrenda 1 i Trondheim.PDF` | `2025-10-09_avgjørelse_av_søknad_om_frafall_av_tvangsmulkt_fossegrenda_1_i_trondheim.pdf` |
 
+## Andre bestilling (2026-10-09)
+
+Oppfølgingsbestilling via eInnsyn for dokumenter som manglet i første batch. Rådata ble lagret i `bakgrunn/brann/einnsyn/` (senere midlertidig omdøpt til `einnsyn2/`). Pipeline denne gangen produserte `_samlet.txt` (enkel konkatenering av `_reader.txt` + `_pdftotext.txt`) i stedet for `_merged.txt` — innholdet er fullverdig, men formatet er mindre polert. Filer med æ/ø/å er unngått i de nye filnavnene; eksisterende navn er ikke rørt.
+
+### Oppdal/Rockoss – ny sak
+
+| Doknr | Dato | Ny mappe | Innhold |
+|---|---|---|---|
+| 3 | 2013-09-19 | `2013-8073_oppdal_skiheiser_rockoss_stolen/dok03_2013-09-19_soknad_om_frafall_av_tvangsmulkt_dsb/` | DSB-brev til TBRT som ber om vurdering, med vedlegg (Oppdal Bookings e-post 07.08.2013) i `vedlegg/` |
+| 4 | 2013-10-23 | `2013-8073_oppdal_skiheiser_rockoss_stolen/dok04_2013-10-23_vurdering_av_soknad_tbrt/` | TBRTs vurdering (saksnr 12/1390-12), med vedlegg (saksdokumenter TBRT, 39 sider, tilsynsrapport 21.08.2012 → vedtak om tvangsmulkt 04.03.2013) i `vedlegg/` |
+| 5 | 2014-01-13 | `2013-8073_oppdal_skiheiser_rockoss_stolen/dok05_2014-01-13_soknad_om_frafall_av_tvangsmulkt_dsb/` | DSB avgjørelse — tvangsmulkt frafalles ikke |
+
+### Dronningens gate 20-24 – doknr 5 (eksisterende sak 2016/566)
+
+Hoveddokumentet (TBRTs brev 04.03.2016, saksnr 13/200-46) lå allerede i `dok08_.../vedlegg_1-9/2016-03-04_brev_fra_tbrt_til_dsb_av_04.03.2016_saksnr_13_200-46.pdf`. Ny mappe `dok05_2016-03-04_anmodning_om_frafall_av_ilagt_tvangsmulkt_tbrt/` er opprettet med:
+
+- `README.md` som peker til hoveddokumentets kanoniske plassering i dok08
+- `vedlegg_1-18/` med samlet-filer for 12 vedlegg som ikke fantes fra før. Seks vedlegg (nr. 5, 6, 8, 14, 17, 18) er duplikater av dokumenter i dok01/bilag_1-45 eller dok08/vedlegg_1-9 og ligger kun der (ikke duplisert) — se README.
+
+Filnavn i `dok05/vedlegg_1-18/`:
+
+| Vedl.nr | Filnavn |
+|---|---|
+| 1 | `2005-03-11_utbedringsveiledning_dronningens_gate_20_24_vaterlandsveita_3_studio4_cowi_samlet.txt` |
+| 2 | `2013-02-07_tilsynsrapport_med_varsel_om_palegg_tbrt_samlet.txt` |
+| 3 | `2013-10-30_palegg_til_property-invest_1_tbrt_saksnr_13_200-4_samlet.txt` |
+| 4 | `2013-10-30_palegg_til_property_investors_tbrt_saksnr_13_200-5_samlet.txt` |
+| 7 | `2014-03-05_innkreving_tvangsmulkt_property_investors_tbrt_saksnr_13_200-11_samlet.txt` |
+| 9 | `2014-06-19_innkreving_tvangsmulkt_property-invest_1_tbrt_saksnr_13_200-13_samlet.txt` |
+| 10 | `2014-06-19_innkreving_tvangsmulkt_property_investors_tbrt_saksnr_13_200-14_samlet.txt` |
+| 11 | `2014-10-08_innkreving_tvangsmulkt_property_investors_tbrt_saksnr_13_200-16_samlet.txt` |
+| 12 | `2014-10-08_innkreving_tvangsmulkt_property-invest_1_tbrt_saksnr_13_200-17_samlet.txt` |
+| 13 | `2015-01-26_innkreving_tvangsmulkt_property_investors_tbrt_saksnr_13_200-20_samlet.txt` |
+| 15 | `2015-03-26_innkreving_tvangsmulkt_property-invest_1_tbrt_saksnr_13_200-22_samlet.txt` |
+| 16 | `2015-03-26_innkreving_tvangsmulkt_property_investors_tbrt_saksnr_13_200-23_samlet.txt` |
+
 ## Ikke mottatt (etterspurt i eInnsyn)
 
-- 2013/8073 Oppdal Skiheiser AS: doknr. 3, 4 og 5
-- 2016/566 doknr. 5 (TBRTs brev 04.03.2016) – foreligger kun som kopi i vedlegg 1-9 til doknr. 8
 - 2016/566 doknr. 1, bilag 8 (side 2 av TBRTs brev 26.01.2015)
 - 2020/9148 Rutiner, doknr. 418: «Behandling av saker om hel eller delvis frafallelse av tvangsmulkt»
+
+**Nå mottatt (var tidligere oppført som ikke mottatt):**
+- 2013/8073 Oppdal Skiheiser AS: doknr. 3, 4 og 5 — se «Andre bestilling» ovenfor
+- 2016/566 doknr. 5 (TBRTs brev 04.03.2016) — se «Andre bestilling» ovenfor (hoveddok var allerede i dok08/vedlegg_1-9; nye vedlegg til dette brevet er nå tilgjengelige)

@@ -17,7 +17,7 @@
 > **Affiserte leveranser (må korrigeres eller flagges):**
 > - `leveranser/brann/2026-06-17_tbrt_klage_innkrevinger_2026.md` (sendt)
 > - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md` (sendt 06.10.2026)
-> - `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast, ikke sendt)
+> - `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md` (utkast, ikke sendt)
 
 ---
 

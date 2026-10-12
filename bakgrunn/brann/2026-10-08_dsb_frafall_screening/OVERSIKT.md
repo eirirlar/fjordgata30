@@ -20,14 +20,17 @@ Dette er en screening. Rapportene gir ingen anbefalinger, ingen strategi og inge
 
 **Referanse for vår sak (kun lest til sammenligning):**
 
-- `leveranser/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`
+- `leveranser/brann/dsb/2026-10-06_dsb_soknad_frafall_tvangsmulkt.md`
 - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`
 - `bakgrunn/lovverk/sivilombudet_2010_tvangsmulkt_tbrt.md`
 
-**Etterspurt i eInnsyn, men ikke mottatt (ikke screenet):**
+**Mottatt i andre bestilling (2026-10-09), ennå ikke screenet separat:**
 
-- 2013/8073 Oppdal Skiheiser AS: doknr. 3, 4 og 5
-- 2016/566 doknr. 5 (TBRTs brev 04.03.2016) – foreligger kun som kopi i vedlegg 1-9 til doknr. 8
+- 2013/8073 Oppdal Skiheiser AS: doknr. 3, 4 og 5 — NY sak, ikke dekket i rapportene nedenfor
+- 2016/566 doknr. 5 (TBRTs brev 04.03.2016) med 18 vedlegg — hoveddokumentet var allerede screenet i 2016/566-rapportene via kopi i dok08/vedlegg_1-9. De 12 vedlegg som ikke fantes fra før (korrespondanse 2005–2015, inkl. Studio 4/Cowi utbedringsveiledning 11.03.2005) ligger i `dok05_2016-03-04_anmodning_om_frafall_av_ilagt_tvangsmulkt_tbrt/vedlegg_1-18/` som `_samlet.txt`. Materialet er i stor grad overlappende med det som allerede er screenet via dok01/bilag_1-45 og dok08/vedlegg_1-9.
+
+**Fortsatt ikke mottatt (ikke screenet):**
+
 - 2016/566 doknr. 1, bilag 8 (side 2 av TBRTs brev 26.01.2015)
 - 2020/9148 Rutiner, doknr. 418: «Behandling av saker om hel eller delvis frafallelse av tvangsmulkt»
 
@@ -35,6 +38,7 @@ Dette er en screening. Rapportene gir ingen anbefalinger, ingen strategi og inge
 
 | Kort-ID | DSB saksnr. | Eiendom | Utfall |
 |---|---|---|---|
+| `2013-8073_oppdal_rockoss` | 2013/8073 | Rockoss/Stølen i Oppdal (serveringsbygg ved skianlegg) | Ikke frafalt (kr 22 000) |
 | `2016-566_dronningens_gate` | 2016/566 | Dronningens gate 20/24 og Vaterlandsveita 3 | Ikke frafalt (kr 491 000). Klage til Justis- og beredskapsdepartementet avvist som for sent fremsatt |
 | `2017-1525_kjøpmannsgata_23` | 2017/1525 | Kjøpmannsgata 23 | Ikke frafalt (kr 103 000) |
 | `2019-9486_munkegata_11` | 2019/9486 | Munkegata 11 | Ikke frafalt (kr 32 000) |
@@ -74,10 +78,11 @@ Blokksitatene i rapportene er kontrollert maskinelt mot `_merged.txt`-filene (te
 
 ## Rapportene
 
-Filnavn: `2026-10-08_<kort-id>_<rolle>.md`.
+Filnavn: `2026-10-08_<kort-id>_<rolle>.md`. Rapporter merket med ⁺ ble lagt til 2026-10-09 etter at Oppdal-sakens dokumenter kom inn i andre bestilling. Disse bruker `_samlet.txt`-kildemateriale (reader + pdftotext konkatenert) i stedet for `_merged.txt`, ellers samme oppsett og rolle-definisjoner.
 
 | Sak | dsb-saksbehandler | partsrepresentant | djevelens-advokat | forvaltningsrett | revisor |
 |---|---|---|---|---|---|
+| Rockoss/Stølen i Oppdal (2013/8073) ⁺ | [rapport](2026-10-08_2013-8073_oppdal_rockoss_dsb-saksbehandler.md) | [rapport](2026-10-08_2013-8073_oppdal_rockoss_partsrepresentant.md) | [rapport](2026-10-08_2013-8073_oppdal_rockoss_djevelens-advokat.md) | [rapport](2026-10-08_2013-8073_oppdal_rockoss_forvaltningsrett.md) | [rapport](2026-10-08_2013-8073_oppdal_rockoss_revisor.md) |
 | Dronningens gate 20/24 og Vaterlandsveita 3 (2016/566) | [rapport](2026-10-08_2016-566_dronningens_gate_dsb-saksbehandler.md) | [rapport](2026-10-08_2016-566_dronningens_gate_partsrepresentant.md) | [rapport](2026-10-08_2016-566_dronningens_gate_djevelens-advokat.md) | [rapport](2026-10-08_2016-566_dronningens_gate_forvaltningsrett.md) | [rapport](2026-10-08_2016-566_dronningens_gate_revisor.md) |
 | Kjøpmannsgata 23 (2017/1525) | [rapport](2026-10-08_2017-1525_kjøpmannsgata_23_dsb-saksbehandler.md) | [rapport](2026-10-08_2017-1525_kjøpmannsgata_23_partsrepresentant.md) | [rapport](2026-10-08_2017-1525_kjøpmannsgata_23_djevelens-advokat.md) | [rapport](2026-10-08_2017-1525_kjøpmannsgata_23_forvaltningsrett.md) | [rapport](2026-10-08_2017-1525_kjøpmannsgata_23_revisor.md) |
 | Munkegata 11 (2019/9486) | [rapport](2026-10-08_2019-9486_munkegata_11_dsb-saksbehandler.md) | [rapport](2026-10-08_2019-9486_munkegata_11_partsrepresentant.md) | [rapport](2026-10-08_2019-9486_munkegata_11_djevelens-advokat.md) | [rapport](2026-10-08_2019-9486_munkegata_11_forvaltningsrett.md) | [rapport](2026-10-08_2019-9486_munkegata_11_revisor.md) |
