@@ -7,6 +7,69 @@
 
 Oppgaver identifiseres med ID på formen **T01**, **T02** osv. Bruk disse ID-ene til å referere til oppgaver i kommunikasjon, commits og dokumentasjon. Løsninger dokumenteres under oppgaven i dette dokumentet.
 
+## Innhold
+
+Sortert på T-nummer. Søk med `Ctrl+F` på T-ID eller status-markør.
+
+- `T02  [ ]` Utbetalingsanmodning – Kulturminnefondet
+- `T04  [ ]` Utbetalingsanmodning – Byantikvaren
+- `T12  [ ]` Igangsettingssøknad (IG)
+- `T15  [ ]` Dokumentere arbeidsøkter med studenter
+- `T22  [ ]` Søk om utsettelse – Enova Ombrukskartlegging
+- `T32  [ ]` Fisjon av KodeWorks Eiendom AS
+- `T66  [ ]` Komplett arbeidsøkt-logg – manglende datoer og Ole Mortens rapport
+- `T95  [ ]` Utbetalingsanmodning – Stiftelsen UNI
+- `T97  [ ]` Framdriftsrapport / utbetalingsanmodning – Enova Energikartlegging
+- `T98  [ ]` Framdriftsrapport / utbetalingsanmodning – Enova Ombrukskartlegging
+- `T109 [ ]` ESG-supplement: DNSH, klimatilpasning, energiattest-verifikasjon
+- `T110 [ ]` LOI-/pre-booking-kampanje for forhåndskunder
+- `T138 [x]` Konverter SAAHA-timer og -fakturaer i `timer/nye/` til CSV
+- `T139 [ ]` BFU (bindende forhåndsuttalelse) til Skatteetaten – MVA-klassifisering av Alternativ D
+- `T140 [x]` Fyll ut arbeidsavtale for Ain Hansumae – midlertidig ansettelse KodeWorks Eiendom AS
+- `T141 [x]` Utbetalingsanmodning — vedleggsrapport til KMF og BYA
+- `T142 [x]` Rydd og strukturer UNI-søknad (soeknad2.md)
+- `T143 [~]` Kjeller — arbeidsavgrensning mot Riksantikvaren, arbeidsinstruks og e-postutkast
+- `T144 [~]` SkatteFUNN-søknad — «Konstruktivt ombruk av historisk rundtømmer»
+- `T145 [x]` Riksantikvaren — start dialog om graving i grunn
+- `T146 [x]` Send henvendelsen til Riksantikvaren
+- `T147 [~]` TBRT-sporet videre — DSB, Sivilombudet og statusoppdatering
+- `T148 [x]` Arbeidsavtale for Marko Kiivet — midlertidig ansettelse KodeWorks Eiendom AS
+- `T149 [ ]` Enova-søknad — Forbedring av energitilstand i yrkesbygg (Fjordgata 30)
+- `T150 [ ]` Enova-søknad — Varmesentraler (fjernvarme-tilknytning Fjordgata 30)
+- `T151 [ ]` Kjeller — RIB-avklaring av demontering av tømmerstokker + bekreftelse på arbeidsomfang mot steintørrmuren
+- `T152 [ ]` Brannkonsept under oppussing — skaffe dokument, avklare brannslanger, sensorer og trådløst system
+- `T153 [ ]` Dispensasjonssøknad etter kulturminneloven § 8 — graving i kjeller
+- `T154 [ ]` Befaring med Riksantikvaren i kjelleren
+- `T155 [x]` Brannsikring i gjennomføringsfasen — etterlevelse, dokumentasjon og byggeplassinstruks
+- `T156 [ ]` Trådløse midlertidige røykdetektorer — produktresearch og forslag
+- `T157 [~]` Audit `bakgrunn/lovverk/` — verifiser verbatim vs. parafrase mot Lovdata
+- `T158 [x]` Re-opprett alle verbatim paragraf-filer med curl (uten WebFetch)
+- `T159 [x]` Gjennomgå lovsitater i leveranse-mapper mot verifiserte paragraf-filer
+- `T160 [x]` Verifiser lovfiler i `forretningsplan/lover/` mot Lovdata
+- `T161 [ ]` Konkursvarsel fra Intrum/TBRT — håndtering før 14-dagersfrist
+- `T162 [ ]` Anmodning om betalingsutsettelse til TBRT (direkte, ikke Intrum)
+- `T163 [ ]` Statusbrev til TBRT (orientering, ikke anmodning)
+- `T164 [ ]` Vurdere anmodning om betalingsutsettelse direkte til Intrum
+- `T165 [x]` Screening av DSBs frafallsaker — relevans for vår tvangsmulkt-sak
+- `T166 [x]` Gapanalyse — DSB-søknaden om frafall mot DSBs praksis
+- `T167 [x]` Omskriving av DSB-søknaden om frafall etter gapanalysen
+- `T168 [x]` Andre eInnsyn-bestilling — Oppdal-saken + dok05-vedlegg til 2016/566
+- `T169 [x]` Revisjon av gapanalyse etter andre eInnsyn-bestilling + mindre tilleggsrevisjon av DSB-søknaden
+- `T170 [x]` Sammenstilling av DSB-søknadspakka (vedleggsmappe + PDF)
+- `T171 [x]` Kjøre iterativ dypdykksprompt for strategi mot tvangsmulkt
+- `T172 [x]` Fisjon av KodeWorks Eiendom AS — iterativ analyse av juridisk prosedyre, praktisk plan og timing
+- `T173 [x]` Strukturvurdering — tre alternativer for konsernoppsett etter fisjon
+- `T174 [ ]` Avklaring av eksakt eierfordeling Brandsegg/Lagmannssveen i Fjordgata 30 AS
+- `T175 [ ]` Fremfinning av skriftlig dokumentasjon fra 2024 om minoritetsavtalen
+- `T176 [ ]` Stiftelse av Fjordgata 30 AS (steg 0)
+- `T177 [ ]` Utarbeidelse av fisjonsplan og åpningsbalanser
+- `T178 [ ]` Fisjonsvedtak og Brreg-melding (trinn 1)
+- `T179 [ ]` DNB-dialog om 50/50-fordeling av lån og pant
+- `T180 [ ]` Stabilisering av Intrum-saken før fisjonsvedtak
+- `T181 [ ]` Trinn 2 — aksjeinnskudd fra KodeWorks AS til KWE
+- `T182 [ ]` Justeringsavtale mval. § 9-3 mellom KWE og GG10
+- `T183 [ ]` Faktura-for-faktura-gjennomgang av byggefase-kostnader Fjordgata 30
+
 ## Nye oppgaver
 
 --

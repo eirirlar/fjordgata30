@@ -4,6 +4,26 @@ Kronologisk oversikt over Fjordgata 30 og prosjektet for ombygging til minilager
 Hendelser med manglende dato er eksplisitt merket.
 Kildehenvisninger angir primærdokument i arkivet; referanseliste følger sist i dokumentet.
 
+## Innhold
+
+| Periode | Hovedtema |
+|---|---|
+| Bygningens tidlige historie | 1841–2013: bybrann, gjenreising, utvidelser, Trondheim Båtforening |
+| Kjøp og tidlig prosjektutvikling | 2015–2023: KodeWorks overtakelse, kontorbygg-visjon, SAHAA/HRP engasjert |
+| 2018 – Første TBRT-tilsyn og brannteknisk utredning | TekØk Rev. C/D, første tiltaksplan |
+| 2019–2021 – Løpende dialog med TBRT | Purringer, tiltaksplan-oppdateringer |
+| 2022 | TBRT etterkontroll, vedtak om tvangsmulkt, DNB verdivurdering |
+| 2023 | Rammesøknad kontorbygg (BYGG-23/82364), rammetillatelse |
+| 2024 | TBRT nytt tilsyn, pålegg om brannsikring, KMF + BYA + UNI tilskudd innvilget |
+| 2025 | Vedtak om tvangsmulkt, klage, dugnadsarbeid, kontorprosjekt forkastes, pivot til minilager |
+| 2026 Januar–februar | Forprosjekt minilager, rammesøknad-underlag, BYA-tilbakemelding |
+| 2026 Mars | Statusmøter 01–03, første containerrunder, konstruksjonsfunn |
+| 2026 April | Statusmøter 04–05, Kystverket-interesse, 2. tvangsmulkt-innkreving |
+| 2026 Mai–juni | Rammesøknad levert 12.05, TBRT-møte |
+| 2026 Juli–september | Nabovarsel, Riksantikvaren-dialog, fisjonsplanlegging, DSB-sak |
+| Udokumenterte hendelser | Mangler kildegrunnlag |
+| Referanser | Primærdokumenter |
+
 ---
 
 ## Bygningens tidlige historie

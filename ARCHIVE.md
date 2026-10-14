@@ -4,6 +4,131 @@ Fullførte tasks flyttes hit fra `TASKS.md` når de er avsluttet og ikke lenger 
 
 Legende: alle oppgaver her er `[x]` Ferdig.
 
+## Innhold
+
+Sortert på T-nummer. Søk med `Ctrl+F` på T-ID.
+
+- `T01`    Arbeidsrapport – Stiftelsen UNI
+- `T01.01` Kulturminnefondet – framdriftsrapport
+- `T05`    Framdriftsrapport – Byantikvaren
+- `T07`    Framdriftsrapport / redegjørelse – Trondheim Brannvesen / TBRT
+- `T09`    Oversikt støttemidler – Bank
+- `T10`    Rapport til HRP om støtteordninger som EK
+- `T11`    Rammesøknad minilager
+- `T13`    Forberedelsesdokument til møte med TBRT
+- `T14`    Referat fra møte med TBRT
+- `T16`    Legge inn bilder i rapporter
+- `T17`    Splitt bakgrunn/merged_files til enkeltfiler
+- `T18`    Lag kronologisk prosjekthistorikk
+- `T19`    Søk om utsettelse av prosjektperiode – Kulturminnefondet
+- `T20`    Søk om endring av støtteintensitet – Kulturminnefondet
+- `T21`    Søk om utsettelse av prosjektperiode – Byantikvaren
+- `T24`    Støtteoversikt til bank – komplett og underbygget versjon
+- `T25`    Arkiver HRP-rapport energikartlegging
+- `T26`    Arkiver Enova-søknader
+- `T27`    Konverter alle bakgrunn-filer fra .txt til .md
+- `T28`    Arkiver vedtak om tvangsmulkt fra TBRT
+- `T29`    Arkiver klage på vedtak om tvangsmulkt
+- `T30`    Arkiver oversikt over påløpte tvangsmulkter
+- `T31`    Klage på alle tre innkrevinger av tvangsmulkt
+- `T33`    Utred og dokumenter MVA-refusjon for minilager
+- `T34`    Dokumenter relevant lovverk for T31
+- `T35`    Beskriv hvorfor relevant lovverk gjelder for prosjektet
+- `T36`    Bildeprosessering – sorter og normaliser bilder fra Google Drive
+- `T37`    Bildescoring – skarphet (Laplacian)
+- `T38`    Bildescoring – eksponering (histogram)
+- `T39`    Bildescoring – teknisk kvalitet (BRISQUE)
+- `T40`    Bildescoring – estetisk kvalitet (MUSIQ)
+- `T41`    Bildescoring – finn vekter via manuell kalibrering
+- `T42`    Bildescoring – råscore alle bilder og skriv scores_auto.csv
+- `T43`    Bildescoring – normaliserte 1–10-funksjoner (én per metrikk)
+- `T44`    Dokumenter relevant lovverk – MVA ved utleie av lagerplass
+- `T45`    Bildescoring – tag alle bilder med RAM
+- `T46`    Bildescoring – score tags per bilde med CLIP
+- `T47`    Bildescoring – regresjon på CLIP-tags + manuelle ratings
+- `T48`    Bildescoring – bygg scores_total.csv
+- `T49`    Rydd opp i navngivning av scripts og vektfiler
+- `T50`    Bildescoring – kombinert modell på auto-metrikker + CLIP-tags
+- `T51`    Finpuss layout – OCR-korrupsjon, sammenkjørte ord (gruppe A)
+- `T52`    Finpuss layout – ødelagte tabeller (gruppe B)
+- `T53`    Finpuss layout – tekniske rapporter med innholdsfortegnelse (gruppe C)
+- `T54`    Finpuss layout – sterkt ødelagt OCR-dokument (gruppe D)
+- `T55`    Bildescoring – pipeline-script (score_all.py)
+- `T56`    Bildescoring – skill kode og datafiler (scripts/scoring/ → data/)
+- `T57`    Bildescoring – velg beste bilder for en tidsperiode (select_images.py)
+- `T58`    Konfigurasjon – flytt hardkodede stier til config.json
+- `T59`    Gjennomgå og innarbeid bakgrunnsfiler fra rot
+- `T60`    Gjennomgå og ferdigstill brannvesen-rapport (leveranser/2026-04-20_fg30_arbeidsrapport.md)
+- `T61`    Populer project_cards.json med primærkildedata for alle tilskudd
+- `T62`    Forretningsplan for minilager
+- `T63`    Dato-prefix på filer i `bakgrunn/` + CLAUDE.md-instruks
+- `T64`    CLAUDE.md-instruks: prosessering av "Nye oppgaver"
+- `T65`    Strukturere arbeidsøkter fra eksisterende data
+- `T67`    Renskriv og berik arbeidsbeskrivelse
+- `T70`    SkatteFunn – research, mal og søknad
+- `T71`    Innovasjon Norge – søknad basert på minilager-as-a-service
+- `T72`    Forretningsplan – faktiske bodstørrelser og 150 kvm lavt areal
+- `T73`    Forretningsplan – kildehenvisninger for alle priser
+- `T74`    Forretningsplan – markedsfordeler: Nidelven, leiligheter, sentralitet, lastesone
+- `T75`    Forretningsplan – verifiser alle paragrafhenvisninger mot nedlastede lovfiler
+- `T76`    MVA-konsekvenser av selskapsstruktur: bygge-AS vs. drifts-AS
+- `T77`    CLAUDE.md – Python-kommando på Windows
+- `T78`    Kartlegg maksimal støtteintensitet – UNI, KMF og Byantikvaren
+- `T79`    Konkurrentanalyse – valet storage (Vinden, Box2Box, Stash)
+- `T80`    HRP-brev – revidert versjon til økonomiavdelingen
+- `T81`    Dokumenter hva som ble gjort med bygget på 1980-tallet
+- `T82`    Rett opp ødelagte KMF-konverteringer og legg inn forhåndskonferanse
+- `T83`    Sammendrag av ../stotte-prosjektet til bruk i stotte/
+- `T84`    Verifiser at BYA-konverteringer er trofaste (tilsvarende T82 for KMF)
+- `T85`    Søk om endring av støtteintensitet – Byantikvaren
+- `T86`    Gjennomgå og strukturer timelister fra HRP
+- `T87`    Hent inn lovverk: tilskudd som egenkapital overfor bank
+- `T88`    Hent inn regelverk: grønt prosjekt og grønne lån
+- `T89`    Skriv ferdig støtteoversikt for bank
+- `T90`    Bankhenvendelse – felles e-post med vedleggsliste til tre banker
+- `T91`    Oppdater konkurrentpriser – full innhenting fra alle aktører
+- `T92`    Konkurranseanalyse med størrelsesvekting
+- `T93`    Oppdater forretningsplanen basert på korrigerte konkurrentpriser (T91/T92)
+- `T94`    Sorter ARCHIVE.md på task-ID
+- `T96`    Arbeidsrapport – Byantikvaren
+- `T99`    Finansieringsplan – med støtte som EK-komponent
+- `T100`   Revidering av forretningsplanen v1.1 – grønt lån/energi og T99-input
+- `T101`   Ekstraher bilder fra rammesøknadstegninger
+- `T102`   Rydding av bankvedlegg før utsending (T90)
+- `T103`   Revider areal- og inntektsberegninger basert på oppdatert arealoversikt
+- `T104`   Multi-agent rolle-review av bankpakken (gjenbrukbar – iterativ)
+- `T105`   Konsistens- og tekst-rydding i bankpakka (kvikke gevinster fra bank_review)
+- `T106`   KMF/BYA-overbevisning og TBRT-rydding (per brukerfeedback på bank_review)
+- `T107`   Driftsøkonomi: realistisk EBITDA, uforutsett-buffer og DSCR-modell
+- `T108`   Verdsettelse og markedsabsorpsjon (krever ekstern handling)
+- `T111`   Reduser driftskostnader til ~1,0 MNOK stabilisert
+- `T112`   Reverser cap rate til 6,0 / 6,5 / 7,0 %
+- `T113`   Øk belegg med 4 prosentpoeng på alle utleieobjekt
+- `T114`   Presentere KMF/BYA endringsmeldinger som godkjent
+- `T115`   Fjern Enova-kategoriforvirring (kartleggings- vs. investeringstilskudd)
+- `T116`   Statsstøtte-kumulering: skriv om / korriger forståelsen
+- `T117`   Fjern «pant i tilskuddsrettigheter» fra bankpakka
+- `T118`   Forenkle anmodningen i bankhenvendelsen til ett konkret spørsmål
+- `T119`   Omformuler bankhenvendelsen så fisjonsstatus ikke fremstår som hindring for prinsippspørsmålet
+- `T120`   Dokumenter etterspørsel fra eksisterende minilager-/kjellerleietakere (i stedet for LOI)
+- `T121`   Dokumenter KodeWorks-strukturen og prosjektkompetansen (avvis nøkkelpersonrisiko-kritikk)
+- `T122`   Korriger driftskostnadsstruktur og fotnote – tjenestekjøp fra KodeWorks + ekstern valet på resource-on-demand
+- `T123`   Tydeliggjør at bankpakka er materialgrunnlag for prinsippspørsmål, ikke et ferdig prospekt
+- `T124`   Inkluder kapitalisert rente i LTV-tall (led med reell eksponering, utdyp uten)
+- `T125`   Rydd tallinkonsistens på tvers av bankvedleggene
+- `T126`   Klimatilpasning Nidelv-flom – risiko-bullet i forretningsplan kap. 9
+- `T127`   Research – flomhistorikk Fjordgata 30 / Nidelva og havnivåstigning Trondheimsfjorden
+- `T128`   Samle ressurspersoner og organisasjoner i `data/team.json` + peker fra README
+- `T129`   Iter 4-respons (del 1): driftskostnader, KodeWorks-presentasjon, tap på fordringer
+- `T130`   Iter 4-respons (del 2): juridisk og presentasjons-presisjon
+- `T131`   Iter 5-respons: kvikke gevinster + Enova-kontekst i støttegrunnlaget
+- `T132`   Iter 6-respons: disarmer-tilføyelser i pakka + agent-promptforbedringer i T104
+- `T133`   Iter 7-respons: fem kvikke gevinster (begrepsstramming, fisjonsfrist, MVA-tall, presedens-modering, armlengdes)
+- `T134`   Iter 8-respons: rydde MVA-basis-inkonsistens i 03, § 9-2 ved fisjon, buffer-kilde til morselskap
+- `T135`   Iter 9-respons: fem kvikke ryddinger som kan gjøres uten brukerinput
+- `T136`   Iter 9-respons del 2: fire restpunkter med brukerinput
+- `T137`   Omdøp kildefiler til bankdokumenter så navnene matcher bank-outputen
+
 ---
 
 ### T01 `[x]` Arbeidsrapport – Stiftelsen UNI
@@ -1350,10 +1475,6 @@ SkatteFunn (Forskningsrådet) gir skattefradrag for dokumenterte FoU-kostnader. 
 **Mål:** Kartlegge i detalj hva Vinden, Box2Box og Stash Storage tilbyr, for å (1) forstå hva «Alternativ C» (aktiv lagringstjeneste) ser ut i praksis hos etablerte aktører, og (2) vurdere om anbefalingen om å starte med Alternativ D (hybrid) er riktig gitt at konkurrenter allerede tilbyr Alternativ C.
 
 **Løsning (23.06.2026):** Internett-research gjennomført. Detaljert analyse skrevet til `forretningsplan/fg30_konkurrentanalyse_valet.md`. Funn: Vinden opererer NØYAKTIG som Alternativ C i Norge i dag – bevis på at modellen er gjennomførbar og sannsynligvis MVA-godkjent. Box2Box (Spania) og Stash (USA) gjør det samme i sine markeder. Ingen norsk tradisjonell selvbetjent aktør tilbyr Alternativ C lokalt i Trondheim. Anbefalingen om D som startpunkt er begrunnet med operasjonell kapasitet og BFU-timing – ikke med at C er uprøvd.
-
----
-
-## Oppgaver T70–T76
 
 ---
 
