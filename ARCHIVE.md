@@ -963,7 +963,7 @@ Forventning: combined-modellen vil sannsynligvis vekte `debris`, `pipe` og `rubb
 
 Én fil var så sterkt OCR-skadet at innholdet var nesten uleselig – teksten fragmentert i løsrevne biter og sjekklister hadde mistet struktur helt.
 
-**Fil:** `bakgrunn/2013-06-06_ik_kontroll_trondheim_baatforening.md` – IK-kontroll, Trondheim Båtforening, 06.06.2013
+**Fil:** `bakgrunn/eiendom/2013-06-06_ik_kontroll_trondheim_baatforening.md` – IK-kontroll, Trondheim Båtforening, 06.06.2013
 
 **Løsning (valgt: Full rekonstruksjon):** Full rekonstruksjon fra 2200-linjers OCR-skadet fil. 16 sjekklister rekonstruert i tabellformat (Pkt / Kontrollpunkt / Dato / Tekniker / Resultat). Avvikslogg med 40 avvik rekonstruert. Tiltaksplan rekonstruert. Alle FEIL-resultater verifisert mot avviksnummer i avviksloggen.
 

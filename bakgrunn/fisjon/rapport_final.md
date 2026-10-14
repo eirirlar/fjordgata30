@@ -403,7 +403,7 @@ Retroaktiv del (tilbakegående oppgjør etter mval. § 8-6 i FG30 ved MVA-regist
 | Bruksendringen ikke dokumentert | Styrevedtak med henvisning til Skatteetatens svar 11.09.2026; overdragelsesavtale dokumenterer 100 % MVA-pliktig fremtidig bruk | Uke 43 |
 | 3-årsfristen i § 8-6 bortfaller for noen kostnader | Siste pkt. i § 8-6 (1) sikrer at kapitalvare-kostnader ikke rammes av 3-årsgrensen; krav fremsettes innen 3 år fra FG30-registrering | Q2 2027 og fremover |
 
-Detaljert gjennomgang av regelverk, mekanismer, scenarier og beregninger ligger i `bakgrunn/fisjon_2026-10-12/mva_justering_dypanalyse.md`.
+Detaljert gjennomgang av regelverk, mekanismer, scenarier og beregninger ligger i `bakgrunn/fisjon/mva_justering_dypanalyse.md`.
 
 ### 2.7 Teknisk mellomtilstand mellom trinn 1 og trinn 2
 

@@ -69,6 +69,7 @@ Sortert på T-nummer. Søk med `Ctrl+F` på T-ID eller status-markør.
 - `T181 [ ]` Trinn 2 — aksjeinnskudd fra KodeWorks AS til KWE
 - `T182 [ ]` Justeringsavtale mval. § 9-3 mellom KWE og GG10
 - `T183 [ ]` Faktura-for-faktura-gjennomgang av byggefase-kostnader Fjordgata 30
+- `T184 [x]` Repository-restrukturering – nivå 1 (rydding) + nivå 2 (sak-indekser)
 
 ## Nye oppgaver
 
@@ -1092,7 +1093,7 @@ Formuleringen «overraskende funn for FG30-siden» stammer fra BYAs egen forklar
 - `referat/2026-08-12_befaring_byantikvaren_kmf.md`
 - `leveranser/2026-09-01_bya_epost_kjeller_arbeidsavgrensning.md`
 - `leveranser/2026-09-01_arbeidsinstruks_kjeller.md`
-- `bakgrunn/2013-10-30_eiendomsinformasjon_matrikkelen.md` (gnr. 401 bnr. 149)
+- `bakgrunn/eiendom/2013-10-30_eiendomsinformasjon_matrikkelen.md` (gnr. 401 bnr. 149)
 - `bakgrunn/lovverk/kulturminneloven.md`
 
 ---
@@ -2121,7 +2122,7 @@ Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne 
 
 **Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/brann/OVERSIKT.md`.
 
-**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/brann/` finnes. `bakgrunn/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
+**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/brann/` finnes. `bakgrunn/tbrt/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
 
 **Kobling:** T147 (tvangsmulkt-saken mot TBRT), T152 (Kristians opprinnelige spørsmål om brannkonsept under oppussing — dekkes i sin helhet av denne oppgaven og kan lukkes når den er løst), T151 (kjellerarbeid — kjeller er ikke sprinklerdekket).
 
@@ -3395,7 +3396,7 @@ Fra 15 av 27 vedlegg ved dagens start til 26 av 26 ved dagens slutt. Hovedbrev P
 
 ### T172 `[x]` Fisjon av KodeWorks Eiendom AS — iterativ analyse av juridisk prosedyre, praktisk plan og timing
 
-**Løsningsnotat (14.10.2026):** T172-prosessen gjennomført i 10 faser med fem agenter + djevelens advokat + lovfil-verifisering. Resultatet er `bakgrunn/fisjon_2026-10-12/rapport_final.md` — konsolidert fisjonsplan med vedtatt struktur og tidsplan. Hovedbeslutninger forankret i rapporten:
+**Løsningsnotat (14.10.2026):** T172-prosessen gjennomført i 10 faser med fem agenter + djevelens advokat + lovfil-verifisering. Resultatet er `bakgrunn/fisjon/rapport_final.md` — konsolidert fisjonsplan med vedtatt struktur og tidsplan. Hovedbeslutninger forankret i rapporten:
 
 - Struktur: mellomholding med KWE som holdingselskap under KodeWorks AS, FG30 og GG10 som datterselskaper. Alt A (dagens direkte-trippel) og alt B forkastet; alt C (mellomholding) valgt.
 - Mekanisme: tre steg. Steg 0 — pre-fisjons-stiftelse av FG30 med tre aksjonærer (KodeWorks AS ca. 97 %, Brandsegg ca. 2 %, Lagmannssveen ca. 1 % — foreløpig estimat). Steg 1 — standard fisjon KWE → FG30 (eksisterende) + GG10 (nystiftet) etter aksjeloven kap. 14 med skattemessig kontinuitet etter sktl. kap. 11 og dokumentavgift-fritak etter stortingsvedtaket § 2 bokstav k. Steg 2 — aksjeinnskudd fra KodeWorks AS til KWE etter aksjeloven kap. 10.
@@ -3411,8 +3412,8 @@ Oppfølgingstasks for gjennomføring: T174–T183.
 
 **Berørte filer:**
 
-- `bakgrunn/fisjon_2026-10-12/rapport_final.md` (hovedleveranse)
-- `bakgrunn/fisjon_2026-10-12/mva_regnskapsanalyse.md`, `mva_justering_dypanalyse.md`, agent-filer, iterasjons-filer, review-filer, logg.md
+- `bakgrunn/fisjon/rapport_final.md` (hovedleveranse)
+- `bakgrunn/fisjon/mva_regnskapsanalyse.md`, `mva_justering_dypanalyse.md`, agent-filer, iterasjons-filer, review-filer, logg.md
 - `bakgrunn/lovverk/mval_9-3_*.md`, `mval_9-5_*.md`, `mval_9-7_*.md`, `asl_13-14_*.md`, `sktl_14-6_*.md`
 - `scripts/download_lovparagraf.py`, `scripts/remove_bold_bodytext.py`, `scripts/unwrap_markdown.py`
 - `leveranser/2026-10-13_epost_varder_fisjonsplan.md`
@@ -3570,9 +3571,9 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 
 ### T173 `[x]` Strukturvurdering — tre alternativer for konsernoppsett etter fisjon
 
-**Løsningsnotat (14.10.2026):** Analysen ble innlemmet i T172 fase 7-utvidelsen og dokumentert i `bakgrunn/fisjon_2026-10-12/struktur_alternativer_T173.md`. Konklusjon: Alt C (mellomholdingstruktur med KWE som holdingselskap, FG30 og GG10 som datterselskaper) er valgt. Begrunnelse i rapport_final.md: alt A ga «tom skalk» i fortsettende KWE (bokført EK –10,5 MNOK) som ville svekket dekningsgrunnlaget for konsernlånet; alt B gjorde KWE borte som rettssubjekt og brøt partsstatus i DSB/Sivilombud/tvangsmulkt-sakene. Alt C ivaretar partsstatus hos KWE, holder konsernlånet (10,6 MNOK) der det er, og gir dekningsgrunnlag via aksjer i FG30 og GG10. Mekanisme: standard fisjon (sktl. kap. 11) etterfulgt av aksjeinnskudd fra KodeWorks AS til KWE etter aksjeloven kap. 10 med fritaksmetoden i sktl. § 2-38. Dokumentavgift-fritak gjennom fisjonstrinnet (stortingsvedtaket § 2 bokstav k). Konserninternoverdragelse etter sktl. § 11-21 forkastet fordi den hjemmelen ikke er listet i dokumentavgift-fritaket.
+**Løsningsnotat (14.10.2026):** Analysen ble innlemmet i T172 fase 7-utvidelsen og dokumentert i `bakgrunn/fisjon/struktur_alternativer_T173.md`. Konklusjon: Alt C (mellomholdingstruktur med KWE som holdingselskap, FG30 og GG10 som datterselskaper) er valgt. Begrunnelse i rapport_final.md: alt A ga «tom skalk» i fortsettende KWE (bokført EK –10,5 MNOK) som ville svekket dekningsgrunnlaget for konsernlånet; alt B gjorde KWE borte som rettssubjekt og brøt partsstatus i DSB/Sivilombud/tvangsmulkt-sakene. Alt C ivaretar partsstatus hos KWE, holder konsernlånet (10,6 MNOK) der det er, og gir dekningsgrunnlag via aksjer i FG30 og GG10. Mekanisme: standard fisjon (sktl. kap. 11) etterfulgt av aksjeinnskudd fra KodeWorks AS til KWE etter aksjeloven kap. 10 med fritaksmetoden i sktl. § 2-38. Dokumentavgift-fritak gjennom fisjonstrinnet (stortingsvedtaket § 2 bokstav k). Konserninternoverdragelse etter sktl. § 11-21 forkastet fordi den hjemmelen ikke er listet i dokumentavgift-fritaket.
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/struktur_alternativer_T173.md`, `bakgrunn/fisjon_2026-10-12/rapport_final.md`.
+**Berørte filer:** `bakgrunn/fisjon/struktur_alternativer_T173.md`, `bakgrunn/fisjon/rapport_final.md`.
 
 **Opprinnelig taskbeskrivelse (bevart for historikk):**
 
@@ -3606,7 +3607,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 **Berørte filer:**
 
 - Egen analyse-fil: `bakgrunn/fisjon_<ISO-dato>/struktur_alternativer_T173.md`
-- Berører: alle fase 4-leveranser i `bakgrunn/fisjon_2026-10-12/`
+- Berører: alle fase 4-leveranser i `bakgrunn/fisjon/`
 - Oppdateres etter fullført task: `TASKS.md`, `historikk.md`
 
 **Kobling:** T172 (fisjonsanalyse), MVA-driftsmodellen, konsernlåns-restrukturering, tingsinnskudd fra nye aksjonærer.
@@ -3627,7 +3628,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 - Finn og dokumenter skriftlig underlag fra 2024 om den opprinnelige avtalen (viktig som motargument mot sktl. § 13-2 — se T175).
 - Oppdater fisjonsrapporten og aksjonærregister-dokumentasjonen med eksakte tall når besluttet.
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/rapport_final.md`, kommende stiftelsesdokument for FG30.
+**Berørte filer:** `bakgrunn/fisjon/rapport_final.md`, kommende stiftelsesdokument for FG30.
 
 **Kobling:** T172, T175, T176.
 
@@ -3670,7 +3671,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 5. Innbetaling av aksjekapital.
 6. Melding om stiftelse til Brreg.
 
-**Berørte filer:** Ny mappe `bakgrunn/fisjon_2026-10-12/steg0_stiftelse/` med stiftelsesdokument, vedtekter, aksjonæravtale.
+**Berørte filer:** Ny mappe `bakgrunn/fisjon/steg0_stiftelse/` med stiftelsesdokument, vedtekter, aksjonæravtale.
 
 **Kobling:** T172, T174, T175, T177.
 
@@ -3702,7 +3703,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 - Orkla Regnskap leverer saldobalanse 30.09.2026 og dekomponerte åpningsbalanser.
 - Varder attesterer fisjonsplan og åpningsbalanser.
 
-**Berørte filer:** Ny mappe `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/`.
+**Berørte filer:** Ny mappe `bakgrunn/fisjon/trinn1_fisjon/`.
 
 **Kobling:** T172, T176, T178, T179, T180.
 
@@ -3722,7 +3723,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 - Melding om fisjonsbeslutning til Brreg.
 - Varselbrev til TBRT, DSB, Sivilombudet, Intrum, DNB, KMF, BYA, UNI, Enova.
 
-**Berørte filer:** Protokoller og vedtak i `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/`, varselbrev i `leveranser/`.
+**Berørte filer:** Protokoller og vedtak i `bakgrunn/fisjon/trinn1_fisjon/`, varselbrev i `leveranser/`.
 
 **Kobling:** T177, T179, T180, T182, T183.
 
@@ -3743,7 +3744,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 - Vilkårskopi gjennomgås — DNB kan bruke anledningen til å reforhandle rentemargin og covenants.
 - Signering før tinglysing av hjemmelsoverføring uke 50.
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/dnb/` (opprettes).
+**Berørte filer:** `bakgrunn/fisjon/dnb/` (opprettes).
 
 **Kobling:** T172, T177, T178.
 
@@ -3791,7 +3792,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 5. Nye vedtekter i KWE.
 6. Melding om kapitalforhøyelse til Brreg.
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/trinn2_aksjeinnskudd/` (opprettes).
+**Berørte filer:** `bakgrunn/fisjon/trinn2_aksjeinnskudd/` (opprettes).
 
 **Kobling:** T172, T178.
 
@@ -3815,7 +3816,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 
 - Møbler/inventar på konto 1251 — kapitalvare-status må avklares av Orkla (én anskaffelse > 50 TNOK inngående MVA, eller flere småkjøp).
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/justeringsavtale_mval_9-3.md` (opprettes).
+**Berørte filer:** `bakgrunn/fisjon/trinn1_fisjon/justeringsavtale_mval_9-3.md` (opprettes).
 
 **Kobling:** T172, T178.
 
@@ -3831,9 +3832,91 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 
 **Resultat:** Sporbart grunnlag for tilbakegående oppgjør. Sporbar aktivering i KWEs balanse er ca. 2,7 MNOK ekskl. MVA; gjennomgangen må verifisere og eventuelt oppjustere ved funn av kostnader bokført utenfor konto 1160/1172.
 
-**Berørte filer:** `bakgrunn/fisjon_2026-10-12/faktura_gjennomgang_fg30.md` (opprettes av Orkla).
+**Berørte filer:** `bakgrunn/fisjon/faktura_gjennomgang_fg30.md` (opprettes av Orkla).
 
 **Kobling:** T172, framtidig T for FG30 MVA-registrering Q2 2027.
 
 **Deadline:** Ferdig før FG30 MVA-registreres Q2 2027. Ikke blokkerende for fisjonsvedtaket.
+
+---
+
+### T184 `[x]` Repository-restrukturering – nivå 1 (rydding) + nivå 2 (sak-indekser)
+
+**Formål:** Rydde `bakgrunn/`-rotet som er vokst til 100+ flate filer, og innføre sak-indekser for de to krysserssakene som er mest spredt i repoet (tvangsmulkt og kjeller-/Riksantikvar).
+
+**Diagnose:**
+
+1. `bakgrunn/` har 100+ flate filer på toppnivå med dato-prefix som eneste strukturering. Flere domener er allerede subfoldere (`brann/`, `enova/`, `mva/`, `lovverk/`, `stotte/`, `okonomi/`, `fisjon_2026-10-12/`), men mange domener har aldri blitt plukket ut.
+2. 22 TBRT/TekØk-filer 2018-01 til 2022-03 (purringer, aksept-brev, tilsynsrapporter) ligger løst og dominerer katalogbildet. CLAUDE.md flagget dette eksplisitt.
+3. 12 eiendomsdokumenter 2013–2015 (matrikkel, prospekt, kjøpekontrakt) er lavverdi for daglig arbeid men blander seg inn blant alt annet.
+4. Pågående "saker" ligger spredt. Tvangsmulktsaken har deler i `bakgrunn/brann/`, `leveranser/brann/`, `bakgrunn/okonomi/`, og flere flate 2026-filer i `bakgrunn/` – 50+ filer totalt uten én inngang.
+5. Kjeller-/Riksantikvaren-saken krysser 3 domener (kulturminne + brann-byggefase + konstruksjon) uten fellesmappe.
+6. `bakgrunn/fisjon/` bruker avvikende navnekonvensjon (dato i mappenavn).
+7. Detritus på rot: `notes.md` (0 B) + 3 `*_tmp.html`-filer uten åpenbar funksjon.
+
+**Nivå 1 – rydding:**
+
+A. Opprett `bakgrunn/tbrt/` og flytt 22 TBRT/TekØk-filer 2018-01 til 2022-03: tilsynsrapporter, purringer, tiltaksplanakseptbrev, TekØk-skjema 2018-09, 2020-tiltaksplan status A/B, etterkontroll 2022-03.
+B. Opprett `bakgrunn/eiendom/` og flytt 12 historiske eiendomsdokumenter 2013–2015: kommuneplanens arealdel, IK-kontroll Trondheim Båtforening, matrikkel-utskrifter, grunnbok, budskjema, akseptbrev, kjøpekontrakt, prospekt/salgsoppgave, situasjonskart, skattetakst.
+C. Omdøp `bakgrunn/fisjon/` → `bakgrunn/fisjon/` for å følge konvensjonen om dato bare i filnavn, ikke mappenavn.
+D. Flagg detritus-filer på rot (`notes.md` 0 B, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html`) til brukeren – disse er mistenkt dødt materiale, men rm-regelen krever eksplisitt tillatelse for sletting av filer AI ikke selv har opprettet. Flytting/sletting overlates til bruker.
+
+**Nivå 2 – sak-indekser:**
+
+E. Opprett `saker/` på rotnivå.
+F. `saker/tvangsmulkt/OVERSIKT.md` – indeksfil som samler tråden fra TBRT 2022-vedtak via klage, klageorgan, Sivilombudet og DSB-søknad til Intrum-saken i 2026. Komplett filpekerliste på tvers av `bakgrunn/brann/`, `bakgrunn/`-rot, `leveranser/brann/`, `bakgrunn/okonomi/kw(e)`, pluss relevante lovkilder i `bakgrunn/lovverk/`. Ingen filer dupliseres; indeksen peker.
+G. `saker/kjeller-ra/OVERSIKT.md` – samler kjellerarbeid/Riksantikvar-dialog som krysser kulturminne + brann-byggefase + konstruksjon. Peker inn i `bakgrunn/`-rot og `leveranser/`.
+
+**Referanseoppdateringer:**
+
+- `historikk.md`: oppdater fotnote-referanser til flyttede eiendom- og TBRT-filer (8 eiendom, 8+ TBRT).
+- `TASKS.md` og `ARCHIVE.md`: oppdater referanser til flyttede filer og til `fisjon_2026-10-12` → `fisjon`.
+- `bakgrunn/fisjon/*` (etter omdøping): oppdater interne self-referanser som peker til gammelt mappenavn.
+- `docs/mappestruktur.md`: reflekter ny struktur, saker/-mappen og at TBRT-historikken er samlet.
+- Note i `docs/mappestruktur.md` om "eldre TBRT-korrespondanse fortsatt ligger løst" fjernes – vil ikke lenger stemme.
+
+**Hva som IKKE gjøres:**
+
+- Ingen full domene-splitt (brann/byggesak/kulturminne/osv.). Krysser-saker (TBRT er samtidig brann + juss + regulatorisk + økonomi) gjør domenesplitt kontraproduktiv.
+- Ingen tier-split (`aktive/` / `referanse/` / `arkiv/`). Dato-prefix + sak-indekser løser verdiskillet bedre.
+- Ingen flytting av `forretningsplan/`, `bank/`, `tegninger/`, `timer/`. Levende dokumentmasser med egen regenereringssyklus – rotplass er riktig.
+- Ingen sak-indeks for støttemidler, HRP-honorar, bank, rammesøknad 2026. Enten dekket av eksisterende struktur (`bank/MANIFEST.md`, `stotte/project_cards.json`, `bakgrunn/stotte/<giver>/`) eller for lav krysserings-tetthet til å trenge indeks nå.
+
+**Berørte filer:** ~35 filer flyttes, 2 nye OVERSIKT.md opprettes, 5–6 filer får oppdaterte interne pekere.
+
+**Estimat:** ~45 min.
+
+**Løsningsnotat (14.10.2026):**
+
+Nivå 1 utført:
+
+- **A. Opprettet `bakgrunn/tbrt/`** og flyttet 22 filer (TBRT/TekØk-korrespondanse 2018-01 til 2022-03).
+- **B. Opprettet `bakgrunn/eiendom/`** og flyttet 12 historiske eiendomsdokumenter 2013–2015.
+- **C. Omdøpt `bakgrunn/fisjon_2026-10-12/` → `bakgrunn/fisjon/`.**
+- **D. Flagget til bruker, ikke rørt:** `notes.md`, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html` på rot. rm-regelen krever eksplisitt sletting-tillatelse per fil.
+
+Nivå 2 utført:
+
+- **E. Opprettet `saker/` på rotnivå.**
+- **F. `saker/tvangsmulkt/OVERSIKT.md`** – komplett tidslinje og filkart for TBRT-saken fra 2018 til oktober 2026, inkludert selskapsstyrke-argument (regnskapsdata) og krysser-pekere (fisjon, bank, TBRT-historikk). Lister også alle relevante lovkilder i `bakgrunn/lovverk/`.
+- **G. `saker/kjeller-ra/OVERSIKT.md`** – kjellerarbeid/Riksantikvar-dialog. Krysser kulturminne + brann (byggefase) + konstruksjon + rampe-koblet byggesak.
+
+Referanseoppdateringer (gjennomført via Python-script med eksplisitt lookup-tabell, 43 erstatninger på tvers av 8 filer):
+
+- `historikk.md`: 18 fotnote-referanser oppdatert (eiendom og TBRT-filer).
+- `TASKS.md`: 19 referanser oppdatert (hovedsakelig `fisjon_2026-10-12` → `fisjon`-pekere i T172–T183, pluss én eiendom-referanse i T62).
+- `ARCHIVE.md`: 1 referanse oppdatert.
+- `bakgrunn/fisjon/` interne self-referanser: 5 filer oppdatert (`agent_02_prosjektleder_v1.md`, `fase_10_verifiseringsrapport.md`, `logg.md`, `mva_justering_dypanalyse.md`, `rapport_final.md`).
+
+Dokumentasjonsoppdateringer:
+
+- `docs/mappestruktur.md` oppdatert med `saker/`-mappen, `bakgrunn/tbrt/`, `bakgrunn/eiendom/`, `bakgrunn/fisjon/` (omdøpt). Note om "eldre TBRT-korrespondanse ligger løst" fjernet.
+
+**Verifikasjon:** Grep på gamle paths bekrefter at ingen stale referanser gjenstår bortsett fra `bakgrunn/2022-12-13_tbrt_vedtak_tvangsmulkt.md` som bevisst ikke ble flyttet (hører til aktiv tvangsmulkt-sak, ikke historisk TBRT-syklus).
+
+**Berørte filer:**
+
+- Opprettet: `bakgrunn/tbrt/` (22 filer flyttet inn), `bakgrunn/eiendom/` (12 filer flyttet inn), `bakgrunn/fisjon/` (omdøpt fra `fisjon_2026-10-12/`), `saker/`, `saker/tvangsmulkt/OVERSIKT.md`, `saker/kjeller-ra/OVERSIKT.md`.
+- Endret: `historikk.md`, `TASKS.md`, `ARCHIVE.md`, `docs/mappestruktur.md`, 5 filer i `bakgrunn/fisjon/`.
+- Flagget til bruker: `notes.md`, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html`.
 

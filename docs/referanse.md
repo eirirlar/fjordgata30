@@ -157,8 +157,8 @@ fjordgata30/
 │   ├── konkurrent_priser.csv        – prisdata per konkurrent (kilde + proveniensmetadata)
 │   ├── konkurrent_analyse.md        – generert rapport (analyse_konkurrentpriser.py)
 │   └── comp_weights.conf            – parametere for konkurranseanalysen (Gaussisk bredde, etc.)
-├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter
-├── brann/                     – branndokumentasjon og TBRT-korrespondanse
+├── bakgrunn/                  – søknader, lovverk, bakgrunnsdokumenter (se docs/mappestruktur.md for undermapper)
+├── saker/                     – indekser for flerdomene-saker (tvangsmulkt, kjeller-ra)
 ├── forretningsplan/           – forretningsplan, MVA-vurderinger og markedsdata
 │   ├── forretningsplan.md          – fullstendig forretningsplan (bankpresentasjon)
 │   ├── mva_strategi.md          – MVA-strategi og alternativer
