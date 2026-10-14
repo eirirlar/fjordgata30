@@ -1,0 +1,22 @@
+---
+name: "asl_14-2_virkeomrade"
+description: "Virkeomraade for aksjelovens fisjonsregler"
+metadata:
+  lov: "Lov om aksjeselskaper (aksjeloven)"
+  dato_nr: "LOV-1997-06-13-44"
+  kapittel: "KAPITTEL 14 Fisjon"
+  paragraf: "§ 14-2"
+  lovdata_url: "https://lovdata.no/lov/1997-06-13-44/§14-2"
+  hentedato: "2026-10-13"
+  hentemetode: "curl + regex-parsing (fase 10, fisjon-task)"
+---
+
+# § 14-2 Fisjonsreglenes virkeområde
+
+(1) Deling av et selskap er undergitt reglene om fisjon i kapitlet her når selskapets eiendeler, rettigheter og forpliktelser skal fordeles på selskapet selv (det overdragende selskapet) og ett eller flere overtakende selskaper mot at aksjeeierne i det overdragende selskapet får som vederlag
+1. aksjer i selskapet eller i ett eller alle av de overtakende selskaper, eller
+2. slike aksjer med et tillegg som ikke må overstige 20 prosent av det samlede vederlaget.
+
+(2) Fisjon er også undergitt reglene i kapitlet her når det overdragende selskapets eiendeler, rettigheter og forpliktelser skal fordeles på to eller flere overtakende selskaper mot at aksjeeierne i det overdragende selskapet får vederlag som angitt i første ledd.
+
+(3) Tilhører et overtakende selskap et konsern, og har ett eller flere av konsernselskapene samlet mer enn 90 prosent av både aksjene og stemmene på generalforsamlingen i det overtakende selskapet, kan vederlaget i aksjer i stedet være aksjer i morselskapet, eller aksjer i et annet datterselskap hvor morselskapet alene eller gjennom datterselskap har mer enn 90 prosent av både aksjene og stemmene på generalforsamlingen. Kapitalforhøyelsen i morselskapet eller datterselskapet kan gjennomføres ved at en fordring som utstedes av det overtakende selskapet, og som tilsvarer den egenkapitalen det overtakende selskapet tilføres ved fisjonen, nyttes som aksjeinnskudd. Fordringen står tilbake for det overtakende selskapets øvrige fordringshavere.II. Fremgangsmåte og virkning

@@ -3329,3 +3329,448 @@ Fra 15 av 27 vedlegg ved dagens start til 26 av 26 ved dagens slutt. Hovedbrev P
 - Sivilombudet 2023/2570 verifisert verbatim (var UKJENT i samlet strategianalyse)
 - Statsforvalter-sporet operasjonalisert med 500+ ord brevutkast (etter brukerflag mellom iter 01 og iter 02)
 - Åpen svakhet: Agent 1 iter 03 traff 32k-token-maks før rapporten var skrevet (lovfiler ble likevel verifisert); full begjæringsutkast for midlertidig forføyning er ikke levert og må enten utarbeides av advokat eller være gjenstand for ny agent-kjøring. Agent-oppdrag bør i framtiden deles i smalere kjøringer slik at én agent ikke får både omfattende verifikasjonsarbeid og store skriveoppgaver.
+
+### T172 `[x]` Fisjon av KodeWorks Eiendom AS — iterativ analyse av juridisk prosedyre, praktisk plan og timing
+
+**Løsningsnotat (14.10.2026):** T172-prosessen gjennomført i 10 faser med fem agenter + djevelens advokat + lovfil-verifisering. Resultatet er `bakgrunn/fisjon_2026-10-12/rapport_final.md` — konsolidert fisjonsplan med vedtatt struktur og tidsplan. Hovedbeslutninger forankret i rapporten:
+
+- Struktur: mellomholding med KWE som holdingselskap under KodeWorks AS, FG30 og GG10 som datterselskaper. Alt A (dagens direkte-trippel) og alt B forkastet; alt C (mellomholding) valgt.
+- Mekanisme: tre steg. Steg 0 — pre-fisjons-stiftelse av FG30 med tre aksjonærer (KodeWorks AS ca. 97 %, Brandsegg ca. 2 %, Lagmannssveen ca. 1 % — foreløpig estimat). Steg 1 — standard fisjon KWE → FG30 (eksisterende) + GG10 (nystiftet) etter aksjeloven kap. 14 med skattemessig kontinuitet etter sktl. kap. 11 og dokumentavgift-fritak etter stortingsvedtaket § 2 bokstav k. Steg 2 — aksjeinnskudd fra KodeWorks AS til KWE etter aksjeloven kap. 10.
+- Begrunnelse pre-fisjons-stiftelse: unngår gevinstbeskatning for B/LM som ellers ville oppstått ved tingsinnskudd av egenprodusert immateriell verdi med inngangsverdi 0. B/LM tegner aksjer til pålydende i tomt selskap — markedsverdi = pålydende = ingen fordel.
+- DNB-lån fordelt 50/50 mellom FG30 og GG10 (ca. 8,03 MNOK hver).
+- Konsernlånet KodeWorks AS → KWE (10,6 MNOK) forblir uendret i KWE.
+- MVA 100 % dekning via tilbakegående avgiftsoppgjør etter mval. § 8-6 ved FG30s MVA-registrering Q2 2027.
+- Tidsmål: alt Brreg-registrert innen 31.12.2026.
+
+Fem nye lovfiler lastet ned i fase 10: `mval_9-3_overforing_rett_plikt_justering.md`, `mval_9-5_beregning_justeringsbelop.md`, `mval_9-7_tilbakeforing.md`, `asl_13-14_kreditorvarsel.md`, `sktl_14-6_framforbart_underskudd.md`. Nedlastings-script: `scripts/download_lovparagraf.py`. Bold-fjerning i brødtekst: `scripts/remove_bold_bodytext.py`. Unwrap: `scripts/unwrap_markdown.py`.
+
+Oppfølgingstasks for gjennomføring: T174–T183.
+
+**Berørte filer:**
+
+- `bakgrunn/fisjon_2026-10-12/rapport_final.md` (hovedleveranse)
+- `bakgrunn/fisjon_2026-10-12/mva_regnskapsanalyse.md`, `mva_justering_dypanalyse.md`, agent-filer, iterasjons-filer, review-filer, logg.md
+- `bakgrunn/lovverk/mval_9-3_*.md`, `mval_9-5_*.md`, `mval_9-7_*.md`, `asl_13-14_*.md`, `sktl_14-6_*.md`
+- `scripts/download_lovparagraf.py`, `scripts/remove_bold_bodytext.py`, `scripts/unwrap_markdown.py`
+- `leveranser/2026-10-13_epost_varder_fisjonsplan.md`
+
+**Opprinnelig taskbeskrivelse (bevart for historikk):**
+
+**Prioritet:** Middels. Analyse-task — ikke selve gjennomføringen. Resultatet skal gi grunnlag for beslutning om fisjonen skal igangsettes nå, utsettes til etter DSB/Sivilombudet, eller vente til etter bero-slutt 01.01.2027.
+
+**Formål:** Utrede om, hvordan og når KodeWorks Eiendom AS skal fisjoneres i tre selskaper: **Fjordgata 30 AS**, **Grønnegata 10 AS** og **KodeWorks Eiendom AS** (fortsettende). Fisjonen tjener MVA-driftsmodellen (dokumentert i CLAUDE.md og `forretningsplan/`), strukturell adskillelse av eiendomsmasse og driftsselskap, mulig vern av Fjordgata 30 mot inndriving fra TBRT/Intrum innenfor lovens rammer, og forenkler framtidig bank- og tilskuddsstruktur.
+
+**Scope-grenser:**
+
+- Analyse-only. Ingen kontakt med regnskapsfører, advokat, bank eller tilskuddsgivere som ledd i denne tasken.
+- Fisjonsstruktur er låst til tre selskaper (ikke flere, ikke færre).
+- Lovfil-nedlasting (verbatim verifisering mot Lovdata til `bakgrunn/lovverk/`) gjøres i **fase 10, etter at analysen er ferdig** — ikke før. Agentene leser lov underveis via Lovdata/WebSearch og noterer kildehenvisninger, men paragrafverifikasjon og nedlasting skjer samlet mot slutten.
+
+**Spørsmål som skal besvares:**
+
+1. Juridisk prosedyre for fisjon steg for steg (aksjeloven kap. 14, varslingsfrister, generalforsamling, revisor, Brreg, skatt, dokumentavgift).
+2. Hvor plasseres påløpt tvangsmulkt (kr 184 000) i fisjonsplanen — mulighetsrom og konsekvenser.
+3. Hvor plasseres løpende tvangsmulkt (nå i bero) og pålegget om brannsikring.
+4. Dekningslovens omstøtelsesregler — konkret risikovurdering for denne saken (pågående inndriving, Intrum-konkursvarsel, bero-beslutning).
+5. Kreditorperiodens håndtering: TBRT, Intrum, bank, tilskuddsgivere — hva de kan gjøre, og hva vi kan gjøre.
+6. Samtykkekrav fra KMF, BYA, UNI, Enova — vurdert mot innholdet i hvert tilsagnsbrev.
+7. Bank og pant: hva kreves hvis Fjordgata 30 er pantsatt.
+8. Byggesak BYGG-26/81377: overføring av rammesøknad og ansvarsrett ved fisjon.
+9. Dokumentavgift og skattemessig kontinuitet — vilkår og konsekvenser.
+10. Varsling av TBRT i tråd med bero-brevet 25.06.2026 — timing og innhold.
+11. Timing-scenarier: gjennomfør nå, vent til DSB/Sivilombudet, vent til etter bero-slutt 01.01.2027. Fordeler/ulemper for hver.
+
+**Iterasjonsstruktur:**
+
+```
+Fase 1 — Første analyse-runde (parallelt)
+  Fire agenter kjøres i parallell. Hver skriver kun til egen fil.
+
+Fase 2 — Hovedsesjon merger og reviewer
+  Les alle fire v1-filer. Skriv iterasjon_01_merged.md og review_01.md
+  (hull, motsigelser, interaksjoner, nye spørsmål).
+  Leverer til bruker.
+
+Fase 3 — Bruker gir tilbakemelding
+  Avklaringer, nye retninger, scope-justeringer. STOPP og vent.
+
+Fase 4 — Målrettet andre iterasjon (parallelt)
+  Hver agent får sin v1-fil, review_01, og brukers input. Produserer
+  agent_0N_v2.md.
+
+Fase 5 — Hovedsesjon merge 2
+  iterasjon_02_merged.md og review_02.md. Leverer til bruker.
+
+Fase 6 — Bruker gir ok eller flere innspill
+  STOPP og vent. Eventuell tredje runde av Agent 1–4 hvis bruker ber om det.
+
+Fase 7 — Djevelens advokat (sekvensiell)
+  Agent 5 får hele iterasjon_02_merged som input. Angriper fra tre
+  perspektiver: TBRT som tilsynsmyndighet, Intrum som kreditor i
+  kreditorperioden, hypotetisk bostyrer med omstøtelsesvinkel.
+  Skriver agent_05_djevelen.md med minst 10 angrepspunkter + motstrategi
+  for hver.
+
+Fase 8 — Hovedsesjon syntese
+  rapport_final.md: juridisk prosedyre, praktisk plan,
+  tvangsmulkt-håndtering i fisjonsplanen, finans/tilskudd/bank/byggesak,
+  djevelens angrepspunkter med motstrategier, timing-scenarier og
+  anbefaling.
+
+Fase 9 — Bruker godkjenner rapport_final
+  STOPP og vent. Eventuelle rettelser.
+
+Fase 10 — Lovfil-nedlasting
+  Alle paragrafer rapport_final refererer til, lastes ned verbatim fra
+  Lovdata til bakgrunn/lovverk/. Rapporten verifiseres mot nedlastet
+  tekst og rettes der parafraser avviker.
+```
+
+**Agent-definisjoner:**
+
+Alle agenter kjøres som `general-purpose` (eller `Explore` for ren lesing) **uten `isolation: "worktree"`**. Hver agent skriver kun til egen fil og skal ikke røre andres filer. Unntak: Agent 1 får skrive nye lovfiler til `bakgrunn/lovverk/` i fase 10, ikke før.
+
+| Agent | Rolle | Personlighet | Output | Token-ramme |
+|---|---|---|---|---|
+| 1 — Fisjonsjurist | Norsk selskapsrett, aksjeloven kap. 14, dekningsloven, skatteloven, dokumentavgiftsloven | Metodisk, lovteksttro. Tar aldri snarveier mot lovsitater. | `agent_01_fisjonsjurist_v1.md` / `_v2.md` | 40k input + 15k output per iterasjon |
+| 2 — Prosjektleder | Praktisk gjennomføring: regnskapsfører, revisor, selskapsadvokat, Brreg, Skatteetaten, tinglysing. Tidslinjer, kostnader, aktører. | Operativ, konkret, tenker i tidslinjer og involverte parter. | `agent_02_prosjektleder_v1.md` / `_v2.md` | 25k input + 12k output per iterasjon |
+| 3 — Tvangsmulkt-strateg | Hvordan fisjon påvirker tvangsmulkt-saken konkret. Hvor krav sitter, hvordan bero påvirkes, hvordan TBRT skal varsles. | Analytisk med laserfokus på én ting: hva skjer med mulkten. | `agent_03_tvangsmulkt_v1.md` / `_v2.md` | 30k input + 15k output per iterasjon |
+| 4 — Finans- og tilskuddsanalyst | Tilsagnsbrev fra KMF, BYA, UNI, Enova. Bank, pant, kreditt. Byggesak-overføring (ansvarsrett, rammesøknad). | Detaljert. Leser avtaler med lupe. Finner klausuler om endring på eiersiden. | `agent_04_finans_tilskudd_v1.md` / `_v2.md` | 25k input + 12k output per iterasjon |
+| 5 — Djevelens advokat (tre hatter) | Angriper fisjonen fra tre perspektiver sekvensielt i samme dokument: (a) TBRT som tilsynsmyndighet, (b) Intrum/kreditor, (c) hypotetisk bostyrer. | Aggressivt kritisk. Finner angrepspunkter som hovedsesjonen vil overse. Krasjer perspektivene mot hverandre for å finne de sterkeste punktene. | `agent_05_djevelen.md` | 40k input + 15k output |
+
+**Mappestruktur:**
+
+```
+bakgrunn/fisjon_<ISO-dato>/
+├── agent_01_fisjonsjurist_v1.md
+├── agent_02_prosjektleder_v1.md
+├── agent_03_tvangsmulkt_v1.md
+├── agent_04_finans_tilskudd_v1.md
+├── iterasjon_01_merged.md
+├── review_01.md
+├── agent_01_fisjonsjurist_v2.md
+├── agent_02_prosjektleder_v2.md
+├── agent_03_tvangsmulkt_v2.md
+├── agent_04_finans_tilskudd_v2.md
+├── iterasjon_02_merged.md
+├── review_02.md
+├── agent_05_djevelen.md
+├── logg.md                     ← kort tidslogg og modellvalg per agent-kjøring
+└── rapport_final.md
+```
+
+**Brukerinvolveringspunkter:**
+
+- Etter fase 2 (merge 1 + review 1)
+- Etter fase 5 (merge 2 + review 2)
+- Etter fase 8 (rapport_final v1)
+
+Mellom brukerinvolveringspunkter kjører hovedsesjonen kontinuerlig. Hovedsesjonen stopper kun ved disse punktene og venter på eksplisitt beskjed fra bruker før den fortsetter.
+
+**Rapport_final.md skal inneholde:**
+
+1. Sammendrag (0,5 side)
+2. Juridisk prosedyre steg for steg
+3. Praktisk gjennomføringsplan med aktører og tidslinje
+4. Håndtering av tvangsmulkt i fisjonsplanen (hvor krav plasseres, hvordan)
+5. Konsekvenser for tilskudd, bank, byggesak
+6. Djevelens angrepspunkter med motstrategi for hver
+7. Dekningslov-risiko (omstøtelse) — konkret for denne saken, ikke generelt
+8. Varsling av TBRT — timing og innhold
+9. Timing-scenarier (tre scenarier: nå / etter DSB-svar / etter 01.01.2027) med fordeler og ulemper
+10. Anbefaling om timing
+11. Åpne spørsmål som krever ekstern juridisk eller forretningsmessig avklaring (advokat, revisor, bank)
+
+**Operasjonelle regler for hovedsesjonen:**
+
+- Agentene startes **uten `isolation: "worktree"`**. CLAUDE.md regelen gjelder.
+- Agentene får i sin prompt beskjed om å kun skrive til egen fil og ikke endre andre filer i prosjektet. Lovfil-nedlasting er fase 10, ikke før.
+- Agenter som leser lov underveis bruker Lovdata eller WebSearch og noterer kildehenvisninger. Verbatim-sitater **unngås i fase 1–8**; der referanse er nødvendig, bruk «aksjeloven kap. 14» og lignende uten paragrafnummer, eller marker [verifiseres i fase 10].
+- Hovedsesjonen sjekker etter hver agent-kjøring med `ls .claude/worktrees/` at det ikke ligger igjen `agent-*`-mapper. Logg resultat i `logg.md`.
+- Mellom brukerpunktene skal hovedsesjonen ikke pause unødvendig. Beveger seg kontinuerlig fra fase til fase.
+- Hvis en agent treffer kontekst-maks, deles oppgaven og re-kjøres smalere. Observert feil i T171 skal unngås.
+
+**Kjør-prompt for ny chat:**
+
+Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og historikk.md først. Opprett mappen `bakgrunn/fisjon_$(dato)/` og start Fase 1.»* — eller (b) bruk den detaljerte copy-paste-blokken fra chat 12.10.2026 som inneholder samme oppdragstekst.
+
+**Berørte filer (opprettes under kjøring):**
+
+- Ny mappe: `bakgrunn/fisjon_<ISO-dato>/`
+- Nye filer i mappen etter struktur over
+- I fase 10: nye lovfiler i `bakgrunn/lovverk/` (aksjeloven kap. 14-paragrafer, dekningslov-paragrafer, skattelov-paragrafer om fisjon, dokumentavgiftslov)
+- Oppdateres etter fullført task: `TASKS.md` (status + løsningsnotat), `historikk.md`
+
+**Kobling:** MVA-driftsmodellen (CLAUDE.md og `forretningsplan/fg30_vurderinger_mva.md`), tvangsmulkt-sporet (T147, T161–T171).
+
+**Estimat:** ~250k tokens agent-arbeid + hovedsesjonens kontekst. Aktiv arbeidstid 60–75 min hovedsesjon + 15–30 min brukertid fordelt på tre punkter. Lovfil-nedlasting (fase 10) ca. 30 min.
+
+### T173 `[x]` Strukturvurdering — tre alternativer for konsernoppsett etter fisjon
+
+**Løsningsnotat (14.10.2026):** Analysen ble innlemmet i T172 fase 7-utvidelsen og dokumentert i `bakgrunn/fisjon_2026-10-12/struktur_alternativer_T173.md`. Konklusjon: Alt C (mellomholdingstruktur med KWE som holdingselskap, FG30 og GG10 som datterselskaper) er valgt. Begrunnelse i rapport_final.md: alt A ga «tom skalk» i fortsettende KWE (bokført EK –10,5 MNOK) som ville svekket dekningsgrunnlaget for konsernlånet; alt B gjorde KWE borte som rettssubjekt og brøt partsstatus i DSB/Sivilombud/tvangsmulkt-sakene. Alt C ivaretar partsstatus hos KWE, holder konsernlånet (10,6 MNOK) der det er, og gir dekningsgrunnlag via aksjer i FG30 og GG10. Mekanisme: standard fisjon (sktl. kap. 11) etterfulgt av aksjeinnskudd fra KodeWorks AS til KWE etter aksjeloven kap. 10 med fritaksmetoden i sktl. § 2-38. Dokumentavgift-fritak gjennom fisjonstrinnet (stortingsvedtaket § 2 bokstav k). Konserninternoverdragelse etter sktl. § 11-21 forkastet fordi den hjemmelen ikke er listet i dokumentavgift-fritaket.
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/struktur_alternativer_T173.md`, `bakgrunn/fisjon_2026-10-12/rapport_final.md`.
+
+**Opprinnelig taskbeskrivelse (bevart for historikk):**
+
+**Prioritet:** Høy. Må besvares før fisjonsplanen ferdigstilles. Interagerer direkte med Agent 1s dekningslov- og styreansvarsvurdering, Agent 3s plassering av tvangsmulkt-dekning, Agent 4s åpningsbalanser og tilskuddsoverføring, og med konsernlånet (10,6 MNOK) som brukeren vil beholde.
+
+**Formål:** Vurdere hvilken konsernstruktur som er best etter at eiendomsmassen i KodeWorks Eiendom AS (KWE) deles i Fjordgata 30 AS (FG30 AS) og Grønnegata 10 AS (GG10 AS). Tre alternativer skal analyseres:
+
+- **Alt A — Trippel-utfisjonering under KodeWorks AS (dagens plan):** FG30 AS + GG10 AS + fortsettende KWE som holding, alle tre direkte eid av KodeWorks AS.
+- **Alt B — Dobbel fisjon under KodeWorks AS:** KWE opphører; FG30 AS og GG10 AS blir eneste nye enheter direkte eid av KodeWorks AS. Vurder konsekvens for partsstatus i DSB/Sivilombud/tvangsmulkt-sakene.
+- **Alt C — FG30 AS og GG10 AS som datterselskaper av KWE:** KWE forblir som mellomholding under KodeWorks AS, med FG30 AS og GG10 AS som heleide datterselskaper. Lånet KW→KWE kan videreføres uendret og evt. videreformidles til FG30 AS. **Vurder hvilken skatterettslig mekanisme som er mulig (fisjon-fusjon, konserninternoverdragelse etter sktl. § 11-2, fisjon + etterfølgende tingsinnskudd av aksjer, eller annet).** Må kunne gjennomføres uten å utløse skatt eller dokumentavgift.
+
+**Spørsmål som skal besvares for hver struktur:**
+
+1. Skatterettslig gjennomførbarhet uten realisasjonsskatt (sktl. kap. 11).
+2. Dokumentavgift ved hjemmelsoverganger (fritak eller 2,5 %).
+3. MVA-konsekvenser (justeringsregler mval. kap. 9, tidsrekkefølge registrering).
+4. Konsernlån KW→KWE (10,6 MNOK) — hvor plasseres det og hvordan betjenes det?
+5. Tilskuddsoverføring (KMF, BYA, UNI, Enova) — enklere eller vanskeligere?
+6. Partsstatus i pågående saker (DSB, Sivilombudet, Intrum, TBRT).
+7. Omstøtelsesrisiko etter dekningsloven kap. 5.
+8. Operativ kompleksitet (dokumenter, Brreg-prosess, revisor-attestasjon).
+9. Framtidige søknader og bankfinansiering.
+10. Konsekvens for Brandsegg/Lagmannssveen-emisjonen i FG30 AS.
+
+**Scope-grenser:**
+
+- Analyse-only.
+- Lovreferanser merkes [verifiseres fase 10] med unntak av mval. kap. 9 som allerede er lastet.
+- Må koordineres med Varder AS (revisor) senere — men ingen kontakt tas fra denne tasken.
+
+**Berørte filer:**
+
+- Egen analyse-fil: `bakgrunn/fisjon_<ISO-dato>/struktur_alternativer_T173.md`
+- Berører: alle fase 4-leveranser i `bakgrunn/fisjon_2026-10-12/`
+- Oppdateres etter fullført task: `TASKS.md`, `historikk.md`
+
+**Kobling:** T172 (fisjonsanalyse), MVA-driftsmodellen, konsernlåns-restrukturering, tingsinnskudd fra nye aksjonærer.
+
+**Estimat:** ~30–45 min agent-arbeid + hovedsesjonens vurdering. Kan gjøres som egen Agent-kjøring eller som del av fase 7-utvidelsen i T172.
+
+---
+
+### T174 `[ ]` Avklaring av eksakt eierfordeling Brandsegg/Lagmannssveen i Fjordgata 30 AS
+
+**Prioritet:** Høy. Må avklares før stiftelse av FG30 (steg 0, uke 42).
+
+**Formål:** Fastsette eksakt eierandel for Kristian Brandsegg og Ole Morten Lagmannssveen i Fjordgata 30 AS. Foreløpig estimat i fisjonsrapporten er ca. 2 % til Brandsegg og ca. 1 % til Lagmannssveen (samlet ca. 3 %), men prosjektleder har signalisert at Kristian sannsynligvis får mer enn Ole Morten. Eksakte prosenter må bestemmes.
+
+**Handlinger:**
+
+- Prosjektleder tar dialog med Brandsegg og Lagmannssveen om endelig fordeling.
+- Finn og dokumenter skriftlig underlag fra 2024 om den opprinnelige avtalen (viktig som motargument mot sktl. § 13-2 — se T175).
+- Oppdater fisjonsrapporten og aksjonærregister-dokumentasjonen med eksakte tall når besluttet.
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/rapport_final.md`, kommende stiftelsesdokument for FG30.
+
+**Kobling:** T172, T175, T176.
+
+**Deadline:** Avklart før 17.10.2026 (slik at stiftelse kan skje i uke 42).
+
+---
+
+### T175 `[ ]` Fremfinning av skriftlig dokumentasjon fra 2024 om minoritetsavtalen
+
+**Prioritet:** Høy. Sentral dokumentasjon mot serietransaksjons-angrep under sktl. § 13-2.
+
+**Formål:** Finne og samle skriftlig materiale (e-poster, møtereferater, SMS, uformelle notater) fra 2024 som dokumenterer at Brandsegg og Lagmannssveen var planlagt medeiere i FG30 lenge før fisjonsplanen oppsto. Dette er avgjørende bevisgrunnlag hvis Skatteetaten senere vurderer stiftelsen + fisjonen som én sammenhengende disposisjon og hevder at B/LM reelt fikk aksjer verdt ca. 480 TNOK som skattepliktig gave fra KodeWorks AS.
+
+**Handlinger:**
+
+- Gjennomgå e-postarkiv for 2024 etter korrespondanse med Brandsegg (KMTE) og Lagmannssveen (HRP) om medeierskap.
+- Spør Brandsegg og Lagmannssveen om de har egen dokumentasjon fra sin side.
+- Samle alt i egen fil i `bakgrunn/` med dato-prefix.
+
+**Berørte filer:** Ny fil i `bakgrunn/` (navngis når innhold er klart).
+
+**Kobling:** T172 (serietransaksjons-risiko), T174 (eierfordeling).
+
+**Deadline:** Innen 20.10.2026 (før fisjonsvedtak i uke 43).
+
+---
+
+### T176 `[ ]` Stiftelse av Fjordgata 30 AS (steg 0)
+
+**Prioritet:** Kritisk. Må være Brreg-registrert før fisjonsvedtaket i uke 43.
+
+**Formål:** Stifte Fjordgata 30 AS som tomt aksjeselskap med tre aksjonærer: KodeWorks AS (ca. 97 %), Brandsegg (ca. 2 %), Lagmannssveen (ca. 1 %). Aksjekapital 100 000 kr, pålydende 1 kr/aksje. Alle aksjonærer tegner til pålydende i kontanter.
+
+**Handlinger (AI + Prosjektleder):**
+
+1. Stiftelsesdokument med vedtekter og åpningsbalanse (100 000 kr i kontanter).
+2. Aksjonæravtale KodeWorks AS + Brandsegg + Lagmannssveen (må inneholde utvanningsklausul for fisjonstrinnet som bevarer B/LMs eierandel).
+3. Beslutning om styresammensetning (styreleder, styremedlemmer, varamedlem).
+4. Aksjonærregister (eksakt fordeling fra T174).
+5. Innbetaling av aksjekapital.
+6. Melding om stiftelse til Brreg.
+
+**Berørte filer:** Ny mappe `bakgrunn/fisjon_2026-10-12/steg0_stiftelse/` med stiftelsesdokument, vedtekter, aksjonæravtale.
+
+**Kobling:** T172, T174, T175, T177.
+
+**Deadline:** Brreg-registrert innen 19.10.2026 (uke 42).
+
+---
+
+### T177 `[ ]` Utarbeidelse av fisjonsplan og åpningsbalanser
+
+**Prioritet:** Kritisk. Må være ferdig for Varder-attestasjon innen uke 43.
+
+**Formål:** Utarbeide alle juridiske dokumenter som trengs for fisjonsvedtaket:
+
+- Fisjonsplan etter asl. § 14-4 med forretningsmessig begrunnelse, overdragelse, vederlag og vederlagsaksje-design med overkurs.
+- Åpningsbalanse for fortsettende KWE.
+- Åpningsbalanse for nystiftet GG10 AS.
+- Oppdatert balanse for FG30 etter fisjon (eiendom + 50 % DNB tilføres eksisterende selskap).
+- Verdifastsettelser for fisjonsvederlaget (16 MNOK netto til KodeWorks AS med stor overkurs for å bevare B/LMs eierandel).
+- Styrevedtak-maler med forsvarlighetsvurdering etter asl. § 3-4 for KWE, FG30 og KodeWorks AS.
+- GF-vedtak-maler.
+- Melding om fisjonsbeslutning til Brreg.
+- Stiftelsesdokumenter og vedtekter for GG10 AS (opprettes gjennom fisjonen).
+- Varselbrev TBRT, DSB, Sivilombudet, Intrum, DNB, tilskuddsgivere.
+- Melding om revisor-bytte Allrevisjon → Varder.
+
+**Handlinger:**
+
+- AI utarbeider dokumenter basert på rapport_final.md.
+- Orkla Regnskap leverer saldobalanse 30.09.2026 og dekomponerte åpningsbalanser.
+- Varder attesterer fisjonsplan og åpningsbalanser.
+
+**Berørte filer:** Ny mappe `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/`.
+
+**Kobling:** T172, T176, T178, T179, T180.
+
+**Deadline:** Varder-attestasjon ferdig innen 23.10.2026 (uke 43).
+
+---
+
+### T178 `[ ]` Fisjonsvedtak og Brreg-melding (trinn 1)
+
+**Prioritet:** Kritisk. Må fattes uke 43.
+
+**Formål:** Fatte formelle vedtak om fisjonen i alle involverte selskaper og melde til Brreg:
+
+- Styrevedtak + GF-vedtak i KWE.
+- Styrevedtak + GF-vedtak i FG30 (alle tre aksjonærer beslutter).
+- Styrevedtak i KodeWorks AS som eneeier av KWE.
+- Melding om fisjonsbeslutning til Brreg.
+- Varselbrev til TBRT, DSB, Sivilombudet, Intrum, DNB, KMF, BYA, UNI, Enova.
+
+**Berørte filer:** Protokoller og vedtak i `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/`, varselbrev i `leveranser/`.
+
+**Kobling:** T177, T179, T180, T182, T183.
+
+**Deadline:** Alle vedtak + Brreg-melding innen 26.10.2026 (uke 43).
+
+---
+
+### T179 `[ ]` DNB-dialog om 50/50-fordeling av lån og pant
+
+**Prioritet:** Høy. Må være avklart før Brreg-registrering uke 50.
+
+**Formål:** Få DNBs samtykke til å oppdele DNB-lånet (saldo 15,23 MNOK + rente 831 TNOK) 50/50 mellom FG30 og GG10 ved fisjonen. Nye separate gjeldsbrev og pantedokumenter per selskap.
+
+**Handlinger:**
+
+- Prosjektleder tar formell dialog med DNB om oppdelingen.
+- DNB utarbeider to nye gjeldsbrev (ett per selskap) og to nye pantedokumenter.
+- Vilkårskopi gjennomgås — DNB kan bruke anledningen til å reforhandle rentemargin og covenants.
+- Signering før tinglysing av hjemmelsoverføring uke 50.
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/dnb/` (opprettes).
+
+**Kobling:** T172, T177, T178.
+
+**Deadline:** Avklart innen uke 50 (08.–14.12.2026).
+
+---
+
+### T180 `[ ]` Stabilisering av Intrum-saken før fisjonsvedtak
+
+**Prioritet:** Kritisk. Konkursvarsel-fristen 27.10.2026 må være nøytralisert.
+
+**Formål:** Nøytralisere konkursvarselet i sak S2026-026646 (totalkrav kr 103 452) før Brreg kunngjør kreditorvarsel i fisjonen. Dette fjerner Intrum som potensiell innsigende kreditor i kreditorfristen og rydder tvangsmulkt-sporet overfor TBRT.
+
+**Alternativer:**
+
+- Skriftlig forliksavtale med Intrum (50–150 TNOK forliksbeløp).
+- Full betaling av kravet 103 452 kr.
+- TBRT-instruert stans er ikke tilstrekkelig.
+
+**Handlinger:**
+
+- Prosjektleder tar dialog med Intrum om forlik.
+- Hvis forlik ikke oppnås innen 27.10.2026, må full betaling vurderes.
+
+**Berørte filer:** Oppdatering av `historikk.md` når stabilisert.
+
+**Kobling:** T172, T178.
+
+**Deadline:** 27.10.2026 (konkursvarsel-fristen).
+
+---
+
+### T181 `[ ]` Trinn 2 — aksjeinnskudd fra KodeWorks AS til KWE
+
+**Prioritet:** Kritisk. Må gjennomføres uke 50–51 for Brreg-registrering innen 22.12.2026.
+
+**Formål:** Gjennomføre kapitalforhøyelse i KWE etter aksjeloven kap. 10 med tingsinnskudd av KodeWorks AS' aksjer i FG30 (ca. 97 %) og GG10 (100 %). KWE blir mellomholding. Realisasjonen fritas etter fritaksmetoden i sktl. § 2-38.
+
+**Handlinger:**
+
+1. Verdifastsettelse av KodeWorks AS' aksjeposter i FG30 og GG10.
+2. Styrevedtak + GF-vedtak i KWE om kapitalforhøyelse.
+3. Styrevedtak i KodeWorks AS om tingsinnskudd.
+4. Revisorerklæring på tingsinnskuddets verdi (Varder, asl. § 2-6).
+5. Nye vedtekter i KWE.
+6. Melding om kapitalforhøyelse til Brreg.
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/trinn2_aksjeinnskudd/` (opprettes).
+
+**Kobling:** T172, T178.
+
+**Deadline:** Brreg-registrert innen 22.12.2026.
+
+---
+
+### T182 `[ ]` Justeringsavtale mval. § 9-3 mellom KWE og GG10
+
+**Prioritet:** Kritisk. Må være signert samme dag som Brreg-registrering av fisjonen uke 50.
+
+**Formål:** Overføre justeringsplikten for Grønnegata-kapitalvarene (anslått ca. 780–800 TNOK) fra KWE til GG10 ved fisjonen. Uten avtale utløses samlet justering i KWE i overdragelsesåret.
+
+**Vilkår:**
+
+- Skriftlig avtale etter mval. § 9-3 (1) signeres mellom KWE og GG10 samme dag som Brreg-registrering.
+- GG10 MVA-registreres frivillig etter mval. § 2-3 samme dag.
+- Avtalen spesifiserer hver kapitalvare, inngående MVA per kapitalvare, fullføringsår, resterende justeringsperiode og fradragsprosent.
+
+**Åpne punkter:**
+
+- Møbler/inventar på konto 1251 — kapitalvare-status må avklares av Orkla (én anskaffelse > 50 TNOK inngående MVA, eller flere småkjøp).
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/trinn1_fisjon/justeringsavtale_mval_9-3.md` (opprettes).
+
+**Kobling:** T172, T178.
+
+**Deadline:** Signert ved Brreg-registrering ca. 15.12.2026.
+
+---
+
+### T183 `[ ]` Faktura-for-faktura-gjennomgang av byggefase-kostnader Fjordgata 30
+
+**Prioritet:** Middels. Blokkerer ikke fisjonsvedtaket, men avgjør hvor stor andel av byggefase-MVA (ca. 675 TNOK basert på regnskapet) som kan hentes gjennom tilbakegående avgiftsoppgjør etter mval. § 8-6 ved FG30s MVA-registrering Q2 2027.
+
+**Formål:** Orkla Regnskap gjennomgår alle byggefase-fakturaer (SAAHA, HRP, Autronica, konsulenter) bokført i KWE 2022–2026. Per faktura: identifiser konto, MVA-behandling (brutto, forholdsmessig fradrag, fullt fradrag), henførbarhet til minilager-driften. Kryssjekk mot KodeWorks AS' regnskap for eventuelle byggefase-fakturaer bokført der.
+
+**Resultat:** Sporbart grunnlag for tilbakegående oppgjør. Sporbar aktivering i KWEs balanse er ca. 2,7 MNOK ekskl. MVA; gjennomgangen må verifisere og eventuelt oppjustere ved funn av kostnader bokført utenfor konto 1160/1172.
+
+**Berørte filer:** `bakgrunn/fisjon_2026-10-12/faktura_gjennomgang_fg30.md` (opprettes av Orkla).
+
+**Kobling:** T172, framtidig T for FG30 MVA-registrering Q2 2027.
+
+**Deadline:** Ferdig før FG30 MVA-registreres Q2 2027. Ikke blokkerende for fisjonsvedtaket.
+

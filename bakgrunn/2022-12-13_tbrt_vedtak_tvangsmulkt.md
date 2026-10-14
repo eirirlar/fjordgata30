@@ -1,3 +1,7 @@
+---
+kilde: "Vedtak om tvangsmulkt - Fjordgata 30 - 5001_401_149.pdf"
+---
+
 Trøndelag brann- og redningstjeneste IKS
 Kodeworks Eiendom As Fjordgata 30 7010 Trondheim
 
