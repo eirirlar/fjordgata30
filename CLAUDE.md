@@ -12,6 +12,7 @@ Se `TASKS.md` for oppgaveliste og status, `historikk.md` for kronologisk histori
 - **Mappestruktur – prosjektdokumenter:** `docs/mappestruktur.md`
 - **Mappestruktur – kode og data:** `docs/referanse.md`
 - **Verktøy og scripts:** `README.md`
+- **Prosjekt-skills (invokerbare prosedyrer):** `.claude/skills/README.md` – `/framdriftsrapport`, `/last-ned-paragraf`, `/pdf-til-md`, `/motereferat`, `/arkiver-sak`
 
 ## Kontaktinfo og sentrale fakta
 
@@ -42,6 +43,7 @@ Bruk disse verdiene direkte i leveranser, søknader og skjemaer — ikke sett `[
 - **Task-sortering:** Tasks i `TASKS.md` og `ARCHIVE.md` skal alltid være sortert stigende på T-nummer. Når du oppretter en ny task, sett den inn på riktig plass i rekkefølgen – ikke legg den til sist uten å sjekke nummeret. Subtasks (T01.02 o.l.) sorteres under sin hovedtask.
 - **Ikke referer til task-IDer i prosa:** Skriv aldri «T140-avtalen», «per T145», «under T143» eller lignende — verken i chat, i beskrivelser i `TASKS.md`, i `historikk.md`, i `leveranser/` eller i dokumenter i `bakgrunn/`. Task-IDer er interne anker og hører kun hjemme (a) som `### T<n>`-overskrift på selve tasken, (b) i **Berørte filer**- og **Kobling**-blokkene på tasken, (c) i commit-meldinger, og (d) i kodekommentarer der en spesifikk beslutning må siteres. Alle andre steder: navngi konseptet. Særlig i chat-svar: brukeren har over hundre task-IDer og bærer ikke innholdet i hver enkelt i hukommelsen.
 - **Arkivering av tasks:** Løste tasks flyttes fra `TASKS.md` til `ARCHIVE.md` kun når brukeren eksplisitt ber om det. Aldri arkiver på eget initiativ. Søk alltid i `ARCHIVE.md` før du starter en oppgave for å unngå dobbeltarbeid.
+- **Arkivering av dokumenter:** Samme prinsipp som TASKS→ARCHIVE. Lukkede saker og avsluttede serier flyttes til `<domene>/arkiv/<sak>/` eller `saker/arkiv/<sak>/` kun når brukeren eksplisitt ber om det per sak. Permanent referanse (lovtekster, eiendomsmatrikkel, kjøpekontrakt osv.) arkiveres aldri — den blir værende i vanlig domenemappe. Søk i både aktiv og arkiv før du starter arbeid på et tema. Utdyping: `docs/arbeidsregler/arkivering.md`.
 - **Ikke start tasks automatisk:** Begynn aldri på en task uten eksplisitt instruksjon fra brukeren i den pågående samtalen. Når en task er ferdig, vent på neste instruksjon – ikke velg og begynn på den neste tasken på egenhånd.
 - **README-oppdatering:** Vurder alltid om `README.md` og tilhørende filer i `docs/` må oppdateres som del av å løse en oppgave. Nye scripts, endrede filnavn, endret filstruktur eller nye avhengigheter skal alltid reflekteres i dokumentasjonen.
 - **PDF-konvertering:** Bruk alltid `pdftotext` (eller tilsvarende CLI-verktøy) via Bash for å konvertere PDF til tekst. Bruk aldri Read-verktøyet side for side på PDF-filer – det er svært kostbart og mister strukturert tekst. Eksempel: `pdftotext -layout "filnavn.pdf" - > filnavn.txt`

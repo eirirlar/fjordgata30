@@ -70,6 +70,10 @@ Sortert på T-nummer. Søk med `Ctrl+F` på T-ID eller status-markør.
 - `T182 [ ]` Justeringsavtale mval. § 9-3 mellom KWE og GG10
 - `T183 [ ]` Faktura-for-faktura-gjennomgang av byggefase-kostnader Fjordgata 30
 - `T184 [x]` Repository-restrukturering – nivå 1 (rydding) + nivå 2 (sak-indekser)
+- `T185 [x]` Generelt arkiveringsmønster for dokumenter (speilet av TASKS→ARCHIVE)
+- `T186 [x]` Definer prosjekt-skills for 5 topp-kandidater
+- `T187 [x]` Håndtegnet skisse → semantisk SVG (Fjordgata 30, kjeller)
+- `T188 [~]` Prosjektert kjellerplan — bakeoppskrift og anbudsgrunnlag
 
 ## Nye oppgaver
 
@@ -2122,7 +2126,7 @@ Samme dokumentasjon er relevant for framdriftsrapportering til tilskuddsgiverne 
 
 **Filstruktur — løst 24.09.2026.** `CLAUDE.md` beskrev en mappe `brann/` på rotnivå som ikke fantes. Beskrivelsen er rettet, og filtreet viser nå også undermappene i `bakgrunn/` som manglet. To mapper er opprettet: `leveranser/brann/` for det vi selv produserer, og `bakgrunn/brann/` for mottatt underlag. Elleve brannfiler er flyttet fra `bakgrunn/` til `bakgrunn/brann/`, og 28 referanser er oppdatert i `historikk.md`, `ARCHIVE.md`, `TASKS.md`, `CLAUDE.md`, `bakgrunn/2026-06-27_1980tall_rehabilitering.md` og `bakgrunn/brann/OVERSIKT.md`.
 
-**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/brann/` finnes. `bakgrunn/tbrt/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
+**Gjenstående ryddebehov (ikke gjort):** rundt 25 filer med TBRT-korrespondanse 2018–2026 — tilsynsrapporter, purringer, aksept av tiltaksplaner, vedtak — ligger fortsatt løst i `bakgrunn/` selv om `bakgrunn/brann/` finnes. `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/2018-09_tekøk_tiltaksplan_skjema.md` er brannrelatert, men ble ikke flyttet fordi den lå utenfor den avtalte flytten. Bør avklares som egen ryddeoppgave.
 
 **Kobling:** T147 (tvangsmulkt-saken mot TBRT), T152 (Kristians opprinnelige spørsmål om brannkonsept under oppussing — dekkes i sin helhet av denne oppgaven og kan lukkes når den er løst), T151 (kjellerarbeid — kjeller er ikke sprinklerdekket).
 
@@ -3856,7 +3860,7 @@ Enten (a) referer til denne tasken: *«Utfør T172 i TASKS.md. Les CLAUDE.md og 
 
 **Nivå 1 – rydding:**
 
-A. Opprett `bakgrunn/tbrt/` og flytt 22 TBRT/TekØk-filer 2018-01 til 2022-03: tilsynsrapporter, purringer, tiltaksplanakseptbrev, TekØk-skjema 2018-09, 2020-tiltaksplan status A/B, etterkontroll 2022-03.
+A. Opprett `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` og flytt 22 TBRT/TekØk-filer 2018-01 til 2022-03: tilsynsrapporter, purringer, tiltaksplanakseptbrev, TekØk-skjema 2018-09, 2020-tiltaksplan status A/B, etterkontroll 2022-03.
 B. Opprett `bakgrunn/eiendom/` og flytt 12 historiske eiendomsdokumenter 2013–2015: kommuneplanens arealdel, IK-kontroll Trondheim Båtforening, matrikkel-utskrifter, grunnbok, budskjema, akseptbrev, kjøpekontrakt, prospekt/salgsoppgave, situasjonskart, skattetakst.
 C. Omdøp `bakgrunn/fisjon/` → `bakgrunn/fisjon/` for å følge konvensjonen om dato bare i filnavn, ikke mappenavn.
 D. Flagg detritus-filer på rot (`notes.md` 0 B, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html`) til brukeren – disse er mistenkt dødt materiale, men rm-regelen krever eksplisitt tillatelse for sletting av filer AI ikke selv har opprettet. Flytting/sletting overlates til bruker.
@@ -3890,7 +3894,7 @@ G. `saker/kjeller-ra/OVERSIKT.md` – samler kjellerarbeid/Riksantikvar-dialog s
 
 Nivå 1 utført:
 
-- **A. Opprettet `bakgrunn/tbrt/`** og flyttet 22 filer (TBRT/TekØk-korrespondanse 2018-01 til 2022-03).
+- **A. Opprettet `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`** og flyttet 22 filer (TBRT/TekØk-korrespondanse 2018-01 til 2022-03).
 - **B. Opprettet `bakgrunn/eiendom/`** og flyttet 12 historiske eiendomsdokumenter 2013–2015.
 - **C. Omdøpt `bakgrunn/fisjon_2026-10-12/` → `bakgrunn/fisjon/`.**
 - **D. Flagget til bruker, ikke rørt:** `notes.md`, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html` på rot. rm-regelen krever eksplisitt sletting-tillatelse per fil.
@@ -3910,13 +3914,245 @@ Referanseoppdateringer (gjennomført via Python-script med eksplisitt lookup-tab
 
 Dokumentasjonsoppdateringer:
 
-- `docs/mappestruktur.md` oppdatert med `saker/`-mappen, `bakgrunn/tbrt/`, `bakgrunn/eiendom/`, `bakgrunn/fisjon/` (omdøpt). Note om "eldre TBRT-korrespondanse ligger løst" fjernet.
+- `docs/mappestruktur.md` oppdatert med `saker/`-mappen, `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`, `bakgrunn/eiendom/`, `bakgrunn/fisjon/` (omdøpt). Note om "eldre TBRT-korrespondanse ligger løst" fjernet.
 
 **Verifikasjon:** Grep på gamle paths bekrefter at ingen stale referanser gjenstår bortsett fra `bakgrunn/2022-12-13_tbrt_vedtak_tvangsmulkt.md` som bevisst ikke ble flyttet (hører til aktiv tvangsmulkt-sak, ikke historisk TBRT-syklus).
 
 **Berørte filer:**
 
-- Opprettet: `bakgrunn/tbrt/` (22 filer flyttet inn), `bakgrunn/eiendom/` (12 filer flyttet inn), `bakgrunn/fisjon/` (omdøpt fra `fisjon_2026-10-12/`), `saker/`, `saker/tvangsmulkt/OVERSIKT.md`, `saker/kjeller-ra/OVERSIKT.md`.
+- Opprettet: `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` (22 filer flyttet inn), `bakgrunn/eiendom/` (12 filer flyttet inn), `bakgrunn/fisjon/` (omdøpt fra `fisjon_2026-10-12/`), `saker/`, `saker/tvangsmulkt/OVERSIKT.md`, `saker/kjeller-ra/OVERSIKT.md`.
 - Endret: `historikk.md`, `TASKS.md`, `ARCHIVE.md`, `docs/mappestruktur.md`, 5 filer i `bakgrunn/fisjon/`.
 - Flagget til bruker: `notes.md`, `belvl_kap5_tmp.html`, `fvl_kap5_tmp.html`, `fvl28_tmp.html`.
+
+---
+
+### T185 `[x]` Generelt arkiveringsmønster for dokumenter (speilet av TASKS→ARCHIVE)
+
+**Bakgrunn:** T184 opprettet `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` for å flytte 2018–2022 TBRT-korrespondanse ut av `bakgrunn/`-roten. Men dette materialet er fortsatt brann-relatert, så top-level `tbrt/`-mappe er misvisende — den splitter brann-materiale på en inkonsistent måte (gamle TBRT i `tbrt/`, aktive TBRT i `brann/`). Grunnproblemet er mer generelt: over tid blir materiale i ethvert domene mer utdatert, og vi trenger en konsistent måte å skille levende fra lukket på — ikke en per-domene ad hoc-løsning.
+
+**Problemstillingen generelt:** To typer "gammelhet":
+
+- **Type 1 – Lukket sak / avsluttet serie.** Vedtaket er fattet, saken er forkastet, tilsagnet er utbetalt, tilsynssyklusen er avsluttet. Materialet er historisk og "ferdig". _Eksempler: TBRT-tilsynssyklusen 2018-2022, kontor-rammesøknaden 2023 (forkastet)._
+- **Type 2 – Permanent referanse som brukes sjelden.** Fortsatt gyldig, men daglig arbeid rører det ikke. _Eksempler: eiendomsmatrikkel, kjøpekontrakt 2015, lovtekster._
+
+TASKS→ARCHIVE-mønsteret dekker Type 1 for oppgaver. Dette mønsteret kan speiles for dokumenter. Type 2 arkiveres ikke — det blir værende i vanlig domenemappe.
+
+**Nytt mønster:**
+
+| | Oppgaver | Dokumenter |
+|---|---|---|
+| Aktive/levende | `TASKS.md` | `bakgrunn/<domene>/`, `leveranser/`, `saker/<sak>/` |
+| Lukket/arkivert | `ARCHIVE.md` | `bakgrunn/<domene>/arkiv/<sak_eller_serie>/`, `saker/arkiv/<sak>/` |
+| Trigger | Bruker ber eksplisitt | Bruker ber eksplisitt |
+| Søkeregel | Søk i begge | Søk i begge |
+
+**Handlinger:**
+
+A. Opprett `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` og flytt alle 22 filer fra `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` dit. Fjern den tomme `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`-mappen. Dette fjerner den misvisende top-level `tbrt`-mappen og samler alt brann-materiale under `bakgrunn/brann/`.
+B. Legg til ny arbeidsregel i `CLAUDE.md` "Arkivering av dokumenter", speilet av eksisterende "Arkivering av tasks"-regelen.
+C. Opprett `docs/arbeidsregler/arkivering.md` med utdyping: Type 1 vs. Type 2, hvordan triggere, konkrete eksempler.
+D. Oppdater `docs/mappestruktur.md` med arkiv-mønsteret.
+E. Oppdater referanser i `historikk.md`, `TASKS.md` (inkl. T184-løsningsnotatet), `ARCHIVE.md` og `saker/tvangsmulkt/OVERSIKT.md`.
+F. Flagg i løsningsnotatet andre kandidater for arkivering (kontor-rammesøknad 2023 forkastet, utbetalte tilsagn, osv.) — men arkiver dem ikke uten eksplisitt tillatelse per sak.
+
+**Hva som IKKE gjøres:**
+
+- Ingen arkivering av eiendom 2013-2015 (Type 2 – permanent referanse)
+- Ingen arkivering av lovkilder (Type 2)
+- Ingen arkivering av lukkede saker uten eksplisitt bruker-beslutning per sak (f.eks. kontor-rammesøknad 2023)
+
+**Berørte filer:** 22 filer flyttes, 1 ny arbeidsregel-fil opprettes, 5–6 filer får oppdaterte interne pekere, CLAUDE.md får ny regel.
+
+**Estimat:** ~20 min.
+
+**Løsningsnotat (14.10.2026):**
+
+- **A. Opprettet `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`** og flyttet alle 22 filer fra `bakgrunn/tbrt/` dit. Fjernet den tomme `bakgrunn/tbrt/`-mappen. All brann-materie er nå samlet under `bakgrunn/brann/`.
+- **B. Ny arbeidsregel i `CLAUDE.md`** "Arkivering av dokumenter" lagt til rett etter "Arkivering av tasks"-regelen. Speilet mønster med samme eksplisitt-tillatelse-krav.
+- **C. Ny fil `docs/arbeidsregler/arkivering.md`** med utdyping av Type 1 (lukket sak/avsluttet serie — arkiveres) vs. Type 2 (permanent referanse — arkiveres aldri), navnekonvensjon og konkrete regler.
+- **D. `docs/mappestruktur.md` oppdatert:** `bakgrunn/tbrt/` fjernet fra tre-diagrammet, `brann/arkiv/` lagt til som undermappe, nytt prinsipp om `<domene>/arkiv/<sak>/`-mønsteret lagt til.
+- **E. Referanser oppdatert via Python-script (22 erstatninger på tvers av 4 filer):**
+  - `historikk.md`: 8 fotnoter oppdatert
+  - `TASKS.md`: 8 referanser oppdatert (inkl. T184-løsningsnotatet)
+  - `saker/tvangsmulkt/OVERSIKT.md`: 5 referanser oppdatert (TBRT 2018-2022-serien pekes nå til arkivet)
+  - `docs/mappestruktur.md`: 1 referanse i branndokumentasjon-forklaringen
+- **F. Verifikasjon:** Grep på `bakgrunn/tbrt` returnerer ingen treff. Mappen er fjernet, alle referanser er oppdatert.
+
+**Andre kandidater for arkivering (ikke utført — krever eksplisitt tillatelse per sak):**
+
+- **Kontor-rammesøknad 2023** (forkastet 30.12.2025). ~11 filer i `bakgrunn/`-rot + brannkonsept i `bakgrunn/brann/`. Kandidat for `saker/arkiv/kontor_rammesoknad_2023/` eller `bakgrunn/brann/arkiv/kontor_rammesoknad_2023/`.
+- **Utbetalte tilsagn** når hele saken er avsluttet (f.eks. KMF prosjektnr 240126 etter utbetaling + sluttrapport). Pt. ingen tilsagn fullt avsluttet.
+- **HRP-Intrum-saken** (avsluttet 15.09.2026). ~10 filer kan arkiveres til `bakgrunn/arkiv/hrp_intrum_2026/` eller tilsvarende når brukeren bekrefter saken er endelig lukket.
+
+**Berørte filer:**
+
+- Opprettet: `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/` (22 filer flyttet inn), `docs/arbeidsregler/arkivering.md`.
+- Fjernet: `bakgrunn/tbrt/` (tom mappe).
+- Endret: `CLAUDE.md` (ny arbeidsregel), `docs/mappestruktur.md`, `historikk.md`, `TASKS.md`, `saker/tvangsmulkt/OVERSIKT.md`.
+
+---
+
+### T186 `[x]` Definer prosjekt-skills for 5 topp-kandidater
+
+**Bakgrunn:** Kartlegging av gjentatte workflows i TASKS/ARCHIVE identifiserte 5 topp-kandidater for skill-definisjon: `framdriftsrapport`, `last-ned-paragraf`, `pdf-til-md`, `motereferat`, `arkiver-sak`. Alle fem er høyfrekvente mønstre, har etablert "riktig måte" i CLAUDE.md eller docs/, og minst to av dem (`last-ned-paragraf`, `pdf-til-md`) har historisk vært kilde til faktiske feil når Claude improviserer.
+
+**Formål:** Fange prosjektets gjentatte prosedyrer som invokerbare skills, slik at ny Claude-sesjon slipper å gjenoppdage mønsteret og risikere kjente feil.
+
+**Handlinger:**
+
+A. Opprett `.claude/skills/<navn>/SKILL.md` for hver av de 5 topp-kandidatene.
+B. Hver skill-fil har YAML-frontmatter (name, description) + markdown-body med: når skill-en skal brukes, trinn-for-trinn prosedyre, maler/referanser, kjente feil å unngå, og pekere til relevante regler i CLAUDE.md.
+C. Opprett `.claude/skills/README.md` som indeks over de 5 skills.
+D. Legg til peker i CLAUDE.md under "Pekere til utdypende dokumentasjon" slik at prosjekt-skills er oppdagbare.
+
+**Hva som IKKE gjøres:**
+
+- Ingen mellom-kandidat eller lavere-prioritet skills defineres nå (arbeidsavtale, verifiser-sitater, opprett-sak-indeks, rolle-review, aggreger-arbeidsokter, bildegrid, enova-soknad, osv.). Disse kan legges til senere når behovet gjentas.
+- Ingen aktiv uttesting av skill-trigger via `/<navn>` i denne tasken — det krever ny sesjon.
+
+**Berørte filer:** 5 nye SKILL.md + 1 README.md i `.claude/skills/`, 1 referanse-oppdatering i CLAUDE.md.
+
+**Estimat:** ~30 min.
+
+**Løsningsnotat (14.10.2026):**
+
+Opprettet 5 skills under `.claude/skills/`:
+
+- `.claude/skills/framdriftsrapport/SKILL.md` – framdrift/utbetaling/endring til tilskuddsgiver med vilkårsavhengig tilpasning per giver (KMF kulturminnefaglig, BYA steinmur, UNI revisor, Enova HRP-rapport, SkatteFunn FoU)
+- `.claude/skills/last-ned-paragraf/SKILL.md` – curl mot Lovdata + HTML-parsing + metadata-header. Eksplisitt forbud mot WebFetch og peker til audit-historikk (T157–T160) som avdekket parafrase-problemer
+- `.claude/skills/pdf-til-md/SKILL.md` – pdftotext -layout + dato-prefix + `kilde:`-metadata. Dekker alle undermapper i `bakgrunn/` og forklarer når domene-mappe/arkiv/stotte brukes
+- `.claude/skills/motereferat/SKILL.md` – WhisperX-pipeline + SPEAKER-identifisering + `data/team.json`-oppslag + etablert referatformat
+- `.claude/skills/arkiver-sak/SKILL.md` – Type 1 vs Type 2-vurdering + Python-script-mal for referanseoppdatering. Peker til `docs/arbeidsregler/arkivering.md`
+
+Hver SKILL.md har:
+
+- YAML-frontmatter med `name` og `description` (brukes av Claude Code for discovery)
+- Når skill-en skal brukes (triggere)
+- Trinn-for-trinn prosedyre
+- Hvilke CLAUDE.md-regler som gjelder underveis
+- Historisk referanse til T-tasks som har brukt mønsteret
+- Kjente feil å unngå
+
+Opprettet også `.claude/skills/README.md` som indekserer de 5 skills og lister kandidater som er identifisert men ikke definert ennå (arbeidsavtale, verifiser-sitater, opprett-sak-indeks, rolle-review, aggreger-arbeidsokter, bildegrid, konverter-md).
+
+La til peker i `CLAUDE.md` under "Pekere til utdypende dokumentasjon".
+
+**Testing:** Skills kan ikke testes med `/<navn>`-invokasjon fra denne sesjonen fordi skill-registeret leses ved sesjonstart. Ny Claude Code-sesjon vil se dem og tilby invokasjon.
+
+**Berørte filer:**
+
+- Opprettet: `.claude/skills/framdriftsrapport/SKILL.md`, `.claude/skills/last-ned-paragraf/SKILL.md`, `.claude/skills/pdf-til-md/SKILL.md`, `.claude/skills/motereferat/SKILL.md`, `.claude/skills/arkiver-sak/SKILL.md`, `.claude/skills/README.md`
+- Endret: `CLAUDE.md` (peker lagt til under "Pekere til utdypende dokumentasjon")
+
+---
+
+### T187 `[x]` Håndtegnet skisse → semantisk SVG (Fjordgata 30, kjeller)
+
+**Mål:** Konverter håndtegnede sivilingeniørskisser i `bakgrunn/kjeller/2024-04-26_skisser_hl/` til redigerbare SVG-filer slik at de kan bearbeides videre som tekniske tegninger i Inkscape, Illustrator eller CAD med SVG-støtte.
+
+**Riktig fremgangsmåte (fastslått etter en lang omvei — se læringsnotat under):**
+
+Les PNG-en direkte (vision), forstå hva skissen semantisk representerer (ramme, tittelfelt, snittgeometri, mål, tekstetiketter), og skriv SVG manuelt med geometriske primitiver (`<rect>`, `<line>`, `<path>`, `<text>`) gruppert i semantiske `<g id="...">`-lag. Ingen tracing. Ingen scripts. Ingen pipeline. Ingen eksterne verktøy.
+
+Resultatet er en liten (~5–10 KB) SVG der hvert objekt er det det representerer, slik at brukeren kan åpne i Inkscape og flytte/endre/slette enkeltelementer uten å kjempe mot tusenvis av path-noder.
+
+**Antakelser som typisk må gjøres (og dokumenteres i `<desc>` i SVG-en):**
+
+- Horisontale og vertikale linjer rettes opp (skanning er alltid litt skjev; håndtegning aldri perfekt).
+- Firkanter/rektangler, mållinjer, piler og rammer forenkles til geometriske objekter.
+- Håndskrevet og maskinskrevet tekst transkriberes til `<text>`-elementer, med Arial/sans-serif som skrifttype.
+- Målestokk er ikke verifisert — SVG-en er ikke en målfast arbeidstegning, bare en redigerbar vektorrepresentasjon.
+- Usikre ord/figurer flagges som tolkninger i `<desc>`.
+
+**Berørte filer (side 1 ferdig):**
+
+- Opprettet: `bakgrunn/kjeller/2024-04-26_skisser_hl/side-1.svg` (6.3 KB, semantisk)
+- Preview: `bakgrunn/kjeller/2024-04-26_skisser_hl/side-1-preview.png` (visuell verifisering)
+
+**Status for side 2–4:** Ikke konvertert. Hver side bør få samme behandling: les PNG, forstå layout, skriv SVG direkte.
+
+---
+
+**Læringsnotat — slik gjør vi IKKE denne typen oppgaver (21.10.2026):**
+
+Denne tasken ble først behandlet som "finn et vektoriseringsverktøy og tune det". Resultatet var to Python-scripts (`scripts/trace_image_to_svg.py`, `scripts/trace_image_to_svg_v2.py`), diskusjoner om Potrace vs VTracer vs Inkscape CLI, installasjonsrunder med Chocolatey/winget, debugging av `potracer`-pakkens quirks, hardkodede tekstoverlegg som overlappet med traced versjoner, og en 131 KB SVG som var en pikselperfekt kopi av håndskjelvingen — ikke en teknisk tegning.
+
+ChatGPT fikk samme PNG og én prompt ("lag SVG, gjør linjer rette, tekst som tekst, forenkle objekter, skriv oppsummering av antakelser") og leverte 4.2 KB semantisk SVG uten spørsmål, uten verktøyvalg, uten pipeline.
+
+**Hovedfeil og hvordan de kjennes igjen:**
+
+1. **Forhåndsvalgt ramme uten å teste premisset.** "PNG → SVG" trigget umiddelbart "finn et rastertracer-verktøy". Rett tilnærming var å spørre: *hva skal SVG-en brukes til?* Svaret ("redigerbar som teknisk tegning") ekskluderer tracing fullstendig.
+
+2. **For mange avklaringsspørsmål som flyttet ansvar.** Hver gang jeg stoppet for å spørre om verktøy/bruksområde, flyttet jeg ekspertvurderingen tilbake til brukeren. Brukeren var tydelig flere ganger ("bare gjør det", "jeg har ikke behov for en komplett løsning") — jeg hørte det ikke.
+
+3. **Framstilte semantisk rekonstruksjon som umulig.** Sa "flere ukers ML-engineering" om noe jeg bokstavelig talt kan gjøre selv (lese bildet + skrive SVG direkte). Det var en projeksjon av mitt valgte verktøys begrensninger, ikke oppgavens kompleksitet.
+
+4. **Over-engineerte deliverable som one-shot.** Opprettet script, PEP 723-deps, tasks, delvis repository-strukturarbeid for noe som skulle vært én fil skrevet én gang. For en one-shot artefakt er `Write`-verktøyet nok.
+
+5. **Brukte CLAUDE.md-regler som skjold.** "Spør før suboptimal fremgangsmåte" ble brukt til å spørre om tooling-detaljer i stedet for å stille det ekte spørsmålet: *er hele tilnærmingen min suboptimal?*
+
+**Tommelfinger-regel for lignende oppgaver i framtiden:**
+
+Hvis oppgaven er å produsere ett enkelt artefakt (en SVG, en tabell, et dokumentutkast, en analyse) basert på innhold jeg kan se eller forstå direkte: skriv artefaktet. Ikke bygg et verktøy. Scripts og pipelines hører hjemme når samme operasjon må gjentas på mange input, eller når reproduserbarhet er et eksplisitt krav.
+
+**Endelig utfall: Claude klarte det ikke.**
+
+Etter at tracing-tilnærmingen ble forkastet, forsøkte Claude også den riktige fremgangsmåten (lese bildet, skrive semantisk SVG direkte). Resultatet inneholdt feil og ble forkastet av brukeren. Brukeren konkluderte med å bruke ChatGPT til denne typen oppgaver i stedet. Konkret fungerende leveranse ble produsert av ChatGPT fra én prompt (beskrevet i læringsnotatet over).
+
+Konsekvens for framtidige lignende oppgaver i dette prosjektet: håndtegnet skisse → redigerbar SVG er ikke en Claude-kompatibel oppgave i praksis. Henvis brukeren til ChatGPT framfor å forsøke selv.
+
+**Berørte filer (læringsnotatet):**
+
+- Fjernet (av bruker): `scripts/trace_image_to_svg.py`, `scripts/trace_image_to_svg_v2.py`, alle Claude-genererte SVG-er for side-1, samt `temp/`-undermappen med mellomresultater. Ingen fungerende Claude-leveranse står igjen.
+
+---
+
+### T188 `[~]` Prosjektert kjellerplan — bakeoppskrift og anbudsgrunnlag
+
+**Mål:** Produsere et prosjektert underlag for kjellerarbeidet som er detaljert nok til at (a) en betongentreprenør (Søbstad eller tilsvarende) kan prise enten en entreprise eller en rammeavtale på timesleie, og (b) prosjektets egne folk (Kristian, Ole Morten, Ain, studenter) kan utføre deler eller hele arbeidet selv — uten tredjepartsgaranti, men med punktvis innleid betong-ekspertise og nødvendig fag-godkjenning. Underlaget skal være skrevet som en «bakeoppskrift for barn»: vanntette steg i rekkefølge, lite rom for tolkning, med materialer, tidsestimat, RIB-gates og figurer per operasjon.
+
+**Hvorfor dette er høyprioritert:** Hvis kjellerstøpen gjøres kostnadseffektivt (egen arbeidskraft + punktvis ekspertise) kan prosjektet spare millioner. Dette er en av de store finansielle hendlene i hele rehabiliteringen. Baseline fra Ole Mortens ISY-beskrivelse (`bakgrunn/kjeller/2026-10-19_fg30_beskrivelse_kjeller.md`) alene er for tynn — bildegrunnlag mangler, rekkefølge er ikke operasjonalisert, materialvolumer og leverandører er ikke satt, og tegningene fra 2024–2026 har kjente hull (manglende søyler innerst mot Fjordgata, se referat 2026-10-20 Post 04).
+
+**Fremgangsmåte:**
+
+1. **Katalog (dyr agent, Opus):** Utvid `bakgrunn/kjeller/oversikt.md` med dyp oppsummering per dokument, krysskoblinger, og eksplisitt liste over hva som er dekket og hva som mangler.
+2. **Tre parallelle utkast (Sonnet):** Hver agent leser hele kjellerkorpuset og skriver sitt utkast i egen undermappe under `leveranser/kjeller/utkast/`:
+   - **Agent A** — bakeoppskrift for amatører: svært enkel steg-for-steg der ikke-betongfolk kan følge planen.
+   - **Agent B** — entreprenør-/anbudsperspektiv: kvalitetssikring av eksisterende ISY-beskrivelse, prising, timesleie-modell.
+   - **Agent C** — RIB-gating, risiko, materialflyt: rekkefølge, signaturer, betongbestilling, steinhåndtering, bjelkegjenbruk.
+3. **Syntese (dyr agent, Opus):** Finner gjengangere, legger til egne forslag, identifiserer gap i info/tegninger. Produserer `leveranser/kjeller/plan_v01.md` med figur-placeholders (eksakt beskrivelse av hver tegning som trengs, uten å prøve å produsere dem — jf. T187-læringen).
+4. **Brukergjennomgang.** Deretter besluttes neste iterasjon (måling av søyler onsdag 21.10, RIB-gating, lettvekts BYA-versjon jf. referat 2026-10-20 Post 03).
+
+**Avgrensning:** Første utkast skal ikke selv forsøke å produsere nye arbeidstegninger som SVG/CAD — dette er flagget i T187 som ikke-Claude-kompatibelt. Planen skal i stedet gi presise tekstbeskrivelser av hver tegning som trengs (ovenfra, langsiden, kortsiden, snitt), som brukeren eller ChatGPT kan realisere.
+
+**Status etter iterasjon 1 (2026-10-21):** Trinn 1–3 utført som planlagt. Fire parallelle agent-kjøringer:
+- Katalog (Opus) oppgraderte `bakgrunn/kjeller/oversikt.md` fra 43 → 337 linjer, med tematisk sammenstilling, konkret tall-/materialtabell og eksplisitt hull-liste. Avdekket særlig at ISY-beskrivelsen har en intern motsetning om fundamentdimensjon (post 05.1 sier 200×200×40 cm; post 05.29 sier 3000×3000 mm) som må lukkes før F6 kan prises eller støpes.
+- Utkast A — bakeoppskrift (Sonnet): 9 faser, 10 figurer, 5 `[KREVER PROFF]`-punkter. Flagget at arkeolog-dispensasjon § 8 blokkerer F4–F8.
+- Utkast B — anbud/entreprenør (Sonnet): 11 seksjoner, 12 QA-funn i ISY-beskrivelsen (hele innbydelsen ufylt, armeringsposter med feil enhet m² i stedet for kg, osv.), bekreftet B45 MF40 Cl 0,10 XS3 som standard for grunnvannseksponert betong.
+- Utkast C — RIB/risiko (Sonnet): 8 RIB-gates + 3 myndighetsgates, 17 risikoer, 7 figurer. Pekte på at ansvarlig utfører (SB) for betongarbeider blokkerer F6 og forsikringsdekning.
+- Syntese (Opus) produserte `leveranser/kjeller/plan_v01.md`: 1611 linjer, 113 KB, 13 faser, 24 risikoer, 22 figur-placeholders samlet, 28 `[KREVER PROFF]`-markeringer, 34 `[TBD: ...]`-markeringer. Introduserte Modell C (hybrid entreprise/timesleie) som eksplisitt alternativ, egen F12 for sluttdokumentasjon (KMF/Enova/byggesak), og grensesnitt-tabell plan ↔ ISY som gjør alle 12 QA-funnene operative.
+
+**Iterasjon 2 (2026-10-21, rolle-reviews):** Seks parallelle Sonnet-agenter spilte rollene Ain (utfører), Kristian (koordinator), Ole Morten (PGL/HRP), Adnan (arkitekt HRP), Ole Stenmo (RIB) og Søbstad (betongentreprenør). Lagret i `leveranser/kjeller/review_v01/`. Score-oversikt: Søbstad 3/10 prisbart (7/10 interesse), Ain 4/10, Kristian 5/10, Adnan 5/10, Ole Stenmo 6/10, Ole Morten 7/10. Gjengangere: armeringstegninger er den enkelt viktigste flaskehalsen (5 av 6 roller), fundamentdimensjon-motsetningen ble lukket uavhengig av Stenmo og Ole Morten (200×200×40 cm korrekt — ISY post 05.29 rettes til 2000×2000 mm, XPS-mengde ned fra ~225 til ~100 m²), Modell B ikke signerbar for F6–F9 slik planen stod, byggesak-sporet var misforstått (PRO ikke besatt, UK ikke nevnt, IG = tre separate løp).
+
+**Iterasjon 3 (2026-10-21, plan_v02):** Opus-syntese produserte `leveranser/kjeller/plan_v02.md` (2401 linjer, 161 KB) som konsoliderer alle seks reviewene via sporbarhetsmatrise (~125 enkeltpunkter: ~118 innarbeidet, 7 avventer, 0 avvist). Tre strukturelle endringer: (1) Modell B/C re-tegnet per fase med utførelses-gates UG-1 til UG-6, F6–F9 låst til Modell A/C med SB-godkjent fysisk tilstede; (2) byggesak splittet i tre løp (IG betong, § 8 Riksantikvar, NVE/Statsforvalter/havn) med PRO-ansvarsmatrise og UK-krav etter SAK10 § 14-2; (3) Pre-F6 som egen fase for RIB-tegning → geotekniker-bekreftelse av φ, γ → entreprenør-pris → signering, med katodisk prosjektering flyttet fra F11 til F7.0.
+
+**Neste skritt (venter på byggherrevurdering av v02):**
+- Send formell bestilling av RIB-armeringstegninger (flaskehals som 5 av 6 roller flagget)
+- Beslutt modellvalg A/B/C for F6–F9 i november 2026 (forskalingstekniker-/betongbas-markedet er stramt)
+- Åpne IG-sporet nå — sjekk PRO-ansvarsretter + UK-krav med kommunen før rammetillatelsen innvilges
+- Starte § 8-dispensasjonssøknad (kritisk sti)
+- Oppdatere plan med søyleoppmåling fra Ole Morten (21.10)
+- Vurdere lettvekts BYA-versjon av planen (referat 2026-10-20 Post 03)
+
+**Berørte filer:**
+
+- Opprettet: `leveranser/kjeller/plan_v01.md`, `leveranser/kjeller/plan_v02.md`, `leveranser/kjeller/utkast/agent-A/plan.md`, `leveranser/kjeller/utkast/agent-B/plan.md`, `leveranser/kjeller/utkast/agent-C/plan.md`, `leveranser/kjeller/review_v01/{ain,kristian,ole_morten,adnan,ole_stenmo,sobstad}.md`
+- Endret: `bakgrunn/kjeller/oversikt.md` (fra 43 til 337 linjer)
+
+**Kobling:**
+
+- Operasjonaliserer referat 2026-10-20 Post 01 (bearbeide Ole Mortens utkast til prosjektert underlag).
+- Henger sammen med T143 (arbeidsavgrensning mot Riksantikvaren), T151 (RIB-avklaring demontering), T153 (dispensasjon kulturminneloven § 8), T154 (RA-befaring i kjeller).
+
+
 

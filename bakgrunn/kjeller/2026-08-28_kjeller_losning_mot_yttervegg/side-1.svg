@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 1012" width="1480" height="1012">
+<title>Snitt med ny støpt betongvegg og nytt betonggulv</title>
+<desc>Renskrevet, redigerbar SVG av håndpåtegnet konstruksjonssnitt.</desc>
+<defs>
+<style><![CDATA[
+.bg{fill:#ececec;stroke:none}
+.base{stroke:#1f1f1f;stroke-width:1.3;fill:none}
+.heavy{stroke:#1e1e1e;stroke-width:2;fill:none}
+.light{stroke:#707070;stroke-width:1;fill:none}
+.stone{fill:#efefef;stroke:#444;stroke-width:1}
+.log{fill:#ededed;stroke:#444;stroke-width:1.2}
+.wood{fill:#f3f3f3;stroke:#2f2f2f;stroke-width:1.2}
+.red{stroke:#ef3d23;stroke-width:1.7;fill:none}
+.redHeavy{stroke:#e63b22;stroke-width:2.3;fill:none}
+.dim{stroke:#444;stroke-width:1;fill:none}
+.note{font:14px Arial,sans-serif;fill:#222}
+.note2{font:13px Arial,sans-serif;fill:#222}
+.redtext{font:19px Arial,sans-serif;fill:#ef3d23}
+.redsmall{font:18px Arial,sans-serif;fill:#ef3d23}
+.dimtext{font:12px Arial,sans-serif;fill:#222}
+]]></style>
+</defs>
+<rect class="bg" x="0" y="0" width="1480" height="1012"/>
+
+<g id="grunnsnitt">
+<path class="base" d="M 132 532 L 132 352 L 185 352 L 185 530 L 368 530 L 368 827 L 132 827 Z" />
+<rect class="stone" x="132" y="602" width="62" height="34" rx="12" ry="12"/>
+<rect class="stone" x="194" y="602" width="47" height="34" rx="12" ry="12"/>
+<rect class="stone" x="241" y="602" width="35" height="34" rx="12" ry="12"/>
+<rect class="stone" x="276" y="602" width="92" height="34" rx="12" ry="12"/>
+<rect class="stone" x="132" y="636" width="53" height="40" rx="12" ry="12"/>
+<rect class="stone" x="185" y="636" width="61" height="40" rx="12" ry="12"/>
+<rect class="stone" x="246" y="636" width="52" height="40" rx="12" ry="12"/>
+<rect class="stone" x="298" y="636" width="70" height="40" rx="12" ry="12"/>
+<rect class="stone" x="132" y="676" width="42" height="45" rx="12" ry="12"/>
+<rect class="stone" x="174" y="676" width="86" height="45" rx="12" ry="12"/>
+<rect class="stone" x="260" y="676" width="50" height="45" rx="12" ry="12"/>
+<rect class="stone" x="310" y="676" width="58" height="45" rx="12" ry="12"/>
+<rect class="stone" x="132" y="721" width="36" height="34" rx="12" ry="12"/>
+<rect class="stone" x="168" y="721" width="72" height="34" rx="12" ry="12"/>
+<rect class="stone" x="240" y="721" width="58" height="34" rx="12" ry="12"/>
+<rect class="stone" x="298" y="721" width="70" height="34" rx="12" ry="12"/>
+<rect class="stone" x="132" y="755" width="42" height="70" rx="12" ry="12"/>
+<rect class="stone" x="174" y="755" width="83" height="70" rx="12" ry="12"/>
+<rect class="stone" x="257" y="755" width="111" height="70" rx="12" ry="12"/>
+<path class="light" d="M 132 827 L 132 814 L 146 804 L 159 793" />
+<circle class="log" cx="157" cy="372" r="23" />
+<circle class="light" cx="157" cy="372" r="5" />
+<circle class="light" cx="157" cy="372" r="9" />
+<circle class="light" cx="157" cy="372" r="13" />
+<circle class="light" cx="157" cy="372" r="17" />
+<circle class="log" cx="157" cy="420" r="23" />
+<circle class="light" cx="157" cy="420" r="5" />
+<circle class="light" cx="157" cy="420" r="9" />
+<circle class="light" cx="157" cy="420" r="13" />
+<circle class="light" cx="157" cy="420" r="17" />
+<circle class="log" cx="157" cy="469" r="23" />
+<circle class="light" cx="157" cy="469" r="5" />
+<circle class="light" cx="157" cy="469" r="9" />
+<circle class="light" cx="157" cy="469" r="13" />
+<circle class="light" cx="157" cy="469" r="17" />
+<circle class="log" cx="157" cy="517" r="23" />
+<circle class="light" cx="157" cy="517" r="5" />
+<circle class="light" cx="157" cy="517" r="9" />
+<circle class="light" cx="157" cy="517" r="13" />
+<circle class="light" cx="157" cy="517" r="17" />
+<circle class="log" cx="338" cy="571" r="18" />
+<circle class="light" cx="338" cy="571" r="4" />
+<circle class="light" cx="338" cy="571" r="8" />
+<circle class="light" cx="338" cy="571" r="12" />
+<rect class="wood" x="132" y="531" width="422" height="22" />
+<rect class="wood" x="132" y="553" width="422" height="38" />
+<rect class="wood" x="252" y="591" width="302" height="45" />
+<rect class="wood" x="146" y="518" width="42" height="13" />
+<rect class="wood" x="188" y="518" width="35" height="13" />
+<rect class="wood" x="223" y="518" width="33" height="13" />
+<rect class="wood" x="256" y="518" width="50" height="13" />
+<rect class="wood" x="306" y="518" width="43" height="13" />
+<rect class="wood" x="349" y="518" width="43" height="13" />
+<rect class="wood" x="392" y="518" width="35" height="13" />
+<circle class="log" cx="527" cy="571" r="20" />
+<circle class="light" cx="527" cy="571" r="4" />
+<circle class="light" cx="527" cy="571" r="8" />
+<circle class="light" cx="527" cy="571" r="12" />
+<circle class="light" cx="527" cy="571" r="16" />
+<path class="base" d="M 554 531 Q 548 536 554 542 Q 548 548 554 553" />
+<path class="base" d="M 554 553 Q 548 560 554 566 Q 548 575 554 591" />
+<path class="base" d="M 554 591 Q 548 596 554 603 Q 548 616 554 636" />
+<line class="light" x1="258" y1="541" x2="548" y2="541" stroke-opacity="0.45"/>
+<line class="light" x1="258" y1="563" x2="548" y2="563" stroke-opacity="0.45"/>
+<line class="light" x1="258" y1="582" x2="548" y2="582" stroke-opacity="0.45"/>
+<line class="light" x1="258" y1="603" x2="548" y2="603" stroke-opacity="0.45"/>
+<line class="light" x1="258" y1="622" x2="548" y2="622" stroke-opacity="0.45"/>
+<line class="light" x1="144" y1="522" x2="431" y2="522" stroke-opacity="0.3"/>
+<line class="light" x1="144" y1="525" x2="431" y2="525" stroke-opacity="0.3"/>
+<line class="light" x1="144" y1="528" x2="431" y2="528" stroke-opacity="0.3"/>
+<line class="light" x1="198" y1="401" x2="231" y2="401" />
+<text class="note2" x="241" y="403">LAF TET VEGG</text>
+<text class="note2" x="241" y="420">TYKKELSE 160 mm</text>
+<line class="light" x1="456" y1="447" x2="488" y2="420" />
+<line class="light" x1="488" y1="420" x2="522" y2="420" />
+<text class="note" x="529" y="424">GULVBORD AV HELTRE</text>
+<text class="note" x="529" y="442">TYKKELSE 40 mm</text>
+<line class="light" x1="455" y1="514" x2="498" y2="465" />
+<line class="light" x1="498" y1="465" x2="523" y2="465" />
+<text class="note" x="529" y="470">GULV AV HELTRE</text>
+<text class="note" x="529" y="488">TYKKELSE 80 mm</text>
+<line class="light" x1="554" y1="576" x2="603" y2="559" />
+<text class="note2" x="618" y="568">BJELKELAG AV TØMMER</text>
+<text class="note2" x="618" y="585">TYKKELSE 150 mm</text>
+<line class="light" x1="456" y1="625" x2="514" y2="678" />
+<line class="light" x1="514" y1="678" x2="541" y2="678" />
+<text class="note2" x="543" y="682">BÆREBJELKE</text>
+<text class="note2" x="543" y="700">Ø = 400 mm</text>
+<line class="light" x1="351" y1="760" x2="378" y2="760" />
+<text class="note2" x="411" y="767">NATURSTEINSMUR</text>
+<line class="dim" x1="130" y1="860" x2="370" y2="860" />
+<line class="dim" x1="132" y1="838" x2="132" y2="867" />
+<line class="dim" x1="368" y1="838" x2="368" y2="867" />
+<path class="dim" d="M 132 860 l 8 -5 M 132 860 l 8 5" />
+<path class="dim" d="M 368 860 l -8 -5 M 368 860 l -8 5" />
+<text class="dimtext" x="250" y="855" text-anchor="middle">800</text>
+<text class="dimtext" x="248" y="879" text-anchor="middle">NATURSTEINSMUR</text>
+</g>
+<g id="rod-pategning">
+<rect class="red" x="382" y="74" width="45" height="748" />
+<rect class="red" x="382" y="825" width="968" height="87" />
+<text class="redtext" x="459" y="152">Ny støpt betongvegg. Går helt opp til etasjeskille til 1.etg.</text>
+<text class="redtext" x="886" y="873" text-anchor="middle">Nytt betonggulv</text>
+<text class="redsmall" x="108" y="176">Her blir det en</text>
+<text class="redsmall" x="108" y="209">"vektergang" som</text>
+<text class="redsmall" x="108" y="242">kan</text>
+<text class="redsmall" x="108" y="275">benyttes til</text>
+<text class="redsmall" x="108" y="308">tekniske føringer</text>
+<line class="redHeavy" x1="203" y1="270" x2="228" y2="496" />
+<path class="redHeavy" d="M 203 457 L 228 496 L 250 451" />
+<path class="redHeavy" d="M 204 457 L 248 497" />
+<line class="red" x1="316" y1="491" x2="363" y2="516" />
+<line class="red" x1="363" y1="516" x2="363" y2="489" />
+<text class="redsmall" x="263" y="470">Gamle bjelker</text>
+<text class="redsmall" x="263" y="492">kappes her</text>
+</g>
+</svg>

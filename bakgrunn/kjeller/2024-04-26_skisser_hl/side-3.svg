@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1753" viewBox="0 0 1240 1753">
+<title>Snitt bunnplate / skjøt – renskrevet teknisk skisse</title>
+<desc>Renskrevet fra håndskisse. Diagrammet er skjematisk og ikke målfast. Alle tekster og konstruksjonselementer er redigerbare.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto-start-reverse"><path d="M0 0 L9 4.5 L0 9Z" fill="#202020"/></marker></defs>
+<rect width="1240" height="1753" fill="white"/>
+<g id="ramme" fill="none" stroke="#262626" stroke-width="1.5">
+<rect x="54" y="56" width="1127" height="1643"/>
+<path d="M54 125 H1181 M54 160 H1181 M54 196 H1181"/>
+</g>
+<g id="tittelfelt" font-family="Arial, Helvetica, sans-serif" fill="#111">
+<text x="618" y="92" font-size="26" text-anchor="middle">Sivilingeniørene Harboe og Leganger AS</text>
+<text x="618" y="112" font-size="13" text-anchor="middle">Telefon: 73 99 28 30     firmapost@h-l.no</text>
+<text x="71" y="153" font-size="18">Prosjekt:</text><text x="169" y="153" font-size="23">FJORDGÅRD 30</text>
+<text x="598" y="153" font-size="18">Tegning:</text><text x="685" y="153" font-size="23">SNITT BUNNPLATE / SKJØT</text>
+<text x="71" y="187" font-size="18">Dato:</text><text x="132" y="187" font-size="22">24/4-26</text>
+<text x="326" y="187" font-size="18">Mål:</text><text x="406" y="187" font-size="22">1:10</text>
+<text x="596" y="187" font-size="18">Sign:</text><text x="689" y="187" font-size="22">OAS</text>
+</g>
+<g id="bunnplate-og-skjot" stroke="#222" fill="none" stroke-width="2.6" stroke-linecap="square">
+<path d="M55 693 H1180"/><path d="M55 951 H1180"/>
+<path d="M585 693 V951" stroke-width="4"/>
+</g>
+<g id="glidedybel" stroke="#222" fill="none">
+<rect x="402" y="742" width="360" height="22" stroke-width="2.5"/>
+<path d="M410 747 H755 M410 758 H755" stroke="#777" stroke-width="1"/>
+</g>
+<g id="gummiband" stroke="#222" fill="none">
+<path d="M409 861 L585 882 L762 861" stroke-width="5" stroke-linejoin="round"/>
+<rect x="442" y="848" width="14" height="12" fill="#222"/>
+<rect x="509" y="855" width="16" height="12" fill="#222"/>
+<rect x="577" y="868" width="16" height="12" fill="#222"/>
+<rect x="651" y="853" width="15" height="12" fill="#222"/>
+<rect x="718" y="844" width="15" height="12" fill="#222"/>
+</g>
+<g id="duk" stroke="#222" stroke-width="3" fill="none"><path d="M280 953 H872"/></g>
+<g id="henvisninger" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#222" stroke="#222" stroke-width="2.3">
+<path d="M817 574 Q737 613 674 730" fill="none" marker-end="url(#arrow)"/>
+<path d="M817 791 L762 835" fill="none" marker-end="url(#arrow)"/>
+<path d="M743 1022 L720 970" fill="none" marker-end="url(#arrow)"/>
+</g>
+<g id="tekster" font-family="Arial, Helvetica, sans-serif" fill="#171717" font-size="29">
+<text x="837" y="548">GLIDEDYBEL</text>
+<text x="837" y="593">Ø25 SYREFAST</text>
+<text x="837" y="636">c/c 300</text>
+<text x="837" y="773">GUMMI-</text><text x="855" y="813">BÅND</text>
+<text x="765" y="1033">DUK</text>
+</g>
+</svg>

@@ -1,0 +1,507 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1480 1020" width="1480" height="1020">
+<title>Fjordgata 36 — Fundamentplan, renskrevet</title>
+<desc>Redigerbar vektorisering av håndpåtegnet fundamentplan. Skjematisk og ikke kontrollert målfast.</desc>
+<rect x="0" y="0" width="1480" height="1020" fill="white"/>
+<defs>
+<style><![CDATA[
+.thin{stroke:#666;stroke-width:0.9;fill:none}
+.minor{stroke:#999;stroke-width:0.75;fill:none}
+.axis{stroke:#a7a7a7;stroke-width:0.85;stroke-dasharray:16 5 2 5;fill:none}
+.heavy{stroke:#202020;stroke-width:2.4;fill:none}
+.blackfill{stroke:#202020;stroke-width:1.8;fill:#fff}
+.roomfill{stroke:#656565;stroke-width:0.85;fill:#f1f1f1}
+.grayfill{stroke:#666;stroke-width:0.9;fill:#d9d9d9}
+.hatch{stroke:#b0b0b0;stroke-width:0.75;fill:none;stroke-dasharray:4 5}
+.dot{stroke:#222;stroke-width:1;fill:#111}
+.note-blue{stroke:#1559d1;stroke-width:1.4;fill:none}
+.note-red{stroke:#e25757;stroke-width:1.4;fill:none}
+.text{font:12px Arial,sans-serif;fill:#333}
+.axis-label{font:12px Arial,sans-serif;fill:#333;text-anchor:middle;dominant-baseline:middle}
+.hand{font:16px Arial,sans-serif;fill:#1559d1;font-weight:500;letter-spacing:0.3px}
+.hand-small{font:14px Arial,sans-serif;fill:#1559d1;font-weight:500;letter-spacing:0.2px}
+.hand-red{font:15px Arial,sans-serif;fill:#e25757;font-weight:500;letter-spacing:0.3px}
+.head{font:18px Arial,sans-serif;fill:#1559d1;letter-spacing:0.8px}
+.room{font:11px Arial,sans-serif;fill:#333;text-anchor:middle}
+.small{font:10px Arial,sans-serif;fill:#444;text-anchor:middle}
+]]></style>
+<clipPath id="mainclip"><rect x="494" y="268" width="760" height="610"/></clipPath>
+<clipPath id="leftclip"><rect x="86" y="278" width="408" height="590"/></clipPath>
+</defs>
+
+<g id="tittelfelt">
+<text class="head" x="1084" y="30">FJORDGATA 36</text>
+<text class="head" x="1084" y="62">FUNDAMENTPLAN</text>
+<text class="hand-small" x="1270" y="62">M 1:100</text>
+<text class="head" x="1098" y="99">27.05.25</text>
+<text class="hand-small" x="1270" y="99">OAS</text>
+<line class="note-blue" x1="1065" y1="34" x2="1382" y2="34" />
+<line class="note-blue" x1="1065" y1="68" x2="1382" y2="68" />
+<line class="note-blue" x1="1065" y1="103" x2="1382" y2="103" />
+</g>
+<g id="ovre-notat">
+<text class="hand-red" x="210" y="92">* EVT FLYTTE TRESØYLER</text>
+</g>
+<g id="akser">
+<line class="axis" x1="120" y1="126" x2="120" y2="996" />
+<circle class="thin" cx="120" cy="123" r="9" />
+<text class="axis-label" x="120" y="123">-</text>
+<line class="axis" x1="273" y1="126" x2="273" y2="996" />
+<circle class="thin" cx="273" cy="123" r="9" />
+<text class="axis-label" x="273" y="123">2</text>
+<line class="axis" x1="273" y1="907" x2="273" y2="996" />
+<line class="axis" x1="398" y1="126" x2="398" y2="996" />
+<circle class="thin" cx="398" cy="123" r="9" />
+<text class="axis-label" x="398" y="123">3</text>
+<line class="axis" x1="398" y1="907" x2="398" y2="996" />
+<line class="axis" x1="564" y1="126" x2="564" y2="996" />
+<circle class="thin" cx="564" cy="123" r="9" />
+<text class="axis-label" x="564" y="123">4</text>
+<line class="axis" x1="564" y1="907" x2="564" y2="996" />
+<line class="axis" x1="676" y1="126" x2="676" y2="996" />
+<circle class="thin" cx="676" cy="123" r="9" />
+<text class="axis-label" x="676" y="123">5</text>
+<line class="axis" x1="676" y1="907" x2="676" y2="996" />
+<line class="axis" x1="744" y1="126" x2="744" y2="996" />
+<circle class="thin" cx="744" cy="123" r="9" />
+<text class="axis-label" x="744" y="123">6</text>
+<line class="axis" x1="744" y1="907" x2="744" y2="996" />
+<line class="axis" x1="921" y1="126" x2="921" y2="996" />
+<circle class="thin" cx="921" cy="123" r="9" />
+<text class="axis-label" x="921" y="123">7</text>
+<line class="axis" x1="921" y1="907" x2="921" y2="996" />
+<line class="axis" x1="1042" y1="126" x2="1042" y2="996" />
+<circle class="thin" cx="1042" cy="123" r="9" />
+<text class="axis-label" x="1042" y="123">8</text>
+<line class="axis" x1="1042" y1="907" x2="1042" y2="996" />
+<line class="axis" x1="1216" y1="126" x2="1216" y2="996" />
+<circle class="thin" cx="1216" cy="123" r="9" />
+<text class="axis-label" x="1216" y="123">9</text>
+<line class="axis" x1="1216" y1="907" x2="1216" y2="996" />
+<line class="axis" x1="20" y1="875" x2="1363" y2="875" />
+<circle class="thin" cx="1351" cy="875" r="9" />
+<text class="axis-label" x="1351" y="875">A</text>
+<line class="axis" x1="20" y1="781" x2="1363" y2="781" />
+<circle class="thin" cx="1351" cy="781" r="9" />
+<text class="axis-label" x="1351" y="781">B</text>
+<line class="axis" x1="20" y1="685" x2="1363" y2="685" />
+<circle class="thin" cx="1351" cy="685" r="9" />
+<text class="axis-label" x="1351" y="685">C</text>
+<line class="axis" x1="20" y1="577" x2="1363" y2="577" />
+<circle class="thin" cx="1351" cy="577" r="9" />
+<text class="axis-label" x="1351" y="577">D</text>
+<line class="axis" x1="20" y1="467" x2="1363" y2="467" />
+<circle class="thin" cx="1351" cy="467" r="9" />
+<text class="axis-label" x="1351" y="467">E</text>
+<line class="axis" x1="20" y1="366" x2="1363" y2="366" />
+<circle class="thin" cx="1351" cy="366" r="9" />
+<text class="axis-label" x="1351" y="366">F</text>
+<line class="axis" x1="20" y1="271" x2="1363" y2="271" />
+<circle class="thin" cx="1351" cy="271" r="9" />
+<text class="axis-label" x="1351" y="271">G</text>
+<line class="thin" x1="120" y1="208" x2="273" y2="208" />
+<line class="minor" x1="120" y1="203" x2="120" y2="213" />
+<line class="minor" x1="273" y1="203" x2="273" y2="213" />
+<text class="text" x="196.5" y="201" text-anchor="middle">4 500</text>
+<line class="thin" x1="273" y1="208" x2="398" y2="208" />
+<line class="minor" x1="273" y1="203" x2="273" y2="213" />
+<line class="minor" x1="398" y1="203" x2="398" y2="213" />
+<text class="text" x="335.5" y="201" text-anchor="middle">3 500</text>
+<line class="thin" x1="398" y1="208" x2="564" y2="208" />
+<line class="minor" x1="398" y1="203" x2="398" y2="213" />
+<line class="minor" x1="564" y1="203" x2="564" y2="213" />
+<text class="text" x="481.0" y="201" text-anchor="middle">4 800</text>
+<line class="thin" x1="564" y1="208" x2="676" y2="208" />
+<line class="minor" x1="564" y1="203" x2="564" y2="213" />
+<line class="minor" x1="676" y1="203" x2="676" y2="213" />
+<text class="text" x="620.0" y="201" text-anchor="middle">3 200</text>
+<line class="thin" x1="676" y1="208" x2="744" y2="208" />
+<line class="minor" x1="676" y1="203" x2="676" y2="213" />
+<line class="minor" x1="744" y1="203" x2="744" y2="213" />
+<text class="text" x="710.0" y="201" text-anchor="middle">2 000</text>
+<line class="thin" x1="744" y1="208" x2="921" y2="208" />
+<line class="minor" x1="744" y1="203" x2="744" y2="213" />
+<line class="minor" x1="921" y1="203" x2="921" y2="213" />
+<text class="text" x="832.5" y="201" text-anchor="middle">5 200</text>
+<line class="thin" x1="921" y1="208" x2="1042" y2="208" />
+<line class="minor" x1="921" y1="203" x2="921" y2="213" />
+<line class="minor" x1="1042" y1="203" x2="1042" y2="213" />
+<text class="text" x="981.5" y="201" text-anchor="middle">3 500</text>
+<line class="thin" x1="1042" y1="208" x2="1216" y2="208" />
+<line class="minor" x1="1042" y1="203" x2="1042" y2="213" />
+<line class="minor" x1="1216" y1="203" x2="1216" y2="213" />
+<text class="text" x="1129.0" y="201" text-anchor="middle">5 000</text>
+<line class="thin" x1="1322" y1="271" x2="1322" y2="366" />
+<line class="minor" x1="1317" y1="271" x2="1327" y2="271" />
+<line class="minor" x1="1317" y1="366" x2="1327" y2="366" />
+<text class="text" x="1339" y="318.5" transform="rotate(90 1339 318.5)">2 700</text>
+<line class="thin" x1="1322" y1="366" x2="1322" y2="467" />
+<line class="minor" x1="1317" y1="366" x2="1327" y2="366" />
+<line class="minor" x1="1317" y1="467" x2="1327" y2="467" />
+<text class="text" x="1339" y="416.5" transform="rotate(90 1339 416.5)">2 900</text>
+<line class="thin" x1="1322" y1="467" x2="1322" y2="577" />
+<line class="minor" x1="1317" y1="467" x2="1327" y2="467" />
+<line class="minor" x1="1317" y1="577" x2="1327" y2="577" />
+<text class="text" x="1339" y="522.0" transform="rotate(90 1339 522.0)">3 200</text>
+<line class="thin" x1="1322" y1="577" x2="1322" y2="685" />
+<line class="minor" x1="1317" y1="577" x2="1327" y2="577" />
+<line class="minor" x1="1317" y1="685" x2="1327" y2="685" />
+<text class="text" x="1339" y="631.0" transform="rotate(90 1339 631.0)">3 200</text>
+<line class="thin" x1="1322" y1="685" x2="1322" y2="781" />
+<line class="minor" x1="1317" y1="685" x2="1327" y2="685" />
+<line class="minor" x1="1317" y1="781" x2="1327" y2="781" />
+<text class="text" x="1339" y="733.0" transform="rotate(90 1339 733.0)">2 700</text>
+<line class="thin" x1="1322" y1="781" x2="1322" y2="875" />
+<line class="minor" x1="1317" y1="781" x2="1327" y2="781" />
+<line class="minor" x1="1317" y1="875" x2="1327" y2="875" />
+<text class="text" x="1339" y="828.0" transform="rotate(90 1339 828.0)">2 700</text>
+<line class="thin" x1="273" y1="118" x2="291" y2="118" />
+<line class="thin" x1="291" y1="118" x2="291" y2="165" />
+<text class="text" x="268" y="108" transform="rotate(-90 268 108)">C</text>
+<line class="thin" x1="564" y1="118" x2="582" y2="118" />
+<line class="thin" x1="582" y1="118" x2="582" y2="165" />
+<text class="text" x="559" y="108" transform="rotate(-90 559 108)">B</text>
+<line class="thin" x1="34" y1="520" x2="74" y2="520" />
+<line class="thin" x1="74" y1="507" x2="74" y2="533" />
+<text class="text" x="44" y="515" transform="rotate(-90 44 515)">A</text>
+<line class="thin" x1="1285" y1="520" x2="1317" y2="520" />
+<line class="thin" x1="1317" y1="507" x2="1317" y2="534" />
+<text class="text" x="1301" y="507" transform="rotate(-90 1301 507)">A</text>
+<line class="thin" x1="600" y1="889" x2="600" y2="918" />
+<text class="text" x="594" y="911">R</text>
+</g>
+<g id="nord">
+<circle class="thin" cx="1288" cy="218" r="17" />
+<line class="thin" x1="1271" y1="218" x2="1305" y2="218" />
+<line class="thin" x1="1288" y1="201" x2="1288" y2="235" />
+<text class="text" x="1247" y="219">N</text>
+</g>
+<g id="grunnplan">
+<path class="heavy" d="M 494 272 L 1252 272 L 1252 90 L 1236 90 L 1236 220 L 494 220 Z" />
+<path class="heavy" d="M 494 270 L 494 873 L 970 873 L 970 848 L 1252 848 L 1252 873 L 1252 873 L 1252 271" />
+<line class="heavy" x1="494" y1="864" x2="792" y2="864" />
+<line class="heavy" x1="970" y1="864" x2="1250" y2="864" />
+<line class="heavy" x1="982" y1="873" x2="1248" y2="873" />
+<rect class="blackfill" x="523" y="275" width="90" height="63" />
+<line class="heavy" x1="613" y1="275" x2="613" y2="338" />
+<line class="heavy" x1="668" y1="275" x2="668" y2="338" />
+<line class="heavy" x1="744" y1="275" x2="744" y2="338" />
+<line class="heavy" x1="843" y1="275" x2="843" y2="338" />
+<line class="heavy" x1="1060" y1="275" x2="1060" y2="338" />
+<line class="heavy" x1="1188" y1="275" x2="1188" y2="338" />
+<line class="heavy" x1="523" y1="338" x2="1252" y2="338" />
+<rect class="thin" x="614" y="275" width="55" height="63" />
+<rect class="thin" x="669" y="275" width="75" height="63" />
+<rect class="thin" x="744" y="275" width="99" height="63" />
+<rect class="thin" x="843" y="275" width="217" height="63" />
+<rect class="thin" x="1060" y="275" width="128" height="145" />
+<rect class="thin" x="1188" y="275" width="64" height="145" />
+<rect class="thin" x="1060" y="420" width="128" height="117" />
+<line class="thin" x1="1060" y1="479" x2="1188" y2="479" />
+<rect class="thin" x="1188" y="338" width="64" height="82" />
+<rect class="thin" x="1188" y="420" width="64" height="117" />
+<line class="heavy" x1="522" y1="537" x2="1188" y2="537" />
+<line class="heavy" x1="780" y1="537" x2="780" y2="864" />
+<line class="heavy" x1="894" y1="470" x2="894" y2="763" />
+<line class="heavy" x1="1059" y1="537" x2="1059" y2="763" />
+<line class="heavy" x1="1188" y1="537" x2="1188" y2="864" />
+<line class="heavy" x1="894" y1="470" x2="1059" y2="470" />
+<line class="heavy" x1="894" y1="763" x2="1188" y2="763" />
+<line class="thin" x1="780" y1="718" x2="780" y2="864" />
+<rect class="thin" x="515" y="468" width="48" height="61" />
+<rect class="thin" x="905" y="764" width="164" height="83" />
+<rect class="thin" x="1042" y="531" width="95" height="40" />
+<rect class="thin" x="998" y="564" width="71" height="38" />
+<rect class="grayfill" x="1059" y="537" width="193" height="327" />
+<rect class="grayfill" x="843" y="275" width="217" height="63" />
+<rect class="roomfill" x="1060" y="338" width="128" height="82" />
+<rect class="roomfill" x="1060" y="420" width="128" height="117" />
+<g clip-path="url(#mainclip)">
+<line class="hatch" x1="510" y1="220" x2="510" y2="272" />
+<line class="hatch" x1="544" y1="220" x2="544" y2="272" />
+<line class="hatch" x1="578" y1="220" x2="578" y2="272" />
+<line class="hatch" x1="612" y1="220" x2="612" y2="272" />
+<line class="hatch" x1="646" y1="220" x2="646" y2="272" />
+<line class="hatch" x1="680" y1="220" x2="680" y2="272" />
+<line class="hatch" x1="714" y1="220" x2="714" y2="272" />
+<line class="hatch" x1="748" y1="220" x2="748" y2="272" />
+<line class="hatch" x1="782" y1="220" x2="782" y2="272" />
+<line class="hatch" x1="816" y1="220" x2="816" y2="272" />
+<line class="hatch" x1="850" y1="220" x2="850" y2="272" />
+<line class="hatch" x1="884" y1="220" x2="884" y2="272" />
+<line class="hatch" x1="918" y1="220" x2="918" y2="272" />
+<line class="hatch" x1="952" y1="220" x2="952" y2="272" />
+<line class="hatch" x1="986" y1="220" x2="986" y2="272" />
+<line class="hatch" x1="1020" y1="220" x2="1020" y2="272" />
+<line class="hatch" x1="1054" y1="220" x2="1054" y2="272" />
+<line class="hatch" x1="1088" y1="220" x2="1088" y2="272" />
+<line class="hatch" x1="1122" y1="220" x2="1122" y2="272" />
+<line class="hatch" x1="1156" y1="220" x2="1156" y2="272" />
+<line class="hatch" x1="1190" y1="220" x2="1190" y2="272" />
+<line class="hatch" x1="1224" y1="220" x2="1224" y2="272" />
+<line class="hatch" x1="509" y1="270" x2="509" y2="868" />
+<line class="hatch" x1="543" y1="270" x2="543" y2="868" />
+<line class="hatch" x1="577" y1="270" x2="577" y2="868" />
+<line class="hatch" x1="611" y1="270" x2="611" y2="868" />
+<line class="hatch" x1="645" y1="270" x2="645" y2="868" />
+<line class="hatch" x1="679" y1="270" x2="679" y2="868" />
+<line class="hatch" x1="713" y1="270" x2="713" y2="868" />
+<line class="hatch" x1="747" y1="270" x2="747" y2="868" />
+<line class="hatch" x1="781" y1="270" x2="781" y2="868" />
+<line class="hatch" x1="815" y1="270" x2="815" y2="868" />
+<line class="hatch" x1="849" y1="270" x2="849" y2="868" />
+<line class="hatch" x1="883" y1="270" x2="883" y2="868" />
+<line class="hatch" x1="917" y1="270" x2="917" y2="868" />
+<line class="hatch" x1="951" y1="270" x2="951" y2="868" />
+<line class="hatch" x1="985" y1="270" x2="985" y2="868" />
+<line class="hatch" x1="1019" y1="270" x2="1019" y2="868" />
+<line class="hatch" x1="1053" y1="270" x2="1053" y2="868" />
+<line class="hatch" x1="1087" y1="270" x2="1087" y2="868" />
+<line class="hatch" x1="1121" y1="270" x2="1121" y2="868" />
+<line class="hatch" x1="1155" y1="270" x2="1155" y2="868" />
+<line class="hatch" x1="1189" y1="270" x2="1189" y2="868" />
+<line class="hatch" x1="1223" y1="270" x2="1223" y2="868" />
+<line class="minor" x1="500" y1="366" x2="1245" y2="366" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="500" y1="467" x2="1245" y2="467" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="500" y1="577" x2="1245" y2="577" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="500" y1="685" x2="1245" y2="685" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="500" y1="781" x2="1245" y2="781" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="398" y1="272" x2="398" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="564" y1="272" x2="564" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="676" y1="272" x2="676" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="744" y1="272" x2="744" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="921" y1="272" x2="921" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="1042" y1="272" x2="1042" y2="868" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="1216" y1="272" x2="1216" y2="868" stroke-dasharray="7 4 2 4"/>
+</g>
+<path class="minor" d="M 750 339 A 36 36 0 0 1 786 303" />
+<path class="minor" d="M 844 339 A 34 34 0 0 1 878 305" />
+<path class="minor" d="M 1060 421 A 34 34 0 0 1 1094 387" />
+<path class="minor" d="M 1188 421 A 28 28 0 0 1 1216 393" />
+<path class="minor" d="M 523 468 A 40 40 0 0 1 563 508" />
+<path class="minor" d="M 779 538 A 32 32 0 0 1 747 570" />
+<path class="minor" d="M 904 763 A 34 34 0 0 1 938 797" />
+<rect class="minor" x="612.0" y="586.0" width="90" height="56" />
+<rect class="minor" x="612.0" y="738.0" width="90" height="56" />
+<rect class="minor" x="921.5" y="580.0" width="105" height="62" />
+<rect class="minor" x="605" y="573" width="12" height="18" />
+<rect class="minor" x="605" y="637" width="12" height="18" />
+<rect class="minor" x="635" y="573" width="12" height="18" />
+<rect class="minor" x="635" y="637" width="12" height="18" />
+<rect class="minor" x="667" y="573" width="12" height="18" />
+<rect class="minor" x="667" y="637" width="12" height="18" />
+<rect class="minor" x="697" y="573" width="12" height="18" />
+<rect class="minor" x="697" y="637" width="12" height="18" />
+<rect class="minor" x="931" y="562" width="18" height="24" />
+<rect class="minor" x="931" y="636" width="18" height="24" />
+<rect class="minor" x="965" y="562" width="18" height="24" />
+<rect class="minor" x="965" y="636" width="18" height="24" />
+<rect class="minor" x="999" y="562" width="18" height="24" />
+<rect class="minor" x="999" y="636" width="18" height="24" />
+<line class="minor" x1="928.75" y1="769" x2="928.75" y2="809" />
+<line class="minor" x1="947.5" y1="769" x2="947.5" y2="809" />
+<line class="minor" x1="966.25" y1="769" x2="966.25" y2="809" />
+<line class="minor" x1="985.0" y1="769" x2="985.0" y2="809" />
+<line class="minor" x1="1003.75" y1="769" x2="1003.75" y2="809" />
+<line class="minor" x1="1022.5" y1="769" x2="1022.5" y2="809" />
+<line class="minor" x1="1041.25" y1="769" x2="1041.25" y2="809" />
+<line class="minor" x1="1057.5" y1="536" x2="1057.5" y2="566" />
+<line class="minor" x1="1068.0" y1="536" x2="1068.0" y2="566" />
+<line class="minor" x1="1078.5" y1="536" x2="1078.5" y2="566" />
+<line class="minor" x1="1089.0" y1="536" x2="1089.0" y2="566" />
+<line class="minor" x1="1099.5" y1="536" x2="1099.5" y2="566" />
+<line class="minor" x1="1110.0" y1="536" x2="1110.0" y2="566" />
+<line class="minor" x1="1120.5" y1="536" x2="1120.5" y2="566" />
+<line class="minor" x1="1010.5" y1="570" x2="1010.5" y2="596" />
+<line class="minor" x1="1018.0" y1="570" x2="1018.0" y2="596" />
+<line class="minor" x1="1025.5" y1="570" x2="1025.5" y2="596" />
+<line class="minor" x1="1033.0" y1="570" x2="1033.0" y2="596" />
+<line class="minor" x1="1040.5" y1="570" x2="1040.5" y2="596" />
+<line class="minor" x1="1048.0" y1="570" x2="1048.0" y2="596" />
+<line class="minor" x1="1055.5" y1="570" x2="1055.5" y2="596" />
+<line class="minor" x1="522.25" y1="474" x2="522.25" y2="522" />
+<line class="minor" x1="527.5" y1="474" x2="527.5" y2="522" />
+<line class="minor" x1="532.75" y1="474" x2="532.75" y2="522" />
+<line class="minor" x1="538.0" y1="474" x2="538.0" y2="522" />
+<line class="minor" x1="543.25" y1="474" x2="543.25" y2="522" />
+<line class="minor" x1="548.5" y1="474" x2="548.5" y2="522" />
+<line class="minor" x1="553.75" y1="474" x2="553.75" y2="522" />
+<circle class="dot" cx="604" cy="298" r="4.5" />
+<circle class="dot" cx="728" cy="336" r="4.5" />
+<circle class="dot" cx="530" cy="431" r="4.5" />
+<circle class="dot" cx="563" cy="431" r="4.5" />
+<circle class="dot" cx="606" cy="431" r="4.5" />
+<circle class="dot" cx="1110" cy="357" r="4.5" />
+<circle class="dot" cx="586" cy="523" r="4.5" />
+<circle class="dot" cx="661" cy="685" r="4.5" />
+<circle class="dot" cx="771" cy="796" r="4.5" />
+<circle class="dot" cx="615" cy="775" r="4.5" />
+<circle class="dot" cx="125" cy="686" r="4.5" />
+<rect class="dot" x="728" y="360" width="6" height="6" />
+<rect class="dot" x="877" y="363" width="6" height="6" />
+<rect class="dot" x="1020" y="363" width="6" height="6" />
+<rect class="dot" x="729" y="464" width="6" height="6" />
+<rect class="dot" x="877" y="464" width="6" height="6" />
+<rect class="dot" x="1020" y="464" width="6" height="6" />
+<rect class="dot" x="729" y="574" width="6" height="6" />
+<rect class="dot" x="877" y="574" width="6" height="6" />
+<rect class="dot" x="1020" y="574" width="6" height="6" />
+<rect class="dot" x="729" y="682" width="6" height="6" />
+<rect class="dot" x="877" y="682" width="6" height="6" />
+<rect class="dot" x="1020" y="682" width="6" height="6" />
+<rect class="dot" x="583" y="464" width="6" height="6" />
+<rect class="dot" x="583" y="574" width="6" height="6" />
+<rect class="dot" x="583" y="682" width="6" height="6" />
+<rect class="dot" x="1144" y="682" width="6" height="6" />
+<text class="room" x="566" y="315" text-anchor="middle">Heis</text>
+<text class="room" x="566" y="328" text-anchor="middle">4,7 m²</text>
+<text class="room" x="641" y="302" text-anchor="middle">WC</text>
+<text class="room" x="641" y="315" text-anchor="middle">1,6 m²</text>
+<text class="room" x="706" y="302" text-anchor="middle">WC</text>
+<text class="room" x="706" y="315" text-anchor="middle">1,4 m²</text>
+<text class="room" x="793" y="302" text-anchor="middle">WC</text>
+<text class="room" x="793" y="315" text-anchor="middle">5,2 m²</text>
+<text class="room" x="951" y="298" text-anchor="middle">Lager</text>
+<text class="room" x="951" y="311" text-anchor="middle">15,1 m²</text>
+<text class="room" x="1124" y="396" text-anchor="middle">Garderobe</text>
+<text class="room" x="1124" y="409" text-anchor="middle">14,5 m²</text>
+<text class="room" x="1220" y="381" text-anchor="middle">WC</text>
+<text class="room" x="1220" y="394" text-anchor="middle">2,2 m²</text>
+<text class="room" x="1220" y="463" text-anchor="middle">WC</text>
+<text class="room" x="1220" y="476" text-anchor="middle">2,2 m²</text>
+<text class="room" x="1124" y="495" text-anchor="middle">Garderobe</text>
+<text class="room" x="1124" y="508" text-anchor="middle">13,1 m²</text>
+<text class="room" x="823" y="493" text-anchor="middle">Vrimleareal</text>
+<text class="room" x="823" y="506" text-anchor="middle">110,4 m²</text>
+<text class="room" x="670" y="537" text-anchor="middle">Møterom</text>
+<text class="room" x="670" y="550" text-anchor="middle">44,1 m²</text>
+<text class="room" x="670" y="736" text-anchor="middle">Møterom</text>
+<text class="room" x="670" y="749" text-anchor="middle">34,0 m²</text>
+<text class="room" x="976" y="539" text-anchor="middle">Verksted</text>
+<text class="room" x="976" y="552" text-anchor="middle">45,4 m²</text>
+<text class="room" x="1165" y="748" text-anchor="middle">Teknisk rom</text>
+<text class="room" x="1165" y="761" text-anchor="middle">37,3 m²</text>
+<text class="room" x="972" y="823" text-anchor="middle">Trapperom</text>
+<text class="room" x="972" y="836" text-anchor="middle">11,8 m²</text>
+<text class="room" x="540" y="493" text-anchor="middle">Trapp</text>
+<text class="room" x="540" y="506" text-anchor="middle">2,2 m²</text>
+<text class="small" x="950" y="288" text-anchor="middle">1–2 stk 660 l for blandet</text>
+<text class="small" x="950" y="300" text-anchor="middle">papp/papir/kartong</text>
+</g>
+<g id="fundament-og-pategning">
+<line class="thin" x1="144" y1="362" x2="494" y2="362" />
+<line class="thin" x1="144" y1="407" x2="494" y2="407" />
+<line class="thin" x1="144" y1="452" x2="494" y2="452" />
+<line class="thin" x1="144" y1="500" x2="494" y2="500" />
+<line class="thin" x1="144" y1="545" x2="494" y2="545" />
+<line class="thin" x1="144" y1="590" x2="494" y2="590" />
+<line class="thin" x1="144" y1="640" x2="494" y2="640" />
+<line class="thin" x1="144" y1="685" x2="494" y2="685" />
+<line class="thin" x1="144" y1="730" x2="494" y2="730" />
+<rect class="note-blue" x="111" y="254" width="60" height="60" />
+<rect class="note-blue" x="111" y="326" width="60" height="60" />
+<rect class="note-blue" x="111" y="772" width="40" height="40" />
+<rect class="note-blue" x="111" y="823" width="40" height="40" />
+<rect class="note-blue" x="235" y="772" width="54" height="54" />
+<rect class="note-blue" x="343" y="772" width="54" height="54" />
+<rect class="note-blue" x="453" y="772" width="54" height="54" />
+<rect class="note-blue" x="235" y="829" width="40" height="40" />
+<rect class="dot" x="187" y="342" width="10" height="10" />
+<rect class="dot" x="323" y="311" width="10" height="10" />
+<rect class="dot" x="423" y="311" width="10" height="10" />
+<rect class="dot" x="313" y="436" width="10" height="10" />
+<rect class="dot" x="384" y="437" width="10" height="10" />
+<rect class="dot" x="170" y="557" width="10" height="10" />
+<rect class="dot" x="281" y="557" width="10" height="10" />
+<rect class="dot" x="374" y="557" width="10" height="10" />
+<rect class="dot" x="464" y="557" width="10" height="10" />
+<rect class="dot" x="172" y="678" width="10" height="10" />
+<rect class="dot" x="282" y="677" width="10" height="10" />
+<rect class="dot" x="463" y="678" width="10" height="10" />
+<rect class="dot" x="106" y="787" width="10" height="10" />
+<rect class="dot" x="246" y="789" width="10" height="10" />
+<rect class="dot" x="355" y="789" width="10" height="10" />
+<rect class="dot" x="464" y="788" width="10" height="10" />
+<line class="minor" x1="86" y1="274" x2="494" y2="274" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="86" y1="400" x2="494" y2="400" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="86" y1="540" x2="494" y2="540" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="86" y1="679" x2="494" y2="679" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="86" y1="835" x2="494" y2="835" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="120" y1="255" x2="120" y2="876" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="273" y1="255" x2="273" y2="876" stroke-dasharray="7 4 2 4"/>
+<line class="minor" x1="398" y1="255" x2="398" y2="876" stroke-dasharray="7 4 2 4"/>
+<line class="note-red" x1="155" y1="348" x2="488" y2="348" />
+<line class="note-red" x1="155" y1="448" x2="488" y2="448" />
+<line class="note-blue" x1="155" y1="359" x2="488" y2="359" />
+<line class="note-blue" x1="155" y1="449" x2="488" y2="449" />
+<text class="hand-red" x="315" y="369" text-anchor="middle">UTVIDES</text>
+<line class="note-red" x1="487" y1="348" x2="497" y2="348" />
+<line class="note-red" x1="487" y1="348" x2="493" y2="343" />
+<line class="note-red" x1="487" y1="348" x2="493" y2="353" />
+<line class="note-red" x1="155" y1="489" x2="488" y2="489" />
+<line class="note-red" x1="155" y1="589" x2="488" y2="589" />
+<line class="note-blue" x1="155" y1="500" x2="488" y2="500" />
+<line class="note-blue" x1="155" y1="590" x2="488" y2="590" />
+<text class="hand-red" x="315" y="510" text-anchor="middle">UTVIDES</text>
+<line class="note-red" x1="487" y1="489" x2="497" y2="489" />
+<line class="note-red" x1="487" y1="489" x2="493" y2="484" />
+<line class="note-red" x1="487" y1="489" x2="493" y2="494" />
+<line class="note-red" x1="155" y1="630" x2="488" y2="630" />
+<line class="note-red" x1="155" y1="730" x2="488" y2="730" />
+<line class="note-blue" x1="155" y1="641" x2="488" y2="641" />
+<line class="note-blue" x1="155" y1="731" x2="488" y2="731" />
+<text class="hand-red" x="315" y="651" text-anchor="middle">UTVIDES</text>
+<line class="note-red" x1="487" y1="630" x2="497" y2="630" />
+<line class="note-red" x1="487" y1="630" x2="493" y2="625" />
+<line class="note-red" x1="487" y1="630" x2="493" y2="635" />
+<line class="note-blue" x1="209" y1="336" x2="209" y2="388" />
+<line class="note-blue" x1="203" y1="343" x2="215" y2="343" />
+<line class="note-blue" x1="203" y1="388" x2="215" y2="388" />
+<text class="hand-small" x="197" y="366" transform="rotate(-63 197 366)">200</text>
+<line class="note-red" x1="174" y1="348" x2="174" y2="404" />
+<line class="note-red" x1="168" y1="358" x2="180" y2="358" />
+<line class="note-red" x1="168" y1="404" x2="180" y2="404" />
+<text class="hand-red" x="160" y="382" transform="rotate(-90 160 382)">400</text>
+<text class="hand-small" x="367" y="448">TKE</text>
+<text class="hand-small" x="329" y="467">LØFT</text>
+<line class="note-blue" x1="211" y1="476" x2="211" y2="568" />
+<line class="note-blue" x1="205" y1="490" x2="217" y2="490" />
+<line class="note-blue" x1="205" y1="568" x2="217" y2="568" />
+<text class="hand-small" x="197" y="530" transform="rotate(-63 197 530)">300</text>
+<line class="note-red" x1="175" y1="489" x2="175" y2="545" />
+<line class="note-red" x1="169" y1="502" x2="181" y2="502" />
+<line class="note-red" x1="169" y1="545" x2="181" y2="545" />
+<text class="hand-red" x="161" y="524" transform="rotate(-90 161 524)">400</text>
+<line class="note-blue" x1="211" y1="620" x2="211" y2="713" />
+<line class="note-blue" x1="205" y1="634" x2="217" y2="634" />
+<line class="note-blue" x1="205" y1="713" x2="217" y2="713" />
+<text class="hand-small" x="197" y="675" transform="rotate(-63 197 675)">150</text>
+<line class="note-red" x1="175" y1="632" x2="175" y2="688" />
+<line class="note-red" x1="169" y1="645" x2="181" y2="645" />
+<line class="note-red" x1="169" y1="688" x2="181" y2="688" />
+<text class="hand-red" x="161" y="667" transform="rotate(-90 161 667)">400</text>
+<text class="hand" x="293" y="718">H-600</text>
+<line class="note-red" x1="235" y1="764" x2="289" y2="764" />
+<line class="note-red" x1="235" y1="818" x2="289" y2="818" />
+<line class="note-red" x1="343" y1="764" x2="397" y2="764" />
+<line class="note-red" x1="343" y1="818" x2="397" y2="818" />
+<line class="note-red" x1="453" y1="764" x2="507" y2="764" />
+<line class="note-red" x1="453" y1="818" x2="507" y2="818" />
+<text class="hand-red" x="289" y="789" text-anchor="middle">150</text>
+<text class="hand-red" x="289" y="827" text-anchor="middle">150</text>
+<text class="hand-red" x="397" y="789" text-anchor="middle">150</text>
+<text class="hand-red" x="397" y="827" text-anchor="middle">150</text>
+<line class="note-red" x1="248" y1="755" x2="275" y2="739" />
+<line class="note-red" x1="380" y1="755" x2="396" y2="742" />
+<text class="hand-red" x="338" y="747" text-anchor="middle">UTVIDES</text>
+<text class="hand-small" x="104" y="784">F1</text>
+<text class="hand-small" x="104" y="835">F1</text>
+<text class="hand-small" x="239" y="783">F1</text>
+<text class="hand-small" x="347" y="783">F1</text>
+<text class="hand-small" x="457" y="783">F1</text>
+<text class="hand-small" x="241" y="840">F1</text>
+<text class="hand" x="170" y="946">F1 : 1400 × 1450 × 400</text>
+<circle class="note-blue" cx="220" cy="272" r="4" />
+<circle class="note-blue" cx="416" cy="272" r="4" />
+<path class="minor" d="M 35 345 L 55 350 L 47 566" stroke-dasharray="7 6"/>
+</g>
+</svg>

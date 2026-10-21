@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1753" viewBox="0 0 1240 1753" role="img" aria-label="Snitt front prinsipp, renskrevet teknisk skisse">
+<title>Fjordgt 30 – Snitt front (prinsipp)</title><desc>Redigerbar geometri fra håndtegnet skisse. Ikke målfast.</desc>
+<style>svg{font-family:Arial,Helvetica,sans-serif;color:#181818;background:white} .frame{fill:none;stroke:#262626;stroke-width:1.5}.structure{fill:none;stroke:#191919;stroke-width:3;stroke-linejoin:miter;stroke-linecap:square}.thin{fill:none;stroke:#292929;stroke-width:1.7}.dash{fill:none;stroke:#333;stroke-width:2;stroke-dasharray:16 12}.leader{fill:none;stroke:#333;stroke-width:2;marker-end:url(#arrow)} .concrete{fill:#e9e9e9;stroke:#222;stroke-width:2.3}.slab{fill:#e5e5e5;stroke:#222;stroke-width:2.5}.hatch{fill:none;stroke:#555;stroke-width:1.8}.earth{fill:none;stroke:#444;stroke-width:1.5}.section-note{font-size:23px}</style>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+<g id="tegningsramme">
+<rect class="frame" x="55" y="44" width="1145" height="1680" />
+<line class="thin" x1="55" y1="120" x2="1200" y2="120" />
+<line class="thin" x1="55" y1="155" x2="1200" y2="155" />
+<line class="thin" x1="55" y1="190" x2="1200" y2="190" />
+</g>
+<g id="tittelfelt">
+<text x="457" y="82" font-size="26" font-weight="bold" >Sivilingeniørene Harboe og Leganger AS</text>
+<text x="497" y="103" font-size="13" font-weight="normal" >Telefon: 73 99 28 30     firmapost@h-l.no</text>
+<text x="72" y="145" font-size="18" font-weight="normal" >Prosjekt:</text>
+<text x="175" y="148" font-size="25" font-weight="normal" >FJORDGT 30</text>
+<text x="615" y="145" font-size="18" font-weight="normal" >Tegning:</text>
+<text x="711" y="148" font-size="23" font-weight="normal" >SNITT FRONT (PRINSIPP)</text>
+<text x="72" y="182" font-size="18" font-weight="normal" >Dato:</text>
+<text x="137" y="183" font-size="23" font-weight="normal" >24/4-26</text>
+<text x="336" y="181" font-size="18" font-weight="normal" >Mål:</text>
+<text x="415" y="182" font-size="23" font-weight="normal" >1:100</text>
+<text x="613" y="181" font-size="18" font-weight="normal" >Sign:</text>
+<text x="710" y="183" font-size="23" font-weight="normal" >OAS</text>
+</g>
+<g id="konstruksjon">
+<line class="structure" x1="179" y1="437" x2="179" y2="697" />
+<line class="structure" x1="179" y1="697" x2="179" y2="1157" />
+<line class="structure" x1="206" y1="697" x2="206" y2="1157" />
+<line class="structure" x1="179" y1="696" x2="436" y2="696" />
+<line class="thin" x1="179" y1="686" x2="179" y2="696" />
+<line class="hatch" x1="172" y1="536" x2="201" y2="513" />
+<line class="hatch" x1="172" y1="594" x2="201" y2="571" />
+<line class="hatch" x1="172" y1="678" x2="201" y2="655" />
+<line class="hatch" x1="246" y1="685" x2="270" y2="659" />
+<line class="hatch" x1="317" y1="685" x2="341" y2="659" />
+<line class="hatch" x1="378" y1="685" x2="402" y2="659" />
+<rect class="concrete" x="153" y="1172" width="93" height="29" />
+<line class="structure" x1="180" y1="1157" x2="180" y2="1172" />
+<line class="structure" x1="205" y1="1157" x2="205" y2="1172" />
+<rect class="concrete" x="424" y="695" width="27" height="413" />
+<rect class="concrete" x="377" y="1108" width="122" height="28" />
+<rect class="slab" x="441" y="866" width="729" height="27" />
+<rect class="concrete" x="424" y="774" width="27" height="119" />
+<rect class="concrete" x="899" y="893" width="24" height="88" />
+<rect class="concrete" x="857" y="981" width="123" height="26" />
+<line class="earth" x1="972" y1="916" x2="977" y2="919" />
+<line class="earth" x1="999" y1="938" x2="1004" y2="941" />
+<line class="earth" x1="1025" y1="920" x2="1030" y2="923" />
+<line class="earth" x1="1060" y1="937" x2="1065" y2="940" />
+<line class="earth" x1="1090" y1="911" x2="1095" y2="914" />
+<line class="earth" x1="1130" y1="943" x2="1135" y2="946" />
+<line class="earth" x1="1009" y1="976" x2="1014" y2="979" />
+<line class="earth" x1="1052" y1="974" x2="1057" y2="977" />
+<line class="earth" x1="1094" y1="970" x2="1099" y2="973" />
+<line class="earth" x1="1150" y1="971" x2="1155" y2="974" />
+<line class="thin" x1="62" y1="1156" x2="182" y2="1156" />
+<line class="dash" x1="62" y1="1170" x2="137" y2="1170" />
+</g>
+<g id="referanselinjer">
+<line class="dash" x1="202" y1="900" x2="423" y2="900" />
+<path class="dash" d="M 218 1145 L 414 1085 L 900 955" />
+</g>
+<g id="tekst_og_piler">
+<text x="528" y="726" font-size="23" font-weight="normal" >DENNE GÅR HELT UT MOT ØST</text>
+<path class="leader" d="M 504 737 Q 390 772 285 901" />
+<text x="243" y="1012" font-size="22" font-weight="normal" >SØYLE</text>
+<text x="245" y="1041" font-size="22" font-weight="normal" >BETONG</text>
+<path class="thin" d="M 228 1021 Q 220 1020 208 1039" />
+<text x="514" y="1006" font-size="22" font-weight="normal" >SØYLE</text>
+<text x="514" y="1035" font-size="22" font-weight="normal" >BETONG</text>
+<path class="thin" d="M 500 1016 L 451 1029" />
+<text x="870" y="1047" font-size="24" font-weight="normal" >MUR</text>
+<text x="159" y="1241" font-size="21" font-weight="normal" >CA. 1,5 × 0,5</text>
+<text x="395" y="1176" font-size="21" font-weight="normal" >CA. 2,0 × 0,5</text>
+</g>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1753" viewBox="0 0 1240 1753">
+<title>Snitt bunnplate ved vegg – opprettet fra håndskisse</title>
+<desc>Forenklet og opprettet teknisk skisse. Alle tekster er tekstobjekter, dimensjoner og bygningsdeler er separate grupper.</desc>
+<style>
+  .frame{stroke:#292929;stroke-width:1.5;fill:none}
+  .structure{stroke:#171717;stroke-width:3;fill:none;stroke-linecap:square;stroke-linejoin:miter}
+  .detail{stroke:#171717;stroke-width:2.5;fill:none;stroke-linejoin:miter}
+  .dim{stroke:#353535;stroke-width:1.8;fill:none}
+  .leader{stroke:#333;stroke-width:1.8;fill:none}
+  text{font-family:Arial,Helvetica,sans-serif;fill:#181818}
+  .caption{font-size:29px}
+  .annotation{font-size:30px}
+  .small{font-size:19px}
+  .field{font-size:17px}
+</style>
+<rect width="1240" height="1753" fill="white"/>
+<g id="tegningsramme" class="frame">
+ <rect x="55" y="50" width="1120" height="1645"/>
+ <path d="M55 127 H1175 M55 159 H1175 M55 195 H1175"/>
+ <path d="M590 127 V195" opacity="0"/>
+</g>
+<g id="tittelfelt">
+ <text x="615" y="92" text-anchor="middle" font-size="26">Sivilingeniørene Harboe og Leganger AS</text>
+ <text x="615" y="113" text-anchor="middle" font-size="14">Telefon: 73 99 28 30     firmapost@h-l.no</text>
+ <text x="71" y="153" class="field">Prosjekt:</text>
+ <text x="164" y="154" font-size="25">FJORDT 30</text>
+ <text x="594" y="153" class="field">Tegning:</text>
+ <text x="687" y="154" font-size="24">SNITT BUNNPLATE V/ VEGG</text>
+ <text x="71" y="188" class="field">Dato:</text>
+ <text x="131" y="188" font-size="25">24/4-26</text>
+ <text x="327" y="188" class="field">Mål:</text>
+ <text x="392" y="188" font-size="24">1:20</text>
+ <text x="592" y="188" class="field">Sign:</text>
+ <text x="667" y="188" font-size="24">OAS</text>
+</g>
+<g id="betong-vegg" class="structure">
+ <path d="M410 489 V861"/>
+ <path d="M456 489 V861"/>
+ <path d="M389 489 H410 M456 489 H472" stroke-width="2"/>
+</g>
+<g id="xps-isolasjon" class="detail">
+ <!-- geometrisk symbol for isolasjon, fremfor tusjens uregelmessigheter -->
+ <path d="M411 520 L456 546 L411 582 L456 618 L411 655 L456 692 L411 729 L456 765 L411 802 L456 833 L411 859"/>
+</g>
+<g id="bunnplate" class="structure">
+ <path d="M409 861 H1002 V995 H409 Z"/>
+</g>
+<g id="fugeblikk-og-svelleband" class="detail">
+ <path d="M471 840 V890"/>
+ <rect x="493" y="843" width="9" height="15" fill="#333" stroke="none"/>
+ <path d="M1002 831 V889 H1020"/>
+</g>
+<g id="malsetting" class="dim">
+ <!-- veggtykkelse, 250 -->
+ <path d="M456 498 H534 M456 861 H534" opacity="0.7"/>
+ <path d="M456 576 H534 M456 568 L456 584 M534 568 L534 584"/>
+ <text x="553" y="562" class="caption">250</text>
+ <!-- platetykkelse, 450 -->
+ <path d="M700 861 V995"/>
+ <path d="M688 873 L712 849 M688 1007 L712 983"/>
+ <text x="721" y="937" class="caption">450</text>
+</g>
+<g id="henvisninger" class="leader">
+ <path d="M330 686 H410"/>
+ <text x="294" y="677" class="annotation">XPS</text>
+ <path d="M332 901 L401 879 L432 888"/>
+ <path d="M420 875 L433 888 L421 897"/>
+ <text x="115" y="871" class="annotation">FUGEBLIKK +</text>
+ <text x="115" y="922" class="annotation">SVELLEBÅND</text>
+</g>
+<g id="materialnotater">
+ <text x="122" y="1153" class="caption" text-decoration="underline">VEGG:</text>
+ <text x="124" y="1216" class="caption">BETONG B45 MF40 – VANNTETT</text>
+ <text x="124" y="1279" class="caption">ARMERING 90 kg/m³</text>
+</g>
+</svg>

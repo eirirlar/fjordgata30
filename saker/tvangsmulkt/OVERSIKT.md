@@ -2,17 +2,17 @@
 
 **Hovedkonsept:** brann/juss. Krysser inkasso/konkurs, selskapsrett (fisjon som kreditorbeskyttelse), bank.
 
-**Status (per oktober 2026):** Pågående. Klageorganet opprettholdt TBRTs vedtak september 2026. Intrum har sendt konkursvarsel 30.09.2026. DSB-søknad om frafall sammenstilt 08.10.2026. Sivilombudsklage sendt 06.10.2026. Juridisk strategianalyse 11.10.2026 i gang. Risiko for forkynnelse og eksekusjon dersom betaling ikke skjer eller sak settes i bero.
+**Status (per 16.10.2026):** Pågående. Klageorganet opprettholdt TBRTs vedtak september 2026. Konkursvarsel forkynt 13.10.2026 (14-dagersfrist utløper 27.10.2026). TBRT har 12.10.2026 innvilget midlertidig stans i inndriving til 15.01.2027 på bakgrunn av Sivilombud- og DSB-sporet; Intrum skal instrueres. Sivilombudet har 15.10.2026 avvist klagen uten realitetsbehandling (sivilombudsloven § 10). DSB-søknaden om frafall (sendt 12.10.2026) er fortsatt aktiv og er nå det ene gjenværende kontrollsporet sammen med TBRT-beroens tidsvindu fram til 15.01.2027.
 
 **Hva saken handler om:** TBRT varslet pålegg om brannsikring i 2022, ila 2 000 kr/dag tvangsmulkt fra 01.01.2026. Vi klaget 26.05.2025, krevde ny behandling 09.10.2025 — klageorganet opprettholdt 30.09.2025. Siden mars 2026 er det løpende innkrevinger, nå med Intrum som agent for TBRT. Vårt hovedargument: saksbehandlingen bryter forvaltningsloven (manglende utredning, feil begrunnelse), uforholdsmessig byrdefull mulktsats (TBRT har akseptert tiltaksplaner i 2018-2022-syklusen uten å ta i bruk tvangsmulkt), og at fysisk brannsikringsarbeid pågår i tiltaksplanen vi har levert.
 
 ## Tidslinje og filkart
 
-### 2018–2022: Opptakt (bakgrunn/tbrt/, bakgrunn/brann/)
+### 2018–2022: Opptakt (bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/, bakgrunn/brann/)
 
-- `bakgrunn/tbrt/2018-01-15_tbrt_tilsynsrapport_varsel_paalegg.md` — første tilsyn
-- `bakgrunn/tbrt/2018-03-06_tbrt_aksept_tiltaksplan.md` — første aksept
-- `bakgrunn/tbrt/`-mappa inneholder 22 filer med purringer og tiltaksplanakseptbrev 2018-2022. Hele serien er argument i dag: TBRT aksepterte våre tiltaksplaner år etter år uten å ta i bruk tvangsmulkt.
+- `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/2018-01-15_tbrt_tilsynsrapport_varsel_paalegg.md` — første tilsyn
+- `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/2018-03-06_tbrt_aksept_tiltaksplan.md` — første aksept
+- `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`-mappa inneholder 22 filer med purringer og tiltaksplanakseptbrev 2018-2022. Hele serien er argument i dag: TBRT aksepterte våre tiltaksplaner år etter år uten å ta i bruk tvangsmulkt.
 - `bakgrunn/brann/2018-09-14_tekøk_brannteknisk_vurdering_rev_c.md`, `2018-09-22_tekøk_brannteknisk_vurdering_rev_d.md` — grunnlaget for 2018-pålegget
 - `bakgrunn/brann/2022-10-14_vedtak_om_pålegg_og_varsel_om_ileggelse_av_tvangsm.md` — TBRTs vedtak om pålegg
 
@@ -67,7 +67,7 @@
 - `bakgrunn/brann/2026-09-30_intrum_konkursvarsel_s2026-026646.md`
 - `bakgrunn/brann/2026-09-30_intrum_konkursvarsel_tbrt.md`
 
-### 2026 oktober: DSB, Sivilombudet, strategianalyse
+### 2026 oktober: DSB, Sivilombudet, Intrum, bero-beslutning
 
 - `leveranser/brann/2026-10-06_sivilombudet_klage_tbrt_saksbehandling.md`
 - `leveranser/brann/2026-10-06_sivilombudet_klage/` — pakket versjon
@@ -85,6 +85,10 @@
 - `bakgrunn/2026-10-11_prompt_strategi_tvangsmulkt_dypdykk.md`
 - `bakgrunn/brann/2026-10-11_strategi_tvangsmulkt_samlet.md`
 - `bakgrunn/brann/strategi_tvangsmulkt_2026-10-11/` — strategiarbeidsmappe
+- `bakgrunn/brann/2026-10-12_tbrt_svar_midlertidig_stans_inndriving.md` — **TBRT innvilger bero til 15.01.2027**, Intrum skal instrueres
+- `bakgrunn/brann/2026-10-15_sivilombudet_svar_klage_tvangsmulkt.md` — **Sivilombudet avviser klagen** uten realitetsbehandling (sivilombudsloven § 10). DSB og TBRT-bero fortsatt aktive spor.
+- `bakgrunn/brann/2026-10-15_hrp_arbeidsnotat_brannsikring_rivefase_v01.md` — HRPs foreløpige arbeidsnotat om brannsikring under etasjevis rivefase
+- `bakgrunn/brann/2026-10-16_notat_tbrt_muntlig_signal_videre_utsettelse.md` — **Muntlig signal fra TBRT:** videre utsettelse eller betalingsplan kan være aktuelt ved deadline 15.01.2027, avhengig av prosjektstatus. Ikke bindende.
 
 ## Lovkilder (bakgrunn/lovverk/)
 
@@ -131,7 +135,7 @@ Argument om proporsjonalitet bruker regnskapstall. Primærkilder:
 
 - **Fisjon** (`bakgrunn/fisjon/`, task T172 arkivert, T174–T182 aktive) — motivasjonen for fisjonen er delvis kreditorbeskyttelse mot tvangsmulkt. Juridisk analyse 11.10 setter dette i system. Risiko for omstøtelse (dekningsloven) må vurderes dersom fisjon gjennomføres etter at konkursvarsel foreligger.
 - **Bankhenvendelsen** (`bank/`, `leveranser/2026-06-28_bankhenvendelse.md`) — nevner tvangsmulkt-situasjonen og at bankfinansieringen vil hjelpe å løse den.
-- **TBRT-historikk 2018-2022** (`bakgrunn/tbrt/`) — saksbehandlingskontinuiteten er del av vår argumentasjon om at mulkten er uforholdsmessig.
+- **TBRT-historikk 2018-2022** (`bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`) — saksbehandlingskontinuiteten er del av vår argumentasjon om at mulkten er uforholdsmessig.
 
 ## Aktive tasks
 

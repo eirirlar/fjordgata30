@@ -30,7 +30,7 @@ fjordgata30/
 │   ├── ai_feedback.txt        – redaksjonelle merknader fra prosjektleder til arbeidsrapport-utkast
 │   ├── nye/                   – innkommende filer som ikke er klassifisert ennå (opprettes ved behov)
 │   ├── brann/                 – all branndokumentasjon samlet: brannkonsept, brannprosjektering, brannteknisk vurdering, HRPs notat om brannsikring i gjennomføringsfasen, TBRTs pålegg og saksdokumenter i tvangsmulkt-saken (inkl. rammesøknad-vedlegg som underbygger klagen)
-│   ├── tbrt/                  – TBRT/TekØk-korrespondanse 2018–2022: tilsynsrapporter, purringer, tiltaksplanakseptbrev, TekØk-skjema. Historisk opptakt til tvangsmulkt-saken.
+│   │   └── arkiv/             – arkiverte brann-serier og -saker (f.eks. tbrt_tilsynssyklus_2018-2022/)
 │   ├── eiendom/               – historiske eiendomsdokumenter 2013–2015: matrikkel, grunnbok, kjøpekontrakt, prospekt, situasjonskart, skattetakst, IK-kontroll Trondheim Båtforening
 │   ├── fisjon/                – fisjonsanalysen 2026-10 (agenter, iterasjoner, review, rapport_final, dokumentavgift-research, MVA-justering)
 │   ├── okonomi/               – regnskapsdata (kw, kwe) 2019–2026
@@ -46,12 +46,13 @@ fjordgata30/
 
 **Prinsipper for når filer legges hvor:**
 
-- **`bakgrunn/`** = mottatt underlag + prosjekt-interne analyser og notater. Flat dato-prefix for toppnivå; tematiske undermapper (`brann/`, `tbrt/`, `eiendom/`, `fisjon/`, `okonomi/`, `stotte/`, `lovverk/`, `enova/`, `mva/`) for sammenhengende serier.
+- **`bakgrunn/`** = mottatt underlag + prosjekt-interne analyser og notater. Flat dato-prefix for toppnivå; tematiske undermapper (`brann/`, `eiendom/`, `fisjon/`, `okonomi/`, `stotte/`, `lovverk/`, `enova/`, `mva/`) for sammenhengende serier.
 - **`leveranser/`** = ferdige dokumenter vi sender ut (klager, søknader, brev, rapporter).
 - **`saker/`** = indekser for saker som krysser flere mapper. Peker inn i `bakgrunn/`, `leveranser/`, `bakgrunn/lovverk/`, osv. Dupliserer aldri filer.
+- **`<domene>/arkiv/<sak>/`** = arkiverte lukkede saker/serier innenfor et domene (f.eks. `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`). Speilet av TASKS→ARCHIVE-mønsteret. Se `docs/arbeidsregler/arkivering.md`.
 - **`forretningsplan/`, `bank/`, `stotte/` på rotnivå** = levende dokumentmasser med egen regenereringssyklus.
 
 **Branndokumentasjon – hvor ting ligger.** Det finnes ingen `brann/`-mappe på rotnivå. Skillet er:
 
-- **Mottatt underlag og saksdokumenter** ligger samlet i `bakgrunn/brann/` med dato-prefix: brannkonsept, brannprosjektering, brannteknisk vurdering fra TekØk, TBRTs pålegg og støttebrev, tvangsmulkt-saken (klage, bero-beslutning, saksfremlegg, møteprotokoller, orientering), samt rammesøknad-vedlegg (situasjonskart, planer, snitt, fasade, nabovarsel, ansvarsrett) som ble lagt ved klagen av 18.06.2026. Det viktigste for byggefasen er `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` (HRP). Eldre TBRT-korrespondanse (tilsynsrapporter, purringer, aksept av tiltaksplaner 2018–2022) er samlet i `bakgrunn/tbrt/`.
+- **Mottatt underlag og saksdokumenter** ligger samlet i `bakgrunn/brann/` med dato-prefix: brannkonsept, brannprosjektering, brannteknisk vurdering fra TekØk, TBRTs pålegg og støttebrev, tvangsmulkt-saken (klage, bero-beslutning, saksfremlegg, møteprotokoller, orientering), samt rammesøknad-vedlegg (situasjonskart, planer, snitt, fasade, nabovarsel, ansvarsrett) som ble lagt ved klagen av 18.06.2026. Det viktigste for byggefasen er `bakgrunn/brann/2026-02-26_notat_brannsikring_gjennomforingsfasen.txt` (HRP). Eldre TBRT-korrespondanse (tilsynsrapporter, purringer, aksept av tiltaksplaner 2018–2022) er samlet i `bakgrunn/brann/arkiv/tbrt_tilsynssyklus_2018-2022/`.
 - **Det vi selv produserer** legges i `leveranser/brann/`.

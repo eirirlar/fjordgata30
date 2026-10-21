@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1240" height="1753" viewBox="0 0 1240 1753">
+<title>Forenklet teknisk tegning – søylefundament</title>
+<desc>Redigerbar vektortegning rekonstruert fra håndskisse. Horisontale og vertikale streker er rettet opp. Mål er gjengitt som opplysninger fra skissen, ikke en fullstendig målfast geometrimodell.</desc>
+<style>
+  .line{fill:none;stroke:#20252a;stroke-width:2.2;stroke-linejoin:round;stroke-linecap:round}
+  .thin{fill:none;stroke:#343a40;stroke-width:1.35}
+  .heavy{fill:none;stroke:#20252a;stroke-width:3}
+  .dim{fill:none;stroke:#4b5563;stroke-width:1.65}
+  .dash{fill:none;stroke:#475569;stroke-width:1.6;stroke-dasharray:10 10}
+  .txt{font-family:Arial,Helvetica,sans-serif;fill:#1f2933;font-size:24px}
+  .small{font-size:18px}
+  .label{font-size:23px}
+  .note{font-size:25px}
+</style>
+<!-- Tegningsramme -->
+<g id="ramme" class="thin"><rect x="54" y="58" width="1120" height="1636"/></g>
+<!-- Tittelfelt -->
+<g id="tittelfelt">
+ <text x="614" y="92" text-anchor="middle" class="txt" style="font-size:26px">Sivilingeniørene Harboe og Leganger AS</text>
+ <text x="614" y="114" text-anchor="middle" class="txt" style="font-size:14px">Telefon: 73 99 28 30     firmapost@h-l.no</text>
+ <path class="thin" d="M54 125 H1174 M54 161 H1174 M54 198 H1174 M585 125 V198 M317 161 V198"/>
+ <text x="71" y="152" class="txt small">Prosjekt:</text>
+ <text x="171" y="153" class="txt">FJORDIT 30</text>
+ <text x="599" y="152" class="txt small">Tegning:</text>
+ <text x="696" y="153" class="txt" style="font-size:22px">SNITT BUNNPLATE V/SØYLE</text>
+ <text x="71" y="188" class="txt small">Dato:</text>
+ <text x="130" y="188" class="txt">21/4-26</text>
+ <text x="329" y="188" class="txt small">Mål:</text>
+ <text x="383" y="188" class="txt">1:20</text>
+ <text x="599" y="188" class="txt small">Sign:</text>
+ <text x="690" y="188" class="txt">OAS</text>
+</g>
+<!-- Skjematisk snitt: rettede horisontale og vertikale kanter -->
+<g id="snitt">
+ <!-- Terrenglinje -->
+ <path id="terrenglinje" class="line" d="M54 747 H1174"/>
+ <!-- Topp fundament / støpeskjøt -->
+ <path id="fundamenttopp" class="line" d="M54 879 H1174"/>
+ <!-- Fundament, snitt gjennom blokk -->
+ <rect id="fundament" x="290" y="879" width="590" height="119" class="heavy"/>
+ <!-- Søyle og forankring (skjematisk) -->
+ <path id="soyle" class="heavy" d="M536 748 V505 Q536 496 548 495 Q583 491 625 431 L625 748"/>
+ <path id="soyleavslutning" class="line" d="M548 495 Q587 501 625 431"/>
+ <path id="skjult_soyle" class="dash" d="M536 748 V879 M625 748 V879"/>
+ <!-- Søylenote med leder -->
+ <path class="line" d="M670 574 Q637 579 585 630"/>
+ <text x="683" y="580" class="txt note">SØYLE</text>
+ <!-- Prinsippskisse fugesbånd -->
+ <g id="fugesband">
+  <path class="heavy" d="M307 843 V909 M863 843 V909"/>
+  <rect x="327" y="860" width="13" height="16" fill="#20252a"/>
+  <rect x="834" y="860" width="13" height="16" fill="#20252a"/>
+  <path class="line" d="M914 885 Q956 906 959 956"/>
+  <path class="line" d="M914 885 L937 887 M914 885 L927 906"/>
+  <text x="948" y="1009" class="txt note">FUGEBLIKK +</text>
+  <text x="948" y="1044" class="txt note">SVELLEBÅND</text>
+ </g>
+ <text x="362" y="924" class="txt label">FUNDAMENT</text>
+ <text x="362" y="959" class="txt label">STØPES FØRST</text>
+</g>
+<!-- Lengde- og høydemål. Måltekst gjengitt fra skissen -->
+<g id="maal">
+ <path class="dim" d="M177 691 V1017 M165 747 L189 747 M165 879 L189 879 M165 998 L189 998"/>
+ <text x="157" y="723" class="txt label" transform="rotate(-90 157 723)">400</text>
+ <text x="157" y="960" class="txt label" transform="rotate(-90 157 960)">400</text>
+ <path class="dim" d="M290 1056 V1090 M880 1056 V1090 M290 1073 H880"/>
+ <path class="dim" d="M280 1063 L300 1083 M870 1063 L890 1083"/>
+ <text x="585" y="1114" class="txt note" text-anchor="middle">2000 × 2000</text>
+</g>
+<!-- Materialspesifikasjoner -->
+<g id="materialnotater">
+ <text x="94" y="1338" class="txt note">BETONG B45 MF40 – VANNTETT</text>
+ <text x="94" y="1400" class="txt note">ARMERING 150 kg/m³</text>
+</g>
+</svg>
