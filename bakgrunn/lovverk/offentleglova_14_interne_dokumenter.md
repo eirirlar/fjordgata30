@@ -1,28 +1,31 @@
-# Offentleglova § 14 – Interne dokument
+# Offentleglova § 14 – Dokument utarbeidde for eiga saksførebuing (organinterne dokument)
 
 **Lov:** Lov om rett til innsyn i dokument i offentleg verksemd av 19. mai 2006 nr. 16 (offentleglova)\
-**Kilde:** <https://lovdata.no/lov/2006-05-19-16/%C2%A714>\
-**Hentet:** 11. oktober 2026 (via WebSearch/lovdata.no + UDI-retningslinje 2016-006, T163 iterasjon 02)\
-**NB:** Lovdata blokkerer direkte curl-tilgang. Verbatim tekst bekreftet mot UDI 2016-006 og WebSearch-resultat.
+**Kilde:** <https://lovdata.no/NL/lov/2006-05-19-16/§14>\
+**Hentet:** 10. november 2026 via curl + pandoc (bekreftet mot NL — gjeldende konsoliderte lovversjon)
 
 ---
 
 ## Lovtekst (verbatim)
 
-**§ 14. (Interne dokument).**
+**§ 14. Dokument utarbeidde for eiga saksførebuing (organinterne dokument)**
 
 Eit organ kan gjere unntak frå innsyn for dokument som organet har utarbeidd for si eiga interne saksførebuing.
 
-Andre organ sine interne dokument er unnatekne frå innsyn når dei er utarbeidde av og for eit underordna organ, eit overordna organ, eit anna organ, eller eit departement eller Statsministerens kontor. Unntaket gjeld ikkje:
+Første ledd gjeld ikkje:
 
-a. dokument som inneheld generelle retningslinjer for saksbehandlinga til organet,
+a. dokument eller del av dokument som inneheld den endelege avgjerda til organet i ei sak,
 
-b. dokument som vert lagt til grunn for den utanrettslege avgjerda i saka,
+b. generelle retningslinjer for saksbehandlinga til organet,
 
-c. dokument i saker der det vert gjort unntak etter § 15 og § 16,
+c. føredrag til saker som er avgjorde av Kongen i statsråd, og
 
-d. innstillingar og tilrådingar som gjeld privates rettar og plikter.
+d. presedenskort og liknande, men ikkje dersom kortet gjengir organinterne vurderingar.
+
+Kongen kan gi forskrift om at det ikkje skal kunne gjerast unntak etter første ledd i paragrafen her for bestemte dokument i bestemte statlege eller statleg tilknytte organ.
 
 ---
 
-**Prosjektrelevans (Fjordgata 30 / TBRT-sak 24/1007):** TBRT kan prøve å avslå innsyn i interne arbeidsnotater etter § 14 første ledd. Unntakene i bokstav b og d er viktige: møteprotokoll fra klageorganets behandling og eventuelle habilitetsnotater er enten grunnlag for en utvendig avgjørelse (bokstav b) eller innstilling/tilråding som angår privates rettigheter (bokstav d). Faktiske opplysninger kan heller ikke unntas etter § 14 tredje ledd (fvl. § 18 c gjelder parallelt for faktaopplysninger). Se agent_02_prosessguerilla_v2.md underpunkt 9.
+## Historikk denne fila
+
+Fila inneholdt tidligere (hentet 11.10.2026 via WebSearch/UDI-retningslinje) en helt feil tekst for andre ledd — et oppspinn med bokstavene a-d som beskrev noe annet enn gjeldende lov. Verifisert og korrigert 10.11.2026 via curl mot lovdata.no/NL (gjeldende versjon). Lærdom: WebSearch-baserte lovsitater må alltid verifiseres mot direkte Lovdata-kilde.

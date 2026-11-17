@@ -1,26 +1,31 @@
 # Offentleglova § 32 – Klage
 
 **Lov:** Lov om rett til innsyn i dokument i offentleg verksemd av 19. mai 2006 nr. 16 (offentleglova)\
-**Kilde:** <https://lovdata.no/lov/2006-05-19-16/%C2%A732>\
-**Hentet:** 11. oktober 2026 (via WebSearch/lovdata.no, T163 iterasjon 02)\
-**NB:** Lovdata blokkerer direkte curl-tilgang. Verbatim tekst bekreftet mot WebSearch-resultat og UDI-retningslinje 2016-006.
+**Kilde:** <https://lovdata.no/NL/lov/2006-05-19-16>\
+**Hentet:** 10. november 2026 via curl + pandoc (gjeldende konsoliderte versjon)
 
 ---
 
-## Lovtekst (verbatim)
+## Lovtekst (verbatim, nynorsk)
 
-**§ 32. (Klage).**
+**§ 32. Klage**
 
-Avslag på krav om innsyn kan påklagast til det forvaltningsorganet som er nærmast overordna det organet som har gjort avslaget.
+Avgjerder etter denne lova kan påklagast til det forvaltningsorganet som er nærmast overordna det forvaltningsorganet som har gjort vedtaket. Avgjerder om å gi innsyn kan likevel ikkje påklagast. Statsforvaltaren er klageinstans for vedtak i kommunalt eller fylkeskommunalt organ. Kongen kan gi forskrift om kva organ som skal vere klageinstans for avgjerder tekne av statlege organ. Kongen kan også gi forskrift om kva organ som skal vere klageinstans for avgjerder av rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d. Når det blir klaga på ei avgjerd frå eit departement, skal departementet opplyse klagaren om at retten til å klage til Sivilombodet ikkje gjeld for avgjerder gjorde av Kongen i statsråd.
 
-Statsforvaltaren er klageinstans for vedtak gjort av kommunar og fylkeskommunar, og for vedtak gjort av andre forvaltningsorgan som ikkje har eit overordna forvaltningsorgan i klagesaker.
+Dersom den som har kravd innsyn, ikkje har fått svar innan fem arbeidsdagar etter at organet mottok kravet, skal dette reknast som eit avslag som kan påklagast etter første ledd. Dette gjeld likevel ikkje når Kongen i statsråd er klageorgan. Regelen i første punktum gjeld heller ikkje i slike tilfelle som fell inn under § 13 tredje ledd, og når spørsmål om nedgradering må leggjast fram for eit anna organ.
 
-Kongen kan fastsetje at klagenemnder, departement eller Statsforvaltaren skal vere klageinstans for vedtak gjort av andre forvaltningsorgan.
+Klaga skal førebuast og avgjerast utan ugrunna opphald. Elles gjeld reglane i forvaltningsloven kapittel VI så langt dei passar.
 
-Fristen for å klage er 3 veker etter at meldinga om avslag er motteke, jf. forvaltningsloven § 29.
+Vedtaket til klageinstansen er særleg tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13 overfor kommunar og fylkeskommunar og rettssubjekt som er omfatta av § 2 første ledd bokstavane b til d.
 
-Klagen vert behandla etter reglane i forvaltningsloven. Dersom Statsforvaltaren er klageinstans, gjeld reglane om klage i forvaltningsloven § 33.
+*Endra ved lover 7. mai 2021 nr. 34 (ikr. 1. juni 2021) og 20. des. 2022 nr. 115.*
 
 ---
 
-**Prosjektrelevans (Fjordgata 30 / TBRT-sak 24/1007):** Dersom TBRT avslår innsynskrav, er Statsforvalteren klageinstans (TBRT er et IKS — som interkommunalt selskap er det ikke underordnet et kommunalt klageorgan, og Statsforvalteren faller inn under «andre forvaltningsorgan som ikkje har eit overordna forvaltningsorgan i klagesaker»). Se agent_02_prosessguerilla_v2.md underpunkt 9.
+## Prosjektrelevans
+
+Hjemmel for klage på DSBs innsynsavslag 9. november 2026 (sak 2020/9148, dok. 418). Klageinstans er Justis- og beredskapsdepartementet, slik avslaget opplyser. Tredje ledd andre punktum gjør forvaltningsloven kapittel VI gjeldende, blant annet § 29 (klagefrist), § 32 (klagen sendes organet som traff vedtaket) og § 33 (underinstansens behandling).
+
+## Historikk denne fila
+
+Fila inneholdt tidligere (hentet 11.10.2026 via WebSearch) en tekst som ikke stemte med gjeldende § 32: blant annet en oppdiktet egen fristregel og en feil regel om Statsforvaltaren som klageinstans, og den manglet henvisningen til forvaltningsloven kapittel VI. Erstattet 10.11.2026 med verbatim tekst hentet via curl fra lovdata.no/NL. Den tidligere prosjektrelevans-noten om at Statsforvaltaren er klageinstans for TBRT bygde på den feile teksten og er fjernet. Hvem som er klageinstans for et interkommunalt selskap må vurderes på nytt ved behov.
